@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672120">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-05T15:38:39</Created>
+	<LastChange>2012-03-12T14:34:08</LastChange></Metadata>
+	<Page imageFilename="00672120.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1286" y="86"/>
+	<Point x="1375" y="86"/>
+	<Point x="1375" y="154"/>
+	<Point x="1286" y="154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="565" y="169"/>
+	<Point x="2127" y="169"/>
+	<Point x="2127" y="820"/>
+	<Point x="622" y="820"/>
+	<Point x="613" y="836"/>
+	<Point x="566" y="836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kentmann. Nomenclat. fol. 31. Gloopetram majorem,
+Ein groe Steinzung. Wagner. Hi. Nat. Hel. 309.
+Gloopetram dentatis aut ſerratis marginibus. Gen.
+Fig. Lap. 163. Nec dubium nobis movet ullum co-
+loris varietas, prout enim in ſolo fuére depoti, colo-
+rati eruuntur ; ex inſula Melita omnes ferè ſunt
+eburneinitoris, candidi, vel ſubﬂavi : Helvetici, Lu-
+neburgenſes, &amp; Anglici anthracini nitoris, gangrænam
+pa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="576" y="842"/>
+	<Point x="622" y="842"/>
+	<Point x="635" y="828"/>
+	<Point x="1832" y="828"/>
+	<Point x="2131" y="827"/>
+	<Point x="2131" y="1527"/>
+	<Point x="1474" y="1527"/>
+	<Point x="1387" y="1528"/>
+	<Point x="645" y="1528"/>
+	<Point x="636" y="1550"/>
+	<Point x="573" y="1548"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dens Piſcis maximus orâ non ſerratâ
+Carolinens ; an Carchariæ t aerere non aude-
+mus, ſed hoc quidem, quòd idem t Dens hic folis
+ex Carolina Americ adveus, Cl. D. Jacobi Petiver
+Pharmacopei Londinens donum, cum Gloopetra
+maxima cuneata Cantianorum, ve anthracina lvi qua-
+tuor unciarum longitudine , mucrone obtuſo. Luid. n.
+1259. Carchariæ dentem non êe ſuſpicamur inde,
+quoniam huic Piſci omnes ſunt ſerrati.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r6" type="other">
+	<Coords>
+	<Point x="1083" y="87"/>
+	<Point x="1274" y="87"/>
+	<Point x="1274" y="165"/>
+	<Point x="1083" y="165"/></Coords></GraphicRegion>
+	<GraphicRegion id="r7" type="other">
+	<Coords>
+	<Point x="1386" y="78"/>
+	<Point x="1565" y="78"/>
+	<Point x="1565" y="166"/>
+	<Point x="1386" y="166"/></Coords></GraphicRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="572" y="1568"/>
+	<Point x="647" y="1568"/>
+	<Point x="690" y="1534"/>
+	<Point x="2134" y="1534"/>
+	<Point x="2134" y="2592"/>
+	<Point x="2084" y="2592"/>
+	<Point x="2010" y="2594"/>
+	<Point x="2014" y="2617"/>
+	<Point x="572" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dens Piſcis triangularis in acumen de-
+nens Luneburgens ; nec hunc determinare,
+cujusnam t Piſcis, præſumimus, monentes Hio-
+riæ Naturalis modernæ, ſpeciatim marinæ, cultores,
+ut Familiæ noræ quoad genera, ſpecies, &amp; partes
+ﬁngulas deſcribendæ majorem, quám haenus, na-
+vent operam, velut Reliquiæ Diluvianæ, quæ ex na-
+tatilibus Animantibus in omni Terræ angulo ſuper-
+ſunt,clariùs cognoſcantur. Interim cum Dente hoc,
+utut ����, conferri debet Gloopetra rorum corvi-
+num referens auriculata, ve Gracirhynchus vulgaris
+reus, appendiculá ad radicem utrinque donatus, Cramp-
+one Luid. n. 1260. Appendiculæ hæ, quæ auricula-
+rum ſpeciem præbent,in cenſum venire non debent,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="2076" y="2600"/>
+	<Point x="2076" y="2659"/>
+	<Point x="2134" y="2659"/>
+	<Point x="2134" y="2596"/>
+	<Point x="2100" y="2596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667917">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:42:52</Created>
+	<LastChange>2012-02-10T09:52:21</LastChange></Metadata>
+	<Page imageFilename="00667917.tif" imageWidth="2912" imageHeight="4368">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="395" y="1169"/>
+	<Point x="2586" y="1169"/>
+	<Point x="2586" y="3434"/>
+	<Point x="395" y="3434"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="1291" y="3586"/>
+	<Point x="1291" y="3646"/>
+	<Point x="1717" y="3646"/>
+	<Point x="1717" y="3586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HAWFINCH � �</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="1413" y="3672"/>
+	<Point x="1413" y="3717"/>
+	<Point x="1594" y="3717"/>
+	<Point x="1594" y="3672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 69.</Unicode></TextEquiv></TextRegion></Page></PcGts>

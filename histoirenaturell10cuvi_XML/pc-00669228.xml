@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669228">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:39:58</Created>
+	<LastChange>2012-03-12T14:33:50</LastChange></Metadata>
+	<Page imageFilename="00669228.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="349" y="274"/>
+	<Point x="1754" y="274"/>
+	<Point x="1754" y="1885"/>
+	<Point x="349" y="1885"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa forme est à peu près celle de l’acanthure chi‐
+rurgien. La hauteur de son ovale est une fois et deux
+tiers dans sa longueur, et deux fois et un tiers dans
+la longueur totale. Le proﬁl descend obliquement
+avec une très-légère convexité, devenant un peu plus
+sensible au-devant de l’œil. La longueur de la tête,
+depuis la bouche jusqu’à l’ouïe, est une fois et demie
+dans sa hauteur, prise obliquement de la bouche à la
+nuque. Il y a deux fois le diamètre de l’œil entre cet or‐
+gane et la bouche, et un et demi entre l’œil et la nuque.
+Les lèvres, les dents, les pièces operculaires, sont
+absolument comme dans les acanthures. La première
+épine dorsale est fort courte, et il y en a une couchée
+au-devant d’elle et dirigée en avant. La ventrale s’at‐
+tache sensiblement plus en arrière que le bord posté‐
+rieur de la base de la pectorale, qu’elle n’égale pas
+en longueur. La dorsale et l’anale gardent à peu près
+la même hauteur du cinquième environ de celle du
+corps, sans former d’angle ou d’autre saillie en ar‐
+rière; la caudale est presque coupée carrément, à
+peine son bord extérieur est-il légèrement concave.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="536" y="1910"/>
+	<Point x="1581" y="1910"/>
+	<Point x="1581" y="1997"/>
+	<Point x="536" y="1997"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 5; D. 8/22; A. 3/21; C. 16; P. 16; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="362" y="2034"/>
+	<Point x="1757" y="2034"/>
+	<Point x="1757" y="2674"/>
+	<Point x="362" y="2674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La tête et le corps sont garnis d’une âpreté ﬁne.
+La ligne latérale est en avant au cinquième de la
+hauteur, et suit partout la courbure du dos; la
+série des lames tranchantes est au contraire hori‐
+zontale, et occupe en avant de la caudale une lon‐
+gueur un peu supérieure à celle de cette nageoire,
+et qui est du cinquième de la longueur totale; ces
+lames, au nombre de six, vont en augmentant de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="308" y="161"/>
+	<Point x="477" y="161"/>
+	<Point x="477" y="256"/>
+	<Point x="308" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>296</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="761" y="161"/>
+	<Point x="1285" y="161"/>
+	<Point x="1285" y="256"/>
+	<Point x="761" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

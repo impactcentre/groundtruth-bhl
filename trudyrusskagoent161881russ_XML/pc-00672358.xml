@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672358">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:19:07</Created>
+	<LastChange>2012-02-10T09:54:34</LastChange></Metadata>
+	<Page imageFilename="00672358.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1014" y="41"/>
+	<Point x="1330" y="41"/>
+	<Point x="1330" y="110"/>
+	<Point x="1014" y="110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 164 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="299" y="180"/>
+	<Point x="2046" y="180"/>
+	<Point x="2046" y="585"/>
+	<Point x="299" y="585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>jedoch auch auf der Unterseite zu erkennen sind. Die Hinter-
+ﬂügel sind etwas seidenglänzend weiss, selten vor dem Hinter-
+rand in schmutziges Blassgelb übergehend; sie opalisiren auf
+der Mitte der obern Seite seltner und in geringerem Umfang
+als auf der untern.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="292" y="592"/>
+	<Point x="2046" y="592"/>
+	<Point x="2046" y="1008"/>
+	<Point x="292" y="1008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Stirn ist bei dieser Art wie bei Forﬁcellus und Palu-
+della mit einer kurzen, kegelförmigen Auftreibung versehen,
+deren Anwesenheit man auch ohne Abschuppung erkennt. An
+einzelnen Exemplaren ist aber diese Auftreibung nur beulen-
+förmig.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="303" y="1021"/>
+	<Point x="2046" y="1021"/>
+	<Point x="2046" y="1173"/>
+	<Point x="303" y="1173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sowohl beim ♂ wie beim ♀ habe ich die Haftborste ein-
+fach gefunden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="285" y="1182"/>
+	<Point x="2039" y="1182"/>
+	<Point x="2039" y="2760"/>
+	<Point x="285" y="2760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Autoren der Artbenennuugen Sacchari und Saccharo-
+phagus sind sichtlich über den Frabricischen Namen Saccha-
+ralis in Zweifel gewesen, nicht so Guenée, welcher erklärt,
+dass das Zusammengehören seines Borer saccharellus mit Py-
+ralis saccharalis F. evident sei, und dass «sa (des Fabr.)
+description s'applique parfaitement à tous les états de notre
+Borer». Für mich ist dies durchaus nicht evident. Da es sicher
+ist, dass es mehrere Zuckerrohrmotten giebt, so werden wir
+die so unvollständig beschriebene Fabricische Art — oder Arten,
+da «alae anticae interdum immaculatae» recht gut auf eine zweite
+gehen kann — kaum mit Bestimmtheit kennen lernen. Guenée's
+Borer kann nicht meine Obliteratella sein; denn bei jenem
+sollen auf der «discocellulaire deux autres points plus gros
+obliquement superposés» und «les ailes inférieures rayonnées de
+noirâtre» sein, während meine Art ohne Ausnahme einen ein-
+fachen Queraderpunkt und keine verdunkelte Hinterﬂügeladern
+besitzt. Vielleicht erfährt man über den Borer saccharellus
+etwas Genaueres bei «W. Bojer, qui a publié sur le Borer
+un volume entier» *). — Vermuthlich wird der Name Oblitera-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="276" y="2885"/>
+	<Point x="2024" y="2885"/>
+	<Point x="2024" y="3030"/>
+	<Point x="276" y="3030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Diese Schrift wird in Hagen's Biblioth. entomol. nicht erwähnt. —
+Im Ent. Monthly Mag. 1880 p. 72 heisst es: Herr Kirby machte auf die Be-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="289" y="2814"/>
+	<Point x="887" y="2814"/>
+	<Point x="887" y="2844"/>
+	<Point x="289" y="2844"/></Coords></SeparatorRegion></Page></PcGts>

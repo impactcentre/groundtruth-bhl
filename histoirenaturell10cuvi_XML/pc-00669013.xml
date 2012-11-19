@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669013">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:13:55</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669013.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="125" y="275"/>
+	<Point x="1490" y="275"/>
+	<Point x="1490" y="1121"/>
+	<Point x="125" y="1121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais elle a les premières moins petites à proportion;
+son dos paraît légèrement teint de roussâtre clair
+jusqu’au milieu de la hauteur du corps, dont tout le
+reste est d’une belle couleur d’argent moirée comme
+le nacre de perle; une tache d’un noir profond
+occupe la moitié supérieure de la dorsale depuis le
+deuxième jusqu’au cinquième rayon, il y a un poin‐
+tillé brun sur le bout antérieur des sous-orbitaires; la
+caudale est jaunâtre; les autres nageoires transpa‐
+rentes. Sa hauteur est deux fois et un tiers ou deux
+fois et un quart dans sa longueur totale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="481" y="1132"/>
+	<Point x="1193" y="1132"/>
+	<Point x="1193" y="1220"/>
+	<Point x="481" y="1220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 7/17 ou 8/16; A. 3/14, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="65" y="1236"/>
+	<Point x="1508" y="1236"/>
+	<Point x="1505" y="2070"/>
+	<Point x="316" y="2071"/>
+	<Point x="315" y="2114"/>
+	<Point x="230" y="2114"/>
+	<Point x="207" y="2100"/>
+	<Point x="58" y="2100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Leschenault nous en a envoyé de Pon-
+dichéry un individu de deux pouces et demi
+de longueur et dit qu’il se pêche toute l’année
+dans cette rade, qu’il s’y nomme kotou-karé,
+qu’il parvient à une longueur de cinq pouces
+et qu’il est bon à manger. M. Dussumier nous
+en a apporté de la côte de Malabar plusieurs
+de quatre pouces et davantage, et M. Ruppel
+nous en a donné de semblables de la mer
+Rouge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="62" y="2109"/>
+	<Point x="210" y="2107"/>
+	<Point x="230" y="2119"/>
+	<Point x="330" y="2120"/>
+	<Point x="329" y="2088"/>
+	<Point x="1483" y="2087"/>
+	<Point x="1482" y="2533"/>
+	<Point x="67" y="2533"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est manifestement le goomorah-karah de
+Russel, pl. 61, qui donne cependant une épine
+de plus et un rayon mou de moins à la dor‐
+sale. Selon lui, dans le frais, le dos est d’un
+jaune verdâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="203" y="2583"/>
+	<Point x="1486" y="2583"/>
+	<Point x="1486" y="2668"/>
+	<Point x="1336" y="2668"/>
+	<Point x="1324" y="2659"/>
+	<Point x="1157" y="2659"/>
+	<Point x="1156" y="2668"/>
+	<Point x="203" y="2668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les détails anatomiques des viscères de cet equula</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="496" y="185"/>
+	<Point x="1044" y="185"/>
+	<Point x="1044" y="266"/>
+	<Point x="496" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1350" y="166"/>
+	<Point x="1469" y="166"/>
+	<Point x="1469" y="260"/>
+	<Point x="1350" y="260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>81</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="192" y="2676"/>
+	<Point x="192" y="2737"/>
+	<Point x="305" y="2737"/>
+	<Point x="305" y="2676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="1185" y="2665"/>
+	<Point x="1268" y="2665"/>
+	<Point x="1268" y="2744"/>
+	<Point x="1185" y="2744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6</Unicode></TextEquiv></TextRegion></Page></PcGts>

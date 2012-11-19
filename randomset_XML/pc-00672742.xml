@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672742">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T23:16:42</Created>
+	<LastChange>2012-03-12T14:34:25</LastChange></Metadata>
+	<Page imageFilename="00672742.tif" imageWidth="2148" imageHeight="3310">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1678" y="227"/>
+	<Point x="1717" y="227"/>
+	<Point x="1717" y="279"/>
+	<Point x="1678" y="279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="334" y="389"/>
+	<Point x="1772" y="389"/>
+	<Point x="1772" y="478"/>
+	<Point x="1096" y="473"/>
+	<Point x="1097" y="542"/>
+	<Point x="334" y="542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la loro inferiorità nella lotta contro tipi meglio adat-
+tati alle condizioni presenti.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="326" y="549"/>
+	<Point x="1771" y="549"/>
+	<Point x="1771" y="1091"/>
+	<Point x="326" y="1091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lo studio di questi fenomeni (apparentemente aber-
+ranti) ha dimostrato l'insuﬃcienza delle vedute del
+Griesebach, ed ha condotto a pensare che le vicende
+storiche, delle singole ﬂore, ed i mutamenti geologici
+subiti dalle regioni che hanno attraversate e successi-
+vamente occupate abbiano inﬂuito sulla loro composi-
+zione attuale forse più profondamente del clima.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="385" y="1183"/>
+	<Point x="385" y="1096"/>
+	<Point x="1765" y="1098"/>
+	<Point x="1763" y="1405"/>
+	<Point x="933" y="1402"/>
+	<Point x="901" y="1477"/>
+	<Point x="317" y="1477"/>
+	<Point x="317" y="1186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Non fu quindi più possibile concepire il dominio
+mediterraneo nel senso del Griesebach e si dovettero
+assegnarvi più ampi conﬁni, onde evitare il frazio-
+namento di società vegetali che hanno in comune la
+origine e lo sviluppo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="382" y="1573"/>
+	<Point x="379" y="1485"/>
+	<Point x="1759" y="1489"/>
+	<Point x="1758" y="2107"/>
+	<Point x="838" y="2101"/>
+	<Point x="833" y="2166"/>
+	<Point x="314" y="2166"/>
+	<Point x="314" y="1573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Secondo questi nuovi concetti il dominio Mediter-
+raneo si allarga a settentrione sino alle foreste del-
+l'Europa centrale: si mescola a greco col dominio
+delle steppe Eurasiatiche: ad oriente viene in con-
+tatto e si confonde gradatamente attraverso la Per-
+sia, l'Afghanistan ed il Belucistan colla vegetazione
+del versante occidentale dell'Himalaia; ed a mezzo-
+giorno sfuma senza quasi conﬁni determinati nel de-
+serto Siro-Africano.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="306" y="2183"/>
+	<Point x="1750" y="2183"/>
+	<Point x="1750" y="2656"/>
+	<Point x="476" y="2651"/>
+	<Point x="478" y="2706"/>
+	<Point x="306" y="2706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elementi mediterranei si trovano ancora alle Azor-
+re ed alle Canarie: ma queste estreme propaggini
+della Flora nostra vi son cosi soprafatte da altri ele-
+menti, che par giusto l'escludere questi arcipelaghi
+dal dominio mediterraneo, il quale ad ogni modo nella
+sua tipica purezza spicca qui sulle rive del mare
+latino.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="361" y="2816"/>
+	<Point x="359" y="2725"/>
+	<Point x="1739" y="2727"/>
+	<Point x="1738" y="2968"/>
+	<Point x="1548" y="2968"/>
+	<Point x="1537" y="2953"/>
+	<Point x="322" y="2950"/>
+	<Point x="300" y="2950"/>
+	<Point x="299" y="2822"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il clima mediterraneo è segnatamente nella sua
+parte occidentale caratterizzato dalla mitezza dell'in-
+verno, e dalla aridità della state: cosicchè per la</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="339" y="302"/>
+	<Point x="336" y="324"/>
+	<Point x="1775" y="348"/>
+	<Point x="1771" y="320"/>
+	<Point x="1474" y="316"/></Coords></SeparatorRegion></Page></PcGts>

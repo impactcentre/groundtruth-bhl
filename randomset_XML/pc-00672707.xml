@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672707">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T17:02:09</Created>
+	<LastChange>2012-02-10T10:29:44</LastChange></Metadata>
+	<Page imageFilename="00672707.tif" imageWidth="2450" imageHeight="4016">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r19" index="8"/>
+	<RegionRefIndexed regionRef="r21" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r23" index="12"/>
+	<RegionRefIndexed regionRef="r25" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="307" y="140"/>
+	<Point x="471" y="140"/>
+	<Point x="471" y="223"/>
+	<Point x="307" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>424</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="978" y="128"/>
+	<Point x="1659" y="128"/>
+	<Point x="1659" y="221"/>
+	<Point x="978" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>APPENDICES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="300" y="300"/>
+	<Point x="1109" y="300"/>
+	<Point x="1109" y="385"/>
+	<Point x="300" y="385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>88. MERRIAM, C. HART:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="295" y="961"/>
+	<Point x="1092" y="961"/>
+	<Point x="1092" y="1033"/>
+	<Point x="295" y="1033"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>89. MERRIAM C. HART:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="516" y="1047"/>
+	<Point x="2338" y="1047"/>
+	<Point x="2338" y="1240"/>
+	<Point x="516" y="1240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“John James Audubon,” Bird Lore, vol. 9, pp. 3-5.
+New York, 1907.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="292" y="1357"/>
+	<Point x="1042" y="1357"/>
+	<Point x="1042" y="1442"/>
+	<Point x="292" y="1442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>89a. STONE, WITMER:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="521" y="1454"/>
+	<Point x="2345" y="1454"/>
+	<Point x="2345" y="1730"/>
+	<Point x="521" y="1730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“John James Audubon,” in Leading American Men
+of Science, ed. by David Starr Jordan, pp. 71-87. New
+York, 1910.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="283" y="1842"/>
+	<Point x="1309" y="1842"/>
+	<Point x="1309" y="1928"/>
+	<Point x="283" y="1928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90. BAKEWELL, REV. GORDON:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="814" y="2702"/>
+	<Point x="1809" y="2702"/>
+	<Point x="1809" y="2797"/>
+	<Point x="814" y="2797"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>i. Reviews and Criticism</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="276" y="2897"/>
+	<Point x="1402" y="2897"/>
+	<Point x="1402" y="2985"/>
+	<Point x="276" y="2985"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>91. (ANON.) BREWSTER, DAVID:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="2340" y="392"/>
+	<Point x="2340" y="571"/>
+	<Point x="1892" y="571"/>
+	<Point x="1892" y="570"/>
+	<Point x="1353" y="570"/>
+	<Point x="1353" y="569"/>
+	<Point x="815" y="569"/>
+	<Point x="815" y="568"/>
+	<Point x="300" y="568"/>
+	<Point x="300" y="392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“John James Audubon,” Popular Science Monthly,
+vol. lxx, pp. 301-303, with portrait. New York, 1907.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="813" y="570"/>
+	<Point x="813" y="571"/>
+	<Point x="1351" y="571"/>
+	<Point x="1351" y="572"/>
+	<Point x="1890" y="572"/>
+	<Point x="1890" y="573"/>
+	<Point x="2340" y="573"/>
+	<Point x="2340" y="859"/>
+	<Point x="300" y="859"/>
+	<Point x="300" y="570"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Delivered on the occasion of the unveiling of marble busts
+of ten eminent scientiﬁc men at the American Museum of Nat-
+ural History, December 29, 1906.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="2338" y="1935"/>
+	<Point x="2338" y="2206"/>
+	<Point x="276" y="2206"/>
+	<Point x="276" y="1935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“Reminiscences of John James Audubon.” Publica-
+tions of the Louisiana Historical Society, vol. v, pp.
+31-41. New Orleans, 1911.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="2338" y="2208"/>
+	<Point x="2338" y="2597"/>
+	<Point x="276" y="2597"/>
+	<Point x="276" y="2208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An address delivered before the Louisiana Historical So-
+ciety, November 16, 1910. Aﬃrms, on the testimony of Ber-
+nard de Marigny, that Audubon was a Louisianian by birth.
+See Vol. I, p. 69 of the present work.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="2333" y="2997"/>
+	<Point x="2333" y="3261"/>
+	<Point x="271" y="3261"/>
+	<Point x="271" y="2997"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“Mr. Audubon's Ornithology of the United States
+of America,” Edinburgh Journal of Science, vol. vi, p.
+184. Edinburgh, 1826-1827.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="2333" y="3263"/>
+	<Point x="2333" y="3642"/>
+	<Point x="271" y="3642"/>
+	<Point x="271" y="3263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This highly commendatory paper by David Brewster, and
+that by Robert Jameson, which follows, gives the ﬁrst formal
+announcement of Audubon's work in the scientiﬁc journals of
+the day.</Unicode></TextEquiv></TextRegion></Page></PcGts>

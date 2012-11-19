@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668228">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T20:16:40</Created>
+	<LastChange>2012-02-10T09:52:45</LastChange></Metadata>
+	<Page imageFilename="00668228.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r22" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r26" index="8"/>
+	<RegionRefIndexed regionRef="r32" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r33" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="240" y="190"/>
+	<Point x="330" y="190"/>
+	<Point x="330" y="245"/>
+	<Point x="240" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>204</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1042" y="180"/>
+	<Point x="1300" y="180"/>
+	<Point x="1300" y="240"/>
+	<Point x="1042" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>APPENDIX</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="238" y="307"/>
+	<Point x="2107" y="307"/>
+	<Point x="2107" y="745"/>
+	<Point x="238" y="745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A pair of Redstarts built at Spiggie (Shetlands), in May, 1901; two were
+observed in October, 1903, and one in September, 1906, at the Skerry Vore Light-
+house (Outer Hebrides). Messrs. Witherby and Ticehurst record the following
+occurrences of the Black Redstart in Scotland:—Solway area, one November 17th,
+1899; Aberdeen, one March 20th, 1900; Moray, one October 30th, 1903; Flannan
+Isles—a female June 27th, 1905, and others on November 3rd, 7th, and 8th;
+Orkney, a male found dead, November 19th, 1905, and one seen near Glasgow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="578" y="1119"/>
+	<Point x="1773" y="1119"/>
+	<Point x="1773" y="1192"/>
+	<Point x="578" y="1192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WHITE-SPOTTED BLUETHROAT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="895" y="1259"/>
+	<Point x="1445" y="1259"/>
+	<Point x="1445" y="1316"/>
+	<Point x="895" y="1316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cyanecula wolﬁ, BREHM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="242" y="1395"/>
+	<Point x="359" y="1395"/>
+	<Point x="359" y="1530"/>
+	<Point x="242" y="1530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="373" y="1378"/>
+	<Point x="2102" y="1378"/>
+	<Point x="2102" y="1516"/>
+	<Point x="373" y="1516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>male was picked up close to Dungeness Lighthouse, on October 6th, 1902;
+a second was obtained near Hastings, on September 1st, 1905.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="216" y="1657"/>
+	<Point x="2128" y="1657"/>
+	<Point x="2128" y="1864"/>
+	<Point x="216" y="1864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Red-spotted Bluethroat is now a regular visitor on migration to the
+coast of Norfolk; it visited Lincolnshire in 1899, 1900, 1903, 1904; Sussex in
+1903; Surrey 1904; Yorkshire 1903; Shetlands 1905, 1906.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="666" y="2216"/>
+	<Point x="1654" y="2216"/>
+	<Point x="1654" y="2304"/>
+	<Point x="666" y="2304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GREATER NIGHTINGALE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="857" y="2366"/>
+	<Point x="1483" y="2366"/>
+	<Point x="1483" y="2428"/>
+	<Point x="857" y="2428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Daulias philomela, BECHST.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="373" y="2495"/>
+	<Point x="2100" y="2495"/>
+	<Point x="2100" y="2688"/>
+	<Point x="373" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>male was obtained at Smeeth, in Kent, on October 22nd, 1904; believed to
+be imported. The common Nightingale nested in Yorkshire in 1902 and
+1904.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="1047" y="854"/>
+	<Point x="1285" y="854"/>
+	<Point x="1285" y="888"/>
+	<Point x="1047" y="888"/></Coords></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="228" y="980"/>
+	<Point x="764" y="980"/>
+	<Point x="764" y="1045"/>
+	<Point x="228" y="1045"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—TURDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1504" y="973"/>
+	<Point x="2102" y="973"/>
+	<Point x="2102" y="1042"/>
+	<Point x="1504" y="1042"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—TURDINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r23">
+	<Coords>
+	<Point x="1033" y="1564"/>
+	<Point x="1280" y="1564"/>
+	<Point x="1280" y="1604"/>
+	<Point x="1033" y="1604"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="1045" y="1964"/>
+	<Point x="1297" y="1964"/>
+	<Point x="1297" y="1995"/>
+	<Point x="1045" y="1995"/></Coords></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="226" y="2080"/>
+	<Point x="764" y="2080"/>
+	<Point x="764" y="2159"/>
+	<Point x="226" y="2159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—TURDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1502" y="2090"/>
+	<Point x="2100" y="2090"/>
+	<Point x="2100" y="2161"/>
+	<Point x="1502" y="2161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—TURDINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="drop-capital">
+	<Coords>
+	<Point x="240" y="2495"/>
+	<Point x="361" y="2495"/>
+	<Point x="361" y="2661"/>
+	<Point x="240" y="2661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion></Page></PcGts>

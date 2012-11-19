@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672225">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:17:57</Created>
+	<LastChange>2012-02-10T09:54:06</LastChange></Metadata>
+	<Page imageFilename="00672225.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="773" y="189"/>
+	<Point x="1076" y="189"/>
+	<Point x="1076" y="260"/>
+	<Point x="773" y="260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 31 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="53" y="332"/>
+	<Point x="1819" y="332"/>
+	<Point x="1819" y="746"/>
+	<Point x="53" y="746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muscles se ﬁxent. Plus la larve devient âgée et plus les
+muscles en question sont développés, plus l'apophyse s'approche
+du condyle de la hanche, jusqu'à ce que chez l'insecte parfait
+elle s'avance vers le semicercle opposé de la hanche, en fran-
+chissant même l'axe de rotation.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="1167" y="853"/>
+	<Point x="1649" y="853"/>
+	<Point x="1649" y="910"/>
+	<Point x="1167" y="910"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nicolas Poletaïew.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="424" y="1358"/>
+	<Point x="1433" y="1358"/>
+	<Point x="1433" y="1439"/>
+	<Point x="424" y="1439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Explication des planches IV — VIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="60" y="1501"/>
+	<Point x="1792" y="1501"/>
+	<Point x="1792" y="1564"/>
+	<Point x="60" y="1564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 1. Aeschna grandis L., adulte, 7 fois grossie, ailes de côté supérieur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="60" y="1803"/>
+	<Point x="1801" y="1803"/>
+	<Point x="1801" y="2219"/>
+	<Point x="60" y="2219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 3. Aeschna grandis L., adulte, 5 fois grossie, épimère droit vu de côté
+intérieur; a — point de support de la base de la nervure costale de
+l'aile antérieure, b — de la nervure radiale, c d — même chose pour
+l'aile postérieure, a k — élévation linéaire antérieure d'épimère, с l —
+postérieure, m n — dilatations supérieures d'élévations, о р у — bord
+postérieur du thorax, r — tendon du muscle auxiliaire sternali-dorsal,
+q — second stigmate thoracique.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="53" y="2221"/>
+	<Point x="1812" y="2221"/>
+	<Point x="1812" y="2399"/>
+	<Point x="53" y="2399"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 4. Agrion nayas Hansem., adulte, 11 fois grossie, épimère avec les
+apophyses vu de côté intérieur; a — place d'attache de l'aile antérieure,
+b — de l'aile postérieure, c d — élévations d'épimère.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="37" y="2401"/>
+	<Point x="1814" y="2401"/>
+	<Point x="1814" y="3053"/>
+	<Point x="37" y="3053"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 5. A. grandis L., adulte, 5 fois grossie, squelette du thorax vu de de-
+dans et d'en haut; b c d e f — aire d'attiche de l'abaisseur antérieur
+de l'aile antérieure, с — point d'attache de son muscle additionnel,
+α — place d'attache du tendon de l'élévateur de l'aile antérieure,
+g h — élévation antérieur d'épimère, s i — son prolongement, q p — élé-
+vation incomplète antérieure d'épimère, m ß — élévation postérieure
+d'épimère, r — tendon de l'élévateur de l'aile postérieure, u 8 — éléva-
+tion incomplète postérieure d'épimère g b α q — pièce iliaque, n m l к —
+pièce ischiatique, t u v — bord postérieur du thorax uni à l'abdomen
+par une membrane étroite, b' — point d'attache du muscle additionnel
+postérieur de l'abaisseur postérieur de l'aile postérieure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="33" y="3055"/>
+	<Point x="1801" y="3055"/>
+	<Point x="1801" y="3178"/>
+	<Point x="33" y="3178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 6. Libellula quadrimaculata L., adulte, 7 fois grossie, partie inférieure de
+l'épimère droit vu de côté intérieur; с — pièce ischiatique.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="755" y="1108"/>
+	<Point x="1082" y="1108"/>
+	<Point x="1082" y="1142"/>
+	<Point x="755" y="1142"/></Coords></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="46" y="1566"/>
+	<Point x="1801" y="1566"/>
+	<Point x="1801" y="1801"/>
+	<Point x="46" y="1801"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 2. Cordulia аеneа L., adulte, 7 fois grossie, ailes de côté inférieur;
+a a' — nervure costale, b b' — souscostale, c c' — radiale, d d' — mé-
+diane, е е' — postcostale; les parties noircies (dans la ﬁg. 2) se pro-
+longent sur le dorsum et le reste sur l'épimère.</Unicode></TextEquiv></TextRegion></Page></PcGts>

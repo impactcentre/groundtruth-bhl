@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669068">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:20:52</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669068.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r23" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="332" y="232"/>
+	<Point x="1700" y="228"/>
+	<Point x="1702" y="302"/>
+	<Point x="880" y="311"/>
+	<Point x="843" y="377"/>
+	<Point x="612" y="376"/>
+	<Point x="591" y="384"/>
+	<Point x="545" y="383"/>
+	<Point x="528" y="377"/>
+	<Point x="334" y="377"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rière de l’abdomen, sous l’intestin; elles aboutissent
+au cloaque même.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="334" y="383"/>
+	<Point x="466" y="384"/>
+	<Point x="488" y="390"/>
+	<Point x="587" y="390"/>
+	<Point x="611" y="384"/>
+	<Point x="1705" y="380"/>
+	<Point x="1705" y="898"/>
+	<Point x="332" y="898"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les reins, étroits, alongés et divisés en deux
+lobes, ﬁnissent sur la vessie natatoire elle-même; ils
+donnent deux longs uretères qui se contournent
+sur le fond de la cavité abdominale, et se dilatent
+en une longue vessie urinaire qui remonte à l’anus
+entre les deux laitances. Le péritoine est d’un noir
+très-foncé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="290" y="920"/>
+	<Point x="1701" y="920"/>
+	<Point x="1701" y="1122"/>
+	<Point x="290" y="1122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous n’avons rien trouvé dans les intestins
+de ce poisson, long de sept pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="296" y="1444"/>
+	<Point x="1716" y="1444"/>
+	<Point x="1716" y="1812"/>
+	<Point x="296" y="1812"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le chætodon guttatus de Bloch, pl. 196,
+dont il a fait ensuite son amphacanthus gut‑
+tatus, est en eﬀet un amphacanthe semblable
+aux précédens. Nous en avons un individu sec;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="348" y="1824"/>
+	<Point x="1727" y="1824"/>
+	<Point x="1727" y="2596"/>
+	<Point x="348" y="2596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sa hauteur est un peu moins de trois fois dans sa
+longueur; son chanfrein n’est pas bombé; les rides
+de son crâne sont irrégulières et très-marquées, et il
+en descend entre les yeux des arêtes saillantes et
+peu régulières. Le limbe de son préopercule, son
+opercule et les os de l’épaule sont fortement striés;
+les épines sont grosses et sillonnées en longueur;
+mais il a du reste tous les autres caractères et les
+nombres de rayons communs aux espèces de ce
+genre. Sa caudale est fortement échancrée en crois-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="291" y="123"/>
+	<Point x="444" y="123"/>
+	<Point x="444" y="211"/>
+	<Point x="291" y="211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>136</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="756" y="121"/>
+	<Point x="1256" y="121"/>
+	<Point x="1256" y="215"/>
+	<Point x="756" y="215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="477" y="1212"/>
+	<Point x="1525" y="1212"/>
+	<Point x="1525" y="1318"/>
+	<Point x="477" y="1318"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE A GOUTTELETTES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="485" y="1325"/>
+	<Point x="1509" y="1325"/>
+	<Point x="1509" y="1417"/>
+	<Point x="485" y="1417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus guttatus, Bl. Schn.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

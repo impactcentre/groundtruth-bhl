@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668913">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T23:01:24</Created>
+	<LastChange>2012-02-09T16:27:23</LastChange></Metadata>
+	<Page imageFilename="00668913.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="287" y="637"/>
+	<Point x="1300" y="637"/>
+	<Point x="1300" y="755"/>
+	<Point x="287" y="755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AVERTISSEMENT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="198" y="1205"/>
+	<Point x="202" y="1120"/>
+	<Point x="1520" y="1120"/>
+	<Point x="1520" y="1838"/>
+	<Point x="90" y="1838"/>
+	<Point x="90" y="1209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ous continuons, dans le volume que nous
+oﬀrons au public, la description des poissons
+réunis en une cinquième grande tribu des
+Scombéroïdes, caractérisés par leur bouche pro-
+tractile ; et l'exposition des familles et des genres
+qui la composent terminent l'histoire naturelle
+des poissons voisins des thons ou des maque-
+reaux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="75" y="1845"/>
+	<Point x="1520" y="1845"/>
+	<Point x="1520" y="2715"/>
+	<Point x="75" y="2715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous donnons ensuite celle d'une famille
+d'acanthoptérigiens, inconnue à nos mers d'Eu-
+rope : les Amphacanthes et les Acanthures. Les
+Teuthies, réduits à de petites dimensions et con-
+ﬁnés sur des parages plus ou moins lointains,
+ne peuvent oﬀrir à l'économiste l'intérêt attaché
+à nos diﬀérens scombres, sources naturelles et
+inépuisables de grandes richesses; mais les par-
+ticularités de l'organisation de ces petits pois-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords>
+	<Point x="107" y="283"/>
+	<Point x="1507" y="283"/>
+	<Point x="1507" y="322"/>
+	<Point x="107" y="322"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="713" y="893"/>
+	<Point x="888" y="893"/>
+	<Point x="888" y="917"/>
+	<Point x="713" y="917"/></Coords></SeparatorRegion>
+	<TextRegion id="r6" type="drop-capital">
+	<Coords>
+	<Point x="97" y="1079"/>
+	<Point x="203" y="1079"/>
+	<Point x="203" y="1104"/>
+	<Point x="195" y="1108"/>
+	<Point x="192" y="1183"/>
+	<Point x="193" y="1185"/>
+	<Point x="97" y="1185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N</Unicode></TextEquiv></TextRegion></Page></PcGts>

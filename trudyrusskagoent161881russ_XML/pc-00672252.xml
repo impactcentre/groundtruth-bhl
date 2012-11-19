@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672252">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T13:52:27</Created>
+	<LastChange>2012-02-10T09:54:12</LastChange></Metadata>
+	<Page imageFilename="00672252.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r20" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="417" y="721"/>
+	<Point x="905" y="722"/>
+	<Point x="1930" y="721"/>
+	<Point x="1930" y="864"/>
+	<Point x="417" y="864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fundorte russischer Ichneumoniden,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="241" y="1214"/>
+	<Point x="2071" y="1214"/>
+	<Point x="2071" y="2171"/>
+	<Point x="241" y="2171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In der Ueberzeugung, dass auch ein kleiner, fragmen‐
+tarischer Beitrag zur Kenntniss der geographischen Verbrei‐
+tung der Insecten in Russland nicht ohne Nutzen sei, habe
+ich nachstehende Notizen meist aus dem im Museum der Aka‐
+demie der Wissenschaften angehäuften Materiale gesammelt
+und übergebe sie der russischen entomologischen Gesellschaft
+mit der Bitte, dieselben in ihren «Horae» zu veröﬀentlichen.
+Der grösste Theil der Arten ist von dem verstorbenen Cze-
+kanowski gesammelt worden. Aus von mir unabhängigen
+Gründen war ich einige Mal genöthigt, den Fundort nur ganz
+allgemein mit «Sibirien» zu bezeichnen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="292" y="2205"/>
+	<Point x="2060" y="2205"/>
+	<Point x="2060" y="2382"/>
+	<Point x="292" y="2382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Schizopoma amictum Fabr. Bei Poltawa von Herrn Uscha‐
+koff gefunden (Museum der Universität in Helsingfors).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="289" y="2389"/>
+	<Point x="1646" y="2389"/>
+	<Point x="1646" y="2469"/>
+	<Point x="289" y="2469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Anomalon ﬁbulator Grav. Sibirien: Padun.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="296" y="2476"/>
+	<Point x="2060" y="2476"/>
+	<Point x="2060" y="2630"/>
+	<Point x="296" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. Nototrachys foliator Fabr. Irkutsk, Padun; var. 1 Grav.
+Hapsal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="296" y="2639"/>
+	<Point x="1514" y="2639"/>
+	<Point x="1514" y="2719"/>
+	<Point x="296" y="2719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4. Pristomerus orbitalis Holmgr. Pensa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="298" y="2723"/>
+	<Point x="2055" y="2723"/>
+	<Point x="2055" y="2878"/>
+	<Point x="298" y="2878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5. Cremastus bellicosus Grav. Pensa, Irkutsk; var. 1 Holmgr.
+Irkutsk.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="280" y="2885"/>
+	<Point x="1242" y="2885"/>
+	<Point x="1242" y="2966"/>
+	<Point x="280" y="2966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6. Cr. spectator Grav. Irkutsk.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="273" y="2974"/>
+	<Point x="1319" y="2974"/>
+	<Point x="1319" y="3051"/>
+	<Point x="273" y="3051"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7. Hellwigia elegans Grav. Pensa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="283" y="3055"/>
+	<Point x="2024" y="3055"/>
+	<Point x="2024" y="3142"/>
+	<Point x="283" y="3142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8. Paniscus fuscicornis Holmgr. Tambow, Pensa, Irkutsk.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="1091" y="1139"/>
+	<Point x="1091" y="1178"/>
+	<Point x="1271" y="1178"/>
+	<Point x="1271" y="1139"/></Coords></SeparatorRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="874" y="885"/>
+	<Point x="1473" y="885"/>
+	<Point x="1473" y="962"/>
+	<Point x="874" y="962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>verzeichnet von</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords>
+	<Point x="874" y="1003"/>
+	<Point x="1473" y="1003"/>
+	<Point x="1473" y="1096"/>
+	<Point x="874" y="1096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F. W. Woldstedt.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668162">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:38:47</Created>
+	<LastChange>2012-02-10T09:52:41</LastChange></Metadata>
+	<Page imageFilename="00668162.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1026" y="162"/>
+	<Point x="1360" y="162"/>
+	<Point x="1360" y="223"/>
+	<Point x="1026" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE RAVEN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="257" y="294"/>
+	<Point x="2120" y="294"/>
+	<Point x="2120" y="415"/>
+	<Point x="257" y="415"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>from his pouch, rearrange the feathers, and hop oﬀ with the air of having done
+a very clever thing.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="251" y="420"/>
+	<Point x="2123" y="420"/>
+	<Point x="2123" y="973"/>
+	<Point x="251" y="973"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>As regards the possibility of this species breeding in conﬁnement, I may
+quote the following note given to me by Mr. J. E. Harting for my “Handbook
+of British Oology” :—“In March, 1864, a pair of tame Ravens which had the run
+of a garden belonging to Mr. Winterbottom, of Cheltenham, built a nest in a
+box in a shed about six feet from the ground. The nest was built of sticks, old
+fern-leaves, and the stalks of dead wall-ﬂowers, and was lined with dead leaves
+and tufts of grass. On March 4th two eggs were found in the nest, and the
+following day a third was laid; but the hen bird did not sit well, perhaps
+because too much disturbed by visitors, and the eggs were not hatched.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="252" y="979"/>
+	<Point x="2124" y="979"/>
+	<Point x="2124" y="1162"/>
+	<Point x="252" y="1162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lord Lilford’s last pair of Ravens, which, however, had considerable liberty,
+reared four young ones, all of which were living in 1894. In 1908 Mr. St.
+Quintin's Ravens hatched out ﬁve strong young ones.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="250" y="1169"/>
+	<Point x="2130" y="1169"/>
+	<Point x="2130" y="2672"/>
+	<Point x="250" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mr. J. H. Comyns, of Lyvenden, S. Devon, forwarded to me a full account of
+a Raven and Buzzard taken by him in 1896 from nests in trees:—“The Raven
+was perfectly, I may say aggressively, tame within a week, but the Buzzard
+remained obdurate for fully three times as long, his timidity and suspicion being
+truly exasperating.” “As soon as my bird was full-grown, I tried the
+experiment of turning him in with ‘Grip’ the Raven (who is conﬁned in a
+disused stable on account of his depredations in the neighbours’ gardens). As I
+anticipated, ‘Grip’ instantly dashed at the intruder with murderous intent, but
+what followed was a surprise to me. The Buzzard, after ﬂying two or three
+times round the stable, hotly pursued by ‘Grip,’ suddenly alighted on the ﬂoor
+and confronted him with every feather bristling. The valour of the sable bird of
+Odin was evidently tempered with a wholesome caution; he stopped too, with
+ruﬄed head held low down and open beak, panting like a hound, whereupon the
+Buzzard to his astonishment and consternation sprang at him. He instantly beat
+a headlong retreat, and the victor, after pursuing him for a short time from
+perch to perch, rested on his laurels. For a fortnight after this, the Buzzard
+was master of the situation, and the Raven got nothing in the shape of meat to
+eat unless I was there to give it to him. The Buzzard would stoop at him and
+snatch his food out of his very beak, as he unearthed it from his various hiding-
+places. ‘Grip’ now changed his tactics, and took to sneaking up behind and
+furtively tweaking the Buzzard’s wings or tail, and strange to say, a persistent
+course of these harrassing attacks has now utterly destroyed the Buzzard’s spirit,
+evidently too superﬁcial to stand at all a severe test, and reduced him from a
+really noble-looking bird to a woe-begone wretch, denuded of both tail-feathers</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="267" y="175"/>
+	<Point x="380" y="175"/>
+	<Point x="380" y="255"/>
+	<Point x="267" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>170</Unicode></TextEquiv></TextRegion></Page></PcGts>

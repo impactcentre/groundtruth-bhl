@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672360">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:19:36</Created>
+	<LastChange>2012-02-10T09:54:34</LastChange></Metadata>
+	<Page imageFilename="00672360.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1014" y="55"/>
+	<Point x="1335" y="55"/>
+	<Point x="1335" y="123"/>
+	<Point x="1014" y="123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 166 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="299" y="199"/>
+	<Point x="2042" y="199"/>
+	<Point x="2042" y="353"/>
+	<Point x="299" y="353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nicht weit in die Fläche hineinreichender Nebelﬂeck, an wel-
+chem sich auch die Hinterrandlinie etwas verdunkelt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="296" y="376"/>
+	<Point x="2041" y="376"/>
+	<Point x="2041" y="537"/>
+	<Point x="296" y="537"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite hellgrau, an den Rändern und auf den Hinter-
+ﬂügeln lichter und gelblicher. Schwaze Punkte fehlen gänzlich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="401" y="555"/>
+	<Point x="1823" y="555"/>
+	<Point x="1823" y="630"/>
+	<Point x="401" y="630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nähere Angaben über das gut erhaltene ♂ fehlen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="285" y="653"/>
+	<Point x="2041" y="653"/>
+	<Point x="2041" y="2171"/>
+	<Point x="285" y="2171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung 1. 3 ♀♀, am 15, 20 und 22 September
+gefangen, ohne nähere Ortsangabe, sind sehr abgeﬂogen; ich
+halte sie für das andere Geschlecht zu Pinosa ungeachtet
+ihrer grossen Abweichung von dem ♂. Sie sind viel grösser
+und haben statt der röthlich ochergelben Farbe ein sehr helles
+Lehmgelbgrau. Die Taster sind viel kürzer als beim ♂ und
+mit spitzerem Ende. Die Vorderﬂügel sind 8—81/2‴ lang,
+spitzer und unter der Spitze ein wenig eingezogen, tiefer ab-
+wärts convexer als bei Obliteratella und Neuricella. Die Costal-
+zelle ist am lichtesten; die Grundfarbe ist sonst überall, auch
+in der Mittelzelle, reichlich mit braunen Schuppen bestreut.
+Der schwarze Queraderpunkt verstärkt sich zu einem Fleckchen.
+Am Hinterrande liegen 7 schwarze Punkte. — Hinterﬂügel
+schmutzig gelblichgrau. Der Nebelﬂeck gegen die Flügelspitze
+ist verstärkt, bräunlich und gegen die Basis hin zu einem
+dünner werdenden Streifen verlängert. — Die Unterseite ist
+wenig dunkler als beim ♂. Der Stirnkegel, beim ♂ unter den
+Schuppen versteckt, steht bei den ♀♀ hornförmig hervor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="267" y="2180"/>
+	<Point x="2028" y="2180"/>
+	<Point x="2028" y="2944"/>
+	<Point x="267" y="2944"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung 2. Ueber die schilfrohrfarbigen (und das
+Schilfrohr bewohnenden) Chiloniden schreibt mir Petersen
+Folgendes: Sie sind alle bei der Lampe gefangen, und zwar
+meist bei der Quinta bei Mariquita. Zuckerrohrfelder von
+grosser Ausdehnung umgaben das ganze Haus. Ein Exemplar
+(vermuthlich eine Diatraea obliteratella) erzog ich aus einer
+Puppe, die ich im Zuckerrohr gefunden hatte. Auch an andern
+Orten der Tierra caliente traf ich diese Chilonen, aber immer
+nur in der Nähe von Zuckerrohr.</Unicode></TextEquiv></TextRegion></Page></PcGts>

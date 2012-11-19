@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672633">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:38:43</Created>
+	<LastChange>2012-02-10T09:55:26</LastChange></Metadata>
+	<Page imageFilename="00672633.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="742" y="104"/>
+	<Point x="1064" y="104"/>
+	<Point x="1064" y="183"/>
+	<Point x="742" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 437 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="38" y="228"/>
+	<Point x="1778" y="228"/>
+	<Point x="1778" y="2066"/>
+	<Point x="38" y="2066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>median d'une forme irregulière et lié ensemble des trois
+pieces; le trapèze rappelant la ﬁgure ainsi nommée; l'interme-
+diaire qui est très anguleux et n'existe pas dans l'aile posté-
+rieure et le coudé ﬁgurant une ligne brisée. Ces osselets
+constituant un organe de liaison de l'aile au thorax s'atta-
+chent d'une part aux nervures alaires, d'autre part au sque-
+lette dorsal de celui-ci et (dans le mésothorax) à une lame
+ovale à des bouts pointus et située entre les parties dorsale
+et sternale du squelette. Les muscles du troisième groupe
+oﬀrent les dispositions suivantes. L'un de ces muscles part de
+l'osselet coudé et se compose de deux chefs, l'autre se détache
+du tendon qui se trouve sous la lame ovale mentionnée plus
+haut, le troisième est ﬁxé sur cette lame même et le quatrième
+prend l'appui sur le tendon lié à l'osselet coudé par l'inter-
+mediaire d'une piece qui aﬀecte la forme d'un étrier. Dans
+le métathorax les mêmes muscles sont attachés: l'un, formant
+deux chefs, à l'osselet coudé, l'autre au tendon de l'étrier et
+le troisième à une lame carrée fonctionnant en tendon et s'unis-
+sant avec la membrane sousalaire et avec l'osselet intermé-
+diaire. Tous ces muscles (du troisième groupe) s'attachent
+par leurs bouts inférieures aux hanches et aux parties du sque-
+lette sterual.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="38" y="2078"/>
+	<Point x="1778" y="2078"/>
+	<Point x="1778" y="2264"/>
+	<Point x="38" y="2264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les muscles du premier et du troisième groupe sont des
+abaisseurs et les muscles du seconde sont des élévateurs d'aile.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="1159" y="2380"/>
+	<Point x="1642" y="2380"/>
+	<Point x="1642" y="2459"/>
+	<Point x="1159" y="2459"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nicolas Poletaïew.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="735" y="2759"/>
+	<Point x="1050" y="2759"/>
+	<Point x="1050" y="2797"/>
+	<Point x="735" y="2797"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669001">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T18:42:21</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00669001.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="63" y="338"/>
+	<Point x="1503" y="338"/>
+	<Point x="1515" y="2696"/>
+	<Point x="64" y="2696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>côté, sont courtes, pointues et dirigées en arrière;
+l’externe, plus forte, se porte aussi en dehors. Au-
+devant de celles d’un côté est un petit plan oblique
+où sont percés les oriﬁces de la narine, grands et rap‐
+prochés, verticalement oblongs et sans aucun rebord;
+la distance entre les deux épines externes équivaut au
+tiers de la longueur de la tête; de là naissent deux
+arêtes formées par les sous-orbitaires, et qui se réu‐
+nissent en avant en une petite proéminence sous la‐
+quelle les intermaxillaires se retirent quand la bouche
+se ferme; deux autres arêtes, élevées par des crêtes
+du frontal, partent de ces épines en montant, et
+laissent entre elles un intervalle membraneux, où
+l’on sent, au travers de la peau, le jeu des apophyses
+montantes des intermaxillaires. Lorsque ces arêtes
+sont arrivées vis-à-vis du bord du préopercule, il
+en paraît entre elles une troisième, et toutes les trois
+se rapprochent et forment en montant toujours une
+triple crête, terminée en arrière en pointe aiguë à
+l’aplomb de l’angle de l’opercule, et dont la longueur
+n’est que de la moitié de la hauteur totale à cet endroit.
+Entre la terminaison de cette crête, qui appartient à
+l’interpariétal, et la naissance de la dorsale, il y en a
+une autre petite qui appartient au premier interépi-
+neux, et dont l’extrémité antérieure pourrait, dans
+certains cas, être prise pour le vestige d’une pointe
+couchée, telle qu’on en voit dans les liches et dans
+quelques espèces du genre actuel. La première épine
+dorsale est très-petite; la seconde, comprimée, arquée,
+tranchante à son bord antérieur et au postérieur, est
+haute d’un peu plus du sixième de la longueur du</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="451" y="236"/>
+	<Point x="995" y="236"/>
+	<Point x="995" y="322"/>
+	<Point x="451" y="322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1337" y="236"/>
+	<Point x="1442" y="236"/>
+	<Point x="1442" y="322"/>
+	<Point x="1337" y="322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>69</Unicode></TextEquiv></TextRegion></Page></PcGts>

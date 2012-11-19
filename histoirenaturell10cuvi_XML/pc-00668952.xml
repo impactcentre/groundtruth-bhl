@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668952">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T23:06:39</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668952.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="417" y="305"/>
+	<Point x="1774" y="305"/>
+	<Point x="1774" y="886"/>
+	<Point x="417" y="886"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La vessie aérienne est simple, grande, ovale, plus
+large dans le haut; sa tunique extérieure est très-
+épaisse, ﬁbreuse, argentée; l'interne est mince. Il y
+a deux corps glanduleux, en forme de ruban on-
+doyant, rouge, épais, qui paraît interrompu dans
+son milieu et quelquefois en deux endroits. La vessie
+a vers le tiers antérieur deux fortes attaches mus-
+culaires.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="391" y="899"/>
+	<Point x="1783" y="899"/>
+	<Point x="1783" y="1714"/>
+	<Point x="391" y="1714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les laitances sont ovales; dans leur état de va-
+cuité on voit à l'intérieur des replis longitudinaux,
+plissés eux-mêmes en travers, et dentelés sur leur
+bord. A la ﬁn de Mai, les ovaires sont placés au tiers
+postérieur de l'abdomen sous la forme d'un rein de
+mouton. C'est un grand sac, renfermant une multi-
+tude inﬁnie de follicules attachés à la face interne
+de la poche, et remplis d'une innombrable quantité
+d'æufs jaunâtres, petits comme dela graine de pavot.
+L'oviducte est commun, et s'ouvre dans le cloaque
+derrière le rectum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="391" y="1728"/>
+	<Point x="1783" y="1728"/>
+	<Point x="1783" y="2627"/>
+	<Point x="391" y="2627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les reins adhèrent dans toute leur longueur assez
+fortement à la vessie natatoire. Ils sont gris-noi-
+râtres, renﬂés antérieurement en une sorte de lobule
+réﬂéchi sur l'extrémité arrondie de la vessie nata-
+toire; puis les reins se portent en droite ligne le
+long de l'épine, en se rétrécissant jusqu'au milieu
+de leur longueur, de manière à n'être plus qu'un
+ruban mince. Dans toute cette étendue ils sont très-
+séparés; mais à partir de ce point, ils sont tellement
+réunis qu'ils ne paraissent faire qu'un seul corps. Vers
+la ﬁn de leur longueur, qui ne dépasse pas celle de la
+vessie natatoire, ils se renﬂent beaucoup, et leur sur-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="352" y="192"/>
+	<Point x="453" y="192"/>
+	<Point x="453" y="271"/>
+	<Point x="352" y="271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="731" y="206"/>
+	<Point x="1380" y="206"/>
+	<Point x="1380" y="278"/>
+	<Point x="731" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668921">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T01:02:12</Created>
+	<LastChange>2012-02-09T16:27:23</LastChange></Metadata>
+	<Page imageFilename="00668921.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r26" index="3"/>
+	<RegionRefIndexed regionRef="r28" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r23" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/>
+	<RegionRefIndexed regionRef="r7" index="8"/>
+	<RegionRefIndexed regionRef="r18" index="9"/>
+	<RegionRefIndexed regionRef="r33" index="10"/>
+	<RegionRefIndexed regionRef="r37" index="11"/>
+	<RegionRefIndexed regionRef="r41" index="12"/>
+	<RegionRefIndexed regionRef="r30" index="13"/>
+	<RegionRefIndexed regionRef="r32" index="14"/>
+	<RegionRefIndexed regionRef="r49" index="15"/>
+	<RegionRefIndexed regionRef="r38" index="16"/>
+	<RegionRefIndexed regionRef="r43" index="17"/>
+	<RegionRefIndexed regionRef="r16" index="18"/>
+	<RegionRefIndexed regionRef="r53" index="19"/>
+	<RegionRefIndexed regionRef="r57" index="20"/>
+	<RegionRefIndexed regionRef="r45" index="21"/>
+	<RegionRefIndexed regionRef="r50" index="22"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="625" y="206"/>
+	<Point x="1012" y="206"/>
+	<Point x="1012" y="300"/>
+	<Point x="625" y="300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TABLE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="356" y="362"/>
+	<Point x="1292" y="362"/>
+	<Point x="1292" y="459"/>
+	<Point x="356" y="459"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DU DIXIÈME VOLUME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="255" y="670"/>
+	<Point x="1382" y="670"/>
+	<Point x="1382" y="751"/>
+	<Point x="255" y="751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SUITE DU LIVRE NEUVIÈME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="TOC-entry">
+	<Coords>
+	<Point x="120" y="852"/>
+	<Point x="1381" y="852"/>
+	<Point x="1381" y="921"/>
+	<Point x="120" y="921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES SCOMBÉROÏDES . . . . . . . . . . . . . . . . . . 1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="TOC-entry">
+	<Coords>
+	<Point x="114" y="1109"/>
+	<Point x="1391" y="1109"/>
+	<Point x="1391" y="1182"/>
+	<Point x="114" y="1182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LES SCOMBÉROÏDES A BOUCHE PROTRACTILE . . . . . Ibid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="570" y="1240"/>
+	<Point x="1066" y="1240"/>
+	<Point x="1066" y="1305"/>
+	<Point x="570" y="1305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE XXI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="566" y="2317"/>
+	<Point x="1085" y="2317"/>
+	<Point x="1085" y="2383"/>
+	<Point x="566" y="2383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE XXII.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r22">
+	<Coords>
+	<Point x="736" y="560"/>
+	<Point x="902" y="560"/>
+	<Point x="902" y="570"/>
+	<Point x="736" y="570"/></Coords></SeparatorRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="360" y="982"/>
+	<Point x="1272" y="982"/>
+	<Point x="1272" y="1069"/>
+	<Point x="360" y="1069"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CINQUIÈME GRANDE TRIBU.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="TOC-entry">
+	<Coords>
+	<Point x="1395" y="1341"/>
+	<Point x="1395" y="1419"/>
+	<Point x="106" y="1419"/>
+	<Point x="106" y="1341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES ZÉES ET DES CAPROS . . . . . . . . . . . . . . . . . 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="TOC-entry">
+	<Coords>
+	<Point x="105" y="1439"/>
+	<Point x="1395" y="1439"/>
+	<Point x="1391" y="1512"/>
+	<Point x="885" y="1515"/>
+	<Point x="102" y="1507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Dorée commune ( Zeus faber, Lin.) . . . . . . 6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="TOC-entry">
+	<Coords>
+	<Point x="105" y="1521"/>
+	<Point x="1389" y="1521"/>
+	<Point x="1389" y="1643"/>
+	<Point x="1373" y="1654"/>
+	<Point x="391" y="1665"/>
+	<Point x="239" y="1667"/>
+	<Point x="105" y="1664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Dorée du cap de Bonne-Espérance (Zeus
+capensis, nob.) . . . . . . . . . . . . . . . . . . . . . 23</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="TOC-entry">
+	<Coords>
+	<Point x="110" y="1673"/>
+	<Point x="1395" y="1661"/>
+	<Point x="1395" y="1727"/>
+	<Point x="1393" y="1731"/>
+	<Point x="1381" y="1731"/>
+	<Point x="1235" y="1730"/>
+	<Point x="1184" y="1730"/>
+	<Point x="1154" y="1741"/>
+	<Point x="1139" y="1730"/>
+	<Point x="1029" y="1731"/>
+	<Point x="1014" y="1740"/>
+	<Point x="1000" y="1731"/>
+	<Point x="862" y="1731"/>
+	<Point x="825" y="1739"/>
+	<Point x="817" y="1730"/>
+	<Point x="807" y="1730"/>
+	<Point x="775" y="1739"/>
+	<Point x="760" y="1730"/>
+	<Point x="650" y="1730"/>
+	<Point x="645" y="1740"/>
+	<Point x="602" y="1729"/>
+	<Point x="541" y="1729"/>
+	<Point x="517" y="1742"/>
+	<Point x="506" y="1742"/>
+	<Point x="480" y="1728"/>
+	<Point x="113" y="1727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Dorée du Japon (Zeus japonicus, nob.) . . 24</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="TOC-entry">
+	<Coords>
+	<Point x="106" y="2009"/>
+	<Point x="1396" y="2009"/>
+	<Point x="1396" y="2088"/>
+	<Point x="106" y="2088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES CAPROS. . . . . . . . . . . . . . . . . . . . . . . . . . 29</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="TOC-entry">
+	<Coords>
+	<Point x="116" y="2425"/>
+	<Point x="1411" y="2425"/>
+	<Point x="1411" y="2501"/>
+	<Point x="116" y="2501"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES LAMPRIS, DES EQUULA ET DU MÉNÉ . . . . . . . 39</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="TOC-entry">
+	<Coords>
+	<Point x="107" y="2514"/>
+	<Point x="1411" y="2514"/>
+	<Point x="1411" y="2587"/>
+	<Point x="107" y="2587"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Des LAMPRIS . . . . . . . . . . . . . . . . . . . . . . . . . Ibid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1383" y="797"/>
+	<Point x="1383" y="817"/>
+	<Point x="1384" y="817"/>
+	<Point x="1384" y="843"/>
+	<Point x="1271" y="843"/>
+	<Point x="1271" y="797"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pages.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1393" y="797"/>
+	<Point x="1517" y="797"/>
+	<Point x="1517" y="843"/>
+	<Point x="1393" y="843"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Planch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="TOC-entry">
+	<Coords>
+	<Point x="1388" y="1743"/>
+	<Point x="1388" y="1744"/>
+	<Point x="1387" y="1744"/>
+	<Point x="1387" y="1751"/>
+	<Point x="1386" y="1751"/>
+	<Point x="1386" y="1759"/>
+	<Point x="1385" y="1759"/>
+	<Point x="1385" y="1767"/>
+	<Point x="1384" y="1767"/>
+	<Point x="1384" y="1775"/>
+	<Point x="1383" y="1775"/>
+	<Point x="1383" y="1783"/>
+	<Point x="1382" y="1783"/>
+	<Point x="1382" y="1791"/>
+	<Point x="1381" y="1791"/>
+	<Point x="1381" y="1799"/>
+	<Point x="1380" y="1799"/>
+	<Point x="1380" y="1807"/>
+	<Point x="1379" y="1807"/>
+	<Point x="1379" y="1814"/>
+	<Point x="1378" y="1814"/>
+	<Point x="1378" y="1822"/>
+	<Point x="1377" y="1822"/>
+	<Point x="1377" y="1830"/>
+	<Point x="1376" y="1830"/>
+	<Point x="1376" y="1838"/>
+	<Point x="1375" y="1838"/>
+	<Point x="1375" y="1846"/>
+	<Point x="1374" y="1846"/>
+	<Point x="1374" y="1854"/>
+	<Point x="1373" y="1854"/>
+	<Point x="1373" y="1862"/>
+	<Point x="1372" y="1862"/>
+	<Point x="1372" y="1870"/>
+	<Point x="1371" y="1870"/>
+	<Point x="1371" y="1878"/>
+	<Point x="1370" y="1878"/>
+	<Point x="1370" y="1885"/>
+	<Point x="1382" y="1885"/>
+	<Point x="1382" y="1884"/>
+	<Point x="1391" y="1884"/>
+	<Point x="1391" y="1995"/>
+	<Point x="106" y="1995"/>
+	<Point x="107" y="1995"/>
+	<Point x="107" y="1870"/>
+	<Point x="108" y="1870"/>
+	<Point x="108" y="1746"/>
+	<Point x="492" y="1746"/>
+	<Point x="492" y="1745"/>
+	<Point x="492" y="1746"/>
+	<Point x="495" y="1746"/>
+	<Point x="495" y="1747"/>
+	<Point x="498" y="1747"/>
+	<Point x="498" y="1748"/>
+	<Point x="501" y="1748"/>
+	<Point x="501" y="1749"/>
+	<Point x="504" y="1749"/>
+	<Point x="504" y="1750"/>
+	<Point x="507" y="1750"/>
+	<Point x="507" y="1751"/>
+	<Point x="510" y="1751"/>
+	<Point x="510" y="1752"/>
+	<Point x="513" y="1752"/>
+	<Point x="513" y="1753"/>
+	<Point x="520" y="1753"/>
+	<Point x="520" y="1752"/>
+	<Point x="524" y="1752"/>
+	<Point x="524" y="1751"/>
+	<Point x="528" y="1751"/>
+	<Point x="528" y="1750"/>
+	<Point x="532" y="1750"/>
+	<Point x="532" y="1749"/>
+	<Point x="536" y="1749"/>
+	<Point x="536" y="1748"/>
+	<Point x="540" y="1748"/>
+	<Point x="540" y="1747"/>
+	<Point x="544" y="1747"/>
+	<Point x="544" y="1746"/>
+	<Point x="547" y="1746"/>
+	<Point x="547" y="1745"/>
+	<Point x="975" y="1745"/>
+	<Point x="975" y="1744"/>
+	<Point x="1387" y="1744"/>
+	<Point x="1387" y="1743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D'une seconde espèce de Dorée de la Méditerra-
+née, ou la Dorée à épaule armée (Zeus pun-
+gio, nob.) . . . . . . . . . . . . . . . . . . . . . . . . . 25</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1416" y="1870"/>
+	<Point x="1540" y="1870"/>
+	<Point x="1540" y="1994"/>
+	<Point x="1416" y="1994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>280</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="TOC-entry">
+	<Coords>
+	<Point x="1395" y="2109"/>
+	<Point x="1395" y="2110"/>
+	<Point x="1397" y="2110"/>
+	<Point x="1397" y="2111"/>
+	<Point x="1398" y="2111"/>
+	<Point x="1398" y="2112"/>
+	<Point x="1399" y="2112"/>
+	<Point x="1398" y="2112"/>
+	<Point x="1398" y="2120"/>
+	<Point x="1397" y="2120"/>
+	<Point x="1397" y="2128"/>
+	<Point x="1396" y="2128"/>
+	<Point x="1396" y="2136"/>
+	<Point x="1395" y="2136"/>
+	<Point x="1395" y="2144"/>
+	<Point x="1394" y="2144"/>
+	<Point x="1394" y="2152"/>
+	<Point x="1393" y="2152"/>
+	<Point x="1393" y="2160"/>
+	<Point x="1392" y="2160"/>
+	<Point x="1392" y="2168"/>
+	<Point x="1391" y="2168"/>
+	<Point x="1391" y="2176"/>
+	<Point x="1390" y="2176"/>
+	<Point x="1390" y="2183"/>
+	<Point x="1389" y="2183"/>
+	<Point x="1389" y="2202"/>
+	<Point x="1388" y="2202"/>
+	<Point x="1388" y="2221"/>
+	<Point x="1387" y="2221"/>
+	<Point x="1387" y="2240"/>
+	<Point x="1386" y="2240"/>
+	<Point x="1386" y="2259"/>
+	<Point x="1385" y="2259"/>
+	<Point x="1385" y="2266"/>
+	<Point x="106" y="2266"/>
+	<Point x="106" y="2109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Sanglier ( Capros aper, Lacép.; zeus aper,
+Lin.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1417" y="2175"/>
+	<Point x="1532" y="2175"/>
+	<Point x="1532" y="2267"/>
+	<Point x="1417" y="2267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>281</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="TOC-entry">
+	<Coords>
+	<Point x="1397" y="2600"/>
+	<Point x="1397" y="2647"/>
+	<Point x="1398" y="2647"/>
+	<Point x="1398" y="2692"/>
+	<Point x="112" y="2692"/>
+	<Point x="112" y="2600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Du Lampris tacheté (Lampris guttatus, Retz.) . Ibid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="1424" y="2600"/>
+	<Point x="1547" y="2600"/>
+	<Point x="1547" y="2692"/>
+	<Point x="1424" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>282</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672223">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:17:37</Created>
+	<LastChange>2012-02-10T09:54:06</LastChange></Metadata>
+	<Page imageFilename="00672223.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="55" y="321"/>
+	<Point x="1839" y="321"/>
+	<Point x="1839" y="2841"/>
+	<Point x="55" y="2841"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dées se rattache le muscle sternali-dorsal (ﬁg. 67 — 69). Ça
+veut dire, que les hanches de deux dernières familles sont
+fournies de tendons analogues à ceux des Aeschnidées, mais
+qu'en dessus il manque un tendon servant de point d'appui aux
+muscle, qui s'étend du semi-cercle antérieur de la hanche, comme
+c'est le cas chez les Aeschnidées, car il n'y a point de muscle,
+qui se dirigerait vers le dorsum, celui-ci étant remplacé par
+un autre, qui n'atteint pas le dos, mais s'attache à des piè-
+ces l'une iliaque et l'autre ischiatique (ﬁg. 40). Ainsi le ten-
+don a, représenté dans la ﬁg. 46 et appartenant à l'A. gran-
+dis L., chez les Libellulidées et les Agrionidées, est supprimé.
+La grandeur de ces muscles sternali-dorsaux des pattes est en
+rapport inverse avec l'âge de la larve: plus elle est jeune, plus
+puissants sont ces muscles, puisqu'ils se développent déjà lors
+de la vie à l'intérieur de l'oeuf, de sorte qu'après l'éclosion
+ils sont complétement organisés et ne font que grandir avec
+la croissance de la larve. Or, les muscles alaires manquent
+chez celle-ci même lors de la première période de la vie hors
+d'œuf, en commençant à se développer avec l'apparition de
+fourreaux. Plus la larve est âgée, plus avancés dans l'orga-
+nisation sont ses muscles alaires, ainsi qu'à la ﬁn de la vie
+aquatique ceux-ci surpassent, quant à la grandeur, de beau-
+coup les muscles des pattes (ﬁg. 70). Enﬁn durant les der-
+nièrs jours de la vie aquatique de l'insecte les muscles des
+pattes (sternali-dorsaux) se resorbent et l'insecte ailé n'a qu'un
+reste, un vestige, peut on dire, de l'un de ces muscles, no-
+mément du plus puissant, qui provient du semi-cercle posté-
+rieur de la hanche. Ce reste n'existe que pendant un ou
+deux premiérs jours de la vie aérienne et a l'aspect d'un
+muscle lamelleux très grêle, qui bientôt disparait entièrement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="76" y="2849"/>
+	<Point x="1846" y="2849"/>
+	<Point x="1846" y="3192"/>
+	<Point x="76" y="3192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les muscles, qui contribuent indirectement au vol de l'in-
+secte, c'est-à-dire qui peuvent en inﬂuencer la direction, sont
+semblables chez la larve et chez l'adulte. En n'appartenant
+pas aux muscles alaires proprement dits, ils sont plus déve-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="764" y="203"/>
+	<Point x="1103" y="203"/>
+	<Point x="1103" y="283"/>
+	<Point x="764" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 29 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

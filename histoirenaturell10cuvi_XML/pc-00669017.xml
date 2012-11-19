@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669017">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T15:44:23</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669017.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r18" index="7"/>
+	<RegionRefIndexed regionRef="r24" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="83" y="299"/>
+	<Point x="1496" y="299"/>
+	<Point x="1496" y="582"/>
+	<Point x="83" y="582"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a des equula d’une forme plus oblongue
+que les espèces dont nous avons parlé jus‐
+qu’ici, l’equula de Bloch excepté.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="423" y="670"/>
+	<Point x="1152" y="670"/>
+	<Point x="1152" y="760"/>
+	<Point x="423" y="760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA CHERCHEUR.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="91" y="790"/>
+	<Point x="1496" y="790"/>
+	<Point x="1496" y="896"/>
+	<Point x="91" y="896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula berbîs, nob.; Scomber equula, Var. Forsk.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="98" y="904"/>
+	<Point x="1508" y="904"/>
+	<Point x="1508" y="1170"/>
+	<Point x="98" y="1170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forskal parle d’une variété de son scomber
+equula, nommée à Djidda melliet et à Lohaja
+berbîs,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="154" y="1181"/>
+	<Point x="1521" y="1181"/>
+	<Point x="1524" y="1564"/>
+	<Point x="154" y="1575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>qui a le corps alongé ou de forme lancéolée, à
+peine long d’un doigt, les lobes de la queue aigus,
+la ligne latérale ﬁnissant sous la dorsale, et dont
+toutes les nageoires sont bordées de jaune. Il lui
+donne pour nombres:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="325" y="1579"/>
+	<Point x="1408" y="1575"/>
+	<Point x="1408" y="1654"/>
+	<Point x="325" y="1654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 4; D. 8/16; A. 3/15; C. 16; P. 16; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="106" y="1665"/>
+	<Point x="1421" y="1671"/>
+	<Point x="1463" y="1646"/>
+	<Point x="1529" y="1660"/>
+	<Point x="1530" y="1840"/>
+	<Point x="103" y="1840"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette description suﬃt pour prouver qu’il
+ne s’agit point là d’une variété.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="87" y="2168"/>
+	<Point x="1550" y="2168"/>
+	<Point x="1550" y="2691"/>
+	<Point x="87" y="2691"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons un poisson de ce genre rap‐
+porté de Timor par MM. Quoy et Gaimard,
+qui répond pour la forme à celui de Forskal,
+et que nous serions tentés de regarder comme
+de la même espèce, s’il n’avait des taches dont
+le naturaliste danois ne parle pas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="490" y="1925"/>
+	<Point x="1119" y="1925"/>
+	<Point x="1119" y="2029"/>
+	<Point x="490" y="2029"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA ALONGÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="463" y="2035"/>
+	<Point x="1129" y="2035"/>
+	<Point x="1129" y="2142"/>
+	<Point x="463" y="2142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula oblonga, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="header">
+	<Coords>
+	<Point x="521" y="212"/>
+	<Point x="1054" y="212"/>
+	<Point x="1054" y="284"/>
+	<Point x="521" y="284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="page-number">
+	<Coords>
+	<Point x="1386" y="201"/>
+	<Point x="1484" y="201"/>
+	<Point x="1484" y="275"/>
+	<Point x="1386" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>85</Unicode></TextEquiv></TextRegion></Page></PcGts>

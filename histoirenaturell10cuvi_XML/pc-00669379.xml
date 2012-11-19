@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669379">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:59:06</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669379.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/>
+	<RegionRefIndexed regionRef="r20" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="114" y="212"/>
+	<Point x="1465" y="212"/>
+	<Point x="1465" y="452"/>
+	<Point x="114" y="452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dos quelques petits points noirâtres, bien moins
+abondans qu’à notre prêtre de Bretagne; la longueur
+varie de trois pouces et demi à quatre trois quarts.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="51" y="540"/>
+	<Point x="1481" y="540"/>
+	<Point x="1481" y="1147"/>
+	<Point x="51" y="1147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La seconde subdivision, celle des espèces
+analogues à notre joël par leur tète large,
+leurs gros yeux, leur dorsale plus petite et
+placée sur l’arrière des ventrales, comprend
+plusieurs espèces, vues par diﬀérens voya‐
+geurs, mais encore mal déterminées dans leurs
+écrits.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="60" y="1362"/>
+	<Point x="1485" y="1362"/>
+	<Point x="1485" y="1781"/>
+	<Point x="60" y="1781"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous commencerons par l’espèce qui nous
+paraît être la plus commune, à en juger par
+le nombre des individus que nous en avons
+réunis de diﬀérens lieux, principalement de
+l’Isle-de-France.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="60" y="1788"/>
+	<Point x="1497" y="1788"/>
+	<Point x="1497" y="2480"/>
+	<Point x="60" y="2480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Commerson nous en a laissé un dessin re-
+connaissable, fort mal gravé dans Lacépède1,
+qui l’a nommée ATHÉRINE GRAS D’EAU (athe-
+rina pinguis), ce qui pourrait faire croire
+qu’elle a quelque chose de plus gras que les
+autres, ou même qu’elle est grasse en géné‐
+ral; mais il n’en est pas ainsi. Les athérines
+se nomment en plusieurs endroits de Nor-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="131" y="2522"/>
+	<Point x="688" y="2522"/>
+	<Point x="688" y="2598"/>
+	<Point x="131" y="2598"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Vol. V, pl. 11, ﬁg. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="604" y="120"/>
+	<Point x="908" y="120"/>
+	<Point x="908" y="195"/>
+	<Point x="604" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1324" y="107"/>
+	<Point x="1468" y="107"/>
+	<Point x="1468" y="185"/>
+	<Point x="1324" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>447</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="657" y="477"/>
+	<Point x="870" y="477"/>
+	<Point x="870" y="522"/>
+	<Point x="657" y="522"/></Coords></SeparatorRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="386" y="1165"/>
+	<Point x="1141" y="1165"/>
+	<Point x="1141" y="1244"/>
+	<Point x="386" y="1244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ATHÉRINE PECTORALE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords>
+	<Point x="385" y="1253"/>
+	<Point x="1160" y="1253"/>
+	<Point x="1160" y="1350"/>
+	<Point x="385" y="1350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina pectoralis, nob.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r21">
+	<Coords>
+	<Point x="71" y="2486"/>
+	<Point x="71" y="2515"/>
+	<Point x="1498" y="2515"/>
+	<Point x="1498" y="2486"/></Coords></SeparatorRegion></Page></PcGts>

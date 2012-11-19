@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669118">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:26:58</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669118.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="374" y="280"/>
+	<Point x="1739" y="280"/>
+	<Point x="1739" y="2028"/>
+	<Point x="374" y="2028"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>des écailles s’alongent de manière à former une
+sorte de velouté rude. Sur les côtés du museau et
+le devant de la joue les écailles sont plus grandes,
+de forme polygone, et leur surface est chagrinée.
+Le sillon nu au-dessous de l’æil est très-marqué;
+chaque mâchoire porte dix ou douze dents : les
+supérieures ont dix ou douze crénelures, qui re‐
+montent sur leurs bords latéraux, les inférieures
+n’en ont que cinq, et seulement à l’extrémité.
+Sa dorsale est peu élevée et uniforme; les épines
+n’ont guère que le cinquième de la hauteur du corps
+sous elles. L’anale, à peu près de même hauteur,
+ﬁnit vis-à-vis le même point, mais ne commence que
+sous l’aplomb du cinquième ou du sixième rayon
+dorsal; sa première épine est fort petite. La portion de
+queue entre la dorsale et l’anale d’une part, et la
+caudale de l’autre, est d’un neuvième de la longueur
+totale; la caudale en fait un autre neuvième : elle est
+coupée carrément; la pectorale, demi-ovale, a le
+cinquième de la longueur totale. L’épine de la ven‐
+trale est très-grosse, et cette nageoire n’a que deux
+rayons mous, dont le premier très-grêle, et le second
+gros et fourchu presque jusqu’à sa base.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="326" y="180"/>
+	<Point x="461" y="180"/>
+	<Point x="461" y="257"/>
+	<Point x="326" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>186</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="775" y="198"/>
+	<Point x="1301" y="198"/>
+	<Point x="1301" y="257"/>
+	<Point x="775" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="365" y="2120"/>
+	<Point x="1731" y="2120"/>
+	<Point x="1731" y="2666"/>
+	<Point x="365" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La couleur générale de ce poisson, dans son état sec,
+parâit un brun noirâtre; la caudale est jaune avec
+ses deux bords supérieur et inférieur noirs, et le
+jaune se porte en avant sur le côté de la queue, où
+il forme un triangle, dans lequel la lame latérale
+est comprise. Une teinte pâle suit aussi le bord in‐
+férieur du corps, s’élargit et s’éclaircit sous la poi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="452" y="2039"/>
+	<Point x="1638" y="2039"/>
+	<Point x="1638" y="2116"/>
+	<Point x="452" y="2116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/19 ou 20; A. 3/18 ou 19; C. 16; P. 15; V. 1/2.</Unicode></TextEquiv></TextRegion></Page></PcGts>

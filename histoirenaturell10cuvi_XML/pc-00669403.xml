@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669403">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:02:04</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669403.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r18" index="3"/>
+	<RegionRefIndexed regionRef="r24" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="125" y="309"/>
+	<Point x="1471" y="309"/>
+	<Point x="1471" y="463"/>
+	<Point x="125" y="463"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>observé un commencement dans les athérines de
+France, et dans plusieurs autres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="125" y="465"/>
+	<Point x="1482" y="465"/>
+	<Point x="1482" y="993"/>
+	<Point x="125" y="993"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il faut aussi remarquer, dans l’espèce actuelle, que
+ses six ou sept premières vertèbres ont leurs apo‐
+physes épineuses assez dilatées d’avant en arrière,
+pour se toucher et s’unir en une crête longitudinale.
+Les côtes sont un peu élargies: les premières ont
+des appendices grêles; les dernières sont elles-mêmes
+grêles et courtes. Il y en a vingt-sept paires.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="59" y="1000"/>
+	<Point x="1475" y="1000"/>
+	<Point x="1475" y="1264"/>
+	<Point x="59" y="1264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. d’Orbigny en a rapporté aussi plusieurs
+individus de même taille pris dans le Rio de
+la Plata, auprès de Montévidéo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="59" y="1497"/>
+	<Point x="1478" y="1497"/>
+	<Point x="1478" y="2014"/>
+	<Point x="59" y="2014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Lesson, naturaliste de l’expédition Du-
+perrey, a dessiné à Sainte-Catherine du Bré‐
+sil une athérine encore plus grande que la
+précédente, et qui doit avoir beaucoup de
+rapport avec elle, mais que ce zélé voyageur
+n’a malheureusement pas pu rapporter.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="129" y="2025"/>
+	<Point x="1490" y="2025"/>
+	<Point x="1490" y="2629"/>
+	<Point x="129" y="2629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le dessin la représente plus courte à proportion,
+et lui donne une tête plus renﬂée de la partie de la
+gorge qu’à celle de Buénos-Ayres. Sa pectorale semble
+aller aussi loin que ses ventrales, et sa première dor‐
+sale répondre à l’intervalle des ventrales et de l’anale;
+mais son œil est petit, comme dans l’espèce précé‐
+dente. Sa bouche paraît un peu diﬀérer, et ses nom‐
+bres sont à peu près les mêmes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="551" y="2632"/>
+	<Point x="1052" y="2632"/>
+	<Point x="1052" y="2697"/>
+	<Point x="551" y="2697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 5 — 9; A. 18, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="614" y="212"/>
+	<Point x="906" y="212"/>
+	<Point x="906" y="280"/>
+	<Point x="614" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1332" y="212"/>
+	<Point x="1458" y="212"/>
+	<Point x="1458" y="280"/>
+	<Point x="1332" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>471</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="398" y="1306"/>
+	<Point x="1143" y="1306"/>
+	<Point x="1143" y="1377"/>
+	<Point x="398" y="1377"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ATHÉRINE DE LESSON.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="417" y="1398"/>
+	<Point x="1116" y="1398"/>
+	<Point x="1116" y="1479"/>
+	<Point x="417" y="1479"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina Lessoni, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

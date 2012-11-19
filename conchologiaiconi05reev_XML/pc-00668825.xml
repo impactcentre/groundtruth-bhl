@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668825">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T17:16:28</Created>
+	<LastChange>2012-02-10T10:29:39</LastChange></Metadata>
+	<Page imageFilename="00668825.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r38" index="11"/>
+	<RegionRefIndexed regionRef="r32" index="12"/>
+	<RegionRefIndexed regionRef="r56" index="13"/>
+	<RegionRefIndexed regionRef="r62" index="14"/>
+	<RegionRefIndexed regionRef="r14" index="15"/>
+	<RegionRefIndexed regionRef="r15" index="16"/>
+	<RegionRefIndexed regionRef="r16" index="17"/>
+	<RegionRefIndexed regionRef="r17" index="18"/>
+	<RegionRefIndexed regionRef="r18" index="19"/>
+	<RegionRefIndexed regionRef="r19" index="20"/>
+	<RegionRefIndexed regionRef="r20" index="21"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="962" y="290"/>
+	<Point x="1474" y="290"/>
+	<Point x="1474" y="356"/>
+	<Point x="962" y="356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1138" y="384"/>
+	<Point x="1317" y="384"/>
+	<Point x="1317" y="433"/>
+	<Point x="1138" y="433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="537" y="467"/>
+	<Point x="958" y="467"/>
+	<Point x="958" y="518"/>
+	<Point x="537" y="518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 5. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="293" y="527"/>
+	<Point x="1194" y="527"/>
+	<Point x="1194" y="861"/>
+	<Point x="293" y="861"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA LEUCOSTOMA. Turr. testâ subpyramidali-
+acuminatâ, angustâ, acutissimè lanceolatâ, solidiusculâ,
+anfractibus ad viginti, supernè contractis, suturis ex-
+cavatis, infernè extrorsum projectis, planulatis, spi-
+raliter sex-liratis, liris angustis, subdistantibus, inter-
+stitiis subtilissimè striatis; fulvescente-albâ, liris ni-
+tidè aurantio-rufo articulatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="292" y="864"/>
+	<Point x="1194" y="864"/>
+	<Point x="1194" y="1241"/>
+	<Point x="292" y="1241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WHITE‐MOUTH TURRITELLA. Shell somewhat pyra‐
+midally acuminated, narrow, very sharply lanceolate,
+rather solid, whorls about twenty in number, con‐
+tracted round the upper part, sutures excavated,
+projected outwardly round the lower part, ﬂattened,
+spirally six-ridged, ridges narrow, rather distant,
+interstices very ﬁnely striated; fulvous white, ridges
+neatly articulated with orange-brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="291" y="1244"/>
+	<Point x="1193" y="1244"/>
+	<Point x="1193" y="1337"/>
+	<Point x="291" y="1337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VALENCIENNES, Zool. Voy. Humboldt et Bonpland, vol. ii.
+p. 275.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="292" y="1340"/>
+	<Point x="1192" y="1340"/>
+	<Point x="1192" y="1433"/>
+	<Point x="292" y="1433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Gulf of Nicoiyo (in sandy mud at the depth of eleven
+fathoms); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="290" y="1452"/>
+	<Point x="1190" y="1452"/>
+	<Point x="1190" y="1746"/>
+	<Point x="290" y="1746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Distinguished by the truly regular style in which the
+shell is turreted. The whorls contracted round the upper
+part and projecting outwards gradually towards the base,
+look like an attenuated pyramid of thimbles; and they
+are spirally encircled throughout by a row of neatly arti‐
+culated ridges.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="419" y="1819"/>
+	<Point x="1065" y="1819"/>
+	<Point x="1065" y="1866"/>
+	<Point x="419" y="1866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 6. (Fig. a and b, Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="292" y="1881"/>
+	<Point x="1188" y="1881"/>
+	<Point x="1188" y="2264"/>
+	<Point x="292" y="2264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA BRODERIPIANA. Turr. testâ elongato-turritâ,
+subcylindraceo-tumidâ, anfractibus octodecim, undique
+creberrimè impresso-striatis, perpaucis primis unicari-
+natis, medianis planulatis, cæteris medio depresso-con-
+cavis, suturis interdum indistinctis; fulvescente, cæru-
+leo-fuscescente nebulatâ, lineis rubido-fuscis transversis
+brevibus interruptis, in strigis undulatis frequenter dis-
+positis, densè lentiginosâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="293" y="2266"/>
+	<Point x="1186" y="2266"/>
+	<Point x="1186" y="2361"/>
+	<Point x="293" y="2361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BRODERIP’S TURRITELLA. Shell elongately turreted,
+somewhat cylindrically swollen, whorls eighteen in</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="1465" y="1419"/>
+	<Point x="1886" y="1419"/>
+	<Point x="1886" y="1470"/>
+	<Point x="1465" y="1470"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 7. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1231" y="1480"/>
+	<Point x="2126" y="1480"/>
+	<Point x="2126" y="1717"/>
+	<Point x="1231" y="1717"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA BACILLUM. Turr. testâ elongato-acuminatâ,
+anfractibus octodecim ad viginti, convexis, supernè sub-
+planulatis, spiraliter quinque- vel sex-carinatis, carinis
+angustis, subirregulariter distantibus, aperturam versus
+ferè evanidis; livido-fulvescente, carinis saturatioribus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1232" y="1720"/>
+	<Point x="2121" y="1720"/>
+	<Point x="2121" y="2003"/>
+	<Point x="1232" y="2003"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE STAFF TURRITELLA. Shell elongately acuminated,
+whorls eighteen to twenty in number, convex, rather
+ﬂattened round the upper part, spirally ﬁve- to six-
+keeled, keels narrow, somewhat irregularly distant,
+almost disappearing towards the aperture; livid ful‐
+vous colour, the keels being of darker hue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1232" y="2005"/>
+	<Point x="1844" y="2005"/>
+	<Point x="1844" y="2051"/>
+	<Point x="1232" y="2051"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>KIENER, Icon. coq. viv., p. 5. pl. 4. f. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1232" y="2053"/>
+	<Point x="1439" y="2053"/>
+	<Point x="1439" y="2096"/>
+	<Point x="1232" y="2096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Ceylon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1226" y="2120"/>
+	<Point x="2121" y="2120"/>
+	<Point x="2121" y="2350"/>
+	<Point x="1226" y="2350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The spiral keels of this species are not developed in the
+sharp prominent style of the T. terebra. Towards the
+aperture they nearly disappear, leaving their colour on
+the surface as though they had sunk, so to speak, into
+the substance of the shell.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1104" y="2569"/>
+	<Point x="1312" y="2569"/>
+	<Point x="1312" y="2621"/>
+	<Point x="1104" y="2621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>May, 1849.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r21">
+	<Coords>
+	<Point x="512" y="1772"/>
+	<Point x="512" y="1790"/>
+	<Point x="971" y="1790"/>
+	<Point x="971" y="1772"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r22">
+	<Coords>
+	<Point x="973" y="2460"/>
+	<Point x="973" y="2483"/>
+	<Point x="1434" y="2483"/>
+	<Point x="1434" y="2460"/></Coords></SeparatorRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1312" y="474"/>
+	<Point x="2133" y="474"/>
+	<Point x="2133" y="797"/>
+	<Point x="1312" y="797"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>number, very closely impressly striated throughout,
+the ﬁrst few whorls one-keeled, the next ﬂattened,
+then depressly concave in the middle, sutures some‐
+times indistinct; light fulvous colour, clouded with
+blue-brown and thickly freckled with short inter‐
+rupted red-brown transverse lines, mostly disposed
+in waved streaks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="1235" y="898"/>
+	<Point x="2125" y="898"/>
+	<Point x="2125" y="991"/>
+	<Point x="1235" y="991"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Payta, Peru (in ﬁne sand at a depth of about eight
+fathoms); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="1234" y="1006"/>
+	<Point x="2128" y="1006"/>
+	<Point x="2128" y="1345"/>
+	<Point x="1234" y="1345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The T. Broderipiana has a very characteristic style of
+painting, consisting of a profusion of short irregular linear
+dashes, ranged transversely, but mostly disposed in con‐
+fused longitudinally waved streaks; and over these, there
+is generally a scorched blue-brown stain of colouring.
+The shell is of an uncouth subcylindrical growth, spirally
+encircled throughout with ﬁne grooved striæ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r63">
+	<Coords>
+	<Point x="1455" y="1368"/>
+	<Point x="1455" y="1400"/>
+	<Point x="1910" y="1400"/>
+	<Point x="1910" y="1368"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r29">
+	<Coords>
+	<Point x="1232" y="451"/>
+	<Point x="1213" y="2355"/>
+	<Point x="1192" y="2355"/>
+	<Point x="1204" y="450"/></Coords></SeparatorRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1238" y="802"/>
+	<Point x="2036" y="802"/>
+	<Point x="2036" y="854"/>
+	<Point x="2036" y="853"/>
+	<Point x="1947" y="853"/>
+	<Point x="1947" y="852"/>
+	<Point x="1771" y="852"/>
+	<Point x="1771" y="893"/>
+	<Point x="1314" y="893"/>
+	<Point x="1314" y="845"/>
+	<Point x="1238" y="845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D’ORBIGNY, Voy. dans l’Amér. Mérid. Moll. p. 388.
+Turritella marmorata, Kiener.</Unicode></TextEquiv></TextRegion></Page></PcGts>

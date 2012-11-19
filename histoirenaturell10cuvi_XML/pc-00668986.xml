@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668986">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:10:36</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668986.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="703" y="221"/>
+	<Point x="1358" y="221"/>
+	<Point x="1358" y="292"/>
+	<Point x="703" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="373" y="322"/>
+	<Point x="918" y="321"/>
+	<Point x="1766" y="319"/>
+	<Point x="1772" y="1298"/>
+	<Point x="959" y="1298"/>
+	<Point x="371" y="1297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>térise ces organes chez un grand nombre de scombé-
+roïdes, et particulièrement ceux du thon. Le foie
+est peu consistant et d’une couleur jaunâtre; la vési‐
+cule du ﬁel est comme à l’ordinaire sous le lobe
+droit, près de son bord; elle est ovoïde, son plus
+grand diamètre étant long de deux pouces et demi,
+ayant plus du double du plus petit. De sa portion
+antérieure sort un canal cholédoque, long de plus
+de quatre pouces; mais comme il se contourne sur la
+crosse du duodénum pour se rendre dans cet intestin
+entre les racines des cæcums, la vésicule n’est pas
+autant rejetée en arrière que la longueur du canal
+pourrait le faire supposer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="371" y="1301"/>
+	<Point x="1739" y="1302"/>
+	<Point x="1740" y="2195"/>
+	<Point x="1248" y="2195"/>
+	<Point x="373" y="2194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sur le foie est placé un très-long æsophage, se
+continuant en un estomac terminé en cul-de-sac co‐
+nique. La veloutée paraît lisse, tant ses papilles sont
+ﬁnes et serrées; la longueur de cette portion de
+l’intestin est de douze à treize pouces, à compter
+depuis son entrée dans la cavité abdominale. De sa
+face inférieure, et à deux ou trois pouces du fond
+de l’estomac, descend une branche plus étroite que
+l’æsophage et longue d’environ deux pouces; elle
+se rétrécit alors par des rides longitudinales et
+grosses, et marque ainsi l’oriﬁce du pylore. Il n’y
+a point de valvule notable à cette ouverture.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="378" y="2198"/>
+	<Point x="987" y="2199"/>
+	<Point x="1730" y="2201"/>
+	<Point x="1727" y="2654"/>
+	<Point x="378" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le duodénum remonte vers le diaphragme, se
+cache sous le bord postérieur et aminci du foie,
+et cette anse a environ sept pouces. Il se contourne
+alors sous le foie et se dirige droit à l’anus dans
+une étendue de près de quinze pouces. Le rectum
+ferait environ six pouces de cette longueur. Une</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="325" y="210"/>
+	<Point x="325" y="292"/>
+	<Point x="428" y="292"/>
+	<Point x="428" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>54</Unicode></TextEquiv></TextRegion></Page></PcGts>

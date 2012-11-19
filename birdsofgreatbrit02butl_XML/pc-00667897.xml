@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667897">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T21:40:43</Created>
+	<LastChange>2012-02-10T09:52:19</LastChange></Metadata>
+	<Page imageFilename="00667897.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="925" y="192"/>
+	<Point x="1272" y="192"/>
+	<Point x="1272" y="247"/>
+	<Point x="925" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MARTIN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1957" y="202"/>
+	<Point x="2040" y="202"/>
+	<Point x="2040" y="260"/>
+	<Point x="1957" y="260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>37</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="147" y="315"/>
+	<Point x="2045" y="315"/>
+	<Point x="2045" y="565"/>
+	<Point x="147" y="565"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>to strengthen its walls is another puzzle, for the additional stability which it gives
+to a Swallow's nest is so considerable; that, taking a metal dipper ﬁlled with hay
+to the top of a chimney, I have only had to lower the edge of the metal pan
+below the nest and jerk it upwards, to secure the nest uninjured.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="160" y="567"/>
+	<Point x="2047" y="567"/>
+	<Point x="2048" y="1187"/>
+	<Point x="954" y="1191"/>
+	<Point x="160" y="1186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The food of the Martin consists wholly of insects, which it obtains on the
+wing; in conﬁnement, however, it readily feeds upon the usual soft food. In the
+ﬁrst week of July, 1891, my colleague, Mr. W. R. Ogilvie Grant obtained a nest
+of four House-Martins about a week old, and gave them to me. Following out
+the mistaken notions of many aviculturists I at ﬁrst fed these young birds partly
+upon raw rump-steak ﬁnely minced; but I also gave them a mixture of carefully
+selected ants' cocoons, and preserved yolk of egg, ground up in a mortar with
+maizena wafers, the whole carefully mixed together, and slightly damped. Upon
+this diet all four attained their full size, after which they refused the raw meat,
+but continued to eat the mixture greedily.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="145" y="1195"/>
+	<Point x="2045" y="1195"/>
+	<Point x="2045" y="2380"/>
+	<Point x="145" y="2380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I kept these birds in a basket ﬁlled with hay, and several times each day they
+were taken out and encouraged to ﬂy about the room; but now they began to
+object to return to the close conﬁnement of their basket; therefore I purchased a
+large cage, hung up a cocoa-nut nest lined with ﬂannel in one corner, and taught
+them to retire to it every evening, or whenever they appeared to feel the cold.
+At the end of a month the Martins were able to feed themselves, and, like all the
+Hirundinidœ when accustomed to soft food, they ate far more than was good for
+them. I now tried a change of diet, giving “Abrahams' Food for Nightingales,”
+damped ants' cocoons, cut up mealworms, and ﬂies; but it was of no use, for three
+of them soon died of plethora, and probably, in part, owing to insuﬃcient exercise,
+although we did our best to encourage them to exert themselves in various ways.
+One of our plans was to put all four on the ground at one end of the room, then
+run to the other end and call them: this was the signal for a most comical race,
+in which at ﬁrst they ran at a surprising rate though very awkwardly; but, as
+they became excited in the race, used their wings, and ﬁnished with a series of
+astounding leaps, ﬁnally ﬂying on to our arms, and either running up our sleeves,
+nestling down in the hollowed palms of our hands, or perching on our shoulders.
+My son used often to hold one up in his hand, and it invariably sprang up and
+pecked his nose, but only one of the four would do this.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="147" y="2385"/>
+	<Point x="2057" y="2385"/>
+	<Point x="2057" y="2630"/>
+	<Point x="147" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Although naturally so greedy, our Martins would always leave their food
+and ﬂy to us when called; they could not, therefore, be accused, like most cage-
+birds, of cupboard-love; they were also unlike other birds in their fondness for
+being handled and stroked.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="256" y="2635"/>
+	<Point x="2037" y="2635"/>
+	<Point x="2037" y="2695"/>
+	<Point x="247" y="2695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>My fourth bird lived until the morning of September 18th, and became a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="269" y="2710"/>
+	<Point x="384" y="2710"/>
+	<Point x="384" y="2743"/>
+	<Point x="269" y="2743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="1715" y="2708"/>
+	<Point x="1755" y="2708"/>
+	<Point x="1755" y="2744"/>
+	<Point x="1715" y="2744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion></Page></PcGts>

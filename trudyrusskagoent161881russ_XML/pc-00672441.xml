@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672441">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T14:06:19</Created>
+	<LastChange>2012-02-10T09:54:53</LastChange></Metadata>
+	<Page imageFilename="00672441.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="842" y="155"/>
+	<Point x="1158" y="155"/>
+	<Point x="1158" y="239"/>
+	<Point x="842" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 247 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="123" y="291"/>
+	<Point x="1878" y="291"/>
+	<Point x="1878" y="462"/>
+	<Point x="123" y="462"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ist abgestumpft kegelförmig. Beine hellgrau; die 4 Hinter-
+schienen ﬂach, am Ende schmal weisslich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="126" y="467"/>
+	<Point x="1885" y="467"/>
+	<Point x="1885" y="1280"/>
+	<Point x="126" y="1280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 21/2 — 3‴ lang, schmal, mit sehr schwach
+convexem Vorderrand, einfarbig, ziemlich dunkelgrau, (beim ♀
+etwas heller), auf dem Hinterrand oft mit einer Reihe kleiner,
+schwarzer, aber meistens undeutlicher Punkte. — Bei var. b
+(2 ♂♂) ist vor der Mitte ein sehr undeutlicher, in der Hälfte
+nach hinten eckiger, einwärts kaum heller gesäumter Querstrei-
+fen; von einem schwärzlichen Queraderpunkt ist eine sehr
+schwache Andeutung; ihm näher als dem Hinterrande ist ein
+ganz verloschener, grader, dem Hinterrande paralleler Quer-
+streifen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="130" y="1291"/>
+	<Point x="1891" y="1291"/>
+	<Point x="1891" y="1453"/>
+	<Point x="130" y="1453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel von der Gestalt der Elutella, weiss, fast durch-
+schimmernd, nur am Vorderrand schmal grau. Die Adern weiss.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="117" y="1458"/>
+	<Point x="1896" y="1458"/>
+	<Point x="1896" y="2198"/>
+	<Point x="117" y="2198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel hellgrau, an der Costalwurzel
+ohne verlängerte Schuppen. Ader 2, 3, 4 entspringen dicht
+bei einander (auf einem abgeschuppten männlichen Flügel bil-
+den aber 3 und 4 eine Gabel, deren Stiel fast so lang ist wie
+sie selbst!); 5 geht in die Flügelspitze, 6 in den Vorderrand;
+dicht hinter 6 ist noch eine Ader 7, die den Vorderrand nicht
+völlig erreicht.—Hinterﬂügel trüber als oben. Ader 2 kommt
+bei 1/4 aus der Medianader; 3 und 4 bald dahinter aus dem-
+selben Punkt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="128" y="2203"/>
+	<Point x="1899" y="2203"/>
+	<Point x="1899" y="2451"/>
+	<Point x="128" y="2451"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von dieser Art ﬁng Petersen bei Honda im Laufe des
+April über 50 Exemplare von verschiedener Güte, darunter
+nur drei Weibchen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="387" y="2516"/>
+	<Point x="1633" y="2516"/>
+	<Point x="1633" y="2616"/>
+	<Point x="387" y="2616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ephestia commatella Tab. XII, ﬁg. 50.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="152" y="2646"/>
+	<Point x="1889" y="2646"/>
+	<Point x="1889" y="2983"/>
+	<Point x="152" y="2983"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parva, alis ant. angustis, obscure rufescenti-cinereis, strigis
+duabus albidis, priore tenui, abbreviata, in comma extrorsus
+curvatum mutata, posteriore obsoleta, subrecta, margini postico
+parallela; post. cinereis, subpellucidis, fusco-venosis. (♂ ?)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="144" y="3005"/>
+	<Point x="1889" y="3005"/>
+	<Point x="1889" y="3173"/>
+	<Point x="144" y="3173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sehr kenntlich an dem dünnen, weisslichen, nach aussen
+gebogenen Comma auf dem Innenrand der Vorderﬂügel; es ist der</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r10" type="handwritten-annotation">
+	<Coords>
+	<Point x="273" y="2537"/>
+	<Point x="273" y="2583"/>
+	<Point x="355" y="2583"/>
+	<Point x="355" y="2537"/></Coords></GraphicRegion></Page></PcGts>

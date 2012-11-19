@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668969">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T18:38:39</Created>
+	<LastChange>2012-02-09T16:27:26</LastChange></Metadata>
+	<Page imageFilename="00668969.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="503" y="241"/>
+	<Point x="1039" y="241"/>
+	<Point x="1039" y="314"/>
+	<Point x="503" y="314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. CAPROS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1369" y="235"/>
+	<Point x="1480" y="235"/>
+	<Point x="1480" y="307"/>
+	<Point x="1369" y="307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>37</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="132" y="341"/>
+	<Point x="1483" y="341"/>
+	<Point x="1481" y="870"/>
+	<Point x="131" y="870"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>est cinq fois et demie; elle est coupée carrément et
+a treize rayons entiers. La pectorale a un peu moins
+du cinquième de la longueur totale et est un peu
+ponctuée; ses rayons sont au nombre de quatorze.
+La ventrale est un peu plus longue que la pectorale;
+son plus grand rayon est l’épineux, qui est en même
+temps très-fort et très-âpre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="303" y="876"/>
+	<Point x="1316" y="876"/>
+	<Point x="1316" y="938"/>
+	<Point x="303" y="938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 5; D. 9/23; A. 3/23; C. 13; P. 14; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="126" y="947"/>
+	<Point x="1498" y="945"/>
+	<Point x="1496" y="1507"/>
+	<Point x="1496" y="2369"/>
+	<Point x="876" y="2372"/>
+	<Point x="122" y="2372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout le corps et la joue de ce poisson sont couverts
+de petites écailles, qui le rendent partout très-rude au
+toucher: en les examinant à la loupe, on voit que leur
+partie cachée est ronde, sans échancrure ni dentelure,
+marquée de stries concentriques très-ﬁnes et très-
+nombreuses, et que leur partie découverte est héris‐
+sée de soies raides et pointues sur deux ou trois ran‐
+gées, et même dans celles du ventre sur plusieurs
+rangs. Ce sont toutes ces soies réunies qui forment la
+villosité ou plutôt la scabrosité de toute la surface;
+jointes à la forme du museau, quand il se projette
+en avant, elles donnent à ce poisson un double titre
+au nom d’aper ou de sanglier. Il n’y a point d’écailles
+sur les nageoires. La ligne latérale se voit diﬃcile‐
+ment au milieu de ces scabrosités, mais avec de
+l’attention on reconnaît qu’elle fait une courbe plus
+convexe vers le dos que le dos lui-même, et après être
+descendue vis-à-vis la ﬁn de la deuxième dorsale, elle
+suit droit le milieu de la queue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="155" y="2376"/>
+	<Point x="1488" y="2376"/>
+	<Point x="1488" y="2528"/>
+	<Point x="155" y="2528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La couleur générale de ce poisson est un brun
+rougeâtre plus ou moins intense.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="89" y="2544"/>
+	<Point x="1505" y="2541"/>
+	<Point x="1505" y="2726"/>
+	<Point x="87" y="2730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’espèce reste petite; notre plus grand in‐
+dividu est long de six pouces, mais ceux de</Unicode></TextEquiv></TextRegion></Page></PcGts>

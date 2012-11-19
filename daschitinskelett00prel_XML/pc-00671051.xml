@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671051">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T10:06:59</Created>
+	<LastChange>2012-03-12T14:34:01</LastChange></Metadata>
+	<Page imageFilename="00671051.tif" imageWidth="2585" imageHeight="3480">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="264" y="118"/>
+	<Point x="355" y="118"/>
+	<Point x="355" y="162"/>
+	<Point x="264" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>qQL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="265" y="164"/>
+	<Point x="351" y="164"/>
+	<Point x="351" y="205"/>
+	<Point x="265" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>503</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="264" y="213"/>
+	<Point x="414" y="213"/>
+	<Point x="414" y="254"/>
+	<Point x="264" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P8P7X</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="263" y="264"/>
+	<Point x="354" y="264"/>
+	<Point x="354" y="300"/>
+	<Point x="263" y="300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ENT</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="117" y="645"/>
+	<Point x="219" y="645"/>
+	<Point x="219" y="691"/>
+	<Point x="117" y="691"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1913</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="110" y="475"/>
+	<Point x="303" y="475"/>
+	<Point x="303" y="517"/>
+	<Point x="110" y="517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Protura</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="110" y="556"/>
+	<Point x="340" y="556"/>
+	<Point x="340" y="610"/>
+	<Point x="110" y="610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prell, H.</Unicode></TextEquiv></TextRegion></Page></PcGts>

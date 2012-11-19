@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667928">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:43:59</Created>
+	<LastChange>2012-02-10T09:52:23</LastChange></Metadata>
+	<Page imageFilename="00667928.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r18" index="0"/>
+	<RegionRefIndexed regionRef="r24" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r25" index="4"/>
+	<RegionRefIndexed regionRef="r17" index="5"/>
+	<RegionRefIndexed regionRef="r20" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/>
+	<RegionRefIndexed regionRef="r7" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="788" y="611"/>
+	<Point x="1671" y="611"/>
+	<Point x="1671" y="697"/>
+	<Point x="788" y="697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE COMMON CROSSBILL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="950" y="773"/>
+	<Point x="1514" y="773"/>
+	<Point x="1514" y="826"/>
+	<Point x="950" y="826"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Loxia curvirostra, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="292" y="1414"/>
+	<Point x="2180" y="1414"/>
+	<Point x="2180" y="2535"/>
+	<Point x="292" y="2535"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In colouring this species nearly resembles the Two-barred Crossbill, excepting
+in the absence of the white tips to the greater and median wing-coverts: perhaps
+the male is a little less brilliant in colour, and the female a little more orange;
+but as these birds vary in these respects with age, it is not safe to speak positively:
+one thing is certain—that, in captivity the red colouring is entirely lost after the
+ﬁrst moult; but whether permanently it is not safe to say without experimenting,
+inasmuch as many birds, notably the American Nonpareil (Cyanospiza ciris) lose
+their red colouring in the same manner; yet the Nonpareil, at any rate if
+exposed in an airy and sunny aviary for a year or two, and supplied with plenty
+of insect-food, reproduces the red colouring. The mandibles of the young bird
+are straight, the lower mandible being covered by the cutting edges of the upper;
+but in the adult birds it curves upwards towards the tip, that of the male (in
+the ordinary variety) barely reaching to a level with the culmen of the upper
+mandible, on the inside if viewed from above; that of the female, which has much
+the longer, less arched, and more slender beak, projecting well above the culmen
+on the outside. This diﬀerent crossing of the mandibles in the sexes probably
+enables the male to feed the female; otherwise it is diﬃcult to understand its
+object.*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="293" y="2540"/>
+	<Point x="2180" y="2540"/>
+	<Point x="2180" y="2673"/>
+	<Point x="293" y="2673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Crossbill is an irregular migrant; consequently if food is scarce in the
+north, it wanders southward to search for sustenance there: in winter the species</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="300" y="2683"/>
+	<Point x="2180" y="2683"/>
+	<Point x="2180" y="2771"/>
+	<Point x="300" y="2771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Since writing the above, I ﬁnd that this character is not constant; it would, therefore, be of interest
+to note whether pairs are ever shot from one nest having their beaks similarly crossed. A.G.B.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="304" y="278"/>
+	<Point x="407" y="278"/>
+	<Point x="407" y="338"/>
+	<Point x="304" y="338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>52</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="895" y="269"/>
+	<Point x="1559" y="269"/>
+	<Point x="1559" y="333"/>
+	<Point x="895" y="333"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE COMMON CROSSBILL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="297" y="388"/>
+	<Point x="973" y="388"/>
+	<Point x="973" y="466"/>
+	<Point x="297" y="466"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1452" y="392"/>
+	<Point x="2180" y="392"/>
+	<Point x="2180" y="466"/>
+	<Point x="1452" y="466"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="drop-capital">
+	<Coords>
+	<Point x="310" y="909"/>
+	<Point x="310" y="1064"/>
+	<Point x="451" y="1064"/>
+	<Point x="391" y="909"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="407" y="906"/>
+	<Point x="2185" y="907"/>
+	<Point x="2185" y="1093"/>
+	<Point x="482" y="1093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CCORDING to Dr. R. Bowdler Sharpe, this species inhabits “the greater
+part of Europe and Northern Asia, to Japan and North China, Himalayas,
+North America as far as Mexico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="293" y="1101"/>
+	<Point x="2185" y="1101"/>
+	<Point x="2185" y="1411"/>
+	<Point x="293" y="1411"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Great Britain, the Crossbill is principally conﬁned during the summer
+months to the pine forests of Scotland; though it has bred in several of the
+eastern counties of Ireland, and in Tipperary, as well as in North Wales and
+some of the counties of England: here, however, it is most frequently met with
+during the winter, sometimes in ﬂocks, though often only in small parties.</Unicode></TextEquiv></TextRegion></Page></PcGts>

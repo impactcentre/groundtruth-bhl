@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668640">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:45:38</Created>
+	<LastChange>2012-02-10T10:29:27</LastChange></Metadata>
+	<Page imageFilename="00668640.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1077" y="139"/>
+	<Point x="1508" y="139"/>
+	<Point x="1508" y="184"/>
+	<Point x="1077" y="184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.—PLATE II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="1309" y="347"/>
+	<Point x="2222" y="347"/>
+	<Point x="2222" y="493"/>
+	<Point x="1309" y="493"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This ﬁne species is remarkably distinct from any other,
+unless a comparison be made with the A. lactea, which is
+smaller and unspotted.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="364" y="228"/>
+	<Point x="1267" y="228"/>
+	<Point x="1267" y="325"/>
+	<Point x="364" y="325"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>callosâ, subangustè truncatâ; niveâ, purpureo-castaneo
+variegatâ, columellâ et aperturœ fauce niveis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="358" y="327"/>
+	<Point x="1266" y="327"/>
+	<Point x="1266" y="648"/>
+	<Point x="358" y="648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE RETICULATED ACHATINA. Shell elongately ovate,
+somewhat fusiform, thick, whorls nine in number,
+plicately wrinkled and striated, concentrically crenated
+at the sutures, columella callous, rather narrowly
+truncated; snowy-white, variegated with purple-
+chesnut, columella and interior of the aperture snowy-
+white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1308" y="227"/>
+	<Point x="1925" y="227"/>
+	<Point x="1925" y="270"/>
+	<Point x="1308" y="270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc. 1845. p. 74.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1311" y="272"/>
+	<Point x="1911" y="272"/>
+	<Point x="1911" y="316"/>
+	<Point x="1311" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Africa.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="1035" y="1227"/>
+	<Point x="1035" y="1245"/>
+	<Point x="1506" y="1245"/>
+	<Point x="1506" y="1227"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="1277" y="227"/>
+	<Point x="1277" y="645"/>
+	<Point x="1298" y="645"/>
+	<Point x="1298" y="227"/></Coords></SeparatorRegion></Page></PcGts>

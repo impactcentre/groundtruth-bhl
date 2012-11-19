@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668204">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:44:12</Created>
+	<LastChange>2012-02-10T09:52:44</LastChange></Metadata>
+	<Page imageFilename="00668204.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="138" y="252"/>
+	<Point x="2014" y="252"/>
+	<Point x="2014" y="2671"/>
+	<Point x="138" y="2671"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="2119" y="1170"/>
+	<Point x="2176" y="1170"/>
+	<Point x="2176" y="1715"/>
+	<Point x="2119" y="1715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRESTED LARK � 9/10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="caption">
+	<Coords>
+	<Point x="2197" y="1350"/>
+	<Point x="2239" y="1350"/>
+	<Point x="2239" y="1548"/>
+	<Point x="2197" y="1548"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 105.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668671">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T13:50:06</Created>
+	<LastChange>2012-02-10T10:29:29</LastChange></Metadata>
+	<Page imageFilename="00668671.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r60" index="2"/>
+	<RegionRefIndexed regionRef="r41" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r43" index="8"/>
+	<RegionRefIndexed regionRef="r49" index="9"/>
+	<RegionRefIndexed regionRef="r9" index="10"/>
+	<RegionRefIndexed regionRef="r51" index="11"/>
+	<RegionRefIndexed regionRef="r135" index="12"/>
+	<RegionRefIndexed regionRef="r11" index="13"/>
+	<RegionRefIndexed regionRef="r64" index="14"/>
+	<RegionRefIndexed regionRef="r13" index="15"/>
+	<RegionRefIndexed regionRef="r58" index="16"/>
+	<RegionRefIndexed regionRef="r17" index="17"/>
+	<RegionRefIndexed regionRef="r18" index="18"/>
+	<RegionRefIndexed regionRef="r19" index="19"/>
+	<RegionRefIndexed regionRef="r20" index="20"/>
+	<RegionRefIndexed regionRef="r21" index="21"/>
+	<RegionRefIndexed regionRef="r22" index="22"/>
+	<RegionRefIndexed regionRef="r99" index="23"/>
+	<RegionRefIndexed regionRef="r24" index="24"/>
+	<RegionRefIndexed regionRef="r25" index="25"/>
+	<RegionRefIndexed regionRef="r29" index="26"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="922" y="262"/>
+	<Point x="1380" y="262"/>
+	<Point x="1380" y="322"/>
+	<Point x="922" y="322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1085" y="365"/>
+	<Point x="1222" y="365"/>
+	<Point x="1222" y="400"/>
+	<Point x="1085" y="400"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Plate X.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="241" y="785"/>
+	<Point x="1135" y="783"/>
+	<Point x="1134" y="1112"/>
+	<Point x="243" y="1116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PAINTED ACHATINA. Shell conically ovate, sutures
+of the spire impressed, whorls seven in number,
+smooth, polished, or obliquely very ﬁnely striated,
+columella short, scarcely truncated, aperture small;
+yellow, encircled round the middle with a double ﬁllet
+of chestnut clouded spots, and ornamented here and
+there with large green blotches.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="240" y="1119"/>
+	<Point x="1132" y="1117"/>
+	<Point x="1130" y="1209"/>
+	<Point x="242" y="1214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>REEVE, Pro. Zool. Soc., 1842, p. 56. Conch. Syst. vol. ii.
+p. 87. pl. 177. f. 5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="234" y="1216"/>
+	<Point x="576" y="1216"/>
+	<Point x="576" y="1253"/>
+	<Point x="234" y="1253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Island of Cuba.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="235" y="1277"/>
+	<Point x="1128" y="1276"/>
+	<Point x="1125" y="1375"/>
+	<Point x="240" y="1373"/>
+	<Point x="237" y="1370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Very richly painted, but in a diﬀerent style from either
+of the following species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="232" y="1875"/>
+	<Point x="1124" y="1872"/>
+	<Point x="1116" y="2247"/>
+	<Point x="233" y="2252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BANDED ACHATINA. Shell somewhat pyramidally
+ovate, rather solid, whorls eight in number, ﬂatly
+convex, smooth, polished, columella rather short,
+callous, scarcely truncated, aperture small, lip cre-
+nated; white, ornamented with broad yellow bands
+painted with large oblique square-oblong green
+blotches, encircled with green lines; sometimes white,
+with the green lines only, apex pink.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1166" y="874"/>
+	<Point x="2086" y="874"/>
+	<Point x="2088" y="1170"/>
+	<Point x="1166" y="1167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It will be seen by the accompanying ﬁgures and the one
+referred to in the preceding plate, that the painting of this
+species is extremely variable; one portion of the colour,
+however, the ﬁne green lines which encircle the shell, is
+rarely absent, and it is curious to remark that where these
+reach the lip, there is a notch corresponding to each line.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="1305" y="1213"/>
+	<Point x="1921" y="1213"/>
+	<Point x="1921" y="1264"/>
+	<Point x="1305" y="1264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 36. (Fig. a, b, c, Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1170" y="1275"/>
+	<Point x="2088" y="1275"/>
+	<Point x="2088" y="1558"/>
+	<Point x="1170" y="1558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA VIRGINEA. Achat. testâ pyramidali-ovatâ, soli-
+diusculâ, anfractibus septem ad octo, lœvibus, politis,
+columellâ arcuatâ, brevi, truncatâ; aperturâ parvâ;
+cœrulescente-albâ, lineis fasciisque angustis miniatis
+viridibus et nigris variè cingulatâ, columellâ nunc albâ,
+nunc intensè roseâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1165" y="1562"/>
+	<Point x="2066" y="1562"/>
+	<Point x="2068" y="1855"/>
+	<Point x="1165" y="1853"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE VIRGIN ACHATINA. Shell pyramidally ovate,
+rather solid, whorls seven to eight in number, smooth,
+polished, columella small, short, truncated; aperture
+small; bluish-white, variously encircled with ver‐
+milion green and black lines and narrow bands, colu‐
+mella sometimes white, sometimes deep rose.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1168" y="1858"/>
+	<Point x="2051" y="1858"/>
+	<Point x="2051" y="1942"/>
+	<Point x="1168" y="1949"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshaye’s edit.) vol. viii.
+p. 299.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1165" y="1953"/>
+	<Point x="1540" y="1953"/>
+	<Point x="1542" y="1994"/>
+	<Point x="1166" y="1997"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulla virginea, Linnæus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1165" y="2238"/>
+	<Point x="1622" y="2238"/>
+	<Point x="1622" y="2282"/>
+	<Point x="1165" y="2282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Cuba &amp;c., West Indies.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1018" y="2559"/>
+	<Point x="1249" y="2559"/>
+	<Point x="1249" y="2604"/>
+	<Point x="1018" y="2604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>March, 1849.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r30">
+	<Coords>
+	<Point x="1143" y="438"/>
+	<Point x="1161" y="438"/>
+	<Point x="1153" y="2500"/>
+	<Point x="1131" y="2500"/>
+	<Point x="1138" y="1519"/>
+	<Point x="1141" y="1121"/>
+	<Point x="1141" y="784"/>
+	<Point x="1145" y="653"/>
+	<Point x="1144" y="491"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r31">
+	<Coords>
+	<Point x="462" y="1392"/>
+	<Point x="916" y="1392"/>
+	<Point x="916" y="1412"/>
+	<Point x="462" y="1412"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r32">
+	<Coords>
+	<Point x="905" y="2525"/>
+	<Point x="1357" y="2525"/>
+	<Point x="1357" y="2547"/>
+	<Point x="905" y="2547"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r33">
+	<Coords>
+	<Point x="1403" y="1182"/>
+	<Point x="1401" y="1202"/>
+	<Point x="1570" y="1202"/>
+	<Point x="1834" y="1201"/>
+	<Point x="1834" y="1185"/>
+	<Point x="1575" y="1183"/></Coords></SeparatorRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="242" y="505"/>
+	<Point x="1136" y="505"/>
+	<Point x="1135" y="771"/>
+	<Point x="1135" y="779"/>
+	<Point x="242" y="781"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA PICTA. Achat. testâ conico-ovatâ, spirœ suturis
+impressis, anfractibus septem, lœvibus, politis, vel
+obliquè tenuissimè striatis, columellâ brevi, vix truncatâ,
+aperturâ parvâ, luteâ, maculis castaneis nebulatis, tœniâ
+duplicatâ, medio cinctâ, maculis viridibus grandibus hic
+illic ornatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="heading">
+	<Coords>
+	<Point x="317" y="1416"/>
+	<Point x="1048" y="1416"/>
+	<Point x="1048" y="1525"/>
+	<Point x="317" y="1525"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 35. (Fig. a, b, c; and Pl. IX. Fig. 29,
+Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="233" y="1532"/>
+	<Point x="1131" y="1533"/>
+	<Point x="1127" y="1864"/>
+	<Point x="236" y="1869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA FASCIATA. Achat. testâ subpyramidali-ovatâ,
+solidiusculâ, anfractibus octo, plano-convexis, lœvibus,
+politis, columellâ breviusculâ, callosâ, vix truncatâ,
+aperturâ parvâ, labro crenato; albâ, fasciis latis luteis,
+maculis viridibus quadrato-oblongis obliquis ornatâ,
+lineis viridibus cingulatâ; interdum albâ, viridi lineatâ,
+apice roseo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="235" y="2256"/>
+	<Point x="843" y="2256"/>
+	<Point x="844" y="2300"/>
+	<Point x="234" y="2298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SWAINSON, Zool. Illus., vol. iii. pl. 162.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1162" y="2298"/>
+	<Point x="2062" y="2298"/>
+	<Point x="2062" y="2499"/>
+	<Point x="1162" y="2499"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>There is little variation in the style of painting of this
+well-known species although the colours occasionally diﬀer.
+They are mostly very brilliant and the shell has all the
+appearance of painted porcelain.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="heading">
+	<Coords>
+	<Point x="458" y="435"/>
+	<Point x="911" y="435"/>
+	<Point x="911" y="500"/>
+	<Point x="458" y="500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 34. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="paragraph">
+	<Coords>
+	<Point x="1179" y="557"/>
+	<Point x="1344" y="557"/>
+	<Point x="1344" y="601"/>
+	<Point x="1179" y="601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Varietates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="1178" y="818"/>
+	<Point x="1711" y="818"/>
+	<Point x="1711" y="864"/>
+	<Point x="1178" y="864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Island of Cuba, West Indies.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r135" type="paragraph">
+	<Coords>
+	<Point x="295" y="2303"/>
+	<Point x="769" y="2303"/>
+	<Point x="769" y="2487"/>
+	<Point x="295" y="2487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum fasciatum, Muller.
+Bulla fasciata, Chemnitz.
+Bulimus vexillum, Bruguiére.
+Achatina vexillum, Lamarck,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1254" y="442"/>
+	<Point x="1734" y="442"/>
+	<Point x="1734" y="545"/>
+	<Point x="1254" y="545"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cochlitoma vexillum, Férussac.
+Achatina lineata, Valenciennes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1245" y="622"/>
+	<Point x="1710" y="622"/>
+	<Point x="1710" y="816"/>
+	<Point x="1245" y="816"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Achatina crenata, Swainson.
+Achatina pallida, Swainson.
+Achatina Anais, Lesson.
+Bulimus zebra, D'Orbigny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r99" type="paragraph">
+	<Coords>
+	<Point x="1224" y="1999"/>
+	<Point x="1720" y="1999"/>
+	<Point x="1720" y="2234"/>
+	<Point x="1224" y="2234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum virgineum, Muller.
+Lignus virgineus, De Montford.
+Bulimus virgineus, Bruguiére.
+Cochlitoma virginea, Férussac.
+Achatina vittata, Swainson.</Unicode></TextEquiv></TextRegion></Page></PcGts>

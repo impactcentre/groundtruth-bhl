@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668051">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:56:53</Created>
+	<LastChange>2012-02-10T09:52:33</LastChange></Metadata>
+	<Page imageFilename="00668051.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="137" y="180"/>
+	<Point x="2182" y="180"/>
+	<Point x="2182" y="2779"/>
+	<Point x="137" y="2779"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="926" y="2846"/>
+	<Point x="1567" y="2846"/>
+	<Point x="1567" y="2897"/>
+	<Point x="926" y="2897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>YELLOW BUNTING ♀, � �.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="1076" y="2933"/>
+	<Point x="1257" y="2933"/>
+	<Point x="1257" y="2966"/>
+	<Point x="1076" y="2966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 86.</Unicode></TextEquiv></TextRegion></Page></PcGts>

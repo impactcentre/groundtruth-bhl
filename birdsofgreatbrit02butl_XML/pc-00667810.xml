@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667810">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T06:01:32</Created>
+	<LastChange>2012-02-10T09:52:07</LastChange></Metadata>
+	<Page imageFilename="00667810.tif" imageWidth="2293" imageHeight="3062">
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="595" y="2921"/>
+	<Point x="1046" y="2921"/>
+	<Point x="1045" y="2956"/>
+	<Point x="805" y="2961"/>
+	<Point x="594" y="2961"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIGS. 245—254 SKY-LARK.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="caption">
+	<Coords>
+	<Point x="1475" y="2913"/>
+	<Point x="1760" y="2913"/>
+	<Point x="1760" y="2950"/>
+	<Point x="1475" y="2950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>255 WOODLARK.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="46" y="113"/>
+	<Point x="1088" y="133"/>
+	<Point x="1114" y="126"/>
+	<Point x="1761" y="121"/>
+	<Point x="2188" y="93"/>
+	<Point x="2219" y="113"/>
+	<Point x="2219" y="2911"/>
+	<Point x="46" y="2911"/>
+	<Point x="17" y="248"/>
+	<Point x="25" y="202"/></Coords></ImageRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="1049" y="77"/>
+	<Point x="1049" y="116"/>
+	<Point x="1167" y="116"/>
+	<Point x="1167" y="77"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pl ��</Unicode></TextEquiv></TextRegion></Page></PcGts>

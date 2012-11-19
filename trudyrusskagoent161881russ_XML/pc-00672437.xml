@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672437">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:35:33</Created>
+	<LastChange>2012-02-10T09:54:53</LastChange></Metadata>
+	<Page imageFilename="00672437.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="867" y="176"/>
+	<Point x="1199" y="176"/>
+	<Point x="1199" y="262"/>
+	<Point x="867" y="262"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 243 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="149" y="333"/>
+	<Point x="1910" y="333"/>
+	<Point x="1910" y="992"/>
+	<Point x="1576" y="994"/>
+	<Point x="149" y="992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>was heller. Fühler kurzhaarig gefranzt, an der ersten Hälfte
+etwas verdickt, oberhalb des kurzen, verdickten Wurzelglie-
+des auf dem Rücken mit einem tiefen, verhältnissmässig brei-
+ten Einschnitt. Taster innen hell, ziemlich schlank, aufwärts
+gekrümmt, spitz, bis über die zugerundete Stirn reichend. Sau-
+ger vorhanden. Beine bräunlich, innen hell; Hinterschienen we-
+nig ﬂach, am Ende in geringer Ausdehnung hell. Hinterleib
+gelblichgrau; Analbusch bleich gelblich, länglich zugerundet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="157" y="998"/>
+	<Point x="1912" y="998"/>
+	<Point x="1912" y="1994"/>
+	<Point x="157" y="1994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 31/4—4‴ lang, schmal, nach hinten schwach
+erweitert, mit sehr schwach convexem Vorderrand und deut-
+licher Spitze, dunkel bräunlichgrau, ziemlich dünn beschuppt;
+die Längsadern, besonders die Medianader mit ihren Aesten
+schwarz, was aber durch helle Stellen unterbrochen und in
+kurze Längslinien zerlegt wird. Nur die hintere helle Querli-
+nie ist mehr oder weniger deutlich; sie ist von den zwei schwärz-
+lichen, zusammengeﬂossenen Queraderpunkten doppelt so weit
+entfernt wie vom Hinterrande, etwas gezähnelt, im obersten
+Drittel mit einer Krümmung einwärts und hier beiderseits dunk-
+ler und breiter braun gerandet als am Rest. Der Hinterrand
+trägt eine Reihe dunkel schwarzer Punkte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="149" y="1998"/>
+	<Point x="1903" y="1998"/>
+	<Point x="1903" y="2246"/>
+	<Point x="149" y="2246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel gestreckt, zugespitzt, lichtgrau, durchscheinend,
+am Hinterrande schmal gebräunt; die Adern noch dunkler.
+Die Franzen hellgrau mit feiner, gelblicher Wurzellinie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1719" y="3157"/>
+	<Point x="1816" y="3157"/>
+	<Point x="1816" y="3205"/>
+	<Point x="1719" y="3205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="137" y="2248"/>
+	<Point x="1917" y="2248"/>
+	<Point x="1919" y="3132"/>
+	<Point x="1674" y="3130"/>
+	<Point x="1646" y="3158"/>
+	<Point x="137" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel grau, längs des Vorderrandes
+braun, wie die verstärkten Subcostal- und Medianader. Letz-
+tere ist 4ästig; Ast 1 entspringt weit hinter der Mitte, Ast
+2 nicht so weit von ihm als von der Endgabel, deren Stiel
+etwas kürzer, bei einem Exemplar um die Hälfte kürzer ist als
+sie selbst. — Hinterﬂügel heller als oben, in der Costalzelle
+bräunlich grau. Ast 1 der Medianader kommt von 2/5, Ast 2,
+vor welchem die Querader, bei 1/2; die Beschaﬀenheit von Ast
+3 ist oben angegeben. Die Gabel, in welche sich die Subcos-
+talader bei 1/2 spaltet, mündet mit ihrem oberen Ast dicht
+über der Flügelspitze.</Unicode></TextEquiv></TextRegion></Page></PcGts>

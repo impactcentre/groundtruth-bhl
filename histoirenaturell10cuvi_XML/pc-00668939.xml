@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668939">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T17:35:11</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668939.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="79" y="313"/>
+	<Point x="1475" y="313"/>
+	<Point x="1475" y="889"/>
+	<Point x="79" y="889"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>surtout en Bretagne.1 Les Espagnols, les Lan-
+guedociens2, les Sardes3, lui donnent un nom
+analogue, gal, qui se reproduit en Sicile sous
+les formes de gallo et de gadda4. Les Marseillais
+le nomment truette et les habitans d'Antibes
+rode5; son nom particulier à Rome est cetola
+ou citula6, à Malte larnata.7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="74" y="900"/>
+	<Point x="1485" y="900"/>
+	<Point x="1485" y="2346"/>
+	<Point x="74" y="2346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans beaucoup de ports de la Méditerranée
+et même de l'Océan, on lui donne aussi le
+nom de poisson Saint-Pierre, d'après la sup-
+position, qui, sans doute, n'a jamais été
+sérieuse, que ç'aurait été un poisson de
+cette espèce que saint Pierre tira de la mer
+par ordre de Jésus-Christ, et dans la bouche
+duquel il trouva un denier pour payer le
+tribut8, et que l'empreinte des doigts de l'apôtre
+serait demeurée à toujours à toute l'espèce
+dans cette tache noire qu'elle a sur chaque
+ﬂanc. D'après une supposition analogue, on
+l'appelle en d'autres endroits poisson Saint-
+Christophe; les Grecs modernes le nomment
+même poisson de Christ (Christo-psaro), et
+ont coutume de le suspendre dans leurs églises.9
+On l'appelle aussi en Galice poisson Saint-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="578" y="216"/>
+	<Point x="991" y="216"/>
+	<Point x="991" y="268"/>
+	<Point x="578" y="268"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. ZÉES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="page-number">
+	<Coords>
+	<Point x="1424" y="212"/>
+	<Point x="1471" y="212"/>
+	<Point x="1471" y="267"/>
+	<Point x="1424" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r22">
+	<Coords>
+	<Point x="83" y="2367"/>
+	<Point x="1481" y="2367"/>
+	<Point x="1481" y="2396"/>
+	<Point x="83" y="2396"/></Coords></SeparatorRegion>
+	<TextRegion id="r23" type="footnote">
+	<Coords>
+	<Point x="77" y="2414"/>
+	<Point x="1487" y="2414"/>
+	<Point x="1487" y="2533"/>
+	<Point x="77" y="2533"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Duhamel. — 2. Rondelet. — 3. Celli. 4. Raﬁnesque. —
+5. Rondelet. — 6. Rondelet, Bélon, Salviani. — 7. Raﬁnesque.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="footnote">
+	<Coords>
+	<Point x="140" y="2540"/>
+	<Point x="787" y="2540"/>
+	<Point x="787" y="2597"/>
+	<Point x="140" y="2597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8. S. Matth. chap. XVII. 27.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="footnote">
+	<Coords>
+	<Point x="141" y="2602"/>
+	<Point x="1057" y="2602"/>
+	<Point x="1057" y="2659"/>
+	<Point x="141" y="2659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>9. Gillius, Nom. gall. pisc. massil., c. 42.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669022">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T02:14:59</Created>
+	<LastChange>2012-02-09T16:27:29</LastChange></Metadata>
+	<Page imageFilename="00669022.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="352" y="316"/>
+	<Point x="1770" y="316"/>
+	<Point x="1770" y="653"/>
+	<Point x="352" y="653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>marque pas les dentelures du dos et du ventre,
+et il compte à la dorsale huit épines et seize
+rayons mous; mais ce sont de légères inad‐
+vertances.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="344" y="660"/>
+	<Point x="1776" y="660"/>
+	<Point x="1776" y="1007"/>
+	<Point x="344" y="1007"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ne voyons pas quelle diﬀérence spé‐
+ciﬁque on pourrait établir entre cet equula
+argenté à dents crochues ou ce scomber mi-
+nutus, et le zeus argentarius de Forster.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="403" y="1037"/>
+	<Point x="1776" y="1037"/>
+	<Point x="1776" y="2168"/>
+	<Point x="403" y="2168"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La forme générale de celui-ci, d’après le dessin
+que nous avons sous les yeux1, est la même, et les
+détails dans lesquels entre la description2 s’y rappor‐
+tent autant qu’on peut l’exiger. Dans tous les cas, c’est
+dans cette petite tribu qu’il faudra le placer. Il y
+est dit, touchant les dents : �dentes maxillæ supe-
+rioris duo incurvi, reliqui minuti, conferti; inferioris
+magni incurvi, a medio versus angulum faucium
+sensim decrescentes.� Les mots suivans : in margine
+interiore aperturæ claviculæ duobus utrinque acu-
+leis porrectis, cute communi tectis, ont rapport à
+deux angles saillans qui se voient en eﬀet au bord
+antérieur de l’épaule quand on soulève l’opercule.
+Les diﬀérences des nombres n’ont aussi rien que de
+très-ordinaire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="416" y="2176"/>
+	<Point x="1766" y="2176"/>
+	<Point x="1766" y="2260"/>
+	<Point x="416" y="2260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 4; D. 8/16 et une épine couchée; A. 3/14; C. 16; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="436" y="2273"/>
+	<Point x="1764" y="2273"/>
+	<Point x="1764" y="2378"/>
+	<Point x="436" y="2378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forster avait pris ce poisson dans la mer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="363" y="2493"/>
+	<Point x="1777" y="2494"/>
+	<Point x="1777" y="2612"/>
+	<Point x="1041" y="2616"/>
+	<Point x="958" y="2625"/>
+	<Point x="949" y="2628"/>
+	<Point x="937" y="2627"/>
+	<Point x="933" y="2626"/>
+	<Point x="920" y="2616"/>
+	<Point x="365" y="2622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Il a été calqué par M.me Lee Bowdich (Formerly) sur l’original
+conservé dans la bibliothèque de Banks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="417" y="2626"/>
+	<Point x="906" y="2628"/>
+	<Point x="953" y="2633"/>
+	<Point x="970" y="2631"/>
+	<Point x="985" y="2627"/>
+	<Point x="995" y="2625"/>
+	<Point x="1032" y="2625"/>
+	<Point x="1760" y="2624"/>
+	<Point x="1763" y="2697"/>
+	<Point x="417" y="2693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Système posth. de Bloch, édit. de Schneider, p. 96, n.°9.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="353" y="208"/>
+	<Point x="472" y="208"/>
+	<Point x="472" y="295"/>
+	<Point x="353" y="295"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="713" y="215"/>
+	<Point x="1383" y="215"/>
+	<Point x="1383" y="291"/>
+	<Point x="713" y="291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="362" y="2422"/>
+	<Point x="1759" y="2423"/>
+	<Point x="1756" y="2453"/>
+	<Point x="363" y="2464"/></Coords></SeparatorRegion></Page></PcGts>

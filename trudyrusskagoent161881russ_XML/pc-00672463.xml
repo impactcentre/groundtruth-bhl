@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672463">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T19:39:36</Created>
+	<LastChange>2012-02-10T09:54:57</LastChange></Metadata>
+	<Page imageFilename="00672463.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="757" y="173"/>
+	<Point x="1067" y="173"/>
+	<Point x="1067" y="251"/>
+	<Point x="757" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 253 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="114" y="308"/>
+	<Point x="1792" y="308"/>
+	<Point x="1792" y="646"/>
+	<Point x="114" y="646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Weiss, das schmale Wurzel-, das Mittel- und Saumfeld
+braun; das Mittelfeld beiderseits von einer breiten Binde
+der rein weissen Grundfarbe eingefasst, führt einen grossen,
+rundlichen, tiefschwarzen Mittelﬂeck.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="114" y="651"/>
+	<Point x="1789" y="651"/>
+	<Point x="1789" y="1142"/>
+	<Point x="114" y="1142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kopf schneeweiss, Halskragen bräunlich; die Palpen
+länger als der Kopf, abwärts geneigt, oben und an den
+Seiten dunkelbraun, unten die ersten beiden Glieder weiss-
+lich. Die Zunge lang, dünn, gelblich. Die Fühler grau-
+braun, oben dunkler geringelt, beim ♂ mit sehr feinen
+Wimpern.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="119" y="1146"/>
+	<Point x="1794" y="1146"/>
+	<Point x="1794" y="1391"/>
+	<Point x="119" y="1391"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beine grau, die beiden vorderen Paare heller geringelt.
+Die mittleren Schienen mit einem, die hintern mit 2 Spo-
+renpaaren.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="105" y="1407"/>
+	<Point x="1798" y="1407"/>
+	<Point x="1798" y="2325"/>
+	<Point x="105" y="2325"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das ♂ ist kleiner (10 mm.) als das ♀ (12 mm.), und
+dunkler gezeichnet. Namentlich ist bei jenem das Wurzel-
+und Mittelfeld, in denen die weisse Grundfarbe mehr oder
+weniger hervortritt, am Vorderrande, letzteres auch am In-
+nenrande breiter und dunkler braun gefärbt. Auch sind
+beim ♂ die beiden das Mittelfeld einschliessenden weissen
+Binden von einer braunen Linie durchzogen. Das einförmig
+dunkle Saumfeld ist nur von der feinen, aber scharf weis-
+sen, bisweilen unterbrochenen Wellenlinie durchzogen. Die
+Franzen sind an der Wurzel grau und weiss gescheckt,
+aussen hellgrau (beim ♂ etwas dunkler).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="116" y="2335"/>
+	<Point x="1798" y="2335"/>
+	<Point x="1798" y="2751"/>
+	<Point x="116" y="2751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel braungrau, in der Saumhälfte am dunkelsten,
+mit feinem dunkeln Mittelpunkte, bei ⅔ von einer helleren
+Binde durchzogen. Franzen des ♂ bräunlich grau, die Wur-
+zelhälfte dunkler, beim ♀ hellgrau, die Wurzelhälfte dunkler
+gescheckt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="124" y="2762"/>
+	<Point x="1792" y="2762"/>
+	<Point x="1792" y="3103"/>
+	<Point x="124" y="3103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel rauchbraun, in der Saum-
+hälfte am dunkelsten. Die äussere weisse Binde der Ober-
+seite schimmert matt durch, bildet aber am Vorderrande
+einen deutlichen, weisslichen Fleck. Die Franzen sind</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668815">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T01:14:46</Created>
+	<LastChange>2012-02-10T10:29:38</LastChange></Metadata>
+	<Page imageFilename="00668815.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r20" index="4"/>
+	<RegionRefIndexed regionRef="r28" index="5"/>
+	<RegionRefIndexed regionRef="r36" index="6"/>
+	<RegionRefIndexed regionRef="r44" index="7"/>
+	<RegionRefIndexed regionRef="r52" index="8"/>
+	<RegionRefIndexed regionRef="r60" index="9"/>
+	<RegionRefIndexed regionRef="r68" index="10"/>
+	<RegionRefIndexed regionRef="r76" index="11"/>
+	<RegionRefIndexed regionRef="r84" index="12"/>
+	<RegionRefIndexed regionRef="r92" index="13"/>
+	<RegionRefIndexed regionRef="r100" index="14"/>
+	<RegionRefIndexed regionRef="r108" index="15"/>
+	<RegionRefIndexed regionRef="r116" index="16"/>
+	<RegionRefIndexed regionRef="r124" index="17"/>
+	<RegionRefIndexed regionRef="r132" index="18"/>
+	<RegionRefIndexed regionRef="r140" index="19"/>
+	<RegionRefIndexed regionRef="r148" index="20"/>
+	<RegionRefIndexed regionRef="r156" index="21"/>
+	<RegionRefIndexed regionRef="r164" index="22"/>
+	<RegionRefIndexed regionRef="r172" index="23"/>
+	<RegionRefIndexed regionRef="r180" index="24"/>
+	<RegionRefIndexed regionRef="r186" index="25"/>
+	<RegionRefIndexed regionRef="r187" index="26"/>
+	<RegionRefIndexed regionRef="r188" index="27"/>
+	<RegionRefIndexed regionRef="r190" index="28"/>
+	<RegionRefIndexed regionRef="r198" index="29"/>
+	<RegionRefIndexed regionRef="r206" index="30"/>
+	<RegionRefIndexed regionRef="r214" index="31"/>
+	<RegionRefIndexed regionRef="r222" index="32"/>
+	<RegionRefIndexed regionRef="r230" index="33"/>
+	<RegionRefIndexed regionRef="r238" index="34"/>
+	<RegionRefIndexed regionRef="r246" index="35"/>
+	<RegionRefIndexed regionRef="r254" index="36"/>
+	<RegionRefIndexed regionRef="r262" index="37"/>
+	<RegionRefIndexed regionRef="r270" index="38"/>
+	<RegionRefIndexed regionRef="r278" index="39"/>
+	<RegionRefIndexed regionRef="r286" index="40"/>
+	<RegionRefIndexed regionRef="r294" index="41"/>
+	<RegionRefIndexed regionRef="r302" index="42"/>
+	<RegionRefIndexed regionRef="r310" index="43"/>
+	<RegionRefIndexed regionRef="r318" index="44"/>
+	<RegionRefIndexed regionRef="r326" index="45"/>
+	<RegionRefIndexed regionRef="r334" index="46"/>
+	<RegionRefIndexed regionRef="r342" index="47"/>
+	<RegionRefIndexed regionRef="r350" index="48"/>
+	<RegionRefIndexed regionRef="r358" index="49"/>
+	<RegionRefIndexed regionRef="r364" index="50"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1143" y="582"/>
+	<Point x="1458" y="582"/>
+	<Point x="1458" y="644"/>
+	<Point x="1143" y="644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords>
+	<Point x="1218" y="738"/>
+	<Point x="1218" y="758"/>
+	<Point x="1382" y="758"/>
+	<Point x="1382" y="738"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="1283" y="878"/>
+	<Point x="1271" y="1972"/>
+	<Point x="1294" y="1971"/>
+	<Point x="1305" y="878"/></Coords></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="935" y="851"/>
+	<Point x="935" y="875"/>
+	<Point x="1003" y="875"/>
+	<Point x="1003" y="851"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Plate.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1200" y="850"/>
+	<Point x="1287" y="850"/>
+	<Point x="1287" y="877"/>
+	<Point x="1200" y="877"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="387" y="879"/>
+	<Point x="1259" y="879"/>
+	<Point x="1259" y="920"/>
+	<Point x="387" y="920"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>abbreviata, Lamarck ......... VIII. 18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="386" y="925"/>
+	<Point x="1257" y="925"/>
+	<Point x="1257" y="965"/>
+	<Point x="386" y="965"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>achatina, Lamarck .......... X. 28</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="387" y="976"/>
+	<Point x="1257" y="976"/>
+	<Point x="1257" y="1014"/>
+	<Point x="387" y="1014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>areola, (Bucc.) Linn. ........ IX. 24</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="387" y="1019"/>
+	<Point x="1257" y="1019"/>
+	<Point x="1257" y="1066"/>
+	<Point x="387" y="1066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bisulcata, Schubert &amp; Wagner . III. 6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="387" y="1070"/>
+	<Point x="1257" y="1070"/>
+	<Point x="1257" y="1112"/>
+	<Point x="387" y="1112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>canaliculata, (Cassidea) Brug... III. 8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="387" y="1117"/>
+	<Point x="1257" y="1117"/>
+	<Point x="1257" y="1161"/>
+	<Point x="387" y="1161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>coarctata, Gray ............ VI. 14</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords>
+	<Point x="387" y="1166"/>
+	<Point x="1257" y="1166"/>
+	<Point x="1257" y="1209"/>
+	<Point x="387" y="1209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cornuta, (Bucc.) Linn........ I. 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r68" type="paragraph">
+	<Coords>
+	<Point x="387" y="1213"/>
+	<Point x="1257" y="1213"/>
+	<Point x="1257" y="1254"/>
+	<Point x="387" y="1254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>coronulata, Sowerby ......... XII. 31</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="paragraph">
+	<Coords>
+	<Point x="387" y="1260"/>
+	<Point x="1257" y="1260"/>
+	<Point x="1257" y="1301"/>
+	<Point x="387" y="1301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>crumena, Lamarck .......... IV. 10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r84" type="paragraph">
+	<Coords>
+	<Point x="387" y="1306"/>
+	<Point x="1257" y="1306"/>
+	<Point x="1257" y="1350"/>
+	<Point x="387" y="1350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>decussata, (Bucc.) Linn...... II. 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r92" type="paragraph">
+	<Coords>
+	<Point x="387" y="1359"/>
+	<Point x="1257" y="1359"/>
+	<Point x="1257" y="1395"/>
+	<Point x="387" y="1395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>erinaceus, Lamarck .......... VII. 15</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r100" type="paragraph">
+	<Coords>
+	<Point x="387" y="1404"/>
+	<Point x="1257" y="1404"/>
+	<Point x="1257" y="1444"/>
+	<Point x="387" y="1444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>exarata, Reeve .............. XII. 32</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r108" type="paragraph">
+	<Coords>
+	<Point x="387" y="1450"/>
+	<Point x="1257" y="1450"/>
+	<Point x="1257" y="1492"/>
+	<Point x="387" y="1492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>fasciata, Lamarck ........... IV. 9</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r116" type="paragraph">
+	<Coords>
+	<Point x="387" y="1499"/>
+	<Point x="1257" y="1499"/>
+	<Point x="1257" y="1542"/>
+	<Point x="387" y="1542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬁmbriata, Quoy &amp; Gaimard ... VII. 17</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r124" type="paragraph">
+	<Coords>
+	<Point x="387" y="1547"/>
+	<Point x="1257" y="1547"/>
+	<Point x="1257" y="1589"/>
+	<Point x="387" y="1589"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬂammea, (Bucc.) Linn........ V. 12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r132" type="paragraph">
+	<Coords>
+	<Point x="387" y="1594"/>
+	<Point x="1257" y="1594"/>
+	<Point x="1257" y="1638"/>
+	<Point x="387" y="1638"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>glauca, (Bucc.) Linn. ....... XII. 33</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r140" type="paragraph">
+	<Coords>
+	<Point x="387" y="1642"/>
+	<Point x="1257" y="1642"/>
+	<Point x="1257" y="1685"/>
+	<Point x="387" y="1685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>granulosa, Lamarck .......... IX. 22</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r148" type="paragraph">
+	<Coords>
+	<Point x="387" y="1690"/>
+	<Point x="1257" y="1690"/>
+	<Point x="1257" y="1731"/>
+	<Point x="387" y="1731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>inﬂata, (Bucc.) Shaw ........ IX. 22</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r156" type="paragraph">
+	<Coords>
+	<Point x="387" y="1737"/>
+	<Point x="1257" y="1737"/>
+	<Point x="1257" y="1782"/>
+	<Point x="387" y="1782"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Japonica, Reeve ............ IX. 23</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r164" type="paragraph">
+	<Coords>
+	<Point x="387" y="1785"/>
+	<Point x="1257" y="1785"/>
+	<Point x="1257" y="1827"/>
+	<Point x="387" y="1827"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>labiata, Chemnitz ........... I. 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r172" type="paragraph">
+	<Coords>
+	<Point x="387" y="1832"/>
+	<Point x="1257" y="1832"/>
+	<Point x="1257" y="1873"/>
+	<Point x="387" y="1873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lactea, Kiener .............. VIII. 18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r180" type="paragraph">
+	<Coords>
+	<Point x="387" y="1880"/>
+	<Point x="1257" y="1880"/>
+	<Point x="1257" y="1924"/>
+	<Point x="387" y="1924"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Madagascariensis, Lamarck ... II. 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r186" type="paragraph">
+	<Coords>
+	<Point x="387" y="1928"/>
+	<Point x="1257" y="1928"/>
+	<Point x="1257" y="1978"/>
+	<Point x="387" y="1978"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Massenœ, Kiener ........... VI. 13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r187" type="paragraph">
+	<Coords>
+	<Point x="1872" y="851"/>
+	<Point x="1872" y="879"/>
+	<Point x="1944" y="879"/>
+	<Point x="1944" y="851"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Plate.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r188" type="paragraph">
+	<Coords>
+	<Point x="2099" y="851"/>
+	<Point x="2185" y="851"/>
+	<Point x="2185" y="880"/>
+	<Point x="2099" y="880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r190" type="paragraph">
+	<Coords>
+	<Point x="1324" y="880"/>
+	<Point x="2186" y="884"/>
+	<Point x="2185" y="924"/>
+	<Point x="1324" y="924"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>paucirugis, Menke .......... VIII. 19</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r198" type="paragraph">
+	<Coords>
+	<Point x="1324" y="929"/>
+	<Point x="2184" y="929"/>
+	<Point x="2184" y="970"/>
+	<Point x="1324" y="970"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pennata, Lamarck .......... VIII. 20</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r206" type="paragraph">
+	<Coords>
+	<Point x="1323" y="976"/>
+	<Point x="2184" y="976"/>
+	<Point x="2184" y="1019"/>
+	<Point x="1323" y="1019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pila, Reeve ................ IX. 21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r214" type="paragraph">
+	<Coords>
+	<Point x="1323" y="1024"/>
+	<Point x="2184" y="1024"/>
+	<Point x="2184" y="1066"/>
+	<Point x="1323" y="1066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>plicaria, Lamarck .......... X. 27</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r222" type="paragraph">
+	<Coords>
+	<Point x="1322" y="1073"/>
+	<Point x="2184" y="1073"/>
+	<Point x="2184" y="1116"/>
+	<Point x="1322" y="1116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>plicata, (Bucc.) Linn. ....... X. 27</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r230" type="paragraph">
+	<Coords>
+	<Point x="1322" y="1119"/>
+	<Point x="2184" y="1119"/>
+	<Point x="2184" y="1161"/>
+	<Point x="1322" y="1161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>plicata, Martini ............ IV. 10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r238" type="paragraph">
+	<Coords>
+	<Point x="1322" y="1166"/>
+	<Point x="2184" y="1166"/>
+	<Point x="2184" y="1209"/>
+	<Point x="1653" y="1210"/>
+	<Point x="1322" y="1209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pomum, Schubert &amp; Wagner ... V. 11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r246" type="paragraph">
+	<Coords>
+	<Point x="1321" y="1213"/>
+	<Point x="2184" y="1213"/>
+	<Point x="2184" y="1258"/>
+	<Point x="1321" y="1258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pyrum, Lamarck ............ XI. 29</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r254" type="paragraph">
+	<Coords>
+	<Point x="1321" y="1263"/>
+	<Point x="2183" y="1263"/>
+	<Point x="2183" y="1305"/>
+	<Point x="1321" y="1305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>recurvirostrum, (Bucc.) Wood . VII. 16</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r262" type="paragraph">
+	<Coords>
+	<Point x="1320" y="1309"/>
+	<Point x="2183" y="1309"/>
+	<Point x="2183" y="1350"/>
+	<Point x="1320" y="1350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rufa, (Bucc.) Linn. ......... VIII. 20</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r270" type="paragraph">
+	<Coords>
+	<Point x="1320" y="1356"/>
+	<Point x="2183" y="1356"/>
+	<Point x="2183" y="1397"/>
+	<Point x="1320" y="1397"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Saburon, Adanson .......... V. 11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r278" type="paragraph">
+	<Coords>
+	<Point x="1319" y="1406"/>
+	<Point x="2183" y="1406"/>
+	<Point x="2183" y="1447"/>
+	<Point x="1319" y="1447"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>semigranosa, Lamarck ....... I. 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r286" type="paragraph">
+	<Coords>
+	<Point x="1319" y="1453"/>
+	<Point x="2183" y="1453"/>
+	<Point x="2183" y="1494"/>
+	<Point x="1319" y="1494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>spinosa, (Bucc.) Gronov...... IV. 9</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r294" type="paragraph">
+	<Coords>
+	<Point x="1319" y="1498"/>
+	<Point x="2183" y="1498"/>
+	<Point x="2183" y="1539"/>
+	<Point x="1319" y="1539"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sulcosa, (Bucc.) Born........ XI. 30</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r302" type="paragraph">
+	<Coords>
+	<Point x="1318" y="1546"/>
+	<Point x="2183" y="1546"/>
+	<Point x="2183" y="1586"/>
+	<Point x="1318" y="1586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tenuis, Gray ............... VI. 13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r310" type="paragraph">
+	<Coords>
+	<Point x="1318" y="1593"/>
+	<Point x="2183" y="1593"/>
+	<Point x="2183" y="1633"/>
+	<Point x="1318" y="1633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>testiculus, (Bucc.) Linn. ..... IV. 10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r318" type="paragraph">
+	<Coords>
+	<Point x="1317" y="1644"/>
+	<Point x="2182" y="1644"/>
+	<Point x="2182" y="1682"/>
+	<Point x="1317" y="1682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>torquata, Reeve ............. I. 1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r326" type="paragraph">
+	<Coords>
+	<Point x="1317" y="1689"/>
+	<Point x="2182" y="1689"/>
+	<Point x="2182" y="1730"/>
+	<Point x="1317" y="1730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tuberosa, (Cassidea) Brug..... III. 7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r334" type="paragraph">
+	<Coords>
+	<Point x="1315" y="1736"/>
+	<Point x="1423" y="1737"/>
+	<Point x="2182" y="1738"/>
+	<Point x="2182" y="1783"/>
+	<Point x="1316" y="1783"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>turgida, Reeve .............. X. 25</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r342" type="paragraph">
+	<Coords>
+	<Point x="1316" y="1785"/>
+	<Point x="2182" y="1785"/>
+	<Point x="2182" y="1824"/>
+	<Point x="1316" y="1824"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>undata, Deshayes ........... X. 26</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r350" type="paragraph">
+	<Coords>
+	<Point x="1315" y="1830"/>
+	<Point x="2182" y="1830"/>
+	<Point x="2182" y="1871"/>
+	<Point x="1315" y="1871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vibex, (Bucc.) Linn. ........ VII. 15</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r358" type="paragraph">
+	<Coords>
+	<Point x="1315" y="1876"/>
+	<Point x="2182" y="1876"/>
+	<Point x="2182" y="1917"/>
+	<Point x="1315" y="1917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zebra, Lamarck ............. X. 26</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r364" type="paragraph">
+	<Coords>
+	<Point x="1314" y="1923"/>
+	<Point x="2182" y="1923"/>
+	<Point x="2182" y="1976"/>
+	<Point x="1314" y="1976"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zeylanica, Lamarck .......... XI. 29</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r365">
+	<Coords>
+	<Point x="974" y="2112"/>
+	<Point x="974" y="2140"/>
+	<Point x="1487" y="2140"/>
+	<Point x="1487" y="2112"/></Coords></SeparatorRegion></Page></PcGts>

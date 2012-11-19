@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672287">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T06:00:09</Created>
+	<LastChange>2012-02-10T09:54:22</LastChange></Metadata>
+	<Page imageFilename="00672287.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="78" y="251"/>
+	<Point x="1817" y="251"/>
+	<Point x="1817" y="583"/>
+	<Point x="1139" y="582"/>
+	<Point x="78" y="580"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mann, Lederer und Haberhauer gefundenen Arten.
+Auch hier gibt das bei der vorigen Kolonne Gesagte, vorzugs‑
+weise und noch mehr bei den Familien der Microlepidopteren,
+die hier so gut wie gar nicht gesammelt wurden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="67" y="589"/>
+	<Point x="1821" y="589"/>
+	<Point x="1821" y="1489"/>
+	<Point x="67" y="1489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die fünfte Kolonne unter C. enthält endlich die wenigen,
+von der Insel Cypern bekannt gewordenen Arten. Ob das
+jetzt englische Cypern überhaupt als Annex zu Kleinasien,
+oder nicht besser zu Syrien gezählt werden muss, lasse ich
+hier unentschieden. Die Insel-Faunen sind ja stets bedeu‑
+tend ärmer, als die selbst oft nahe gelegenen Continental-Fau‑
+nen, allein das, was wir bis jetzt von den Lepidopteren Cy-
+pern’s kennen, ist äusserst wenig und kann auch nicht an‑
+nähernd ein richtiges Bild der dortigen Fauna geben. Höch‑
+stens die Rhopaloceren von Cypern werden keinen grossen Zu‑
+wachs mehr erhalten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="67" y="1503"/>
+	<Point x="1817" y="1503"/>
+	<Point x="1817" y="2660"/>
+	<Point x="67" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ich bemerke noch, dass ich einen Theil derjenigen Arten,
+deren Vorkommen in Kleinasien mir aus verschiedenen Grün‑
+den zweifelhaft erscheint, mit einem hinter dem Namen ge‑
+setzten? bezeichnet habe. Ein ? vor dem Artnamen bezeich‑
+net, dass mir die Art als solche zweifelhaft ist. Ein ? in
+den Lokalitäts-Kolonnen soll andeuten, dass diese Art für die
+betreﬀende Lokalität zweifelhaft ist. Durch ein in Klammern
+gesetztes Lokalitätszeichen (*) gebe ich (allerdings etwas will‑
+kührlich) an, dass die Art zwar nicht von der betreﬀenden
+Lokalität aufgeführt ist, aber jedenfalls dort vorkommen muss.
+Ich hätte dies Zeichen noch bei manchen Arten und Lo‑
+kalitäten mit grösster Wahrscheinlichkeit setzen können, habe
+es aber nur dort gethan, wo ich es mit gutem Gewissen und
+grösster Sicherheit setzen konnte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="69" y="2673"/>
+	<Point x="1808" y="2673"/>
+	<Point x="1808" y="3082"/>
+	<Point x="69" y="3082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gezählt sind nur diejenigen Formen, welche ich jetzt als
+wirkliche gute Arten betrachte; die Varietäten und Aberra‑
+tionen sind mit a. b. c. etc. bezeichnet. Bei den 199 Tagfal‑
+tern allein sind dies 66 Namen für Varietäten und Aberra‑
+tionen. Wenn eine Art in Kleinasien nur als eine Lokalva-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="778" y="116"/>
+	<Point x="778" y="197"/>
+	<Point x="1126" y="197"/>
+	<Point x="1126" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 93 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

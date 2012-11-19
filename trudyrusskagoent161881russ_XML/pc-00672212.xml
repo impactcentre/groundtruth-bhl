@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672212">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:16:03</Created>
+	<LastChange>2012-02-10T09:54:03</LastChange></Metadata>
+	<Page imageFilename="00672212.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1028" y="126"/>
+	<Point x="1333" y="126"/>
+	<Point x="1333" y="204"/>
+	<Point x="1028" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 18 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="309" y="246"/>
+	<Point x="2060" y="246"/>
+	<Point x="2060" y="438"/>
+	<Point x="309" y="438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aux muscles abaisseurs et additionnels, mais du côté intérieur
+il est libre (ﬁg. 15 et 20).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="314" y="441"/>
+	<Point x="2076" y="441"/>
+	<Point x="2076" y="2342"/>
+	<Point x="314" y="2342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le muscle élévateur, que nous avons décrit, n’est pas
+simple, mais se compose de trois chefs, dont deux sont com‐
+parativement très petits, de sorte qu’ils n’ajoutent presque
+rien, quant à la forme générale du muscle, au troisième chef.
+L’un de ces petits chefs est très court, de forme ovalaire,
+comprimé, s’attache au bord extérieur du tendon commun su‐
+périeur et se prolonge ensuite en tendon extrêmement grêle
+et ﬁliforme, qui entre à l’intérieur du chef le plus gros du
+muscle, longe son axe et enﬁn se rattache au milieu de l’en‐
+foncement du tendon caliciforme inférieur. L’autre petit chef
+de l’élévateur est un peu moins grêle, mais il est plus long-
+que le plus gros chef du muscle. En haut il se rattache au
+bord extérieur du tendon commun à côté du chef le plus
+court. Ce chef long situé dans un sillon, formé à la surface
+extérieure du chef le plus gros, passe à travers d’une échan-
+crure incisée dans le tendon caliciforme inférieur et se ﬁxe
+sur le bord de la hanche près de ce tendon et de l’addition‐
+nel antérieur de l’élévateur (ﬁg. 10, 14 h, 22, 33, 36 et 38;
+dans la ﬁg. 33 on voit l’échancrure du tendon cupuliforme).
+Le plus long chef de l’élévateur existe dans les Libellulidées
+et Aeschnidées, mais il manque dans les Agrionidées. C’est
+l’unique muscle, qui n’existe pas dans toutes les familles des
+Odonates parfaits.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="314" y="2345"/>
+	<Point x="2065" y="2345"/>
+	<Point x="2065" y="3090"/>
+	<Point x="314" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Maintenant je passe à la description des muscles addition‐
+nels. Les abaisseurs antérieurs de toutes les deux ailes ont,
+chacun, le petit muscle additionnel qui se rattache en haut
+tout près du tendon de son principal à la même membrane,
+dont se servent les muscles abaisseurs. D’ici les muscles ad‐
+ditionnels longent les bords antéro-extérieurs de leurs princi‐
+paux. Le petit muscle additionnel appartenant à l’aile antérieure
+s’aﬀermit à un tendon très grêle et long et présente la forme
+d’un ruban. Il est deux fois plus court que son tendon et</Unicode></TextEquiv></TextRegion></Page></PcGts>

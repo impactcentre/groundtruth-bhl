@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669150">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:30:48</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669150.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r20" index="1"/>
+	<RegionRefIndexed regionRef="r26" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="349" y="294"/>
+	<Point x="1758" y="294"/>
+	<Point x="1758" y="558"/>
+	<Point x="349" y="558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bon poisson, qui arrive à une longueur d’un
+pied et demi; mais il lui donne des couleurs
+fort diﬀérentes de celles indiquées par Vlaming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="353" y="862"/>
+	<Point x="1771" y="862"/>
+	<Point x="1771" y="1301"/>
+	<Point x="353" y="1301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a parmi les poissons conservés depuis
+long-temps au Cabinet du Roi, sans autres ren-
+seignemens, un individu desséché en herbier,
+qui ressemble beaucoup à cet acanthurus
+nigro-fuscus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="424" y="1319"/>
+	<Point x="1773" y="1319"/>
+	<Point x="1773" y="1628"/>
+	<Point x="424" y="1628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>par ses proportions et les stries de ses pièces oper-
+culaires, et de ses os de l’épaule. Les pointes de sa
+caudale sont longues comme le tiers de cette na‐
+geoire, et taillées en faux; ses nombres sont:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="848" y="1642"/>
+	<Point x="1341" y="1642"/>
+	<Point x="1341" y="1716"/>
+	<Point x="848" y="1716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/25; A. 3/23, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="421" y="1730"/>
+	<Point x="1776" y="1730"/>
+	<Point x="1776" y="2041"/>
+	<Point x="421" y="2041"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa couleur dans l’état sec paraît un brun uniforme,
+excepté une grande tache ovale, qui entoure la lame
+latérale de sa queue, et qui semble avoir été rouge
+ou orangée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="437" y="2066"/>
+	<Point x="1628" y="2066"/>
+	<Point x="1628" y="2153"/>
+	<Point x="437" y="2153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu est long de près d’un pied.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="367" y="2157"/>
+	<Point x="1780" y="2155"/>
+	<Point x="1783" y="2505"/>
+	<Point x="366" y="2505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La description que Shaw1 donne de son
+acanthurus Achilles, convient en tout point à
+cette espèce, sauf les trois lignes parallèles
+blanche, noire et rousse qu’il place sur sa cau-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="428" y="2599"/>
+	<Point x="1135" y="2599"/>
+	<Point x="1135" y="2669"/>
+	<Point x="428" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Tome IV, 2.e partie, p. 383.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="353" y="192"/>
+	<Point x="486" y="192"/>
+	<Point x="486" y="264"/>
+	<Point x="353" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>218</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="808" y="192"/>
+	<Point x="1314" y="192"/>
+	<Point x="1314" y="264"/>
+	<Point x="808" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords>
+	<Point x="692" y="639"/>
+	<Point x="1430" y="639"/>
+	<Point x="1430" y="719"/>
+	<Point x="692" y="719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE ACHILLE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="742" y="746"/>
+	<Point x="1388" y="746"/>
+	<Point x="1388" y="838"/>
+	<Point x="742" y="838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus Achilles.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r27">
+	<Coords>
+	<Point x="371" y="2530"/>
+	<Point x="371" y="2571"/>
+	<Point x="1782" y="2571"/>
+	<Point x="1782" y="2530"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672582">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T04:00:57</Created>
+	<LastChange>2012-02-10T09:55:14</LastChange></Metadata>
+	<Page imageFilename="00672582.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="954" y="145"/>
+	<Point x="1292" y="145"/>
+	<Point x="1292" y="216"/>
+	<Point x="954" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 386 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="480" y="1052"/>
+	<Point x="1845" y="1052"/>
+	<Point x="1845" y="1152"/>
+	<Point x="480" y="1152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>42. L. Astrarche Bgstr. et ab. Allous Hb.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="271" y="1230"/>
+	<Point x="2057" y="1230"/>
+	<Point x="2057" y="2342"/>
+	<Point x="271" y="2342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces deux formes étaient tellement confondues dans le dis-
+trict de Kouldjà et le Tian-Chian, et, il s'y rencontrait tant de
+passages de l'une à l'autre, qu'il m'est impossible de dire la-
+quelle était la plus fréquente. Je crois pourtant que c'est la
+forme intermédiaire, c. a. d. celle, où les taches rouges-oran-
+gées (ou fauves) quoique fortement envahies par le brun du
+fond, sont encore sufﬁsamment perceptibles. Quelquefois ces
+tâches font complêtement défaut sur les premieres ailes, mais
+sont distinctes sur les deuxièmes. J'ai aussi pris des individus
+complêtement brun-noirâtres en dessus, et c'est ceux là que
+je considère comme de vrais aberrations Allous Hb. Certains
+individus ont au contraire, les tâches fauves très vives, comme
+chez le type d'Europe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="290" y="2350"/>
+	<Point x="2057" y="2350"/>
+	<Point x="2057" y="3109"/>
+	<Point x="290" y="3109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pourtant, tous les exemplaires d'Allous, que j'ai rappor-
+tés, ont le revers clair, grisâtre et non de la teinte brunâtre,
+que présentent des ab. Allons que j'ai de l'Espagne. Ces der-
+nièrs ont en outre les tâches rouges du dessus assez nette-
+ment accusées. A mon avis, le nom d'ab. Allous pourrait bien
+être considéré comme synonyme d'Astrarche, ou, tout au moins,
+n'être appliqué qu'à la forme complêtement immaculée en des-
+sus. La L. Astrarche était commune partout, dans la contrée
+visitée par nous, à partir de Mai (Kouldjà), et volait jusqu'à</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="264" y="271"/>
+	<Point x="2033" y="271"/>
+	<Point x="2033" y="959"/>
+	<Point x="264" y="959"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>plus commun sur le Jouldousse. Comme la plupart des Rho-
+palocères de ces hautes régions, la L. Pheretiades vole pro-
+bablement durant tout l'été. Des ♀♀ à points grisâtres (plus
+clairs que le fond) sur les premieres ailes, n'étaient pas pré-
+cisément râres. La base des secondes ailes en dessous est
+quelquefois recouverte d'ecailles d'un vert-metallique, d'un vif
+éclat. Les papillons se posaient volontiers sur les ﬂeurs des
+Myosotis, si communs sur le Jouldousse.</Unicode></TextEquiv></TextRegion></Page></PcGts>

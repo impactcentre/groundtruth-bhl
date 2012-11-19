@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672620">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:36:58</Created>
+	<LastChange>2012-02-10T09:55:23</LastChange></Metadata>
+	<Page imageFilename="00672620.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="983" y="111"/>
+	<Point x="1304" y="111"/>
+	<Point x="1304" y="197"/>
+	<Point x="983" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 424 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="257" y="250"/>
+	<Point x="2009" y="250"/>
+	<Point x="2009" y="502"/>
+	<Point x="257" y="502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les premières ailes ont le revers d'un fauve plus clair,
+et ont la côte et le limbe larges, d'un gris-cendré marbré de
+brunâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="264" y="514"/>
+	<Point x="1091" y="516"/>
+	<Point x="2021" y="514"/>
+	<Point x="2021" y="678"/>
+	<Point x="264" y="678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une ligne brunâtre, très oblitérée (perceptible aussi sur le
+dessus) traverse l'aile à l'extérieur de la cellule.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="259" y="685"/>
+	<Point x="2026" y="685"/>
+	<Point x="2026" y="926"/>
+	<Point x="259" y="926"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le point subapical ainsi que celui de la II cellule sont
+pupillés de blanc chez la ♀, le subapical seul l'étant chez
+le ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="254" y="935"/>
+	<Point x="2023" y="935"/>
+	<Point x="2023" y="1097"/>
+	<Point x="254" y="1097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est fort probable que le deuxième point disparaise com-
+plêtement chez quelques ♂♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="247" y="1102"/>
+	<Point x="2026" y="1102"/>
+	<Point x="2026" y="1261"/>
+	<Point x="247" y="1261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les secondes ailes sont d'un gris-cendré, marbré de brun-
+âtre, avec la moitié intérieure de l'aile plus foncée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="257" y="1264"/>
+	<Point x="2026" y="1264"/>
+	<Point x="2026" y="1514"/>
+	<Point x="257" y="1514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deux points noirs, cerclés de gris plus clair que le fond,
+sont disposés au dessus de l'angle anal comme chez la Dys-
+dora Ld.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="259" y="1528"/>
+	<Point x="2028" y="1528"/>
+	<Point x="2028" y="1707"/>
+	<Point x="259" y="1707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le ♂ présente, en outre, un ou deux petits points noirs
+antimarginaux entre les nervures, à l'apex des postérieures.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="252" y="1716"/>
+	<Point x="2035" y="1716"/>
+	<Point x="2035" y="2066"/>
+	<Point x="252" y="2066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je n'ai rapporté que quelques ♂♂ et une seule ♀, pris avec
+les deux espèces précédentes sur les tamariniers en ﬂeurs, ce
+qui provient sans doute de ce que j'avais confondu la Kirghisa
+avec la Naricina.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="590" y="2135"/>
+	<Point x="1690" y="2135"/>
+	<Point x="1690" y="2247"/>
+	<Point x="590" y="2247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>98. E. Lycaon Rott, et varietates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="250" y="2302"/>
+	<Point x="2011" y="2302"/>
+	<Point x="2011" y="2471"/>
+	<Point x="250" y="2471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le type volait dans les montagnes entre 6000 et 7000
+pieds en Juin et Juillet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="257" y="2476"/>
+	<Point x="2016" y="2476"/>
+	<Point x="2016" y="3076"/>
+	<Point x="257" y="3076"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Près de Kouldjà, ainsi que dans la vallée de l'Ili, volait
+une forme grande, laineuse, bien voisine de celle que nous
+avons dans le midi de la Russie, et que je considère, grâce à
+sa pilosité, comme v. Lupinus Costa. Mais ces individus,
+ainsi que ceux de la Russie méridionale, sont d'une couleur
+plus foncée, que ne le sont les vrais Lupinus, de l'Europe
+méridionale-occidentale. J'ai encore une forme, (aussi plus</Unicode></TextEquiv></TextRegion></Page></PcGts>

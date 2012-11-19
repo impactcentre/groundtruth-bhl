@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672393">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:26:36</Created>
+	<LastChange>2012-02-10T09:54:40</LastChange></Metadata>
+	<Page imageFilename="00672393.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="849" y="146"/>
+	<Point x="1169" y="146"/>
+	<Point x="1169" y="230"/>
+	<Point x="849" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 199 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="128" y="276"/>
+	<Point x="1885" y="276"/>
+	<Point x="1885" y="1869"/>
+	<Point x="128" y="1869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 33/4—5‴ lang (letzteres bei mehrern ♀♀),
+länglich, nach hinten allmählich erweitert, am Hinterrande
+ziemlich senkrecht und schwach convex, dunkel violettbraun.
+Vor der Mitte hängt etwas schräg am Vorderrande ein fast
+reinweisser Fleck, der die Falte nicht erreicht und gegen die
+Basis schwarz begrenzt ist. Nach einem schrägen, oben ba-
+salwärts gerichteten, schmalen, schwarzen Querstreifen folgt
+ein zugespitzter, fast dreieckiger, rein weisser, bis zu 3/4 der
+Länge reichender Costalﬂeck; er trägt über den zwei schwar-
+zen, weitgetrennten Queraderpunkten auf der Costa einen kur-
+zen, schwarzbraunen Längsstrich; hinten wird er durch einen
+vom Vorderrand vor der Spitze schräg herabkommenden schwar-
+zen Schattenstreifen begrenzt. Letztern durchschneidet eine
+lichte, beiderseits dunkelbraun gesäumte, in der Mitte etwas
+nach aussen convexe Querlinie, hinter welcher die Flügelspitze
+längs des Hinterrandes weissbestäubt ist. Eine tiefschwarze
+Punktreihe des Hinterrandes hört oberhalb des Innenwinkels
+auf. Franzen dunkel braungrau, an der Flügelspitze weiss-
+grau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="114" y="1878"/>
+	<Point x="1887" y="1878"/>
+	<Point x="1887" y="2316"/>
+	<Point x="114" y="2316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel auf beiden Seiten bräunlichgrau, schwach durch-
+scheinend mit verdunkelten Adern. Der erste Ast der bis zu
+ihm hellbraunhaarigen Medianader kommt von 1/4, der 2te
+von 1/2; die Aeste 3 und 4 bilden eine Gabel, die doppelt so
+lang ist wie ihr Stiel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="121" y="2325"/>
+	<Point x="1883" y="2325"/>
+	<Point x="1883" y="2733"/>
+	<Point x="121" y="2733"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel dunkler als die Hinterﬂügel, auf
+dem Vorderrand vor der Spitze sehr schmal weisslich. Ast 1
+und 2 der Medianader sind etwas gebogen: 1 kommt bei 2/3
+und ist von 2 schwach getrennt; eben so nahe ist 2 bei 3;
+dieser und 4 bilden eine Gabel fast ohne Stiel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="117" y="2771"/>
+	<Point x="1885" y="2771"/>
+	<Point x="1885" y="3116"/>
+	<Point x="117" y="3116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2 ♂♂, 8 ♀♀ wurden von Petersen am Guarino bei Honda
+gesammelt; 1 ♂ und 2 ♀♀ tragen die Data: 15, 19, 24 April;
+ein sehr grosses ♀ ist vom 15 September. Also ist eine dop-
+pelte Generation kaum zu bezweifeln.</Unicode></TextEquiv></TextRegion></Page></PcGts>

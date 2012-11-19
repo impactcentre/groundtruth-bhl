@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672462">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:39:30</Created>
+	<LastChange>2012-02-10T09:54:56</LastChange></Metadata>
+	<Page imageFilename="00672462.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="978" y="139"/>
+	<Point x="1291" y="139"/>
+	<Point x="1291" y="210"/>
+	<Point x="978" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 252 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="260" y="1539"/>
+	<Point x="2010" y="1539"/>
+	<Point x="2010" y="2373"/>
+	<Point x="260" y="2373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cidaria Deﬂorata Ersch. Tab. XIII, ﬁg. 6. Herr Er-
+schoff hat diesen um Irkutsk häuﬁgen Spanner durch eine
+Diagnose in den Ноr. XII, p. 328 deutlich characterisirt.
+Die dunkle Färbung der Unterseite aller Flügel variirt sehr
+in der Stärke, namentlich ist das Wurzelfeld der Hinter-
+ﬂügel bei einigen Exemplaren kaum dunkel angeﬂogen. Der
+Kopf ist weiss, die Palpen fast grade vorstehend und nur
+sehr wenig geneigt, überragen den Kopf um dessen Länge,
+sind oben und an den Seiten braun, nur das Endglied
+weiss, unten weisslich, an der Wurzel stark abstehend behaart.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="275" y="2376"/>
+	<Point x="1526" y="2376"/>
+	<Point x="1526" y="2458"/>
+	<Point x="275" y="2458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cidaria Unidentaria Hw. ﬂiegt um Irkutsk.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="266" y="2464"/>
+	<Point x="2028" y="2464"/>
+	<Point x="2028" y="2955"/>
+	<Point x="266" y="2955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cidaria Modestaria Ersch. Auf Tab. XIII, ﬁg. 7 gebe ich
+eine Abbildung dieser der Designata nahe stehenden Art,
+von der sie sich übrigens sofort durch den Mangel der
+schwarzen Umsäumung der Mittelbinde und dadurch unter-
+scheidet, dass diese nirgends gegen den Saum zu ge-
+zähnt ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="269" y="2960"/>
+	<Point x="2023" y="2960"/>
+	<Point x="2023" y="3132"/>
+	<Point x="269" y="3132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cidaria Haasi nov. sp. Tab. XIII, ﬁg. 9, ♀. Diese Cidaria
+dürfte ihren Platz in der Nähe von Äbrasaria Hb. erhalten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="2019" y="267"/>
+	<Point x="2019" y="528"/>
+	<Point x="1168" y="528"/>
+	<Point x="1168" y="527"/>
+	<Point x="255" y="527"/>
+	<Point x="255" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pl. IX, ﬁg. 9 mit Serpentinata Led. synonym sei; da ich
+jedoch nur ein Stück zum Vergleichen habe, wage ich nicht
+ein entschiedenes Urtheil darüber zu haben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1166" y="529"/>
+	<Point x="1166" y="530"/>
+	<Point x="2019" y="530"/>
+	<Point x="2019" y="1533"/>
+	<Point x="255" y="1533"/>
+	<Point x="255" y="529"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cidaria Naemata Feld und Roghfr. Novar. Lep. Tab. CXXXII
+ﬁg. 32. Ich habe 1 ♂ und 1 ♀ von der Insel Askold.
+Letzteres stimmt vollständig mit einem aus dem Penjab (Ost-
+indien) stammenden, von Lord Walsingham erhaltenen ♀ und
+der citirten Abbildung, welche ebenfalls ein ♀ darstellt,
+überein. Der ♂ ist bedeutend kleiner, auch schärfer ge-
+zeichnet. Da Herr Christoph dieses Thier unter dem
+Namen Suavata beschrieben hat, enthalte ich mich hier einer
+ausführlichen Beschreibung. Auf Tab. XIII, ﬁg. 11 gebe
+ich eine Abbildung des ♂. Herr Butler bildet das ♀ Lep.
+Het. Br. Mus. III, pl. LV, ﬁg. 11 unter dem Namen Eubolia
+Niphonica ab.</Unicode></TextEquiv></TextRegion></Page></PcGts>

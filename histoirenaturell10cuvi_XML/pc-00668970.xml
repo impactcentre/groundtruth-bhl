@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668970">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T15:38:45</Created>
+	<LastChange>2012-02-09T16:27:26</LastChange></Metadata>
+	<Page imageFilename="00668970.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="338" y="334"/>
+	<Point x="1740" y="334"/>
+	<Point x="1740" y="526"/>
+	<Point x="338" y="526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cette taille sont rares; ordinairement ils n’ont
+que trois ou quatre pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="390" y="555"/>
+	<Point x="1765" y="555"/>
+	<Point x="1770" y="1526"/>
+	<Point x="1419" y="1537"/>
+	<Point x="1144" y="1539"/>
+	<Point x="916" y="1543"/>
+	<Point x="861" y="1542"/>
+	<Point x="840" y="1539"/>
+	<Point x="453" y="1535"/>
+	<Point x="450" y="1548"/>
+	<Point x="390" y="1550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le foie est placé tout entier dans l’hypocondre
+droit; sa forme est carrée, et par sa face interne il
+s’appuie sur l’estomac, qu’il recouvre en entier. L’æso‐
+phage est assez large, et se dilate en un sac à parois
+minces et presque membraneuses dont la ﬁgure est
+exactement celle d’une cornemuse; c’est l’estomac,
+qui est situé verticalement dans l'abdomen. A sa partie
+postérieure et inférieure du côté gauche s’ouvre le
+pylore; il est muni de deux appendices cæcales très-
+courtes. Le duodénum remonte vers le diaphragme,
+et le reste de l’intestin s’enroule deux fois sur lui-
+même dans le même hypochondre, après s’être un
+peu dilaté dans la portion qui correspond au rectum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="414" y="1553"/>
+	<Point x="460" y="1552"/>
+	<Point x="464" y="1546"/>
+	<Point x="840" y="1543"/>
+	<Point x="852" y="1545"/>
+	<Point x="922" y="1548"/>
+	<Point x="1034" y="1544"/>
+	<Point x="1375" y="1541"/>
+	<Point x="1753" y="1534"/>
+	<Point x="1757" y="1829"/>
+	<Point x="1455" y="1833"/>
+	<Point x="962" y="1831"/>
+	<Point x="933" y="1846"/>
+	<Point x="409" y="1845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La rate est petite, trièdre et cachée entre le foie
+et la partie antérieure de l’estomac. La vessie aérienne
+est grande, adhérente au dos dans toute la longueur
+de l’abdomen; ses parois sont minces et brillantes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="419" y="1849"/>
+	<Point x="935" y="1851"/>
+	<Point x="962" y="1838"/>
+	<Point x="1754" y="1836"/>
+	<Point x="1754" y="1979"/>
+	<Point x="418" y="1979"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons trouvé des salicoques et d’autres petits
+crustacés dans son estomac.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="413" y="1991"/>
+	<Point x="1765" y="1983"/>
+	<Point x="1763" y="2514"/>
+	<Point x="797" y="2522"/>
+	<Point x="412" y="2518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le squelette du sanglier ressemble à celui de la
+dorée par les os caracoïdiens alongés qui vont re‐
+joindre les épines que les os du bassin envoient en
+arrière; mais je ne lui trouve que vingt-deux ou
+vingt-trois vertèbres. Ses côtes sont courtes et grêles;
+son crâne osseux est ouvert en arrière de deux larges
+trous de chaque côté.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="330" y="240"/>
+	<Point x="436" y="240"/>
+	<Point x="436" y="314"/>
+	<Point x="330" y="314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>38</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="690" y="242"/>
+	<Point x="1365" y="242"/>
+	<Point x="1365" y="313"/>
+	<Point x="690" y="313"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="978" y="2600"/>
+	<Point x="978" y="2638"/>
+	<Point x="1183" y="2638"/>
+	<Point x="1183" y="2600"/></Coords></SeparatorRegion></Page></PcGts>

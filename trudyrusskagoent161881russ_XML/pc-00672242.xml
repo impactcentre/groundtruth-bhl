@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672242">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T02:50:49</Created>
+	<LastChange>2012-02-10T09:54:09</LastChange></Metadata>
+	<Page imageFilename="00672242.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1107" y="137"/>
+	<Point x="1435" y="137"/>
+	<Point x="1435" y="199"/>
+	<Point x="1107" y="199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 48 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="449" y="276"/>
+	<Point x="2146" y="276"/>
+	<Point x="2146" y="444"/>
+	<Point x="449" y="444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>der Name Serrata Brem. eingehen, wofür ich dann den
+Namen Orientalis vorschlage.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="455" y="448"/>
+	<Point x="2155" y="448"/>
+	<Point x="2155" y="951"/>
+	<Point x="455" y="951"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bremer's Beschreibung und Abbildung (letztere nur zu
+matt gelb gehalten) sind vortreﬀlich, doch kannte er nur
+das ♀. Bei diesem sind der Kopf und die Fühler gelb,
+letztere auf der Wurzelhälfte oben fein aber dicht schwarz
+punktirt. Die Beine, von denen die Schienen des hinteren
+Paares verdickt, sind stark schwarzgrau punktirt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="442" y="957"/>
+	<Point x="2151" y="957"/>
+	<Point x="2151" y="1951"/>
+	<Point x="442" y="1951"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der ♂ ist kleiner (♂ 24, ♀ 31 mm.), die Flügel kür-
+zer und nicht so scharf gezähnt; die Farbe ist dunkler,
+mehr röthlich als gelb und viel dichter braun gestrichelt,
+namentlich in der Wurzelhälfte der Vorderﬂügel; der Kopf
+und die dicht gekämmten Fühler braungelb. Diese sind
+gar nicht, die Beine nur schwach dunkel punktirt. Im Knie-
+gelenk der verdickten Hinterschienen ist ein langer, gelb-
+grauer Haarpinsel befestigt, welcher aber an der Innenseite
+der Schiene so fest anliegt, dass ich ihn nicht bemerkt hätte,
+wenn sich nicht beim Spannen bei einem ♂ ein Pinsel aus
+seiner Lage verrückt und fast fächerförmig ausgebreitet
+hätte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="451" y="1958"/>
+	<Point x="2155" y="1958"/>
+	<Point x="2155" y="2119"/>
+	<Point x="451" y="2119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beide Geschlechter führen zwei Sporenpaare auf den
+Hinterschienen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="449" y="2135"/>
+	<Point x="2151" y="2135"/>
+	<Point x="2151" y="2301"/>
+	<Point x="449" y="2301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anfangs August ﬂiegt dieser Spanner sehr häuﬁg um
+Chabarowka, die ♂♂ aber meistens nicht mehr frisch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="374" y="2323"/>
+	<Point x="2150" y="2323"/>
+	<Point x="2150" y="2914"/>
+	<Point x="374" y="2914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Scardamia Aurantiacaria Brem. In Dr. Staudinger's Cata-
+log .ist dieser schöne Spanner in das Genus Epione Dup.
+gestellt worden. Ich bin jedoch der Meinung, dass man
+das Gen. Scardamia Gn., wohin Bremer das Thier rich-
+tig gestellt hat, beibehalten kann, das sich auf den ersten
+Blick von Epione durch den Haarschopf auf den beiden er-
+sten Hinterleibssegmenten unterscheidet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="453" y="2923"/>
+	<Point x="2146" y="2923"/>
+	<Point x="2146" y="3101"/>
+	<Point x="453" y="3101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aurantiacaria ﬂiegt Mitte August an verschiedenen Stel-
+len des Ussuri, aber stets nur einzeln.</Unicode></TextEquiv></TextRegion></Page></PcGts>

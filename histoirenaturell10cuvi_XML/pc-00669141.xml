@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669141">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:29:43</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669141.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r15" index="0"/>
+	<RegionRefIndexed regionRef="r21" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="516" y="199"/>
+	<Point x="1103" y="199"/>
+	<Point x="1103" y="281"/>
+	<Point x="516" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1359" y="188"/>
+	<Point x="1538" y="188"/>
+	<Point x="1538" y="274"/>
+	<Point x="1359" y="274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>209</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="96" y="556"/>
+	<Point x="1527" y="556"/>
+	<Point x="1527" y="917"/>
+	<Point x="96" y="917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un acanthure fort semblable à l’elongatus,
+même par la caudale et par la petite épine
+de la queue, et qui a le proﬁl seulement un
+peu plus long,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="147" y="923"/>
+	<Point x="1525" y="923"/>
+	<Point x="1525" y="1239"/>
+	<Point x="147" y="1239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>se distingue par une large bande blanchâtre ou lilas
+clair sur la base de la caudale; cette nageoire a d’ail‐
+leurs un ﬁn liséré blanchâtre à son bord, et tout le
+poisson est d’un brun noirâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="579" y="1244"/>
+	<Point x="1095" y="1244"/>
+	<Point x="1095" y="1314"/>
+	<Point x="579" y="1314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/26; A. 3/24, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="86" y="1319"/>
+	<Point x="1527" y="1319"/>
+	<Point x="1527" y="1584"/>
+	<Point x="86" y="1584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus sont longs de quatre pouces;
+ils nous ont été envoyés de l’Isle-de-France
+par M. Desjardins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="412" y="1674"/>
+	<Point x="1208" y="1674"/>
+	<Point x="1208" y="1761"/>
+	<Point x="412" y="1761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE DE BLOCH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="76" y="1968"/>
+	<Point x="1532" y="1968"/>
+	<Point x="1532" y="2662"/>
+	<Point x="1448" y="2662"/>
+	<Point x="1434" y="2648"/>
+	<Point x="1155" y="2649"/>
+	<Point x="1146" y="2660"/>
+	<Point x="78" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une autre espèce brune, commune à l’Isle-
+de-France et aux Séchelles, d’où elle a été
+rapportée par M. Dussumier, réunit à la bande
+pâle de la queue de l’annularis, des pointes à
+la caudale, encore plus saillantes que dans le
+nigro-fuscus. C’est celle que Bloch nous paraît
+avoir représentée sous le nom de chætodon
+nigricans, bien que ce ne soit pas, à beaucoup</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="93" y="1781"/>
+	<Point x="1526" y="1781"/>
+	<Point x="1526" y="1949"/>
+	<Point x="93" y="1949"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus Blochii, nob.; Chætodon nigricans,
+Bl., 203.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="221" y="2679"/>
+	<Point x="322" y="2679"/>
+	<Point x="322" y="2738"/>
+	<Point x="221" y="2738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1179" y="2658"/>
+	<Point x="1289" y="2658"/>
+	<Point x="1289" y="2745"/>
+	<Point x="1179" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>14</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="357" y="331"/>
+	<Point x="1245" y="331"/>
+	<Point x="1245" y="428"/>
+	<Point x="357" y="428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE ANNULAIRE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="357" y="449"/>
+	<Point x="1245" y="449"/>
+	<Point x="1245" y="534"/>
+	<Point x="357" y="534"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus annularis, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

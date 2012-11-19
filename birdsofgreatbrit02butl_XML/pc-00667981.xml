@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667981">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T06:49:22</Created>
+	<LastChange>2012-02-10T09:52:28</LastChange></Metadata>
+	<Page imageFilename="00667981.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r16" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="855" y="230"/>
+	<Point x="1435" y="230"/>
+	<Point x="1435" y="305"/>
+	<Point x="855" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LESSER REDPOLL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1991" y="255"/>
+	<Point x="2080" y="255"/>
+	<Point x="2080" y="326"/>
+	<Point x="1991" y="326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>77</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="185" y="349"/>
+	<Point x="2073" y="349"/>
+	<Point x="2073" y="510"/>
+	<Point x="185" y="510"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>feathered life, that the bird-catcher gathers in his harvest, and the markets are
+glutted throughout Europe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="751" y="1205"/>
+	<Point x="1530" y="1205"/>
+	<Point x="1530" y="1307"/>
+	<Point x="751" y="1307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LESSER REDPOLL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="819" y="1373"/>
+	<Point x="1460" y="1373"/>
+	<Point x="1460" y="1449"/>
+	<Point x="819" y="1449"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Acanthis rufescens, VIEILLOT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="355" y="1720"/>
+	<Point x="355" y="1510"/>
+	<Point x="2085" y="1510"/>
+	<Point x="2085" y="2153"/>
+	<Point x="191" y="2153"/>
+	<Point x="189" y="1720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CCURS in Western Europe, and probably breeds in some of the mountains
+of the South-West; one nest having been obtained from the Veglio Alps,
+in Italy, about 7,000 feet above the sea-level.
+In Great Britain this Redpoll is resident, breeding most freely in the north
+of England and Ireland, and in well-timbered localities in Scotland, more particu‐
+larly in plantations of birch. This bird is, however, by no means restricted to
+the north of England, or Ireland, during the breeding-season; its nest having
+been found in most of the southern counties to the east of Somerset, in the north
+of which county it has also bred: in Kent, I believe, it breeds regularly, though
+not abundantly, every year.*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="197" y="2160"/>
+	<Point x="2083" y="2160"/>
+	<Point x="2083" y="2590"/>
+	<Point x="197" y="2590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The upper surface, of the adult male in breeding-plumage is ruddy olive-
+brown, longitudinally streaked on each feather with blackish; wings and tail
+darker brown, with pale margins; innermost secondaries broadly margined; median
+and greater coverts with broad buﬃsh tips; crown bright satiny crimson in front;
+rump washed with rosy-red; lores and centre of throat black; sides of head and
+throat golden olive-brown; breast rose-red; sides and ﬂanks golden olive-brown,
+streaked with blackish; belly white, stained with buﬃsh; beak ochreous-yellow,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="204" y="2614"/>
+	<Point x="2059" y="2614"/>
+	<Point x="2059" y="2736"/>
+	<Point x="204" y="2736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* E. A. Swainson (Zoologist, 1891, p. 357) records the fact that this species breeds every year near Brecon
+in Wales. The nest has also been found in Sussex, Berks, Surrey, Middlesex, Cheshire, Oxfordshire, Rutlandshire,
+and the Outer Hebrides.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="302" y="2760"/>
+	<Point x="427" y="2760"/>
+	<Point x="427" y="2791"/>
+	<Point x="302" y="2791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="1747" y="2752"/>
+	<Point x="1789" y="2752"/>
+	<Point x="1789" y="2788"/>
+	<Point x="1747" y="2788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>X</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="196" y="951"/>
+	<Point x="844" y="951"/>
+	<Point x="844" y="1032"/>
+	<Point x="196" y="1032"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1360" y="953"/>
+	<Point x="2080" y="953"/>
+	<Point x="2080" y="1026"/>
+	<Point x="1360" y="1026"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="drop-capital">
+	<Coords>
+	<Point x="215" y="1533"/>
+	<Point x="351" y="1533"/>
+	<Point x="351" y="1685"/>
+	<Point x="215" y="1685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="1030" y="704"/>
+	<Point x="1030" y="726"/>
+	<Point x="1240" y="726"/>
+	<Point x="1240" y="704"/></Coords></SeparatorRegion></Page></PcGts>

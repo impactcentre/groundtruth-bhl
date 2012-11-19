@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672736">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-13T23:55:31</Created>
+	<LastChange>2012-03-12T14:34:25</LastChange></Metadata>
+	<Page imageFilename="00672736.tif" imageWidth="1741" imageHeight="3079">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1453" y="169"/>
+	<Point x="1544" y="169"/>
+	<Point x="1544" y="246"/>
+	<Point x="1453" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>89</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="268" y="271"/>
+	<Point x="1289" y="271"/>
+	<Point x="1289" y="474"/>
+	<Point x="268" y="474"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diertes Geſlet.
+Serpens, Anguis. Aaalſlangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="8" y="503"/>
+	<Point x="1571" y="503"/>
+	<Point x="1571" y="721"/>
+	<Point x="8" y="721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zu dieſem Geſlet rener Linne alle die Slangenar‐
+ten, die gar keine Bauſilde haben, ſondern ber den gan:
+zen Krper mit Suppen bekleidet nd.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="10" y="744"/>
+	<Point x="1566" y="744"/>
+	<Point x="1566" y="973"/>
+	<Point x="10" y="973"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es iﬆ dies Geſlet dasienige, weles die Slangen
+mit ben vierfßigen Amphibien verbindet, wie wir glei an
+der eren Gattung ſehn werden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="14" y="987"/>
+	<Point x="1576" y="987"/>
+	<Point x="1576" y="1349"/>
+	<Point x="14" y="1349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es enthlt dies Geſlet meiens nur kleine Slangen,
+die ſmtli ohne Giftzhne und unſdli nd. Sie haben
+umpfe Swnze und kleine Augen, und nhren  mehrentheils
+von Inſekten und andern kleinen Thieren, ſlafen im Winter,
+und huten  alle Iahr.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="19" y="1369"/>
+	<Point x="1580" y="1369"/>
+	<Point x="1580" y="1732"/>
+	<Point x="19" y="1732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Linne unterseidet e hauptsli na der Zahl der
+Suppen unter dem Bau und Swanz, woben man 
+freyli no leiter als ben den Silden irren kann, indeen
+nd gewhnli die Suppen, die man mit zu zhlen hat,
+gltter, hrter, grßer und von andrer Farbe als die brigen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="198" y="1762"/>
+	<Point x="1026" y="1762"/>
+	<Point x="1026" y="1953"/>
+	<Point x="198" y="1953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I. Anguis Quadrupes.
+Vierfßige Aalſlange.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="16" y="1971"/>
+	<Point x="1592" y="1971"/>
+	<Point x="1592" y="2467"/>
+	<Point x="16" y="2467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der Nahme ergiebt ſon den Character dieſer Slange.
+Die Fße haber� fnf Finger und Zehen mit kleinen Ngeln,
+nd aber ſo kurz und ehen ſo weit von einander, die fordern
+nemlich dit am Kopf, und die hintern ſo nah am Swanz,
+daß das Thier nit damit fortſreiten kann, ſondern mit ſei⸗
+nem Aalfrmigen Krper wie die brigen dieſes Geſlets fort⸗
+gleitet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="19" y="2485"/>
+	<Point x="1578" y="2485"/>
+	<Point x="1578" y="2708"/>
+	<Point x="19" y="2708"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die unter den Eideſen vorgekommene Aaleideſe i von
+Gealt dieſer Slange ſehr hnli, auer daß e Ohren hat,
+und daher in iene Klae gehrte.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r10" type="other">
+	<Coords>
+	<Point x="496" y="150"/>
+	<Point x="496" y="244"/>
+	<Point x="1057" y="244"/>
+	<Point x="1057" y="150"/></Coords></GraphicRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="1466" y="2766"/>
+	<Point x="1466" y="2867"/>
+	<Point x="1616" y="2867"/>
+	<Point x="1616" y="2766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es</Unicode></TextEquiv></TextRegion></Page></PcGts>

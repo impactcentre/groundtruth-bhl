@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669254">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:43:16</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669254.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="289" y="296"/>
+	<Point x="1727" y="296"/>
+	<Point x="1727" y="547"/>
+	<Point x="289" y="547"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ayant conservé son panache de la nuque et
+ses ventrales, lorsqu’il a établi son cephalepis
+octomaculatus.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="292" y="554"/>
+	<Point x="1719" y="554"/>
+	<Point x="1719" y="891"/>
+	<Point x="292" y="891"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il aura pris pour un seul rayon le panache
+entier, dont le dessinateur n’aura pas suﬃ‐
+samment écarté ou distingué les cinq ou six
+ﬁlets qui le composent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="289" y="894"/>
+	<Point x="1730" y="894"/>
+	<Point x="1726" y="1979"/>
+	<Point x="512" y="1978"/>
+	<Point x="509" y="1990"/>
+	<Point x="289" y="1990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Raﬁnesque forme son vingt-troisième
+ordre, les Gymnètres (i ginnetridi), de cet ar-
+gyctius et de ce cephalepis, ce qui ne l’empêche
+pas de laisser dans son vingt-deuxième le
+cepola trachyptera de Linné. Il a négligé
+de faire encore un quatrième double emploi,
+en oubliant dans cet ouvrage son scarcina
+quadrimaculata, ibidem, p. 20, n.° 5o; car
+lorsqu’il a extrait du Panphyton siculum de
+Cupani la description de ce scarcina quadri‐
+maculata, il y prenait, sans s’en douter, celle
+d’un trachyptère plus grand, et qui avait de
+plus perdu ses ventrales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="298" y="1992"/>
+	<Point x="513" y="1992"/>
+	<Point x="516" y="1984"/>
+	<Point x="1723" y="1983"/>
+	<Point x="1721" y="2506"/>
+	<Point x="298" y="2506"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son scarcina imperialis n’est caractérisé
+que par l’absence de taches, et doit être un
+de nos gymnètres. Au surplus il est diﬃcile
+de rien aﬃrmer de positif sur des descrip‐
+tions si abrégées, où les nombres des rayons
+ne sont pas même indiqués. Cette réﬂexion</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="358" y="2617"/>
+	<Point x="1599" y="2617"/>
+	<Point x="1599" y="2686"/>
+	<Point x="358" y="2686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Ittiolog. sicil., p. 31 , n.° 232 et app., p. 55, n.° 95.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="301" y="194"/>
+	<Point x="453" y="194"/>
+	<Point x="453" y="280"/>
+	<Point x="301" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>322</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="700" y="199"/>
+	<Point x="1312" y="199"/>
+	<Point x="1312" y="283"/>
+	<Point x="700" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDeS.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="295" y="2537"/>
+	<Point x="295" y="2577"/>
+	<Point x="1727" y="2577"/>
+	<Point x="1727" y="2537"/></Coords></SeparatorRegion></Page></PcGts>

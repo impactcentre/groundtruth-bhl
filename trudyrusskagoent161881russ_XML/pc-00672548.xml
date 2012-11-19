@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672548">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:55:33</Created>
+	<LastChange>2012-02-10T09:55:09</LastChange></Metadata>
+	<Page imageFilename="00672548.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1014" y="107"/>
+	<Point x="1324" y="107"/>
+	<Point x="1324" y="174"/>
+	<Point x="1014" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 352 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="294" y="242"/>
+	<Point x="2041" y="242"/>
+	<Point x="2041" y="498"/>
+	<Point x="294" y="498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'ajouterai encore, que les beaux individus foncés, volaient
+à une élévation de 3500' à 4500' environ, mais qu'ils y
+étaient moins abondants que les individus grisâtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="296" y="505"/>
+	<Point x="2041" y="505"/>
+	<Point x="2041" y="833"/>
+	<Point x="296" y="833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'habitat de ce Parnassien, dans les parties du Tian-Chian
+que nous visitâmes, était de 3500' à 11,000', l'espèce volant
+durant tout l'été sans interruption. C'est le 15 Mai que nous
+rencontrâmes les premiers individus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="298" y="841"/>
+	<Point x="2041" y="841"/>
+	<Point x="2041" y="1082"/>
+	<Point x="298" y="1082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je dois dire ici quelques mots d'un Parnassien ♂, que je
+crois être un metis du P. v. Hesebolus, Nordm. et de mon
+P. v. Discobolus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="278" y="1094"/>
+	<Point x="2033" y="1094"/>
+	<Point x="2033" y="1755"/>
+	<Point x="278" y="1755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Envergure 77 mill.; ailes très blanches, comme dans He-
+sebolus ♂. Les antérieures ont le dessin de ces derniers, seule
+la tache noire, au dessus du bord interne n'est munie que de
+quelques écailles rouges, à peine perceptibles. La bande anti-
+marginale, (composée de taches sémilunaires), qui parcourt
+toutes les ailes, ainsi que les deux taches noires — rondes,
+au dessus de l'angle anal des secondes ailes sont comme dans
+le P. v. Discobolus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="282" y="1764"/>
+	<Point x="2028" y="1764"/>
+	<Point x="2028" y="2260"/>
+	<Point x="282" y="2260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En dessous ce ♂ se rapproche de cette dernière espèce,
+(variété), sauf la blancheur du fond, qui lui donne un aspect
+tout diﬀérent. J'ai été bien embarrassé par ce singulier ♂, pris
+sur les bords de l'Archane*), et l'idée qu'il pouvait être le
+fruit d'un accouplement du Discobolus et du Hesebolus, me vint
+à l'esprit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="282" y="2266"/>
+	<Point x="2030" y="2266"/>
+	<Point x="2030" y="2512"/>
+	<Point x="282" y="2512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bientôt après, je ﬁs, dans la même localité, une capture
+bien plus intéressante, et qui vint appuyer ma supposition:
+je trouvai un Hesebolus ♂ in copula avec une ♀ Discobolus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="283" y="2519"/>
+	<Point x="2024" y="2519"/>
+	<Point x="2024" y="2948"/>
+	<Point x="283" y="2948"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est le premier cas d'accouplements entre diﬀérentes es-
+pèces du genre Parnassius, que je connaisse, et il est fort
+possible qu'un pareil accouplement ait pu produire un hybride,
+des cas analogues ayant été constatés, irréfutables, pour d'au-
+tres lépidoptères (Colias, Smerinthus, Saturnia, etc.).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="339" y="3028"/>
+	<Point x="1723" y="3028"/>
+	<Point x="1723" y="3103"/>
+	<Point x="339" y="3103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Afﬂuent important du Kounguesse à une hauteur de 6,500'.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="280" y="2971"/>
+	<Point x="839" y="2971"/>
+	<Point x="839" y="2996"/>
+	<Point x="280" y="2996"/></Coords></SeparatorRegion></Page></PcGts>

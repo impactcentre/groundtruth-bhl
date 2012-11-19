@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672778">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T09:37:53</Created>
+	<LastChange>2012-02-10T10:29:48</LastChange></Metadata>
+	<Page imageFilename="00672778.tif" imageWidth="1813" imageHeight="2642">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="203" y="200"/>
+	<Point x="259" y="200"/>
+	<Point x="259" y="238"/>
+	<Point x="203" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>94</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="706" y="187"/>
+	<Point x="1209" y="187"/>
+	<Point x="1209" y="227"/>
+	<Point x="706" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PRACTICAL RECIPES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="466" y="280"/>
+	<Point x="1447" y="280"/>
+	<Point x="1447" y="325"/>
+	<Point x="466" y="325"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TO TAKE OLD VARNISH FROM FURNITURE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="205" y="341"/>
+	<Point x="1716" y="341"/>
+	<Point x="1716" y="723"/>
+	<Point x="205" y="723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Put equal parts of strong alcohol and good oil of turpentine into
+a bottle, then set the bottle into hot water until the mixture becomes
+thoroughly heated. Cover the woodwork with this hot liquid, and all
+the old varnish will dissolve so that it will scrape oﬀ without diﬃculty.
+In a little while the woodwork will be entirely clean and smooth. In
+rejuvenating old furniture a satisfactory job never can be done by
+putting on a new coat of varnish without ﬁrst removing the old coat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="526" y="755"/>
+	<Point x="1402" y="755"/>
+	<Point x="1402" y="801"/>
+	<Point x="526" y="801"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TO REMOVE STAINS FROM FURNITURE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="210" y="819"/>
+	<Point x="1718" y="819"/>
+	<Point x="1718" y="1366"/>
+	<Point x="210" y="1366"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>White stains on furniture may be removed by rubbing them with
+hot milk and turpentine. They can be removed with kerosene when
+not of long standing, but the hot milk and turpentine is better. For
+dark stains use a strong solution of oxalic acid. Purchase the
+crystals, put them into a bottle, ﬁll it up with water and keep it on a
+high shelf where the children cannot get at it. It is good to use in
+removing spots of iron rust or of ink from white goods, and a weak
+solution may be used on the hands when they are badly stained from
+dirty work. The hands must then be rinsed carefully and thor-
+oughly, for oxalic acid is poison.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="633" y="1393"/>
+	<Point x="1288" y="1393"/>
+	<Point x="1288" y="1440"/>
+	<Point x="633" y="1440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SAVING BROKEN FURNITURE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="209" y="1454"/>
+	<Point x="1716" y="1454"/>
+	<Point x="1716" y="1895"/>
+	<Point x="209" y="1895"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Many articles of furniture are broken up and destroyed because
+some parts of them needed mending and were neglected. Every
+piece that has become loosened from an article of furniture, or every
+part that is broken, should be saved. Bring them out some day when
+you have a little spare time and provide yourself with a hammer,
+small nails and a bottle of prepared glue. You will be surprised to
+ﬁnd that many articles can be made to do good service, and look as
+well as new after they are repaired.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="624" y="1922"/>
+	<Point x="1294" y="1922"/>
+	<Point x="1294" y="1963"/>
+	<Point x="624" y="1963"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TO HARDEN LAMP CHIMNEYS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="209" y="1989"/>
+	<Point x="1720" y="1989"/>
+	<Point x="1720" y="2303"/>
+	<Point x="209" y="2303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Here is a method which will prevent lamp chimneys from cracking
+by heat. The treatment will not only render lamp chimneys,
+tumblers and like articles more durable, but may be applied with
+advantage to crockery, stoneware, porcelain, etc. The chimneys,
+tumblers, etc., are put into a pot filled with cold water, to which
+some common table salt has been added. The water is well boiled</Unicode></TextEquiv></TextRegion></Page></PcGts>

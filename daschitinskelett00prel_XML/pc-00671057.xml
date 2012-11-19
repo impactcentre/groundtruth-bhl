@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671057">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T12:07:38</Created>
+	<LastChange>2012-03-12T14:34:02</LastChange></Metadata>
+	<Page imageFilename="00671057.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/>
+	<RegionRefIndexed regionRef="r13" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="205" y="412"/>
+	<Point x="2227" y="412"/>
+	<Point x="2227" y="665"/>
+	<Point x="205" y="665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das Chitinskelett von Eosentomon,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="560" y="772"/>
+	<Point x="1880" y="772"/>
+	<Point x="1880" y="1087"/>
+	<Point x="560" y="1087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ein Beitrag zur Morphologie
+des Insektenkörpers</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="1140" y="1262"/>
+	<Point x="1272" y="1262"/>
+	<Point x="1272" y="1327"/>
+	<Point x="1140" y="1327"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="865" y="1410"/>
+	<Point x="1555" y="1410"/>
+	<Point x="1555" y="1517"/>
+	<Point x="865" y="1517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Heinrich Prell</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="1032" y="1895"/>
+	<Point x="1397" y="1895"/>
+	<Point x="1397" y="1962"/>
+	<Point x="1032" y="1962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mit 6 Tafeln</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r6" type="stamp">
+	<Coords>
+	<Point x="1022" y="2270"/>
+	<Point x="1385" y="2270"/>
+	<Point x="1385" y="2642"/>
+	<Point x="1022" y="2642"/></Coords></GraphicRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="987" y="3019"/>
+	<Point x="1435" y="3024"/>
+	<Point x="1435" y="3066"/>
+	<Point x="987" y="3066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nägele &amp; Dr. Sproesser</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9" type="handwritten-annotation">
+	<Coords>
+	<Point x="0" y="40"/>
+	<Point x="250" y="40"/>
+	<Point x="250" y="405"/>
+	<Point x="0" y="405"/></Coords></GraphicRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="945" y="2893"/>
+	<Point x="1480" y="2893"/>
+	<Point x="1477" y="2951"/>
+	<Point x="945" y="2951"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>STUTTGART 1913</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="473" y="2956"/>
+	<Point x="1947" y="2959"/>
+	<Point x="1945" y="3015"/>
+	<Point x="473" y="3008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E. Schweizerbart'sche Verlagsbuchhandlung</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r14" type="other">
+	<Coords>
+	<Point x="755" y="1900"/>
+	<Point x="755" y="1965"/>
+	<Point x="1006" y="1965"/>
+	<Point x="1006" y="1900"/></Coords></GraphicRegion>
+	<GraphicRegion id="r15" type="other">
+	<Coords>
+	<Point x="1413" y="1903"/>
+	<Point x="1413" y="1958"/>
+	<Point x="1644" y="1958"/>
+	<Point x="1644" y="1903"/></Coords></GraphicRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="1068" y="1642"/>
+	<Point x="1068" y="1721"/>
+	<Point x="1368" y="1721"/>
+	<Point x="1368" y="1642"/></Coords></SeparatorRegion></Page></PcGts>

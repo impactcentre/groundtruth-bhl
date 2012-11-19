@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671085">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T18:43:27</Created>
+	<LastChange>2012-03-12T14:34:03</LastChange></Metadata>
+	<Page imageFilename="00671085.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="839" y="973"/>
+	<Point x="1783" y="973"/>
+	<Point x="1783" y="1101"/>
+	<Point x="839" y="1101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>II. Allgemeiner Teil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="869" y="1155"/>
+	<Point x="1714" y="1155"/>
+	<Point x="1714" y="1230"/>
+	<Point x="869" y="1230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A. Die Zusammensetzung des Kopfes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="228" y="1251"/>
+	<Point x="825" y="1248"/>
+	<Point x="1770" y="1251"/>
+	<Point x="2369" y="1246"/>
+	<Point x="2374" y="1581"/>
+	<Point x="1116" y="1585"/>
+	<Point x="1091" y="1595"/>
+	<Point x="1074" y="1582"/>
+	<Point x="935" y="1582"/>
+	<Point x="931" y="1590"/>
+	<Point x="906" y="1590"/>
+	<Point x="876" y="1584"/>
+	<Point x="585" y="1587"/>
+	<Point x="366" y="1585"/>
+	<Point x="234" y="1584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Frage nach der Zahl der Metamere, welche zur Bildung des Insektenkopfes zusammen‐
+getreten sind, ist in einer großen Zahl von Arbeiten erörtert worden. Die Untersuchungen darüber
+wurden teils auf vergleichend-morphologischer, teils auf embryologischer Basis angestellt. Da kritische
+Zusammenstellungen auch der neueren Arbeiten schon des öfteren gegeben sind, möchte ich mich
+darauf beschränken, die wichtigsten Ergebnisse hervorzuheben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="244" y="1592"/>
+	<Point x="871" y="1591"/>
+	<Point x="900" y="1594"/>
+	<Point x="935" y="1594"/>
+	<Point x="942" y="1589"/>
+	<Point x="1075" y="1589"/>
+	<Point x="1090" y="1601"/>
+	<Point x="1114" y="1593"/>
+	<Point x="1323" y="1592"/>
+	<Point x="2366" y="1590"/>
+	<Point x="2360" y="2333"/>
+	<Point x="1972" y="2336"/>
+	<Point x="238" y="2336"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Während die vergleichend-morphologischen Untersuchungen zu der Annahme ganz verschie‐
+dener Segmentzahlen geführt haben, die von einem Minimum von einem (Burmeister) bis zu
+einem Maximum von neun (Janet) schwanken, hat die Embryologie fast ausnahmslos die Anlage
+von sechs Kopfsomiten festgestellt. Nur wenige Autoren glauben, ein siebentes Ganglienpaar als
+Rest eines reduzierten postmandibularen Kopfsegmentes, zu welchem die Superlinguae des Hypo-
+pharynx (bezw. das Endolabium) als Extremitäten gehören würden, gefunden zu haben (Folsom,
+Bengtsson u. a.), doch konnten diese Resultate von anderen Untersuchern nicht bestätigt werden
+(Holmgren u. a.). Aus diesem Grunde erscheint es als berechtigt, sechs als die ursprüngliche
+Anzahl der Kopfmetamere anzusehen, zumal auch manche Tatsachen der vergleichenden Morpho‐
+logie zugunsten dieser Zahl sprechen. Diese Segmente sind, von vorn nach hinten gezählt, das Acron.
+Antennale und Postantennale (Praemandibulare, Intercalare), zusammen das Procephalon bildend,
+und das Mandibulare, Maxillare und Labiale als Glieder des Gnathocephalon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="244" y="2341"/>
+	<Point x="917" y="2340"/>
+	<Point x="2352" y="2339"/>
+	<Point x="2336" y="2770"/>
+	<Point x="1335" y="2770"/>
+	<Point x="244" y="2771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es erhebt sich nunmehr die zweite Frage danach, in welchen Teilen des definitiven Kopfes
+diese Metamere zu suchen sind. Ich glaube dabei absehen zu dürfen von den ganz komplizierten Be‐
+grenzungen der einzelnen Bezirke, wie sie teils willkürlich (Newport, Dybowski), teils auf
+Grund vergleichender Untersuchungen an Muskulatur und Innervation (Berlese, Janet,
+Verhoeff) angegeben wurden. Dagegen möchte ich kurz darauf hinweisen, was sich entwicklungs‐
+geschichtlich über das spätere Schicksal der Kopfsegmente feststellen ließ, und werde mich dabei
+an den Kopf der Blattiden halten, welcher große Ähnlichkeit mit dem Proturenkopfe aufweist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="245" y="2775"/>
+	<Point x="800" y="2775"/>
+	<Point x="1120" y="2774"/>
+	<Point x="2344" y="2773"/>
+	<Point x="2345" y="3140"/>
+	<Point x="245" y="3142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bei Phyllodromia fand Heymons, daß von den Segmenten des Procephalon das Antennale
+bis auf seine Extremität, das Postantennale völlig reduziert wird. Während nun die Kopflappen
+rasch auf der Dorsalseite miteinander, zur Bildung der Frons, und mit der medianen Clypeolabralanlage
+verschmelzen, erfolgt im Gnathocephalon zuerst eine Verwachsung der Segmente miteinander, und
+dann erst der dorsale Verschluß und die Vereinigung mit dem Procephalon. Da nun die früh erfolgten
+Verschmelzungen intensiver sind, verstreichen bei ihnen die alten Grenzen vollständig. Spätere</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="359" y="3146"/>
+	<Point x="667" y="3146"/>
+	<Point x="669" y="3192"/>
+	<Point x="358" y="3192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zoologica. Heft 64.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="2201" y="3144"/>
+	<Point x="2233" y="3144"/>
+	<Point x="2233" y="3185"/>
+	<Point x="2201" y="3185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4</Unicode></TextEquiv></TextRegion></Page></PcGts>

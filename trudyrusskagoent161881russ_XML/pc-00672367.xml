@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672367">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:21:13</Created>
+	<LastChange>2012-02-10T09:54:35</LastChange></Metadata>
+	<Page imageFilename="00672367.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="749" y="105"/>
+	<Point x="1067" y="105"/>
+	<Point x="1067" y="173"/>
+	<Point x="749" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 173 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="48" y="241"/>
+	<Point x="1785" y="241"/>
+	<Point x="1785" y="414"/>
+	<Point x="48" y="414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dern haben alle einen nach hinten etwas erweiterten, ziemlich
+kurzen, blass ochergelblichen Analbusch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="48" y="421"/>
+	<Point x="1778" y="421"/>
+	<Point x="1778" y="757"/>
+	<Point x="48" y="757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Art wurde bei Honda zu Ende April und Anfang Mai
+zahlreich gefunden. Da sie bei Ubaque schon zu Ende März
+vorkam, und unter den noch im Mai gefangenen nur ein ♀
+erhalten wurde, so ergiebt sich eine lange Flugzeit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="348" y="867"/>
+	<Point x="1449" y="867"/>
+	<Point x="1449" y="964"/>
+	<Point x="348" y="964"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cramb. pygmaeus. Tab. XI, ﬁg. 10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="35" y="1005"/>
+	<Point x="1771" y="1005"/>
+	<Point x="1771" y="1344"/>
+	<Point x="35" y="1344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Minutus; alis ant. oblongis, canis, griseo-pulverosis, ante
+marginem posticum tenerrime strigillatis, striga media brunnea
+semel acute fracta, punctis marginalibus nigris; post. albidis,
+subpellucidis. ♂ ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="32" y="1380"/>
+	<Point x="1769" y="1380"/>
+	<Point x="1769" y="1957"/>
+	<Point x="32" y="1957"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der kleinste mir bekannte Crambus! Durch die nur 3ästige
+Medianader aller Flügel, den unausgerandeten Hinterrand der
+vordern und deren fein quergestrichelte Beschuppung vor dem
+Hinterrand bildet er mit Incanellus Z., Inconspicuellus Sn. und
+Troglodytellus Sn. eine Gruppe, die überall fremdartig ist,
+vielleicht aber noch ihre natürlichste Stelle hinter Elegans und
+Immunellus ﬁndet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="26" y="1967"/>
+	<Point x="1771" y="1967"/>
+	<Point x="1771" y="2373"/>
+	<Point x="26" y="2373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von Incanellus ausser durch die Kleinheit verschieden durch
+etwas breitere und dunkler bestäubte Vorderﬂügel, durch deren
+scharfe, in der Mitte stark gebrochene Querlinie in der Flügel-
+mitte und durch das gänzliche Fehlen der Querreihe schwarzer
+Strichelchen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="28" y="2380"/>
+	<Point x="1774" y="2380"/>
+	<Point x="1774" y="2626"/>
+	<Point x="28" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Schulterdecken sind gewöhnlich hell staubgrau, so dass
+der Rücken zwischen ihnen in einem Längsstreifen weiss ist.
+Der Hinterleib ist von der Beschaﬀenheit des Incanellus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="24" y="2632"/>
+	<Point x="1757" y="2632"/>
+	<Point x="1757" y="3062"/>
+	<Point x="24" y="3062"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel des ♂ 2‴, des einzigen ♀ 21/2‴ (also wie beim
+kleinsten Incanellus ♂), etwas kürzer als dort und nach hinten
+entschieden verbreitert, weissgrau, sehr reichlich mit bräun-
+lichen Stäubchen bestreut. In der Mitte ist eine ganz voll-
+ständige, gelbbraune, starke Querlinie, welche über ihrer Hälfte</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668957">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:37:13</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668957.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="532" y="253"/>
+	<Point x="944" y="253"/>
+	<Point x="944" y="305"/>
+	<Point x="532" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. ZÉES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="39" y="344"/>
+	<Point x="1434" y="344"/>
+	<Point x="1434" y="603"/>
+	<Point x="39" y="603"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l'espèce soit diﬀérente de notre dorée com-
+mune, de celle que nous avons décrite la
+première.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="78" y="629"/>
+	<Point x="1441" y="629"/>
+	<Point x="1441" y="1681"/>
+	<Point x="78" y="1681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les contours et les principaux détails en sont les
+mêmes. On l'a enluminée en partie de teintes grises,
+en partie de teintes bleuâtres, mais sur un fond jau-
+nâtre. La tache est bleu foncé, entourée d'un cercle
+jaune; les nageoires paraissent bleuâtres, mais ce ne
+sont pas là des caractères spéciﬁques. Ce qui en don-
+nerait davantage, si l'on pouvait entièrement se ﬁer
+à l'attention du dessinateur, c'est que la seconde
+dorsale n'a que dix-huit rayons et sept épines
+fourchues à ses côtés, et que la seconde anale a
+dix-huit rayons et dix épines, en avant desquelles
+il y en a encore trois aux côtés de la première
+anale; mais je crains que ce ne soient les produits
+de l'inadvertance du dessinateur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="38" y="1735"/>
+	<Point x="1450" y="1735"/>
+	<Point x="1450" y="2075"/>
+	<Point x="38" y="2075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est toujours une chose remarquable que
+la présence d'une espèce, sinon identique avec
+la nôtre, du moins étonnamment semblable,
+dans une mer si éloignée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="42" y="2177"/>
+	<Point x="1445" y="2177"/>
+	<Point x="1445" y="2251"/>
+	<Point x="42" y="2251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D'une SECONDE ESPÉCE DE DORÉE DE LA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="502" y="2277"/>
+	<Point x="966" y="2277"/>
+	<Point x="966" y="2346"/>
+	<Point x="502" y="2346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MÉDITERRANÉE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="469" y="2404"/>
+	<Point x="1007" y="2404"/>
+	<Point x="1007" y="2482"/>
+	<Point x="469" y="2482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Zeus pungio, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="45" y="2536"/>
+	<Point x="1442" y="2536"/>
+	<Point x="1442" y="2719"/>
+	<Point x="45" y="2719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La description de la dorée commune, qu'on
+vient de lire, est faite d'après un nombre assez</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1351" y="236"/>
+	<Point x="1434" y="236"/>
+	<Point x="1434" y="304"/>
+	<Point x="1351" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>25</Unicode></TextEquiv></TextRegion></Page></PcGts>

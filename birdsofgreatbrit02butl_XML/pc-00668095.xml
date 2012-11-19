@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668095">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T07:01:30</Created>
+	<LastChange>2012-02-10T09:52:36</LastChange></Metadata>
+	<Page imageFilename="00668095.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="787" y="241"/>
+	<Point x="1280" y="241"/>
+	<Point x="1280" y="296"/>
+	<Point x="787" y="296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SNOW-BUNTING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1860" y="249"/>
+	<Point x="1971" y="249"/>
+	<Point x="1971" y="316"/>
+	<Point x="1860" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>135</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="91" y="353"/>
+	<Point x="1978" y="360"/>
+	<Point x="1971" y="799"/>
+	<Point x="88" y="802"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>and Ireland, this bird is decidedly commoner in Scotland, where a few pairs remain
+to breed: the ﬁrst nest being obtained in the Shetlands by Saxby, on July 2nd,
+1861. In July, 1886, Messrs. Peach and Hinaman found nest and young in
+Sutherlandshire, and in June, 1888, Mr. John Young discovered a nest with ﬁve
+eggs. I believe it was obtained later by Mr. W. R. O. Grant. In 1903 nests
+were found on the spurs of the Grampians, stretching southwards between Rannoch
+and Glen Lyon, and in 1905 on a mountain still further south.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="89" y="805"/>
+	<Point x="1972" y="802"/>
+	<Point x="1974" y="1550"/>
+	<Point x="98" y="1552"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The adult male in breeding-plumage has the mantle, scapulars, inner second‐
+aries, terminal half of primaries, four central tail-feathers and greater part of the
+next pair black; the outer webs edged with white; outer feathers mostly white;
+centre of lower back and rump black (with white edges to the feathers) but the
+sides white; remainder of plumage white; beak and feet leaden-black; iris deep
+hazel. The female has all the black parts of the plumage greyer, and with pale
+edges to the feathers, the head and neck mottled with blackish. After the autumn
+moult the feathers of the upper surface, breast, and ﬂanks are bordered with dull
+chestnut, which gradually changes to white during the winter, and the beak
+becomes orange-ochreous tipped with blackish. The young are greyish, with dark
+centres to most of the feathers, but the wings and tail resembling the autumn
+plumage of the adults.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="99" y="1555"/>
+	<Point x="1976" y="1552"/>
+	<Point x="1975" y="1801"/>
+	<Point x="101" y="1800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This bird has received many trivial names, such as—The Lesser Pied Mountain
+Finch, The Snow-bird from Hudson’s Bay, The Tawny Bunting, The Mountain
+Bunting, The Lorrain Bunting; but its prettiest name (and that by which it is
+almost as well-known as Snow-Bunting) is Snow-ﬂake.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="101" y="1802"/>
+	<Point x="1977" y="1803"/>
+	<Point x="1971" y="2739"/>
+	<Point x="104" y="2740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seebohm writes respecting the habits of this bird as follows:—“The ﬂight of
+the Snow-Bunting is peculiar, and is something like that of a butterﬂy, as if the
+bird altered its mind every few seconds as to which direction it wished to take.
+It can scarcely be called an undulating ﬂight. The bird certainly does rest its
+wings every few seconds; but either they are expanded when at rest, or they are
+rested for so short a time that the plane of ﬂight is not suﬃciently altered to
+warrant its being called undulating. The Snow-Bunting is almost entirely a
+ground-feeder, and is consequently continually seen on the ground. These birds
+run along the snow with the celerity of a Wagtail on a sand-bank; but they can
+hop as easily as a Sparrow, and I have very often seen them do so. The idea
+that they seldom or never perch on trees is a mistake, which has no doubt arisen
+from the circumstance that on the steppes, where they delight to winter, and on
+the tundra, where they breed, there are no trees. In the valley of the Petchora,
+we had abundant opportunity of seeing them in trees.” (Hist. Brit. Birds, Vol. II,
+pp. 127-128).</Unicode></TextEquiv></TextRegion></Page></PcGts>

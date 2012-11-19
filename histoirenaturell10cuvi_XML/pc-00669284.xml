@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669284">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:47:22</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669284.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r12" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="344" y="162"/>
+	<Point x="487" y="162"/>
+	<Point x="487" y="255"/>
+	<Point x="344" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>352</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="769" y="176"/>
+	<Point x="1333" y="176"/>
+	<Point x="1333" y="258"/>
+	<Point x="769" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="770" y="333"/>
+	<Point x="1339" y="333"/>
+	<Point x="1339" y="416"/>
+	<Point x="770" y="416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="343" y="458"/>
+	<Point x="1755" y="458"/>
+	<Point x="1752" y="874"/>
+	<Point x="342" y="880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous passons maintenant aux espèces à ven‐
+trales formées d’un seul rayon alongé, et le
+plus souvent dilaté au bout, qui sont les vrais
+gymnètres dans le sens de Bloch (Syst. posth.
+p. 481).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="352" y="884"/>
+	<Point x="540" y="883"/>
+	<Point x="748" y="883"/>
+	<Point x="1590" y="880"/>
+	<Point x="1633" y="882"/>
+	<Point x="1757" y="879"/>
+	<Point x="1755" y="1303"/>
+	<Point x="356" y="1303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Méditerranée nous en a fourni cinq
+individus, qui nous paraissent appartenir à
+deux espèces; mais dont aucun n’est absolu‐
+ment complet, cependant nous allons les dé‐
+crire tels que nous les avons sous les yeux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="346" y="1604"/>
+	<Point x="1756" y="1604"/>
+	<Point x="1756" y="1957"/>
+	<Point x="346" y="1957"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le premier, dont M. Laurillard nous a pro‐
+curé deux individus, est le même que M.
+Risso a décrit (2.e éd., p. 296), sous le nom
+de gymnetrus longiradiatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="407" y="1973"/>
+	<Point x="1756" y="1973"/>
+	<Point x="1756" y="2659"/>
+	<Point x="407" y="2659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa tête oﬀre bien les mêmes pièces osseuses que
+les trachyptères, aussi molles, aussi striées, ciselées,
+mais autrement proportionnées. Cette tête, d’une
+longueur égale à la hauteur du corps, se trouve
+comprise cinq fois et deux tiers dans la distance
+mesurée entre le bout du museau et l’anus; et dans
+le poisson entier, la caudale non comprise, dix-
+huit fois et deux tiers. La bouche est susceptible
+d’une assez grande protractilité, aussi les pédicules</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="743" y="1379"/>
+	<Point x="1365" y="1379"/>
+	<Point x="1365" y="1460"/>
+	<Point x="743" y="1460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le GYMNÈTRE ÉPÉE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="355" y="1478"/>
+	<Point x="1749" y="1478"/>
+	<Point x="1749" y="1586"/>
+	<Point x="355" y="1586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Gymnetrus gladius, nob.; Cepola gladius; Walb.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

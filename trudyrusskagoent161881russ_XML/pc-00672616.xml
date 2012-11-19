@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672616">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:36:19</Created>
+	<LastChange>2012-02-10T09:55:22</LastChange></Metadata>
+	<Page imageFilename="00672616.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1019" y="123"/>
+	<Point x="1345" y="123"/>
+	<Point x="1345" y="204"/>
+	<Point x="1019" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 420 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="292" y="252"/>
+	<Point x="2047" y="252"/>
+	<Point x="2047" y="769"/>
+	<Point x="292" y="769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anticarum fascia ocellis duobus nigris albo-pupillatis (ra-
+rissime caecis); posticae fascia angustiori, extus dentata, in-
+trorsum edentata ubique distincte limitata. Posticae subtus
+albovenatae, disco griseo-fusco (signis obscurioribus consperso)
+irregulariter terminato, albo limitato, serieque interrupta e den-
+tibus acutis fuscis composita antemarginali.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="418" y="778"/>
+	<Point x="1492" y="778"/>
+	<Point x="1492" y="854"/>
+	<Point x="418" y="854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ciliis ubique albidis, griseo alternatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="309" y="933"/>
+	<Point x="2061" y="933"/>
+	<Point x="2061" y="1523"/>
+	<Point x="309" y="1523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Dr. Albert Regel, dont nous avons eu le plaisir de
+faire la connaissance à Kouldjà, est le premier qui ait pris
+cette espèce charmante dans les montagnes qui entourent la
+vallée de Kouldjà: je ne connais pas exactement la localité.
+Il la communiqua à Mr. Erschoff, qui m'en a envoyé le
+dessin et m'a autorisé à la décrire sous le nom de S. Regeli
+Ersch. in litt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="302" y="1535"/>
+	<Point x="2069" y="1535"/>
+	<Point x="2069" y="1785"/>
+	<Point x="302" y="1785"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'ai rencontré ce joli lépidoptère, sur le Jouldousse, en
+assez grand nombre. Je l'ai pris entre 8 et 10.000' d'élé-
+vation.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="302" y="1792"/>
+	<Point x="2061" y="1792"/>
+	<Point x="2061" y="1966"/>
+	<Point x="302" y="1966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un grand nombre d'individus de cette espèce, que je pre-
+nais entre le 20 Juillet et le 7 Août, étaient malformés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="302" y="1978"/>
+	<Point x="2059" y="1978"/>
+	<Point x="2059" y="2309"/>
+	<Point x="302" y="2309"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ailes sont en dessus d'un brun plus ou moins clair,
+tirant sur l'olivâtre; quelques individus même sont très clairs
+et ont la cellule discoïdale de antérieures blanchâtre, ou bien,
+de la teinte de la bande extérieure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="300" y="2321"/>
+	<Point x="2052" y="2321"/>
+	<Point x="2052" y="2666"/>
+	<Point x="300" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La frange, tachetée de brun-gris, ainsi que la large bande
+extérieure, qui est munie de deux yeux noirs, pupillés de
+blanc, (en dessus ainsi que sur le revers), sur les ailes anté-
+rieures, sont d'un blanc-enfumé (ou jaunâtre) très clair.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="292" y="2678"/>
+	<Point x="2047" y="2678"/>
+	<Point x="2047" y="3114"/>
+	<Point x="292" y="3114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La bande extérieure des deuxiêmes ailes, moins large,
+mais plus nettement limitée qu'aux premières, est dentée ex-
+térieurement et édentée à l'intérieur. La bande extérieure,
+sur toutes les ailes, est traversée par les nervures brunes.
+En dessous, les ailes antérieures représentent le dessin du des-</Unicode></TextEquiv></TextRegion></Page></PcGts>

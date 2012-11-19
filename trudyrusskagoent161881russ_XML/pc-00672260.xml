@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672260">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T16:24:40</Created>
+	<LastChange>2012-02-10T09:54:15</LastChange></Metadata>
+	<Page imageFilename="00672260.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1014" y="133"/>
+	<Point x="1355" y="133"/>
+	<Point x="1355" y="239"/>
+	<Point x="1014" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 66 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="285" y="253"/>
+	<Point x="2053" y="253"/>
+	<Point x="2053" y="944"/>
+	<Point x="285" y="944"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Asabinus ist, die eben unten eine dunklere Unterseite und dann
+mehr und stärkere schwarze Flecken als Asabinus hat. Im
+Taurus wurde allerdings nur Satraps gefangen, allein entweder
+hat Haberhauer dort die zweite Generation gar nicht ge‐
+fangen, oder vielleicht hat diese Art dort nur eine Generation,
+nach Analogie der Anthocharis Belia v. Simplonia, die in
+der Schweiz nur eine Generation, im Süden Europa’s aber
+stets deren zwei hat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="289" y="948"/>
+	<Point x="2066" y="948"/>
+	<Point x="2058" y="1187"/>
+	<Point x="699" y="1196"/>
+	<Point x="292" y="1189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lyc. Bellargus. Hiervon sandte Johann mir ein Exem‐
+plar ein, das nur 21 mm. Flügelspannung misst, also kleiner
+als manche Lyc. Minima ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="289" y="1203"/>
+	<Point x="2075" y="1203"/>
+	<Point x="2075" y="1439"/>
+	<Point x="283" y="1439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lyc. Hylas Esp. (Dorylas Hb.). Johann sandte mir
+zwei ♂♂ aus Amasia, die den europäischen fast ganz gleich
+kommen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="307" y="1446"/>
+	<Point x="2053" y="1446"/>
+	<Point x="2053" y="3124"/>
+	<Point x="307" y="3124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lyc. Mithridates Stgr. Ich erhielt von Johann noch
+drei ♂♂ dieser Art, die hinsichtlich der Behaarung vollkommen
+mit den drei von mir gefangenen stimmen. Die Fransen an
+der Vorderﬂügelspitze sind auch, wenn gleich weniger, weiss;
+dahingegen sind die Fransenspitzen der Hinterﬂügel bei zweien
+dieser Stücke nicht weisslich, kaum etwas lichter als bei Ri-
+partii. Ferner sandte mir Johann damit auch ein ♀, das ich
+fast sicher zu Mithridates ziehen möchte. Die auﬀallend weissen
+Fransen der Vorderﬂügelspitze trennen es sofort von Ripartii,
+Menalcas und Hopﬀeri ♀♀. Der weisse Längswisch unten ist
+sehr deutlich, wie bei Kindermanni ♀. Auf den Hinterﬂügeln
+treten oben am Innenwinkel ganz verloschene rothe Randﬂecken
+auf. Die Färbung der Oberseite ist matt schwarzbraun, ähn‐
+lich wie bei den ♂♂. Ein anderes ♀, das Johann mit diesen
+Stücken sandte, hat eine ganz dunkle, schwarze Oberseite wie
+bei Kindermanni ♀ und eine fast eben so dunkelgraue Unter‐
+seite. Allein die Fransen sind nur an der Vorderﬂügelspitze
+weiss, wie bei Mithridates, während sie bei Kindermanni
+ŭberall weiss sind. Wahrscheinlich gehört dies Stück auch zu
+Mithridates, wenn man es nicht als eine Hybride ansehn will.</Unicode></TextEquiv></TextRegion></Page></PcGts>

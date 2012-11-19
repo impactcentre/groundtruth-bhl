@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672500">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:46:07</Created>
+	<LastChange>2012-02-10T09:55:02</LastChange></Metadata>
+	<Page imageFilename="00672500.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="969" y="123"/>
+	<Point x="1294" y="123"/>
+	<Point x="1294" y="194"/>
+	<Point x="969" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 304 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="246" y="262"/>
+	<Point x="2005" y="262"/>
+	<Point x="2005" y="2285"/>
+	<Point x="246" y="2285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>etwas kürzer als die gleichlangen 4, 6, 7, Keule lang oval
+zugespitzt, gleich 5+6+7. Thorax halb so lang als hinten
+breit, Seiten geradlinig verengt, hinten tief 2buchtig, Aussen-
+winkel zugespitzt, schräg nach hinten gerichtet, oben ﬂach ge-
+wölbt mit schwarzen tief eingestochenen Punkten. Schildchen
+länglich, gerundet. Decken schliessen sich bis auf die runden
+Schultern dicht an den Thorax, 3 mal so lang als breit, Sei-
+ten fast parallel, schwach gerundet, hinten spitz zugerundet,
+auf dem Rücken gestreift punktirt, hinten punktirt gestreift,
+Punkte in den Streifen undeutlich; die dichte grüne Beschup-
+pung durch unregelmässige, quere kahle Linien und Makeln
+unterbrochen, Zwischenräume reihenweise, Kopf, Rüssel, Tho-
+rax in den Punkten mit kurzen, aufstehenden, weissen Bor-
+sten. Unterseite noch feiner, kürzer und anliegend geborstet.
+Schenkel fein, nicht scharf gezähnt; Schienen an der Spitze
+mit kurzem Dorn, das tief 2 lappige erweiterte Tarsenglied
+3 mit schwammiger Sohle, Glied 1 fast so lang als 2+3,
+Klauengliedlänge =1+2 mit freien, scharfen Klauen. Mittel-
+brustepimeren viel kleiner als die Episternen. Hinterbrust-
+episternen kürzer als Segment 1+2, ersteres hinten ausge-
+buchtet, mit schmalem (kaum so breit als Entfernung zwischen
+Mittel- und Hinterhüften d. h. wenig länger als der Mittel-
+hüftendurchmesser) vorne abgerundetem Fortsatz. Segment 2
+so lang als die gleichlangen 3+4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="2007" y="2287"/>
+	<Point x="2007" y="2634"/>
+	<Point x="275" y="2634"/>
+	<Point x="275" y="2287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ kleiner, schmäler, schlankere Fühler, an den Schultern
+kaum so breit als der Thorax hinten, Schenkel deut-
+licher gezähnt, Abdomen ﬂach, Analsegment an der
+breiten Spitze mit einer Borstenbürste.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="2007" y="2636"/>
+	<Point x="2007" y="2895"/>
+	<Point x="275" y="2895"/>
+	<Point x="275" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♀ grösser, breiter, dickere Fühler, an den Schultern deut-
+lich breiter als Thorax hinten. Analsegment zugerundet,
+ohne Auszeichnung.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="2007" y="2897"/>
+	<Point x="2007" y="3083"/>
+	<Point x="275" y="3083"/>
+	<Point x="275" y="2897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aus der Kirgisensteppe (Eversmann), Bik-Bauli (Bala-
+soglo), Turkestan.</Unicode></TextEquiv></TextRegion></Page></PcGts>

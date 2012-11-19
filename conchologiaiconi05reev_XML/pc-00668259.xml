@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668259">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:50:16</Created>
+	<LastChange>2012-02-10T09:52:48</LastChange></Metadata>
+	<Page imageFilename="00668259.tif" imageWidth="2526" imageHeight="3172">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="951" y="1107"/>
+	<Point x="1555" y="1107"/>
+	<Point x="1555" y="1194"/>
+	<Point x="951" y="1194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MONOGRAPH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1071" y="1294"/>
+	<Point x="1424" y="1294"/>
+	<Point x="1424" y="1346"/>
+	<Point x="1071" y="1346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OF THE GENUS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="764" y="1444"/>
+	<Point x="1755" y="1444"/>
+	<Point x="1755" y="1566"/>
+	<Point x="764" y="1566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="941" y="1773"/>
+	<Point x="1676" y="1773"/>
+	<Point x="1676" y="1912"/>
+	<Point x="941" y="1912"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“The fertile bosom of the earth gives suck
+To myriads, who still grow beneath her care,
+Rewarding her with their pure perfectness.”—Shelley.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="1014" y="1691"/>
+	<Point x="1451" y="1691"/>
+	<Point x="1451" y="1737"/>
+	<Point x="1014" y="1737"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="1046" y="1957"/>
+	<Point x="1046" y="1988"/>
+	<Point x="1444" y="1988"/>
+	<Point x="1444" y="1957"/></Coords></SeparatorRegion></Page></PcGts>

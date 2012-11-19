@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669045">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:18:00</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669045.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="48" y="250"/>
+	<Point x="1466" y="250"/>
+	<Point x="1468" y="685"/>
+	<Point x="1237" y="685"/>
+	<Point x="1192" y="679"/>
+	<Point x="48" y="679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forster, de son côté, sans connaître le travail
+du voyageur danois, ou sans y faire attention,
+avait nommé harpurus le genre que Forskal
+appelait acanthure, et cette dernière déno‐
+mination a été préférée par Bloch et Lacépède.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="37" y="683"/>
+	<Point x="1080" y="683"/>
+	<Point x="1234" y="692"/>
+	<Point x="1472" y="694"/>
+	<Point x="1472" y="1340"/>
+	<Point x="37" y="1340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quant aux siganus, les méthodistes ont paru
+oublier tout-à-fait ce que Forskal en avait dit.
+Commerson les reproduisait sous le nom de
+buro, Houttuyn sous celui de centrogaster et
+Bloch sous celui d'amphacanthus, et ce der‐
+nier seul, dans son Système posthume, faisait
+connaître l’identité des poissons dénommés si
+diversement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="31" y="1354"/>
+	<Point x="1452" y="1354"/>
+	<Point x="1452" y="1858"/>
+	<Point x="31" y="1858"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Depuis Forskal, les monocéros de Bloch ou
+les nasons de Lacépède ont été séparés avec
+raison des acanthures, et Lacépède, en par‐
+ticulier, a ajouté à ces genres ceux qu’il a
+nommés prionures et aspisures; mais celui des
+aspisures ne repose que sur une erreur de fait.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="21" y="1862"/>
+	<Point x="1451" y="1862"/>
+	<Point x="1451" y="2625"/>
+	<Point x="1226" y="2626"/>
+	<Point x="1214" y="2620"/>
+	<Point x="1139" y="2621"/>
+	<Point x="1118" y="2625"/>
+	<Point x="21" y="2625"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A ces genres des amphacanthes, des acan‐
+thures, des prionures et des nasons, que nous
+adoptons, nous en joignons encore trois qui
+se placent à la suite de ces derniers, mais avec
+des caractères propres, les axinures, les prio-
+dons et les kéris, et nous composons de tous
+ensemble un groupe qui pourrait être consi‐
+déré par des naturalistes comme subordonné
+à la grande famille des scombéroïdes, sans</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="621" y="160"/>
+	<Point x="883" y="160"/>
+	<Point x="883" y="230"/>
+	<Point x="621" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1329" y="160"/>
+	<Point x="1462" y="160"/>
+	<Point x="1462" y="230"/>
+	<Point x="1329" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>113</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="148" y="2636"/>
+	<Point x="148" y="2694"/>
+	<Point x="247" y="2694"/>
+	<Point x="247" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="1148" y="2626"/>
+	<Point x="1211" y="2626"/>
+	<Point x="1211" y="2698"/>
+	<Point x="1148" y="2698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8</Unicode></TextEquiv></TextRegion></Page></PcGts>

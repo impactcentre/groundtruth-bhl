@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669231">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:40:19</Created>
+	<LastChange>2012-03-12T14:33:50</LastChange></Metadata>
+	<Page imageFilename="00669231.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r35" index="0"/>
+	<RegionRefIndexed regionRef="r55" index="1"/>
+	<RegionRefIndexed regionRef="r49" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r25" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="75" y="1144"/>
+	<Point x="1109" y="1144"/>
+	<Point x="1109" y="1244"/>
+	<Point x="75" y="1244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu est long d’un pied.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="481" y="1497"/>
+	<Point x="1024" y="1497"/>
+	<Point x="1024" y="1593"/>
+	<Point x="481" y="1593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES AXINURES,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="30" y="1835"/>
+	<Point x="1502" y="1835"/>
+	<Point x="1502" y="2736"/>
+	<Point x="30" y="2736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une forme plus alongée, moins comprimée,
+à peu près semblable à celle du thon, une
+bouche très-petite et des dents excessive‐
+ment grêles, l’armure de la queue consistant
+de chaque côté en une lame unique, tran‐
+chante, coupée carrément comme un fer de
+hache, et non attachée à un bouclier, dis‐
+tinguent ce genre des naseus, dont il a d’ail‐
+leurs l’âpreté générale et les trois rayons mous
+aux ventrales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="69" y="1603"/>
+	<Point x="1426" y="1603"/>
+	<Point x="1426" y="1713"/>
+	<Point x="69" y="1713"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et en particulier de l’AXINURE THYNNOÏDE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="heading">
+	<Coords>
+	<Point x="352" y="1725"/>
+	<Point x="1165" y="1725"/>
+	<Point x="1165" y="1821"/>
+	<Point x="352" y="1821"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Axinurus thynnoides, nob.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r28">
+	<Coords>
+	<Point x="650" y="1335"/>
+	<Point x="650" y="1381"/>
+	<Point x="851" y="1381"/>
+	<Point x="851" y="1335"/></Coords></SeparatorRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="89" y="333"/>
+	<Point x="1468" y="333"/>
+	<Point x="1468" y="651"/>
+	<Point x="89" y="651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>chacune d’elles paraît attachée au milieu d’une plaque
+ovale plus haute que longue, et qui paraît faire une
+tache noirâtre sur le fond brun du corps; fond qui
+paraît avoir tiré au jaunâtre du côté du ventre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="89" y="741"/>
+	<Point x="1468" y="741"/>
+	<Point x="1468" y="1132"/>
+	<Point x="89" y="1132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les tégumens sont de la même nature que dans
+le précédent; une peau garnie de grains si menus
+et si serrés qu’elle ressemble à une espèce de cuir.
+Le long de la ligne latérale sont des espèces de
+taches ou de points un peu plus mats.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="327" y="656"/>
+	<Point x="1211" y="656"/>
+	<Point x="1211" y="731"/>
+	<Point x="327" y="731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/22; A. 3/22; C. 15; P. 16; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="header">
+	<Coords>
+	<Point x="459" y="223"/>
+	<Point x="1004" y="223"/>
+	<Point x="1004" y="322"/>
+	<Point x="459" y="322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. IV. AXINURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="page-number">
+	<Coords>
+	<Point x="1296" y="223"/>
+	<Point x="1459" y="223"/>
+	<Point x="1459" y="322"/>
+	<Point x="1296" y="322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>299</Unicode></TextEquiv></TextRegion></Page></PcGts>

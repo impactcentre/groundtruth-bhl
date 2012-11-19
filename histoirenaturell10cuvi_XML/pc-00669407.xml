@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669407">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:02:32</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669407.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="62" y="274"/>
+	<Point x="1476" y="274"/>
+	<Point x="1476" y="1206"/>
+	<Point x="62" y="1206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. de Humboldt ajoute que le pesce rey,
+célèbre dans tous les pays limitrophes du Pé‑
+rou, paraît propre à l’hémisphère austral. On
+le trouve surtout dans l’océan Paciﬁque, près
+de Callao, de Lima, où la description dont
+nous venons de donner l’extrait, a été faite;
+mais il manque près de Truxillo et au sud
+de Lima. Je ne connais, ajoute-t-il, aucun
+poisson dont la chair soit plus délicieuse;
+aussi en consomme-t-on journellement, dans
+la capitale du Pérou, une grande quantité.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="59" y="1211"/>
+	<Point x="1479" y="1210"/>
+	<Point x="1480" y="1500"/>
+	<Point x="1481" y="1828"/>
+	<Point x="1482" y="2118"/>
+	<Point x="1482" y="2571"/>
+	<Point x="63" y="2574"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous venons de reconnaître que l’athérine
+des côtes plus australes de la pointe de l’Amé‑
+rique est d’une espèce plus distincte; nous
+prouverons tout à l’heure qu’en avançant vers
+les côtes du Mexique cet océan nourrit d’au‑
+tres espèces. Nous ajouterons que tout porte
+à croire qu’une espèce d’athérine se trouve
+encore dans les lacs élevés du haut Pérou, à
+Titicaca. Le poisson de ce lac est connu de
+même sous le nom de pesce rey, et a les côtés
+ornés d’une bande argentée. La délicatesse de
+sa chair est fort célèbre. Il serait bien curieux
+de pouvoir comparer ces espèces, qui vivent
+dans des lacs intérieurs si élevés, avec celles
+qui se nourrissent dans le fond des mers sous
+des pressions atmosphériques si diﬀérentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="621" y="175"/>
+	<Point x="908" y="175"/>
+	<Point x="908" y="246"/>
+	<Point x="621" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1335" y="164"/>
+	<Point x="1483" y="164"/>
+	<Point x="1483" y="241"/>
+	<Point x="1335" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>475</Unicode></TextEquiv></TextRegion></Page></PcGts>

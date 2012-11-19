@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672265">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:55:37</Created>
+	<LastChange>2012-02-10T09:54:16</LastChange></Metadata>
+	<Page imageFilename="00672265.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="708" y="123"/>
+	<Point x="1044" y="123"/>
+	<Point x="1044" y="198"/>
+	<Point x="708" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 71 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="21" y="260"/>
+	<Point x="1766" y="260"/>
+	<Point x="1766" y="917"/>
+	<Point x="21" y="917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel ist meist schwach röthlich angeﬂogen wie bei den
+Pelopea aus Syrien, was bei der Mamurra v. Obscura, die
+hier nur weissgrau ist, niemals vorkommt. Die Unterseite der
+Vorderﬂügel ist auch meist lange nicht so gelb wie bei Ma‑
+murra und den Arten der Pelopea-Gruppe, sondern zuweilen
+fast weisslich. Dies veranlasste mich namentlich die zwei oder
+drei mir früher vorliegenden schlechten Stücke als (fragliche)
+Varietäten von Beroë v. Aurantiaca anzusehn.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="14" y="930"/>
+	<Point x="1753" y="930"/>
+	<Point x="1753" y="1092"/>
+	<Point x="14" y="1092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ueber die Varietäten Lydia und Obscura habe ich im
+früheren Theil dieser Arbeit Genügendes gesagt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="12" y="1098"/>
+	<Point x="1764" y="1098"/>
+	<Point x="1764" y="2917"/>
+	<Point x="12" y="2917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinsichtlich des Sat. Beroë bemerke ich noch, dass Rhena
+HS. am besten als Synonym eingezogen wird. Rhena HS. ♂
+ﬁg. 571 ist ein sehr dunkler Beroë ♂, während ich sein Rhena
+♀ ﬁg. 572 — 3 jetzt eher als ein kleines variirendes Hippo‑
+lyte ♀ ansehn möchte. Besonders die Unterseite der Hinter-
+ﬂügel, die bei Beroë et var. niemals so bunt ist (eine so
+weisse Mittelbinde hat), so wie die weissen Fransen geben fast
+völlige Gewissheit darüber, dass dies ein Hippolyte ♀ ist. Aus
+Lederer’s Sammlung habe ich als var. aus Helenendorf
+4 ♂♂, die auch gelbliche Binden der Oberseite führen, aber
+sich doch von der v. Aurantiaca ziemlich unterscheiden. Nur
+eine grössere Zahl frischer Stücke aus dem Süd-Caucasus wird
+zeigen, ob hier auch eine wesentlich verschiedene Lokalform
+vorliegt. Ueber die var. Aurantiaca aus Nord-Persien habe
+ich auch weiter nichts zu sagen. Schliesslich bemerke ich
+noch, dass ich von der bisher nur in wenigen Stücken gefan‑
+genen var. Graeca in diesem Jahre fünf frische von Dr. Krü-
+per auf dem Parnass gefangene Paare erhielt. Einige Stücke
+haben auf der Oberseite fast ganz weissliche Binden mit sehr
+wenig gelber (brauner) Beimischung; alle haben aber eine so
+auﬀallend blaugraue Unterseite der Hinterﬂügel, dass sie fast
+als verschiedene Art angesehn werden könnte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="8" y="2926"/>
+	<Point x="1749" y="2926"/>
+	<Point x="1749" y="3091"/>
+	<Point x="8" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Macroglossa Croatica Esp. Von Lederer auch auf dem
+Bosz-dagh gefunden.</Unicode></TextEquiv></TextRegion></Page></PcGts>

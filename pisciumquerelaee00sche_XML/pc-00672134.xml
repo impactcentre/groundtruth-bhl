@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672134">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T17:11:56</Created>
+	<LastChange>2012-03-12T14:34:09</LastChange></Metadata>
+	<Page imageFilename="00672134.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1335" y="74"/>
+	<Point x="1409" y="74"/>
+	<Point x="1409" y="142"/>
+	<Point x="1335" y="142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>34</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="586" y="155"/>
+	<Point x="2152" y="155"/>
+	<Point x="2152" y="1062"/>
+	<Point x="586" y="1062"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>qua aſperſum, qui cornu hircinum colore quodammodo re-
+fert, ni quòd in medio per longitudinem ſui corporis ac fab-
+ric veluti ﬁus videtur. Interior pars nonnihil cavi-
+tatis hahens,riis ſeu inciſuris in utrumque latus diduis,
+ac intervenientibus eminentiis medullam ſpinalem Piſcis,vel
+tale quid imitatur. Alibi aﬀert Cornua lapidea , quæ
+ejusdem mihi videntur ruuræ cum noro ſoli
+Caryophylloideo , diinguenda probè &amp; facilè à
+Modiolo ellato Luidii, celeberrimi illius Antiquita-
+tum Anglicarum ruſpatoris Lithophyl. Brittann. p. 97.
+Seu Caryophyllo Lapideo Wagneri Eph. Germ. Ann. III.
+Dec.II. p. 370. &amp; Specim. Lithogr. Helv. p. 10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="587" y="1082"/>
+	<Point x="2154" y="1081"/>
+	<Point x="2154" y="2240"/>
+	<Point x="590" y="2240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Scenam , quam aperuimus , claudimus Piſces.
+Trutta Diluviana in Marmore ſubﬂavo, ex
+Muſeo Folium Diluvianarum Reliquiarum
+inruimo Ill atque Exc. Comitis Franciſci Ho-
+norii de TRAUTTMANSDORFF , Sacræ Cæſareæ,
+Regiæque Caroli III. Majeatis Conliarii, &amp; ad HeI-
+veticas Reſpublicas Oratoris Extraordinarii , quod
+Muſeum non ita pridem ſub alio ludentis &amp; Idei-
+ﬁcantis Naturæ ſchemate , peculiari Lapidum Figura-
+torum Helveti ejúsque vicini Hiori , Orbi curioſo
+fuit expotum à Clari. Dn. Carolo Nicolao Langio,
+Lucernen Medico, nobis non invitis , qui veram
+originis noræ à Diluvio deduionem vel ex inſpe-
+ione ſola ﬁgurarum , contra indicante licet textu,
+conﬁrmatum iri perſua ſumus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="585" y="2254"/>
+	<Point x="2147" y="2254"/>
+	<Point x="2147" y="2468"/>
+	<Point x="585" y="2468"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Agmen Piſcium Diluvianorum claudit Piſcis
+folis ex Beryto Phœniciæ illatus Muſeo lo-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1935" y="2513"/>
+	<Point x="2132" y="2513"/>
+	<Point x="2132" y="2604"/>
+	<Point x="1935" y="2604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cuple-</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r6" type="other">
+	<Coords>
+	<Point x="1148" y="64"/>
+	<Point x="1148" y="141"/>
+	<Point x="1319" y="142"/>
+	<Point x="1318" y="62"/></Coords></GraphicRegion>
+	<GraphicRegion id="r7" type="other">
+	<Coords>
+	<Point x="1430" y="58"/>
+	<Point x="1429" y="149"/>
+	<Point x="1609" y="148"/>
+	<Point x="1609" y="51"/></Coords></GraphicRegion></Page></PcGts>

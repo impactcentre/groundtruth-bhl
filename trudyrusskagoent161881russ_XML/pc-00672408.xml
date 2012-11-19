@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672408">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:29:50</Created>
+	<LastChange>2012-02-10T09:54:45</LastChange></Metadata>
+	<Page imageFilename="00672408.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="912" y="164"/>
+	<Point x="1226" y="164"/>
+	<Point x="1226" y="246"/>
+	<Point x="912" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 214 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="189" y="305"/>
+	<Point x="1957" y="305"/>
+	<Point x="1957" y="1557"/>
+	<Point x="189" y="1557"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>des Innenrandes. Die erste Querlinie, vor der Mitte, ist weiss-
+lich und zackig, aber nur angedeutet durch schwarze Schup-
+penﬂeckchen an ihrem Hinterrande und basalwärts am Dorsal-
+rande. Ein schwarzer Punkt auf der Querader hebt sich we-
+nig hervor. Die helle, zweite Querlinie ist dem Hinterrande
+nahe, gezähnt und schwarz eingefasst; ihre Einfassung ist ba-
+sal- und hinterwärts scharf und am Vorderrande, gegen den
+sie sich verbreitert, am tiefsten schwarz und ﬂeckartig; von
+der Ecke, die sie unterhalb des Vorderrandes bildet, geht ein
+breiter, ebenso schwarzer Schattenstreifen schräg einwärts nach
+dem reichlich mit tiefschwarzen Schuppen bestreuten Innen-
+rande. Diese ganze schwarze Zeichnung bewirkt, dass das
+Enddrittel der Flügelﬂäche geschwärzt erscheint. Der Hinter-
+rand trägt vor den ziemlich dunkelgrauen Franzen eine Reihe
+tiefschwarzer Punkte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="194" y="1560"/>
+	<Point x="1951" y="1560"/>
+	<Point x="1951" y="1808"/>
+	<Point x="194" y="1808"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel ziemlich spitz, fast schneeweiss und dabei durch-
+sichtig, um die Spitze schmal gebräunt und diese auch auf
+den schneeweissen Franzen mit einer solchen Linie umzogen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="196" y="1814"/>
+	<Point x="1953" y="1814"/>
+	<Point x="1953" y="2646"/>
+	<Point x="196" y="2646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel hellgrau, am Vorderrande
+dunkler und vor der Spitze mit einem weissen, basalwärts
+schwarz beschatteten Fleckchen; Hinterrandlinie bräunlich. —
+Hinterﬂügel weniger reinweiss als oben, irisirend, am Vor-
+derrande getrübt, an der Spitze wie oben gezeichnet. Die
+Adern haben die Farbe der Fläche. Der erste Ast der Me-
+dianader kommt von 1/3 der Länge; ihm näher als dem 2ten,
+ziemlich weit entfernten, geht die feine Querader sehr schräg
+ab; die aus den Aesten 3 und 4 gebildete Gabel ist sehr
+kurz und nur von 1/4 Länge ihres Stieles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="183" y="2653"/>
+	<Point x="1962" y="2653"/>
+	<Point x="1962" y="2814"/>
+	<Point x="183" y="2814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von den schön erhaltenen 2 ♂♂ 2 ♀♀, die alle bei Honda
+ﬂogen, wurde das eine ♂ am 24 April gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="194" y="2823"/>
+	<Point x="1955" y="2823"/>
+	<Point x="1955" y="3158"/>
+	<Point x="194" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ein am 21 April gefangenes ♂ hat die Vorderﬂügel nach
+hinten mehr erweitert mit schärferer Spitze. Der erste Quer-
+streifen scheint grader zu sein; der hintere hat eine viel lich-
+tere und weniger scharfe, mehr verﬂossene Einfassung; die</Unicode></TextEquiv></TextRegion></Page></PcGts>

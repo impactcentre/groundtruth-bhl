@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669216">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:08:38</Created>
+	<LastChange>2012-03-12T14:33:50</LastChange></Metadata>
+	<Page imageFilename="00669216.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r31" index="4"/>
+	<RegionRefIndexed regionRef="r22" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="332" y="316"/>
+	<Point x="1744" y="316"/>
+	<Point x="1744" y="977"/>
+	<Point x="332" y="977"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de la mer Rouge, M. Ruppel, qui l’a pêché
+sur les côtes rocheuses du nord de cette mer,
+l’a représenté (Atlas, pl. 16, ﬁg. 2) sous le
+nouveau nom d’Aspisurus elegans; enﬁn,
+M. Lamarre-Piquot vient de le rapporter de
+l’Isle-de-France; ce qui prouve que ce nason
+est répandu dans toutes les parties chaudes
+des mers orientales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="393" y="1002"/>
+	<Point x="1744" y="1002"/>
+	<Point x="1744" y="2052"/>
+	<Point x="393" y="2052"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La hauteur de son corps est deux fois dans celle
+de la partie ovale, et deux fois et demie dans la lon‑
+gueur totale. C’est à peine si l’on aperçoit à son
+front une légère convexité; la distance de cette
+saillie à la nuque est d’un quart moindre qu’à la
+bouche. Son museau est oblique et presque recti-
+ligne; les détails de ses formes sont à peu près les
+mêmes que dans le fronticornis; sa dorsale est seule‑
+ment un peu moins haute, et sa caudale, qui est tail‑
+lée en croissant, a des pointes assez aiguës, qui souvent
+se prolongent en ﬁlets du quart ou du tiers de la lon‑
+gueur du corps. L’âpreté des écailles est ﬁne, et ses
+boucliers assez grands et armés de fortes lames en
+forme de quart de cercle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="548" y="2060"/>
+	<Point x="1577" y="2060"/>
+	<Point x="1577" y="2124"/>
+	<Point x="548" y="2124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 4; D. 6/25; A. 2/29; C. 16; P. 17; V. 6/3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="409" y="2132"/>
+	<Point x="1148" y="2132"/>
+	<Point x="1148" y="2220"/>
+	<Point x="409" y="2220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Ehrenberg compte:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="341" y="209"/>
+	<Point x="474" y="209"/>
+	<Point x="474" y="286"/>
+	<Point x="341" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>284</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="746" y="222"/>
+	<Point x="1250" y="222"/>
+	<Point x="1250" y="286"/>
+	<Point x="746" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="396" y="2305"/>
+	<Point x="1741" y="2305"/>
+	<Point x="1741" y="2688"/>
+	<Point x="396" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout ce poisson est d’un brun foncé; une teinte
+plus claire colore le ventre; ses lèvres sont orangées
+ou fauves; une ligne d’un jaune pâle, ou verte selon
+M. de Mertens, descend de l’œil le long de la ﬁssure
+qui est sous la narine, et se prolonge jusqu’au-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="862" y="2226"/>
+	<Point x="1187" y="2227"/>
+	<Point x="1268" y="2226"/>
+	<Point x="1268" y="2298"/>
+	<Point x="862" y="2298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 6/28; A. 2/30.</Unicode></TextEquiv></TextRegion></Page></PcGts>

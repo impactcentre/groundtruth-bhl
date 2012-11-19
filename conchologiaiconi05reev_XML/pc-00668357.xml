@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668357">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T20:41:10</Created>
+	<LastChange>2012-02-10T09:52:56</LastChange></Metadata>
+	<Page imageFilename="00668357.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r22" index="3"/>
+	<RegionRefIndexed regionRef="r24" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r27" index="8"/>
+	<RegionRefIndexed regionRef="r29" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r14" index="13"/>
+	<RegionRefIndexed regionRef="r15" index="14"/>
+	<RegionRefIndexed regionRef="r16" index="15"/>
+	<RegionRefIndexed regionRef="r17" index="16"/>
+	<RegionRefIndexed regionRef="r37" index="17"/>
+	<RegionRefIndexed regionRef="r41" index="18"/>
+	<RegionRefIndexed regionRef="r34" index="19"/>
+	<RegionRefIndexed regionRef="r20" index="20"/>
+	<RegionRefIndexed regionRef="r9" index="21"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="862" y="230"/>
+	<Point x="1252" y="230"/>
+	<Point x="1252" y="293"/>
+	<Point x="862" y="293"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="352" y="412"/>
+	<Point x="815" y="412"/>
+	<Point x="815" y="466"/>
+	<Point x="352" y="466"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 155. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="124" y="1442"/>
+	<Point x="1016" y="1440"/>
+	<Point x="1015" y="1487"/>
+	<Point x="525" y="1487"/>
+	<Point x="526" y="1532"/>
+	<Point x="194" y="1532"/>
+	<Point x="194" y="1476"/>
+	<Point x="125" y="1476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NYST, Bull. de l'Acad. Royale de Bruxelles, vol. xii. lére
+partie, pl. 1. f. 2 a, b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="117" y="1537"/>
+	<Point x="841" y="1539"/>
+	<Point x="841" y="1581"/>
+	<Point x="118" y="1581"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Province of Cumana, Colombia; Funck.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="122" y="1602"/>
+	<Point x="1013" y="1602"/>
+	<Point x="1013" y="2086"/>
+	<Point x="121" y="2086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A truly interesting species collected by M. Funck, the
+South American traveller, in the interior of Colombia,
+and ﬁrst described by M. Nyst in the Transactions of the
+Royal Academy of Brussels, from a specimen of much
+younger and more pellucid growth than those before me.
+The most characteristic features of the species are its
+beautifully granulated surface and richly shadowed undu-
+lated painting, whilst the lip is of a deep rose colour, and
+the interior lined with a delicate pinkish bloom, through
+which the outer pattern is discernible.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="927" y="2643"/>
+	<Point x="1118" y="2643"/>
+	<Point x="1118" y="2687"/>
+	<Point x="927" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>June, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1074" y="418"/>
+	<Point x="1959" y="418"/>
+	<Point x="1959" y="801"/>
+	<Point x="1490" y="801"/>
+	<Point x="1490" y="843"/>
+	<Point x="1144" y="843"/>
+	<Point x="1145" y="456"/>
+	<Point x="1074" y="456"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK'S BULIMUS. Shell ovate, very ventricose,
+scarcely umbilicated, spire short, whorls ﬁve in num-
+ber, rather ﬂatly convex, minutely promiscuously
+obtusely granulated, very ﬁnely crenulated at the
+sutures, columella with a single ascending fold, aper-
+ture rather large, peritreme conspicuously reﬂected;
+pale livid brown, peppered here and there with large
+chesnut dots, covered with an olive-brown epidermis,
+peritreme livid brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1066" y="848"/>
+	<Point x="1438" y="848"/>
+	<Point x="1438" y="894"/>
+	<Point x="1066" y="894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Monog. Bul.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1065" y="898"/>
+	<Point x="1951" y="898"/>
+	<Point x="1951" y="941"/>
+	<Point x="1458" y="941"/>
+	<Point x="1457" y="988"/>
+	<Point x="1144" y="988"/>
+	<Point x="1145" y="931"/>
+	<Point x="1065" y="931"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Andes of New Granada (at an elevation of about
+8,000 feet); Funck.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1062" y="1008"/>
+	<Point x="1954" y="1008"/>
+	<Point x="1954" y="1243"/>
+	<Point x="1503" y="1243"/>
+	<Point x="1503" y="1290"/>
+	<Point x="1062" y="1290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>So closely does this species approximate to the pre-
+ceding, that I feel somewhat doubtful of the propriety of
+retaining it; they appear to diﬀer, so far as may be judged
+by a comparison of the specimens here ﬁgured, but it is
+easy to conceive that a larger series would reveal a much
+closer aﬃnity between them.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="1255" y="1368"/>
+	<Point x="1745" y="1368"/>
+	<Point x="1745" y="1419"/>
+	<Point x="1255" y="1419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 157. (Mus. Dennison.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1061" y="1426"/>
+	<Point x="1951" y="1426"/>
+	<Point x="1950" y="1764"/>
+	<Point x="1433" y="1763"/>
+	<Point x="1433" y="1806"/>
+	<Point x="1122" y="1806"/>
+	<Point x="1122" y="1470"/>
+	<Point x="1061" y="1470"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS PARDALIS. Bul. testâ oblongo-ovali, subventricosâ,
+crassiusculâ, anfractibus quinque, subobliquè convolutis,
+apicem versus minutissimè creberrimè obtuso-granulatis,
+per suturas undique longitudinaliter crenulatis, colu-
+mellâ contortâ, fortiter uniplicatâ, labro conspicuè re-
+ﬂexo; purpurascente-fuscâ, longitudinaliter albiﬂam-
+matâ, epidermide lutescente-olivaceâ indutâ, columellâ
+et peritremate albis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1055" y="1811"/>
+	<Point x="1940" y="1811"/>
+	<Point x="1940" y="2199"/>
+	<Point x="1244" y="2199"/>
+	<Point x="1244" y="2227"/>
+	<Point x="1131" y="2227"/>
+	<Point x="1131" y="1848"/>
+	<Point x="1055" y="1848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PANTHER BULIMUS. Shell oblong-oval, rather ven-
+tricose, somewhat thick, whorls ﬁve in number, rather
+obliquely convoluted, very minutely and closely ob-
+tusely granulated towards the apex, longitudinally
+crenulated throughout along the sutures, columella
+twisted, with a strong winding plait, lip conspicu-
+ously reﬂected; purplish-brown, longitudinally ﬂamed
+with white, and covered by a yellowish olive epi-
+dermis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1043" y="2484"/>
+	<Point x="1938" y="2484"/>
+	<Point x="1938" y="2640"/>
+	<Point x="1043" y="2640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is somewhat diﬃcult to recognise this species by the
+ﬁgure of M. De Férussac, it being only known to the illus-
+trious author of the ‘Histoire des Coquilles Terrestres’</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="934" y="330"/>
+	<Point x="1172" y="330"/>
+	<Point x="1172" y="373"/>
+	<Point x="934" y="373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XXIV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="137" y="475"/>
+	<Point x="1030" y="475"/>
+	<Point x="1029" y="911"/>
+	<Point x="205" y="911"/>
+	<Point x="204" y="524"/>
+	<Point x="137" y="525"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS COLORATUS. Bul. testâ ovatâ, ventricosissimâ,
+vix umbilicatâ, spirâ brevi, anfractibus quinque, tumido-
+convexis, pulcherrimè minutè promiscuè granulatis, ad
+suturas subtilissimè crenulatis, columellâ plicâ unicâ
+ascendente, aperturâ subamplâ, labris laminâ callosâ
+junctis, peritremate conspicuè reﬂexo; albidâ, ﬂammis
+luteis longitudinalibus, maculis strigisve nigricantibus
+umbratis, epidermide olivaceâ indutâ, apicem versus
+castaneâ, columellâ labroque roseis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="134" y="916"/>
+	<Point x="1023" y="917"/>
+	<Point x="1023" y="1437"/>
+	<Point x="202" y="1436"/>
+	<Point x="202" y="951"/>
+	<Point x="133" y="950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE COLORED BULIMUS. Shell ovate, very ventricose,
+scarcely umbilicated, spire short, whorls ﬁve in num-
+ber, tumidly convex, very beautifully minutely pro-
+miscuously granulated, very ﬁnely crenulated at the
+sutures, columella with a single ascending fold, aper-
+ture rather large, outer and columellar lips connected
+by a callous lamina on the body whorl, peritreme
+conspicuously reﬂected; whitish, with longitudinal
+yellow ﬂames shaded with blackish spots or streaks,
+covered by an olive epidermis, chesnut-coloured
+towards the apex, lip and columella deep rose.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r25">
+	<Coords>
+	<Point x="350" y="2129"/>
+	<Point x="793" y="2129"/>
+	<Point x="793" y="2154"/>
+	<Point x="350" y="2154"/></Coords></SeparatorRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords>
+	<Point x="335" y="2180"/>
+	<Point x="792" y="2180"/>
+	<Point x="792" y="2230"/>
+	<Point x="335" y="2230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 156. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="123" y="2246"/>
+	<Point x="1008" y="2247"/>
+	<Point x="1008" y="2583"/>
+	<Point x="550" y="2583"/>
+	<Point x="551" y="2627"/>
+	<Point x="191" y="2628"/>
+	<Point x="191" y="2287"/>
+	<Point x="124" y="2287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS LAMARCKIANUS. Bul. testâ ovatâ, ventricosis-
+simâ, vix umbilicatâ, spirâ brevi, anfractibus quinque,
+subplano-convexis, minutè promiscuè obtuso-granulatis,
+ad suturas subtilissimè crenulatis, columellâ plicâ unicâ
+ascendente, aperturâ subamplâ, peritremate conspicuè
+reﬂexo; pallidè livido-fuscescente, punctis grandibus
+castaneis hic illic piperatâ, epidermide olivaceâ indutâ,
+peritremate livido-fusco.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r30">
+	<Coords>
+	<Point x="1276" y="1319"/>
+	<Point x="1716" y="1319"/>
+	<Point x="1716" y="1344"/>
+	<Point x="1276" y="1344"/></Coords></SeparatorRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="1045" y="2385"/>
+	<Point x="1935" y="2386"/>
+	<Point x="1936" y="2433"/>
+	<Point x="1237" y="2432"/>
+	<Point x="1238" y="2474"/>
+	<Point x="1045" y="2474"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Cumana, Venezuela; Funck. Varinas, Venezuela;
+Dyson.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r36">
+	<Coords>
+	<Point x="1060" y="419"/>
+	<Point x="1057" y="655"/>
+	<Point x="1049" y="936"/>
+	<Point x="1038" y="2261"/>
+	<Point x="1033" y="2630"/>
+	<Point x="1017" y="2631"/>
+	<Point x="1042" y="630"/>
+	<Point x="1042" y="417"/></Coords></SeparatorRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="1050" y="2233"/>
+	<Point x="1905" y="2233"/>
+	<Point x="1905" y="2280"/>
+	<Point x="1050" y="2280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE FERUSSAC, Hist. Moll. terr. et ﬂuv. pl. 112. f. 7. 8.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="1123" y="2286"/>
+	<Point x="1569" y="2286"/>
+	<Point x="1569" y="2334"/>
+	<Point x="1542" y="2334"/>
+	<Point x="1542" y="2379"/>
+	<Point x="1127" y="2379"/>
+	<Point x="1127" y="2334"/>
+	<Point x="1123" y="2334"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus Venezuelensis, Nyst.
+Bulimus atrapoides, Jonas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

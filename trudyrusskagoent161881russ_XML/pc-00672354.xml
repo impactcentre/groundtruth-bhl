@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672354">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:18:16</Created>
+	<LastChange>2012-02-10T09:54:33</LastChange></Metadata>
+	<Page imageFilename="00672354.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1033" y="74"/>
+	<Point x="1348" y="74"/>
+	<Point x="1348" y="135"/>
+	<Point x="1033" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 160 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="305" y="205"/>
+	<Point x="2075" y="205"/>
+	<Point x="2075" y="699"/>
+	<Point x="305" y="699"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>haben die für die Abtheilung Donacoscaptes angegebene Kürze;
+desshalb wird die Art wohl auch mit Donac, validus (Exot.
+Micr. p. 16) generisch verwandt sein, obgleich sie in der
+Flügelgestalt ganz von ihm abweicht, indem sie nach dieser
+recht gut bei Ch. forﬁcellus oder selbst bei Schoenob. immanis
+stehen würde.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="317" y="710"/>
+	<Point x="2083" y="710"/>
+	<Point x="2083" y="1791"/>
+	<Point x="317" y="1791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grösste mir bekannte Chilonidenart. Rückenschild und Kopf-
+theile von der Farbe der Vorderﬂügel. Die etwas aufgerichteten
+Lippentaster ragen nur wenig über das Ende des Stirnkegels
+hinaus; auch der schief dreieckige Endbusch der Maxillartaster
+reicht bis über den Anfang des 3ten Lippentastergliedes. Fühler
+fast von halber Vorderﬂügellänge, ziemlich dünn, stark gezähnt,
+borstig gefranzt. Beine bleicher als das Rückenschild; ebenso
+der die Hinterﬂügel überragende Hinterleib; dieser ist stark,
+in der ersten Hälfte (wohl zufällig) aufgebläht und auf dem
+Rücken des ersten Segments anliegend behaart. Das Analglied
+ist wie beim ♀ der Rohrmotten schräg abgestutzt und zusam-
+mengedrückt, am Ende mit dichten, kurzen Haarschuppen ein-
+gefasst.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="308" y="1794"/>
+	<Point x="2069" y="1794"/>
+	<Point x="2069" y="2455"/>
+	<Point x="308" y="2455"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 14‴ lang, langgestreckt, mit sanft convexem
+Vorder- und sehr schräg zurückgehendem Hinterrand, daher
+langgespitztem Vorder- und in den Innenrand übergehendem
+Innenwinkel, bleich ochergelb, am gesättigtsten auf der Innen-
+randhälfte gegen die Basis, am blässesten in der Costalzelle,
+überall spärlich mit braunen, kaum bemerkbaren Schüppchen
+bestreut. Der Hinterrand trägt eine Reihe schwärzlicher, sehr
+verloschener, kleiner Punkte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="299" y="2462"/>
+	<Point x="2075" y="2462"/>
+	<Point x="2075" y="2628"/>
+	<Point x="299" y="2628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel viel heller mit scharfem, fast ausgezogenem
+Vorderwinkel; die Anfänge der starken Hauptadern langhaarig.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="298" y="2630"/>
+	<Point x="2051" y="2630"/>
+	<Point x="2051" y="3053"/>
+	<Point x="298" y="3053"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite so hell wie die Hinterﬂügel oben, diese opali-
+sirend. Vorderﬂügel mit langhaariger Mittelzelle. Die Ver-
+ästelung der Subcostalader wie bei Chilo. Ader 6 und 7 bil-
+den eine kurzgestielte Gabel, aus deren Anfang die Querader
+entspringt.</Unicode></TextEquiv></TextRegion></Page></PcGts>

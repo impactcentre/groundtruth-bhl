@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668460">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T02:34:05</Created>
+	<LastChange>2012-02-10T09:53:13</LastChange></Metadata>
+	<Page imageFilename="00668460.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1616" y="238"/>
+	<Point x="1616" y="307"/>
+	<Point x="2052" y="307"/>
+	<Point x="2052" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus, Pl. L.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords>
+	<Point x="774" y="297"/>
+	<Point x="774" y="1287"/>
+	<Point x="1348" y="1287"/>
+	<Point x="1348" y="297"/></Coords></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords>
+	<Point x="1576" y="1141"/>
+	<Point x="1576" y="1758"/>
+	<Point x="1971" y="1758"/>
+	<Point x="1971" y="1141"/></Coords></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords>
+	<Point x="76" y="1033"/>
+	<Point x="569" y="1033"/>
+	<Point x="569" y="1889"/>
+	<Point x="76" y="1889"/></Coords></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords>
+	<Point x="630" y="1456"/>
+	<Point x="630" y="2733"/>
+	<Point x="1405" y="2733"/>
+	<Point x="1405" y="1456"/></Coords></ImageRegion>
+	<TextRegion id="r7" type="caption">
+	<Coords>
+	<Point x="1089" y="1293"/>
+	<Point x="1089" y="1330"/>
+	<Point x="1170" y="1330"/>
+	<Point x="1170" y="1293"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>327.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="caption">
+	<Coords>
+	<Point x="1063" y="2735"/>
+	<Point x="1063" y="2768"/>
+	<Point x="1145" y="2768"/>
+	<Point x="1145" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>330.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1619" y="2777"/>
+	<Point x="1619" y="2838"/>
+	<Point x="1854" y="2838"/>
+	<Point x="1854" y="2777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R, B &amp; R, imp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="caption">
+	<Coords>
+	<Point x="1773" y="1760"/>
+	<Point x="1773" y="1791"/>
+	<Point x="1858" y="1791"/>
+	<Point x="1858" y="1760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>329.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="caption">
+	<Coords>
+	<Point x="338" y="1896"/>
+	<Point x="338" y="1933"/>
+	<Point x="428" y="1933"/>
+	<Point x="428" y="1896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>328.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="217" y="2757"/>
+	<Point x="217" y="2805"/>
+	<Point x="505" y="2805"/>
+	<Point x="505" y="2757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G. B. S. del et lith.</Unicode></TextEquiv></TextRegion></Page></PcGts>

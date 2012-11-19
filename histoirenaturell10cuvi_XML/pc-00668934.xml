@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668934">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:34:32</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668934.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="357" y="321"/>
+	<Point x="1785" y="321"/>
+	<Point x="1789" y="2699"/>
+	<Point x="353" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>très-près aux espèces de scombéroïdes que
+nous avons déjà décrites, parles armures dont
+les côtés de leur corps sont souvent hérissés,
+par des dispositions anatomiques analogues,
+et qui ont un ensemble de caractères de famille
+qui ne permet pas, dans notre manière de voir,
+de les placer dans un autre groupe, quoique
+quelques-uns des caractères de cette nouvelle
+tribu se soient déjà présentés. Un d'eux, celui
+de la protractilité du museau, a déjà été pris
+en considération dans la tribu des ménides
+de la famille des Sparoïdes. Mais tous les na-
+turalistes seront d'accord sur ce point, que
+cette faculté d'avancer ainsi la bouche en une
+sorte de long tube, faculté qui résulte dune
+organisation tout-à-fait semblable des maxil-
+laires et intermaxillaires des Gerres et des
+Equula, ne peut pas cependant faire éloigner
+des Zées ces derniers poissons, pour les classer
+parmi les sparoïdes. Les Zées ont deux dor-
+sales et quelques autres caractères ostéologi-
+ques voisins de certains percoïdes ; mais la
+nature de leurs tégumens, les boucliers dont
+les côtés sont armés, les rapprochent incon-
+testablement des scombéroïdes à corps cui-
+rassé. Les Lampris, qui appartiennent égale-
+ment à la famille dont nous traitons, ont des
+viscères si voisins de ceux du thon en parti-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="header">
+	<Coords>
+	<Point x="939" y="232"/>
+	<Point x="1191" y="232"/>
+	<Point x="1191" y="285"/>
+	<Point x="939" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="366" y="216"/>
+	<Point x="417" y="216"/>
+	<Point x="417" y="283"/>
+	<Point x="366" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672779">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T17:08:00</Created>
+	<LastChange>2012-02-10T10:29:48</LastChange></Metadata>
+	<Page imageFilename="00672779.tif" imageWidth="2059" imageHeight="3296">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="255" y="415"/>
+	<Point x="1788" y="415"/>
+	<Point x="1788" y="627"/>
+	<Point x="255" y="627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Also another Brewer edition, practically the same as (m), but
+with the impring T. L. Magagnos &amp; Company, New York, 1854, 16
+Beekman St., as publishers. It also contains a few plates not from
+Wilson.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1716" y="286"/>
+	<Point x="1788" y="286"/>
+	<Point x="1788" y="334"/>
+	<Point x="1716" y="334"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>93</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="648" y="282"/>
+	<Point x="1409" y="282"/>
+	<Point x="1409" y="331"/>
+	<Point x="648" y="331"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BURNS—ALEXANDER WILSON.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="252" y="653"/>
+	<Point x="1790" y="653"/>
+	<Point x="1790" y="2838"/>
+	<Point x="252" y="2838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I have recently had the very great pleasure of examining
+valuable manuscript relating to Wilson, collected by the late
+Joseph M. Wade, and now in the hands of Mr. Frederic B.
+McKechine, who, while reserving the bulk for future publica-
+tion, has kindly permitted me to quote certain portions of the
+Hazard and Lawson letters. It enables me to conﬁrm the ex-
+istence of a Philadelphia edition of Brewer's Wilson, 1856, by
+quoting the publisher: " My connection with Wilson was this:
+As a publisher in Philadelphia, Harrison Hall who had form-
+erly been the publisher of Wilson in 3 Vols. 8vo of text and 1
+Vol. 4vo of plates [1828-1829[, who succeeded Laval and
+Bradford, the former publishers [Vol. IX of the 1824-25 re-
+print]. He used frequently to be in my store on Chestnut
+St. between 7th and 8th Sts., and being a very old man, and
+desiring of selling the plates, induced me to buy the coppers,
+which were all he had of the work, except a number of odd
+printed impressions, plain and colored, and a few copies of the
+edition of Wilson and Bonaparte in 1 Vol. 8vo edited by Brew-
+er of Boston, and which was out of print. I used to buy all
+the copies of this letter press I could pick up, and print oﬀ
+some plates and color them and thus sell the work. When I
+went out of business, I sold the plates to Porter and Coates."1
+The latter publishing house made use of them in their 1871
+edition, when Mr. Hazard was manager for the ﬁrm and
+doubtless superintended this work, and the late Henry T.
+Coates informed me that he in turn transferred the plates to
+The John C. Winston Co., successors to Henry T. Coates and
+Company; therefore I believe the original coppers are still in-
+tact after serving ﬁve editions. Mr. Hazard does not state
+that the title page of the letter press was replaced by one of
+his own, but I regard this as extremely probable, as well as
+his own or a close friend's authorship of the notice in Alli-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="footnote">
+	<Coords>
+	<Point x="749" y="2856"/>
+	<Point x="1293" y="2856"/>
+	<Point x="1293" y="2928"/>
+	<Point x="749" y="2928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1 Willis P. Hazard MS.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668682">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:21:23</Created>
+	<LastChange>2012-02-10T10:29:30</LastChange></Metadata>
+	<Page imageFilename="00668682.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r16" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1751" y="133"/>
+	<Point x="2152" y="133"/>
+	<Point x="2152" y="200"/>
+	<Point x="1751" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Achatina Pl.XIII.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords>
+	<Point x="1079" y="302"/>
+	<Point x="1287" y="302"/>
+	<Point x="1287" y="840"/>
+	<Point x="1079" y="840"/></Coords></ImageRegion>
+	<TextRegion id="r4" type="caption">
+	<Coords>
+	<Point x="1190" y="853"/>
+	<Point x="1190" y="895"/>
+	<Point x="1247" y="895"/>
+	<Point x="1247" y="853"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>43.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords>
+	<Point x="336" y="629"/>
+	<Point x="560" y="629"/>
+	<Point x="560" y="1175"/>
+	<Point x="336" y="1175"/></Coords></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords>
+	<Point x="1017" y="1156"/>
+	<Point x="1358" y="1156"/>
+	<Point x="1358" y="1904"/>
+	<Point x="1017" y="1904"/></Coords></ImageRegion>
+	<TextRegion id="r7" type="caption">
+	<Coords>
+	<Point x="1233" y="1914"/>
+	<Point x="1307" y="1914"/>
+	<Point x="1307" y="1944"/>
+	<Point x="1233" y="1944"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>46 a.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r8">
+	<Coords>
+	<Point x="346" y="1864"/>
+	<Point x="655" y="1864"/>
+	<Point x="655" y="2577"/>
+	<Point x="346" y="2577"/></Coords></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords>
+	<Point x="1114" y="2191"/>
+	<Point x="1404" y="2191"/>
+	<Point x="1404" y="2790"/>
+	<Point x="1114" y="2790"/></Coords></ImageRegion>
+	<TextRegion id="r10" type="caption">
+	<Coords>
+	<Point x="519" y="2592"/>
+	<Point x="519" y="2618"/>
+	<Point x="556" y="2618"/>
+	<Point x="556" y="2592"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>47.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="caption">
+	<Coords>
+	<Point x="473" y="1194"/>
+	<Point x="523" y="1194"/>
+	<Point x="523" y="1222"/>
+	<Point x="473" y="1222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>44.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r12">
+	<Coords>
+	<Point x="1823" y="630"/>
+	<Point x="1823" y="1166"/>
+	<Point x="2046" y="1166"/>
+	<Point x="2046" y="630"/></Coords></ImageRegion>
+	<TextRegion id="r13" type="caption">
+	<Coords>
+	<Point x="1961" y="1179"/>
+	<Point x="1961" y="1210"/>
+	<Point x="2008" y="1210"/>
+	<Point x="2008" y="1179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>45.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r14">
+	<Coords>
+	<Point x="1832" y="1884"/>
+	<Point x="2091" y="1884"/>
+	<Point x="2091" y="2487"/>
+	<Point x="1832" y="2487"/></Coords></ImageRegion>
+	<TextRegion id="r15" type="caption">
+	<Coords>
+	<Point x="1955" y="2508"/>
+	<Point x="2021" y="2508"/>
+	<Point x="2021" y="2543"/>
+	<Point x="1955" y="2543"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>46 b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1839" y="2818"/>
+	<Point x="1839" y="2875"/>
+	<Point x="2117" y="2875"/>
+	<Point x="2117" y="2818"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vincent Brooks, �mp .</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="caption">
+	<Coords>
+	<Point x="1214" y="2800"/>
+	<Point x="1258" y="2800"/>
+	<Point x="1258" y="2827"/>
+	<Point x="1214" y="2827"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>48.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="380" y="2847"/>
+	<Point x="626" y="2847"/>
+	<Point x="626" y="2900"/>
+	<Point x="380" y="2900"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sowerby,del. et lith.</Unicode></TextEquiv></TextRegion></Page></PcGts>

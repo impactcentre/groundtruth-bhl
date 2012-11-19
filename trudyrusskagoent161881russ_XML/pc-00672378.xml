@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672378">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T13:53:25</Created>
+	<LastChange>2012-02-10T09:54:36</LastChange></Metadata>
+	<Page imageFilename="00672378.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="960" y="98"/>
+	<Point x="1278" y="98"/>
+	<Point x="1278" y="176"/>
+	<Point x="960" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 184 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="237" y="237"/>
+	<Point x="1982" y="237"/>
+	<Point x="1982" y="407"/>
+	<Point x="237" y="407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>derﬂügel, dem Mangel einer hintern Querlinie und den weissen,
+durchsichtigen Hinterﬂügeln leicht kenntlich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="230" y="426"/>
+	<Point x="1982" y="426"/>
+	<Point x="1982" y="1510"/>
+	<Point x="230" y="1510"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In der Grösse etwas unter Poteriella. Kopf braun mit
+röthlichem Hinterrand. Taster aufgebogen anliegend und bis
+an die kurzkegelförmige Stirn reichend, etwas stark und zusam-
+mengedrückt, mit kurzem, eiförmigem Endgliede, schwarzbraun,
+am zweiten Gliede in der Mitte und an der Wurzel des End-
+gliedes grau, bei den hellen Exemplaren am Wurzelgliede hell-
+grau. Fühler hellbraun, borstenförmig; der Schuppenbusch des
+♂ nicht stark, schwarz. Rückenschild röthlich ochergelb, bei
+der Varietät mehr oder weniger braungrau gemischt. Hinter-
+leib des ♂ bleich ochergelb, schlank mit stumpfem Analbusch,
+des ♀ zugespitzt, ohne hervorstehenden Legestachel. Beine
+weisslich, auf der Aussenseite hell ochergelb oder schiefergrau,
+die Hinterschienen am hellsten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="226" y="1535"/>
+	<Point x="1980" y="1535"/>
+	<Point x="1980" y="2796"/>
+	<Point x="226" y="2796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 4—43/4‴ lang, schmal, (beim ♀ etwas breiter),
+am Vorderrand schwach convex, röthlich ochergelb, am Vor-
+derrand gegen die Flügelspitze und schwächer am Hinterrand
+violettgrau, an der Basis am hellsten ochergelb. Bei 1/4 ist
+ein etwas schräg einwärts gelegter, grossschuppiger, daher
+wulstiger, röthlichbrauner Querstreifen, der vom Innenrand bis
+zur Subcostalader reicht und auswärts gegen einen violett-
+grauen Schatten durch die schwarzen Spitzen der Schuppen
+scharf abgegrenzt wird. Die Grundfarbe ist mehr oder weniger
+violettgrau gemischt, aber garnicht zwischen der Basis und
+dem Querstreifen; bei den Extremen (Var. b.) ist die Ver-
+dunkelung am stärksten, jedoch in der Gegend der Verästelung
+der Medianader am schwächsten. Queraderpunkt und hintere
+Querlinie fehlen ganz. Franzen etwas heller ochergelb als die
+anstossende Fläche.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="216" y="2817"/>
+	<Point x="1962" y="2817"/>
+	<Point x="1962" y="3078"/>
+	<Point x="216" y="3078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel zart, weiss, durchsichtig, am Vorderrand und
+in der Flügelspitze graubräunlich; die Hinterrandlinie von der
+Spitze aus in veränderlicher Länge braungrau, bei Var. b. am</Unicode></TextEquiv></TextRegion></Page></PcGts>

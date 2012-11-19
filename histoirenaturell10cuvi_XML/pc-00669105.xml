@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669105">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:55:30</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669105.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="115" y="282"/>
+	<Point x="1508" y="282"/>
+	<Point x="1509" y="455"/>
+	<Point x="115" y="455"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cinq lignes noires sur la moitié postérieure du
+corps.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="96" y="461"/>
+	<Point x="1510" y="457"/>
+	<Point x="1510" y="875"/>
+	<Point x="93" y="875"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une autre copie de ce dessin, faite par
+Aubriet, colore ces lignes en rouge; toutes
+les nageoires y sont rougeâtres, la caudale et
+l’anale ont un liséré bleu clair qui sur cette
+dernière s’élargit en avant.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="109" y="879"/>
+	<Point x="668" y="883"/>
+	<Point x="1072" y="879"/>
+	<Point x="1512" y="881"/>
+	<Point x="1517" y="1272"/>
+	<Point x="488" y="1275"/>
+	<Point x="471" y="1275"/>
+	<Point x="210" y="1278"/>
+	<Point x="181" y="1277"/>
+	<Point x="160" y="1298"/>
+	<Point x="106" y="1298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous soupçonnons cependant que toutes
+ces couleurs ont été représentées beaucoup
+trop vives et trop belles, et que dans leur
+état ordinaire leur teinte générale est bien
+plus brune.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="111" y="1327"/>
+	<Point x="165" y="1304"/>
+	<Point x="190" y="1285"/>
+	<Point x="1522" y="1283"/>
+	<Point x="1523" y="1434"/>
+	<Point x="111" y="1445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Pley les dit simplement gris foncé avec
+une anale bleuâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="153" y="1481"/>
+	<Point x="1526" y="1489"/>
+	<Point x="1534" y="2391"/>
+	<Point x="166" y="2402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La cavité abdominale du chirurgien est presque
+aussi haute que longue; mais elle est très-étroite.
+A l’ouverture du corps on ne voit que les replis de
+l’intestin; le foie est très-petit et situé dans la région
+supérieure du ventre; le lobe gauche est quadrilatère,
+le droit est plus petit et triangulaire; la vésicule du ﬁel
+est tout près de lui; sa forme est ovale, sa couleur est
+blanche. Le canal cholédoque reçoit plusieurs vais‐
+seaux hépato-cystiques le long du lobe droit du foie,
+puis il devient libre dans l’angle des deux lobes; il
+descend vers le pylore où il aboutit entre les appen‐
+dices cæcales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="172" y="2413"/>
+	<Point x="1526" y="2408"/>
+	<Point x="1526" y="2652"/>
+	<Point x="175" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’æsophage est assez large à son origine, il des‐
+cend à peu près jusqu’au tiers de la longueur de
+l’abdomen; ses parois sont épaisses, charnues, et</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="515" y="176"/>
+	<Point x="1111" y="176"/>
+	<Point x="1111" y="260"/>
+	<Point x="515" y="260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1362" y="162"/>
+	<Point x="1516" y="162"/>
+	<Point x="1516" y="258"/>
+	<Point x="1362" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>173</Unicode></TextEquiv></TextRegion></Page></PcGts>

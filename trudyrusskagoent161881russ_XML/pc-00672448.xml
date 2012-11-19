@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672448">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:37:21</Created>
+	<LastChange>2012-02-10T09:54:55</LastChange></Metadata>
+	<Page imageFilename="00672448.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1012" y="132"/>
+	<Point x="1324" y="132"/>
+	<Point x="1324" y="205"/>
+	<Point x="1012" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 254 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="298" y="269"/>
+	<Point x="2044" y="269"/>
+	<Point x="2044" y="441"/>
+	<Point x="298" y="441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>theilt sie sich in eine Gabel, deren oberer, kürzerer Arm in
+den Vorderrand, der untere in die Flügelspitze geht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="287" y="446"/>
+	<Point x="2046" y="446"/>
+	<Point x="2046" y="791"/>
+	<Point x="287" y="791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die zum Theil verﬂogenen Exemplare wurden in der zwei-
+ten Hälfte des December und zu Anfang Januar bei Mendez
+und Mariquita Abends bei der Lampe gefangen; ihre beste Zeit
+fällt also in den Anfang des December.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords>
+	<Point x="1001" y="1078"/>
+	<Point x="1312" y="1078"/>
+	<Point x="1312" y="1112"/>
+	<Point x="1001" y="1112"/></Coords></SeparatorRegion></Page></PcGts>

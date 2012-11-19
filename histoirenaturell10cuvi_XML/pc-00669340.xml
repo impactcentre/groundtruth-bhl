@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669340">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:24:00</Created>
+	<LastChange>2012-03-12T14:33:56</LastChange></Metadata>
+	<Page imageFilename="00669340.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="342" y="283"/>
+	<Point x="1771" y="283"/>
+	<Point x="1771" y="955"/>
+	<Point x="342" y="955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>donné par Artedi à la baudroye, de �����
+(crista), et il indique que le caractère le
+plus frappant de la physionomie du poisson
+consiste dans la crête tranchante, en triangle
+à peu près vertical, qui surmonte sa tête, et
+au sommet de laquelle s'articule une longue
+épine comprimée, arquée, pointue, repré-
+sentant une véritable corne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="399" y="987"/>
+	<Point x="1752" y="987"/>
+	<Point x="1752" y="2350"/>
+	<Point x="399" y="2350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette crête, encore plus élevée et plus saillante
+en avant que dans les coryphènes, rend le proﬁl
+de ce poisson presque vertical, c'est-à-dire que sa
+partie supérieure est plus avancée que l'inférieure,
+où est la bouche. La ligne du dos se continue avec
+le sommet de cette crête, et va se rapprochant len-
+tement de celle du ventre, qui part du dessous de
+la mâchoire inférieure: cette ligne du proﬁl est l'en-
+droit où le poisson est le plus haut; elle est six fois
+et un tiers dans la longueur totale; la hauteur au
+milieu y est à peu près sept fois: l'épaisseur n'est
+guère que du tiers de la hauteur. La tête, en y com-
+prenant la crête, a près d'un tiers de plus en hau-
+teur qu'en longueur; l'œil est très-grand, son dia-
+mètre est de plus du tiers de la longueur de la tête;
+il n'est pas placé si bas que dans les coryphènes, et
+en ne prenant la hauteur que de la verticale dans
+laquelle il est, sa place est à peu près au milieu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="415" y="2352"/>
+	<Point x="1752" y="2352"/>
+	<Point x="1752" y="2651"/>
+	<Point x="415" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La bouche n'est presque pas protractile; sa fente
+est petite et ne va pas en arrière jusque sous l'œil;
+quand elle est fermée, elle approche de la verticale.
+Les branches des intermaxillaires sont minces; le</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="517" y="185"/>
+	<Point x="517" y="257"/>
+	<Point x="344" y="257"/>
+	<Point x="344" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>408</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="1353" y="185"/>
+	<Point x="1353" y="257"/>
+	<Point x="748" y="257"/>
+	<Point x="748" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

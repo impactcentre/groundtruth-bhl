@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672436">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:05:26</Created>
+	<LastChange>2012-02-10T09:54:53</LastChange></Metadata>
+	<Page imageFilename="00672436.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="199" y="278"/>
+	<Point x="1949" y="278"/>
+	<Point x="1949" y="442"/>
+	<Point x="199" y="442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>fen nur durch etwas dunklere Schuppen gesäumt. Auf dem
+Hinterrande zieht eine Reihe schwärzlicher Punkte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="198" y="449"/>
+	<Point x="1974" y="449"/>
+	<Point x="1974" y="612"/>
+	<Point x="198" y="612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel spitz, zart, seidenartig, grauweisslich, nicht
+durchscheinend. Hinterrandlinie fein, blass bräunlich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="194" y="619"/>
+	<Point x="1976" y="619"/>
+	<Point x="1976" y="1369"/>
+	<Point x="194" y="1369"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel grau. Ast 1 der Medianader
+kommt von 2/3; 2 bald dahinter; der Rest der Medianader bil-
+det eine Gabel, deren Stiel kürzer als diese ist. Ader 5 ent-
+springt weit vom Ursprung der 6ten und geht in den Hin-
+terrand unterhalb der Flügelspitze; Ader 7 endet über dieser
+im Vorderrand; 8 und 9 sind kurz. — Hinterﬂügel dunkler
+als oben, am Vorderrand grau; die Subcostale ist in ihrer
+Hälfte in 2 Aeste getheilt, deren einer weit unter der Flü-
+gelspitze, der obere dicht über derselben endigt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="205" y="1376"/>
+	<Point x="1969" y="1376"/>
+	<Point x="1969" y="1549"/>
+	<Point x="205" y="1549"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das einzelne ♂ wurde von Baron v. Nolcken am 9 März
+bei Bogotá gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="346" y="1616"/>
+	<Point x="1817" y="1616"/>
+	<Point x="1817" y="1703"/>
+	<Point x="346" y="1703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Homoeosoma tenebricosa Tab. XII, ﬁg. 46 a. b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="198" y="1733"/>
+	<Point x="1974" y="1733"/>
+	<Point x="1974" y="2166"/>
+	<Point x="198" y="2166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Capite palpisque fuscescentibus; alis ant. angustis, fusce-
+scentibus, interrupte nigro-venosis, striga postica diluta, denti-
+culata, obsoleta, puncto venae transversae geminato punctisque
+marginalibus nigris; post. cinerascentibus, pellucidis, fusco-ve-
+nosis. ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="207" y="2178"/>
+	<Point x="1978" y="2178"/>
+	<Point x="1978" y="2926"/>
+	<Point x="207" y="2926"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eine sehr unscheinbare Art, die ihrem ganzen Aussehen
+nach gar nicht in Homoeosoma, sondern eher in Myelois bei
+Decolor passt, aber doch wegen ihrer Fühler vorläuﬁg zu den
+Homoeosomen gerechnet werden muss. Was sie vorzüglich aus-
+zeichnet, ist die dreiästige Medianader der Hinterﬂügel, die
+bei einem Exemplar wirklich so ist, wie sie sein soll, wäh-
+rend bei den 3 andern Ast 3 eine Gabel bildet, die bei 2
+Exemplaren die Länge von 1/6, bei dem dritten die von 1/3 ihres
+Stieles hat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="205" y="2937"/>
+	<Point x="1969" y="2937"/>
+	<Point x="1969" y="3103"/>
+	<Point x="205" y="3103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In der Grösse veränderlich, wie eine der kleineren Nim-
+bella. Kopf und Taster bräunlich, Fühler und Rückenschild et-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="905" y="141"/>
+	<Point x="1241" y="141"/>
+	<Point x="1241" y="221"/>
+	<Point x="905" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 242 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668115">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T15:03:43</Created>
+	<LastChange>2012-02-10T09:52:37</LastChange></Metadata>
+	<Page imageFilename="00668115.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="912" y="198"/>
+	<Point x="1351" y="198"/>
+	<Point x="1351" y="260"/>
+	<Point x="912" y="260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY CORVIDÆ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1960" y="214"/>
+	<Point x="2058" y="214"/>
+	<Point x="2058" y="267"/>
+	<Point x="1960" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>147</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="841" y="421"/>
+	<Point x="1414" y="421"/>
+	<Point x="1414" y="490"/>
+	<Point x="841" y="490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY CORVIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="323" y="745"/>
+	<Point x="322" y="598"/>
+	<Point x="2055" y="598"/>
+	<Point x="2052" y="971"/>
+	<Point x="194" y="970"/>
+	<Point x="195" y="745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HE Crows are generally characterized by their large size: in the form of
+the bill they diﬀer considerably; but it seems to be invariably hard, with
+the nostrils at the base, and usually concealed by feathers; the feet are
+always strong and scutellated, with powerful curved claws; the middle toe shorter
+than the tarsus, the outer and middle toes united at the base and often to the
+ﬁrst joint; the tail has twelve feathers.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="193" y="979"/>
+	<Point x="2055" y="979"/>
+	<Point x="2055" y="1660"/>
+	<Point x="193" y="1660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The family is represented in the British Isles by ﬁve genera:—Pyrrhocorax;
+in which the bill is slender, arched, pointed and compressed; the wings graduated,
+with the fourth primary longest: Nucifraga; in which the bill is stout, straight,
+and with swollen base; the wings graduated, but with the ﬁfth primary counting
+from the front of wing longest: Garrulus; with stout compressed bill, straight
+at the base; the crown with erectile crest; wings moderately long and rounded,
+the fourth to sixth primaries nearly of equal length: Pica; with stout compressed
+bill, straight at the base, arched towards the tip, near to which the edge of the
+upper mandible is slightly emarginate; the wings short and rounded, with the
+fourth or ﬁfth primary longest; the tail very long: Corvus; with bill nearly as
+in Pica; the wings long and graduated, with the fourth primary longest.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="188" y="1667"/>
+	<Point x="2057" y="1667"/>
+	<Point x="2057" y="2156"/>
+	<Point x="188" y="2156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Crows are cosmopolitan: according to Seebohm they “are almost omni‐
+vorous, and are found in most localities, however bare and sterile. They are birds
+of powerful, though rather heavy ﬂight, and on the ground walk with ease.
+Their notes are harsh and unmusical. They build bulky nests of sticks, moss,
+roots, etc., in the branches of trees, on cliﬀs, and in holes in tree-trunks, walls,
+and rocks. Their eggs are from four to eight in number, and vary from almost
+white to green, and in one or two instances red, in ground-colour, spotted and
+blotched with green of varying degrees of intensity.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="186" y="2162"/>
+	<Point x="2058" y="2162"/>
+	<Point x="2058" y="2597"/>
+	<Point x="186" y="2597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>As pets the Corvidœ generally are favourites, on account of their intelligence,
+the ease with which they can be tamed, their amusing tricks, their general hardiness,
+omnivorous tendencies, and lastly the marvellous mimicking powers which some of
+them possess: the chief drawbacks to keeping these birds are their natural tendency
+to mischief and pilfering when allowed comparative liberty and the labour necessary
+to keep them clean when caged: they are best kept separately in small ﬂights—
+about three feet high, two feet wide, and seven feet long.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="drop-capital">
+	<Coords>
+	<Point x="197" y="592"/>
+	<Point x="197" y="741"/>
+	<Point x="319" y="741"/>
+	<Point x="319" y="592"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion></Page></PcGts>

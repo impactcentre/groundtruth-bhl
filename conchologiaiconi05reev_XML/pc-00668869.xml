@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668869">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T21:25:10</Created>
+	<LastChange>2012-02-10T10:29:42</LastChange></Metadata>
+	<Page imageFilename="00668869.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r25" index="2"/>
+	<RegionRefIndexed regionRef="r27" index="3"/>
+	<RegionRefIndexed regionRef="r31" index="4"/>
+	<RegionRefIndexed regionRef="r35" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/>
+	<RegionRefIndexed regionRef="r13" index="11"/>
+	<RegionRefIndexed regionRef="r14" index="12"/>
+	<RegionRefIndexed regionRef="r37" index="13"/>
+	<RegionRefIndexed regionRef="r43" index="14"/>
+	<RegionRefIndexed regionRef="r46" index="15"/>
+	<RegionRefIndexed regionRef="r48" index="16"/>
+	<RegionRefIndexed regionRef="r50" index="17"/>
+	<RegionRefIndexed regionRef="r54" index="18"/>
+	<RegionRefIndexed regionRef="r20" index="19"/>
+	<RegionRefIndexed regionRef="r21" index="20"/>
+	<RegionRefIndexed regionRef="r22" index="21"/>
+	<RegionRefIndexed regionRef="r23" index="22"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="981" y="237"/>
+	<Point x="1383" y="237"/>
+	<Point x="1383" y="307"/>
+	<Point x="981" y="307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MESALIA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1098" y="338"/>
+	<Point x="1254" y="338"/>
+	<Point x="1254" y="379"/>
+	<Point x="1098" y="379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="257" y="1020"/>
+	<Point x="1149" y="1020"/>
+	<Point x="1149" y="1354"/>
+	<Point x="257" y="1354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is materially distinguished in this respect from the rest
+of the Turritellœ, excepting the little Greenland T. lactea
+of Möller, also a Mesalia; and to these may be added
+a species (M. Melanioides) from the Cumingian collection,
+in which the typical character of the genus is yet more
+strongly developed, and which Mr. Cuming had already
+put aside in his cabinet as a new form.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="529" y="1434"/>
+	<Point x="885" y="1434"/>
+	<Point x="885" y="1480"/>
+	<Point x="529" y="1480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 1. (Mus. Brit.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="263" y="1495"/>
+	<Point x="1151" y="1495"/>
+	<Point x="1151" y="1685"/>
+	<Point x="263" y="1685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MESALIA LACTEA. Mes. testâ turritâ, anfractibus tredecim,
+longitudinaliter sub-obliquè et obesè plicato-costatis,
+lineis impressis inter costas, lirâ angustâ infernè funi-
+culatis, aperturâ parvâ; opaco-albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="266" y="1687"/>
+	<Point x="1153" y="1687"/>
+	<Point x="1153" y="1924"/>
+	<Point x="266" y="1924"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MILK-WHITE MESALIA. Shell turreted, whorls
+thirteen in number, longitudinally rather obliquely
+and stoutly plicately ribbed, with impressed lines in
+the interstices, corded round the lower part with a
+narrow ridge, aperture small; opake-white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="267" y="1928"/>
+	<Point x="1120" y="1928"/>
+	<Point x="1120" y="1970"/>
+	<Point x="267" y="1970"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turritella lactea, Möller, Index Moll. Grœnlandiæ, p. 9.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="269" y="1977"/>
+	<Point x="532" y="1977"/>
+	<Point x="532" y="2015"/>
+	<Point x="269" y="2015"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Greenland.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1195" y="1287"/>
+	<Point x="2090" y="1287"/>
+	<Point x="2090" y="1952"/>
+	<Point x="1195" y="1952"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An extremely variable species in size and general aspect,
+but always distinctly characterized throughout by its one
+idea of sculpture. Each whorl is encircled by nine thread‐
+like ridges, ﬁve of which remain exposed to view; of these
+the two uppermost are more prominently developed than
+the rest and form a slight channel. The interstices are
+sculptured throughout with exceedingly ﬁne, close-set,
+sharply deﬁned striæ. In some specimens the shell is of
+a dark dirty olive colour and the ridges lighter, others are
+of a light stone colour without any distinction of tone in
+the ridges. Of the smaller varieties one is of a dark lead
+colour, another snowy white and more elongated, with the
+ridges almost obsolete; and a third equally white with the
+ridges like so many ﬁne opake threads.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1197" y="1954"/>
+	<Point x="2093" y="1954"/>
+	<Point x="2093" y="2427"/>
+	<Point x="1197" y="2427"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lamarck, when ﬁrst describing this species according to
+the present system of nomenclature, apparently from a
+worn specimen, did not recognise in it Le Mesal of Adanson
+(Voyage en Sénégal, p. 159. pl. 10. f. 7); and M. Deshayes
+was unable to identify Turritella brevialis in his edition
+of the ‘Animaux sans vertèbres’ for want of access to the
+Lamarckian collection, reserved by M. Kiener for the use
+of his ‘Iconographie des coquilles vivantes;’ in which work
+the identiﬁcation of T. brevialis with Adanson’s Mesal
+has been recently made known.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1194" y="2429"/>
+	<Point x="2098" y="2429"/>
+	<Point x="2098" y="2613"/>
+	<Point x="1194" y="2613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unacquainted with Lamarck’s T. brevialis, from his
+not referring to Adanson’s ﬁgure, M. Deshayes described
+Le Mesal anew. It is much to be regretted that the
+learned editor of the ‘Anim. sans vert.’ was not allowed</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="heading">
+	<Coords>
+	<Point x="522" y="429"/>
+	<Point x="898" y="429"/>
+	<Point x="898" y="473"/>
+	<Point x="522" y="473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Genus MESALIA, Gray.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="257" y="485"/>
+	<Point x="1157" y="485"/>
+	<Point x="1157" y="631"/>
+	<Point x="257" y="631"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Testa acuminato-turrita, basi rotundata, columellâ plano-con-
+tortâ, recedente, aperturœ margine infra columellam
+leviter sinuato et reﬂexo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="262" y="776"/>
+	<Point x="1157" y="776"/>
+	<Point x="1157" y="1017"/>
+	<Point x="262" y="1017"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The ﬂattened receding structure of the columella of the
+well-known Senegal Turritella (T. brevialis, Lamarck),
+Le Mesal of Adanson, induced Mr. Gray to found a genus
+for its reception with the name Mesalia, which it is
+desirable should be adopted.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="257" y="633"/>
+	<Point x="1160" y="633"/>
+	<Point x="1160" y="768"/>
+	<Point x="257" y="768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Shell acuminately turreted, rounded at the base, columella
+ﬂatly twisted, receding, margin of the aperture below
+the columella sinuated and reﬂected.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="272" y="2033"/>
+	<Point x="1152" y="2033"/>
+	<Point x="1152" y="2133"/>
+	<Point x="272" y="2133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Möller describes this shell as being a diaphanous white,
+but the specimens in the British Museum are rather opake.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="271" y="2330"/>
+	<Point x="1163" y="2330"/>
+	<Point x="1163" y="2634"/>
+	<Point x="271" y="2634"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MESALIA BREVIALIS. Mes. testâ subabbreviato-turritâ,
+crassâ, ponderosâ, anfractibus quindecim, rotundatis,
+supernè obscurè canaliculatis, spiraliter quinqueliratis,
+liris superioribus fortioribus, inferioribus interdum ob-
+soletis, interstitiis undique subtilissimè et creberrimè
+striatis, columellâ plano-contortâ, recedente, margine</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="1275" y="419"/>
+	<Point x="2091" y="419"/>
+	<Point x="2091" y="510"/>
+	<Point x="1275" y="510"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>subreﬂexo; albâ, vel cinereo-albâ, vel sordidè olivaceâ,
+interdum strigis fuscescentibus indistinctè pallidè tinctâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1195" y="511"/>
+	<Point x="2090" y="511"/>
+	<Point x="2090" y="932"/>
+	<Point x="1195" y="932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SHORT MESALIA. Shell somewhat abbreviately
+turreted, thick, ponderous, whorls ﬁfteen in number,
+rounded, obscurely channelled round the upper part,
+spirally ﬁve-ridged, upper ridges stronger, lower
+sometimes obsolete, interstices very ﬁnely and closely
+striated throughout, columella ﬂatly twisted, receding
+and a little reﬂected at the edge; white, or ashy-white,
+or dirty olive, sometimes faintly stained with brownish
+streaks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="1191" y="940"/>
+	<Point x="2084" y="940"/>
+	<Point x="2084" y="1034"/>
+	<Point x="1191" y="1034"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turritella brevialis, Lamarck, Anim. sans vert. (Deshayes’
+edit.) vol. ix. p. 256.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r49">
+	<Coords>
+	<Point x="468" y="1382"/>
+	<Point x="468" y="1406"/>
+	<Point x="934" y="1406"/>
+	<Point x="934" y="1382"/></Coords></SeparatorRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1077" y="2637"/>
+	<Point x="1276" y="2637"/>
+	<Point x="1276" y="2682"/>
+	<Point x="1077" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>June, 1849.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r59">
+	<Coords>
+	<Point x="1168" y="428"/>
+	<Point x="1167" y="839"/>
+	<Point x="1168" y="1126"/>
+	<Point x="1166" y="1172"/>
+	<Point x="1167" y="1549"/>
+	<Point x="1168" y="1558"/>
+	<Point x="1168" y="1586"/>
+	<Point x="1177" y="2604"/>
+	<Point x="1189" y="2604"/>
+	<Point x="1179" y="1546"/>
+	<Point x="1179" y="834"/>
+	<Point x="1181" y="428"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r47">
+	<Coords>
+	<Point x="485" y="2174"/>
+	<Point x="485" y="2186"/>
+	<Point x="927" y="2186"/>
+	<Point x="927" y="2174"/></Coords></SeparatorRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="1274" y="1036"/>
+	<Point x="1577" y="1036"/>
+	<Point x="1577" y="1085"/>
+	<Point x="1691" y="1085"/>
+	<Point x="1691" y="1181"/>
+	<Point x="1802" y="1181"/>
+	<Point x="1802" y="1219"/>
+	<Point x="1620" y="1219"/>
+	<Point x="1620" y="1268"/>
+	<Point x="1198" y="1268"/>
+	<Point x="1198" y="1227"/>
+	<Point x="1234" y="1227"/>
+	<Point x="1234" y="1181"/>
+	<Point x="1273" y="1181"/>
+	<Point x="1273" y="1085"/>
+	<Point x="1274" y="1085"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Mesal, Adanson.
+Turritella Mesal, Deshayes.
+Mesalia sulcata, Gray.
+Eadem var. Turritella varia, Kiener.
+Hab. West Coast of Africa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords>
+	<Point x="340" y="2224"/>
+	<Point x="1089" y="2224"/>
+	<Point x="1089" y="2265"/>
+	<Point x="1036" y="2265"/>
+	<Point x="1036" y="2321"/>
+	<Point x="388" y="2321"/>
+	<Point x="388" y="2271"/>
+	<Point x="340" y="2271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 2. (Fig. 2 a, b, Mus. Hanley; and Pl. V.
+Fig. 16 a, b, of Turritella, Mus. Cuming.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

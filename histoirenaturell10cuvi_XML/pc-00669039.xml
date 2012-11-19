@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669039">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:17:15</Created>
+	<LastChange>2012-02-09T16:27:29</LastChange></Metadata>
+	<Page imageFilename="00669039.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r25" index="1"/>
+	<RegionRefIndexed regionRef="r19" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="117" y="266"/>
+	<Point x="1479" y="266"/>
+	<Point x="1479" y="2229"/>
+	<Point x="117" y="2229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>longueur totale; les autres sont extrêmement courts.
+La dorsale commence un peu avant le milieu de la
+ligne du dos; elle n’est précédée d’aucunes épines
+libres; ses rayons sont en tout au nombre de quarante-
+quatre ou quarante-cinq; les quatre premiers épineux,
+mais faibles; le premier est très-court, ensuite ils
+croissent jusqu’au quatrième, qui est le plus élevé,
+sans avoir plus du cinquième de la hauteur du
+corps; ils diminuent ensuite jusqu’au treizième ou
+quatorzième, après lequel tous les autres sont à peu
+près égaux et fort courts. L’anale commence tout
+près des ventrales, dont elle n’est séparée que par
+l’anus. Elle a trente et un rayons, tous très-courts,
+très-comprimés, et dont les branches s’épanouissent
+en autant de petits éventails aussi larges que longs
+et presque entièrement enveloppés dans la conti‐
+nuation de la peau du ventre, en sorte qu’ils repré‐
+sentent des festons frangés plutôt qu’une nageoire.
+La caudale est fourchue et tient ses deux lobes très-
+écartés; chacun d’eux a en longueur le tiers du reste
+du corps, et l’écartement de leurs pointes est d’un
+quart supérieur à leur longueur. Il y a comme a
+l’ordinaire dix-sept rayons entiers, mais ceux de
+la base sont considérables; le dernier fait les deux
+tiers du premier rayon entier, les autres vont en
+diminuant.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="520" y="190"/>
+	<Point x="1008" y="190"/>
+	<Point x="1008" y="252"/>
+	<Point x="520" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. MÉNÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1467" y="175"/>
+	<Point x="1467" y="252"/>
+	<Point x="1341" y="252"/>
+	<Point x="1341" y="175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>107</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="110" y="2323"/>
+	<Point x="1472" y="2323"/>
+	<Point x="1472" y="2636"/>
+	<Point x="110" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout le corps de ce poisson est couvert d’une
+peau lisse et satinée, où l’æil aperçoit des points
+épars, mais qui ne font point d’impression sur le
+tact. La ligne latérale règne le long du cinquième</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="237" y="2237"/>
+	<Point x="1336" y="2237"/>
+	<Point x="1336" y="2318"/>
+	<Point x="237" y="2318"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 7; D. 4/40 ou 41; A. 31; C. 17; P. 16; V. 1/5.</Unicode></TextEquiv></TextRegion></Page></PcGts>

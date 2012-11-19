@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669291">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:48:07</Created>
+	<LastChange>2012-03-12T14:33:54</LastChange></Metadata>
+	<Page imageFilename="00669291.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="137" y="262"/>
+	<Point x="1484" y="262"/>
+	<Point x="1485" y="559"/>
+	<Point x="846" y="570"/>
+	<Point x="575" y="572"/>
+	<Point x="139" y="570"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a des parois très-minces, un diamètre peu considé‐
+rable, de deux à trois lignes au plus. La veloutée est
+très-ﬁne et n’oﬀre que quelques plis formant de
+nombreux hexagones irréguliers.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="144" y="578"/>
+	<Point x="581" y="577"/>
+	<Point x="1493" y="568"/>
+	<Point x="1490" y="1983"/>
+	<Point x="140" y="1989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le foie a une consistance assez ferme, réuni en
+une seule masse, dont la face supérieure est creusée
+d’une gouttière ou canal, dans lequel se loge l’œso‐
+phage. Le côté inférieur de ce viscère est également
+creusé d’une rainure, dans laquelle est reçu la ca‐
+rène formée par les longs osselets du bassin qui sup‐
+portent le foie. L’épaisseur ne fait guère que le quart
+de la longueur du lobule gauche de l’organe; le
+droit est moins long, et c’est entre eux deux, qu’on
+ne peut pas appeler proprement des lobes, que
+s’avance la crosse du duodénum, libre de ses ap‐
+pendices cœcales. La vésicule du ﬁel est ovale, ob-
+longue, très-grande, accolée le long du côté droit
+de l’œsophage. Elle reçoit la bile par un canal cys-
+tique, placé dans la gouttière supérieure du foie, et
+dans lequel aboutissent de chaque côté de nombreux
+canaux hépato-cystiques. Il se continue en un long
+canal cholédoque qui se perd entre les appendices
+cœcales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="143" y="1995"/>
+	<Point x="1484" y="1989"/>
+	<Point x="1485" y="2135"/>
+	<Point x="1172" y="2143"/>
+	<Point x="1131" y="2143"/>
+	<Point x="1107" y="2145"/>
+	<Point x="142" y="2141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La rate est petite, ovoïde, cachée entre l’intestin
+et l’estomac derrière la branche pylorique.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="146" y="2152"/>
+	<Point x="769" y="2150"/>
+	<Point x="975" y="2149"/>
+	<Point x="1319" y="2145"/>
+	<Point x="1485" y="2142"/>
+	<Point x="1488" y="2598"/>
+	<Point x="146" y="2601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il n’y a aucune vessie aérienne. L’individu que
+nous avons disséqué était une femelle, dont les ovaires
+étaient presque vides. Ce sont deux très-longs sacs
+d’environ un pied huit pouces, commençant à huit
+pouces en arrière du diaphragme, et réunis en un
+seul et large oviducte, mais très-court, ayant son</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="504" y="165"/>
+	<Point x="1059" y="165"/>
+	<Point x="1059" y="245"/>
+	<Point x="504" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. GYMNÉTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1333" y="148"/>
+	<Point x="1479" y="148"/>
+	<Point x="1479" y="247"/>
+	<Point x="1333" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>359</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672533">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:53:16</Created>
+	<LastChange>2012-02-10T09:55:07</LastChange></Metadata>
+	<Page imageFilename="00672533.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="805" y="135"/>
+	<Point x="1110" y="135"/>
+	<Point x="1110" y="212"/>
+	<Point x="805" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 337 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="71" y="278"/>
+	<Point x="1826" y="278"/>
+	<Point x="1826" y="2030"/>
+	<Point x="71" y="2030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de nombreux sangliers, des lièvres (Lepus Lehmanni Sev.),
+des chevreuils (C. Pygargus), et, accidentellement le plus noble
+animal de ces parages le Maral (Cervus-Maral). Dans les
+sables habitent d'innombrables troupeaux de gazelles (Gaz.
+subgutturosa); et le curieux petit rougeur Meriones opimus, qui
+egaie de sa voix sifﬂante la monotonie et le silence de ce dé-
+sert. Les terriers de ces petits animaux sont en si grand
+nombre qu'ils minent les sables par endroits et rendent sou-
+vent la marche fort pénible. Nous aurions certainement ren-
+contré plus à l'Ouest des Koulanes (chevaux sauvages); mais
+notre but étant, de chasser les Lépidoptères, nous ne nous y
+appliquâmes pas. Cependant je crois nécéssaire de nom-
+mer, pour mémoire seulement, certains oiseaux, poissons, et
+réptiles caractéristiques de ces parages. Parmi les oiseaux je
+citerai: les faisans (Ph. mongolicus), les ptérocles (Pt. are-
+narius), les oies et les canards innombrables, les grues (cine-
+rea et leucogeranus), les saxicola nombreuses, les outardes
+(Otis tarda et Macqueenii), les grebes, bécassines, courlis,
+oedicnèmes etc., les haliaetus (albicilla et Macei), les aigles,
+Pandion, Bubo turkomanus, les milans, Strigiceps, Circus, Tin-
+nunculus etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="71" y="2037"/>
+	<Point x="1823" y="2037"/>
+	<Point x="1823" y="2298"/>
+	<Point x="71" y="2298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Ili et ses afﬂuents ne nourrissent que peu d'espèces de
+poissons; mais elles sont très caractéristiques: Perca Schrenkii,
+Diptychus Dybowskii, Diplophysa labiata, Schizothorax sp. etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="71" y="2308"/>
+	<Point x="1821" y="2308"/>
+	<Point x="1821" y="2723"/>
+	<Point x="71" y="2723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parmi les reptiles et les batraciens je citerai: Tropido-
+notus hydrus, Elaphis Dione, Taphrometopon lineolatum, Vi-
+pera berus, Phrynocephalus caudivolvulus, Phrynocephalus He-
+lioscopus, Eremias velox, Scapteira grammica, Agama sangui-
+nolenta, Bufo viridis, Rana temporaria? etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="74" y="2735"/>
+	<Point x="1819" y="2735"/>
+	<Point x="1819" y="3078"/>
+	<Point x="74" y="3078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On comprendra aisément, qu'ayant à observer, outre les
+Lépidoptères, tous les vertebrés je n'ai guère eu le loisir de
+m'occuper des autres ordres d'insectes. Je pris mes premiers
+Lépidoptères au feu même de notre camp, les premiers jours</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="520" y="3082"/>
+	<Point x="520" y="3142"/>
+	<Point x="219" y="3142"/>
+	<Point x="219" y="3082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="1653" y="3082"/>
+	<Point x="1653" y="3142"/>
+	<Point x="1570" y="3142"/>
+	<Point x="1570" y="3082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>22</Unicode></TextEquiv></TextRegion></Page></PcGts>

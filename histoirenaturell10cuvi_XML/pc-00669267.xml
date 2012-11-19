@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669267">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T16:45:18</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669267.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="111" y="275"/>
+	<Point x="1470" y="275"/>
+	<Point x="1468" y="790"/>
+	<Point x="561" y="790"/>
+	<Point x="551" y="805"/>
+	<Point x="111" y="804"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dans laquelle les apophyses montantes des inter-
+maxillaires rentrent lorsque la bouche se retire. Le
+bord de la mâchoire supérieure, formé par l’inter-
+maxillaire, qui est mince, a un sillon sur sa lon‐
+gueur. Le maxillaire est très-large et de forme ovale.
+Toute la surface est creusée de pores et de sillons
+diversement disposés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="119" y="809"/>
+	<Point x="557" y="808"/>
+	<Point x="563" y="798"/>
+	<Point x="1476" y="798"/>
+	<Point x="1479" y="2616"/>
+	<Point x="118" y="2616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chaque branche de la mâchoire inférieure est
+un triangle presque aussi haut que long, dont le
+bord inférieur est tranchant, et dont la face exté‐
+rieure a une arête longitudinale obtuse, et des pores
+et des sillons en divers sens. Ces deux triangles
+s’unissent par leur angle antérieur en se courbant
+un peu pour se réunir à la symphyse. Il y a à chaque
+mâchoire six ou huit petites dents coniques sur une
+rangée transversale: les supérieures, sous la voûte
+parabolique des intermaxillaires; celles d’en bas, sur
+le bout symphysé de la mâchoire inférieure. A l’extré‐
+mité antérieure du vomer il y en a trois ou quatre
+semblables sur une rangée longitudinale; derrière
+celles des mâchoires est le voile membraneux presque
+général dans ces poissons. Les palatins n’ont qu’une
+légère âpreté et sur un petit espace. La langue est
+ovale, obtuse, mince, très-libre, un peu concave
+à sa surface, à bords mous, et n’a qu’une très-légère
+âpreté vers les bords latéraux. L’œil est à peu près
+au milieu de la longueur de la tête, quand la
+bouche est contractée, mais au-dessus du milieu de
+la hauteur et près de l’angle supérieur du rhombe
+de la tête. Son diamètre est du tiers de la longueur
+de la tête, et du quart quand le museau s’alonge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="425" y="168"/>
+	<Point x="1075" y="168"/>
+	<Point x="1075" y="248"/>
+	<Point x="425" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1312" y="168"/>
+	<Point x="1462" y="168"/>
+	<Point x="1462" y="246"/>
+	<Point x="1312" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>335</Unicode></TextEquiv></TextRegion></Page></PcGts>

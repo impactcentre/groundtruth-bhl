@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671066">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:39:13</Created>
+	<LastChange>2012-03-12T14:34:02</LastChange></Metadata>
+	<Page imageFilename="00671066.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="916" y="986"/>
+	<Point x="1666" y="986"/>
+	<Point x="1666" y="1088"/>
+	<Point x="914" y="1095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I. Spezieller Teil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="230" y="1154"/>
+	<Point x="2345" y="1154"/>
+	<Point x="2345" y="1273"/>
+	<Point x="230" y="1273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Am Körper von Eosentomon lassen sich die drei großen Regionen deutlich unterscheiden,
+welche am Aufbau eines jeden Insektes beteiligt sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="233" y="1279"/>
+	<Point x="2349" y="1279"/>
+	<Point x="2349" y="1707"/>
+	<Point x="997" y="1707"/>
+	<Point x="985" y="1709"/>
+	<Point x="972" y="1707"/>
+	<Point x="233" y="1707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oral beginnt der Körper mit dem Kopfe, welcher, entstanden durch die Verschweißung zahl-
+reicher, bei Eosentomon im einzelnen nicht mehr vollständig nachweisbarer Metamere, auf seiner
+Ventralseite die Mundteile trägt. Nicht völlig in der Bildung der eigentlichen Kopfkapsel aufgegangen
+sind die beiden Maxillarsegmente. Das hintere derselben, das Labiale, aus diesem Grunde aber als
+nicht zum Kopf gehörig zu betrachten und unter dem Namen Microthorax (Snodgrass, Name
+von Verhoeff), Collum (Berlese) oder Cervicum (Crampton) als besondere Region
+aufzufassen erscheint unzweckmäßig.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="233" y="1711"/>
+	<Point x="2335" y="1711"/>
+	<Point x="2335" y="2073"/>
+	<Point x="233" y="2073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An den Kopf schließt sich, infolge der Auflockerung der Maxillarsegmente nur undeutlich von
+ihm abgesetzt, der Brustabschnitt oder Thorax an. Er besteht aus drei, einander in weitgehendem
+Maße homodynamen Segmenten, welche untereinander keine Verwachsungen aufweisen. Sie zeigen
+am deutlichsten die Zusammensetzung aus verschiedenen Skleriten und dürften somit noch am
+reinsten den ursprünglichen Aufbau der Segmente repräsentieren. Ihre Anhänge sind die drei Paare
+von Schreitbeinen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="230" y="2084"/>
+	<Point x="2337" y="2084"/>
+	<Point x="2337" y="2394"/>
+	<Point x="230" y="2394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Jede Extremität setzt sich zusammen aus einem Grundabschnitt, dem Basipodit (Börner)
+und einem Endabschnitt dem Telopodit (Verhoeff). Während ersterer nur aus zwei Kom-
+ponenten, einer Subcoxa und einer Coxa besteht, beteiligen sich am Telopodit fünf verschiedene
+Stücke (Trochanter, Femur, Tibia, Tarsus und Prätarsus), welche gelegentlich wieder sekundär ge-
+gliedert sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="235" y="2398"/>
+	<Point x="2332" y="2398"/>
+	<Point x="2332" y="2824"/>
+	<Point x="477" y="2825"/>
+	<Point x="465" y="2828"/>
+	<Point x="456" y="2827"/>
+	<Point x="452" y="2825"/>
+	<Point x="236" y="2825"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deutlich von ihm getrennt, folgt dem letzten Thoracalsegmente der Hinterleib oder Abdomen.
+An seiner Zusammensetzung sind beim geschlechtsreifen Tiere zwölf Segmente beteiligt, welche sich
+auf drei Hauptgruppen verteilen. Die erste derselben, von drei Segmenten gebildet, zeichnet sich
+durch das Vorhandensein von zweigliedrigen Beinstummeln aus; die nächste umfaßt fünf einfacher
+gebaute Ringe ohne Anhänge. Eine besondere Stellung nehmen schließlich die letzten vier Segmente
+ein, da drei derselben im Laufe der postembryonalen Entwicklung durch orale Abschnürung vor dem
+Endstück gebildet werden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="232" y="2830"/>
+	<Point x="2328" y="2830"/>
+	<Point x="2328" y="2954"/>
+	<Point x="1758" y="2954"/>
+	<Point x="1745" y="2956"/>
+	<Point x="1730" y="2954"/>
+	<Point x="1631" y="2954"/>
+	<Point x="1620" y="2956"/>
+	<Point x="1609" y="2954"/>
+	<Point x="232" y="2954"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Was den Bauplan der Segmente anbelangt, möchte ich nur wenige Worte vorausschicken, und
+verweise im übrigen auf den allgemeinen Teil welcher diese Frage eingehender zu behandeln hat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="224" y="2958"/>
+	<Point x="2326" y="2958"/>
+	<Point x="2326" y="3144"/>
+	<Point x="224" y="3144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ein jedes normale Körpersegment der Proturen läßt eine Reihe von verschiedenen Chitin-
+platten (Skleriten) erkennen, welche sich auf sechs Gruppen verteilen. Die Dorsalseite wird von der
+unpaaren Rückenschuppe (Tergum), die Ventralseite von der Bauchschuppe (Sternum) eingenommen.</Unicode></TextEquiv></TextRegion></Page></PcGts>

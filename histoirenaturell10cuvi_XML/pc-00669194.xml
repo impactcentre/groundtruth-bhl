@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669194">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:36:16</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669194.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="314" y="182"/>
+	<Point x="455" y="182"/>
+	<Point x="455" y="264"/>
+	<Point x="314" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>262</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="748" y="198"/>
+	<Point x="1289" y="198"/>
+	<Point x="1289" y="267"/>
+	<Point x="748" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="360" y="289"/>
+	<Point x="1733" y="289"/>
+	<Point x="1733" y="2639"/>
+	<Point x="360" y="2639"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>longueur de son ovale, mesuré depuis le bout du
+museau jusqu’à l’origine de la queue, comprend deux
+fois sa hauteur aux pectorales, et en allant jusqu’au
+bord de la caudale on la trouve deux fois et deux
+tiers; mais la longueur totale s’augmente des cornes
+en ﬁlets qui terminent les angles de la nageoire,
+et qui sont elles-mêmes comprises deux fois et demie
+dans la hauteur, laquelle fait quatre fois l’épaisseur
+du corps. Le proﬁl descend obliquement et à peu près
+en ligne droite de la nuque à la bouche, et cette
+distance ne mesure pas tout-à-fait le quart de la lon‐
+gueur du corps. De son tiers supérieur naît cette
+grosse proéminence conique et obtuse et si carac‐
+téristique : elle se dirige horizontalement, a une
+base large, légèrement convexe, s’arrondit et se
+rétrécit en avant, et se termine par une pointe mousse,
+qui répond à peu près sur le bout du museau dans
+l'individu où nous l'observons la plus longue; mais
+sa longueur varie, ainsi que nous l’exposerons plus
+loin. L’œil est de chaque côté derrière sa base, et les
+oriﬁces de la narine en avant du bord de l’œil, au
+commencement de l’espèce de sinus qui résulte de
+sa saillie. Un sillon part de l’angle antérieur de l’orbite
+au-dessous de ces oriﬁces, et descend obliquement sur
+le côté du museau, où il se perd bientôt. Le diamètre
+de l’œil n’est pas tout-à-fait du sixième de la lon‐
+gueur du proﬁl; au bout de ce museau oblique est la
+bouche presque horizontale, très-peu fendue, car la
+longueur de sa fente, mesurée sur le côté, n’excède pas
+le diamètre de l’œil; elle n’est presque point suscep‐
+tible de protractilité, et elle a chaque mâchoire garnie</Unicode></TextEquiv></TextRegion></Page></PcGts>

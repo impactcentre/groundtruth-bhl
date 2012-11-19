@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667858">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:06:51</Created>
+	<LastChange>2012-02-10T09:52:15</LastChange></Metadata>
+	<Page imageFilename="00667858.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="307" y="296"/>
+	<Point x="360" y="296"/>
+	<Point x="360" y="328"/>
+	<Point x="307" y="328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="975" y="288"/>
+	<Point x="1481" y="288"/>
+	<Point x="1481" y="332"/>
+	<Point x="975" y="332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY MUSCICAPIDÆ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="302" y="407"/>
+	<Point x="2152" y="407"/>
+	<Point x="2152" y="712"/>
+	<Point x="302" y="712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>boiled egg, hemp-seed, bread-crumbs, carrots, potatoes, and ants’ eggs; they drink
+a great deal, but seldom wash, and I have more than once seen a Waxwing delib‐
+erately eat its own fæces, though it was abundantly supplied with many varieties
+of food; none of these birds ever became tame with me, and I shall certainly
+never buy any of them again.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="299" y="718"/>
+	<Point x="2151" y="718"/>
+	<Point x="2151" y="1020"/>
+	<Point x="299" y="1020"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seebohm gives them much the same character:—“They were most voracious
+eaters, and the cage required cleaning several times a day. They were very active
+and restless, and even when perched at rest seemed to be continually moving their
+heads. If alarmed they would stretch out their necks to almost double the usual
+length.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="299" y="1030"/>
+	<Point x="2152" y="1030"/>
+	<Point x="2152" y="1525"/>
+	<Point x="299" y="1525"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On the other hand Swaysland (Cassell’s Cage-birds, p. 340) says:—“It is
+easily tamed, and in the aviary is docile and quiet. It should be fed upon German
+paste, sponge-cake, a little hard-boiled egg, Juniper berries, soaked grocers’ currants,
+or any other soft-skinned fruit.” I think it quite likely that, associated with birds
+of its own size in an aviary, the Waxwing would become far more easily reconciled
+to captivity, would eat less, bathe more frequently, and keep in better health, than
+in a cage: moreover, I should certainly not recommend either raw meat or
+grocers’ currants to be given to it as articles of food.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="889" y="2008"/>
+	<Point x="1544" y="2008"/>
+	<Point x="1544" y="2059"/>
+	<Point x="889" y="2059"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY MUSCICAPIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="421" y="2161"/>
+	<Point x="2149" y="2162"/>
+	<Point x="2149" y="2526"/>
+	<Point x="1434" y="2529"/>
+	<Point x="1117" y="2529"/>
+	<Point x="1061" y="2527"/>
+	<Point x="1052" y="2528"/>
+	<Point x="300" y="2527"/>
+	<Point x="302" y="2526"/>
+	<Point x="302" y="2349"/>
+	<Point x="369" y="2348"/>
+	<Point x="421" y="2349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HIS large family of birds was not even regarded by Seebohm as a distinct
+Subfamily, but was included by him in the Turdinœ; yet it forms a very
+characteristic group: the bills of Flycatchers are somewhat ﬂattened and
+broad at the base, compressed and somewhat curved towards the point; the rictal
+bristles which, in insectivorous birds serve to prevent the escape of winged insects
+from the base of the bill, are very strongly developed, and numerous in this family.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="301" y="2535"/>
+	<Point x="2151" y="2535"/>
+	<Point x="2151" y="2779"/>
+	<Point x="301" y="2779"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Flycatchers, as their name indicates, are rapid ﬂyers, and consequently
+have long pointed wings; their eyes also are large and full; they perch mostly
+on trees, very rarely descending to the earth; their feet, as might be anticipated,
+are small, the middle toe being considerably longer than the lateral ones.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="303" y="2157"/>
+	<Point x="418" y="2157"/>
+	<Point x="418" y="2292"/>
+	<Point x="303" y="2292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="1114" y="1768"/>
+	<Point x="1319" y="1768"/>
+	<Point x="1319" y="1785"/>
+	<Point x="1114" y="1785"/></Coords></SeparatorRegion></Page></PcGts>

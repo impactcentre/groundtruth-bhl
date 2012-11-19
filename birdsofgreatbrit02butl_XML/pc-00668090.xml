@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668090">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:31:03</Created>
+	<LastChange>2012-02-10T09:52:36</LastChange></Metadata>
+	<Page imageFilename="00668090.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r12" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r14" index="6"/>
+	<RegionRefIndexed regionRef="r5" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="181" y="236"/>
+	<Point x="273" y="236"/>
+	<Point x="273" y="295"/>
+	<Point x="181" y="295"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>134</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="856" y="233"/>
+	<Point x="1352" y="233"/>
+	<Point x="1352" y="288"/>
+	<Point x="856" y="288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SNOW-BUNTING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="160" y="351"/>
+	<Point x="2044" y="351"/>
+	<Point x="2044" y="786"/>
+	<Point x="160" y="786"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>in its gait and manner of looking up, with the neck stretched out, reminded me
+of the actions of a quail. In the aviary of Mr. J. H. Gurney, this bird assumed
+its full summer plumage in the following spring, and thrived so well in its new
+abode, that over-feeding was probably the cause of its death in May, 1856, when
+for the second time, it had acquired the black head and plumage of the breeding
+season, and was certainly a perfect lump of fat when skinned for the purpose of
+preservation.” (Birds of Norfolk, Vol. I, p. 181).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="160" y="794"/>
+	<Point x="2053" y="794"/>
+	<Point x="2053" y="1042"/>
+	<Point x="160" y="1042"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The food of this species consists largely of insects in the summer and seeds
+in the winter; but in conﬁnement it should be treated like the other Buntings.
+It is undoubtedly the most desirable of all the British Buntings for the aviculturist,
+and should certainly be freely imported as a cage-bird.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="161" y="2448"/>
+	<Point x="2025" y="2448"/>
+	<Point x="2025" y="2630"/>
+	<Point x="161" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>To Great Britain the Snow-Bunting is chieﬂy a winter visitor, generally
+reaching the eastern coast of England in October, though rarely in September, and
+commencing its return migration from March to April. Although rare in England</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="176" y="2644"/>
+	<Point x="2017" y="2644"/>
+	<Point x="2017" y="2723"/>
+	<Point x="176" y="2723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* For this bird the genus Plectrophanes, having been instituted for the Lapland Bunting, has been aban‐
+doned.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="168" y="1452"/>
+	<Point x="794" y="1452"/>
+	<Point x="794" y="1520"/>
+	<Point x="168" y="1520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1366" y="1450"/>
+	<Point x="2026" y="1450"/>
+	<Point x="2026" y="1525"/>
+	<Point x="1366" y="1525"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—EMBERIZINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="750" y="1697"/>
+	<Point x="1441" y="1697"/>
+	<Point x="1441" y="1779"/>
+	<Point x="750" y="1779"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SNOW-BUNTING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="775" y="1859"/>
+	<Point x="1427" y="1859"/>
+	<Point x="1427" y="1926"/>
+	<Point x="775" y="1926"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Plectrophenax nivalis, LINN.*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="drop-capital">
+	<Coords>
+	<Point x="177" y="2017"/>
+	<Point x="291" y="2017"/>
+	<Point x="291" y="2151"/>
+	<Point x="177" y="2151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="311" y="2193"/>
+	<Point x="312" y="2004"/>
+	<Point x="2032" y="2004"/>
+	<Point x="2032" y="2443"/>
+	<Point x="165" y="2443"/>
+	<Point x="165" y="2192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIRCUMPOLAR species, breeding chieﬂy in the Arctic regions beyond the
+limit of forest growth; or at high elevations further south, excepting in
+the Faroe Islands and Shetlands where it places its nest little above the
+sea-level. In winter it migrates southwards to Central Europe, South Russia,
+Turkestan, North China, Japan, and north America as far south as Georgia. It
+has been known to visit the Azores, Morocco, Malta; and is a rare, but regular,
+winter visitor to Italy.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="988" y="1241"/>
+	<Point x="1202" y="1241"/>
+	<Point x="1202" y="1256"/>
+	<Point x="988" y="1256"/></Coords></SeparatorRegion></Page></PcGts>

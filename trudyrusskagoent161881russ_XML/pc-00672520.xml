@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672520">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:50:37</Created>
+	<LastChange>2012-02-10T09:55:05</LastChange></Metadata>
+	<Page imageFilename="00672520.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="196" y="235"/>
+	<Point x="1962" y="235"/>
+	<Point x="1962" y="664"/>
+	<Point x="196" y="664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>neigt, diese Art als P. Hopfgarteni Tourn. aufzufassen, je-
+doch der nur an der Unterseite an der Spitze roth gefärbte
+Rüssel, das dreieckige gefurchte Schildchen und die Zwi-
+schenräume très convexes bei diesem lassen auf eine andre Art
+schliessen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="194" y="680"/>
+	<Point x="1964" y="680"/>
+	<Point x="1964" y="1760"/>
+	<Point x="194" y="1760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Schnurglied 2 das längste, 1 dicker und länger als 3,
+dieses von den übrigen gleichlangen, etwas länger als breiten
+kaum verschieden. Thorax so lang als breit mit bis vor die
+Mitte geraden parallelen Seiten, dann seitlich tief eingeschnürt,
+halsförmig. Hinterrand jederseits leicht gebuchtet, Hinterecken
+rechtwinklig. Schildchen sehr schmal, kurz linienförmig. Decken
+3 mal so lang als an der Schulter breit, diese gerundet, das
+Halsschild nur wenig überragend, Seiten kaum gerundet, hin-
+ten spitz verengt, Streifen ziemlich tief, Zwischenräume kaum
+gewölbt. Hinterschenkel die Körperspitze erreichend, Tarsen-
+glied 1 doppelt so lang als an der Spitze breit, 2 kürzer,
+3 nur wenig breiter, 2 lappig, Klauenglied an Länge gleich
+1 + 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="203" y="1764"/>
+	<Point x="1966" y="1764"/>
+	<Point x="1966" y="2523"/>
+	<Point x="203" y="2523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bei reinen Stücken ist der Thorax in der Mitte etwas
+dunkler beschuppt (bei abgeriebenen glänzend und ziemlich
+grob punktirt), ebenso zwei Nebelﬂecke auf jeder Decke an
+der Basis und vor der Spitze und ein gemeinschaftlicher auf
+dem Rücken. Dunkle Stücke haben die Spitzenhälfte des Rüs-
+sels bis auf die dunkle Spitze und die Schienen, helle Stücke
+noch die Geissel, den vorderen Seitenrand des Thorax, den
+Rüssel bis nahe zur Basis, die Wurzelhälfte der Schenkel und
+die ersten Tarsenglieder roth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="323" y="2526"/>
+	<Point x="1491" y="2526"/>
+	<Point x="1491" y="2607"/>
+	<Point x="323" y="2607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Geschlechtsunterschiede wie bei Robustus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="207" y="2616"/>
+	<Point x="1969" y="2616"/>
+	<Point x="1969" y="2787"/>
+	<Point x="207" y="2787"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von den Herren Akinin und Kapitain Balasoglo bei Oren-
+burg gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="208" y="2871"/>
+	<Point x="1971" y="2871"/>
+	<Point x="1971" y="3042"/>
+	<Point x="208" y="3042"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tychius convolvuli n. sp. Oblongo-ovatus, convexus,
+piceus, squamis depressis lacteis imbricato-tectus, setosus; an-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="905" y="103"/>
+	<Point x="1251" y="103"/>
+	<Point x="1251" y="178"/>
+	<Point x="905" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 324 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

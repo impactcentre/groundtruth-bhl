@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669201">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:06:57</Created>
+	<LastChange>2012-03-12T14:33:49</LastChange></Metadata>
+	<Page imageFilename="00669201.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="154" y="303"/>
+	<Point x="1520" y="303"/>
+	<Point x="1520" y="2651"/>
+	<Point x="154" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>jusque vers le fond de l’abdomen en se ﬂéchissant
+vers le bas. Il remonte ensuite vers le diaphragme
+en faisant un arc plus fermé, de sorte que le pylore
+est placé vers la région antérieure, mais inférieure, de
+l’abdomen. A cet endroit on voit les parois stomacales
+s’épaissir beaucoup et la couche musculaire devenir
+très-manifeste. Le pylore est entouré de huit appen‑
+dices cœcales, longues, et toutes dirigées vers le haut
+de l’abdomen. Le duodénum se contourne immédiate‑
+ment après son origine, et forme une première grande
+anse, qui passe sous l’œsophage et à sa droite, le
+longe, le dépasse même dans le fond de l’abdomen,
+et qui revient en formant une nouvelle anse jusque
+dans la courbe de la seconde branche pylorique.
+L’intestin se replie alors en suivant l’estomac, et fait
+deux plis dans des circonvolutions concentriques;
+arrivé au centre de l’espace de ce cercle spiral, formé
+par cet enroulement du canal, il se plie alors brus‑
+quement, et revient, en traçant une spirale en sens
+inverse de la première, sort de l’arc de l’estomac,
+revient dans le fond de l’abdomen, passe à droite de
+la première anse du duodénum, et l’enveloppe en
+montant d’abord le long de l’œsophage, se glissant
+sous le foie et revenant le long des parois inférieures
+de l’abdomen, atteindre de nouveau le fond de cette
+cavité. L’intestin remonte alors par le milieu de la
+hauteur du ventre dans l’hypocondre gauche; quand
+il a atteint la branche pylorique de l’estomac, il se
+plie et s’inﬂéchit brusquement pour redescendre le
+long du pli précédent vers le fond de l’abdomen; il
+remonte de nouveau au-dessus de l’anse externe, et,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="562" y="219"/>
+	<Point x="1044" y="219"/>
+	<Point x="1044" y="293"/>
+	<Point x="562" y="293"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. NASONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1345" y="193"/>
+	<Point x="1495" y="193"/>
+	<Point x="1495" y="291"/>
+	<Point x="1345" y="291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>269</Unicode></TextEquiv></TextRegion></Page></PcGts>

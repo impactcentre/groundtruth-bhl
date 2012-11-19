@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669082">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:22:48</Created>
+	<LastChange>2012-02-09T16:27:32</LastChange></Metadata>
+	<Page imageFilename="00669082.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r22" index="1"/>
+	<RegionRefIndexed regionRef="r28" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r30" index="8"/>
+	<RegionRefIndexed regionRef="r36" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="322" y="305"/>
+	<Point x="1736" y="305"/>
+	<Point x="1736" y="484"/>
+	<Point x="322" y="484"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>canthes de Bloch et aux centrogastres de Hout-
+tuyn.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="324" y="758"/>
+	<Point x="1740" y="758"/>
+	<Point x="1741" y="1078"/>
+	<Point x="1219" y="1076"/>
+	<Point x="1217" y="1107"/>
+	<Point x="1171" y="1107"/>
+	<Point x="1150" y="1096"/>
+	<Point x="633" y="1096"/>
+	<Point x="628" y="1110"/>
+	<Point x="324" y="1110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ne le connaissons que par une ﬁgure
+de M. de Mertens; il se rapproche beaucoup
+de ce cordonnier pour les formes, et surtout
+pour la petitesse de la tête;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="389" y="1116"/>
+	<Point x="1226" y="1114"/>
+	<Point x="1230" y="1092"/>
+	<Point x="1673" y="1092"/>
+	<Point x="1672" y="1197"/>
+	<Point x="389" y="1197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>il a en outre deux épines de plus à la dorsale:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="850" y="1206"/>
+	<Point x="1292" y="1206"/>
+	<Point x="1292" y="1272"/>
+	<Point x="850" y="1272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 15/10; A. 7/10,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="389" y="1278"/>
+	<Point x="1744" y="1278"/>
+	<Point x="1740" y="1580"/>
+	<Point x="714" y="1579"/>
+	<Point x="710" y="1591"/>
+	<Point x="674" y="1591"/>
+	<Point x="660" y="1578"/>
+	<Point x="388" y="1577"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et il est d’un violet terne, semé de petits points oran‐
+gés peu brillans et peu distincts; sa caudale est vio-
+lâtre; sa pectorale orangée sale, et ses autres nageoires
+sont d’un gris roussâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="465" y="1585"/>
+	<Point x="653" y="1586"/>
+	<Point x="670" y="1596"/>
+	<Point x="711" y="1596"/>
+	<Point x="720" y="1584"/>
+	<Point x="1446" y="1582"/>
+	<Point x="1448" y="1666"/>
+	<Point x="465" y="1666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ﬁgure est longue de huit pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="336" y="1958"/>
+	<Point x="1749" y="1958"/>
+	<Point x="1749" y="2224"/>
+	<Point x="336" y="2224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Geoﬀroy et M. Ehrenberg ont recueilli
+dans la mer Rouge un amphacanthe très-sem‐
+blable au guttatus pour la grosseur des épines,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="400" y="2230"/>
+	<Point x="1750" y="2230"/>
+	<Point x="1750" y="2470"/>
+	<Point x="400" y="2470"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais qui est un peu plus oblong et a le front un
+peu plus convexe; les rides de son crâne sont plus
+ﬁnes, plus serrées; celles du limbe et de l’opercule</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="footnote">
+	<Coords>
+	<Point x="342" y="2542"/>
+	<Point x="1744" y="2542"/>
+	<Point x="1744" y="2678"/>
+	<Point x="342" y="2678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. M. de Lacépède, t. V, p. et 421 et 422, place les buro dans
+les abdominaux, entre les polynèmes et les harengs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="330" y="210"/>
+	<Point x="460" y="210"/>
+	<Point x="460" y="277"/>
+	<Point x="330" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>150</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="header">
+	<Coords>
+	<Point x="769" y="210"/>
+	<Point x="1285" y="210"/>
+	<Point x="1285" y="277"/>
+	<Point x="769" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="heading">
+	<Coords>
+	<Point x="562" y="538"/>
+	<Point x="1482" y="538"/>
+	<Point x="1482" y="615"/>
+	<Point x="562" y="615"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE DE MERTENS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="562" y="642"/>
+	<Point x="1482" y="642"/>
+	<Point x="1482" y="730"/>
+	<Point x="562" y="730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus Mertensii, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="heading">
+	<Coords>
+	<Point x="654" y="1740"/>
+	<Point x="1422" y="1740"/>
+	<Point x="1422" y="1813"/>
+	<Point x="654" y="1813"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE SOMBRE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="558" y="1839"/>
+	<Point x="1516" y="1839"/>
+	<Point x="1516" y="1926"/>
+	<Point x="558" y="1926"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus luridus, Ehrenb.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r37">
+	<Coords>
+	<Point x="353" y="2490"/>
+	<Point x="353" y="2520"/>
+	<Point x="1750" y="2520"/>
+	<Point x="1750" y="2490"/></Coords></SeparatorRegion></Page></PcGts>

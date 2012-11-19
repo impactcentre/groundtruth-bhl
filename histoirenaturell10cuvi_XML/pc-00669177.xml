@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669177">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:04:14</Created>
+	<LastChange>2012-03-12T14:33:47</LastChange></Metadata>
+	<Page imageFilename="00669177.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="557" y="239"/>
+	<Point x="1156" y="239"/>
+	<Point x="1156" y="321"/>
+	<Point x="557" y="321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="135" y="586"/>
+	<Point x="1585" y="586"/>
+	<Point x="1585" y="1260"/>
+	<Point x="135" y="1260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pallas, qui a le premier défendu la ﬁdélité
+de l’ouvrage de Renard, et prévu que l’on
+constaterait un jour l’existence réelle de tant
+d’êtres que leurs formes singulières disposaient
+à regarder comme fabuleux, aurait trouvé
+dans notre ouvrage de nombreuses preuves
+de la justesse de sa conjecture. En voici une
+nouvelle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="131" y="1266"/>
+	<Point x="1580" y="1266"/>
+	<Point x="1581" y="1937"/>
+	<Point x="1037" y="1933"/>
+	<Point x="929" y="1935"/>
+	<Point x="875" y="1936"/>
+	<Point x="662" y="1934"/>
+	<Point x="658" y="1949"/>
+	<Point x="132" y="1950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ﬁgure 201, pl. 40, de ce recueil si dé‐
+crié, nous oﬀre un acanthure à museau très-
+saillant, et qui a sur les côtés du corps, vers
+la queue, des espèces de poils ou de petites
+épines; elle lui donne le nom de basuin, et
+la ﬁgure 29, pl. 4, intitulée basuin mâle,
+en représente un de même forme, mais dé‐
+pourvu de ces poils.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="125" y="1952"/>
+	<Point x="662" y="1951"/>
+	<Point x="668" y="1940"/>
+	<Point x="909" y="1941"/>
+	<Point x="1574" y="1944"/>
+	<Point x="1574" y="2540"/>
+	<Point x="121" y="2540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le nom et les deux ﬁgures sont pris du
+porte-feuille de Vlaming, n.° 220 et 221; seule‐
+ment les indications de sexe sont interverties;
+c’est l’individu à queue velue qui y est indi‐
+qué comme le mâle, et il est dit qu’ils furent
+pris tous les deux à Neira dans la province
+de Banda, le 26 Septembre 1698.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="119" y="2542"/>
+	<Point x="1586" y="2542"/>
+	<Point x="1586" y="2728"/>
+	<Point x="119" y="2728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Valentyn les a aussi copiées n.os 23 et 124;
+mais en supprimant les brosses, et en nommant</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="466" y="356"/>
+	<Point x="1254" y="356"/>
+	<Point x="1254" y="451"/>
+	<Point x="466" y="451"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE A BROSSES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="466" y="480"/>
+	<Point x="1254" y="480"/>
+	<Point x="1254" y="572"/>
+	<Point x="466" y="572"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus scopas, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1409" y="237"/>
+	<Point x="1409" y="318"/>
+	<Point x="1555" y="318"/>
+	<Point x="1555" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>245</Unicode></TextEquiv></TextRegion></Page></PcGts>

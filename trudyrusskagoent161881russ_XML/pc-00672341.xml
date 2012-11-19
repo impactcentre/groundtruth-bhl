@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672341">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:16:13</Created>
+	<LastChange>2012-02-10T09:54:31</LastChange></Metadata>
+	<Page imageFilename="00672341.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="794" y="137"/>
+	<Point x="1105" y="137"/>
+	<Point x="1105" y="201"/>
+	<Point x="794" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 147 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="80" y="262"/>
+	<Point x="1817" y="262"/>
+	<Point x="1817" y="1185"/>
+	<Point x="80" y="1185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tes, valde distincti, in triangulo supra antennas inserti; anten-
+nae ﬁliformes, corpore breviores, tredecim articulatae, articulo
+secundo brevissimo, tertio longiore, pilosae, nigrae, articulis
+duobus baseos crassioribus testaceis. Thorax gibbus, glaber, ni-
+grofuscus ﬂavo et luteo variegatus, vel ﬂavescens fusco nigro-
+que maculatus; pronotum colore fusco dominante, humeris tan-
+tum ﬂavum, colore autem ﬂavo dominante fasciâ. longitudinali
+maculisque trigonis duabus brunneis ornatum; scutellum eleva-
+tum, ﬂavum, basi brunneo punctulatum; prosterno et mesosterno
+nigropiceis luteo et ﬂavo variegatis; metathorace nigrofusco su-
+pra coxas posticas ﬂavescente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="69" y="1210"/>
+	<Point x="1817" y="1210"/>
+	<Point x="1817" y="2276"/>
+	<Point x="69" y="2276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alae sat magnae, hyalinae, ﬂavedine subtinctae, brevissime
+pilosulae, margaritaceae; cellula radialis conica, cellulae cubi-
+tales duae isthmo junctae, prima fere circularis, secunda api-
+cem alae attingens, antice in petiolum quasi contracta, quo in-
+tercedente cum primâ areolâ conjungitur; secundus nervus re-
+currens deest; radice et squamulâ ﬂavis; stigmate magno, co-
+nico nervisque fuscis. Coxae longae, cylindricae, anteriores te-
+staceae, posticae rufescentes; pedes anteriores breviores, testa-
+cei, posteriores longiores, abdomen superantes, rufescentes, tibiis
+apice infuscatis, tarsis croceis, femoribus, tibiis tarsisque valde
+compressis, tibiis tarsisque breviter pilosis; tarsorum posticorum
+articulo primo quatuor ceteros longitudine fere duplo supe-
+rante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="76" y="2310"/>
+	<Point x="1821" y="2310"/>
+	<Point x="1821" y="2816"/>
+	<Point x="76" y="2816"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Abdomen longum, caput thoracemque longitudine triplo su-
+perans, 8 articulatum *), petiolatum, segmentis duobus longio-
+ribus petiolum constituentibus, tertio quartoque obconicis, reli-
+quis brevibus triangulum apicale formantibus, laevigatum, seg-
+mentis primis quatuor dilute aurantiacis, quinto basi aurantiaco
+apice infuscato, ultimis tribus nigris, sexto et septimo apice albo-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="91" y="2948"/>
+	<Point x="1814" y="2948"/>
+	<Point x="1814" y="3071"/>
+	<Point x="91" y="3071"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Quod tamen genitalibus exsertis melius observatur; genitalibus vero abs-
+conditis abdomen 7 articulatum esse videtur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1580" y="3087"/>
+	<Point x="1669" y="3087"/>
+	<Point x="1669" y="3139"/>
+	<Point x="1580" y="3139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10*</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="92" y="2864"/>
+	<Point x="691" y="2864"/>
+	<Point x="691" y="2891"/>
+	<Point x="92" y="2891"/></Coords></SeparatorRegion></Page></PcGts>

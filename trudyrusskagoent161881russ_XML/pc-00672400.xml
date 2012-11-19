@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672400">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:28:09</Created>
+	<LastChange>2012-02-10T09:54:43</LastChange></Metadata>
+	<Page imageFilename="00672400.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="271" y="250"/>
+	<Point x="2021" y="250"/>
+	<Point x="2021" y="1169"/>
+	<Point x="271" y="1169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>den starken braunen Analbusch zu unterscheiden, in beiden
+Geschlechtern dadurch, dass der rauhe, dunkelrothe Schuppen-
+streifen der Vorderﬂügel fast grade und scharf abgeschnitten
+ist. Von der kleinern Guarinella unterscheidet sie sich durch
+gestrecktere Flügel, die weissliche Costalbestäubung der vor-
+dern und den starken, braunen oder bräunlichen Analbusch
+des ♂. Sie ist auch der kleinern Ochrodesma durch eben den
+dunkeln Schuppenstreifen nächst verwandt; bei dieser ist aber
+der Schuppenstreifen bis zum Vorderrand verlängert und die
+davorziehende Binde hell und scharf, und die Grundfarbe der
+Fläche dunkler, ohne Bestäubung am Vorderrand.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="266" y="1173"/>
+	<Point x="2021" y="1173"/>
+	<Point x="2021" y="2338"/>
+	<Point x="266" y="2338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In der Grösse veränderlich, doch meistens kleiner als Dah-
+liella. Kopf und Rückenschild lehmig grau, Hinterleib und
+Fühler heller. Stirn gerundet. Taster aussen braun, an der
+Wurzel sehr hell, dicht am Gesicht aufgebogen und die Stirn
+überragend, stark zusammengedrückt; das 3te Glied kürzer
+als das zweite, zugespitzt. Sauger grau beschuppt. Fühler
+borstenförmig, beim ♂ pubescirend sehr kurz gefranzt, über
+dem Wurzelgliede ganz deutlich, wenn auch sanft gebogen. ♂
+Analbusch stark, in der Mitte verlängert, graubraun, auf dem
+Rücken an seinem Anfang blass ochergelblich; zu jeder Seite
+steht gewöhnlich ein langer, einwärts gekrümmter, grauer
+Haarbusch hervor. Beine grau mit hellen Spitzen der Fuss-
+glieder; die Hinterschenkel an der Endhälfte und die Hinter-
+schienen an der Wurzelhälfte weisslich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="245" y="2342"/>
+	<Point x="2014" y="2342"/>
+	<Point x="2014" y="3111"/>
+	<Point x="245" y="3111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 41/4—3‴ lang, schmal, nach hinten wenig
+erweitert, am Vorderrande sehr schwach convex, staubgrau,
+mehr oder weniger röthlich gemischt, stellenweise glänzend, am
+Vorderrande, und zwar am meisten zwischen den zwei Quer-
+linien, weisslich, bestäubt. Bei 1/3 steht auf dem Innenrand
+fast senkrecht ein dünner, rauhschuppiger, dunkelrother, bei
+gewisser Beleuchtung schwarz erscheinender, bis zur Subcostal-
+ader reichender Querstrich, der basalwärts mit weisslichem
+Staube gesäumt, hinterwärts aber von einer breiten, lehmgel-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="966" y="114"/>
+	<Point x="1307" y="114"/>
+	<Point x="1307" y="188"/>
+	<Point x="966" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 206 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

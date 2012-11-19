@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672558">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:57:09</Created>
+	<LastChange>2012-02-10T09:55:10</LastChange></Metadata>
+	<Page imageFilename="00672558.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r14" index="0"/>
+	<RegionRefIndexed regionRef="r20" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="982" y="94"/>
+	<Point x="1305" y="94"/>
+	<Point x="1305" y="166"/>
+	<Point x="982" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 362 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="433" y="830"/>
+	<Point x="1842" y="830"/>
+	<Point x="1842" y="926"/>
+	<Point x="433" y="926"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>18. Leucophasia Sinapis L. var. Lathyri Hb.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="271" y="999"/>
+	<Point x="2021" y="999"/>
+	<Point x="2021" y="1173"/>
+	<Point x="271" y="1173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sables à l'ouest de Kouldjà en Avril; puis dans le déﬁlé
+de Talki. Deux ♀♀ ont les taches apicales à peine indiquées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="271" y="1178"/>
+	<Point x="2021" y="1178"/>
+	<Point x="2021" y="1617"/>
+	<Point x="271" y="1617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tous les individus appartiennent à la var. Lathyri Hb.
+J'ai reçu cette même variété de l'Oural, où elle fut prise par
+mon chasseur en Juillet 1876. Elle n'avait pas encore été
+signalée en Russie que je sache. Les individus de l'Oural
+sont très grands.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="276" y="1666"/>
+	<Point x="2010" y="1666"/>
+	<Point x="2010" y="1769"/>
+	<Point x="276" y="1769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>19. Colias Erschofﬁi Alph. nov. sp. Tab. XIV, ﬁg. 1 ♂, 2 ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="623" y="1839"/>
+	<Point x="1671" y="1839"/>
+	<Point x="1671" y="1928"/>
+	<Point x="623" y="1928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂♂ 48—49 mill.; ♀♀ 55—60 mill.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="260" y="1955"/>
+	<Point x="2021" y="1955"/>
+	<Point x="2021" y="2376"/>
+	<Point x="260" y="2376"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ et ♀ alae viridescenti-ﬂavae, anticae basi, costa et prae-
+cipue pagina ante limbum exteriorem dense griseo-viridi squa-
+matae. Limbo nigro in utroque sexu sulfureo-maculato: in ♂
+maculis parvis, in ♀ subconﬂuentibus, fasciam fere forman-
+tibus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="260" y="2385"/>
+	<Point x="2019" y="2385"/>
+	<Point x="2019" y="2551"/>
+	<Point x="260" y="2551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fimbria roseo-rubricante, saepe punctulis vel lituris sulfu-
+reis a limbo separata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="258" y="2557"/>
+	<Point x="2017" y="2557"/>
+	<Point x="2017" y="2805"/>
+	<Point x="258" y="2805"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Puncto centrali magno, nigro, oblongo vel extus angulato,
+(in nonnulis speciminibus pagina anticarum plus minasve
+ochraceo-colorata).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="262" y="2810"/>
+	<Point x="2016" y="2810"/>
+	<Point x="2016" y="3078"/>
+	<Point x="262" y="3078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Posticae disco griseo-viridescenti (squamis distinctissimis),
+limbo nigro angusto, in apice maculis duabus tribusve nigris
+interne appositis; spatio marginali inter disco et limbo omnino</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="2010" y="492"/>
+	<Point x="2010" y="741"/>
+	<Point x="267" y="741"/>
+	<Point x="267" y="492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'une de mes ♀♀ a le revers des secondes ailes complê-
+tement envahi par le vert, avec quelques petits points blancs
+seulement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="366" y="230"/>
+	<Point x="1348" y="230"/>
+	<Point x="1348" y="317"/>
+	<Point x="2010" y="317"/>
+	<Point x="2010" y="490"/>
+	<Point x="267" y="490"/>
+	<Point x="267" y="317"/>
+	<Point x="366" y="317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La paire que j'ai de lac Indersk:
+le ♂ — 29 mill.
+la ♀ — 29½ „</Unicode></TextEquiv></TextRegion></Page></PcGts>

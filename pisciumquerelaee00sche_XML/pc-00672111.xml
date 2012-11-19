@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672111">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T06:06:47</Created>
+	<LastChange>2012-03-12T14:34:08</LastChange></Metadata>
+	<Page imageFilename="00672111.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r29" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="130" y="164"/>
+	<Point x="1696" y="162"/>
+	<Point x="1688" y="2020"/>
+	<Point x="1073" y="2024"/>
+	<Point x="342" y="2033"/>
+	<Point x="129" y="2032"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>podeo inſuper exeadem Lapicidina. Non autem
+ſolâ longitudine acquieſcimus pro atuendo nomine
+Anguillæ. Adſunt gna alia, imò ��������,ariarum,
+ſeu coarum mplicium in certa à vertebris diantia
+articulatio cum aliis tenuioribus, quæ ſe ſe terminant
+tum in vertebras parvas, è quibus ngulis bini pro-
+deunt radii componentes Pinnas, hæ enim, uti no-
+tum, à cauda incipiunt,&amp; ultra medium dorſum con-
+tinuantur. Harum Pinnarum fundamentum Ver-
+tebrale exprimitur in anguilla nora lapidea per li-
+neas laterales ſpinæ dor utrinque Parallelas. Hîc
+autem obſervandum, totam hanc Sceleti Anguillæ-
+formis oaturam ee è ſuperﬁcie Iapidis cum omni-
+bus vertebrarum procebus extantem, quod in bao
+rilievo Itali vocant. Ut adeò probabile t, ee hanc
+ipſam ſceleti ſubantiam in lapidem converſam An-
+guillas has non, quod de Piſcibus foIibus Mansfel-
+denbus multi conjeant,ortum ſuum trahere exLa-
+cu quodam in Lapicidinam Glaronenſem ſubverſo,
+præter loci ineptitudinem vel inde conat , quòd in
+Glaronen Territorio nullæ hodie inveniantur An-
+guillæ viventes, ni in Lintha ﬂumine à Biltena Pago
+ad Pontem Telonii, &amp; Tegularum, Ziegelbruk, &amp; inde in
+Seza, Veſenam uſque. Cœterùm in aliis Ditionis Gla-
+ronens aquis &amp; reliqua Lintha non alii reperiuntur
+Piſces, præter Truttas, Salmones, Gobios, &amp; Lucios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="126" y="2041"/>
+	<Point x="720" y="2033"/>
+	<Point x="1669" y="2033"/>
+	<Point x="1664" y="2310"/>
+	<Point x="125" y="2317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ad nirum &amp; inferioremTabulæ angulum itſe
+Sceleton Piſcis Diluviani in Ardea Glaro-
+nen expreum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="121" y="2325"/>
+	<Point x="1049" y="2320"/>
+	<Point x="1657" y="2322"/>
+	<Point x="1664" y="2530"/>
+	<Point x="120" y="2536"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Adjacet ei proximè Piſciculi etiam ignoti Dilu-
+viani ﬁgura in ﬁli lapide candido ex Mu-</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9" type="other">
+	<Coords>
+	<Point x="989" y="73"/>
+	<Point x="1161" y="73"/>
+	<Point x="1161" y="149"/>
+	<Point x="989" y="149"/></Coords></GraphicRegion>
+	<GraphicRegion id="r15" type="other">
+	<Coords>
+	<Point x="706" y="73"/>
+	<Point x="876" y="73"/>
+	<Point x="876" y="149"/>
+	<Point x="706" y="149"/></Coords></GraphicRegion>
+	<TextRegion id="r21" type="page-number">
+	<Coords>
+	<Point x="963" y="75"/>
+	<Point x="963" y="117"/>
+	<Point x="964" y="117"/>
+	<Point x="964" y="149"/>
+	<Point x="903" y="149"/>
+	<Point x="903" y="75"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="signature-mark">
+	<Coords>
+	<Point x="948" y="2540"/>
+	<Point x="1111" y="2540"/>
+	<Point x="1111" y="2630"/>
+	<Point x="948" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="catch-word">
+	<Coords>
+	<Point x="1520" y="2536"/>
+	<Point x="1656" y="2536"/>
+	<Point x="1656" y="2626"/>
+	<Point x="1520" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſeo</Unicode></TextEquiv></TextRegion></Page></PcGts>

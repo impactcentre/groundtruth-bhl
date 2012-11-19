@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672782">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:38:19</Created>
+	<LastChange>2012-02-10T10:29:48</LastChange></Metadata>
+	<Page imageFilename="00672782.tif" imageWidth="2121" imageHeight="3248">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="262" y="199"/>
+	<Point x="360" y="199"/>
+	<Point x="360" y="264"/>
+	<Point x="262" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>350</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1022" y="195"/>
+	<Point x="1261" y="195"/>
+	<Point x="1261" y="253"/>
+	<Point x="1022" y="253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>W. HARMS,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="264" y="305"/>
+	<Point x="2035" y="305"/>
+	<Point x="2034" y="1673"/>
+	<Point x="268" y="1674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAUSSEK'schen Arbeiten darauf eingehen. Wie ich schon gezeigt
+habe, zerreißen die Glochidien, wenn sie sich an einen Fisch an-
+heften, dessen Epidermis und klemmen einen Teil derselben
+zwischen ihre Schalen vermittels der Schalenhaken ein. Durch die
+Verletzung entsteht nun zunächst eine Wucherung der Epidermis,
+die zur Encystierung des Glochidiums führt. Die eingeklemmten
+Epidermiszellen dagegen zerfallen und werden von den Zellen des
+embryonalen Mantels aufgenommen. Vom Fische werden nun anch
+Leucocyten zu der Wundstelle befördert, die in die Mantelhöhle der
+Larven einwandern, hier einem Zerfalle unterliegen, dessen Produkte
+von den Mantelzellen ebenfalls verzehrt werden. Auch ganze Leuco-
+cyten werden von den Mantelzellen aufgenommen (Fig. 11 lc. Taf. 13),
+FAUSSEK bezeichnet dies als „einen Fall von einer phagocytären
+resp. cytolytischen Verteidigungsreaktion seitens der Leucocyten,
+die aber zu nichte wird und von dem überfallenden Parasiten zu
+seinen Gunsten exploitiert wird". Er ﬁndet in diesem Falle intra-
+cellulärer Nahrungsaufnahme durch Zellen ectodermalen Ursprungs
+ein Analogon in der Nahrungsaufnahme seitens der ectodermatischen
+Zellen der Chorionzotten während der intrauterinen Entwicklung bei
+einigen Säugetieren.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="272" y="1681"/>
+	<Point x="2041" y="1681"/>
+	<Point x="2041" y="2153"/>
+	<Point x="272" y="2153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die intracelluläre Nahrungsaufnahme durch die Mantelzellen
+dauert indessen nur, solange der Darmkanal noch nicht ausgebildet
+ist. Sobald dieses jedoch erfolgt ist — oft schon nach wenigen
+Tagen des parasitischen Lebens —, beginnt die Nahrungsaufnahme
+durch den Mund. Die Nahrung besteht jetzt aus lymphatischer
+Flüssigkeit, Leucocyten und den zerfallenden Mantelzellen. soweit
+sie nicht zum Aufbau des deﬁnitiven Mantels verwandt wurden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="282" y="2160"/>
+	<Point x="2048" y="2160"/>
+	<Point x="2048" y="3051"/>
+	<Point x="282" y="3051"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ein interessanter Fall ist nun die Zerstörung der Larven in
+den Cysten während des Parasitismus. FAUSSEK führt diese Zer-
+störung auf eine entzündliche Reaktion an der beschädigten Stelle
+zurück, die sich in Anhäufung von lymphatischer Flüssigkeit und
+zugrundegehenden Leucocyten äußert. Diese Flüssigkeit übt unter
+gewissen Umständen eine giftige Wirkung auf das Glochidium aus.
+Letzteres zerfällt und löst sich gewissermaßen in der Flüssigkeit
+des entzündlichen Ödems auf. Von der Zerstörung wird der Schließ-
+muskel zuerst betroffen, dessen einzelne Fasern verkleben. worauf
+dann der ganze Muskel in einzelne Stücke zerfällt. Dieser Prozeß
+ﬁndet jedoch, wie ich beobachten konnte, immer statt (Fig. 46 lm,
+Taf. 16), wenn auch nicht in dem extremen Maße, wie FAUSSEK es
+für zugrundegehende Larven abbildet. und scheint mir ein normales</Unicode></TextEquiv></TextRegion></Page></PcGts>

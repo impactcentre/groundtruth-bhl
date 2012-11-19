@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668977">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:09:36</Created>
+	<LastChange>2012-02-09T16:27:26</LastChange></Metadata>
+	<Page imageFilename="00668977.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="42" y="296"/>
+	<Point x="1476" y="296"/>
+	<Point x="1476" y="1050"/>
+	<Point x="42" y="1050"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>usées. Il le regarde comme un poisson rare
+sur les côtes d’Angleterre : il paraîtrait d’après
+cet auteur que le lampris aurait été décrit et
+ﬁguré antérieurement par Sowerby1 et par
+Turton2 dans deux ouvrages que nous ne
+sommes pas encore parvenus à nous procurer.
+Nous retrouvons ensuite le lampris cité dans
+la Faune anglaise du second de ces naturalistes
+sous le nom de zeus luna.3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="44" y="1060"/>
+	<Point x="1476" y="1060"/>
+	<Point x="1476" y="2348"/>
+	<Point x="44" y="2348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. F. Faber4, dans son Histoire des pois‐
+sons de l’Islande, publiée en 1829, nous donne
+plus récemment des détails intéressans sur le
+lampris qu’il appelle zeus guttatus, suivant
+Brünnich, en le reconnaissant toutefois pour
+le scomber pelagicus de Gunner et pour le
+lampris guttatus de Retzius; mais il oublie
+la ﬁgure CXLIV du Zoologia Danica, et ne
+cite que l’indication du prodrome de Müller.
+Il nous fait connaître le nom vulgaire que les
+Islandais donnent au lampris : ce nom de
+gudlags, corrompu selon lui de Gotteslachs
+(saumon de Dieu), est ancien dans l’Islande,
+et M. Faber croit qu’il se rapporte à la beauté
+du poisson.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="35" y="2469"/>
+	<Point x="1469" y="2469"/>
+	<Point x="1469" y="2680"/>
+	<Point x="35" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Zeus opah, Brit. misc., pl. 22. — 2. Linn. Syst., v. I,
+p. 760, n.° 3. — 3. Turton’s Brit. fauna, p. 95, n.° 45. —
+4. Faber, Naturgesch. der Fische Island’s, p. 132.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="499" y="207"/>
+	<Point x="1028" y="207"/>
+	<Point x="1028" y="269"/>
+	<Point x="499" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. LAMPRIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1363" y="191"/>
+	<Point x="1467" y="191"/>
+	<Point x="1467" y="269"/>
+	<Point x="1363" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>45</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="46" y="2392"/>
+	<Point x="46" y="2430"/>
+	<Point x="1475" y="2430"/>
+	<Point x="1475" y="2392"/></Coords></SeparatorRegion></Page></PcGts>

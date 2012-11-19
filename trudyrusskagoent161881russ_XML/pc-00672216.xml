@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672216">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T00:16:39</Created>
+	<LastChange>2012-02-10T09:54:04</LastChange></Metadata>
+	<Page imageFilename="00672216.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1046" y="137"/>
+	<Point x="1342" y="137"/>
+	<Point x="1342" y="210"/>
+	<Point x="1046" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 22 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="332" y="280"/>
+	<Point x="2057" y="280"/>
+	<Point x="2057" y="441"/>
+	<Point x="332" y="441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muscles, en courbant le thorax d’un côté, peuvent, ainsi que
+le précédent, concourir à la direction du vol de l’insecte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="333" y="451"/>
+	<Point x="2067" y="451"/>
+	<Point x="2067" y="1433"/>
+	<Point x="333" y="1433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Telle est l’anatomie des muscles des ailes chez l’insecte
+adulte. En les comparant à ceux des autres insectes, on trouve
+deux singularités suivantes. Premièrement, c’est que tous les
+muscles alaires, c’est-à-dire qui mettent les ailes en mouve‐
+ment, sont exclusivement sternali-dorsaux: il n’y a point de
+muscles dorsaux, qui soient abaisseurs des ailes, s’étendent dans
+toute la longueur du thorax et courbent le tergum, en l’éle‐
+vant dans le milieu et en produisant par là l’abaissement des
+ailes. Ces muscles manquent chez les Odonates, qui ont des
+muscles abaisseurs et élévateurs insérés directement aux ailes
+par l’intermédiaire de tendons 1). Deuxièmement c’est la mul‐
+tiplicité de tendons qu’on ne voit pas chez les autres insectes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="333" y="1442"/>
+	<Point x="2071" y="1442"/>
+	<Point x="2071" y="2089"/>
+	<Point x="333" y="2089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Après avoir connus les muscles alaires de l’insecte adulte,
+il est possible d’en aborder l’étude chez la larve. Celle-ci,
+après l’éclosion, n’a de fourreaux d’ailes, ni de muscles alaires.
+Ce n’est qu’après la troisième ou quatrième mue que ces four‐
+reaux paraissent sur le dos de la larve. En même temps com‐
+mence l’organisation de muscles alaires. Mais avant de passer
+à la description de ceux-ci, je dirai quelques mots sur le sque‐
+lette du thorax.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="337" y="2098"/>
+	<Point x="2078" y="2098"/>
+	<Point x="2078" y="2846"/>
+	<Point x="337" y="2846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette partie du squelette de la larve diﬀère en général de
+celui de l’insecte adulte par sa position. Tandis que chez l’in‐
+secte adulte les pattes sont placées en avant et les ailes ren‐
+versées en arrière, chez la larve au contraire on trouve les
+pattes reculer en arrière et les fourreaux alaires s’avancer vers
+le prothorax. En conséquence de ce fait les muscles sternali-
+dorsaux, en s’étendant de haut en bas, coupent l’axe de la
+larve à peu près perpendiculairement, c’est que nous ne trou‐
+vons pas chez l’insecte parfait. A la même attitude du sque-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="351" y="2912"/>
+	<Point x="2076" y="2912"/>
+	<Point x="2076" y="3103"/>
+	<Point x="351" y="3103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1) Straus-Dürkheim 1. с. p. 166, pl. 3, ﬁg. 5, х; I. Кünckel d’Неr‐
+culais, Recherches sur l’organisation et le développement de Volucelles, Paris,
+1875, p. 177, pl. IX, ﬁg. 5, pl. XI, ﬁg. 6.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="364" y="2869"/>
+	<Point x="364" y="2901"/>
+	<Point x="942" y="2901"/>
+	<Point x="942" y="2869"/></Coords></SeparatorRegion></Page></PcGts>

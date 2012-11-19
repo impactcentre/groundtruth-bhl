@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672768">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T17:07:06</Created>
+	<LastChange>2012-02-10T10:29:47</LastChange></Metadata>
+	<Page imageFilename="00672768.tif" imageWidth="2180" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="640" y="87"/>
+	<Point x="1600" y="87"/>
+	<Point x="1600" y="166"/>
+	<Point x="640" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GALEN: THE MAN AND HIS TIMES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1891" y="95"/>
+	<Point x="1967" y="95"/>
+	<Point x="1967" y="154"/>
+	<Point x="1891" y="154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>83</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="778" y="676"/>
+	<Point x="1480" y="676"/>
+	<Point x="1480" y="725"/>
+	<Point x="778" y="725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>WESTERN RESERVE UNIVERSITY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="314" y="2425"/>
+	<Point x="1988" y="2425"/>
+	<Point x="1988" y="3236"/>
+	<Point x="314" y="3236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Yet Galen deserves to be remembered, not merely as one of the great
+names, but as one of most original minds and attractive personalities
+in all the long history of medicine. It is not diﬃcult to make out the
+the main events of his life, his works supply an unusual amount of per-
+sonal information, and throughout them, unless he is merely transcrib-
+ing past prescriptions, he talks like a living man, detailing incidents
+of daily life and making upon the reader a vivid and unaﬀected im-
+pression of reality. Daremberg said of Galen that the exuberance of
+his imagination and his vanity frequently make us smile. It is true
+that his pharmacology and therapeutics often strike the modern reader
+as ridiculous, but he did not imagine them; they were the medicine of
+his age. It is true that he mentions cases which he has cured and those</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="385" y="928"/>
+	<Point x="383" y="823"/>
+	<Point x="384" y="810"/>
+	<Point x="388" y="799"/>
+	<Point x="1981" y="799"/>
+	<Point x="1981" y="2423"/>
+	<Point x="305" y="2424"/>
+	<Point x="294" y="928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OR about fifteen centuries the name of Galen dominated the study
+of medicine. But at the close of the nineteenth century an Eng-
+lish student of the history of medicine said, "Galen is so inaccessible
+to English readers that it is diﬃcult to learn about him at ﬁrst hand."
+Another wrote, "There is, perhaps, no other instance of a man of equal
+intellectual rank who has been so persistently misunderstood and even
+misinterpreted." A third obstacle has been that while critical editions
+of some single works have recently been published by Helmreich and
+others, no complete edition even of the Greek text of Galen has ap-
+peared since that of Kühn of a century ago, which is now regarded as
+very faulty. A fourth reason for neglect or misunderstanding of Galen
+is probably that there is so much by him to be read. Athenaeus stated
+that Galen wrote more treatises than any other Greek, and although
+many are now lost, more particularly of his logical and philosophical
+writings, his collected extant works ﬁll some twenty volumes averaging
+a thousand pages each. There are often no chapter headings or other
+brief clues to the contents, which must be ploughed through slowly and
+thoroughly, since some of the most valuable bits of information come
+in quite incidentally or by way of unexpected digression. Besides
+errors in the printed text there are numerous words not found in most
+classical dictionaries. It is therefore perhaps not surprising, in the
+words of one of the English historians of medicine quoted above, that
+"few physicians or even scholars in the present day can claim to have
+read through this vast collection."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="294" y="808"/>
+	<Point x="380" y="807"/>
+	<Point x="382" y="832"/>
+	<Point x="380" y="921"/>
+	<Point x="294" y="923"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="533" y="470"/>
+	<Point x="1706" y="470"/>
+	<Point x="1706" y="567"/>
+	<Point x="533" y="567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GALEN: THE MAN AND HIS TIMES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="534" y="583"/>
+	<Point x="1703" y="583"/>
+	<Point x="1703" y="662"/>
+	<Point x="534" y="662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>By Professor LYNN THORNDIKE</Unicode></TextEquiv></TextRegion></Page></PcGts>

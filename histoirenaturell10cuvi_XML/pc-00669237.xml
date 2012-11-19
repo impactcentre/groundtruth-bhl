@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669237">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T11:10:57</Created>
+	<LastChange>2012-03-12T14:33:51</LastChange></Metadata>
+	<Page imageFilename="00669237.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="108" y="293"/>
+	<Point x="1520" y="293"/>
+	<Point x="1520" y="721"/>
+	<Point x="1013" y="721"/>
+	<Point x="110" y="723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et lisses, pointues, serrées l’une contre l’autre;
+mais il a la queue nue, sans aucune armure,
+comme les priodons; la position avancée des
+ventrales, à cinq rayons, lui donne encore un
+caractère particulier.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="107" y="726"/>
+	<Point x="756" y="725"/>
+	<Point x="1520" y="726"/>
+	<Point x="1522" y="1312"/>
+	<Point x="671" y="1311"/>
+	<Point x="645" y="1311"/>
+	<Point x="110" y="1310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La dénomination de kéris, sous laquelle
+nous faisons connaître notre petit poisson,
+est prise d’un passage d’Athénée1 dans lequel
+Diphile de Sphine, parlant des diﬀérentes qua‐
+lités de poissons, pour le goût et la légèreté
+de la chair, nomme le ����� comme un poisson
+tendre et qui va bien à l’estomac.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="108" y="1315"/>
+	<Point x="697" y="1315"/>
+	<Point x="1061" y="1318"/>
+	<Point x="1238" y="1318"/>
+	<Point x="1505" y="1317"/>
+	<Point x="1506" y="1570"/>
+	<Point x="107" y="1572"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On voit qu’il est impossible, d’après cette
+indication, de reconnaître jamais l’espèce que
+le philosophe grec indiquait sous ce nom.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="150" y="1631"/>
+	<Point x="1529" y="1631"/>
+	<Point x="1529" y="2483"/>
+	<Point x="150" y="2483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les kéris ont un petit nombre de rayons épineux
+à leur dorsale et une peau chagrinée, rude, sans
+écailles, comme les nasons; mais ils manquent
+de boucliers ou d’épines de chaque côté de la queue.
+La position verticale et avancée des os du bassin,
+attachés cependant à ceux de l’épaule, contribue à
+former l’espèce de goître ou de proéminence de la
+poitrine, et fait que les nageoires ventrales sont
+placées en avant des pectorales, en sorte que, dans
+la méthode de Linné, on pourrait regarder ce pois‐
+son comme un véritable jugulaire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="155" y="2584"/>
+	<Point x="961" y="2584"/>
+	<Point x="961" y="2669"/>
+	<Point x="155" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Deipn., I. VIII, c. 13, p. 355 D.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="594" y="201"/>
+	<Point x="1041" y="201"/>
+	<Point x="1041" y="276"/>
+	<Point x="594" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. IV. KÉRIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1378" y="192"/>
+	<Point x="1517" y="192"/>
+	<Point x="1517" y="276"/>
+	<Point x="1378" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>305</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="101" y="2506"/>
+	<Point x="101" y="2548"/>
+	<Point x="1502" y="2548"/>
+	<Point x="1502" y="2506"/></Coords></SeparatorRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="212" y="2680"/>
+	<Point x="315" y="2680"/>
+	<Point x="315" y="2731"/>
+	<Point x="212" y="2731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="1179" y="2690"/>
+	<Point x="1279" y="2690"/>
+	<Point x="1279" y="2745"/>
+	<Point x="1179" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20</Unicode></TextEquiv></TextRegion></Page></PcGts>

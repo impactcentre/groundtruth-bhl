@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672251">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T21:52:15</Created>
+	<LastChange>2012-02-10T09:54:12</LastChange></Metadata>
+	<Page imageFilename="00672251.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="747" y="147"/>
+	<Point x="1069" y="147"/>
+	<Point x="1069" y="238"/>
+	<Point x="747" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 57 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="98" y="293"/>
+	<Point x="1802" y="293"/>
+	<Point x="1808" y="881"/>
+	<Point x="106" y="883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zu der ersten Abtheilung dieser Arbeit im XIV Bande
+der Horae pag. 506 muss ich nachtragen, dass bereits im
+Monat März 1878 Herr Butler in seinen «Illustrat, of Lep.
+Het. of the Brit. Mus. II», zwei der von mir dort als neu
+aufgestellten Arten beschrieben und abgebildet hat. Da
+meine Arbeit erst im April 1879 erschien, haben meine
+Namen einzugehen und zwar:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="91" y="887"/>
+	<Point x="1808" y="887"/>
+	<Point x="1808" y="1145"/>
+	<Point x="91" y="1145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Agathia Lacunaria Hedem. für Agathia Carissima
+Butl. und ? Geometra Vestita Hedem, für Aracina Mus‐
+cosa Butl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="154" y="1271"/>
+	<Point x="935" y="1271"/>
+	<Point x="935" y="1359"/>
+	<Point x="154" y="1359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>St. Petersburg, im Februar 1880.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="751" y="1617"/>
+	<Point x="751" y="1663"/>
+	<Point x="1060" y="1663"/>
+	<Point x="1060" y="1617"/></Coords></SeparatorRegion></Page></PcGts>

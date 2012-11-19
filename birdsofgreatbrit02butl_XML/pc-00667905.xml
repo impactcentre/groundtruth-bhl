@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667905">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:11:33</Created>
+	<LastChange>2012-02-10T09:52:20</LastChange></Metadata>
+	<Page imageFilename="00667905.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="864" y="187"/>
+	<Point x="1361" y="187"/>
+	<Point x="1361" y="248"/>
+	<Point x="864" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SAND-MARTIN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1967" y="203"/>
+	<Point x="2041" y="203"/>
+	<Point x="2041" y="254"/>
+	<Point x="1967" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>41</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="167" y="312"/>
+	<Point x="2054" y="312"/>
+	<Point x="2054" y="435"/>
+	<Point x="167" y="435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>commences late in August, and sometimes continues up to the middle of
+October.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="154" y="441"/>
+	<Point x="2070" y="441"/>
+	<Point x="2070" y="2019"/>
+	<Point x="154" y="2019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>As a cage-bird the Sand-Martin cannot be commended:—when on a nesting
+excursion in Kent, in July, 1887, a family of ﬁve little Sand-Martins was brought
+to me: as the birds were too young to let ﬂy, I determined to try and keep them
+as pets, but I found it a harder task than I had anticipated to induce them to
+open their mouths for the food (Abrahams' Nightingale Mixture) which I gave
+them. However, after nearly a week's perseverance, my wife and a girl who then
+assisted in looking after my birds, succeeded in persuading four of them to open
+their mouths when food was oﬀered. All ﬁve were then in excellent health, though
+rather too fat: they were very pretty, and when sitting on one's ﬁnger, looked
+exactly like diminutive hawks. Unfortunately, although by this time the Martins
+were well able to ﬂy, they could only be induced to do so if taken into a room
+where their food was not in sight. In less than a fortnight they could feed them-
+selves, and after that they would eat incessantly, swallowing such huge mouthfuls
+of the soft food, that it seemed marvellous where they could stow it all away:
+then they would fall asleep, sitting upon the edge of the food-pot, and remain in
+a state of stupor for perhaps half-an-hour, when they would wake up and begin
+to gorge again. Naturally this life did not agree with birds whose nature it is to
+be incessantly on the move, and who get their food slowly and in minute morsels;
+they grew rapidly thinner and weaker, staggered in their walk as if drunken, and
+dropped oﬀ one by one, until, in just over three weeks from the time when I
+received them, the last of them died. Possibly, if it had been practicable for me
+to be at home to attend to them, I might have given these birds their food at
+stated intervals, and compelled them to take exercise; in which case, perhaps their
+lives might have been prolonged: but Sand-Martins are not suitable birds for
+the aviculturist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="281" y="2709"/>
+	<Point x="393" y="2709"/>
+	<Point x="393" y="2740"/>
+	<Point x="281" y="2740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1710" y="2700"/>
+	<Point x="1763" y="2700"/>
+	<Point x="1763" y="2738"/>
+	<Point x="1710" y="2738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="998" y="2287"/>
+	<Point x="1201" y="2287"/>
+	<Point x="1201" y="2306"/>
+	<Point x="998" y="2306"/></Coords></SeparatorRegion></Page></PcGts>

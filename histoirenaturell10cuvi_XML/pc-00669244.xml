@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669244">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:41:38</Created>
+	<LastChange>2012-03-12T14:33:51</LastChange></Metadata>
+	<Page imageFilename="00669244.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="321" y="175"/>
+	<Point x="463" y="175"/>
+	<Point x="463" y="281"/>
+	<Point x="321" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>312</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="744" y="193"/>
+	<Point x="1312" y="193"/>
+	<Point x="1312" y="289"/>
+	<Point x="744" y="289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="679" y="394"/>
+	<Point x="1363" y="394"/>
+	<Point x="1363" y="506"/>
+	<Point x="679" y="506"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PREMIÈRE TRIBU.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="420" y="529"/>
+	<Point x="1654" y="529"/>
+	<Point x="1654" y="628"/>
+	<Point x="420" y="628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES TÆNIOÏDES A BOUCHE PEU FENDUE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="275" y="658"/>
+	<Point x="1752" y="658"/>
+	<Point x="1752" y="1777"/>
+	<Point x="275" y="1777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Notre première tribu se composera des
+tænioïdes qui semblent le mieux mériter
+le nom de poissons à ruban; car nous en
+avons vu des individus de neuf à dix pieds
+de long, dont le corps n’avait guère que six
+à sept pouces de haut, et à peine un pouce
+d’épaisseur. Les trois genres que nous y rap‐
+portons sont : les Trachyptères ayant des ven‐
+trales multirayonnées, les Gymnètres, où ces
+nageoires sont réduites à un ou deux longs
+ﬁlets, et enﬁn les Styléphores, genre de pois‐
+son encore mal connu, mais qui paraît bien
+être un véritable apode.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="922" y="2044"/>
+	<Point x="1122" y="2044"/>
+	<Point x="1122" y="2076"/>
+	<Point x="922" y="2076"/></Coords></SeparatorRegion></Page></PcGts>

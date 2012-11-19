@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669100">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:24:59</Created>
+	<LastChange>2012-02-09T16:27:32</LastChange></Metadata>
+	<Page imageFilename="00669100.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="318" y="264"/>
+	<Point x="1720" y="264"/>
+	<Point x="1725" y="679"/>
+	<Point x="1311" y="679"/>
+	<Point x="1263" y="689"/>
+	<Point x="1207" y="689"/>
+	<Point x="891" y="688"/>
+	<Point x="857" y="689"/>
+	<Point x="564" y="685"/>
+	<Point x="536" y="692"/>
+	<Point x="405" y="693"/>
+	<Point x="319" y="692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>le nom d’acanthurus a prévalu. Il faut re‐
+marquer ici que l’aspisure de M. de Lacé-
+pède ne diﬀère point des acanthures, et qu’il
+faut aussi rapporter à ce genre ses chétodons
+nigricans, oblongus, couagga.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="321" y="695"/>
+	<Point x="542" y="694"/>
+	<Point x="564" y="689"/>
+	<Point x="887" y="692"/>
+	<Point x="917" y="690"/>
+	<Point x="1000" y="691"/>
+	<Point x="1217" y="692"/>
+	<Point x="1280" y="691"/>
+	<Point x="1309" y="684"/>
+	<Point x="1730" y="682"/>
+	<Point x="1730" y="1026"/>
+	<Point x="322" y="1026"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous décrirons d’abord les espèces de l’At‐
+lantique, qui sont moins nombreuses, et dont
+l'histoire n’a été faite jusqu’à présent que sur
+des documens peu complets.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="604" y="1105"/>
+	<Point x="1438" y="1105"/>
+	<Point x="1438" y="1177"/>
+	<Point x="604" y="1177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE CHIRURGIEN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="322" y="1218"/>
+	<Point x="1721" y="1218"/>
+	<Point x="1721" y="1376"/>
+	<Point x="322" y="1376"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Chætodon chirurgus, Bloch, pl. 208; Acanthurus
+chirurgus, Bl. Schn., p. 214.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="313" y="1396"/>
+	<Point x="1725" y="1396"/>
+	<Point x="1725" y="1981"/>
+	<Point x="313" y="1981"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’espèce que l’on connaît plus particulière‐
+ment dans nos îles sous le nom de chirurgien,
+a été dessinée à la Martinique par le père
+Plumier; Bloch a fait graver ce dessin, pl. 208,
+et l’a accompagné d’une courte description
+faite seulement d’après la ﬁgure; aussi ses in‐
+dications de nombres sont-elles fort inexactes.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="324" y="1994"/>
+	<Point x="1718" y="1994"/>
+	<Point x="1718" y="2258"/>
+	<Point x="324" y="2258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MM. Pley, Garnot et Achard nous ont en‐
+voyé de la Martinique et de Porto-Rico l’espèce
+de Plumier, qu’il nous a été aisé de recon-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="384" y="2345"/>
+	<Point x="858" y="2345"/>
+	<Point x="858" y="2393"/>
+	<Point x="384" y="2393"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Il les donne ainsi :</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="516" y="2539"/>
+	<Point x="857" y="2539"/>
+	<Point x="863" y="2532"/>
+	<Point x="1533" y="2533"/>
+	<Point x="1532" y="2605"/>
+	<Point x="516" y="2605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 5; D. 9/23; A. 3/22; C. 16; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="326" y="165"/>
+	<Point x="453" y="165"/>
+	<Point x="453" y="236"/>
+	<Point x="326" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>168</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="767" y="178"/>
+	<Point x="1274" y="178"/>
+	<Point x="1274" y="236"/>
+	<Point x="767" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r19">
+	<Coords>
+	<Point x="329" y="2284"/>
+	<Point x="329" y="2314"/>
+	<Point x="1726" y="2314"/>
+	<Point x="1726" y="2284"/></Coords></SeparatorRegion>
+	<TextRegion id="r27" type="footnote">
+	<Coords>
+	<Point x="332" y="2478"/>
+	<Point x="918" y="2478"/>
+	<Point x="938" y="2473"/>
+	<Point x="1186" y="2473"/>
+	<Point x="1468" y="2472"/>
+	<Point x="1468" y="2522"/>
+	<Point x="854" y="2524"/>
+	<Point x="844" y="2536"/>
+	<Point x="724" y="2536"/>
+	<Point x="332" y="2535"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous trouvons sur un grand nombre d’individus :</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="footnote">
+	<Coords>
+	<Point x="569" y="2401"/>
+	<Point x="1466" y="2401"/>
+	<Point x="1468" y="2467"/>
+	<Point x="933" y="2468"/>
+	<Point x="917" y="2474"/>
+	<Point x="569" y="2474"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 14/12; A. 3/17; C. 16; P. 16; V. 1/5.</Unicode></TextEquiv></TextRegion></Page></PcGts>

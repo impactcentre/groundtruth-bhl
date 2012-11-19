@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669314">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:50:53</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669314.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="346" y="260"/>
+	<Point x="1802" y="260"/>
+	<Point x="1802" y="1191"/>
+	<Point x="1247" y="1192"/>
+	<Point x="1200" y="1192"/>
+	<Point x="1143" y="1190"/>
+	<Point x="357" y="1188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Heureusement cet individu, ayant passé au
+muséum du collège des chirurgiens de Londres,
+a pu être examiné de nouveau par des zoolo‐
+gistes exercés. M. de Blainville, ayant eu l’occa‐
+sion de l’étudier et de juger quelle avait dû être
+la position primitive des pièces de la tête, en
+a fait une ﬁgure et une description qui ont
+commencé à rétablir des rapports conformes à
+ce que l’on observe de ces mêmes parties dans
+les autres poissons. Il a fait paraître ces obser‐
+vations dans le Journal de physique.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="365" y="1193"/>
+	<Point x="1815" y="1194"/>
+	<Point x="1817" y="2478"/>
+	<Point x="366" y="2478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Valenciennes a eu également le soin de
+décrire et de dessiner ce même individu pen‐
+dant ses voyages en Angleterre. Sa description
+nous paraît encore plus correcte sur quelques
+points; ces documens nous servent à donner
+la description de ce singulier poisson. Il nous
+paraît devoir être rapproché des gymnètres,
+dont il a le corps alongé, la caudale en partie
+relevée, le squelette probablement aussi mou,
+pour que toutes les parties de la face aient
+pu ainsi se retourner sur le crâne. Son carac‐
+tère principal consiste dans le prolongement
+de la pointe de la queue, au-delà de la cau‐
+dale , en une corde grêle, plus longue que le
+corps. Or, on voit un commencement de ce</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="417" y="2560"/>
+	<Point x="1810" y="2560"/>
+	<Point x="1810" y="2649"/>
+	<Point x="417" y="2649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Journal phys., t. LXXXVII, p. 60, pl. 1, ﬁg. 1, année 1818.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="369" y="2497"/>
+	<Point x="369" y="2538"/>
+	<Point x="1802" y="2538"/>
+	<Point x="1802" y="2497"/></Coords></SeparatorRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="368" y="137"/>
+	<Point x="530" y="137"/>
+	<Point x="530" y="245"/>
+	<Point x="368" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>382</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="788" y="137"/>
+	<Point x="1393" y="137"/>
+	<Point x="1393" y="245"/>
+	<Point x="788" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

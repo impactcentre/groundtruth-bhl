@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669051">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:48:43</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669051.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="117" y="245"/>
+	<Point x="1532" y="245"/>
+	<Point x="1532" y="2626"/>
+	<Point x="117" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de la tête, et il est plus près de l’ouïe que du mu‐
+seau; entre les yeux, le front est un peu élargi et
+légèrement concave, avec deux arêtes peu marquées,
+qui convergent en avant; le bord antérieur de l’or‐
+bite fait une petite saillie crénelée dans quelques
+individus. L’oriﬁce antérieur de la narine est placé
+entre l’æil et le museau, à peu près à égale distance;
+le postérieur, entre celui-là et l’æil: tous deux sont
+petits, le premier est rond et entouré d’un petit
+cercle membraneux, le second est ovale. La bouche,
+très-peu fendue, ne prend pas moitié de la longueur
+du museau; le maxillaire même, qui est assez élargi en
+arrière, se termine au milieu de cette longueur. Les
+mâchoires ressembleraient à celles des scares, si les
+dents qui en garnissent le bord n’en étaient bien
+distinctes. Ces dents sont petites, serrées, et forment
+une rangée régulière; chaque mâchoire en a trente
+ou trente-deux; celles de la supérieure, vues à la
+loupe, sont échancrées ou fourchues au bout; celles
+de l’inférieure ont une pointe plus grande en avant
+et une plus petite sur leur base en arrière: l’inté‐
+rieur de la bouche n’en a aucune. Le voile de la
+mâchoire supérieure y est épais, papilleux et,
+ce qui est singulier, dirigé en avant et appliqué
+contre le devant du palais; celui de la mâchoire
+inférieure est grand, mais comme à l’ordinaire mem‐
+braneux et mince. Les sous-orbitaires ne se marquent
+point au dehors, si ce n’est par le petit sillon que
+son bord inférieur oﬀre au maxillaire. Le préopercule
+est coupé à angle droit, et ses deux bords sont rec-
+tilignes et égaux. Son limbe, assez large dans le bas,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="480" y="159"/>
+	<Point x="1099" y="159"/>
+	<Point x="1099" y="235"/>
+	<Point x="480" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1370" y="159"/>
+	<Point x="1520" y="159"/>
+	<Point x="1520" y="235"/>
+	<Point x="1370" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>119</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672545">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:55:03</Created>
+	<LastChange>2012-02-10T09:55:08</LastChange></Metadata>
+	<Page imageFilename="00672545.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="758" y="155"/>
+	<Point x="1087" y="155"/>
+	<Point x="1087" y="239"/>
+	<Point x="758" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 349 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="48" y="289"/>
+	<Point x="1787" y="289"/>
+	<Point x="1787" y="633"/>
+	<Point x="48" y="633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Jouldoússe, à 8000' d'altitude, le 7 Août, — dernier jour
+de l'été pour ce plateau alpin en 1879, vu que le lendemain
+il y neigea abondamment, et que l'hiver, si long dans ces
+parages, s'y établit tout d'un coup.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="46" y="639"/>
+	<Point x="1787" y="639"/>
+	<Point x="1787" y="880"/>
+	<Point x="46" y="880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le P. v. Hesebolus, me fut envoyé de l'Oural en 1876,
+par mon chasseur, en exemplaires, qui ne le cèdent en rien,
+en grandeur, ni à ceux de l'Altaï, ni à ceux du Tian-Chian.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="149" y="889"/>
+	<Point x="1658" y="889"/>
+	<Point x="1658" y="974"/>
+	<Point x="149" y="974"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mes plus grands individus ne dépassent pas 90 mill.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="58" y="1039"/>
+	<Point x="1792" y="1039"/>
+	<Point x="1792" y="1144"/>
+	<Point x="58" y="1144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4. P. Corybas F. d. w. var. Discobolus Alph. var. nova.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="66" y="1191"/>
+	<Point x="1805" y="1191"/>
+	<Point x="1805" y="2130"/>
+	<Point x="66" y="2130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mes exemplaires du Corybas, diﬀèrent tant de la descrip-
+tion de ce lépidoptère, donnée par M. Erschoff (Lépidop-
+tères du Tourkestan, voyage de Fetschenko, p. 2 tab. I, ﬁg.
+1, 2.) que je me vois forcé de les désigner comme variété
+constante. Cette même variété, que je nomme v. Discobolus,
+fut aussi rapportée par Haberhauer de l'Ala-Tau en 1878.
+Il est vrai que ces derniers individus sont aussi un peu diﬀé-
+rents de ceux du Tian-Chian, mais pourtant pas assez, à mon
+avis, pour être considérés comme variété àpart, tous les pas-
+sages de l'une à l'autre de ces deux races locales ayant été
+trouvés par moi dans le Tian-Chian.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="60" y="2135"/>
+	<Point x="1807" y="2135"/>
+	<Point x="1807" y="2630"/>
+	<Point x="60" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La description de Fischer de Waldheim et l'habitat
+qu'il donne de son Corybas (Ent. II, pl. 6, ﬁg. 1, 2) étant
+fallacieux et ayant seulement servi, comme le prouve Mr.
+Erschoff 1. с., à embrouiller tous les entomologistes qui ont
+voulu retrouver l'insecte decrit par lui, — son Corybas au-
+rait, à mon avis, du être à jamais rayé de la science.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="69" y="2635"/>
+	<Point x="1826" y="2635"/>
+	<Point x="1826" y="3041"/>
+	<Point x="69" y="3041"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est indubitable que l'on ne parviendra jamais à être
+ﬁxé sur l'insecte qu'a eu devant les yeux ce naturaliste en
+le decrivant. L'on n'a plus revu depuis de Parnassien à
+tache rouge sur le corselet, et bien probablement, n'en re-
+verra-t-on jamais.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="183" y="3049"/>
+	<Point x="1594" y="3049"/>
+	<Point x="1594" y="3133"/>
+	<Point x="183" y="3133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Passons maintenant au Corybas de Mr. Erschoff.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667834">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:04:22</Created>
+	<LastChange>2012-02-10T09:52:12</LastChange></Metadata>
+	<Page imageFilename="00667834.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="308" y="262"/>
+	<Point x="342" y="262"/>
+	<Point x="342" y="302"/>
+	<Point x="308" y="302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="862" y="251"/>
+	<Point x="1540" y="251"/>
+	<Point x="1540" y="299"/>
+	<Point x="862" y="299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GREAT GREY SHRIKE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="275" y="376"/>
+	<Point x="2128" y="376"/>
+	<Point x="2128" y="806"/>
+	<Point x="275" y="806"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>branch of an olive, apple, pear, oak, or ﬁr tree; it is bulky, and large as that of
+a Blackbird, and is formed of twigs, bents, dead leaves, green grass, and moss;
+the lining consisting of rootlets, wool, hair, and feathers. The eggs number from
+ﬁve to seven, usually ﬁve, and vary from creamy to bluish white, with lighter or
+darker olivaceous spots and blotches, frequently forming a well-deﬁned zone just
+above the middle, and accompanied by lilac-grey shell-markings; sometimes
+they form a large patch at one end (usually the larger one).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="274" y="812"/>
+	<Point x="2119" y="812"/>
+	<Point x="2119" y="990"/>
+	<Point x="274" y="990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nidiﬁcation as a rule commences about the middle of May; incubation lasts
+ﬁfteen days; and, during the rearing of the young, this species is most courageous
+in their defence, driving away even the Crow-family from the vicinity of its nest.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="270" y="999"/>
+	<Point x="2119" y="999"/>
+	<Point x="2119" y="1367"/>
+	<Point x="270" y="1367"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gätke says:—“This bird, though very cautious in general, is yet not unfre-
+quently caught in the throstle bush; that, however, such a fate is well deserved,
+is shown by the discovery of many a poor little Redbreast with its brains hacked
+out, the work of this ruthless aggressor. I have even on one occasion seen a
+Blackbird, as it was hastening along over the grass, pounced upon by one of these
+daring robbers, and succumb, after a short struggle, to the bites of his assailant.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="262" y="1374"/>
+	<Point x="2116" y="1374"/>
+	<Point x="2116" y="1929"/>
+	<Point x="262" y="1929"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lord Lilford says that about the end of December, 1880, he received a ﬁne
+young bird of this species alive: it had been taken by means of bird-lime near
+Glendow, on November 19th; he kept this bird alive for some months. Herr
+Mathias Rausch (Geﬁederte Welt, 1891, p. 475) observes that this bird is not of
+the slightest value for aviculture as a singer, for although he both mocks well
+and sings industriously, he, by his call-notes, makes the other singers crazy with
+anxiety and fear, and thereby disturbs them in their song. “One can only ﬁnd
+it caged in the possession of peculiar fanciers, who mostly aim at completeness, in
+respect of all birds belonging to this category.”*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="265" y="1939"/>
+	<Point x="2114" y="1939"/>
+	<Point x="2114" y="2368"/>
+	<Point x="265" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>From a long study of birds in conﬁnement, I should imagine that Herr Rausch
+speaks here theoretically, and not from experience: if the cry of a Shrike in a
+cage is calculated to terrify a small song-bird in another cage, surely the small
+song-birds of South America ought to be alarmed by the cries of the Blue-bearded
+Jay, or even those of the Sulphur Tyrant; yet they pay no more heed to them than
+to the calls of perfectly innocent birds: I believe that predaceous species are
+recognized by sight, more readily than by their voice.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="376" y="2706"/>
+	<Point x="1817" y="2706"/>
+	<Point x="1817" y="2749"/>
+	<Point x="376" y="2749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* I imagine his meaning to be that they keep all Passeres, whether interesting or not.</Unicode></TextEquiv></TextRegion></Page></PcGts>

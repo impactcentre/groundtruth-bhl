@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672401">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:28:18</Created>
+	<LastChange>2012-02-10T09:54:43</LastChange></Metadata>
+	<Page imageFilename="00672401.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="800" y="180"/>
+	<Point x="1129" y="180"/>
+	<Point x="1129" y="254"/>
+	<Point x="800" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 207 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="79" y="311"/>
+	<Point x="1829" y="311"/>
+	<Point x="1829" y="1222"/>
+	<Point x="79" y="1222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ben, doch nicht recht scharfen Binde eingefasst ist, welche
+den Vorderrand erreicht und hinten ein paar Einbuchtungen
+hat. Die in der weisslichen Bestäubung liegenden zwei schwar-
+zen Queraderpunkte sind von wechselnder Schärfe, fehlen auch
+zuweilen wohl ganz. Die zweite Querlinie ist dem Hinter-
+rande nahe, schräg, schwach gebogen, so dass sie als fast
+grade gelten kann, aus weisslichem Staube gebildet und unge-
+achtet dunkler Einfassung wenig deutlich. Zwischen ihr und
+den verﬂossenen schwärzlichen Hinterrandpunkten ist der dunkle
+Grund mit einem Querstreifen aus weisslichen Schuppen bezeich-
+net. Franzen röthlich grau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="96" y="1231"/>
+	<Point x="1835" y="1231"/>
+	<Point x="1835" y="1562"/>
+	<Point x="96" y="1562"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel sehr hellgrau, durchscheinend und stellenweise
+unbeschuppt, an der Spitze und von da an bis über die
+Hälfte des Hinterrandes gebräunt. Die Adern sind mehr oder
+weniger bräunlich angelaufen. Franzen weisslich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="87" y="1566"/>
+	<Point x="1844" y="1566"/>
+	<Point x="1844" y="2811"/>
+	<Point x="87" y="2811"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel gelblichgrau, hinter der Mitte
+etwas schimmernd; beim ♂ ist die Subcostalader unterwärts,
+doch nicht von der Wurzel aus und nur bis zur Flügelhälfte,
+von einer tiefschwarzen, rauhschuppigen Linie begleitet. Die
+Aeste 1 und 2 der Medianader entspringen hinter der Mitte
+ziemlich nahe bei einander; 3 und 4 bilden eine kurzgestielte
+Gabel. Die 2 folgenden Randadern (6 und 7) sind zu einer
+langen Gabel vereinigt, deren unterer Arm unter der Flügel-
+spitze endigt. — Die Hinterﬂügel blass irisirend, am Vorder-
+rande bleich gelblich beschuppt. Die Subcostalader des ♂ ist
+bis zum ersten Ast, schmäler als auf den Vorderﬂügeln, tief-
+schwarz gesäumt; ebenso die Medianader bis zum zweiten Ast.
+Der erste Ast der Medianader entspringt der Flügelbasis nahe,
+indem er bei 1/4 der Flügellänge anfängt; des zweiten Anfang
+liegt näher an der Gabel, welche 3 und 4 bilden, als an 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="90" y="2816"/>
+	<Point x="1837" y="2816"/>
+	<Point x="1837" y="3151"/>
+	<Point x="90" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5 ♂♂ 12 ♀♀ ﬁng Petersen theils bei Honda zu Ende
+April und Anfang Mai, theils bei Mariquita in der ersten
+Augusthälfte, alle Abends an der Lampe. Die Art scheint
+also in zwei Generationen zu ﬂiegen.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672359">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:49:25</Created>
+	<LastChange>2012-02-10T09:54:34</LastChange></Metadata>
+	<Page imageFilename="00672359.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="733" y="123"/>
+	<Point x="1057" y="123"/>
+	<Point x="1057" y="189"/>
+	<Point x="733" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 165 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="32" y="255"/>
+	<Point x="1764" y="255"/>
+	<Point x="1764" y="419"/>
+	<Point x="32" y="419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tella als Synonym zu Sacchari oder Saccharophagus zu stehen
+kommen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="435" y="532"/>
+	<Point x="1371" y="532"/>
+	<Point x="1371" y="624"/>
+	<Point x="435" y="624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diatr. pinosa. Tab. XI, ﬁg. 6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="30" y="680"/>
+	<Point x="1769" y="680"/>
+	<Point x="1769" y="1016"/>
+	<Point x="30" y="1016"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alis ant. oblongis, acutis, rufescenti-ochraceis, interius
+squamulis fuscis rare sparsis, puncto venae transversae punc-
+tulisque marginalibus atris; post. sordide exalbidis, nebula gri-
+sea ante marginem adversus angulum anticum ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="28" y="1064"/>
+	<Point x="1785" y="1064"/>
+	<Point x="1785" y="1483"/>
+	<Point x="28" y="1483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die ziemlich dunkel röthliche Ocherfarbe — wie bei Nonagr.
+algae (cannae) ♂ — auf Rückenschild, Kopf, Oberseite der
+Taster und Vorderﬂügeln, und der Nebelﬂeck vor dem Hinter-
+rand der Hinterﬂügel zeichnen diese Art im männlichen Ge-
+schlecht sehr aus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="30" y="1498"/>
+	<Point x="1776" y="1498"/>
+	<Point x="1776" y="1919"/>
+	<Point x="30" y="1919"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grösse einer kleinen Obliteratella. Taster um die doppelte
+Kopﬂänge hervorstehend, an der Unterseite heller als oben.
+Beine bleich graugelblich, die vordern am dunkelsten. Hinter-
+leib ziemlich dünn, schmutzig gelblichgrau mit wenig ver-
+stärktem Analbusch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="35" y="1926"/>
+	<Point x="1766" y="1926"/>
+	<Point x="1766" y="2512"/>
+	<Point x="35" y="2512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 5‴ lang, länglich, mit rechtwinkliger Spitze
+und wenig einwärts gehendem Hinterrand. Die Grundfarbe,
+aus welcher die Hauptadern kaum in hellerer Färbung her-
+vortreten, ist gegen die Wurzel etwas gesättigter und unter-
+halb der Medianader bis zum Innenrand sehr spärlich mit
+braunen, hinfälligen Schuppen bestreut. Der starke Querader-
+punkt tiefschwarz wie die 6 (7) Hinterrandpünktchen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="35" y="2519"/>
+	<Point x="1767" y="2519"/>
+	<Point x="1767" y="2769"/>
+	<Point x="35" y="2769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel schmutzig weisslichgelb, ins Graue übergehend.
+Vor dem Hinterrand ist zwischen dem vorletzten Ast der
+Medianader und dem ersten der Subcostalader ein grauer,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote-continued">
+	<Coords>
+	<Point x="30" y="2899"/>
+	<Point x="1758" y="2899"/>
+	<Point x="1758" y="3094"/>
+	<Point x="30" y="3094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>schreibung und Abbildung von Pyr. saccharalis F. aufmerksam, welche in den
+Skrif. af Naturh. Selskabet 1794 publicirt sind.› Ich habe auch diese Schrift
+noch nicht gesehen.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="26" y="2821"/>
+	<Point x="625" y="2821"/>
+	<Point x="625" y="2853"/>
+	<Point x="26" y="2853"/></Coords></SeparatorRegion></Page></PcGts>

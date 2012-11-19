@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672198">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T08:13:59</Created>
+	<LastChange>2012-02-10T09:54:00</LastChange></Metadata>
+	<Page imageFilename="00672198.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="302" y="238"/>
+	<Point x="2102" y="238"/>
+	<Point x="2102" y="1540"/>
+	<Point x="302" y="1544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Speicheldrüsen der Odonaten sind paarige Organe
+und bestehen aus vielen kleinen Säckchen mit Ausführungs‐
+gängen, die sich nach und nach in einer jeden Drüse zu
+einem grossen allgemeinen Speichelgange vereinigen.
+Eine jede Drüse sieht wie eine Weintraube aus und gehört
+also zu den traubenförmigen Drüsen (glandulae acinosae). Die
+einzelnen Säckchen (acini) sind ziemlich lang und schmal und
+am hinteren Ende breiter. Bei den Aeschniden und Libellu-
+liden ist ihre Anzahl viel bedeutender als bei den Agrioniden:
+bei Aeschna grandis L. zum Beisp. über 150 und bei Lestes
+sponsa Hansem. — gegen 60 Stück (Fig. 1). Ausserdem
+liegen die Säckchen der Speicheldrüsen der beiden erstgenann‐
+ten Familien enger neben einander und sind von einem sehr
+dichten Tracheennetz umsponnen; bei den Agrioniden sind sie
+im Gegentheil viel freier.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="309" y="1548"/>
+	<Point x="2078" y="1545"/>
+	<Point x="2078" y="2126"/>
+	<Point x="1016" y="2128"/>
+	<Point x="305" y="2130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Speicheldrüsen liegen im Prothorax, nämlich neben
+oder über dem ersten thoracalen Nervenknoten. Meistentheils
+liegen sie vor dem letzten und zugleich vor dem vorderen
+Niederziehmuskel; bei einigen kleineren Libelluliden aber sind
+dieselben mehr zurückgedrängt, so dass sie nur bis zum Auf‐
+heber der vorderen Flügel reichen (z. B. bei Libellula scotica
+Donov.), (T. I, ﬁg. 2, 3). Die ganze Drüsentraube ist oval.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="278" y="2135"/>
+	<Point x="2115" y="2131"/>
+	<Point x="2121" y="3171"/>
+	<Point x="278" y="3171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die gemeinschaftlichen Ausführungsgänge oder die Speichel‐
+gänge sind kurz und übertreﬀen wenig die Länge des Pro‐
+thorax. Ein jeder Speichelgang erweitert sich am vorderen
+Ende zu einem Speichelsack oder Reservoir (Fig. 5, 7).
+Aus einem jeden Speichelsacke tritt dann wieder ein kurzer
+Gang, der mit dem entsprechenden Gange der anderen Seite
+sich vereinigt und als ein gemeinschaftlicher Gang mit einer
+gemeinschaftlichen Oeﬀnung ausmündet (Fig. 5, 6, 7). Die
+Speichelgänge haben ein geringeltes Aussehen, die Reservoire
+aber zeigen eine ganz besondere Zeichnung, die an ein netz‐
+förmiges Zellengeﬂecht aus dem Gewebe einiger Blätter erinnert
+(Fig. 4 und 5). Diese Zeichnungen der Speichelgänge und der</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1010" y="156"/>
+	<Point x="1369" y="156"/>
+	<Point x="1369" y="224"/>
+	<Point x="1010" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 4 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

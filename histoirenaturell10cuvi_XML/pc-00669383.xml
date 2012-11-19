@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669383">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:59:39</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669383.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="132" y="247"/>
+	<Point x="1488" y="247"/>
+	<Point x="1488" y="425"/>
+	<Point x="132" y="425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>argentés; sous le menton est une tache verte à reﬂets
+métalliques.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="72" y="445"/>
+	<Point x="1490" y="445"/>
+	<Point x="1490" y="625"/>
+	<Point x="72" y="625"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’espèce est abondante près du rivage de
+Mahé et on l’y mange.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="65" y="629"/>
+	<Point x="1494" y="629"/>
+	<Point x="1494" y="1040"/>
+	<Point x="65" y="1040"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le même observateur l’a retrouvée à Bom‐
+bay, et nous l’avons aussi de la mer Rouge,
+où elle habite jusqu’au fond de la baie. M.
+Ehrenberg l’a prise à Massuah, et M. Geoﬀroy
+Saint-Hilaire à Suez.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="65" y="1047"/>
+	<Point x="1494" y="1047"/>
+	<Point x="1494" y="1550"/>
+	<Point x="65" y="1550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous pensons que c’est l’espèce que Fors-
+kal1 a donnée comme l’hepsetus de Linné.
+Les nombres indiqués par ce savant natura‐
+liste, sauf celui des branchies, qui est sans
+doute erronné, se rapporte assez bien aux
+nôtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="305" y="1562"/>
+	<Point x="1325" y="1562"/>
+	<Point x="1325" y="1642"/>
+	<Point x="305" y="1642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 6 — 1/10; A. 1/13; C. 17; P. 16; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="70" y="1664"/>
+	<Point x="1531" y="1664"/>
+	<Point x="1531" y="2452"/>
+	<Point x="70" y="2452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il ne diﬀérait donc que par un rayon mou
+de plus à la seconde dorsale; le reste est bien
+conforme, surtout en ce qu’il dit des dents:
+maxillœ denticulis minutissimis,plurimarum
+serierum, in basi linguæ carina media elata
+denticulis scabra; et il ajoute: vertex sine
+angulis, sed latus fronte declivi, etc. Les Ara‐
+bes de Djidda nomment ce poisson abu gesch-
+gusch, abu kesckul, vel keschkusch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="141" y="2552"/>
+	<Point x="664" y="2552"/>
+	<Point x="664" y="2630"/>
+	<Point x="141" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Fauna arab., p. 69.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="625" y="157"/>
+	<Point x="931" y="157"/>
+	<Point x="931" y="228"/>
+	<Point x="625" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1344" y="141"/>
+	<Point x="1482" y="141"/>
+	<Point x="1482" y="228"/>
+	<Point x="1344" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>451</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="83" y="2477"/>
+	<Point x="83" y="2525"/>
+	<Point x="1497" y="2525"/>
+	<Point x="1497" y="2477"/></Coords></SeparatorRegion></Page></PcGts>

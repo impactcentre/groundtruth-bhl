@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667906">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:11:42</Created>
+	<LastChange>2012-02-10T09:52:20</LastChange></Metadata>
+	<Page imageFilename="00667906.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r9" index="5"/>
+	<RegionRefIndexed regionRef="r10" index="6"/>
+	<RegionRefIndexed regionRef="r11" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="264" y="261"/>
+	<Point x="345" y="261"/>
+	<Point x="345" y="319"/>
+	<Point x="264" y="319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>42</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="925" y="254"/>
+	<Point x="1474" y="254"/>
+	<Point x="1474" y="316"/>
+	<Point x="925" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY FRINGILLIDÆ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="848" y="380"/>
+	<Point x="1545" y="380"/>
+	<Point x="1545" y="441"/>
+	<Point x="848" y="441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="248" y="1558"/>
+	<Point x="2148" y="1558"/>
+	<Point x="2148" y="1813"/>
+	<Point x="1935" y="1814"/>
+	<Point x="1620" y="1812"/>
+	<Point x="1380" y="1813"/>
+	<Point x="1365" y="1816"/>
+	<Point x="1360" y="1813"/>
+	<Point x="946" y="1814"/>
+	<Point x="248" y="1814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Coccothraustinœ, or Grosbeaks, of which the Hawﬁnches are typical, are
+characterized by a very heavy and powerful beak, with hardly any angle to the
+chin; the nasal bones produced backwards beyond the front margin of the eye-
+socket, (cf. R. B. Sharpe, Cat. Birds, Vol. XII).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="251" y="1819"/>
+	<Point x="2161" y="1819"/>
+	<Point x="2161" y="2122"/>
+	<Point x="457" y="2125"/>
+	<Point x="251" y="2125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Fringillinœ, or true Finches, the type of which is our English Chaﬃnch,
+usually have a somewhat less powerful beak, with the angle of the chin slightly
+more deﬁned, but still very feebly shown; the mandibles almost terminating at
+the same point; the nasal bones not produced backwards beyond the front margin
+of the eye-socket.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="251" y="2129"/>
+	<Point x="2158" y="2129"/>
+	<Point x="2158" y="2619"/>
+	<Point x="251" y="2619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Emberizinœ, or Buntings, of which our Yellow Ammer may be considered
+typical, have a well-marked angle to the chin; the lower mandible terminating
+well within the upper one, and not completely closing in the centre of the cutting
+edge; the more typical Buntings also have a hard horny knob on the palate, and
+a compression of the lower mandible to meet it; they also walk when on the
+earth, and are largely insectivorous (in which respects they approach the Chaﬃnch
+and Brambling among the true Finches): many Buntings, however, are not walking
+birds.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="258" y="2625"/>
+	<Point x="2161" y="2625"/>
+	<Point x="2161" y="2761"/>
+	<Point x="258" y="2761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Fringillidœ are favourite cage-birds, chieﬂy on account of the ease with
+which their food can be provided.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="393" y="693"/>
+	<Point x="395" y="560"/>
+	<Point x="390" y="548"/>
+	<Point x="395" y="543"/>
+	<Point x="394" y="528"/>
+	<Point x="391" y="517"/>
+	<Point x="395" y="511"/>
+	<Point x="1396" y="506"/>
+	<Point x="2137" y="499"/>
+	<Point x="2145" y="1064"/>
+	<Point x="251" y="1064"/>
+	<Point x="251" y="693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HIS family consists of a number of hard-billed, largely seed-eating, birds.
+Howard Saunders only distinguishes these as Finches (Fringillinœ) and
+Buntings (Emberizinœ); but the Catalogue of Birds, of the British Museum,
+regards the Grosbeaks as constituting a third Subfamily (Coccothraustinœ). Seebohm
+agreed with Howard Saunders in uniting the latter Subfamily to the typical
+Finches; but, in my opinion, there is more diﬃculty in distinguishing between
+some of the foreign Buntings, and Grosbeaks, than between the latter and the true
+Finches. I would, in any case, rather err on the side of too much regard for
+structural diﬀerences, than on the opposite side.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="248" y="1070"/>
+	<Point x="2141" y="1070"/>
+	<Point x="2140" y="1551"/>
+	<Point x="972" y="1550"/>
+	<Point x="247" y="1552"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Fringillidœ have the tenth primary, which is often well-developed, con-
+cealed by a longer covert; it has thus escaped observation and been asserted to
+be non-existent; the bill is hard and conical, and is (to my mind) better described
+by the term “beak”; the Finches feed their young from the crop, regurgitating
+the food when partially digested: naturally during the breeding season, I believe
+all are more or less insectivorous, although seed forms their staple food: in
+conﬁnement, however, many of the Finches will live for many years upon seed
+alone.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="drop-capital">
+	<Coords>
+	<Point x="269" y="508"/>
+	<Point x="269" y="660"/>
+	<Point x="389" y="660"/>
+	<Point x="385" y="548"/>
+	<Point x="389" y="546"/>
+	<Point x="391" y="540"/>
+	<Point x="392" y="534"/>
+	<Point x="388" y="526"/>
+	<Point x="389" y="508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668999">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:12:08</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668999.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="24" y="287"/>
+	<Point x="1489" y="287"/>
+	<Point x="1480" y="878"/>
+	<Point x="1040" y="881"/>
+	<Point x="1035" y="885"/>
+	<Point x="26" y="885"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nous y avons constaté en même temps avec
+quelle légèreté il arrangeait ses ﬁgures quand
+ses modèles étaient mal conservés: celle-ci
+a presque entièrement perdu la physionomie
+du genre. M. Schneider a donc eu grande rai‐
+son de soupçonner que ce prétendu scomber
+edentulus est un zeus plutôt qu’un scombre.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="47" y="888"/>
+	<Point x="1037" y="887"/>
+	<Point x="1044" y="883"/>
+	<Point x="1477" y="882"/>
+	<Point x="1474" y="1308"/>
+	<Point x="1042" y="1310"/>
+	<Point x="60" y="1306"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. de Lacépède, adoptant l’assertion de
+Bloch et ne connaissant le poisson que d’après
+l’ichthyologiste de Berlin, en a fait son genre
+léiognathe, fondé sur l’absence prétendue des
+dents, et nomme l’espèce léiognathe argenté.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="62" y="1311"/>
+	<Point x="1036" y="1312"/>
+	<Point x="1481" y="1311"/>
+	<Point x="1483" y="1555"/>
+	<Point x="1289" y="1554"/>
+	<Point x="1110" y="1558"/>
+	<Point x="988" y="1558"/>
+	<Point x="864" y="1562"/>
+	<Point x="757" y="1562"/>
+	<Point x="63" y="1560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A Pondichéry on l’appelle kagi-karé et à
+Tranquebar, selon le missionnaire John, cité
+par Bloch, muntchi-karel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="62" y="1564"/>
+	<Point x="757" y="1565"/>
+	<Point x="994" y="1563"/>
+	<Point x="1285" y="1560"/>
+	<Point x="1479" y="1559"/>
+	<Point x="1470" y="2411"/>
+	<Point x="55" y="2411"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’espèce n’est pas du nombre de celles qui
+ont été connues de Russel. Assez souvent on la
+trouve à l’Isle-de-France, d’où M. Desjardins
+nous l’a envoyée récemment, et d’où M. Dus-
+sumier nous en a rapporté un grand et bel
+échantillon. Elle réunit tous les caractères que
+nous avons assignés au genre, et se distingue
+principalement par le second rayon épineux de
+sa dorsale et de son anale, qui est comprimé,
+large et courbé, de manière à représenter des</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="93" y="2578"/>
+	<Point x="1008" y="2578"/>
+	<Point x="1008" y="2684"/>
+	<Point x="93" y="2684"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Syst. posth. de Bloch, p. 36, n.° 41.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="483" y="194"/>
+	<Point x="1023" y="194"/>
+	<Point x="1023" y="272"/>
+	<Point x="483" y="272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1349" y="177"/>
+	<Point x="1464" y="177"/>
+	<Point x="1464" y="261"/>
+	<Point x="1349" y="261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>67</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="39" y="2469"/>
+	<Point x="39" y="2535"/>
+	<Point x="1482" y="2535"/>
+	<Point x="1482" y="2469"/></Coords></SeparatorRegion></Page></PcGts>

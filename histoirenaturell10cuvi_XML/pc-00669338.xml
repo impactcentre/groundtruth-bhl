@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669338">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:53:47</Created>
+	<LastChange>2012-03-12T14:33:56</LastChange></Metadata>
+	<Page imageFilename="00669338.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="332" y="310"/>
+	<Point x="1740" y="311"/>
+	<Point x="1740" y="439"/>
+	<Point x="1310" y="440"/>
+	<Point x="860" y="440"/>
+	<Point x="838" y="483"/>
+	<Point x="328" y="482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Annales du Muséum, p. 393, et le poisson y
+est gravé pl. 17.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="381" y="2604"/>
+	<Point x="1076" y="2604"/>
+	<Point x="1076" y="2677"/>
+	<Point x="381" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Tome IV, 2.e part., p. 196.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="328" y="200"/>
+	<Point x="495" y="200"/>
+	<Point x="495" y="288"/>
+	<Point x="328" y="288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>406</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="750" y="209"/>
+	<Point x="1347" y="209"/>
+	<Point x="1347" y="292"/>
+	<Point x="750" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="326" y="2542"/>
+	<Point x="326" y="2589"/>
+	<Point x="1742" y="2589"/>
+	<Point x="1742" y="2542"/></Coords></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1740" y="452"/>
+	<Point x="1740" y="796"/>
+	<Point x="1741" y="796"/>
+	<Point x="1741" y="1140"/>
+	<Point x="1742" y="1140"/>
+	<Point x="1742" y="1484"/>
+	<Point x="1743" y="1484"/>
+	<Point x="1743" y="1832"/>
+	<Point x="954" y="1832"/>
+	<Point x="312" y="1833"/>
+	<Point x="311" y="1733"/>
+	<Point x="312" y="1736"/>
+	<Point x="312" y="486"/>
+	<Point x="849" y="486"/>
+	<Point x="849" y="484"/>
+	<Point x="850" y="484"/>
+	<Point x="850" y="482"/>
+	<Point x="851" y="482"/>
+	<Point x="851" y="481"/>
+	<Point x="852" y="481"/>
+	<Point x="852" y="479"/>
+	<Point x="853" y="479"/>
+	<Point x="853" y="478"/>
+	<Point x="854" y="478"/>
+	<Point x="854" y="476"/>
+	<Point x="855" y="476"/>
+	<Point x="855" y="475"/>
+	<Point x="856" y="475"/>
+	<Point x="856" y="473"/>
+	<Point x="857" y="473"/>
+	<Point x="857" y="472"/>
+	<Point x="858" y="472"/>
+	<Point x="858" y="470"/>
+	<Point x="859" y="470"/>
+	<Point x="859" y="469"/>
+	<Point x="860" y="469"/>
+	<Point x="860" y="467"/>
+	<Point x="861" y="467"/>
+	<Point x="861" y="465"/>
+	<Point x="862" y="465"/>
+	<Point x="862" y="464"/>
+	<Point x="863" y="464"/>
+	<Point x="863" y="462"/>
+	<Point x="864" y="462"/>
+	<Point x="864" y="461"/>
+	<Point x="865" y="461"/>
+	<Point x="865" y="459"/>
+	<Point x="866" y="459"/>
+	<Point x="866" y="458"/>
+	<Point x="867" y="458"/>
+	<Point x="867" y="456"/>
+	<Point x="868" y="456"/>
+	<Point x="868" y="455"/>
+	<Point x="869" y="455"/>
+	<Point x="869" y="453"/>
+	<Point x="870" y="453"/>
+	<Point x="870" y="452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cependant cet individu manquait encore
+de la pointe aiguë de sa corne, et on n’a pu
+observer cette partie que sur un troisième,
+pris, il y a deux ans, en Sardaigne, dont
+M. Bonnelli, successeur de M. Giorna, a bien
+voulu nous communiquer une ﬁgure supérieu‑
+rement dessinée et colorée. C’est d’après ces
+trois documens que nous nous sommes occupés
+de nouveau de ce poisson, et que la descrip‑
+tion qui va suivre a été rédigée. Deux de ces
+échantillons sont, comme on voit, conservés
+à Turin, et nous en avons un au Muséum
+de Paris. Quelques paroles de Shaw m’avaient
+fait penser qu’il y en a un quatrième à Lon‑
+dres. Après avoir décrit le gymnètre de Russel,
+dont nous parlons p. 377, ce zoologiste ajoute1:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1745" y="1834"/>
+	<Point x="1744" y="2172"/>
+	<Point x="1745" y="2172"/>
+	<Point x="1745" y="2515"/>
+	<Point x="1746" y="2515"/>
+	<Point x="1746" y="2516"/>
+	<Point x="1745" y="2516"/>
+	<Point x="1745" y="2515"/>
+	<Point x="310" y="2515"/>
+	<Point x="310" y="2003"/>
+	<Point x="311" y="2003"/>
+	<Point x="309" y="1837"/>
+	<Point x="733" y="1837"/>
+	<Point x="1402" y="1834"/>
+	<Point x="1600" y="1833"/>
+	<Point x="1613" y="1833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>« Le Muséum britannique possède un échan‑
+tillon desséché d’un poisson qui paraît allié
+de près au précédent, mais qui n’est pas assez
+bien conservé pour que l’on puisse le décrire
+exactement. Son corps est beaucoup plus court
+à proportion; sa ligne latérale est très-dis‑
+tincte; toute sa couleur, excepté les nageoires
+et proéminences qui sont rouges, est un</Unicode></TextEquiv></TextRegion></Page></PcGts>

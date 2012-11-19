@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672166">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T00:09:12</Created>
+	<LastChange>2012-02-10T09:53:53</LastChange></Metadata>
+	<Page imageFilename="00672166.tif" imageWidth="2201" imageHeight="3129">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="326" y="1282"/>
+	<Point x="2037" y="1282"/>
+	<Point x="2037" y="1403"/>
+	<Point x="326" y="1403"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les opinions émises dans les Horae sont exclusivement propres à leurs
+auteurs. La Société n’entend aucunement en assumer la responsabilité.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="1036" y="1430"/>
+	<Point x="1963" y="1430"/>
+	<Point x="1963" y="1490"/>
+	<Point x="1036" y="1490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Protoc. de la séance du 1 Décembre 1869.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r3" type="stamp">
+	<Coords>
+	<Point x="923" y="1975"/>
+	<Point x="1185" y="1975"/>
+	<Point x="1185" y="2052"/>
+	<Point x="923" y="2052"/></Coords></GraphicRegion>
+	<GraphicRegion id="r4" type="stamp">
+	<Coords>
+	<Point x="1060" y="2062"/>
+	<Point x="1060" y="2123"/>
+	<Point x="1171" y="2123"/>
+	<Point x="1171" y="2062"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667849">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:05:56</Created>
+	<LastChange>2012-02-10T09:52:14</LastChange></Metadata>
+	<Page imageFilename="00667849.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="796" y="250"/>
+	<Point x="1395" y="250"/>
+	<Point x="1395" y="294"/>
+	<Point x="796" y="294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WOODCHAT SHRIKE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1972" y="265"/>
+	<Point x="2018" y="265"/>
+	<Point x="2018" y="304"/>
+	<Point x="1972" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>15</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="158" y="374"/>
+	<Point x="2022" y="374"/>
+	<Point x="2022" y="866"/>
+	<Point x="158" y="866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>the ﬁrst appearance of danger, it ﬂies oﬀ to another and more distant tree, and,
+taking up a similarly elevated position, scans the country round till the danger
+which had excited its alarm has passed away. It builds here in May and June,
+constructing a compact and well-formed nest in the fork of a carob or almond-tree.
+Its aﬀection for, and the courage it displays in the protection of, its young are
+remarkable. Wary as it is at other times, on these occasions it seems to lose all
+fear; uttering piercing cries, it will ﬂy close round the head of the intruder, and
+actually make a feint of dashing in his face.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="159" y="877"/>
+	<Point x="2016" y="877"/>
+	<Point x="2016" y="1427"/>
+	<Point x="159" y="1427"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Howard Saunders says:—“The note usually heard is a harsh krah, kack, krah;
+but the male has also a low and rather pretty song in spring, and shows great
+capacity for imitating the notes of other birds.” Seebohm observes:—“Its song
+is by no means unmusical, and very gentle to proceed from such raptorial jaws.*
+It reminded me very much of the twittering of a Swallow, or the warble of a
+Starling. Some of its call-notes, however, are loud and harsh enough; and I at
+ﬁrst thought it was imitating the notes of other birds, in order to attract them
+within reach; but inasmuch as the greater number of notes it apparently imitated
+were of birds far too powerful for it to grapple with, such cannot be the case.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="159" y="1436"/>
+	<Point x="2014" y="1436"/>
+	<Point x="2014" y="1552"/>
+	<Point x="159" y="1552"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dixon says that he “met with this species (in Algeria) in all parts of the
+country wherever the vegetation was suﬀicient to aﬀord it shelter.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="158" y="1564"/>
+	<Point x="2016" y="1564"/>
+	<Point x="2016" y="2117"/>
+	<Point x="158" y="2117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Herr Mathias Rausch says of the Woodchat Shrike, that in many regions it
+is somewhat rare, and it costs a good deal of trouble to obtain a good bird. “It sings
+louder than the Red-backed, or the Lesser Grey Shrike, has moreover a certain
+roughness in its voice, which somewhat detracts from its imitations, and thus
+prejudices their distinctness.” Possibly it was this which led Seebohm to think
+that the cries of this species were imitations of rapacious birds. The mimicry
+practised by the Woodchat must, however, be fairly good, inasmuch as it was
+noticed even in Bechstein’s time; as pointed out by the late Charles Witchell
+(Evolution of Bird song, p. 174).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="158" y="2126"/>
+	<Point x="2017" y="2126"/>
+	<Point x="2017" y="2609"/>
+	<Point x="158" y="2609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Herr Rausch considers that, as a cage bird, the Woodchat belongs to the
+second order of merit (Geﬁederte Welt, 1891, p. 499). Although rarer than the
+Red-backed Shrike, there is not the least doubt that its song is neither so pure
+nor so perfect in its imitative power; and, when one has to keep a species in a
+separate cage, on account of its domineering, spiteful, or even dangerous character,
+it is most satisfactory to get something in exchange for the extra trouble required
+to preserve it in health: therefore, if I already possessed Lanius collurio, I certainly
+should not covet its rarer relative.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="166" y="2675"/>
+	<Point x="2008" y="2675"/>
+	<Point x="2008" y="2751"/>
+	<Point x="166" y="2751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* In this respect it does not stand alone: the song of the S. American Blue-bearded Jay is almost as
+gentle as that of a Mannikin, whilst his cries are shrill, harsh, or gruﬀ.—A. G. B.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667852">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T06:36:17</Created>
+	<LastChange>2012-02-10T09:52:14</LastChange></Metadata>
+	<Page imageFilename="00667852.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="201" y="308"/>
+	<Point x="252" y="308"/>
+	<Point x="252" y="348"/>
+	<Point x="201" y="348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="930" y="297"/>
+	<Point x="1272" y="297"/>
+	<Point x="1272" y="342"/>
+	<Point x="930" y="342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WAXWING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="201" y="432"/>
+	<Point x="737" y="432"/>
+	<Point x="737" y="485"/>
+	<Point x="201" y="485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—AMPELIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="843" y="654"/>
+	<Point x="1384" y="654"/>
+	<Point x="1384" y="732"/>
+	<Point x="843" y="732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WAXWING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="840" y="821"/>
+	<Point x="1398" y="821"/>
+	<Point x="1398" y="884"/>
+	<Point x="840" y="884"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ampelis garrulus, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="319" y="1071"/>
+	<Point x="318" y="997"/>
+	<Point x="318" y="992"/>
+	<Point x="317" y="977"/>
+	<Point x="321" y="977"/>
+	<Point x="407" y="975"/>
+	<Point x="912" y="973"/>
+	<Point x="1496" y="973"/>
+	<Point x="2044" y="975"/>
+	<Point x="2045" y="1042"/>
+	<Point x="2043" y="1586"/>
+	<Point x="2040" y="1586"/>
+	<Point x="1579" y="1588"/>
+	<Point x="1559" y="1588"/>
+	<Point x="1258" y="1579"/>
+	<Point x="1155" y="1580"/>
+	<Point x="194" y="1578"/>
+	<Point x="195" y="1464"/>
+	<Point x="195" y="1392"/>
+	<Point x="196" y="1362"/>
+	<Point x="196" y="1302"/>
+	<Point x="198" y="1164"/>
+	<Point x="319" y="1161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N abundant though irregular winter visitor to our islands, the Waxwing, says
+Seebohm, “is almost a circumpolar bird, breeding in the pine regions of
+both hemispheres at or near the Arctic circle.” “Throughout Central
+Europe it is a tolerable regular winter visitor. It occurs accidently on Heligoland,
+and occasionally strays as far west as France, and as far south as Lombardy and
+Turkey, but has not yet been recorded from Spain or Greece. It winters in South
+Siberia, occasionally straying as far as Turkestan, Mongolia, North China, and the
+north island of Japan. In America its winter range extends as far south as Lakes
+Michigan and Erie; but it appears to be only an accidental straggler further east,
+and it is doubtful if it has ever occurred west of the Rocky Mountains.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="190" y="1601"/>
+	<Point x="2041" y="1601"/>
+	<Point x="2041" y="2079"/>
+	<Point x="190" y="2079"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Great Britain the Waxwing has been most frequently met with in the
+northern and eastern counties; Mr. Frohawk tells me that in the winter of 1867-8
+a ﬂock of seven visited a small plantation at Brisley, in Norfolk; but in England
+it has from time to time been observed in almost every county, whilst in Ireland
+it has been but rarely obtained, excepting towards the end of 1903 when a good
+many visited the island and twenty were shot; its visits to Scotland have been
+tolerably frequent, extending even to the islands of Skye, Orkney and Shetland,
+it has twice been recorded from the Outer Hebrides.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="190" y="2098"/>
+	<Point x="2038" y="2098"/>
+	<Point x="2038" y="2780"/>
+	<Point x="190" y="2780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The upper surface of the adult male Waxwing is pale rosy-brown, gradually
+changing to ash-grey on the rump aud upper tail-coverts, and into chestnut on the
+sides of the crest and forehead; a narrow frontal band, the lores, and a streak
+from the back of the eye black; wings and tail almost black, the wing-coverts, the
+inner webs of the primaries, and outer webs of the secondaries tipped with white,
+the latter tipped with wax-like vermilion points, the outside webs of the primaries
+tipped with yellow, joining the white tips of the inner webs so as to form V-like
+markings; tail feathers broadly tipped with yellow; under surface rosy-brown,
+shading into chestnut on the cheeks; a white streak at the base of the lower
+mandible; front of throat and chin black; centre of belly whitish; under tail-
+coverts chestnut; bill and feet black; iris hazel. The female is slightly duller,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="202" y="974"/>
+	<Point x="315" y="974"/>
+	<Point x="315" y="1107"/>
+	<Point x="202" y="1107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion></Page></PcGts>

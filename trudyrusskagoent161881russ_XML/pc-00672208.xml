@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672208">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T16:15:27</Created>
+	<LastChange>2012-02-10T09:54:02</LastChange></Metadata>
+	<Page imageFilename="00672208.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1035" y="138"/>
+	<Point x="1362" y="138"/>
+	<Point x="1362" y="214"/>
+	<Point x="1035" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 14 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="314" y="270"/>
+	<Point x="2082" y="270"/>
+	<Point x="2082" y="1034"/>
+	<Point x="314" y="1034"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>triangle long et irrégulier. On peut la nommer appendice de
+la pièce iliaque. Son bord antérieur se prolonge en membrane,
+qui unit le mésothorax au prothorax. Sur l’appendice, tout
+près de la région du premier stigmate thoracique, s’élève une
+lame assez grande, pédonculée, dure, cornée, noire ou plus
+foncée que les parties ambiantes, aﬀectant la forme quadrila‐
+tère et servant de tendon à un grand muscle de l’aile anté‐
+rieure (ﬁg. 9). Quelquefois cette lame appendiculaire est très
+étroite, par exemple chez l’Agrion najas (ﬁg. 12).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="312" y="1039"/>
+	<Point x="2092" y="1039"/>
+	<Point x="2092" y="2785"/>
+	<Point x="312" y="2785"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le sternum de l’insecte est occupé en grande partie par
+des trous de hanches, entre lesquels passe une longue proé‐
+minence en forme de crête. La partie médiane du sternum,
+limitée par des trous, est plate et assez large chez la larve;
+chez l’adulte au contraire cet interstice se retrécit de la ma‐
+nière suivante: la partie du sternum, située entre et au devant
+des hanches postérieures (jusqu’aux hanches moyennes), se plie
+longitudinalement et se dresse en haut en apophyse lamelleuse
+aﬀectant en proﬁl la forme de l’oeil humain. Or, par là change
+la position des trous des hanches postérieures, car l’axe de
+rotation de celles-ci au lieu de passer à travers l’insecte,
+tourne par son bout intérieur en avant. La crête indiquée
+est fournie en dessus de deux appendices en forme de rubans.
+L’un d’eux, le postérieur, se bifurque et se prolonge en deux
+tendons, qui se dirigent en haut et en dehors et se termi‐
+nent par des muscles ovales ou lancéolés. Ceux-ci s’attachent
+au premier segment de l’abdomen, nommément à son bord an‐
+térieur, par un tendon large et lamelleux (ﬁg. 3 r et ﬁg. 12 h).
+L’appendice antérieur de la crête médiane sternale se dirige
+vers l’aire rhomboïdale et s’y soude. A ce point la crête
+sternale s’interrompt (ﬁg. 11).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="333" y="2790"/>
+	<Point x="2087" y="2790"/>
+	<Point x="2087" y="3120"/>
+	<Point x="333" y="3120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A présent je reprends la matière de la lame supérieure
+des ailes. On a vu, que les nervures alaires se transforment
+à la base en dilatations discoïdales et se prolongent plus loin
+avec les téguments du dursum. Au côté intérieur de celui-ci</Unicode></TextEquiv></TextRegion></Page></PcGts>

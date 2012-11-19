@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668989">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:10:55</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668989.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="113" y="310"/>
+	<Point x="1471" y="313"/>
+	<Point x="1462" y="2055"/>
+	<Point x="114" y="2054"/>
+	<Point x="114" y="1783"/>
+	<Point x="115" y="1491"/>
+	<Point x="112" y="825"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sa longueur, soit à la pièce plate, soit au bord posté‐
+rieur du cubitus; sa pointe inférieure seule est libre
+et va s’attacher au bassin. Les os du bassin sont deux
+pièces triangulaires placées verticalement entre les
+bords inférieurs des cubitaux. Le scapulaire est petit
+et en triangle, le surscapulaire est complètement
+fourchu ou divisé en deux branches qui forment
+un angle aigu. Le nombre des vertèbres est de qua‐
+rante-trois dont vingt appartiennent à l’abdomen.
+Les premières côtes sont grêles et courtes; elles
+s’alongent et se renfoncent par degré; les sept ou
+huit dernières se soudent par le bas avec les pre‐
+miers interépineux, qui eux-mêmes sont très-unis
+ensemble, et ce qui est encore plus remarquable, les
+trois ou quatre dernières côtes sont unies entre elles
+sur leur longueur. La dernière vertèbre caudale en
+éventail, comme à l’ordinaire, a de chaque côté,
+un peu au-dessus du milieu de sa hauteur, une crête
+saillante longitudinale. Les apophyses épineuses mon‐
+tantes et descendantes ont une hauteur proportionnée
+à celle du corps; le canal inférieur des vertèbres cau‐
+dales est fort étroit; les premiers interosseux de la
+dorsale prennent un très-grand développement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="54" y="2063"/>
+	<Point x="1463" y="2063"/>
+	<Point x="1463" y="2563"/>
+	<Point x="54" y="2563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le cabinet du Roi possède un petit lampris
+qui a été pris dans le golfe de Gascogne en
+1810, à l’embouchure de la Gironde, et qui
+a été envoyé à M. de Lacépède pour le Mu‐
+séum d’histoire naturelle, par M. Lynch, pair
+de France et alors maire de Bordeaux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="185" y="2595"/>
+	<Point x="1472" y="2595"/>
+	<Point x="1472" y="2680"/>
+	<Point x="185" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La forme du corps, les diverses proportions, la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1360" y="208"/>
+	<Point x="1456" y="208"/>
+	<Point x="1456" y="277"/>
+	<Point x="1360" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>57</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="486" y="228"/>
+	<Point x="1025" y="228"/>
+	<Point x="1025" y="283"/>
+	<Point x="486" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. LAMPRIS.</Unicode></TextEquiv></TextRegion></Page></PcGts>

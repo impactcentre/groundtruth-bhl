@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669064">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T15:50:24</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669064.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r15" index="0"/>
+	<RegionRefIndexed regionRef="r21" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r35" index="4"/>
+	<RegionRefIndexed regionRef="r29" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="340" y="537"/>
+	<Point x="1753" y="537"/>
+	<Point x="1753" y="729"/>
+	<Point x="340" y="729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une autre espèce, venue aussi de l’île Bou-
+rou, portera le nom de cerclé,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="405" y="736"/>
+	<Point x="1768" y="736"/>
+	<Point x="1778" y="2307"/>
+	<Point x="1260" y="2301"/>
+	<Point x="604" y="2304"/>
+	<Point x="519" y="2320"/>
+	<Point x="405" y="2320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>parce que sur un fond qui dans la liqueur paraît
+gris pâle ou brunâtre, elle porte un grand nombre
+de bandes étroites, bleuâtres, lisérées à leurs bords
+de brun, et qui descendent verticalement depuis le
+dos jusque vers le ventre, où elles se perdent dans
+un fond d’un blanc argenté; il y en a une trentaine
+depuis l’ouïe jusque sous le milieu de la partie
+molle de la dorsale, où elles se contournent et ﬁnis‐
+sent par en donner deux ou trois qui marchent
+longitudinalement jusqu’à la caudale; le long de la
+dorsale elles forment aussi un peu le labyrinthe;
+sur le chanfrein elles sont transversales; sur la joue
+et au-dessous de la pectorale elles descendent obli‐
+quement en avant; sur l’opercule elles sont transver‐
+sales ou forment de petites îles. A l’état frais le fond
+de la couleur est orange, tirant au jaunâtre sur la
+queue et au violâtre vers le dos. Le crâne de cette
+espèce paraît lisse, et il n’est presque pas bombé entre
+les yeux. L’opercule, le limbe du préopercule et
+l’huméral au-dessus de la pectorale sont striés. Les
+épines sont très-fortes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="348" y="153"/>
+	<Point x="477" y="153"/>
+	<Point x="477" y="222"/>
+	<Point x="348" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>132</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="789" y="153"/>
+	<Point x="1305" y="153"/>
+	<Point x="1305" y="222"/>
+	<Point x="789" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="597" y="313"/>
+	<Point x="1485" y="313"/>
+	<Point x="1485" y="383"/>
+	<Point x="597" y="383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'AMPHACANTHE CERCLÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="597" y="419"/>
+	<Point x="1485" y="419"/>
+	<Point x="1485" y="510"/>
+	<Point x="597" y="510"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus doliatus, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="419" y="2388"/>
+	<Point x="1771" y="2388"/>
+	<Point x="1771" y="2623"/>
+	<Point x="419" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les proportions sont un peu moins hautes que
+dans l’amphacanthe javanais: on compte deux fois
+et deux tiers la hauteur du corps dans sa longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="854" y="2314"/>
+	<Point x="1372" y="2314"/>
+	<Point x="1372" y="2379"/>
+	<Point x="854" y="2379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/10; A. 7/9, etc.</Unicode></TextEquiv></TextRegion></Page></PcGts>

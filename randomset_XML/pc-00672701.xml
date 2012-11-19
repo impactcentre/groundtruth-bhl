@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672701">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:31:50</Created>
+	<LastChange>2012-02-10T10:29:44</LastChange></Metadata>
+	<Page imageFilename="00672701.tif" imageWidth="2070" imageHeight="3470">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="377" y="260"/>
+	<Point x="1472" y="260"/>
+	<Point x="1472" y="321"/>
+	<Point x="377" y="321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SHUFELDT: OSTEOLOGY OF THE HERODIONES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1640" y="261"/>
+	<Point x="1735" y="261"/>
+	<Point x="1735" y="315"/>
+	<Point x="1640" y="315"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>197</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="108" y="377"/>
+	<Point x="1748" y="377"/>
+	<Point x="1748" y="862"/>
+	<Point x="108" y="862"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ably several others, this compound bone. Very faint traces of another
+such a process may be seen marking its side farther back, and above
+it the barest hint of the centrum of the corresponding vertebra. For
+the rest, the pygostyle is an irregular, quadrilateral plate, less than a
+centimeter deep, and a little more than one long, measured on its
+longest diameter. It has a round, thickened posterior margin, and its
+upper and lower edges are sharpened. A pit marks the ﬂat anterior</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords>
+	<Point x="15" y="918"/>
+	<Point x="1847" y="918"/>
+	<Point x="1847" y="1452"/>
+	<Point x="15" y="1452"/></Coords></ImageRegion>
+	<TextRegion id="r5" type="caption">
+	<Coords>
+	<Point x="114" y="1475"/>
+	<Point x="1752" y="1475"/>
+	<Point x="1752" y="1600"/>
+	<Point x="114" y="1600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIG. 29. Superior view of the skull of Nycticorax violaceus, juv. Natural size, and
+the same specimen as shown in Fig. 30. Drawn by the author.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="108" y="1645"/>
+	<Point x="1754" y="1645"/>
+	<Point x="1754" y="1922"/>
+	<Point x="108" y="1922"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>surface, which continues for a short distance into the substance of the
+bone, the neural canal of the caudal vertebræ. Other Herons have
+the pygostyle rather diﬀerently fashioned from this, though in each
+instance the leading features are present.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r7">
+	<Coords>
+	<Point x="95" y="1967"/>
+	<Point x="1778" y="1967"/>
+	<Point x="1778" y="2485"/>
+	<Point x="95" y="2485"/></Coords></ImageRegion>
+	<TextRegion id="r8" type="caption">
+	<Coords>
+	<Point x="120" y="2507"/>
+	<Point x="1760" y="2507"/>
+	<Point x="1760" y="2632"/>
+	<Point x="120" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 30. Superior view of the mandible of Nycticorax violaceus. Drawn by the
+author, natural size from the specimen. From the same skeleton as Figs. 28 and 29.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="112" y="2661"/>
+	<Point x="1757" y="2661"/>
+	<Point x="1757" y="3014"/>
+	<Point x="112" y="3014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Of the Appendicular Skeleton. The Pectoral Limb: Ardea herodias
+has a highly pneumatic humerus, which in the well prepared skeleton
+is a snowy-white, and for its size a wonderfully light bone. The
+pneumatic aperture is of small dimensions, it being a sub-elliptical
+opening at the usual site for this oriﬁce in birds. It diﬀers some-</Unicode></TextEquiv></TextRegion></Page></PcGts>

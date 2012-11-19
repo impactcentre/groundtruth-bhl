@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669184">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T19:05:06</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669184.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="404" y="299"/>
+	<Point x="1758" y="299"/>
+	<Point x="1758" y="1491"/>
+	<Point x="404" y="1491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>proﬁl, légèrement convexe à la nuque seulement,
+descend aussitôt par une ligne droite, qui devient
+insensiblement concave à compter de la hauteur de
+l’œil, ce qui donne aussi à son museau une forme
+de groin. Ses dents sont pointues, les supérieures
+ont onze crénelures, les inférieures cinq; il y a quel‐
+ques stries au scapulaire et à l’huméral; la tête et
+tout le corps ne sont couverts, au lieu d’écailles,
+que de très-petits grains serrés, qui font sentir aux
+doigts une légère âpreté. La ligne latérale est assez
+large, plate, parallèle à la ligne du dos et au sixième
+de la hauteur; la lame latérale de la queue est mé‐
+diocre. La caudale est presque coupée carrément; la
+dorsale, en arc de cercle, aurait, si elle se relevait
+entièrement, les trois quarts de la hauteur du corps,
+et l’anale en aurait la moitié.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="412" y="1495"/>
+	<Point x="1753" y="1494"/>
+	<Point x="1753" y="1654"/>
+	<Point x="413" y="1654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est une des espèces qui ont le moins d’épines
+dorsales, quatre seulement et vingt-huit rayons mous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="618" y="1665"/>
+	<Point x="1519" y="1665"/>
+	<Point x="1519" y="1740"/>
+	<Point x="618" y="1740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 4/28; A. 3/23; C. 16; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="396" y="1753"/>
+	<Point x="1139" y="1753"/>
+	<Point x="1139" y="1836"/>
+	<Point x="396" y="1836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ventrales sont pointues.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="394" y="1841"/>
+	<Point x="932" y="1839"/>
+	<Point x="1160" y="1840"/>
+	<Point x="1760" y="1836"/>
+	<Point x="1757" y="2668"/>
+	<Point x="395" y="2668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le fond de la couleur est un brun pourpre; de pe‐
+tites gouttes rondes, d’un blanc bleuâtre, sont assez
+serrées sur la tête et sur la poitrine; elles deviennent
+plus grandes et moins nombreuses derrière la pec‐
+torale et sur le ventre. Des lignes verticales blan‐
+châtres, au nombre de douze ou quinze, descendent
+du dos et se perdent sur les ﬂancs; le brun est plus
+ou moins clair entre quelques-unes de ces lignes, et
+de manière à former trois, quatre ou cinq bandes
+verticales, dont une oculaire et une humérale sont les
+plus marquées. Les trois nageoires verticales sont</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="347" y="194"/>
+	<Point x="486" y="194"/>
+	<Point x="486" y="273"/>
+	<Point x="347" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>252</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="786" y="193"/>
+	<Point x="1300" y="193"/>
+	<Point x="1300" y="273"/>
+	<Point x="786" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668119">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T06:34:07</Created>
+	<LastChange>2012-02-10T09:52:38</LastChange></Metadata>
+	<Page imageFilename="00668119.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="172" y="280"/>
+	<Point x="1993" y="280"/>
+	<Point x="1993" y="2761"/>
+	<Point x="172" y="2761"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="2092" y="1323"/>
+	<Point x="2157" y="1323"/>
+	<Point x="2157" y="1661"/>
+	<Point x="2092" y="1661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHOUGH � �.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="2171" y="1402"/>
+	<Point x="2171" y="1581"/>
+	<Point x="2216" y="1581"/>
+	<Point x="2216" y="1402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 94.</Unicode></TextEquiv></TextRegion></Page></PcGts>

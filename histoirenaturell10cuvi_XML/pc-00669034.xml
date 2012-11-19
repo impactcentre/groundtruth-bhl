@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669034">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:46:37</Created>
+	<LastChange>2012-02-09T16:27:29</LastChange></Metadata>
+	<Page imageFilename="00669034.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="320" y="144"/>
+	<Point x="452" y="144"/>
+	<Point x="452" y="214"/>
+	<Point x="320" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>102</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="697" y="152"/>
+	<Point x="1354" y="152"/>
+	<Point x="1354" y="221"/>
+	<Point x="697" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="350" y="316"/>
+	<Point x="1688" y="316"/>
+	<Point x="1688" y="398"/>
+	<Point x="350" y="398"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'EQUULA A LIGNE LATÉRALE INTERROMPUE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="642" y="438"/>
+	<Point x="1393" y="438"/>
+	<Point x="1393" y="524"/>
+	<Point x="642" y="524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula interrupta, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="298" y="548"/>
+	<Point x="1730" y="548"/>
+	<Point x="1730" y="1070"/>
+	<Point x="298" y="1070"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons reçu de M. Leschenault, sous
+ce même nom d’olé-karé, un poisson très-
+semblable au précédent, même pour les cou‐
+leurs, mais qui nous paraît s’en distinguer par
+deux caractères assez prononcés pour qu’on
+puisse les juger spéciﬁques.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="360" y="1080"/>
+	<Point x="1736" y="1080"/>
+	<Point x="1736" y="1526"/>
+	<Point x="360" y="1526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le premier, que son corps est plus élevé (sa
+hauteur n’est que deux fois dans sa longueur); le
+second, que sa ligne latérale, formée de petites
+écailles ovales, qui la rendent très-marquée, cesse
+subitement un peu avant le milieu de la longueur
+du dos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="350" y="1533"/>
+	<Point x="1730" y="1533"/>
+	<Point x="1730" y="1846"/>
+	<Point x="350" y="1846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les taches de nos individus sont presque toutes
+réunies en bandes; le fond argenté de leurs ﬂancs
+et de leur ventre est du plus bel éclat. Leurs nageoires
+paraissent jaunes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="293" y="1857"/>
+	<Point x="1718" y="1857"/>
+	<Point x="1718" y="2369"/>
+	<Point x="293" y="2369"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces individus sont très-petits et n’ont pas
+tout-à-fait deux pouces et demi de longueur.
+M. Leschenault dit bien que l’espèce atteint
+à quatre pouces, mais son assertion ne se
+rapporte peut-être qu’à l’espèce précédente,
+qu’il n’a pas distinguée de celle-ci.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="377" y="2372"/>
+	<Point x="1713" y="2372"/>
+	<Point x="1713" y="2456"/>
+	<Point x="377" y="2456"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Selon M. Buchanan1, le zeus insidiator se</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="360" y="2537"/>
+	<Point x="1201" y="2537"/>
+	<Point x="1201" y="2610"/>
+	<Point x="360" y="2610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Buchan., Poiss. du Gange, p. 106.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="308" y="2477"/>
+	<Point x="308" y="2517"/>
+	<Point x="1713" y="2517"/>
+	<Point x="1713" y="2477"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672699">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T06:01:42</Created>
+	<LastChange>2012-02-10T10:29:44</LastChange></Metadata>
+	<Page imageFilename="00672699.tif" imageWidth="2158" imageHeight="3522">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="292" y="185"/>
+	<Point x="351" y="185"/>
+	<Point x="351" y="248"/>
+	<Point x="292" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ii</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="751" y="187"/>
+	<Point x="1596" y="187"/>
+	<Point x="1596" y="244"/>
+	<Point x="751" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BIBLIOGRAPHICAL PREFACE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="288" y="307"/>
+	<Point x="2053" y="307"/>
+	<Point x="2053" y="1331"/>
+	<Point x="288" y="1331"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>won, and a quiet chat enjoyed with the Master and his
+Scholar under a wide tree shedding oﬀ the rain; or by
+the ﬁre of the wayside Inn, while the hostess, “clean,
+handsome, and civil,” is taking out “sheets smelling of
+lavender,” for our beds, in a room that has “more than
+twenty ballads stuck against the wall;” or within the little
+shrine, Sacrum Piscatoribus, built by Cotton for his father,
+and “all true men who love quiet and go an angling.” I
+trust that I have drunk enough of the old angler's spirit
+not to let such pastime break in upon better things; but,
+on the other hand, I have worked the harder from thank-
+fulness to HIM who taught the brook to wind with musical
+gurglings, as it rolls on to the Great Sea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="301" y="1335"/>
+	<Point x="2059" y="1333"/>
+	<Point x="2056" y="3139"/>
+	<Point x="301" y="3139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It has been my wont at such times, to note down what I
+happened to ﬁnd, giving greater zest to father Walton's
+quaint homilies, not in any hope that others would think it
+worth while to share my gatherings, but rather for my
+better memory and coming delight. The good publishers
+of this darling book, hearing of my little store, have asked
+me to put it at their disposal for your use, kind reader; and,
+as I count (with honest Shirley in his Angler's Magazine)
+“that a person has a mean soul, that could die without
+disclosing anything he knows, that he might beneﬁt or
+please his fellow-creatures,” I have done as they wished.
+The whole work has been gone over; the several editions
+collated, some notes chosen from the various editors, and, as
+you will see, more added by myself. Of how much worth
+these last are, you shall judge; but you can never know
+what happy hours I have spent in preparing them, or how
+truly I wish they may be to your liking. A good and
+pious friend of mine (how good and pious I dare not say,
+for he will surely read what I write, and I would spare
+him a blush even at his own true praise) has told me that it
+was reading this book, which awakened the love of God
+in his heart; nor may we wonder, that such meek-hearted,
+cheerful strains of godly contentment should have been</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="307" y="266"/>
+	<Point x="2051" y="266"/>
+	<Point x="2051" y="294"/>
+	<Point x="307" y="294"/></Coords></SeparatorRegion></Page></PcGts>

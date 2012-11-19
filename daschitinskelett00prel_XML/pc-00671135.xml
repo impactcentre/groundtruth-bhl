@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671135">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T15:53:19</Created>
+	<LastChange>2012-03-12T14:34:06</LastChange></Metadata>
+	<Page imageFilename="00671135.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="162" y="129"/>
+	<Point x="441" y="129"/>
+	<Point x="441" y="202"/>
+	<Point x="162" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PRESSBOARD
+PAMPHLET BINDER</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="194" y="252"/>
+	<Point x="405" y="252"/>
+	<Point x="405" y="283"/>
+	<Point x="194" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Manufactured by</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="158" y="287"/>
+	<Point x="447" y="287"/>
+	<Point x="447" y="316"/>
+	<Point x="158" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GAYLORD BROS. Inc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="203" y="320"/>
+	<Point x="401" y="320"/>
+	<Point x="401" y="383"/>
+	<Point x="203" y="383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Syracuse, N. Y.
+Stockton, Calif.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="274" y="208"/>
+	<Point x="337" y="208"/>
+	<Point x="337" y="236"/>
+	<Point x="274" y="236"/></Coords></SeparatorRegion></Page></PcGts>

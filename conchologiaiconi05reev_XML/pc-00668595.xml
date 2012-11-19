@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668595">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:35:55</Created>
+	<LastChange>2012-02-10T10:29:24</LastChange></Metadata>
+	<Page imageFilename="00668595.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r10" index="6"/>
+	<RegionRefIndexed regionRef="r11" index="7"/>
+	<RegionRefIndexed regionRef="r33" index="8"/>
+	<RegionRefIndexed regionRef="r40" index="9"/>
+	<RegionRefIndexed regionRef="r42" index="10"/>
+	<RegionRefIndexed regionRef="r44" index="11"/>
+	<RegionRefIndexed regionRef="r46" index="12"/>
+	<RegionRefIndexed regionRef="r14" index="13"/>
+	<RegionRefIndexed regionRef="r15" index="14"/>
+	<RegionRefIndexed regionRef="r16" index="15"/>
+	<RegionRefIndexed regionRef="r17" index="16"/>
+	<RegionRefIndexed regionRef="r18" index="17"/>
+	<RegionRefIndexed regionRef="r48" index="18"/>
+	<RegionRefIndexed regionRef="r50" index="19"/>
+	<RegionRefIndexed regionRef="r20" index="20"/>
+	<RegionRefIndexed regionRef="r52" index="21"/>
+	<RegionRefIndexed regionRef="r66" index="22"/>
+	<RegionRefIndexed regionRef="r74" index="23"/>
+	<RegionRefIndexed regionRef="r56" index="24"/>
+	<RegionRefIndexed regionRef="r58" index="25"/>
+	<RegionRefIndexed regionRef="r23" index="26"/>
+	<RegionRefIndexed regionRef="r24" index="27"/>
+	<RegionRefIndexed regionRef="r25" index="28"/>
+	<RegionRefIndexed regionRef="r28" index="29"/>
+	<RegionRefIndexed regionRef="r29" index="30"/>
+	<RegionRefIndexed regionRef="r30" index="31"/>
+	<RegionRefIndexed regionRef="r31" index="32"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1018" y="232"/>
+	<Point x="1451" y="232"/>
+	<Point x="1451" y="309"/>
+	<Point x="1018" y="309"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1084" y="347"/>
+	<Point x="1384" y="347"/>
+	<Point x="1384" y="397"/>
+	<Point x="1084" y="397"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE LXXXIIl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="505" y="434"/>
+	<Point x="1009" y="434"/>
+	<Point x="1009" y="494"/>
+	<Point x="505" y="494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 610. (Mus. Hamilton.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="302" y="510"/>
+	<Point x="1211" y="510"/>
+	<Point x="1211" y="750"/>
+	<Point x="302" y="750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS HAMILTONI. Bul. testâ acuminato-turritâ, um‐
+bilicatâ, spirœ suturis profundè impressis, anfractibus
+septem ad octo, subrotundatis, rudè plicato-striatis,
+aperturâ parvâ, columellâ labroque simplicibus; sor-
+didè albâ, apice rubro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="306" y="753"/>
+	<Point x="1210" y="753"/>
+	<Point x="1210" y="989"/>
+	<Point x="306" y="989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HAMILTON’S BULIMUS. Shell acuminately turreted, umbi-
+licated, sutures of the spire deeply impressed, whorls
+seven to eight in number, somewhat rounded, rudely
+plicately striated, aperture small, lip and columella
+simple; dead white, apex red.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="304" y="992"/>
+	<Point x="951" y="992"/>
+	<Point x="951" y="1035"/>
+	<Point x="304" y="1035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Near the Lake of Titicaca, Bolivia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="503" y="1343"/>
+	<Point x="1006" y="1343"/>
+	<Point x="1006" y="1396"/>
+	<Point x="503" y="1396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 611. (Mus. Hamilton.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="293" y="2057"/>
+	<Point x="1203" y="2057"/>
+	<Point x="1203" y="2163"/>
+	<Point x="293" y="2163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The ﬁrst three species of this plate are somewhat en‐
+larged.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="506" y="2248"/>
+	<Point x="984" y="2248"/>
+	<Point x="984" y="2304"/>
+	<Point x="506" y="2304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 612. (Mus. Belcher.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="292" y="2314"/>
+	<Point x="1199" y="2314"/>
+	<Point x="1199" y="2553"/>
+	<Point x="292" y="2556"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS GREGARIUS. Bul. testâ cylindraceo-turritâ, com-
+pressè umbilicatâ, anfractibus octo, obliquè impresso-
+striatis, suturis impressis, columellâ verticaliter dila‐
+tatâ, aperturâ parvâ, subquadrato-ovatâ, labro sub-
+reﬂexo; pellucido-corneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="291" y="2560"/>
+	<Point x="1195" y="2556"/>
+	<Point x="1195" y="2652"/>
+	<Point x="290" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ORDINARY BULIMUS. Shell cylindrically turreted,
+compressly umbilicated, whorls eight in number, ob‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1322" y="440"/>
+	<Point x="2149" y="440"/>
+	<Point x="2149" y="632"/>
+	<Point x="1322" y="632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>liquely impressly striated, sutures impressed, colu
+mella vertically dilated, aperture small, somewhat
+squarely ovate, lip a little reﬂected; transparent
+horny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1249" y="739"/>
+	<Point x="2151" y="739"/>
+	<Point x="2151" y="841"/>
+	<Point x="1249" y="841"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The oblique striæ are extremely superﬁcial, and the
+shell is of a very thin horny substance.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1249" y="1517"/>
+	<Point x="2154" y="1517"/>
+	<Point x="2154" y="1758"/>
+	<Point x="1249" y="1758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PENTLAND’S BULIMUS. Shell acuminately ovate, rather
+inﬂated at the base, scarcely umbilicated, whorls six
+in number, irregularly rudely striated, columella re‐
+ﬂected, aperture orbicularly ovate, lip simple; dull
+olive, covered with an epidermis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1245" y="1760"/>
+	<Point x="1886" y="1760"/>
+	<Point x="1886" y="1804"/>
+	<Point x="1245" y="1804"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Near the Lake of Titicaca, Bolivia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="heading">
+	<Coords>
+	<Point x="1468" y="2054"/>
+	<Point x="1917" y="2054"/>
+	<Point x="1917" y="2105"/>
+	<Point x="1468" y="2105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 615. (Mus. Taylor.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1244" y="2114"/>
+	<Point x="2144" y="2114"/>
+	<Point x="2144" y="2400"/>
+	<Point x="1244" y="2400"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS FUCATUS. Bul. testâ acuminato-ovatâ, basi
+subobliquè eﬀusâ, vix umbilicatâ, anfractibus sex, ob‐
+scurè striatis, ad suturas subcremlatis, columellâ re‐
+ﬂexâ, aperturâ ovatâ, labro eﬀuso, vix reﬂexo; fusces-
+cente, cœruleo-nigricante, subobscurè strigato-tinctâ,
+columellâ labroque pallidè roseis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1241" y="2403"/>
+	<Point x="2141" y="2403"/>
+	<Point x="2141" y="2646"/>
+	<Point x="1241" y="2646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE DYED BULIMUS. Shell acuminately ovate, rather
+obliquely eﬀused at the base, scarcely umbilicated,
+whorls six in number, obscurely striated, slightly
+crenulated at the sutures, columella reﬂected, aper‐
+ture ovate, lip eﬀused, scarcely reﬂected; light brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1086" y="2676"/>
+	<Point x="1356" y="2676"/>
+	<Point x="1356" y="2722"/>
+	<Point x="1086" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>December. 1849.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="299" y="1050"/>
+	<Point x="1211" y="1050"/>
+	<Point x="1211" y="1248"/>
+	<Point x="299" y="1248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This interesting little species was collected by Mr.
+Pentland on the mountains in the environs of the Lake of
+Titicaca, which is 14,000 feet above the level of the sea.
+It may be distinguished by its characteristic red apex.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="297" y="1417"/>
+	<Point x="1207" y="1417"/>
+	<Point x="1207" y="1661"/>
+	<Point x="297" y="1661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS GIBBER. Bul. testâ oblongo-turritâ, sinistrali,
+compressè umbilicatâ, anfractibus septem ad octo, con-
+vexiusculis, rugoso-striatis, ad suturas subtiliter mar-
+ginatis, columellâ dilatatâ, aperturâ parvâ, labro pau-
+lulum reﬂexo; lacteâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="296" y="1663"/>
+	<Point x="1207" y="1663"/>
+	<Point x="1207" y="1900"/>
+	<Point x="296" y="1900"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GIBBOUS BULIMUS. Shell oblong-turreted, sinistral,
+compressly umbilicated, whorls seven to eight in
+number, slightly convex, roughly striated, ﬁnely mar‐
+gined at the sutures, columella dilated, aperture
+small, lip a little reﬂected; cream-colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="292" y="1902"/>
+	<Point x="1119" y="1902"/>
+	<Point x="1119" y="1947"/>
+	<Point x="292" y="1947"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>KRYNICKI, Bull. Moscow, vol. vi. p. 416. pl. 3. f. 6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="368" y="1951"/>
+	<Point x="796" y="1951"/>
+	<Point x="796" y="1995"/>
+	<Point x="368" y="1995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus revolutus. Ziegler.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="297" y="1999"/>
+	<Point x="687" y="1999"/>
+	<Point x="687" y="2047"/>
+	<Point x="297" y="2047"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. European Tartary.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1251" y="636"/>
+	<Point x="2122" y="636"/>
+	<Point x="2122" y="682"/>
+	<Point x="1251" y="682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ADAMS and REEVE, Moll. Voy. Samarang, pl. xiii. f. 12.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="1248" y="684"/>
+	<Point x="1634" y="684"/>
+	<Point x="1634" y="727"/>
+	<Point x="1248" y="727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Sarawak, Borneo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="heading">
+	<Coords>
+	<Point x="1475" y="917"/>
+	<Point x="1926" y="917"/>
+	<Point x="1926" y="969"/>
+	<Point x="1475" y="969"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 613. (Mus. Hamilton.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="heading">
+	<Coords>
+	<Point x="1446" y="1211"/>
+	<Point x="1950" y="1211"/>
+	<Point x="1950" y="1267"/>
+	<Point x="1446" y="1267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 614. (Mus. Hamilton.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="1251" y="1273"/>
+	<Point x="2156" y="1273"/>
+	<Point x="2156" y="1513"/>
+	<Point x="1251" y="1513"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS PENTLANDI. Bul. testâ acuminato-ovatâ, basi
+subinﬂatâ, vix umbilicatâ, anfractibus sex, irregulariter
+rudè striatis, columellâ reﬂexâ, aperturâ orbiculari‐
+ovatâ, labro simplici; sordidè olivaceâ, epidermide
+indutâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1243" y="1818"/>
+	<Point x="2148" y="1818"/>
+	<Point x="2148" y="1965"/>
+	<Point x="1243" y="1965"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This and the B. rubricatus were the only species found
+by Mr. Pentland on the mountains in the vicinity of the
+Lake of Titicaca, at the same lofty elevation.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r59">
+	<Coords>
+	<Point x="520" y="1285"/>
+	<Point x="520" y="1312"/>
+	<Point x="1007" y="1312"/>
+	<Point x="1007" y="1285"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r60">
+	<Coords>
+	<Point x="524" y="2192"/>
+	<Point x="524" y="2221"/>
+	<Point x="975" y="2221"/>
+	<Point x="975" y="2192"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r61">
+	<Coords>
+	<Point x="1220" y="454"/>
+	<Point x="1208" y="2645"/>
+	<Point x="1228" y="2647"/>
+	<Point x="1240" y="454"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r62">
+	<Coords>
+	<Point x="1525" y="865"/>
+	<Point x="1525" y="894"/>
+	<Point x="1923" y="894"/>
+	<Point x="1923" y="865"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r63">
+	<Coords>
+	<Point x="1469" y="1156"/>
+	<Point x="1469" y="1188"/>
+	<Point x="1917" y="1188"/>
+	<Point x="1917" y="1156"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r64">
+	<Coords>
+	<Point x="1453" y="1993"/>
+	<Point x="1453" y="2024"/>
+	<Point x="1920" y="2024"/>
+	<Point x="1920" y="1993"/></Coords></SeparatorRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords>
+	<Point x="2151" y="976"/>
+	<Point x="2151" y="1079"/>
+	<Point x="1248" y="1079"/>
+	<Point x="1248" y="976"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This interesting shell, with a delicate purple-coloured
+aperture, proves to be a variety of B. strigatus, Sp. 280.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r74" type="paragraph">
+	<Coords>
+	<Point x="1762" y="1082"/>
+	<Point x="1762" y="1130"/>
+	<Point x="1292" y="1130"/>
+	<Point x="1292" y="1083"/>
+	<Point x="1700" y="1083"/>
+	<Point x="1700" y="1082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>For Sp. 613, see Pl. LXXXV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

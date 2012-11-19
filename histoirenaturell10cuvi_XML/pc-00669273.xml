@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669273">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:16:02</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669273.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r23" index="3"/>
+	<RegionRefIndexed regionRef="r33" index="4"/>
+	<RegionRefIndexed regionRef="r39" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="70" y="234"/>
+	<Point x="1490" y="234"/>
+	<Point x="1491" y="415"/>
+	<Point x="888" y="415"/>
+	<Point x="72" y="412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vidus trop mutilés, pour qu’il y ait certitude
+absolue dans cette interprétation.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="71" y="418"/>
+	<Point x="1508" y="418"/>
+	<Point x="1507" y="1031"/>
+	<Point x="64" y="1031"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il n’est pas facile non plus de dire si c’est cette
+espèce ou la suivante que Gouan a eu sous les
+yeux, en ﬁxant les caractères de son genre tra-
+chyptère, attendu qu’il n’y donne aucun détail
+spéciﬁque, et que la description plus ample,
+qu’il promettait de publier dans les Mémoires de
+la société royale de Montpellier, n’a jamais paru.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="44" y="2297"/>
+	<Point x="1487" y="2297"/>
+	<Point x="1487" y="2657"/>
+	<Point x="44" y="2657"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons deux individus de cette espèce:
+l’un de Messine, par M. Biberon, long de
+près de trois pieds; l’autre, de Corse, par
+M. Peraudeau, n’a que deux pieds seulement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="443" y="142"/>
+	<Point x="1084" y="142"/>
+	<Point x="1084" y="223"/>
+	<Point x="443" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÉRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1336" y="142"/>
+	<Point x="1482" y="142"/>
+	<Point x="1482" y="223"/>
+	<Point x="1336" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>341</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="378" y="1062"/>
+	<Point x="1165" y="1062"/>
+	<Point x="1165" y="1144"/>
+	<Point x="378" y="1144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le TRACHYPTÈRE IRIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="378" y="1155"/>
+	<Point x="1165" y="1155"/>
+	<Point x="1165" y="1250"/>
+	<Point x="378" y="1250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Trachypterus iris , nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="32" y="1260"/>
+	<Point x="1497" y="1260"/>
+	<Point x="1497" y="1611"/>
+	<Point x="32" y="1611"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un deuxième de ces trachyptères, à cent
+soixante-dix rayons dorsaux, diﬀère du précé‐
+dent par une forme plus alongée, surtout de la
+partie postérieure, qui est beaucoup plus grêle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="30" y="1614"/>
+	<Point x="1497" y="1616"/>
+	<Point x="1497" y="2292"/>
+	<Point x="32" y="2292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur à la nuque est neuf ou dix fois dans
+sa longueur sans la caudale, qui a le cinquième de
+celle du reste du corps; sa ligne latérale est un peu
+moins abaissée. Ses taches sont aussi autrement pla‐
+cées, car la troisième occupe le milieu de la lon‐
+gueur; du reste les deux espèces sont fort sem‐
+blables: même tête, mêmes dents, mêmes rayons
+âpres à la dorsale, au nombre de cent soixante-huit
+ou de cent soixante-dix, le panache non compris.</Unicode></TextEquiv></TextRegion></Page></PcGts>

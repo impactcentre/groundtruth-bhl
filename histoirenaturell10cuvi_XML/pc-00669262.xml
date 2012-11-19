@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669262">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:44:44</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669262.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="426" y="289"/>
+	<Point x="1785" y="289"/>
+	<Point x="1785" y="655"/>
+	<Point x="426" y="655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la longueur de la nageoire; ils grandissent un peu
+jusqu’à l’inférieur, qui est un ﬁlet du quart de cette
+même longueur; et sous le bord de la queue, en
+avant de ce ﬁlet, il y a encore une petite épine re‐
+courbée en arrière.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="435" y="666"/>
+	<Point x="1789" y="666"/>
+	<Point x="1789" y="883"/>
+	<Point x="435" y="883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les pectorales sont très-courtes et à peine du
+quatorzième de la longueur totale: leurs rayons
+sont au nombre de onze.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="432" y="891"/>
+	<Point x="1791" y="891"/>
+	<Point x="1791" y="1419"/>
+	<Point x="432" y="1419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ventrales, attachées sous les pectorales, ont
+les deux tiers de la longueur du corps, et sont en
+même temps si frêles, leurs rayons sont si ﬁns et
+si mous, que l’on conçoit qu’elles doivent prompte-
+ment se détruire. Leur épine est cinq fois plus courte
+que leurs rayons mous, et l’on aperçoit déjà les
+petits aiguillons qui la hérissent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="432" y="1423"/>
+	<Point x="1791" y="1423"/>
+	<Point x="1791" y="1801"/>
+	<Point x="432" y="1801"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Déjà l’on voit aussi paraître deux taches noirâ-
+tres au travers de la belle couleur d’argent dont ce
+poisson brille; toutes deux près de la ligne dorsale:
+la première au tiers antérieur de la longueur, la
+seconde passé le milieu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="649" y="1816"/>
+	<Point x="1576" y="1816"/>
+	<Point x="1576" y="1883"/>
+	<Point x="649" y="1883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 7 — 137; A. 0; C. 12; P. 11; V. 1/4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="369" y="1910"/>
+	<Point x="1787" y="1910"/>
+	<Point x="1787" y="2178"/>
+	<Point x="369" y="2178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un individu un peu plus grand, mais qui
+nous paraît de la même espèce, nous a été
+envoyé de Nice par M. Risso.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="428" y="2216"/>
+	<Point x="1794" y="2216"/>
+	<Point x="1794" y="2691"/>
+	<Point x="428" y="2691"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est long, sans la caudale, de trois pouces neuf
+lignes. Les proportions de son corps, de sa tête et
+de sa dorsale sont à peu près les mêmes que dans
+le précédent; mais son panache de la nuque n’a
+que le tiers de la longueur du corps. Sa caudale
+n’en a que la moitié. Ses ventrales égalent à peu près</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="374" y="183"/>
+	<Point x="506" y="183"/>
+	<Point x="506" y="264"/>
+	<Point x="374" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>330</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="789" y="183"/>
+	<Point x="1366" y="183"/>
+	<Point x="1366" y="264"/>
+	<Point x="789" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

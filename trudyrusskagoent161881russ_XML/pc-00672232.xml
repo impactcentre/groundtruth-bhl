@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672232">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T18:49:11</Created>
+	<LastChange>2012-02-10T09:54:07</LastChange></Metadata>
+	<Page imageFilename="00672232.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r9" index="5"/>
+	<RegionRefIndexed regionRef="r10" index="6"/>
+	<RegionRefIndexed regionRef="r11" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="726" y="814"/>
+	<Point x="1688" y="814"/>
+	<Point x="1688" y="921"/>
+	<Point x="726" y="921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gryllus frontalis Fieb.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="316" y="1188"/>
+	<Point x="2080" y="1188"/>
+	<Point x="2080" y="1778"/>
+	<Point x="316" y="1778"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hoc insectum determinatum et descriptum est a Fr. Fiebero
+in ejus opere «Entomologische Monographien», cujus descriptio
+repetita a L. Fischеrо in «Orthopteris europaeis»; sed de-
+scriptio Fr. Fieberi valde incompleta et imperfecta est,
+Leopoldus vero Fischer ipse insectum no vidit, qua de re
+optime putavi hujus speciei insecta a me in provinciis rossicis:
+Mohileviensi et Kurskensi inventa denuo examinare et describere.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="433" y="2235"/>
+	<Point x="1042" y="2235"/>
+	<Point x="1042" y="2314"/>
+	<Point x="433" y="2314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tab. IX, ﬁg. 1—6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="409" y="2323"/>
+	<Point x="1540" y="2323"/>
+	<Point x="1540" y="2402"/>
+	<Point x="409" y="2402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. corp. ♂ et ♀ 4—5‴; ovip. 3‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="309" y="2428"/>
+	<Point x="2073" y="2428"/>
+	<Point x="2073" y="3114"/>
+	<Point x="309" y="3114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas. femina paulo brevior; niger, parum nitidus, fulvo-
+tomentosus, nigro-setulosus. Caput nigrum, nitidum; occipite
+subtomentoso, vitta transversa testaceo-irrorata apud ♀ magis
+distincta et apud ♂ summo occipite nulla; fronte linea latius-
+cula arcuata albido-fulva; ocellis tribus planis fulvescentibus
+eodem loco sitis ut apud Gr. campestrem L. quorum tertius
+in media fronte transversus ut punctum album infra lineam
+frontalem a Fiebero signatus est; oculi parum globosi; an-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="328" y="1816"/>
+	<Point x="2064" y="1816"/>
+	<Point x="2064" y="2228"/>
+	<Point x="328" y="2228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Niger, tomentosus, linea arcuata frontali inter oculos,
+ocellisque albido-fulvis; linea trasversa occipitis badio-testacea;
+pronoti margine postico testaceo; elytris fuscis, abdomine bre-
+vioribus, alis abortivis; femoribus posticis ♀ supra macula
+testacea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1438" y="1091"/>
+	<Point x="1438" y="1154"/>
+	<Point x="321" y="1154"/>
+	<Point x="321" y="1091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L. Fischer. Orthoptera europaea, pg. 176—177.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="321" y="966"/>
+	<Point x="2080" y="966"/>
+	<Point x="2080" y="1089"/>
+	<Point x="321" y="1089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fieb. Entomol. Monograph. pg. 127, n. 3, tab. X, ﬁg. 11, capitis facies
+anter. (m. a.).</Unicode></TextEquiv></TextRegion></Page></PcGts>

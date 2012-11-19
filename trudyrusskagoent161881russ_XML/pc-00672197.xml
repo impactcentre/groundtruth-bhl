@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672197">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T21:43:50</Created>
+	<LastChange>2012-02-10T09:54:00</LastChange></Metadata>
+	<Page imageFilename="00672197.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="276" y="1199"/>
+	<Point x="1649" y="1199"/>
+	<Point x="1649" y="1319"/>
+	<Point x="276" y="1319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Speicheldrüsen bei den Odonaten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="85" y="1601"/>
+	<Point x="1844" y="1601"/>
+	<Point x="1844" y="2108"/>
+	<Point x="85" y="2108"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In einer kleinen Notiz in den &lt;Verhandlungen der Russi‐
+schen Entomologischen Gesellschaft&gt;В. X, beschrieb ich kurz
+die bisher nicht gesehenen und von mir bei den Odonaten
+gesehenen Speicheldrüsen. Jetzt will ich einige neue Beo‐
+bachtungen und Abbildungen der Speicheldrüsen dieser In-
+secten geben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="89" y="2116"/>
+	<Point x="1842" y="2116"/>
+	<Point x="1842" y="3189"/>
+	<Point x="89" y="3189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alle drei Odonaten-Familien: Libelluliden, Aeschniden und
+Agrioniden besitzen Speicheldrüsen, aber nur im vollkommen
+entwickelten Zustande (Imago), während dieselben den Larven
+fehlen. Der Grund dafür liegt wahrscheinlich in dem Um‐
+stande, dass die Larve beim Aufnehmen der Nahrung zugleich
+eine grössere oder geringere Portion Wasser verschluckt, wel‐
+ches, theilweise wenigstens, die Wirkung der fehlenden Speichel‐
+ﬂüssigkeit ersetzt. Die Entwicklung der Drüsen bei den
+Larven fällt in die letzte Periode des Wasserlebens, das heisst
+in die Zeit nach der letzten Wasserhäutung. Die neugebil‐
+dete Drüse ist sehr zart gebaut, ist aber sowohl der Form
+als der Grösse nach von derjenigen des vollkommenen Insectes
+nicht verschieden.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords>
+	<Point x="885" y="1444"/>
+	<Point x="885" y="1471"/>
+	<Point x="1039" y="1471"/>
+	<Point x="1039" y="1444"/></Coords></SeparatorRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1625" y="3210"/>
+	<Point x="1625" y="3280"/>
+	<Point x="1701" y="3280"/>
+	<Point x="1701" y="3210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1*</Unicode></TextEquiv></TextRegion></Page></PcGts>

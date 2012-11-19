@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669387">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:00:09</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669387.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="121" y="243"/>
+	<Point x="1490" y="243"/>
+	<Point x="1490" y="1312"/>
+	<Point x="121" y="1312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>taches: elle a le corps un peu plus alongé que notre
+joël. Ses écailles sont un peu plus larges, car on ne
+lui en compte que sept rangées longitudinales, et le
+joël en a neuf. Son proﬁl est un peu plus arqué;
+son œil plus grand, son crâne plus large, et remar‐
+quable par une espèce d’écusson triangulaire un peu
+saillant, qui en occupe le milieu et dirige sa pointe
+en avant entre les deux orbites. La distance de l’œil
+au bout du museau n’est guère que moitié du dia‐
+mètre de l’œil. La largeur du crâne entre les yeux
+ne fait que moitié de sa longueur. Ses dents sont en
+velours, sur des bandes étroites, mais très-visibles,
+aux mâchoires, au-devant du vomer et le long des
+palatins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="316" y="1325"/>
+	<Point x="1281" y="1325"/>
+	<Point x="1281" y="1398"/>
+	<Point x="316" y="1398"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 5 — 1/9; A. 1/14; C. 17; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="123" y="1423"/>
+	<Point x="1487" y="1423"/>
+	<Point x="1487" y="1663"/>
+	<Point x="123" y="1663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus n’ont guère plus de trois pouces
+et demi; leur bande argentée est large et occupe
+près du tiers de leur hauteur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="58" y="1685"/>
+	<Point x="1483" y="1685"/>
+	<Point x="1483" y="2640"/>
+	<Point x="58" y="2640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous l’avons reconnue dans la ﬁgure de
+l’atherina lacunosa de Forster, qui est à la
+bibliothèque de Banks. La description s’en
+trouve dans le Bloch de Schneider, p. 112,
+et ne contient rien qui ne conﬁrme ce que la
+ﬁgure annonce: les mots caput supra pla-
+niusculum, nudum, LACUNOSUM, LACUNIS IN‐
+TER OCULOS DUABUS, SULCIS CIRCITER SEX IN
+DORSO, paraissent même se rapporter parti‐
+culièrement aux inégalités du crâne de cette
+espèce. Les nombres de Forster ( B. 6;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="614" y="147"/>
+	<Point x="922" y="147"/>
+	<Point x="922" y="223"/>
+	<Point x="614" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1334" y="138"/>
+	<Point x="1476" y="138"/>
+	<Point x="1476" y="223"/>
+	<Point x="1334" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>455</Unicode></TextEquiv></TextRegion></Page></PcGts>

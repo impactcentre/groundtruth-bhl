@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669009">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:13:21</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669009.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r18" index="3"/>
+	<RegionRefIndexed regionRef="r24" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="128" y="304"/>
+	<Point x="1476" y="304"/>
+	<Point x="1476" y="544"/>
+	<Point x="128" y="544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>noir au sommet; le reste des verticales est jaune
+pâle, les nageoires paires sont transparentes.
+Sa taille est de cinq pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="65" y="570"/>
+	<Point x="1473" y="570"/>
+	<Point x="1473" y="913"/>
+	<Point x="546" y="915"/>
+	<Point x="522" y="916"/>
+	<Point x="66" y="918"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cest à ce komah-karah que nous croyons
+devoir rapporter la ﬁgure de Seba (t. III, pl. 27,
+ﬁg. 4). Elle ressemble tellement à celle de
+Russel qu’on l’en dirait copiée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="59" y="920"/>
+	<Point x="531" y="921"/>
+	<Point x="559" y="918"/>
+	<Point x="1464" y="918"/>
+	<Point x="1466" y="1353"/>
+	<Point x="56" y="1353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce doit encore être extrêmement
+semblable à notre première. Il paraît qu’il en
+est de ce genre comme de nos poissons blancs,
+dont les nombreuses variétés sont si diﬃciles
+à distinguer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="53" y="1690"/>
+	<Point x="1460" y="1690"/>
+	<Point x="1460" y="2128"/>
+	<Point x="53" y="2128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ainsi nous en avons reçu de la côte de
+Coromandel par M. Dussumier une espèce qui
+est seulement un peu plus oblongue, et a le
+deuxième rayon de la dorsale plus court que
+l’ensifera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="109" y="2150"/>
+	<Point x="1458" y="2150"/>
+	<Point x="1458" y="2590"/>
+	<Point x="109" y="2590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur est deux fois et demie dans sa lon‐
+gueur, et ce rayon deux fois et demie dans la hau‐
+teur; le deuxième de l’anale est aussi plus faible
+et les dents sont presque insensibles au doigt. Du
+reste, tout est semblable pour les formes et les
+nombres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="184" y="2604"/>
+	<Point x="1448" y="2604"/>
+	<Point x="1448" y="2689"/>
+	<Point x="184" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans l’état frais, le dessus est vert jaunâtre, avec</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="508" y="221"/>
+	<Point x="1024" y="221"/>
+	<Point x="1024" y="286"/>
+	<Point x="508" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1472" y="208"/>
+	<Point x="1472" y="286"/>
+	<Point x="1378" y="286"/>
+	<Point x="1378" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>77</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="337" y="1442"/>
+	<Point x="1165" y="1442"/>
+	<Point x="1165" y="1517"/>
+	<Point x="337" y="1517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA DE DUSSUMIER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="393" y="1560"/>
+	<Point x="1133" y="1560"/>
+	<Point x="1133" y="1646"/>
+	<Point x="393" y="1646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula Dussumieri, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

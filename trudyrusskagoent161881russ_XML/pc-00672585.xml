@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672585">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:31:25</Created>
+	<LastChange>2012-02-10T09:55:14</LastChange></Metadata>
+	<Page imageFilename="00672585.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="755" y="158"/>
+	<Point x="1060" y="158"/>
+	<Point x="1060" y="232"/>
+	<Point x="755" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 389 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="35" y="292"/>
+	<Point x="1785" y="292"/>
+	<Point x="1785" y="724"/>
+	<Point x="35" y="724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l'Escheri, dont le point blanc discocellulaire n'a que la trace
+d'un trait noirâtre dans son milieu, et je suis convaincu qu'il
+y a des Escheri, où ce point est blanc-pur comme chez la
+Sarta. Il est fort probable que certains individus de la Sarta
+auront ce point tracé de noirâtre dans le centre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="37" y="732"/>
+	<Point x="1785" y="732"/>
+	<Point x="1785" y="1244"/>
+	<Point x="37" y="1244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces deux Lycaenae présentent la même tache blanche
+extracellulaire, la ♀ l'ayant plus grande et plus nette que les
+♂♂. Les deux derniers points marginaux, avant l'angle anal,
+portent dans les deux Sarta du Ferganah, quelques écailles
+d'un bleu métallique; le ♂ du Tian-Chian que je rapportai,
+n'en a pas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="608" y="1308"/>
+	<Point x="1233" y="1308"/>
+	<Point x="1233" y="1403"/>
+	<Point x="608" y="1403"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>45. L. Icarus Rott.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="26" y="1473"/>
+	<Point x="1771" y="1473"/>
+	<Point x="1771" y="1982"/>
+	<Point x="26" y="1982"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Commune, près de Kouldjà, dans le déﬁlé de Talki et
+enﬁn dans la vallée du Kounguesse jusqu'à 6000´ d'altitude
+environ. En général, les individus de ces régions sont fort
+grands, et dépassent même en grandeur certains individus
+géants, qu'on rencontre parfois dans la Russie méridionale et
+l'Oural.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="21" y="1996"/>
+	<Point x="1760" y="1996"/>
+	<Point x="1760" y="2907"/>
+	<Point x="21" y="2907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ainsi, mon plus grand ♂ de l'Oural mesure 33 mill., tan-
+disque j'en ai du Tian-Chian, dont l'envergure atteint 36 mill.
+Tous ceux que j'ai rapportés présentent le point extrabasi-
+laire sur le revers des premières ailes, et appartiennent con-
+séquemment au type. Deux très grands ♂♂ ont, au lieu des
+tâches marginales fauves en dessous des deuxièmes ailes, ces
+mêmes tâches plus grandes et d'un jaune clair. J'ai aussi une
+petite ♀, qui, par son dessous très vivement dessiné, se dis-
+tingue beaucoup du type, et je me demande si ce papillon
+ne serait pas un métis de l'Icarus et de quelque autre Ly-
+caena.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="124" y="2926"/>
+	<Point x="1762" y="2926"/>
+	<Point x="1762" y="3019"/>
+	<Point x="124" y="3019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ♀♀ n'égalent jamais par la grandeur les grands ♂♂.</Unicode></TextEquiv></TextRegion></Page></PcGts>

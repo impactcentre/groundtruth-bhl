@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669197">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:36:34</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669197.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="137" y="320"/>
+	<Point x="1505" y="320"/>
+	<Point x="1505" y="933"/>
+	<Point x="137" y="933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la surface âpre et les dentelures du bord ﬁnes, raides
+et pointues; vers le côté de la queue elles deviennent
+un peu plus grandes que sur le reste du corps. La
+ligne latérale commence à une distance du dos égale
+au sixième de la hauteur, et lui demeure parallèle
+dans tout son cours, qui se termine aux boucliers
+osseux de la queue; elle n’est sensible que par une
+légère saillie de la peau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="75" y="946"/>
+	<Point x="1496" y="946"/>
+	<Point x="1496" y="1468"/>
+	<Point x="75" y="1468"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette description est faite d’après un indi‐
+vidu frais, bien conservé dans l’alcool, et rap‐
+porté de l’Isle-de-France par M. Dussumier; il
+est long de près de dix-sept pouces depuis le
+bout du museau jusqu’au bord concave de la
+caudale, et de dix-neuf jusqu’à la pointe du ﬁlet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="124" y="1477"/>
+	<Point x="1496" y="1477"/>
+	<Point x="1496" y="2168"/>
+	<Point x="124" y="2168"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il paraît entièrement gris cendré; la dorsale et
+l’anale ayant un ﬁn liséré bleuâtre, et les boucliers
+ayant conservé une teinte bleue. L’alcool a un peu
+altéré ses couleurs, car suivant les notes prises sur
+le frais par M. Dussumier, il était gris bleuâtre sur
+la moitié supérieure du corps, et gris jaunâtre sur
+le reste; la dorsale et l’anale rayées de jaune et
+bordées de bleu; la queue était jaunâtre, sa nageoire
+grise comme les pectorales et les ventrales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="66" y="2177"/>
+	<Point x="1505" y="2177"/>
+	<Point x="1505" y="2700"/>
+	<Point x="66" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous en avons un autre du même pays,
+que nous devons à M. Lamarre-Piquot; il est
+plus grand et long de vingt-trois pouces, le
+ﬁlet caudal en a près de quatre et demi. Cet
+individu porte la corne la plus longue, elle fait
+les quatre cinquièmes de la distance du bout</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="546" y="229"/>
+	<Point x="1050" y="229"/>
+	<Point x="1050" y="303"/>
+	<Point x="546" y="303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. NASONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1346" y="212"/>
+	<Point x="1501" y="212"/>
+	<Point x="1501" y="301"/>
+	<Point x="1346" y="301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>265</Unicode></TextEquiv></TextRegion></Page></PcGts>

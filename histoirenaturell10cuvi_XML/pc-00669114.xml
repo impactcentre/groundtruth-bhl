@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669114">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:26:30</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669114.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="260" y="289"/>
+	<Point x="1711" y="289"/>
+	<Point x="1709" y="634"/>
+	<Point x="1168" y="635"/>
+	<Point x="1159" y="642"/>
+	<Point x="1133" y="642"/>
+	<Point x="1119" y="633"/>
+	<Point x="339" y="627"/>
+	<Point x="332" y="638"/>
+	<Point x="262" y="638"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>marque pas les lignes des nageoires. Quant à
+la description, ib., p. 65, comme elle ne parle
+que de teintes brunes, elle paraît plutôt ré‐
+pondre à notre seconde espèce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="278" y="641"/>
+	<Point x="341" y="641"/>
+	<Point x="346" y="635"/>
+	<Point x="1121" y="641"/>
+	<Point x="1134" y="645"/>
+	<Point x="1164" y="645"/>
+	<Point x="1171" y="638"/>
+	<Point x="1722" y="637"/>
+	<Point x="1724" y="1316"/>
+	<Point x="278" y="1316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans cet article envoyé de la Guadeloupe,
+il est dit que ce porte-lancette fournit un mets
+peu estimé, parce qu’il répand une huile d’une
+odeur désagréable; on ne croit pas que sa
+chair soit saine: il est fort commun sur les
+côtes de cette île, et y parvient à une longueur
+d’un pied. Il se nourrit de frais de poissons,
+d’algues marines et de petits crustacés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="270" y="1318"/>
+	<Point x="1721" y="1322"/>
+	<Point x="1721" y="1571"/>
+	<Point x="272" y="1571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous pouvons croire que ces renseignemens
+s’appliquent plus ou moins à tous les acan-
+thures.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="260" y="1796"/>
+	<Point x="1720" y="1796"/>
+	<Point x="1720" y="2693"/>
+	<Point x="260" y="2693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les mers des Indes orientales nourrissent des
+acanthures beaucoup plus nombreux que celles
+du Nouveau-Monde, et parmi lesquels il en est
+plusieurs que l’éclat des nuances qui les colo‐
+rent, et la netteté de leur distribution, rendent
+faciles à caractériser. Nous tirerons notre base
+première de distribution du nombre des rayons
+épineux du dos, qui, dans la plupart de ces
+poissons, est de neuf, ou à peu près, comme
+dans les acanthures d’Amérique; mais qui dans</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="298" y="189"/>
+	<Point x="428" y="189"/>
+	<Point x="428" y="276"/>
+	<Point x="298" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>182</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="738" y="210"/>
+	<Point x="1266" y="210"/>
+	<Point x="1266" y="276"/>
+	<Point x="738" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="894" y="1639"/>
+	<Point x="894" y="1670"/>
+	<Point x="1084" y="1670"/>
+	<Point x="1084" y="1639"/></Coords></SeparatorRegion></Page></PcGts>

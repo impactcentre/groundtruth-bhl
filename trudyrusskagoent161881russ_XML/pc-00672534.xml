@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672534">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:53:30</Created>
+	<LastChange>2012-02-10T09:55:07</LastChange></Metadata>
+	<Page imageFilename="00672534.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="962" y="112"/>
+	<Point x="1282" y="112"/>
+	<Point x="1282" y="187"/>
+	<Point x="962" y="187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 338 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="248" y="242"/>
+	<Point x="2001" y="242"/>
+	<Point x="2001" y="585"/>
+	<Point x="248" y="585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de notre excursion dans les sables; c'étaient: le Biston Cine-
+rarius, deux géomètres appartenant à deux genres nouveaux *)
+fort remarquables, une Tinéide nouvelle voisine du genre Ate-
+liotum etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="246" y="594"/>
+	<Point x="2008" y="594"/>
+	<Point x="2008" y="2439"/>
+	<Point x="246" y="2439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chaque jour amenait des nouvelles espèces: tantôt c'était
+la charmante Lycaena Anthracias (connue par le seul ♂ pris
+par Mr. Christoph près de la mer Caspienne), tantôt la rare
+Anth. Pyrothoë, la Lycaena Prosecusa Ersch. dont j'ai dé-
+couvert la femelle, tantôt c'étaient des Hétérocères des plus
+remarquables, parmi lesquels je citerai surtout les espèces du
+genre Leucanitis, ainsi que des Pyralites et des Phycidées du
+plus haut intérêt. Mais les chasses régulières ne commencè-
+rent que quand nous nous arrêtâmes pour un mois aux embouchu-
+res du Khorgosse. Nous nous étions partagés le travail: mes
+compagnons s'occupant de collectionner les oiseaux, mammifères,
+etc., m'étant réservé à moi-même et à mon préparateur, le
+soin de chasser les Lépidoptères, ce que je faisais, le jour
+dans les sables et le soir au feu de notre campement. Cette
+chasse à la lumière était des plus intéressantes. Ici, aussi, comme
+l'avaient déjà remarqué Wallace dans l'archipel Malais, d'au-
+tres naturalistes ailleurs, et moi-même souvent en Russie, la
+chasse à la lumière était bien plus productive pendant les
+nuits sombres, humides, ou pluvieuses. C'est ainsi que nous
+prîmes des espèces d'un grand intérêt, telles que: Harpyia
+Przewalskii m., Mamestra Khorgossi m., Timandra Sympa-
+thica m., Myelois Euclastella m., et une foule d'autres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="249" y="2453"/>
+	<Point x="2005" y="2453"/>
+	<Point x="2005" y="2728"/>
+	<Point x="249" y="2728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La présence de tigres dans ces parages ne gênèrent pas
+trop nos chasses au commencement, mais dans la suite nous
+dûmes nous tenir continuellement sur nos gardes, car non con-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="246" y="2817"/>
+	<Point x="1992" y="2817"/>
+	<Point x="1992" y="3073"/>
+	<Point x="246" y="3073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Je decris la première de ces géomètres sous le nom d'Imitator, pour rap-
+peler un exemple de mimétisme des plus frappants: le ♂, en eﬀet, imite une
+espèce du genre Leucanitis, tandisnue la ♀, par ses ailes à moitié développées,
+ressemble à s'y méprendre à des épines d'une plante caractéristique des sables.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="257" y="2757"/>
+	<Point x="821" y="2758"/>
+	<Point x="846" y="2757"/>
+	<Point x="846" y="2783"/>
+	<Point x="257" y="2783"/></Coords></SeparatorRegion></Page></PcGts>

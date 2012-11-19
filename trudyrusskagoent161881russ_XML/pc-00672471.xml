@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672471">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:40:43</Created>
+	<LastChange>2012-02-10T09:54:58</LastChange></Metadata>
+	<Page imageFilename="00672471.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="103" y="307"/>
+	<Point x="1823" y="307"/>
+	<Point x="1823" y="482"/>
+	<Point x="103" y="482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>primo quam a curvatura quinti longitudinalis; spinula
+costae nulla. Long. 5½‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="216" y="485"/>
+	<Point x="1623" y="485"/>
+	<Point x="1623" y="583"/>
+	<Point x="216" y="583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Rossia occid. (Mohilevia ad Boristhenem).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="628" y="694"/>
+	<Point x="1289" y="694"/>
+	<Point x="1289" y="783"/>
+	<Point x="628" y="783"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sarcotachina nv. gen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="710" y="824"/>
+	<Point x="1208" y="824"/>
+	<Point x="1208" y="894"/>
+	<Point x="710" y="894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Macronychiae afﬁnis).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="89" y="930"/>
+	<Point x="1826" y="930"/>
+	<Point x="1826" y="2348"/>
+	<Point x="89" y="2348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oculi nudi; frons parum prominens in mare lata qua-
+driseriatim setosa; series frontales setarum tantum ad ra-
+dicem antennarnm assurgentes; genae modice latae, fere nudae,
+setae duae orales decussatae; antennae non longae contra me-
+dium oculorum insertae; articulo tertio fere trilongiore se-
+cundo; arista nuda basi incrassata; peristomium sob oculos pa-
+rum productum; scutellum apice setulis duabus apicalibus de-
+cussatis instructnm; abdomen cylindricum, segmentis subaequa-
+libus, dorso macrochetis tantum marginalibus praeditis; ano
+porrecto, biarticulato; alae spinula costali instructae; nervis
+transversis approximatis; secundo transverso obliquo, inﬂexo et
+paullo magis distante a primo, quam a curvatura quinti longi-
+tudinalis; cellula prima postica longe ab apice alae terminata,
+fere occlusa; nervo quinto longit. rectangulatim cubitato et a
+cubito ad apicem incurvo; quarto longit. basi setulis 5 in-
+structo; tarsi pulvillis et uncis in mare longis, istis non
+obtruncatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="385" y="2473"/>
+	<Point x="1516" y="2473"/>
+	<Point x="1516" y="2567"/>
+	<Point x="385" y="2567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sarcotachina subcylindrica ♂ nv. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="87" y="2608"/>
+	<Point x="1817" y="2608"/>
+	<Point x="1817" y="3117"/>
+	<Point x="87" y="3117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cylindrica, grisea; capite albo; vitta frontali aurea olivaceo
+micante; antennis fuscis, palpis ﬂavis; thorace vittis subquatuor
+(tribus?) abdomineque maculis fuscis micantibus; segmentis se-
+cundo, tertio et quarto singulo basi incisura angustissima
+alba; segmento primo dorso inerme, secundo et tertio apice
+macrochetis duabus, quarto serie marginata unica macrocheta-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="800" y="169"/>
+	<Point x="1125" y="169"/>
+	<Point x="1125" y="242"/>
+	<Point x="800" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 277 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

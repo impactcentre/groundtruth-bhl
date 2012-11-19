@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672268">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:56:13</Created>
+	<LastChange>2012-02-10T09:54:16</LastChange></Metadata>
+	<Page imageFilename="00672268.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1016" y="138"/>
+	<Point x="1340" y="138"/>
+	<Point x="1340" y="209"/>
+	<Point x="1016" y="209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 74 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="288" y="264"/>
+	<Point x="2057" y="264"/>
+	<Point x="2055" y="1755"/>
+	<Point x="421" y="1755"/>
+	<Point x="291" y="1756"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vom Innenwinkel an gerechnet, zwei schwarze Flecken. Bei
+dem einen ♂ fehlen diese fast ganz, während sie bei dem ei‑
+nen ♀ zu einer richtigen schmalen dunklen Binde vor den
+Fransen vereint sind. Ein anderer schwarzer Fleck hängt
+am Vorderrande und ist mit dem dunklen Mittelfelde vereint.
+Dunkle Pfeilstriche wie bei Polymita fehlen ganz; statt deren
+bemerkt man bei den frischen Stücken 6—7 gelbliche Flecken.
+Die Fransen sind weissgelb mit schwarzer Theilungslinie, nach
+aussen kaum gescheckt. Die Unterseite ist schmutzig weiss-
+grau, mit etwas dunklerem Mittelfeld und kaum bemerkbarem
+Mittelpunkt. Die Hinterﬂügel sind beim ♂ weiss, schwach dun‑
+kel bestreut, beim ♀ grau, nur nach der Basis zu weisslich,
+mit dunkler Limbal- und Theilungslinie in den weissen Fran‑
+sen. Unten tritt der Mittelpunkt schwach, eine dunklere Quer-
+linie dahinter aber meist sehr deutlich bei den ♀♀ auf. Der
+Hinterleib ist schwarz und gelb, besonders am Ende behaart;
+das letzte Ende jedes Ringes vorwiegend gelblich. Die vor‑
+deren Segmente sind ziemlich lang weiss behaart.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="317" y="1763"/>
+	<Point x="2039" y="1763"/>
+	<Point x="2039" y="2087"/>
+	<Point x="317" y="2087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zu verwechseln ist Polia Manisadjiani mit keiner andern
+Art; die gegen das dunkle Mittelfeld stark contrastirenden
+hellen Querbinden trennen sie, ausser manchen andern Din‑
+gen, sofort von den hellsten Polymita-Varietäten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="318" y="2093"/>
+	<Point x="2043" y="2093"/>
+	<Point x="2043" y="2498"/>
+	<Point x="318" y="2498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pol. Canescens Dup. Johann sandte noch eine ziemliche
+Anzahl hiervon ein, die zum Theil von den Dalmatiner Stücken
+ziemlich variiren, besonders dadurch, dass sie gröber schwarz
+bestreut sind, theilweise sogar eine Art dunkler Mittelbinde
+(Feld) haben, meist nur unterhalb der Makeln.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="317" y="2504"/>
+	<Point x="2043" y="2504"/>
+	<Point x="2043" y="2745"/>
+	<Point x="317" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Miselia Bimaculosa L. Hiervon sandte mir Johann eine
+kleine Anzahl gefangener Stücke (ohne Datum) ein, die den
+deutschen fast ganz gleich kommen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="309" y="2750"/>
+	<Point x="2048" y="2750"/>
+	<Point x="2048" y="3078"/>
+	<Point x="309" y="3078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hadena Leuconota H S. Johann sandte hiervon noch
+eine kleine Anzahl Ende September, Anfang October gefange‑
+ner Stücke, die aber meist ziemlich geﬂogen waren und bei
+welchen sich nur ein ♂ befand.</Unicode></TextEquiv></TextRegion></Page></PcGts>

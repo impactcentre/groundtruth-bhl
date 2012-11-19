@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668229">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T20:16:47</Created>
+	<LastChange>2012-02-10T09:52:45</LastChange></Metadata>
+	<Page imageFilename="00668229.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r16" index="4"/>
+	<RegionRefIndexed regionRef="r22" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r24" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1014" y="246"/>
+	<Point x="1258" y="246"/>
+	<Point x="1258" y="309"/>
+	<Point x="1014" y="309"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>APPENDIX</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1958" y="258"/>
+	<Point x="2058" y="258"/>
+	<Point x="2058" y="314"/>
+	<Point x="1958" y="314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>205</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="182" y="363"/>
+	<Point x="2065" y="363"/>
+	<Point x="2065" y="553"/>
+	<Point x="182" y="553"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A female Orphean Warbler was shot near St. Leonards (Sussex), on October
+7th, 1903, and an immature male was found dead near St. Leonards, on September
+16th, 1905.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="192" y="558"/>
+	<Point x="2068" y="558"/>
+	<Point x="2068" y="682"/>
+	<Point x="192" y="682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Garden Warbler was seen in the Outer Hebrides, in September 1904,
+and in the Shetlands, in September 1905.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="180" y="685"/>
+	<Point x="2075" y="685"/>
+	<Point x="2075" y="1053"/>
+	<Point x="180" y="1053"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The following should be added to the occurrences of the Barred Warbler:—
+two males secured at Woodchurch, Kent, on April 24th, 1907; one in Norfolk,
+September 13th, 1902; one near Fleetwood, Lancashire, on August 20th, 1898;
+a young female at North Cotes, Lincolnshire, on October 17th, 1899, a second on
+September 20th, 1902, and a third on September 4th, 1905; a young bird on
+Barra, Outer Hebrides, October 29th, 1900.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="192" y="1060"/>
+	<Point x="2073" y="1060"/>
+	<Point x="2073" y="1246"/>
+	<Point x="192" y="1246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Dartford Warbler was identiﬁed at Wells, Norfolk, on December 15th,
+1905; two pairs nested near Ludlow, Shropshire, in 1903; and it is believed to
+have nested near Cannock Chase, Staﬀordshire, about 1870.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="656" y="1773"/>
+	<Point x="1585" y="1773"/>
+	<Point x="1585" y="1853"/>
+	<Point x="656" y="1853"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SARDINIAN WARBLER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="807" y="1921"/>
+	<Point x="1451" y="1921"/>
+	<Point x="1451" y="2002"/>
+	<Point x="807" y="2002"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sylvia melanocephala, GMEL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="326" y="2058"/>
+	<Point x="2063" y="2058"/>
+	<Point x="2063" y="2195"/>
+	<Point x="326" y="2195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>male was shot near Hastings, on June 3rd, 1907, and was identiﬁed by
+Thomas Parkin, Esq., F.Z.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="182" y="2370"/>
+	<Point x="2063" y="2370"/>
+	<Point x="2063" y="2497"/>
+	<Point x="182" y="2497"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Fire-crested Wren (male and female), was shot in Breconshire, on February
+27th, 1899.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="175" y="2500"/>
+	<Point x="2058" y="2500"/>
+	<Point x="2058" y="2741"/>
+	<Point x="175" y="2741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A male Yellow-browed Warbler was shot at Fair Isle, on September 25th,
+1905, and six were seen in September of the year following; one was captured
+in the Outer Hebrides, on September 21st, 1906, and a male was knocked down
+with a stick at Tresco (Scilly), on October 1st, 1905.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="1007" y="1439"/>
+	<Point x="1256" y="1439"/>
+	<Point x="1256" y="1475"/>
+	<Point x="1007" y="1475"/></Coords></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="192" y="1631"/>
+	<Point x="735" y="1631"/>
+	<Point x="735" y="1702"/>
+	<Point x="192" y="1702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—TURDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1443" y="1629"/>
+	<Point x="2063" y="1629"/>
+	<Point x="2063" y="1702"/>
+	<Point x="1443" y="1702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—SYLVIINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r23">
+	<Coords>
+	<Point x="1004" y="2273"/>
+	<Point x="1236" y="2273"/>
+	<Point x="1236" y="2295"/>
+	<Point x="1004" y="2295"/></Coords></SeparatorRegion>
+	<TextRegion id="r24" type="drop-capital">
+	<Coords>
+	<Point x="202" y="2070"/>
+	<Point x="317" y="2070"/>
+	<Point x="317" y="2239"/>
+	<Point x="202" y="2239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="signature-mark">
+	<Coords>
+	<Point x="287" y="2753"/>
+	<Point x="498" y="2753"/>
+	<Point x="498" y="2802"/>
+	<Point x="287" y="2802"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="signature-mark">
+	<Coords>
+	<Point x="1687" y="2758"/>
+	<Point x="1773" y="2758"/>
+	<Point x="1773" y="2804"/>
+	<Point x="1687" y="2804"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G3</Unicode></TextEquiv></TextRegion></Page></PcGts>

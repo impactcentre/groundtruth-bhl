@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672706">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:32:02</Created>
+	<LastChange>2012-02-10T10:29:44</LastChange></Metadata>
+	<Page imageFilename="00672706.tif" imageWidth="1961" imageHeight="3024">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="196" y="166"/>
+	<Point x="287" y="166"/>
+	<Point x="287" y="244"/>
+	<Point x="196" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>78</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="823" y="158"/>
+	<Point x="1183" y="158"/>
+	<Point x="1183" y="221"/>
+	<Point x="823" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE APPLE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="185" y="278"/>
+	<Point x="1821" y="278"/>
+	<Point x="1821" y="1157"/>
+	<Point x="185" y="1157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>be squeezed round with index ﬁnger and thumb, and then inserted
+carefully into the detonator, well down to the explosive charge.
+Do not twist it about. The charge is very sensitive and friction
+may explode it. Although this operation is not dangerous, yet
+great care should be exercised. After the fuse is inserted into
+the detonator as above described, take the cap crimper and crimp
+the detonator to the fuse. The crimp should be made near the end
+which the fuse enters, so as not to disturb in any way the explo-
+sive charge which the blasting cap contains. Do not use common
+pincers, knife, or the teeth in this operation. If the work is wet,
+then smear the joint with tallow, wax, or soap. Do not use oily
+grease, as the oil might penetrate the fuse wrapping and spoil
+the powder.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="196" y="1160"/>
+	<Point x="1824" y="1160"/>
+	<Point x="1824" y="1558"/>
+	<Point x="196" y="1558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The next step. The next operation is the insertion of the cap
+into the dynamite cartridge. This may be done by punching a
+hole diagonally into the side of the cartridge, inserting the blast-
+ing cap into it, and tying the fuse to the side of the cartridge with
+a piece of twine. Electric fusees may be inserted and fastened in
+the same manner.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="194" y="1564"/>
+	<Point x="1821" y="1564"/>
+	<Point x="1821" y="2874"/>
+	<Point x="194" y="2874"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Having primed the cartridge in the manner described, insert it
+in the borehole on top, or next to the top of the rest of the charge
+if more than one cartridge is used, and push it carefully home.
+Putting the explosive into the borehole is called charging or load-
+ing the borehole. It is generally best in dry ground to slit the
+paper shells lengthwise in two or three places with a sharp knife
+before putting the cartridge into the borehole, as a slit cartridge
+will spread out in the borehole better. The primer should not be
+slit. Push the cartridges, except the primer cartridge, ﬁrmly into
+place with a wooden stick so that they will expand and ﬁll up their
+part of the hole, for crevices or air spaces may lessen the power
+of the explosive. Expanded cartridges also occupy less of the
+length of the borehole and make possible a heavy charge at the
+bottom of the hole. The primer is loaded last, or next to the last,
+and is pushed down only hard enough to touch the preceding
+cartridge. Each cartridge must touch the one previously loaded,
+for if there is any space between the cartridge caused by falling
+dirt or stones, or by the sticking of a cartridge in the borehole,
+a part of the charge may fail to explode.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668965">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:08:14</Created>
+	<LastChange>2012-02-09T16:27:26</LastChange></Metadata>
+	<Page imageFilename="00668965.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="58" y="284"/>
+	<Point x="1509" y="284"/>
+	<Point x="1507" y="1314"/>
+	<Point x="1090" y="1315"/>
+	<Point x="60" y="1311"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>plus heureux que les méthodistes dont il con‐
+sultait les ouvrages, en croyant reconnaître
+dans leur perca pusilla l’apogon de la Médi‐
+terranée. M. Cuvier faisait déjà remarquer dans
+son mémoire sur les poissons peu connus de
+cette mer1, que la détermination de M. De
+Laroche relativement à ce perca pusilla n’était
+pas fondée, et qu’il ne pouvait être l’apogon;
+mais alors nous ne connaissions pas encore le
+poisson de Brünnich: M. Valenciennes l’ayant
+reconnu depuis, nous avons rectiﬁé cette syno‐
+nymie dans notre histoire des apogons.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="60" y="1316"/>
+	<Point x="1089" y="1320"/>
+	<Point x="1227" y="1319"/>
+	<Point x="1510" y="1319"/>
+	<Point x="1503" y="2416"/>
+	<Point x="60" y="2416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson ne paraît avoir reçu de noms
+vulgaires que dans un petit nombre de lieux,
+parce qu’il est rare et que sa petitesse a em‐
+pêché de le remarquer. Brünnich n’en a vu
+qu’un individu à Marseille2; Rondelet le dit
+admodum rarus3; Willughby rapporte qu’il
+vit dans les profondeurs et que les pêcheurs
+ne le prennent que lorsque la mer est agitée
+par des tempêtes; c’est lui qui nous apprend
+qu’à Rome on l’appelle strivale et à Gênes
+riondo4. M. Raﬁnesque dit qu’en Sicile il
+s’appelle pesce tariolo5. Selon M. de Lacé-
+pède, on le nommerait aussi à Gênes lucerna</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="69" y="2477"/>
+	<Point x="1493" y="2477"/>
+	<Point x="1493" y="2664"/>
+	<Point x="69" y="2664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Cuvier, Mém. du Mus., t. I, p. 238. — 2. Brünn., Pisc,
+mass., 63. — 3. Rond., p. 161. — 4. Willughby, 295. —
+5. Raﬁnesque, Indice, p. 15.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1358" y="192"/>
+	<Point x="1489" y="192"/>
+	<Point x="1489" y="265"/>
+	<Point x="1358" y="265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>33</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="507" y="188"/>
+	<Point x="1039" y="188"/>
+	<Point x="1039" y="274"/>
+	<Point x="507" y="274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. CAPROS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="signature-mark">
+	<Coords>
+	<Point x="200" y="2684"/>
+	<Point x="291" y="2684"/>
+	<Point x="290" y="2736"/>
+	<Point x="201" y="2738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="signature-mark">
+	<Coords>
+	<Point x="1196" y="2667"/>
+	<Point x="1252" y="2667"/>
+	<Point x="1252" y="2728"/>
+	<Point x="1196" y="2728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r28">
+	<Coords>
+	<Point x="75" y="2431"/>
+	<Point x="75" y="2461"/>
+	<Point x="1480" y="2461"/>
+	<Point x="1480" y="2431"/></Coords></SeparatorRegion></Page></PcGts>

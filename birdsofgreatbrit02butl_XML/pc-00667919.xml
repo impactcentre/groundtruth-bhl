@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667919">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:13:01</Created>
+	<LastChange>2012-02-10T09:52:21</LastChange></Metadata>
+	<Page imageFilename="00667919.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="866" y="223"/>
+	<Point x="1278" y="223"/>
+	<Point x="1278" y="283"/>
+	<Point x="866" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE HAWFINCH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1921" y="238"/>
+	<Point x="2016" y="238"/>
+	<Point x="2016" y="290"/>
+	<Point x="1921" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>47</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="121" y="350"/>
+	<Point x="2019" y="350"/>
+	<Point x="2019" y="1212"/>
+	<Point x="121" y="1212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rather pleasing:—The adult male has the head of a cinnamon-brown colour, a line
+round the base of the bill, the lores, chin, and throat, black; the nape is smoky
+grey; the back and scapulars dull chestnut, somewhat paler on the rump, and
+becoming rather yellower on the upper tail-coverts; wings bluish-black, the median
+coverts white; the quills with a white patch near the middle of their inner webs,
+gradually increasing on the inner feathers, and tipped with blue; the tail-coverts
+cinnamon-brown, much elongated; tail feathers black, white at the extremity of
+the inner webs: under surface of body pale Dove-brown, fading to white on the
+under tail-coverts; beak in summer bluish-grey, darker at the tip; in winter
+brownish ﬂesh-coloured; feet ﬂesh-coloured; iris whitish. The female is duller
+in colour, with the white markings less pure. The young are without black on
+the throat, or grey on the nape; the head is also yellower, and the under surface
+of the body whiter; the mantle is mottled, and the breast and ﬂanks are barred
+with dark brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="114" y="1221"/>
+	<Point x="2023" y="1221"/>
+	<Point x="2023" y="1845"/>
+	<Point x="114" y="1845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Hawﬁnch is resident with us; but it is probable that at least some of
+the young leave our shores at the approach of winter, their places being taken by
+immigrants from the north: in the autumn they not infrequently ﬂy into the
+nets of the birdcatchers, and are disposed of at very moderate prices. During the
+summer months the Hawﬁnch is an exceedingly shy bird, and is far more frequently
+heard than seen; its call-note, consisting of a whistle four times repeated, and
+drawn out at the ﬁnish, being familiar to most frequenters of its haunts; the
+harsh Greenﬁnch-like sound, sometimes mistaken for its call-note, is probably its
+cry of deﬁance. The song is a very inferior performance of short duration, some-
+what like that of an inferior Greenﬁnch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="128" y="1850"/>
+	<Point x="2019" y="1850"/>
+	<Point x="2019" y="2352"/>
+	<Point x="128" y="2352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Hawﬁnch frequents well-wooded localities, such as forest-clearings, small
+woods, plantations, shrubberies, heavily timbered parks, where patches of yews or
+hawthorn and bramble are left to break the monotony of the landscape, and old
+orchards; in such places it builds, varying the site of the nest according to the
+haunt which it frequents; thus in a wood or clearing it usually makes its home
+in some old hawthorn, tangled with blackberry-vines, or in a holly, or on the
+branch of a ﬁr, oak, or beech-tree, some ﬁfteen to thirty feet from the ground;
+but in an orchard, an old lichen-covered apple or pear-tree is chosen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="128" y="2359"/>
+	<Point x="2016" y="2359"/>
+	<Point x="2016" y="2730"/>
+	<Point x="128" y="2730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The nest of this bird most nearly resembles that of a Bullﬁnch, being very
+shallow, and always formed in a foundation of twigs; one which I found in
+course of formation, had the whole of this external structure formed of strongly
+spined interlaced twigs of hawthorn, from which all the leaves had been stripped,
+and presented a most formidable appearance; sometimes, however, the twigs are
+intermixed with coarse roots and dead plants, and ornamented with lichens; the</Unicode></TextEquiv></TextRegion></Page></PcGts>

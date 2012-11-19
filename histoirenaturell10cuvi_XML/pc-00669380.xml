@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669380">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:59:15</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669380.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="390" y="233"/>
+	<Point x="1812" y="233"/>
+	<Point x="1815" y="648"/>
+	<Point x="1123" y="647"/>
+	<Point x="1119" y="657"/>
+	<Point x="1092" y="657"/>
+	<Point x="1061" y="647"/>
+	<Point x="609" y="648"/>
+	<Point x="604" y="659"/>
+	<Point x="390" y="659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mandie crasdos, ou gras dos, ou gras d’eau,
+et c’est ce nom, dont l’étymologie nous est
+inconnue, que nos colons ont transporté aux
+îles de France et de Bourbon, pour désigner
+les espèces du même genre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="390" y="661"/>
+	<Point x="609" y="661"/>
+	<Point x="612" y="652"/>
+	<Point x="1060" y="652"/>
+	<Point x="1094" y="661"/>
+	<Point x="1125" y="661"/>
+	<Point x="1129" y="654"/>
+	<Point x="1816" y="654"/>
+	<Point x="1822" y="1753"/>
+	<Point x="631" y="1752"/>
+	<Point x="627" y="1763"/>
+	<Point x="392" y="1763"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette première confusion ne nous aurait pas
+déterminés à changer le nom spéciﬁque donné
+par Lacépède, s’il n’en eût pas commis une
+seconde, que nous avons eu quelque peine à
+débrouiller avec les matériaux même de Com-
+merson. Celui-ci a laissé deux descriptions
+incomplètes de deux athérines: l’une, qu’il
+nommait atherina hepsetus, quoique ce ne
+soit pas celle de Linné, et l’autre, atherina
+pellucida, ou gras d’eau. Il a laissé une ﬁgure
+de la première, que M. de Lacépède a fait
+graver (loco cit.), mais en lui appliquant la
+description de la seconde.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="397" y="1765"/>
+	<Point x="630" y="1765"/>
+	<Point x="635" y="1757"/>
+	<Point x="1824" y="1757"/>
+	<Point x="1823" y="2609"/>
+	<Point x="395" y="2609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les matériaux, comme nous l’avons dit,
+sont incomplets, aussi nous n’en parlons ici
+que pour avertir les naturalistes du peu de
+conﬁance qu’ils doivent leur accorder. Le
+dessin n’a pas aussi le mérite et l’exactitude
+que l’on est habitué à trouver aux ﬁgures de
+Commerson; mais les taches de la pectorale
+et le facies ne laissent aucun doute qu’il n’ait
+fait dessiner un individu de l’espèce que nous
+allons décrire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="396" y="118"/>
+	<Point x="541" y="118"/>
+	<Point x="541" y="211"/>
+	<Point x="396" y="211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>448</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="872" y="124"/>
+	<Point x="1338" y="124"/>
+	<Point x="1338" y="203"/>
+	<Point x="872" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669313">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:50:46</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669313.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r20" index="1"/>
+	<RegionRefIndexed regionRef="r16" index="2"/>
+	<RegionRefIndexed regionRef="r36" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="458" y="153"/>
+	<Point x="1045" y="153"/>
+	<Point x="1045" y="230"/>
+	<Point x="458" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. STYLÉPHORE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="478" y="301"/>
+	<Point x="1033" y="301"/>
+	<Point x="1033" y="396"/>
+	<Point x="478" y="396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="1326" y="130"/>
+	<Point x="1446" y="130"/>
+	<Point x="1446" y="224"/>
+	<Point x="1326" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>381</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="44" y="781"/>
+	<Point x="1500" y="781"/>
+	<Point x="1500" y="2485"/>
+	<Point x="44" y="2485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous croyons devoir placer à la suite des
+trachyptères et des gymnètres, l’espèce unique
+qui forme le genre du Styléphore. Elle n’a été
+prise encore qu’une seule fois dans le golfe
+de Mexique, entre la Martinique et Cuba.
+Elle fut apportée au muséum de Levers à
+Londres, et le docteur Shaw l’a décrite et l’a
+représentée en 1788 dans les Mémoires de la
+Société linnéenne, t. I.er, p. 90, pl. 6. Ce zoo‐
+logiste a reproduit sa description et sa ﬁgure
+dans la Zoologie générale1, et dans son Na-
+turalists miscellany2; mais l’individu qui
+était sous les yeux avait éprouvé quelque dé‐
+rangement dans les pièces osseuses de son
+museau, en sorte que ce qui a été dit de sa
+tête, de la forme des yeux, se trouve tout-
+à-fait inexact, et le dessin que l’on en avait
+tracé paraissait absolument inintelligible aux
+naturalistes qui ont des idées justes de cette
+partie de l’organisation des poissons.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="104" y="2534"/>
+	<Point x="1426" y="2534"/>
+	<Point x="1426" y="2617"/>
+	<Point x="104" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Tome IV, 1.re part., p. 87. — 2. Tome VIII, pl. 274.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords>
+	<Point x="473" y="440"/>
+	<Point x="1050" y="440"/>
+	<Point x="1050" y="558"/>
+	<Point x="473" y="558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Du Styléphore,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="heading">
+	<Coords>
+	<Point x="310" y="662"/>
+	<Point x="1202" y="662"/>
+	<Point x="1202" y="769"/>
+	<Point x="310" y="769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Stylephorus chordatus, Shaw.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r39">
+	<Coords>
+	<Point x="77" y="2502"/>
+	<Point x="77" y="2526"/>
+	<Point x="1485" y="2526"/>
+	<Point x="1485" y="2502"/></Coords></SeparatorRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="112" y="566"/>
+	<Point x="1401" y="566"/>
+	<Point x="1401" y="653"/>
+	<Point x="112" y="653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et en particulier du STYLÉPHORE A CORDE.</Unicode></TextEquiv></TextRegion></Page></PcGts>

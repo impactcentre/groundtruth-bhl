@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669320">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:51:31</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669320.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="385" y="196"/>
+	<Point x="544" y="196"/>
+	<Point x="544" y="283"/>
+	<Point x="385" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>388</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="794" y="203"/>
+	<Point x="1401" y="203"/>
+	<Point x="1401" y="278"/>
+	<Point x="794" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="796" y="396"/>
+	<Point x="1403" y="396"/>
+	<Point x="1403" y="487"/>
+	<Point x="796" y="487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="812" y="546"/>
+	<Point x="1348" y="546"/>
+	<Point x="1348" y="653"/>
+	<Point x="812" y="653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Des Cépoles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="382" y="691"/>
+	<Point x="1817" y="691"/>
+	<Point x="1817" y="1985"/>
+	<Point x="382" y="1985"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le poisson auquel Linné, à cause d’une
+confusion de synonymes dont nous reparlerons,
+a attribué le nom générique de Cepola, a
+le corps très-alongé et très-comprimé, sem‐
+blable, en un mot, à une lame d’épée, garni
+d’une très-longue dorsale et d’une anale pres‐
+que aussi longue, et terminé par une caudale
+pointue; ses ventrales s’attachent sous ses pec‐
+torales; son museau est obtus; la fente de sa
+bouche est presque verticale et armée de dents
+aiguës. De ses nombreux rayons deux ou trois
+seulement sont simples à la dorsale, deux à
+l’anale, et encore sont-ils aussi ﬂexibles que ses
+rayons mous; l’épine des ventrales est seule
+osseuse et poignante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="392" y="2316"/>
+	<Point x="1814" y="2316"/>
+	<Point x="1814" y="2678"/>
+	<Point x="392" y="2678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous n’en connaissons sur nos côtes d’Eu‐
+rope qu’une espèce, représentée par Rondelet,
+p. 410, mais assez mal, sous le nom de ser-
+pens rubescens, et un peu mieux par Aldro-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="724" y="2073"/>
+	<Point x="1476" y="2073"/>
+	<Point x="1476" y="2157"/>
+	<Point x="724" y="2157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La CÉPOLE ROUGEATRE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="749" y="2178"/>
+	<Point x="1466" y="2178"/>
+	<Point x="1466" y="2276"/>
+	<Point x="749" y="2276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Cepola rubescens, Linn.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

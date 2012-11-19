@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668152">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T15:07:45</Created>
+	<LastChange>2012-02-10T09:52:40</LastChange></Metadata>
+	<Page imageFilename="00668152.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="991" y="205"/>
+	<Point x="1355" y="205"/>
+	<Point x="1355" y="276"/>
+	<Point x="991" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE JACKDAW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="235" y="327"/>
+	<Point x="2108" y="327"/>
+	<Point x="2108" y="765"/>
+	<Point x="235" y="765"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sets oﬀ to ﬂy to some point, changes his mind, swings gracefully round and
+alights on the exact spot from which he started; indeed he is very fond of
+aerial evolutions; his wings are rapidly ﬂapped when on the wing, and when he
+alights on the ground he generally comes down with either a see-sawing or spiral
+motion. On the ground he is almost as fussy as a Starling in his search for
+worms or leather-jackets of which I have seen him carry many to his nest from
+my garden: undoubtedly he does fulﬁl his duties in the scheme of nature.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="234" y="776"/>
+	<Point x="2108" y="776"/>
+	<Point x="2108" y="1017"/>
+	<Point x="234" y="1017"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The cries of this bird have been variously described as cae, caw, quick, jack,
+&amp;c., but the only notes which I have heard uttered by wild Jackdaws have been
+chack and chark, from which sounds, without question, its name has been derived:
+its note is utterly unlike that of the Rook or any of the other British Crows.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="236" y="1025"/>
+	<Point x="2110" y="1025"/>
+	<Point x="2110" y="1454"/>
+	<Point x="236" y="1454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Jackdaw as a rule is gregarious in its habits; although in the suburbs,
+a pair will sometimes take possession of a chimney, in which they will build
+alone; consorting, however, when feeding, with the Rooks which inhabit some
+avenue of elms in the neighbourhood: but, whenever possible, this species breeds
+in colonies, the nest being almost invariably placed in some crevice or hole in
+rock, building, tree,* or even a rabbit-burrow; ivy-clad ruins and belfries of old
+churches being favourite sites.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="235" y="1462"/>
+	<Point x="2109" y="1462"/>
+	<Point x="2109" y="2069"/>
+	<Point x="235" y="2069"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nidiﬁcation commences in April or May, frequently not until the latter month,
+and the nest varies considerably in bulk according to the site in which it is con‐
+structed; it is always carelessly formed and generally of the veriest rubbish;
+wool and moss are often used, but those which I have found in belfries consisted
+merely of sticks and a little dirty straw, with a few feathers; whilst one in my
+collection taken from the winding staircase leading up to the belfry of old Milton
+Church, near Sittingbourne, on 25th May, 1887, consists of a great mass of hair
+(either the winter-coat of horses, or refuse from a barber’s) with a little loose earth,
+a dead leaf or two, and a little dirty straw: the depression for the eggs is very
+shallow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="237" y="2087"/>
+	<Point x="2120" y="2087"/>
+	<Point x="2120" y="2333"/>
+	<Point x="237" y="2333"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The eggs number from four to six and vary a good deal, but the commonest
+type is pale blue, more or less boldly spotted with sepia, and with lavender-grey
+shell-spots; sometimes the spots are absent, and I have seen a few eggs in which
+the markings were small, numerous, and pale, almost resembling eggs of the Magpie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="238" y="2338"/>
+	<Point x="2122" y="2338"/>
+	<Point x="2122" y="2591"/>
+	<Point x="238" y="2591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Jackdaw pairs for life: it rears only one brood in a season. Its food
+consists in summer chieﬂy of worms, all kinds of injurious grubs, especially those
+of the crane-ﬂy, the cockchafer, the wireworm, also insects, mollusca, and (it must
+alas be admitted) eggs and young of other birds, grain, peas and early fruits:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="257" y="2623"/>
+	<Point x="2110" y="2623"/>
+	<Point x="2110" y="2716"/>
+	<Point x="257" y="2716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Seebohm says that “When the hole is too deep to suit its purpose it makes a foundation of sticks,
+and will sometimes deposit bushels of twigs to raise the level high enough.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="242" y="212"/>
+	<Point x="355" y="212"/>
+	<Point x="355" y="278"/>
+	<Point x="242" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>164</Unicode></TextEquiv></TextRegion></Page></PcGts>

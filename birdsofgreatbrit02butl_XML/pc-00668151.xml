@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668151">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T07:07:36</Created>
+	<LastChange>2012-02-10T09:52:40</LastChange></Metadata>
+	<Page imageFilename="00668151.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="896" y="203"/>
+	<Point x="1258" y="203"/>
+	<Point x="1258" y="278"/>
+	<Point x="896" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE JACKDAW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1908" y="203"/>
+	<Point x="2016" y="203"/>
+	<Point x="2016" y="276"/>
+	<Point x="1908" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>163</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="126" y="326"/>
+	<Point x="2017" y="326"/>
+	<Point x="2017" y="706"/>
+	<Point x="126" y="706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The upper parts of the male Jackdaw are glossy black with purple and green
+reﬂections; the ear-coverts, nape and sides of neck ashy-grey inclining to white;
+under parts dull black; bill and feet black, iris greyish-white. The female is
+slightly smaller than the male and has a slightly smaller and duller grey patch
+on the nape; her bill is also a triﬂe shorter. The young are dull black, the
+grey patch very feebly indicated.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="120" y="711"/>
+	<Point x="2018" y="711"/>
+	<Point x="2018" y="2390"/>
+	<Point x="120" y="2390"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>There are few places where the Jackdaw cannot ﬁnd a home: coming from
+the Continent to England, this bird may be seen in numbers ﬂying in and out of
+holes in the cliﬀs of Dover, its incessant cries chack, chack, being a welcome sound;
+so also in country or town, in ruined castle or modern palace the Jackdaw is
+everywhere to be seen. I must confess that I like the Jackdaw: he is a bird
+with considerable sense of humour, and (in spite of much persecution) he seems
+to bear no malice. The late Lord Lilford, however, could ﬁnd nothing good to
+say of him: the following being some of his remarks respecting the Jackdaw in
+his “Birds of Northamptonshire”:—“This amusing but most pernicious bird is
+extremely common in our county, and probably only too well-known to most of
+our readers. In the hollow trees about the park and pleasure-grounds of Lilford
+they used to swarm at the breeding-season, till we found it absolutely necessary
+to wage war upon them in the interests of our garden, poultry, and game, to say
+nothing of those of the Barn Owl, a species for which we have always entertained
+a sincere respect and aﬀection. The Daws not only carried oﬀ numbers of young
+chickens, pheasants, and partridges, and committed havoc among our green-peas
+and other vegetables, but in several instances, to our knowledge, took possession
+of the Owls’ nests, destroyed their eggs, and piled up their own nests in the cavities
+selected by the harmless and most useful bird of night; occasionally, however, the
+tables are turned, as we have previously mentioned when treating of the Barn Owl.
+For these misdemeanours we have for some years past made a practice of shooting
+the old Jackdaws and destroying their nests and eggs wherever we found them,
+with the result of decided beneﬁt to ourselves and our neighbours. The Jackdaw
+disputes the palm for noisy and obtrusive impudence with the House-Sparrow, and
+does not, to our knowledge, compensate us in any way for his misdoings. That
+the Daw fulﬁls his duties in the great scheme of nature I do not deny, but must
+confess that I am unable to discover what they may be.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="125" y="2398"/>
+	<Point x="2022" y="2398"/>
+	<Point x="2022" y="2636"/>
+	<Point x="125" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seebohm, however, although he admits that it levies blackmail on the Gulls,
+says of the Jackdaw:—“It is quite as harmless a bird as the Rook, and at certain
+seasons of the year it is very useful. You have but to watch its actions in the
+ﬁelds to be convinced of this.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="242" y="2643"/>
+	<Point x="2006" y="2643"/>
+	<Point x="2006" y="2710"/>
+	<Point x="242" y="2710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Jackdaw’s ﬂight is like himself, strong, but somewhat purposeless; he</Unicode></TextEquiv></TextRegion></Page></PcGts>

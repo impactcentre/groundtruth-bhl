@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669295">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:48:32</Created>
+	<LastChange>2012-03-12T14:33:54</LastChange></Metadata>
+	<Page imageFilename="00669295.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="117" y="273"/>
+	<Point x="1485" y="273"/>
+	<Point x="1485" y="866"/>
+	<Point x="117" y="866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>à-dire qu’il n’a pas la moitié de la longueur du tronc.
+La branche montante naît, comme dans l’autre, en‐
+viron au sixième de la longueur du sac; elle est
+courte et suivie d’un duodénum, dont la partie
+garnie de cœcums est proportionnellement moins
+longue que dans l’autre, et les appendices sont
+plus grêles. Après s’être replié une seule fois, l’in‐
+testin se rend directement à l’anus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="128" y="874"/>
+	<Point x="1478" y="874"/>
+	<Point x="1478" y="1026"/>
+	<Point x="128" y="1026"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le foie est fait de même, quoique plus petit,
+et sa vésicule du ﬁel est plus grande.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="116" y="1028"/>
+	<Point x="1483" y="1028"/>
+	<Point x="1483" y="1928"/>
+	<Point x="116" y="1928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu était une femelle, dont les ovaires n’é‐
+taient pas plus développés; mais leurs sacs sont plus
+longs et plus grêles: ils ont treize pouces de longueur
+et commencent à quatre pouces de distance du dia‐
+phragme. Les reins sont beaucoup moins gros, moins
+longs, et se terminent avant la pointe de l’estomac:
+ils sont logés de même que ceux du précédent. A
+neuf pouces de leur naissance sort un uretère unique
+qui donne dans une vessie urinaire longue, grêle
+et étroite. Il n’y a pas non plus de vessie aérienne.
+Le péritoine est très-mince et à peine argenté. Nous
+n’avons rien trouvé dans l’estomac.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="60" y="2037"/>
+	<Point x="1485" y="2037"/>
+	<Point x="1485" y="2649"/>
+	<Point x="60" y="2649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il existe aussi des gymnètres dans la mer du
+Nord; mais nous n’en avons examiné aucun sur
+la nature, ce qui nous intéresserait cependant
+d’autant plus que, les descriptions qu’on en a
+données jusqu’à ce jour, n’ont été faites que
+d’après des individus plus ou moins mutilés, et
+qu’il en est de même des documens inédits</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="474" y="171"/>
+	<Point x="1051" y="171"/>
+	<Point x="1051" y="248"/>
+	<Point x="474" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1315" y="166"/>
+	<Point x="1476" y="166"/>
+	<Point x="1476" y="248"/>
+	<Point x="1315" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>363</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="656" y="1974"/>
+	<Point x="656" y="2011"/>
+	<Point x="888" y="2011"/>
+	<Point x="888" y="1974"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668552">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T02:56:07</Created>
+	<LastChange>2012-02-10T09:53:48</LastChange></Metadata>
+	<Page imageFilename="00668552.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r25" index="2"/>
+	<RegionRefIndexed regionRef="r19" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1015" y="162"/>
+	<Point x="1491" y="162"/>
+	<Point x="1491" y="212"/>
+	<Point x="1015" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE LXXII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="342" y="247"/>
+	<Point x="991" y="247"/>
+	<Point x="991" y="304"/>
+	<Point x="342" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Chachapoyas, Alto-Peru; W. Lobb.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="332" y="317"/>
+	<Point x="1236" y="317"/>
+	<Point x="1236" y="518"/>
+	<Point x="332" y="518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The painting of this delicate and boldly convoluted
+shell is characterized by two bands of short oblong
+chestnut spots or dashes, ranging obliquely in a direction
+contrary to that of the painted lines, as in B. Sowerbyi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="1354" y="255"/>
+	<Point x="2181" y="255"/>
+	<Point x="2181" y="345"/>
+	<Point x="1354" y="345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>intensè ustulato-castaneâ, zonulâ unicâ albâ medio cin-
+gulatâ, labro albo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1281" y="348"/>
+	<Point x="2184" y="348"/>
+	<Point x="2184" y="634"/>
+	<Point x="1281" y="634"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LEATHERY BULIMUS. Shell oblong ovate, umbili-
+cated, whorls seven in number, convex, very closely
+corrugately striated, aperture oval, columella reﬂected,
+lip but slightly reﬂected: very dark burnt chestnut,
+encircled round the middle with a single white zone,
+lip white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1280" y="636"/>
+	<Point x="1788" y="636"/>
+	<Point x="1788" y="681"/>
+	<Point x="1280" y="681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Cuzco, Bolivia; W. Lobb.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1282" y="704"/>
+	<Point x="2194" y="704"/>
+	<Point x="2194" y="814"/>
+	<Point x="1282" y="814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The entire surface of this shell is sculptured longitu‐
+dinally with very closely packed crinkled striæ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="1251" y="249"/>
+	<Point x="1251" y="836"/>
+	<Point x="1272" y="836"/>
+	<Point x="1272" y="249"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="980" y="1030"/>
+	<Point x="980" y="1087"/>
+	<Point x="1510" y="1087"/>
+	<Point x="1510" y="1030"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="549" y="529"/>
+	<Point x="549" y="576"/>
+	<Point x="1060" y="576"/>
+	<Point x="1060" y="529"/></Coords></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="331" y="656"/>
+	<Point x="1241" y="656"/>
+	<Point x="1241" y="822"/>
+	<Point x="331" y="822"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS ALUTACEUS. Bul. testâ oblongo-ovatâ, umbilicatâ,
+anfractibus septem, convexis, creberrimè corrugato-stri-
+atis, aperturâ ovali, columellâ reﬂexâ, labro vix reﬂexo;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="heading">
+	<Coords>
+	<Point x="538" y="588"/>
+	<Point x="1024" y="588"/>
+	<Point x="1024" y="644"/>
+	<Point x="538" y="644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 522. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672543">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:54:48</Created>
+	<LastChange>2012-02-10T09:55:08</LastChange></Metadata>
+	<Page imageFilename="00672543.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="560" y="894"/>
+	<Point x="1373" y="894"/>
+	<Point x="1373" y="996"/>
+	<Point x="560" y="996"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Papilio Podalirius L.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="92" y="1073"/>
+	<Point x="1835" y="1073"/>
+	<Point x="1835" y="2516"/>
+	<Point x="92" y="2516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est dans le déﬁlé de Talki, que longe le chemin me-
+nant de la vallée de l'Ili au lac Saïram, (le Saïram-noor),
+que nous rencontrâmes, le 23 Avril, les premiers individus
+de cette espèce, entre 3000´ et 4000´ d'élévation. En Mai,
+nous les vîmes voler dans les gorges et promontoires du
+Tian-Chian proprement dit, c. à d. dans les montagnes qu
+bordent au Sud la vallée de l'Ili-Kounguesse. C'est princi-
+palement près des cours d'eau, accompagnés d'une luxuriante
+végétation, que le papillon était à rencontrer. Les individus,
+que je réussis à prendre, ne diﬀèrent en rien de ceux de la
+1 génération de l'Europe; mais, je ne puis dire, d'après l'u-
+nique ♂ tres endommagé, que je pris en Juillet dans la vallée
+du Kounguesse, et qui, appartient indubitablement à la II
+génération, si celle-ci correspond à la II génération de l'Eu-
+rope, c. à d. si les ailes sont plus claires, plus diaphanes,
+si les bandes noires sont moins nettement accusées etc. Tous
+les individus que nous prîmes étaient de taille moyenne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="344" y="2626"/>
+	<Point x="1562" y="2626"/>
+	<Point x="1562" y="2721"/>
+	<Point x="344" y="2721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. P. Machaon L. et ab. Asiatica Mén.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="98" y="2810"/>
+	<Point x="1828" y="2810"/>
+	<Point x="1828" y="3139"/>
+	<Point x="98" y="3139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Embouchures de la rivière Khorgòsse, en Mars; Kouldjà,
+en Avril; et puis, durant tout l'été, et en tout lieu, jusqu'à
+10,000´ d'élévation. Quelques ♂♂ sont d'une teinte ocracée,
+comme l'on en voit souvent dans la Russie méridionale et le</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="792" y="166"/>
+	<Point x="1126" y="166"/>
+	<Point x="1126" y="258"/>
+	<Point x="792" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 347 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

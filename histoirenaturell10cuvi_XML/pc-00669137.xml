@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669137">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:29:14</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669137.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="102" y="265"/>
+	<Point x="1510" y="265"/>
+	<Point x="1511" y="589"/>
+	<Point x="558" y="594"/>
+	<Point x="551" y="598"/>
+	<Point x="516" y="598"/>
+	<Point x="500" y="589"/>
+	<Point x="100" y="590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>totale. Les pointes de la caudale se prolongent en ﬁl
+assez délié, et la portion molle de la dorsale et de
+l’anale est aussi aiguisée en pointe. Les ventrales
+sont eﬃlées et prolongées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="119" y="595"/>
+	<Point x="499" y="594"/>
+	<Point x="514" y="602"/>
+	<Point x="552" y="602"/>
+	<Point x="563" y="597"/>
+	<Point x="1490" y="593"/>
+	<Point x="1486" y="985"/>
+	<Point x="119" y="985"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson, d’un brun noirâtre, paraît avoir du
+noir autour des lèvres et au bord des nageoires. On
+ne peut le confondre cependant avec le nigroris, qui
+sera décrit plus loin, à cause de la diﬀérence du
+proﬁl. L’individu est long de six pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="71" y="1294"/>
+	<Point x="1499" y="1294"/>
+	<Point x="1499" y="1663"/>
+	<Point x="71" y="1663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un acanthure encore un peu plus haut que
+les précédens (sa hauteur n’est pas tout-à-
+fait deux fois dans sa longueur), a été rapporté
+de la mer des Indes par MM. Lesson et Garnot.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="124" y="1681"/>
+	<Point x="1488" y="1681"/>
+	<Point x="1488" y="1854"/>
+	<Point x="124" y="1854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est à peine si son proﬁl est courbé en S, et si
+le bord postérieur de sa caudale a quelque concavité.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="537" y="1858"/>
+	<Point x="1059" y="1858"/>
+	<Point x="1059" y="1927"/>
+	<Point x="537" y="1927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/26; A. 3/24, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="93" y="1939"/>
+	<Point x="1496" y="1939"/>
+	<Point x="1496" y="2265"/>
+	<Point x="93" y="2265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il paraît fauve et a de chaque côté douze ou treize
+lignes ﬁxes ondulées, blanchâtres, qui vont en mon‐
+tant en arrière; sa dorsale et son anale sont brunâ‐
+tres; sa caudale paraît avoir été jaune.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="124" y="2283"/>
+	<Point x="1089" y="2283"/>
+	<Point x="1089" y="2391"/>
+	<Point x="124" y="2391"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est long de quatre pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="328" y="1075"/>
+	<Point x="1215" y="1075"/>
+	<Point x="1215" y="1158"/>
+	<Point x="328" y="1158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE ONDULÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="328" y="1188"/>
+	<Point x="1215" y="1188"/>
+	<Point x="1215" y="1282"/>
+	<Point x="328" y="1282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus undulatus, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="header">
+	<Coords>
+	<Point x="483" y="179"/>
+	<Point x="1057" y="179"/>
+	<Point x="1057" y="258"/>
+	<Point x="483" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="page-number">
+	<Coords>
+	<Point x="1341" y="179"/>
+	<Point x="1505" y="179"/>
+	<Point x="1505" y="258"/>
+	<Point x="1341" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>205</Unicode></TextEquiv></TextRegion></Page></PcGts>

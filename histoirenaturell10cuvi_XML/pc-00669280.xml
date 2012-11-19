@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669280">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:46:53</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669280.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="365" y="278"/>
+	<Point x="1724" y="278"/>
+	<Point x="1724" y="439"/>
+	<Point x="365" y="439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>d’un rouge vif. Sa longueur est de deux aunes (quatre
+pieds), sa hauteur de sept pouces.1 »</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="329" y="448"/>
+	<Point x="1721" y="448"/>
+	<Point x="1718" y="704"/>
+	<Point x="934" y="703"/>
+	<Point x="326" y="704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il n’est personne, un peu habitué à des
+descriptions faites d’après des individus in‐
+complets, qui ne reconnaisse là un trachyptère.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="322" y="708"/>
+	<Point x="1724" y="707"/>
+	<Point x="1723" y="1559"/>
+	<Point x="322" y="1559"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces conjectures viennent d’ailleurs d’être
+pleinement vériﬁées par l’examen du poisson
+lui-même, que M. Le François, négociant du
+Hâvre, vient de rapporter du Cap-Nord.
+Quoique l’individu ait perdu son panache et
+ses ventrales, nous le trouvons encore assez
+bien conservé pour en donner une description
+aussi exacte que celle des espèces précédentes,
+et pour déterminer ses rapports avec les tra-
+chyptères, auxquels ressemble ce bogmare.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="365" y="1567"/>
+	<Point x="1726" y="1567"/>
+	<Point x="1726" y="2239"/>
+	<Point x="1374" y="2239"/>
+	<Point x="1360" y="2240"/>
+	<Point x="920" y="2240"/>
+	<Point x="731" y="2241"/>
+	<Point x="364" y="2242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sec et desséché, il a le corps aussi haut, mais la
+queue plus courte que celle de notre trachypterus
+falx. La plus grande hauteur du corps se mesure
+au quart de la longueur totale, et elle en fait le
+septième, la caudale n’y étant pas comprise. Sa hau‐
+teur, prise à la nuque, est moins forte d’un quart
+que celle du tronc; et celle de la queue, aux deux
+tiers postérieurs du corps, a encore plus de deux
+tiers de la plus grande hauteur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="383" y="2249"/>
+	<Point x="1103" y="2244"/>
+	<Point x="1461" y="2243"/>
+	<Point x="1722" y="2244"/>
+	<Point x="1722" y="2550"/>
+	<Point x="382" y="2550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La tête est un peu plus alongée que celle du tra‐
+chyptère en faux. La dorsale a presque le même
+nombre de rayons; y comprenant ceux du panache,
+j’en compte cent soixante quinze. Ces rayons ont</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="380" y="2594"/>
+	<Point x="1723" y="2594"/>
+	<Point x="1723" y="2665"/>
+	<Point x="380" y="2665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Olafsen et Brünnich, loc. cit., Bloch, Syst. posth., p. 518.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="317" y="173"/>
+	<Point x="455" y="173"/>
+	<Point x="455" y="255"/>
+	<Point x="317" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>348</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="714" y="182"/>
+	<Point x="1303" y="182"/>
+	<Point x="1303" y="255"/>
+	<Point x="714" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="338" y="2557"/>
+	<Point x="1728" y="2557"/>
+	<Point x="1728" y="2583"/>
+	<Point x="338" y="2583"/></Coords></SeparatorRegion></Page></PcGts>

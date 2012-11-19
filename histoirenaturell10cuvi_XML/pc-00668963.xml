@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669063">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T17:50:17</Created>
+	<LastChange>2012-02-09T16:27:26</LastChange></Metadata>
+	<Page imageFilename="00668963.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r44" index="0"/>
+	<RegionRefIndexed regionRef="r53" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1358" y="179"/>
+	<Point x="1435" y="179"/>
+	<Point x="1435" y="248"/>
+	<Point x="1358" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>31</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="503" y="197"/>
+	<Point x="1002" y="197"/>
+	<Point x="1002" y="248"/>
+	<Point x="503" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. CAPROS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="57" y="2149"/>
+	<Point x="154" y="2152"/>
+	<Point x="1454" y="2149"/>
+	<Point x="1454" y="2490"/>
+	<Point x="57" y="2490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mais tous les observateurs n'ont pas su le
+reconnaître dans les phrases caractéristiques
+de ces deux naturalistes suédois, et Brünnich
+entre autres, l'ayant retrouvé à Marseille, l'a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="footnote">
+	<Coords>
+	<Point x="117" y="2592"/>
+	<Point x="1449" y="2592"/>
+	<Point x="1449" y="2663"/>
+	<Point x="117" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Ath. VII, p.m. 305. — 2. Ibid. — 3. Hist. an., I. IV, c. 9.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20">
+	<Coords>
+	<Point x="69" y="2530"/>
+	<Point x="1455" y="2530"/>
+	<Point x="1455" y="2557"/>
+	<Point x="69" y="2557"/></Coords></SeparatorRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="17" y="262"/>
+	<Point x="1460" y="262"/>
+	<Point x="1460" y="1628"/>
+	<Point x="17" y="1628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de sanglier, qu'il croit devoir lui convenir,
+à cause de la forme de son museau, et parce
+qu'elle a la peau rude, ce qu' Athénée, d'après
+Aristote, attribue aussi au sanglier1. D'un
+autre côté, le sanglier, dans le même Athé-
+née, est vanté comme un excellent mets par
+Archestrate, le grand connaisseur en ce genre2,
+et Aristote le compte parmi les poissons de
+rivière et parmi ceux qui font entendre une
+sorte de grognement3, deux traits qui con-
+viennent bien peu au poisson dont nous par-
+lons; aussi Aldrovande rejette-t-il cette appli-
+cation du nom de ������, et l'on peut dire
+que la nomenclature ancienne du poisson dont
+il s'agit, comme celle de tant d'autres, est
+encore fort douteuse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="49" y="1639"/>
+	<Point x="1453" y="1639"/>
+	<Point x="1453" y="2138"/>
+	<Point x="231" y="2147"/>
+	<Point x="49" y="2138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Willughby a décrit cette espèce avec beau-
+coup plus de soin que Rondelet, et a donné
+quelques détails sur son anatomie, et c'est
+d'après ces deux ichthyologistes qu'Artédi l'a
+placée parmises zeus, et que Linné l'a nommée
+zeus aper.</Unicode></TextEquiv></TextRegion></Page></PcGts>

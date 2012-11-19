@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672388">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:25:36</Created>
+	<LastChange>2012-02-10T09:54:38</LastChange></Metadata>
+	<Page imageFilename="00672388.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="967" y="107"/>
+	<Point x="1285" y="107"/>
+	<Point x="1285" y="180"/>
+	<Point x="967" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 194 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="249" y="248"/>
+	<Point x="2012" y="248"/>
+	<Point x="2012" y="992"/>
+	<Point x="249" y="992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterrand, lebhaft goldgelb, an der Endhälfte des Vorderrandes
+in's Weissliche übergehend, auf der Basis des Vorderrandes
+spärlich mit Purpurschuppen bestreut, noch spärlicher auf dem
+Weisslichen. Das hinterste Drittel der Flügelﬂäche ist purpur-
+braun, ohne scharfe Abgrenzung gegen das Gelbe und Weiss-
+liche, gegen die Flügelspitze am dunkelsten. Nicht weit vom
+Hinterrand läuft eine verloschene, ziemlich grade, dunkel ge-
+säumte Querlinie. Franzen grau, gegen die Flügelspitze am
+dunkelsten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="235" y="999"/>
+	<Point x="2012" y="999"/>
+	<Point x="2012" y="1578"/>
+	<Point x="235" y="1578"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel ziemlich spitz, grau, gegen die Basis heller und
+etwas durchscheinend; die Adern bräunlich. Der erste Ast der
+Medianader entspringt sehr weit gegen die Basis, nämlich bei
+1/5; der zweite, vor welchem die Querader, bei 2/5; die ziem-
+lich nahe bei einander verlaufenden Aeste 3 und 4 bilden eine
+Gabel, die fast doppelt so lang ist wie ihr Stiel. Franzen
+weissgrau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="242" y="1582"/>
+	<Point x="2014" y="1582"/>
+	<Point x="2014" y="1914"/>
+	<Point x="242" y="1914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel grau, nach hinten dunkler. Ast
+1 der Medianader etwas gebogen wie 2 und von diesem weit
+getrennt bei 3/5 entspringend, 2 nahe bei 3, und dieser bildet
+mit 4 eine Gabel mit kurzem Stiel. — Hinterﬂügel hellgelblich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="248" y="1919"/>
+	<Point x="2010" y="1919"/>
+	<Point x="2010" y="2083"/>
+	<Point x="248" y="2083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Drei ♀♀ wurden am Guarinoﬂusse bei Honda zwischen dem
+25 April und 15 Mai von Petersen gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="578" y="2226"/>
+	<Point x="1671" y="2226"/>
+	<Point x="1671" y="2317"/>
+	<Point x="578" y="2317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. trichromata Tab. XI, ﬁg. 18.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="241" y="2360"/>
+	<Point x="2001" y="2360"/>
+	<Point x="2001" y="2712"/>
+	<Point x="241" y="2712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parva, robusta, palporum articulo terminali nigro, abdo-
+mine griseo; alis ant. ﬂavis, ad costam latius albidis, postice
+purpureo-rubiginosis cum striga obsoleta dilutiore, punctis ve-
+nae transversae duobus nigris, basi dorsali purpurea. ♂ (?), ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="248" y="2733"/>
+	<Point x="1999" y="2733"/>
+	<Point x="1999" y="3083"/>
+	<Point x="248" y="3083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>So auﬀallend es auch ist, dass zwei zum Verwechseln ähn-
+liche Arten zusammen vorkommen sollen, so lassen sich doch
+die vorliegende und Flavicans nicht zu einer Art vereinigen,
+da erstere schon in den Tastern, ausserdem auf den Vorder-</Unicode></TextEquiv></TextRegion></Page></PcGts>

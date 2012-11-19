@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672619">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:36:50</Created>
+	<LastChange>2012-02-10T09:55:23</LastChange></Metadata>
+	<Page imageFilename="00672619.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="816" y="169"/>
+	<Point x="1126" y="169"/>
+	<Point x="1126" y="246"/>
+	<Point x="816" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 423 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="107" y="307"/>
+	<Point x="1842" y="307"/>
+	<Point x="1842" y="578"/>
+	<Point x="107" y="578"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je n'ai point vu de passages vers l'Epinephele Narica
+Hb. Même époque, mêmes endroits et mêmes habitudes que
+la précédente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="91" y="996"/>
+	<Point x="1841" y="996"/>
+	<Point x="1841" y="1424"/>
+	<Point x="91" y="1424"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alis anticis integris, posticis subdentatis. Epinephele supra
+dilute fulva, orbiculis (caecis semper?) duobus (subapicali et
+altero cellulae secundae), in ♀ majoribus, limboque lato ala-
+rum omnium-fuscis; ♂ fascia subcellulari, diagonali, extus eden-
+tata, griseo-fusca.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="103" y="1435"/>
+	<Point x="1839" y="1435"/>
+	<Point x="1839" y="1607"/>
+	<Point x="103" y="1607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subtus anticae dilutiores, cinereo-limbatae orbiculis fuscis
+albo-centratis (in ♂ orbiculo cellulae secundae caeco).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="98" y="1617"/>
+	<Point x="1841" y="1617"/>
+	<Point x="1841" y="1794"/>
+	<Point x="98" y="1794"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Posticae cinereae, fuscescenti-irroratae punctis duobus sub-
+analibus nigris dilute-griseo cinctis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="83" y="1867"/>
+	<Point x="1841" y="1867"/>
+	<Point x="1841" y="2630"/>
+	<Point x="83" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ailes sont d'un brun-ocracé clair. Les deux sèxes ont
+deux points, brun-fuscescents ronds sur les antérieures, le point
+subapical de la ♀, portant trace d'un centre clair, ce qui me
+fait croire, que quelques individus peuvent l'avoir pupillé de
+blanchâtre, ou même de blanc. Ces points, dont le second se
+trouve dans la deuxiême cellule, sont d'égale grandeur chez
+la ♀, tantisque, le deuxième, est plus petit chez le ♂. Ce
+dernier présente une raie subcellulaire, d'un gris-ardoise, éden-
+tée, entre les nervures, extérieurement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="83" y="2642"/>
+	<Point x="1842" y="2642"/>
+	<Point x="1842" y="3151"/>
+	<Point x="83" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les quatre ailes sont entourées d'un limbe fuscescent, plus
+large sur les postérieures et se perdant sur ces dernières dans
+le gris-brunâtre du bord anal. La frange grisâtre est alter-
+née de brunâtre d'une manière très peu décidée aux anté-
+rieures et probablement elle ne l'est pas du tout chez quel-
+ques individus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="1837" y="651"/>
+	<Point x="1837" y="791"/>
+	<Point x="101" y="791"/>
+	<Point x="101" y="651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>97. E. Kirghisa Alph. nov. sp. Tab. XV, ﬁg. 24 ♂, 25 ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1837" y="793"/>
+	<Point x="1837" y="921"/>
+	<Point x="101" y="921"/>
+	<Point x="101" y="793"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ 38½; ♀ 40½ mill.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672537">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:53:55</Created>
+	<LastChange>2012-02-10T09:55:08</LastChange></Metadata>
+	<Page imageFilename="00672537.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="744" y="180"/>
+	<Point x="1046" y="180"/>
+	<Point x="1046" y="257"/>
+	<Point x="744" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 341 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="28" y="303"/>
+	<Point x="1789" y="303"/>
+	<Point x="1789" y="2908"/>
+	<Point x="28" y="2908"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>heures, grâce aux dispositions prises d'avance par les autori-
+tés de Kouldjà. La nuit du 10 au 11, nous campâmes sur
+la rive gauche de l'Ili. Le temps s'était remis au beau, et
+continua à nous favoriser durant le reste de notre voyage.
+Le lendemain nous étions à Kaïnak, où nous fûmes accueillis
+fort cordialement par Mr. Israztsoff, chef*) de la rive gauche
+du district de Kouldjà. Dans ce village se trouvait le haras
+de notre guide en chef Tokhta-Akhoune, haras composé de
+47 chevaux, de race chinoise pour la plupart, que je lui per-
+mis d'emmener avec nous. Nous remontâmes durant une se-
+maine la rive gauche de l'Ili jusqu'à la rivière Tékesse, que
+nous traversâmes à gué, grâce à la sécheresse exceptionelle
+de l'année. Le Tékesse émerge en cet endroit des montagnes
+du Tian-Chian, et rejoint quelques kilomètres plus loin le
+Kounguesse, pour former de sa réunion l'Ili. Le Tékesse dé-
+passé, nous campâmes sur la rive droite, qui est sablonneuse
+et infestée de vipères, de phalanges (Solpuga) et de tarentu-
+les. La tribu Kalmouk Chamir **) qui campait en cet endroit
+nous aida à trouver le gué et à soutenir les chameaux pen-
+dant le passage: c'était là les derniers hommes que nous de-
+vions rencontrer, tout le pays que nous visitâmes ensuite étant
+inhabité. Nous nous arrêtâmes en cet endroit pendant deux
+jours, tant pour chasser la rare et nouvelle Coen. Mongolica
+Ersch. in litt., que pour faire reposer nos chameaux. Nous
+nous étions déjà élevés d'un millier de pieds environ depuis
+Kouldjà ce qui faisait une élévation absolue de 3000 pieds.
+Nous continuâmes notre route en ligne directe vers l'Orient,
+et nous eûmes bientôt à franchir l'un des plus importants af-
+ﬂuents gauches du Kounguesse, la Tsangma. L'espace compris
+entre cette rivière et le Tékesse foisonnait en reptiles. J'y
+remarquais surtout: l'Elaphis Dione, l'Eryx jaculus et la Vipera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote">
+	<Coords>
+	<Point x="123" y="2996"/>
+	<Point x="1310" y="2996"/>
+	<Point x="1310" y="3064"/>
+	<Point x="123" y="3064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) У���H��� на�а�ьн�к� ��на�о у�астка �. ��ра��ев�.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="124" y="3073"/>
+	<Point x="1774" y="3073"/>
+	<Point x="1774" y="3139"/>
+	<Point x="124" y="3139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>**) Restaut d'un peuple nombreux réduit aujourd'hui à 500 tentes en tout.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="64" y="2948"/>
+	<Point x="610" y="2948"/>
+	<Point x="610" y="2969"/>
+	<Point x="64" y="2969"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672571">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:59:16</Created>
+	<LastChange>2012-02-10T09:55:11</LastChange></Metadata>
+	<Page imageFilename="00672571.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="757" y="188"/>
+	<Point x="1085" y="188"/>
+	<Point x="1085" y="269"/>
+	<Point x="757" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 375 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="52" y="321"/>
+	<Point x="1780" y="321"/>
+	<Point x="1780" y="514"/>
+	<Point x="52" y="514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>raient peut-être eclaircir ce fait, qui est certainement remar-
+quable et signiﬁcatif, mais que je ne fois que constater ici.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="614" y="576"/>
+	<Point x="1219" y="576"/>
+	<Point x="1219" y="671"/>
+	<Point x="614" y="671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>24. C. Aurora Esp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="45" y="1661"/>
+	<Point x="1800" y="1661"/>
+	<Point x="1800" y="2004"/>
+	<Point x="45" y="2004"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'aurais voulu parler longuement de cette espèce, dans ce
+travail; mais, j'ai dû, pour des raisons majeures rémettre, tout
+ce que j'avais à en dire à une autre occasion, qui, je l'espère,
+ne se fera pas longtemps attendre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="519" y="2069"/>
+	<Point x="1333" y="2069"/>
+	<Point x="1333" y="2161"/>
+	<Point x="519" y="2161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>25. Rhodocera Rhamni L.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="45" y="2209"/>
+	<Point x="1802" y="2209"/>
+	<Point x="1802" y="2385"/>
+	<Point x="45" y="2385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A partir de la ﬁn Mars, un peu partout jusqu'à 5000'
+d'altitude.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="45" y="2392"/>
+	<Point x="1804" y="2392"/>
+	<Point x="1804" y="3176"/>
+	<Point x="45" y="3176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je n'en ai malheureusement rapporté qu'un seul ♂, et je
+crois même ne pas en avoir vu de ♂. Le ♂ est entout sem-
+blable au type d'Europe. Mr. Erschoff cite la Rhod. Fari-
+nosa Zell, comme trouvée par l'expédition Fetschenko, dans
+le Turkestan. Stauding er arrive à conclure, dans les Ho-
+rae Soc. Ent. Ross. 1878, p. 225 et 226, que la Farinosa
+et la Rhamni sont deux espèces distinctes, ce que d'ailleurs,
+avait prévu Mr. Mann, il y a longtemps (Wien. Ent. Mo-
+nat. 1861, p. 157).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="54" y="723"/>
+	<Point x="1800" y="723"/>
+	<Point x="1800" y="1652"/>
+	<Point x="45" y="1652"/>
+	<Point x="45" y="1159"/>
+	<Point x="54" y="1159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une seule grande ♀ (59½ mill.), très fraîche, et par
+conséquent, avec les nervures non noirâtres, mais recouvertes
+d'écailles de la couleur du fond. La tâche discocellulaire des
+secondes ailes est d'un orange vif. Le bord extérieur des pre-
+mières ailes est plus arrondi (moins droit) que dans les deux
+♀♀ que j'ai en collection (de la Sibérie orientale). Les points
+marginaux sur le revers des ailes sont assez distincts. Nous
+trouvâmes cette ♀ sur la rive gauche de l'Archane, à une
+altitude de 7500 pieds environ, le 17 Juin. Mon chasseur,
+Mistchenko, la poursuivit à cheval pendant deux kilomètres
+au moins, avant de s'en saisir.</Unicode></TextEquiv></TextRegion></Page></PcGts>

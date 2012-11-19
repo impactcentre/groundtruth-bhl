@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668949">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T23:06:20</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668949.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="575" y="230"/>
+	<Point x="983" y="230"/>
+	<Point x="983" y="290"/>
+	<Point x="575" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. ZÉES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="140" y="323"/>
+	<Point x="1484" y="323"/>
+	<Point x="1484" y="1078"/>
+	<Point x="140" y="1078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La seconde anale répond à la dorsale molle
+par sa grandeur et par sa position. Elle a vingt-et-un
+rayons articulés, et le contour de sa base est aussi
+protégé par neuf épines fourchues de chaque côté.
+La portion de queue nue, en arrière de la dorsale
+et de l'anale, est petite, comprimée, et à peu près
+carrée; la caudale a son bord un peu arrondi, et
+l'on n'y compte que treize rayons entiers, la plu-
+part branchus jusqu'au milieu, et deux ou trois
+petits au-dessus et au-dessous de sa base.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="141" y="1079"/>
+	<Point x="1482" y="1079"/>
+	<Point x="1482" y="1755"/>
+	<Point x="141" y="1755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Outre les armures des nageoires, la dorée a la
+carène de sa poitrine, entre ses ouïes et son ventre,
+et celle de l'abdomen, de ses ventrales à son anale,
+garnies de deux rangées d'écussons osseux, relevés
+chacun d'une arête qui, en arrière, ﬁnit en petit
+crochet; on en compte cinq paires dans la première
+division et huit dans la seconde. C'est entre la
+dernière et l'avant-dernière paire que l'anus est
+percé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="143" y="1758"/>
+	<Point x="1487" y="1758"/>
+	<Point x="1487" y="2660"/>
+	<Point x="143" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La joue, qui, d'après la longueur du préopercule,
+forme un triangle assez élevé, est la seule partie de
+la tête qui ait des écailles. Elles ressemblent à celles
+du corps et sont petites, ovales, à demi plongées dans
+l'épiderme, couvrent la peau, mais ne s'imbriquent
+point les unes sur les autres et ne forment point de
+rangées régulières; à la loupe elles ne montrent que
+des rides irrégulièrement rayonnantes : il n'y a au-
+cune écaille sur les nageoires. La ligne latérale a une
+courbure assez semblable à celle du dos, et toutefois
+elle s'en rapproche plus en avant, où sa distance est
+d'un cinquième de la hauteur, qu'en arrière, où cette</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="199" y="2696"/>
+	<Point x="283" y="2696"/>
+	<Point x="283" y="2771"/>
+	<Point x="199" y="2771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1192" y="2717"/>
+	<Point x="1239" y="2717"/>
+	<Point x="1239" y="2764"/>
+	<Point x="1192" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1400" y="223"/>
+	<Point x="1479" y="223"/>
+	<Point x="1479" y="286"/>
+	<Point x="1400" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>17</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668510">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:16:00</Created>
+	<LastChange>2012-02-10T09:53:22</LastChange></Metadata>
+	<Page imageFilename="00668510.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r25" index="8"/>
+	<RegionRefIndexed regionRef="r27" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r29" index="13"/>
+	<RegionRefIndexed regionRef="r31" index="14"/>
+	<RegionRefIndexed regionRef="r15" index="15"/>
+	<RegionRefIndexed regionRef="r16" index="16"/>
+	<RegionRefIndexed regionRef="r17" index="17"/>
+	<RegionRefIndexed regionRef="r18" index="18"/>
+	<RegionRefIndexed regionRef="r19" index="19"/>
+	<RegionRefIndexed regionRef="r20" index="20"/>
+	<RegionRefIndexed regionRef="r21" index="21"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="289" y="235"/>
+	<Point x="1194" y="235"/>
+	<Point x="1194" y="636"/>
+	<Point x="289" y="636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>to the liberality of A. L. Gubba, Esq., of Havre. It is
+of a swollen ovate form with the spire rather sharply
+acuminated, and the columella is distinguished by a sharp
+winding plait. The ground colour of the shell is a reddish
+purple, the last whorl being particularly characterized by
+a thin ash-coloured epidermis, sprinkled with light fulvous
+spots, all inclining towards the lip which is of a delicate
+ﬂesh-pink.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="500" y="698"/>
+	<Point x="977" y="698"/>
+	<Point x="977" y="760"/>
+	<Point x="500" y="760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 428. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="291" y="768"/>
+	<Point x="1195" y="768"/>
+	<Point x="1195" y="1008"/>
+	<Point x="291" y="1008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS LINEATUS. Bul. testâ acuminato-conicâ, sub-
+umbilicatâ, anfractibus septem, lœvibus, sub lente
+minutè striatis, columellâ latè reﬂexâ, aperturâ subobli-
+quâ, labro paululum reﬂexo; albidâ, cinnamomeo-fus-
+cescente obliquè lineatâ et strigatâ, labro niveo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="288" y="1011"/>
+	<Point x="1198" y="1011"/>
+	<Point x="1198" y="1294"/>
+	<Point x="288" y="1294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LINEATED BULIMUS. Shell acuminately conical,
+slightly umbilicated, whorls seven in number, smooth,
+minutely striated beneath the lens, columella broadly
+reﬂected, aperture rather oblique, lip a little reﬂected;
+whitish, obliquely lineated and streaked with light
+cinnamon brown, lip snow-white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="290" y="1297"/>
+	<Point x="808" y="1297"/>
+	<Point x="808" y="1344"/>
+	<Point x="290" y="1344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SPIX, Test. Bras. p. 8. pl. 7. f. 6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="293" y="1348"/>
+	<Point x="506" y="1348"/>
+	<Point x="506" y="1388"/>
+	<Point x="293" y="1388"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="292" y="1408"/>
+	<Point x="1195" y="1408"/>
+	<Point x="1195" y="1509"/>
+	<Point x="292" y="1509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Not much unlike the B. cinnamomeo-lineatus in general
+appearance.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1306" y="236"/>
+	<Point x="2144" y="236"/>
+	<Point x="2144" y="377"/>
+	<Point x="1306" y="377"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que ad sex, subtilissimè striatulis, ultimo inﬂato, patulo,
+columellâ labroque tenuibus, simplicibus; stramineo-
+corneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1234" y="384"/>
+	<Point x="2148" y="384"/>
+	<Point x="2148" y="620"/>
+	<Point x="1234" y="620"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE FALSE‐SUCCINEA BULIMUS. Shell somewhat fusi-
+formly oblong, very thin, glassy, transparent, whorls
+ﬁve to six in number, very ﬁnely and delicately stri‐
+ated, last whorl inﬂated, wide open, lip and columella
+thin, simple; pale straw horn-colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1237" y="624"/>
+	<Point x="2140" y="624"/>
+	<Point x="2140" y="710"/>
+	<Point x="1237" y="710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>POTIEZ and MICHAUD, Gal. de Douai, vol. i. p. 140. pl.
+13. f. 5. 6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1234" y="830"/>
+	<Point x="2146" y="830"/>
+	<Point x="2146" y="924"/>
+	<Point x="1234" y="924"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An extremely transparent glassy shell of a delicate pale
+straw-colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="1460" y="996"/>
+	<Point x="1920" y="996"/>
+	<Point x="1920" y="1051"/>
+	<Point x="1460" y="1051"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 430. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1238" y="1064"/>
+	<Point x="2144" y="1064"/>
+	<Point x="2144" y="1254"/>
+	<Point x="1238" y="1254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS NATALENSIS. Bul. testâ angulato-conicâ, Tro-
+chiformi, anfractibus sex, obliquè striatis, ultimo angu-
+lato-productis, columellâ subincrassatâ, labro simplici;
+fulvâ, nitente, nigro-fusco conspicuè fasciatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1237" y="1258"/>
+	<Point x="2145" y="1258"/>
+	<Point x="2145" y="1489"/>
+	<Point x="1237" y="1489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE NATAL BULIMUS. Shell angularly conical, Tro-
+chus-shaped, whorls six in number, obliquely striated,
+last whorl angularly produced, columella rather
+thickened, lip simple; fulvous, shining, conspicuously
+banded with black-brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1238" y="1496"/>
+	<Point x="2003" y="1496"/>
+	<Point x="2003" y="1542"/>
+	<Point x="1238" y="1542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>KRAUSS, Sudafrikanischen Moll. p. 71. pl. 5. f. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1235" y="1544"/>
+	<Point x="1734" y="1544"/>
+	<Point x="1734" y="1590"/>
+	<Point x="1235" y="1590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Port Natal, South Africa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="heading">
+	<Coords>
+	<Point x="511" y="1581"/>
+	<Point x="984" y="1581"/>
+	<Point x="984" y="1646"/>
+	<Point x="511" y="1646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 429. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="295" y="1651"/>
+	<Point x="1195" y="1651"/>
+	<Point x="1195" y="1758"/>
+	<Point x="295" y="1758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS PSEUDO‐SUCCINEA. Bul. testâ subfusiformi-
+oblongâ, tenuissimâ, vitreâ, pellucidâ, anfractibus quin-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1312" y="716"/>
+	<Point x="1835" y="716"/>
+	<Point x="1835" y="764"/>
+	<Point x="1312" y="764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Helix pseudo-Succinea, Moricand.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1235" y="766"/>
+	<Point x="1558" y="766"/>
+	<Point x="1558" y="812"/>
+	<Point x="1235" y="812"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Bahia, Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1237" y="1607"/>
+	<Point x="2145" y="1607"/>
+	<Point x="2145" y="1745"/>
+	<Point x="1237" y="1745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A light semitransparent trochiform shell, conspicuously
+dark-banded at the sutures and round the middle of the
+last whorl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="985" y="138"/>
+	<Point x="1440" y="138"/>
+	<Point x="1440" y="188"/>
+	<Point x="985" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE LXII.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r34">
+	<Coords>
+	<Point x="515" y="654"/>
+	<Point x="515" y="677"/>
+	<Point x="961" y="677"/>
+	<Point x="961" y="654"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r38">
+	<Coords>
+	<Point x="516" y="1526"/>
+	<Point x="516" y="1559"/>
+	<Point x="1002" y="1559"/>
+	<Point x="1002" y="1526"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r40">
+	<Coords>
+	<Point x="975" y="2137"/>
+	<Point x="975" y="2161"/>
+	<Point x="1442" y="2161"/>
+	<Point x="1442" y="2137"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r41">
+	<Coords>
+	<Point x="1204" y="240"/>
+	<Point x="1204" y="1736"/>
+	<Point x="1228" y="1736"/>
+	<Point x="1228" y="240"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r42">
+	<Coords>
+	<Point x="1465" y="948"/>
+	<Point x="1907" y="948"/>
+	<Point x="1907" y="978"/>
+	<Point x="1465" y="978"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668801">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T03:42:15</Created>
+	<LastChange>2012-02-10T10:29:37</LastChange></Metadata>
+	<Page imageFilename="00668801.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r29" index="2"/>
+	<RegionRefIndexed regionRef="r35" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r38" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r54" index="9"/>
+	<RegionRefIndexed regionRef="r66" index="10"/>
+	<RegionRefIndexed regionRef="r10" index="11"/>
+	<RegionRefIndexed regionRef="r11" index="12"/>
+	<RegionRefIndexed regionRef="r75" index="13"/>
+	<RegionRefIndexed regionRef="r105" index="14"/>
+	<RegionRefIndexed regionRef="r13" index="15"/>
+	<RegionRefIndexed regionRef="r14" index="16"/>
+	<RegionRefIndexed regionRef="r15" index="17"/>
+	<RegionRefIndexed regionRef="r16" index="18"/>
+	<RegionRefIndexed regionRef="r17" index="19"/>
+	<RegionRefIndexed regionRef="r18" index="20"/>
+	<RegionRefIndexed regionRef="r19" index="21"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="975" y="248"/>
+	<Point x="1302" y="248"/>
+	<Point x="1302" y="313"/>
+	<Point x="975" y="313"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1053" y="345"/>
+	<Point x="1242" y="345"/>
+	<Point x="1242" y="395"/>
+	<Point x="1053" y="395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="229" y="781"/>
+	<Point x="1119" y="781"/>
+	<Point x="1118" y="1070"/>
+	<Point x="229" y="1064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BALL HELMET. Shell somewhat globosely ovate,
+spire rather short, sharp at the apex; whorls destitute
+of varices, very closely encircled throughout with
+engraved striæ; columella thickly plicately ridged,
+lip dentately ridged; fulvous white, painted with
+rows of numerous small square red-brown spots.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="233" y="1070"/>
+	<Point x="429" y="1070"/>
+	<Point x="429" y="1106"/>
+	<Point x="233" y="1106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. China.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="233" y="1128"/>
+	<Point x="1116" y="1128"/>
+	<Point x="1116" y="1223"/>
+	<Point x="233" y="1223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A shell of rather light growth, globose in form, painted
+with neatly deﬁned distant spots.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="234" y="1374"/>
+	<Point x="1117" y="1374"/>
+	<Point x="1117" y="1759"/>
+	<Point x="234" y="1759"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS INFLATA. Cass. testâ subgloboso-ovatâ, tenuiculâ,
+ventricosissimâ, spirâ acutâ; anfractibus rotundatis,
+inﬂatis, lœvigatis, transversim obsoletè sulcatis, apicem
+versus reticulatè striatis; columellâ leviter plicatâ et
+conspicuè granosâ, labro reﬂexo, intus acutè brevilirato;
+cœrulescente-albidâ, fasciis quinque macularum rufo-
+fuscescentium cingulatâ, maculis subquadratis, irregu-
+lariter interruptis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="235" y="2208"/>
+	<Point x="1119" y="2208"/>
+	<Point x="1119" y="2296"/>
+	<Point x="235" y="2296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Testa multo minor, anfractibus supernè crebrè nodosis, non-
+nullis univaricosis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="229" y="2301"/>
+	<Point x="1122" y="2301"/>
+	<Point x="1121" y="2394"/>
+	<Point x="229" y="2400"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Shell much smaller, with the whorls closely noduled round
+the upper part, some of them distinguished by a varix.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="234" y="2595"/>
+	<Point x="479" y="2595"/>
+	<Point x="479" y="2637"/>
+	<Point x="234" y="2637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Barbados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1161" y="432"/>
+	<Point x="2051" y="432"/>
+	<Point x="2051" y="1577"/>
+	<Point x="1161" y="1577"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The ﬁrst authentic illustration of this species occurs in
+Shaw’s Naturalist’s Miscellany, 1789, with the name Buc-
+cinum inﬂatum. Ten years subsequently an equally cha‐
+racteristic ﬁgure of it was published by Chemnitz in his
+last volume of the Conchylien Cabinet under the title Buc-
+cinum cassideum tessellatum. These, however, were over‐
+looked by Bruguière and Lamarck, who introduced the
+species with the name granulosa, and referred for illustration
+to Martini’s ﬁgures, Conch. Cab. v. 2. f. 344—5 and 350-
+52, which also comprehend the C. abbreviata and saburon.
+Kiener, following in the steps of his predecessors in
+adopting the name granulosa, added much to the con-
+fusion by representing the C. recurvirostrum to be the young
+of it, and that both were merely varieties of the C. sulcosa
+of the Mediterranean, arising out of diﬀerences of age or
+sex. It does not appear that this crotchet of M. Kiener’s
+was noticed in the new edition of Lamarck, and M. Deshayes
+errs in stating that the ﬁgures above alluded to in Martini.
+“can only be referred to this species.” The shell Fig.
+344-5 is without doubt a C. inﬂata, though presenting the
+unusual feature of a strong lateral varix, but ﬁg. 350, is
+a variety of C. saburon, distinguished by the dark spots
+behind the reﬂected lip, and the shell, Fig. 351—2 is a
+pale variety of Lamarck’s C. abbreviata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1164" y="1580"/>
+	<Point x="2044" y="1580"/>
+	<Point x="2044" y="1717"/>
+	<Point x="1164" y="1717"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The coronated variety of C. inﬂatum is very uniform
+and I am not aware that it exceeds the size of the specimen
+here ﬁgured.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="1394" y="1808"/>
+	<Point x="1826" y="1808"/>
+	<Point x="1826" y="1854"/>
+	<Point x="1394" y="1854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 23. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1163" y="1868"/>
+	<Point x="2050" y="1868"/>
+	<Point x="2050" y="2249"/>
+	<Point x="1163" y="2249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS JAPONICA. Cass. testâ ovatâ, tenuiculâ, ventricosâ,
+inﬂatâ, spirâ breviusculâ, acutâ; anfractibus supernè
+rotundatis, transversim acutè sulcatis, sulcis supremis
+cœteris latioribus, striis subtilibus elevatiusculis longi-
+tudinalibus obliquis decussatis; columellâ plicato-ru-
+gatâ, rugis partim obsoletis, interruptis et obscurè gra-
+nulatis; labro dentato-lirato; albidâ, maculis oblongo-
+quadratis inœqualibus castaneo-ruﬁs quinquefasciatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1163" y="2251"/>
+	<Point x="2052" y="2251"/>
+	<Point x="2052" y="2627"/>
+	<Point x="1163" y="2627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE JAPAN HELMET. Shell ovate, rather thin, ventri-
+cose, inﬂated, spire rather short, sharp; whorls
+rounded at the upper part, transversely sharply
+grooved, uppermost grooves broader than the rest,
+decussated with very ﬁne slightly elevated longitu‐
+dinal oblique striæ; columella plicately wrinkled,
+wrinkles partially obsolete, interrupted and obscurely
+granulated; lip dentately toothed; whitish, encircled</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1002" y="2658"/>
+	<Point x="1284" y="2658"/>
+	<Point x="1284" y="2711"/>
+	<Point x="1002" y="2711"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>September, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="heading">
+	<Coords>
+	<Point x="454" y="428"/>
+	<Point x="894" y="428"/>
+	<Point x="894" y="480"/>
+	<Point x="454" y="480"/>
+	<Point x="451" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 21. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="229" y="489"/>
+	<Point x="1119" y="489"/>
+	<Point x="1119" y="777"/>
+	<Point x="229" y="777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS PILA. Cass. testâ subgloboso-ovatâ, spirâ brevius-
+culâ, apice acutâ; anfractibus evaricosis, transversim
+undique creberrimè inciso-striatis; columellâ densè
+plicato-liratâ, labro dentato-lirato; fulvo-albicante,
+maculis numerosis parvis quadratis rufo-fuscis seriatim
+pictâ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r36">
+	<Coords>
+	<Point x="454" y="1238"/>
+	<Point x="454" y="1257"/>
+	<Point x="910" y="1257"/>
+	<Point x="910" y="1238"/></Coords></SeparatorRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="229" y="1762"/>
+	<Point x="1120" y="1762"/>
+	<Point x="1120" y="2141"/>
+	<Point x="229" y="2141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE INFLATED HELMET. Shell somewhat globosely ovate,
+rather thin, extremely ventricose, spire sharp; whorls
+rounded, inﬂated, smooth, transversely obsoletely
+grooved, reticulately striated towards the apex; colu‐
+mella smoothly plicated and conspicuously granose,
+lip reﬂected, sharply shortly ridged within; bluish
+white, encircled by ﬁve bands of somewhat square
+and irregularly interrupted reddish-brown spots.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r66" type="heading">
+	<Coords>
+	<Point x="373" y="2154"/>
+	<Point x="983" y="2154"/>
+	<Point x="983" y="2205"/>
+	<Point x="373" y="2205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Variety β (Fig. a and b. Mus. Hanley.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r75" type="paragraph">
+	<Coords>
+	<Point x="235" y="2403"/>
+	<Point x="571" y="2401"/>
+	<Point x="1017" y="2398"/>
+	<Point x="1017" y="2447"/>
+	<Point x="235" y="2447"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum inﬂatum, Shaw, Nat. Misc. v. 22. pl. 959.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r122">
+	<Coords>
+	<Point x="1382" y="1746"/>
+	<Point x="1382" y="1765"/>
+	<Point x="1841" y="1765"/>
+	<Point x="1841" y="1746"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r123">
+	<Coords>
+	<Point x="1133" y="431"/>
+	<Point x="1133" y="2620"/>
+	<Point x="1152" y="2620"/>
+	<Point x="1152" y="431"/></Coords></SeparatorRegion>
+	<TextRegion id="r38" type="heading">
+	<Coords>
+	<Point x="292" y="1264"/>
+	<Point x="1044" y="1264"/>
+	<Point x="1044" y="1361"/>
+	<Point x="292" y="1361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 22. (Fig. a and b. Mus. Hanley. Fig. c.
+Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r105" type="paragraph">
+	<Coords>
+	<Point x="305" y="2450"/>
+	<Point x="800" y="2450"/>
+	<Point x="800" y="2591"/>
+	<Point x="305" y="2591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum tessellatum, Chemnitz.
+Cassidea granulosa, Bruguière.
+Cassis granulosa, Lamarck.</Unicode></TextEquiv></TextRegion></Page></PcGts>

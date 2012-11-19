@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669131">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:28:32</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669131.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="183" y="301"/>
+	<Point x="1560" y="289"/>
+	<Point x="1560" y="1719"/>
+	<Point x="1162" y="1720"/>
+	<Point x="185" y="1723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>opercule; elle se dirige un peu en avant; la seconde,
+qui manque quelquefois en tout ou en partie, part
+de la base antérieure de la dorsale et se perd dans
+l’aisselle de la pectorale; la troisième naît de la
+septième épine dorsale et aboutit derrière l’anus; la
+quatrième se porte de l’un des premiers rayons mous
+de la dorsale aux premiers de l’anale; la cinquième,
+enﬁn, s’étend du tiers postérieur à peu près de la partie
+molle de la dorsale, à la partie correspondante de
+l’anale. Quelques-uns en ont une sixième sur la queue;
+mais le plus souvent elle est interrompue et se réduit
+à deux taches ou à deux points. Il y a quelquefois de
+chaque côté de la poitrine une ligne ou une série
+longitudinale de points bruns. Les nageoires ver‐
+ticales sont, dans la liqueur, d’un vert grisâtre ou
+jaunâtre; dans le frais, brunâtre; les pectorales, jau‐
+nâtres, ont souvent une tache noirâtre sur leur base;
+les ventrales sont noirâtres à leur face supérieure et
+blanchâtres à l’inférieure; l’iris est doré.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="205" y="1730"/>
+	<Point x="1549" y="1723"/>
+	<Point x="1551" y="1862"/>
+	<Point x="756" y="1866"/>
+	<Point x="744" y="1875"/>
+	<Point x="374" y="1873"/>
+	<Point x="367" y="1881"/>
+	<Point x="204" y="1881"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus ont depuis trois à quatre jusqu’à
+sept pouces de longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="202" y="1887"/>
+	<Point x="414" y="1887"/>
+	<Point x="421" y="1879"/>
+	<Point x="756" y="1877"/>
+	<Point x="761" y="1871"/>
+	<Point x="1557" y="1866"/>
+	<Point x="1564" y="2404"/>
+	<Point x="204" y="2406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le squelette de l’acanthure zèbre diﬀère peu de
+celui de l’hépate, et a notamment la même structure
+à ses premiers interépineux; mais celui du dos a une
+épine couchée, comme dans le medicus et d’autres
+espèces. Il n’y a qu’un très petit trou au cubital: le
+radial en a un assez grand. Les vertèbres sont au
+nombre de huit à l’abdomen, et de douze à la queue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="158" y="2412"/>
+	<Point x="1566" y="2412"/>
+	<Point x="1566" y="2680"/>
+	<Point x="158" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. de Lacépède, pour représenter ce pois‐
+son, a fait graver (tome IV, pl. 6, ﬁg. 3) un
+assez bon dessin, fait au crayon par Jossigny,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1410" y="194"/>
+	<Point x="1533" y="194"/>
+	<Point x="1533" y="262"/>
+	<Point x="1410" y="262"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>199</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="534" y="211"/>
+	<Point x="1120" y="211"/>
+	<Point x="1120" y="271"/>
+	<Point x="534" y="271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669261">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:44:37</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669261.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="53" y="341"/>
+	<Point x="1460" y="341"/>
+	<Point x="1460" y="509"/>
+	<Point x="53" y="509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>peut se le ﬁgurer comme un petit lambeau
+de toile d’argent, aiguisé en pointe en arrière.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="92" y="520"/>
+	<Point x="1460" y="520"/>
+	<Point x="1460" y="2716"/>
+	<Point x="92" y="2716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur est quatre fois dans sa longueur, et
+il est mince comme un papier un peu épais. La
+ligne de son dos règne jusqu’au-dessus de l’œil,
+d’où elle descend rapidement pour former le proﬁl.
+La longueur de sa tête, à peu près égale à sa hau‐
+teur, est près de cinq fois dans sa longueur. Sur le
+sommet, c’est-à-dire sur l’extrémité antérieure de
+la nuque, est une nageoire ou plutôt un lobe
+de nageoire, qui s’élève à une hauteur égale à la
+moitié de la longueur du corps; elle est soutenue de
+sept rayons très-grêles; immédiatement derrière
+commence la dorsale ordinaire, qui se lie même à
+cette espèce de panache par sa membrane, et n’en
+est séparée que par une profonde échancrure, en
+sorte que ce ne sont pas précisément deux nageoires.
+Cette dorsale s’étend sur toute la longueur du dos, ex‐
+cepté seulement le petit bout de la queue. Sa hauteur
+moyenne est de moitié de celle du corps et même d’un
+peu plus; on y compte cent trente-sept rayons, ce qui,
+avec le panache, ferait cent quarante-quatre; mais
+il est diﬃcile de bien distinguer les derniers, et il
+y en a peut-être quelques-uns de plus. La queue est
+très-mince et porte, non pas à son extrémité, mais
+sur son bord supérieur, une nageoire dirigée obli‑
+quement vers le haut, qui a plus de moitié de la
+longueur du corps, et est soutenue par sept rayons
+grêles. Le bout même de la queue, qui semble faire
+un second lobe de la caudale, n’a que cinq petits
+rayons, dont le supérieur n’a pas le quinzième de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="445" y="241"/>
+	<Point x="1065" y="241"/>
+	<Point x="1065" y="314"/>
+	<Point x="445" y="314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1331" y="241"/>
+	<Point x="1466" y="241"/>
+	<Point x="1466" y="314"/>
+	<Point x="1331" y="314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>329</Unicode></TextEquiv></TextRegion></Page></PcGts>

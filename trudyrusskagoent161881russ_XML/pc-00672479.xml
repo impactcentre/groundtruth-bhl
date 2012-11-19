@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672479">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:42:01</Created>
+	<LastChange>2012-02-10T09:54:59</LastChange></Metadata>
+	<Page imageFilename="00672479.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="139" y="399"/>
+	<Point x="1646" y="399"/>
+	<Point x="1646" y="489"/>
+	<Point x="139" y="489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dexia (nv. gen. ?) masiceraeformis ♂ et ♀ nv. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="26" y="519"/>
+	<Point x="1776" y="519"/>
+	<Point x="1776" y="2524"/>
+	<Point x="26" y="2524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oblonga, cinerea v. grisea tessellis, maculis irregularibus
+micantibus vittisqne nigris. Colore et statura corporis Dexiae
+ferinae similis, sed distincta: magnitudine corporis paullo mi-
+nore et angustiore, fronte in mare multo latiore (oculi modice
+late disjuncti) in faemina non distincte latiore, quam in fae-
+mina D. ferinae (oculi sat late disjuncti), sed vitta frontali
+nigra in utroque sexu antice non dilatata; setis frontalibus ad
+apicem articuli secundi antennarum descendentibus (non ad
+radicem tantum antennarum); antennis longioribus, totis nigris,
+articulo tertio in mare basi paullo angustiore et in utroque
+sexu fere trilongiore secundo; arista distincte longiore et bre-
+vissime puberula (non plumata nec pilosula); genis et peristo-
+mio multo angustioribus; epistomate inferne non exserta et in
+medio non carinata; palpis nigris longioribus; proboscide bre-
+viore et crassiore; thorace quadrilineato, lineis mediis tenuis-
+simis, lateralibus latis in medio non distincte interruptis (non
+trivittato, vitta media triplicata); segmento primo dorso inerme,
+secundo et tertio macrochetis discoidalibus et marginalibus;
+quarto seriebus duabus macrochetarum in utroque sexu prae-
+ditis; nervo quinto alarum supra cubitum paullo lon-
+gius a margine alarum sito et cubito fere aeque distante a
+margine alarum et a nervo transverso secundo; cellula prima
+postica apice angustius aperta, pedibusque paullo brevioribus.
+Long. 4—5¼‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="146" y="2530"/>
+	<Point x="1578" y="2530"/>
+	<Point x="1578" y="2619"/>
+	<Point x="146" y="2619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Caucasus (Etschmiadzin, Nucha, Mtzchet).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="269" y="2748"/>
+	<Point x="1542" y="2748"/>
+	<Point x="1542" y="2842"/>
+	<Point x="269" y="2842"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sarcophila tetripunctata L. Duf. ♂ et ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="151" y="2871"/>
+	<Point x="1682" y="2871"/>
+	<Point x="1682" y="2937"/>
+	<Point x="151" y="2937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♀ Sarcophila maxima Portschinsky Тр. Русскаго ���. ���. т. IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="44" y="2967"/>
+	<Point x="1780" y="2967"/>
+	<Point x="1780" y="3141"/>
+	<Point x="44" y="3141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sarcophilae Wohlfahrti Portsch. simillima, sed facile di-
+stincta: magnitudine majore, fronte angustiore, antennis longio-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="732" y="191"/>
+	<Point x="1067" y="191"/>
+	<Point x="1067" y="267"/>
+	<Point x="732" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 283 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

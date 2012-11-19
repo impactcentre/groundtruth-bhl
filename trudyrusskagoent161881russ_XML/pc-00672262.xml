@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672262">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T21:55:05</Created>
+	<LastChange>2012-02-10T09:54:15</LastChange></Metadata>
+	<Page imageFilename="00672262.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/>
+	<RegionRefIndexed regionRef="r12" index="9"/>
+	<RegionRefIndexed regionRef="r13" index="10"/>
+	<RegionRefIndexed regionRef="r14" index="11"/>
+	<RegionRefIndexed regionRef="r15" index="12"/>
+	<RegionRefIndexed regionRef="r16" index="13"/>
+	<RegionRefIndexed regionRef="r18" index="14"/>
+	<RegionRefIndexed regionRef="r19" index="15"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="992" y="154"/>
+	<Point x="1304" y="154"/>
+	<Point x="1304" y="226"/>
+	<Point x="992" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 68 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="358" y="285"/>
+	<Point x="1553" y="285"/>
+	<Point x="1553" y="373"/>
+	<Point x="358" y="373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>v. Caucasica Ld. Wien. Mts. 1864, р. 168.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="566" y="382"/>
+	<Point x="1892" y="382"/>
+	<Point x="1892" y="453"/>
+	<Point x="566" y="453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T. 3. 5 . . . . . . . . . . . . . . Armen. or.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="346" y="464"/>
+	<Point x="1555" y="464"/>
+	<Point x="1555" y="537"/>
+	<Point x="346" y="537"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>v. Persica Stgr. Hor. XIV, p. 279 pro</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="553" y="548"/>
+	<Point x="1982" y="548"/>
+	<Point x="1982" y="617"/>
+	<Point x="553" y="617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>parte . . . . . . . . . . . . . . . Pers. s. mont.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="289" y="628"/>
+	<Point x="2010" y="628"/>
+	<Point x="2010" y="707"/>
+	<Point x="289" y="707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alpina Stgr. Hor. XIV, p. 281 (praec. var.??). Cauc. s. or. Alp.;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1562" y="717"/>
+	<Point x="2008" y="717"/>
+	<Point x="2008" y="785"/>
+	<Point x="1562" y="785"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sib. m. oc. Alp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="360" y="792"/>
+	<Point x="1933" y="792"/>
+	<Point x="1933" y="1037"/>
+	<Point x="360" y="1037"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>v. Guriensis Stgr. Hor. XIV, p. 280;
+Beroë var. Ld. Ann. Soc. Belg.
+1870, p. 26, Pl. I, 3 . . . . . . Cauc. m. oc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="358" y="1209"/>
+	<Point x="1871" y="1209"/>
+	<Point x="1871" y="1280"/>
+	<Point x="358" y="1280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>v. Schakuhensis Stgr. . . . . . . . . . . Hyrc. Alp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="355" y="1290"/>
+	<Point x="1873" y="1290"/>
+	<Point x="1873" y="1366"/>
+	<Point x="355" y="1366"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>v. Lydia Stgr. Hor. XIV, p. 281 . . . Lyd. mont.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="356" y="1372"/>
+	<Point x="1943" y="1372"/>
+	<Point x="1943" y="1447"/>
+	<Point x="356" y="1447"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>v. Obscura Stgr. l. c. . . . . . . . . . . Lyd. m. Alp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="277" y="1455"/>
+	<Point x="2004" y="1458"/>
+	<Point x="2000" y="1697"/>
+	<Point x="278" y="1697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beroë Frr. 415, 1. 2, V, p. 53; HS. 108—11,
+I, p. 74; Rheпа HS. 571 ♂
+(572—3. Hippolyto ♀?) . . . . . Bith. et Pont.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1558" y="1706"/>
+	<Point x="2002" y="1706"/>
+	<Point x="2002" y="1777"/>
+	<Point x="1558" y="1777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alp.; Arm. or.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="337" y="1952"/>
+	<Point x="1894" y="1952"/>
+	<Point x="1894" y="2115"/>
+	<Point x="337" y="2115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ann. Soc. Belg. 1870, p. 26, Pl. I, 3. Hyrc. Alp.
+v.? Graeca Stgr. Hor. 1870, p. 70 . . Graec. Alp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="260" y="2177"/>
+	<Point x="2018" y="2177"/>
+	<Point x="2018" y="3124"/>
+	<Point x="260" y="3124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pelopea Klug («in monte Libano prope Arissam») ist in
+den Symb. Phys. ziemlich verschieden von den Stücken abge‑
+bildet, wie ich sie aus Lederer’s Sammlung aus dem Libanon
+besitze. Klug’s Abbildung zeigt eine schmale braune Binde
+der Oberseite, die besonders nach innen auch beim ♀ auf den
+Hinterﬂügeln scharf abgesetzt ist, und ist die Färbung der
+Hinterﬂügel-Unterseite schwarzgrau. Bei meinen Stücken ist
+die Binde auch auf den Vorderﬂügeln breiter, während die
+Hinterﬂügel fast vorwiegend braungelb sind. Auch ist die
+Unterseite stark rothgrau. Die Fransen sind dunkel (auch
+nach Klug «griseae»).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="283" y="1046"/>
+	<Point x="1862" y="1046"/>
+	<Point x="1862" y="1201"/>
+	<Point x="283" y="1201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mamurra HS. 314 — 5 ♀; Frr. 617, 1; Pelo-
+pea HS. 575—6. VI, p. 14 . . . Pont. Alp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="349" y="1777"/>
+	<Point x="1545" y="1777"/>
+	<Point x="1545" y="1943"/>
+	<Point x="349" y="1943"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>v. Aurantiaca Stgr. Cat. 1871, p. 29,
+Hor. XIV, p. 283; Beroë v. Ld.</Unicode></TextEquiv></TextRegion></Page></PcGts>

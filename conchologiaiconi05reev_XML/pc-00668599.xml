@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668599">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:06:50</Created>
+	<LastChange>2012-02-10T10:29:24</LastChange></Metadata>
+	<Page imageFilename="00668599.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r31" index="2"/>
+	<RegionRefIndexed regionRef="r33" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r35" index="9"/>
+	<RegionRefIndexed regionRef="r39" index="10"/>
+	<RegionRefIndexed regionRef="r43" index="11"/>
+	<RegionRefIndexed regionRef="r47" index="12"/>
+	<RegionRefIndexed regionRef="r49" index="13"/>
+	<RegionRefIndexed regionRef="r10" index="14"/>
+	<RegionRefIndexed regionRef="r53" index="15"/>
+	<RegionRefIndexed regionRef="r59" index="16"/>
+	<RegionRefIndexed regionRef="r11" index="17"/>
+	<RegionRefIndexed regionRef="r13" index="18"/>
+	<RegionRefIndexed regionRef="r73" index="19"/>
+	<RegionRefIndexed regionRef="r16" index="20"/>
+	<RegionRefIndexed regionRef="r77" index="21"/>
+	<RegionRefIndexed regionRef="r20" index="22"/>
+	<RegionRefIndexed regionRef="r79" index="23"/>
+	<RegionRefIndexed regionRef="r81" index="24"/>
+	<RegionRefIndexed regionRef="r22" index="25"/>
+	<RegionRefIndexed regionRef="r23" index="26"/>
+	<RegionRefIndexed regionRef="r24" index="27"/>
+	<RegionRefIndexed regionRef="r25" index="28"/>
+	<RegionRefIndexed regionRef="r26" index="29"/>
+	<RegionRefIndexed regionRef="r57" index="30"/>
+	<RegionRefIndexed regionRef="r63" index="31"/>
+	<RegionRefIndexed regionRef="r29" index="32"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="924" y="268"/>
+	<Point x="1337" y="268"/>
+	<Point x="1337" y="337"/>
+	<Point x="924" y="337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="995" y="365"/>
+	<Point x="1289" y="365"/>
+	<Point x="1289" y="421"/>
+	<Point x="995" y="421"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE LXXXIV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="208" y="768"/>
+	<Point x="1108" y="768"/>
+	<Point x="1108" y="1006"/>
+	<Point x="208" y="1006"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE OCTONOID BULIMUS. Shell somewhat elongated,
+sutures of the spire impressed, whorls seven in number,
+rounded at the upper part and concentrically impressly
+striated, columella thinly reﬂected, aperture small,
+lip simple; light straw-colour, diaphanous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="208" y="1010"/>
+	<Point x="998" y="1010"/>
+	<Point x="999" y="1060"/>
+	<Point x="857" y="1060"/>
+	<Point x="827" y="1051"/>
+	<Point x="208" y="1052"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ADAMS, Pro. Nat. Hist. Soc. Boston, 1845, p. 12.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="215" y="1055"/>
+	<Point x="453" y="1055"/>
+	<Point x="453" y="1094"/>
+	<Point x="215" y="1094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Jamaica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="210" y="1111"/>
+	<Point x="1112" y="1111"/>
+	<Point x="1112" y="1209"/>
+	<Point x="210" y="1209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Named to denote its general resemblance with the
+B. octonus, which is referred to Achatina.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="210" y="1215"/>
+	<Point x="1113" y="1215"/>
+	<Point x="1113" y="1648"/>
+	<Point x="210" y="1648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I am indebted for eight of the species of this plate to
+the kindness of Mr. C. B. Adams, Professor of Zoology,
+&amp;c., in Amherst College, Massachusetts. They were col‐
+lected during an excursion in Jamaica, in company with
+the Honourable Mr. Chitty, Chairman of Quarter Sessions
+in that Island, together with a number of interesting land
+shells of other genera, which Mr. Adams is preparing for
+publication in a periodical pamphlet form, under the title
+of ‘Contributions to Conchology.’</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="217" y="2259"/>
+	<Point x="1118" y="2259"/>
+	<Point x="1118" y="2457"/>
+	<Point x="217" y="2457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This is the most elongated form of the Jamaica type,
+of light diaphanous growth, concentrically impressly stri‐
+ated. It is very minute, and, with the rest of the species
+of this plate, considerably magniﬁed.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1150" y="1051"/>
+	<Point x="2058" y="1051"/>
+	<Point x="2058" y="1338"/>
+	<Point x="1150" y="1338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This little species, being transported from Jamaica, has
+become partially naturalized in this country, and is in‐
+cluded by some authors in the British fauna. It is found
+abundantly in the pine-pits at Bristol, especially on the
+sides of the pots, where they are immersed in the decayed
+bark.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1156" y="1716"/>
+	<Point x="2058" y="1716"/>
+	<Point x="2058" y="1956"/>
+	<Point x="1156" y="1956"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WONDERFUL BULIMUS. Shell pyramidally conical,
+whorls eight in number, rounded, peculiarly coro‐
+nated throughout with large erect scales, columella
+twisted, aperture small, contracted in the middle;
+light ﬂesh-brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1154" y="1960"/>
+	<Point x="1365" y="1960"/>
+	<Point x="1365" y="2000"/>
+	<Point x="1154" y="2000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ADAMS, MS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1158" y="2006"/>
+	<Point x="1396" y="2006"/>
+	<Point x="1396" y="2047"/>
+	<Point x="1158" y="2047"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Jamaica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1158" y="2065"/>
+	<Point x="2055" y="2065"/>
+	<Point x="2055" y="2215"/>
+	<Point x="1158" y="2215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The whorls in this remarkable species are contracted in
+the middle, and the upper portion is prominently coronated
+throughout with broad vaulted scales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1158" y="2280"/>
+	<Point x="2058" y="2280"/>
+	<Point x="2058" y="2431"/>
+	<Point x="1158" y="2431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The three following Bulimi of Adams are numbered to
+belong to Achatina, under which genus the descriptions
+are given at PI. XXII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1002" y="2677"/>
+	<Point x="1284" y="2677"/>
+	<Point x="1284" y="2726"/>
+	<Point x="1002" y="2726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>December, 1849.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="heading">
+	<Coords>
+	<Point x="429" y="454"/>
+	<Point x="884" y="454"/>
+	<Point x="884" y="514"/>
+	<Point x="429" y="514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 593. (Mus. Adams.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="205" y="521"/>
+	<Point x="1106" y="521"/>
+	<Point x="1106" y="765"/>
+	<Point x="205" y="765"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS OCTONOIDES. Bul. testâ subelongatâ, spirœ
+suturis impressis, anfractibus septem, supernè rotundatis
+et concentricè impresso-striatis, columellâ tenuè reﬂexâ,
+aperturâ parvâ, labro simplici; pallidè stramineâ,
+diaphanâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="heading">
+	<Coords>
+	<Point x="438" y="1702"/>
+	<Point x="897" y="1702"/>
+	<Point x="897" y="1756"/>
+	<Point x="438" y="1756"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 620. (Mus. Adams.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="217" y="1764"/>
+	<Point x="1114" y="1764"/>
+	<Point x="1114" y="1958"/>
+	<Point x="217" y="1958"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS TEREBELLA. Bul. testâ subulatâ, anfractibus
+octo, convexiusculis, concentricè impresso-striatis, colu‐
+mellâ tenuè reﬂexâ, aperturâ parvâ, labro simplici;
+sordidè fuscescente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="219" y="1960"/>
+	<Point x="1116" y="1960"/>
+	<Point x="1116" y="2151"/>
+	<Point x="219" y="2151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LITTLE AUGUR BULIMUS. Shell subulate, whorls
+eight in number, rather convex, concentrically im‐
+pressly striated, columella thinly reﬂected, aperture
+small, lip simple; dull brownish.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="219" y="2153"/>
+	<Point x="436" y="2153"/>
+	<Point x="436" y="2194"/>
+	<Point x="219" y="2194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ADAMS, MS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="219" y="2200"/>
+	<Point x="457" y="2200"/>
+	<Point x="457" y="2240"/>
+	<Point x="219" y="2240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Jamaica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="heading">
+	<Coords>
+	<Point x="437" y="2500"/>
+	<Point x="915" y="2500"/>
+	<Point x="915" y="2553"/>
+	<Point x="437" y="2553"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 621. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="heading">
+	<Coords>
+	<Point x="1371" y="2499"/>
+	<Point x="1832" y="2499"/>
+	<Point x="1832" y="2551"/>
+	<Point x="1371" y="2551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 623. (Mus. Adams.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords>
+	<Point x="223" y="2566"/>
+	<Point x="1120" y="2566"/>
+	<Point x="1120" y="2664"/>
+	<Point x="223" y="2664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS GOODALLII. Bul. testâ conico-elongatâ, vix
+umbilicatâ, anfractibus septem, convexiusculis, lœvibus,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords>
+	<Point x="1161" y="2561"/>
+	<Point x="2060" y="2561"/>
+	<Point x="2060" y="2665"/>
+	<Point x="1161" y="2665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS MINIMUS. Bul. testâ subulatâ, spirœ suturis
+subimpressis, anfractibus septem, subrolundatis, con-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="paragraph">
+	<Coords>
+	<Point x="1159" y="755"/>
+	<Point x="1916" y="756"/>
+	<Point x="1917" y="801"/>
+	<Point x="1152" y="801"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Helix Goodallii, Miller, Ann. Phil. 1822, p. 381.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1151" y="562"/>
+	<Point x="2046" y="562"/>
+	<Point x="2054" y="753"/>
+	<Point x="1152" y="752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GOODALL’S BULIMUS. Shell conically elongated, scarcely
+umbilicated, whorls seven in number, slightly convex,
+smooth, columella somewhat twisted, thinly reﬂected,
+aperture small, lip simple; transparent horny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="paragraph">
+	<Coords>
+	<Point x="1153" y="993"/>
+	<Point x="1458" y="992"/>
+	<Point x="1458" y="1031"/>
+	<Point x="1152" y="1031"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. West Indies.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r79" type="heading">
+	<Coords>
+	<Point x="1376" y="1412"/>
+	<Point x="1838" y="1412"/>
+	<Point x="1838" y="1463"/>
+	<Point x="1376" y="1463"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 622. (Mus. Adams.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords>
+	<Point x="1154" y="1471"/>
+	<Point x="2058" y="1471"/>
+	<Point x="2058" y="1710"/>
+	<Point x="1154" y="1710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS MIRABILIS. Bul. testâ pyramidali-conicâ, an‐
+fractibus octo, rotundatis, supernè squamis grandibus
+erectis undique peculiariter coronatis, columellâ con-
+tortâ, aperturâ parvâ, medio contractâ; carneo-fus-
+cescente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1223" y="461"/>
+	<Point x="2051" y="461"/>
+	<Point x="2056" y="560"/>
+	<Point x="1225" y="560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>columellâ subcontortâ, tenuè reﬂexâ, aperturâ parvâ,
+labro simplici; pellucido-corneâ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r83">
+	<Coords>
+	<Point x="432" y="1661"/>
+	<Point x="432" y="1686"/>
+	<Point x="901" y="1686"/>
+	<Point x="901" y="1661"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r84">
+	<Coords>
+	<Point x="440" y="2467"/>
+	<Point x="440" y="2489"/>
+	<Point x="897" y="2489"/>
+	<Point x="897" y="2467"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r88">
+	<Coords>
+	<Point x="1115" y="458"/>
+	<Point x="1130" y="2671"/>
+	<Point x="1148" y="2672"/>
+	<Point x="1139" y="458"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r91">
+	<Coords>
+	<Point x="1369" y="1356"/>
+	<Point x="1369" y="1388"/>
+	<Point x="1845" y="1388"/>
+	<Point x="1845" y="1356"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r92">
+	<Coords>
+	<Point x="1379" y="2234"/>
+	<Point x="1379" y="2259"/>
+	<Point x="1829" y="2259"/>
+	<Point x="1829" y="2234"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r96">
+	<Coords>
+	<Point x="1381" y="2456"/>
+	<Point x="1381" y="2478"/>
+	<Point x="1839" y="2478"/>
+	<Point x="1839" y="2456"/></Coords></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1228" y="803"/>
+	<Point x="1623" y="803"/>
+	<Point x="1623" y="851"/>
+	<Point x="1819" y="851"/>
+	<Point x="1819" y="898"/>
+	<Point x="1859" y="898"/>
+	<Point x="1859" y="941"/>
+	<Point x="1629" y="941"/>
+	<Point x="1629" y="990"/>
+	<Point x="1233" y="990"/>
+	<Point x="1233" y="941"/>
+	<Point x="1229" y="941"/>
+	<Point x="1229" y="848"/>
+	<Point x="1228" y="848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus Goodallii, Gray.
+Helix (Cochlicella) clavulus, Férussac.
+Bulimus clavulinus, Potiez and Michaud.
+Bulimus pumilus, Pfeiﬀer.</Unicode></TextEquiv></TextRegion></Page></PcGts>

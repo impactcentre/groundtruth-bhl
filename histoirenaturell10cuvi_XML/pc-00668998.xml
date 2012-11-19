@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668998">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:12:00</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668998.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="366" y="312"/>
+	<Point x="1808" y="312"/>
+	<Point x="1808" y="749"/>
+	<Point x="366" y="749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ils si bien connus des pêcheurs, qu’ils en ont
+reçu avec un nom générique appliqué fort
+exactement, des noms spéciﬁques nombreux
+et précis. On peut dire que les pêcheurs ta-
+moules avaient établi ce genre avant nous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="686" y="900"/>
+	<Point x="1450" y="900"/>
+	<Point x="1450" y="980"/>
+	<Point x="686" y="980"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA PORTE-SABRE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="364" y="1012"/>
+	<Point x="982" y="1008"/>
+	<Point x="1032" y="1007"/>
+	<Point x="1816" y="1012"/>
+	<Point x="1816" y="1213"/>
+	<Point x="364" y="1213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula ensifera, n.; Scomber edentulus, Bl., pl. 428;
+Léiognathe argenté, Lacép., IV, p. 448 et 449.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="349" y="1227"/>
+	<Point x="1811" y="1227"/>
+	<Point x="1811" y="2699"/>
+	<Point x="349" y="2699"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La plus grande espèce d’equula nous a été
+rapportée de Pondichéry par M. Sonnerat et
+par M. Leschenault, et M. Cuvier s’aperçut
+aussitôt que c’était le scomber edentulus de
+Bloch. La circonstance que notre poisson a des
+dents, ne l’a point détourné de cette idée;
+car ces dents, que l’on aperçoit aisément dans
+l’état desséché et qui ressemblent beaucoup
+à celles des chétodons, paraissent si peu dans
+l’état frais ou dans l’eau-de-vie, que M. Lesche‐
+nault lui-même, en nous envoyant l’individu
+sur lequel nous les décrivons, nous dit qu’il
+est dépourvu de dents. Il a suﬃ que Bloch
+eût reçu un individu sec et verni pour qu’il eût
+été encore plus exposé à cette erreur. Depuis
+lors M. Valenciennes a vériﬁé à Berlin notre
+conjecture sur son propre échantillon; mais</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="377" y="207"/>
+	<Point x="486" y="207"/>
+	<Point x="486" y="292"/>
+	<Point x="377" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>66</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="727" y="211"/>
+	<Point x="1406" y="211"/>
+	<Point x="1406" y="298"/>
+	<Point x="727" y="298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

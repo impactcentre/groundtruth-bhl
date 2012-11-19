@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668918">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T04:31:57</Created>
+	<LastChange>2012-02-09T16:27:23</LastChange></Metadata>
+	<Page imageFilename="00668918.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="325" y="345"/>
+	<Point x="1758" y="345"/>
+	<Point x="1758" y="2702"/>
+	<Point x="325" y="2702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MM. Webb et Berthellot, dont les connais-
+naissances dans les diverses branches de l'his-
+toire naturelle sont si étendues, m'ont commu-
+niqué, avec la plus grande libéralité, leurs
+collections ichthyologiques des Canaries. Il est
+étonnant que les voyageurs nous aient laissé
+ignorer jusqu'à ce jour la richesse de cette partie
+de l'Atlantique. Les espèces réunies par ces deux
+savans nous montrent que les côtes de Ténériﬀe
+nourrissent un grand nombre de formes mé-
+diterranéennes, et qu'avec elles y sont mêlées
+plusieurs autres regardées jusqu'à présent comme
+propres aux plages américaines; Madère n'en
+avait encore fourni qu'un seul exemple dans une
+espèce du genre Héliase (Heliazes Madurensis,
+nob.), que l'on a découvert récemment à Sainte-
+Croix de Ténériﬀe. Nous avons aussi observé
+dans ces collections plusieurs genres nouveaux,
+d'autres rares dans la Méditerranée; tel est le
+Rovetto (Rovettus acanthoderma). Elles feront
+connaître à nos lecteurs la patrie du poisson si
+curieux que nous avons nommé Beryx deca-
+dactylus, et de bien d'autres que nous supposions
+de mers plus éloignées et que nous avons l'espoir
+de faire paraître dans nos prochains supplémens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="332" y="271"/>
+	<Point x="374" y="271"/>
+	<Point x="374" y="316"/>
+	<Point x="332" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>X</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="814" y="254"/>
+	<Point x="1247" y="254"/>
+	<Point x="1247" y="330"/>
+	<Point x="814" y="330"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AVERTISSEMENT.</Unicode></TextEquiv></TextRegion></Page></PcGts>

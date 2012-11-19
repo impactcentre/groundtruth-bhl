@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672457">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:38:47</Created>
+	<LastChange>2012-02-10T09:54:56</LastChange></Metadata>
+	<Page imageFilename="00672457.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r18" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="835" y="160"/>
+	<Point x="1144" y="160"/>
+	<Point x="1144" y="232"/>
+	<Point x="835" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 247 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="183" y="294"/>
+	<Point x="1867" y="294"/>
+	<Point x="1867" y="1630"/>
+	<Point x="183" y="1630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vollkommen deutlich und zum sichern Bestimmen genügend
+ist. Wenn ein Autor Diagnosen giebt, geschieht es wohl
+meistens nur zu dem Zwecke, sich die Priorität zu sichern
+und in der Absicht, später ausführlichere Beschreibung und
+Abbildung zu liefern. Die Diagnose von Lefuarius ist mei-
+ner Meinung nach nicht weniger deutlich als die von Lueh-
+dorfﬁa Puziloi Ersch., nach welcher ein jeder das Thier
+hat bestimmen können. Uebrigens führt Herr Oberthür an,
+dass Dr. Staudinger nach der ihm übersandten Abbildung
+Lefuarius Ersch. erkannt habe. Herr Christoph endlich
+errichtet für denselben die Gattung Ereuxa und beschreibt
+ihn unter dem Namen Maturaria Christ. Da wir dem-
+nächst dem Erscheinen der Fortsetzung der Arbeit des
+Herrn Christoph entgegen sehen dürfen, enthalte ich mich
+weiterer Bemerkungen über die generischen Merkmale dieser
+Ereuxa Lefuaria(us) Ersch. *)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="footnote">
+	<Coords>
+	<Point x="117" y="2623"/>
+	<Point x="1858" y="2623"/>
+	<Point x="1858" y="3069"/>
+	<Point x="117" y="3069"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Anmerkung. Als Beispiel, wie man auch selbst bei guten Abbildungen
+über ein Thier zweifelhaft sein kann, will ich hier anführen, dass Herr Dr.
+Crüger in der Stett. Ent. Ztg. 1874, p. 390 bei Besprechung von Erschoff's
+Turkestaner Lepid. im Zweifel ist, ob Limenitis Lepechini Ersch. eine Lime-
+nitis und nicht vielmehr eine Adelpha (Heterochroa) ist. Lepechini ist aber
+sicher eine Limenitis und 2 andere Autoren haben sie als solche beschrieben.
+Sie ist nämlich synonym mit Lim. Trivena Moore und Lim. Ligyes Hew.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="114" y="1639"/>
+	<Point x="1866" y="1639"/>
+	<Point x="1866" y="1883"/>
+	<Point x="114" y="1883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gnophos Creperaria Ersch. Ноr. XII (1876—77). Auf
+Tab. XIII, ﬁg. 3 gebe ich eine Abbildung dieser bisher nur
+in Ost-Sibirien gefundenen Gnophos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="110" y="1894"/>
+	<Point x="1853" y="1894"/>
+	<Point x="1853" y="2151"/>
+	<Point x="110" y="2151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lithostege Duplicata Hb. habe ich in Mehrzahl am mittleren
+Amur am 14 Juni auf trockenen, sonnigen Bergabhängen
+gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="117" y="2167"/>
+	<Point x="1858" y="2167"/>
+	<Point x="1858" y="2338"/>
+	<Point x="117" y="2338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lobophora Halterata Hufn. am 10 Juni bei Olgina am obern
+Amur in einem Exemplar erbeutet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="126" y="2340"/>
+	<Point x="1862" y="2340"/>
+	<Point x="1862" y="2523"/>
+	<Point x="126" y="2523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tyloptera Bella Butl. Herr Butler, welcher sie aus Japan
+erhielt, hat sie in die Gattung Melanippe (Cidaria) ge-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r21">
+	<Coords>
+	<Point x="119" y="2564"/>
+	<Point x="701" y="2564"/>
+	<Point x="701" y="2585"/>
+	<Point x="119" y="2585"/></Coords></SeparatorRegion></Page></PcGts>

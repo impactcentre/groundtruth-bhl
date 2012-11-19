@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668651">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T10:47:10</Created>
+	<LastChange>2012-02-10T10:29:28</LastChange></Metadata>
+	<Page imageFilename="00668651.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r21" index="7"/>
+	<RegionRefIndexed regionRef="r23" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r28" index="13"/>
+	<RegionRefIndexed regionRef="r17" index="14"/>
+	<RegionRefIndexed regionRef="r18" index="15"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="823" y="559"/>
+	<Point x="1307" y="559"/>
+	<Point x="1307" y="635"/>
+	<Point x="823" y="635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="971" y="664"/>
+	<Point x="1157" y="664"/>
+	<Point x="1157" y="714"/>
+	<Point x="971" y="714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="360" y="744"/>
+	<Point x="818" y="744"/>
+	<Point x="818" y="794"/>
+	<Point x="360" y="794"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 16. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="140" y="814"/>
+	<Point x="1045" y="814"/>
+	<Point x="1045" y="1104"/>
+	<Point x="140" y="1104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA ALLISA. Achat. testâ elongato-oblongâ, subcy-
+lindraceâ, anfractibus septem, obliquè subtiliter gra-
+nato-striatis, infra suturas tenuè crenulatis, aperturâ
+parviusculâ; columellâ arcuatâ, subcontortâ, abruptè
+truncatâ; olivaceo-lutescente, maculis rufo-castaneis
+oblongis hic illic irregulariter inquinatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="131" y="1106"/>
+	<Point x="1037" y="1106"/>
+	<Point x="1037" y="1436"/>
+	<Point x="131" y="1436"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BRUISED ACHATINA. Shell elongately oblong, some-
+what cylindrical, whorls seven in number, obliquely
+ﬁnely granosely striated, ﬁnely crenulated beneath
+the sutures, aperture rather small; columella arched,
+slightly twisted, abruptly truncated; olive-yellow,
+here and there irregularly bedaubed with reddish
+chesnut blotches.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="135" y="1440"/>
+	<Point x="663" y="1440"/>
+	<Point x="663" y="1489"/>
+	<Point x="135" y="1489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Cape Palmas, West Africa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="129" y="1504"/>
+	<Point x="1043" y="1504"/>
+	<Point x="1043" y="1706"/>
+	<Point x="129" y="1706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This species may be readily distinguished from any of
+those hitherto described, by its oblong cylindrical form and
+peculiar style of irregular blotching. The aperture is pro-
+portionably smaller and narrower than in the allied species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1155" y="744"/>
+	<Point x="1981" y="744"/>
+	<Point x="1981" y="978"/>
+	<Point x="1155" y="978"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>siusculâ, anfractibus sex ad septem, concentricè plicato-
+striatis, ultimo inferne obscurè bicarinato; columellâ
+subarcuatâ, fortiter truncatâ; intensè purpureâ, apice
+albicante, fusco obscurè fulguratâ, aperturœ fauce cœ-
+rulescente-albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1082" y="982"/>
+	<Point x="1981" y="982"/>
+	<Point x="1981" y="1316"/>
+	<Point x="1082" y="1316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWO-KEELED ACHATINA. Shell oblong-ovate, rather
+thick, whorls six to seven in number, concentrically
+plicately striated, last whorl obscurely two-keeled
+towards the lower part, columella arched, strongly
+truncated; deep purple, whitish towards the apex,
+marked with obscure brown waves, interior of the
+aperture bluish-white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1077" y="1320"/>
+	<Point x="1978" y="1320"/>
+	<Point x="1978" y="1410"/>
+	<Point x="1077" y="1410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes' edit.) vol. viii.
+p. 296.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1078" y="1717"/>
+	<Point x="1985" y="1717"/>
+	<Point x="1985" y="1914"/>
+	<Point x="1078" y="1914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The keeled growth of this shell is very obscure and not
+always perceptible. The name sinistrorsa was not given to
+the species by Chemnitz as a technical speciﬁc appellation;
+it merely formed part of his diagnose.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="923" y="2273"/>
+	<Point x="1192" y="2273"/>
+	<Point x="1192" y="2327"/>
+	<Point x="923" y="2327"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>February, 1849.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r19">
+	<Coords>
+	<Point x="385" y="1739"/>
+	<Point x="810" y="1739"/>
+	<Point x="810" y="1760"/>
+	<Point x="385" y="1760"/></Coords></SeparatorRegion>
+	<TextRegion id="r21" type="heading">
+	<Coords>
+	<Point x="364" y="1779"/>
+	<Point x="840" y="1779"/>
+	<Point x="840" y="1849"/>
+	<Point x="364" y="1849"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 17. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="145" y="1862"/>
+	<Point x="1041" y="1862"/>
+	<Point x="1041" y="1916"/>
+	<Point x="145" y="1916"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA BICARINATA. Achat. testâ oblongo-ovatâ, cras-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="825" y="2068"/>
+	<Point x="1313" y="2068"/>
+	<Point x="1313" y="2087"/>
+	<Point x="825" y="2087"/></Coords></SeparatorRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1079" y="1653"/>
+	<Point x="1637" y="1653"/>
+	<Point x="1637" y="1697"/>
+	<Point x="1079" y="1697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Prince's Islands, West Africa.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r30">
+	<Coords>
+	<Point x="1055" y="750"/>
+	<Point x="1055" y="1913"/>
+	<Point x="1065" y="1913"/>
+	<Point x="1065" y="750"/></Coords></SeparatorRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1155" y="1414"/>
+	<Point x="1564" y="1414"/>
+	<Point x="1564" y="1463"/>
+	<Point x="1648" y="1463"/>
+	<Point x="1648" y="1510"/>
+	<Point x="1654" y="1510"/>
+	<Point x="1654" y="1558"/>
+	<Point x="1855" y="1558"/>
+	<Point x="1855" y="1602"/>
+	<Point x="1639" y="1602"/>
+	<Point x="1639" y="1651"/>
+	<Point x="1085" y="1651"/>
+	<Point x="1085" y="1606"/>
+	<Point x="1152" y="1606"/>
+	<Point x="1152" y="1510"/>
+	<Point x="1155" y="1510"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulla bicarinata, Dillwyn.
+Bulimus bicarinatus, Bruguiére.
+Cochlitoma bicarinata, Férussac.
+Bulla achatina sinistrorsa maxima, Chemnitz.
+Achatina sinistrorsa, Pfeiﬀer.</Unicode></TextEquiv></TextRegion></Page></PcGts>

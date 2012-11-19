@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667844">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T00:35:22</Created>
+	<LastChange>2012-02-10T09:52:13</LastChange></Metadata>
+	<Page imageFilename="00667844.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="233" y="294"/>
+	<Point x="2214" y="294"/>
+	<Point x="2214" y="2621"/>
+	<Point x="233" y="2621"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="916" y="2842"/>
+	<Point x="1570" y="2842"/>
+	<Point x="1570" y="2899"/>
+	<Point x="916" y="2899"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>WOODCHAT SHRIKE � 7/8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="1158" y="2938"/>
+	<Point x="1158" y="2976"/>
+	<Point x="1331" y="2976"/>
+	<Point x="1331" y="2938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 60.</Unicode></TextEquiv></TextRegion></Page></PcGts>

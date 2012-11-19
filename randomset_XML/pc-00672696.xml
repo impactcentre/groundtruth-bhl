@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672696">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:01:25</Created>
+	<LastChange>2012-02-10T10:29:44</LastChange></Metadata>
+	<Page imageFilename="00672696.tif" imageWidth="2712" imageHeight="3436">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="115" y="250"/>
+	<Point x="1155" y="250"/>
+	<Point x="2514" y="224"/>
+	<Point x="2489" y="1517"/>
+	<Point x="2480" y="2540"/>
+	<Point x="2060" y="2673"/>
+	<Point x="1720" y="2673"/>
+	<Point x="100" y="1706"/></Coords></ImageRegion>
+	<GraphicRegion id="r2" type="handwritten-annotation">
+	<Coords>
+	<Point x="2035" y="2730"/>
+	<Point x="2035" y="3245"/>
+	<Point x="2485" y="3250"/>
+	<Point x="2485" y="2730"/></Coords></GraphicRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="2566" y="1460"/>
+	<Point x="2566" y="2033"/>
+	<Point x="2653" y="2033"/>
+	<Point x="2653" y="1460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABYSSINAN WOLF</Unicode></TextEquiv></TextRegion></Page></PcGts>

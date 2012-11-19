@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669399">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:01:35</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669399.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r17" index="1"/>
+	<RegionRefIndexed regionRef="r23" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="60" y="253"/>
+	<Point x="1478" y="253"/>
+	<Point x="1478" y="683"/>
+	<Point x="60" y="683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nent également par tous les caractères à l’a-
+therina notata de Mitchill1: les nombres y
+sont comptés comme les nôtres. Il lui a donné,
+comme dénomination triviale à New-York,
+le nom de small silver-side.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="58" y="987"/>
+	<Point x="1483" y="987"/>
+	<Point x="1483" y="1255"/>
+	<Point x="58" y="1255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une troisième vient du Brésil, d’où elle a été
+apportée par M. Delalande et par les natura‐
+listes de l’expédition Freycinet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="124" y="1274"/>
+	<Point x="1485" y="1274"/>
+	<Point x="1485" y="2416"/>
+	<Point x="124" y="2416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa physionomie serait assez celle du menidia,
+mais son alongement est beaucoup moindre; elle
+n’est que cinq fois aussi longue que haute. Son épais‐
+seur ne fait pas moitié de sa hauteur. Sa tête est du
+cinquième de la longueur totale; elle est presque
+aussi large que haute en arrière, et se rétrécit peu
+en avant. Le bord de son museau est arrondi ho‐
+rizontalement. Sa face supérieure est plane et sans
+sillon. L’œil a près du quart de sa longueur en
+diamètre. Ses mâchoires, très-protractiles, sont
+garnies d’une bande de dents en ﬁn velours, au-
+devant de laquelle en est une rangée de plus fortes,
+coniques et pointues. On n’en voit point dans l’in‐
+térieur de la bouche; le maxillaire s’élargit et s’ar‐
+rondit à son extrémité inférieure. La première dor-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="121" y="2501"/>
+	<Point x="1439" y="2501"/>
+	<Point x="1436" y="2566"/>
+	<Point x="1184" y="2565"/>
+	<Point x="1165" y="2567"/>
+	<Point x="121" y="2567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Mitchill, Trans. of New-York, t. I, p. 446, pl. 4, ﬁg. 6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="124" y="2570"/>
+	<Point x="1191" y="2570"/>
+	<Point x="1200" y="2568"/>
+	<Point x="1477" y="2568"/>
+	<Point x="1478" y="2637"/>
+	<Point x="124" y="2637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Quoy et Gaimard, Voyage de Freycinet, Zoologie, p. 332.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="612" y="160"/>
+	<Point x="920" y="160"/>
+	<Point x="920" y="230"/>
+	<Point x="612" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1340" y="160"/>
+	<Point x="1480" y="160"/>
+	<Point x="1480" y="230"/>
+	<Point x="1340" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>467</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="378" y="766"/>
+	<Point x="1162" y="766"/>
+	<Point x="1162" y="846"/>
+	<Point x="378" y="846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ATHÉRINE BRÉSILIENNE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="353" y="868"/>
+	<Point x="1182" y="868"/>
+	<Point x="1182" y="957"/>
+	<Point x="353" y="957"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina brasiliensis, nob.2 )</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="53" y="2450"/>
+	<Point x="53" y="2480"/>
+	<Point x="1483" y="2480"/>
+	<Point x="1483" y="2450"/></Coords></SeparatorRegion></Page></PcGts>

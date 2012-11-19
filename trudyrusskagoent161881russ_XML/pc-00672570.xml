@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672570">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T22:29:07</Created>
+	<LastChange>2012-02-10T09:55:11</LastChange></Metadata>
+	<Page imageFilename="00672570.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1001" y="137"/>
+	<Point x="1323" y="137"/>
+	<Point x="1323" y="219"/>
+	<Point x="1001" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 374 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="287" y="275"/>
+	<Point x="2033" y="275"/>
+	<Point x="2033" y="878"/>
+	<Point x="287" y="878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que j'ai de l'Ala-Tau sont d'un rouge fauve moins vif, que
+ne le sont mes exemplaires en général; mais, j'en ai pris de
+tout pareils dans le Tian-Chian. Quant aux ♂♂, tous se res-
+semblent et il m'est impossible de relever la moindre diﬀérence
+entre ceux de l'Ararat et ceux de l'Asie centrale. Les ♀♀ de
+cette espèce étaient dans le Tian-Chian bien plus râres que ne
+l'étaient les ♂♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="275" y="880"/>
+	<Point x="2041" y="880"/>
+	<Point x="2041" y="2144"/>
+	<Point x="275" y="2144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je rencontrai la Thisoa près du Kounguesse, en Juin et
+au commencement de Juillet, entre 6500' et 7000', jamais
+plus haut; mais sur le Jouldousse je l'ai prise à une alti-
+tude de 9000 pieds, à la ﬁn de Juillet et en Août. Suit un
+fait digne d'attirer, à mon avis, l'attention des naturalistes:
+l'espèce précédente que j'ai nommée Staudingeri, volait près
+des sources du Kounguesse, justement au dessus de la ré-
+gion où ﬁnissait le vol de la Thisoa, et cela d'une manière
+si tranchée, que l'on pouvait quelquefois, en se tenant sur la
+limite de l'habitat de ces deux espèces, voir voler au dessus
+de soi la Staudingeri et à quelques dizaines de pieds plus
+bas — la Thisoa, sans que ces deux espèces se rencontras-
+sent, jamais, sur le même terrain. Près du Kouguesse la Thi-
+soa volait entre 6500' et 7000' — la Staudingeri entre 7000'
+et 8000'.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="269" y="2155"/>
+	<Point x="2032" y="2155"/>
+	<Point x="2032" y="2998"/>
+	<Point x="269" y="2998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Plus tard, vers la ﬁn de Juillet et en Août, dans les
+montagnes du Jouldousse, je retrouvai ces deux espèces: la
+Thisoa volant entre 8—9000' et la Staudingeri entre 9 et
+12000' à peu près, également sans se rencontrer jamais, tout
+comme auprès des sources du Kounguesse. Nous voyons donc
+deux espèces distinctes, non seulement ne pas confondre leur
+habitat, mais pour ainsi dire, s'éviter mutuellement. Serait-ce
+par suite de la distribution verticale de la plante nourricière?
+Ou bien serait-ce un eﬀet de la loi de la lutte pour l'é-
+xistence, qui separe ainsi ces deux Coliades?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="383" y="3010"/>
+	<Point x="2016" y="3010"/>
+	<Point x="2016" y="3107"/>
+	<Point x="383" y="3107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un séjour prolongé et des investigations minutieuses pour-</Unicode></TextEquiv></TextRegion></Page></PcGts>

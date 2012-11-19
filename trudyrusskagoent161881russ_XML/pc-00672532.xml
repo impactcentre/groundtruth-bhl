@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672532">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T22:23:09</Created>
+	<LastChange>2012-02-10T09:55:07</LastChange></Metadata>
+	<Page imageFilename="00672532.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1026" y="110"/>
+	<Point x="1334" y="110"/>
+	<Point x="1334" y="178"/>
+	<Point x="1026" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 336 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="309" y="245"/>
+	<Point x="2057" y="245"/>
+	<Point x="2057" y="414"/>
+	<Point x="309" y="414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>amical restera à jamais présent à ma mémoire, comme l'un des
+plus agréables souvenirs de notre séjour à Kouldjà.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="308" y="428"/>
+	<Point x="2057" y="428"/>
+	<Point x="2057" y="849"/>
+	<Point x="308" y="849"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Peu après notre arrivée la débâcle des glaces commença,
+et l'Ili charria des glaçons immenses avec une impétuosité
+dont pourront se faire une ideé seuls ceux qui connaissent
+la Néva, et qui sauront que l'Ili est trois fois plus rapide
+qu'elle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="307" y="862"/>
+	<Point x="2062" y="862"/>
+	<Point x="2062" y="1696"/>
+	<Point x="307" y="1696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le seul Lépidoptère que nous vîmes dans ces parages à
+cette époque, était une Tinéide nouvelle pour nous, la Tinea
+Colonella Ersch., qui parut dans les maisons. Cependant la
+belle saison était revenue et les neiges fondaient sur les mon-
+tagnes: l'heure de quitter Kouldjà était venue. Nous nous
+mîmes en route vers l'Ouest le 4 Mars au matin. Nous avions
+comme escorte trois indigènes dont deux étaient Torgooutes et
+le troisième un jeune Kalmouk. Nous étions bien équipés,
+bien armés, et avions tout l'indispensable pour collectionner
+toutes les classes d'animaux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="308" y="1712"/>
+	<Point x="2060" y="1712"/>
+	<Point x="2060" y="3071"/>
+	<Point x="308" y="3071"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les sables commencent à une vingtaine de kilomètres de
+Kouldjà, et suivent la rive droite de l'Ili en s'élargissant de
+plus en plus jusqu'à rejoindre les sables qui entourent le lac
+Balkach. La surface ondulée de ces sables est recouverte de
+plantes caractéristiques telles que: Halimodendron, Alhagi,
+Tulipes, Lasiogrostes, etc. Les nombreux afﬂuents de l'Ili
+qui sortent de la chaîne de l'Altyne-Imel, chaîne qui limite
+au nord la vallée de l'Ili, traversent ces sables. Chacune
+de ces petites rivières a une vallée qui lui est propre, et qui
+est plus ou moins large. Quant à ces vallées, elles se réu-
+nissent toutes à la rive basse, large et marécageuse de l'Ili,
+qui est recouverte de grands joncs et de bouquets d'arbres
+dans les endroits plus secs. Les joncs regorgent d'animaux et
+d'oiseaux de toutes sortes, les tigres (Felis Regalis), les chats
+sauvages (Felis Manul?), les renards et les loups y abondent.
+Les Irbis (Felis Irbis), sont plus rares, mais on y rencontre</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672594">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:32:49</Created>
+	<LastChange>2012-02-10T09:55:16</LastChange></Metadata>
+	<Page imageFilename="00672594.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="966" y="140"/>
+	<Point x="1300" y="140"/>
+	<Point x="1300" y="221"/>
+	<Point x="966" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 398 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="250" y="273"/>
+	<Point x="2016" y="273"/>
+	<Point x="2016" y="1133"/>
+	<Point x="250" y="1133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle parait être bien constante et varie peu. Je considère
+pourtant les individus du Tian-Chian comme v. Ludmilla, vu
+qu'ils s'approchent plus de cette forme, à tâches blanches très
+amoindries, que du type d'Europe. Une seule ♀, est très
+voisine par ses tâches blanches plus grandes, du type du midi
+de la Russie, notamment des individus de Taganrog. Ces
+derniers de leur coté, n'ont plus les tâches blanches aussi
+larges, que les individus de l'Europe centrale et constituent
+le commencement d'une race, qui en Arménie et dans l'Asie
+centrale devient la Ludmilla.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="471" y="1197"/>
+	<Point x="1804" y="1197"/>
+	<Point x="1804" y="1321"/>
+	<Point x="471" y="1321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>60. Vanessa Egea Cr. var. J. album Esp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="242" y="1366"/>
+	<Point x="2016" y="1366"/>
+	<Point x="2016" y="1554"/>
+	<Point x="242" y="1554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un ♂ près de Charkhodé (3800´) en Mai, et encore un
+individu à 5000´ près du Kounguesse en Juin.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="235" y="1564"/>
+	<Point x="2033" y="1564"/>
+	<Point x="2033" y="2066"/>
+	<Point x="235" y="2066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'individu ♀, dont parle Mr. Erschoff, dans son travail
+sur les lépidoptères du Tourkestan, qui fut pris à plus de
+8000´ par l'expédition Fedschenko, appartient, ainsi que les
+deux individus que je rapportai du Tian-Chian, à la forme J.
+album, caractérisée par le dessus et le dessous, plus
+foncés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="250" y="2078"/>
+	<Point x="2033" y="2078"/>
+	<Point x="2033" y="2421"/>
+	<Point x="250" y="2421"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'ai donc tout lieu de croire que l'Egea constitue dans le
+Tian-Chian et dans le Tourkestan plutôt une variété constante,
+qui est l'J. album qu'une simple aberration, comme cela pa-
+rait être le cas en Europe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="259" y="2433"/>
+	<Point x="2030" y="2433"/>
+	<Point x="2030" y="2600"/>
+	<Point x="259" y="2600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Au Caucase, où j'ai pris la forme typique, je n'ai jamais
+rencontré la forme J. album.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="521" y="2683"/>
+	<Point x="1773" y="2683"/>
+	<Point x="1773" y="2788"/>
+	<Point x="521" y="2788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>61. V. Urticae L. et var. Turcica Stgr.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="269" y="2838"/>
+	<Point x="2026" y="2838"/>
+	<Point x="2026" y="3119"/>
+	<Point x="269" y="3119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Partout durant tout l'été jusqu'à 12000´ d'altitude, mais
+pas très nombreux. Quelques individus sont très grands et
+d'un rouge-fauve très vif. J'ai pris deux ou trois individus</Unicode></TextEquiv></TextRegion></Page></PcGts>

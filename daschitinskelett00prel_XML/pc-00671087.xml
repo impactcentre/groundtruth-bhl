@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671087">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T10:43:55</Created>
+	<LastChange>2012-03-12T14:34:03</LastChange></Metadata>
+	<Page imageFilename="00671087.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1170" y="362"/>
+	<Point x="1439" y="362"/>
+	<Point x="1439" y="440"/>
+	<Point x="1170" y="440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 27 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="228" y="483"/>
+	<Point x="2357" y="483"/>
+	<Point x="2358" y="892"/>
+	<Point x="682" y="887"/>
+	<Point x="635" y="914"/>
+	<Point x="599" y="914"/>
+	<Point x="230" y="913"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Im Folgenden soll nun eine Übersicht über die Bedeutung der einzelnen Bezirke am Kopfe
+von Eosentomon gegeben werden. Als leitender Gedanke wird dabei immer die Auﬀassung dienen,
+daß das Tentorium nicht ein Gebilde eigener Art ist, sondern daß es mit dem Endoskelett des Thorax
+homologisiert werden darf. Es wird also das Tentorium als ein Fusionsprodukt aus den Pleural-
+invagiationen der Kopfsomiten betrachtet, welche teilweise sekundär ihre Lage verändert haben.
+Der Einfachheit halber beginne ich mitten im Kopfe und gehe dabei von dem hinteren Arm des
+Tentoriums aus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="219" y="921"/>
+	<Point x="639" y="920"/>
+	<Point x="680" y="905"/>
+	<Point x="2387" y="909"/>
+	<Point x="2390" y="1380"/>
+	<Point x="689" y="1383"/>
+	<Point x="666" y="1411"/>
+	<Point x="440" y="1410"/>
+	<Point x="410" y="1419"/>
+	<Point x="389" y="1410"/>
+	<Point x="216" y="1410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der laterale Ast desselben trägt das Gelenk für die Cardo der ersten Maxille. Es erscheint
+daher als gesichert, daß er dem Maxillarsegmente angehört. Nun hat die Embryologie gezeigt. daß der
+hintere Arm des Tentoriums bei anderen Insekten aus einer Einstülpung zwischen Maxillar- und
+Labialsegment (bei Blatta cephalolateral von der zweiten Maxille) hervorgeht. Gehört er nun nach
+dem Gesagten zum Maxillarsegmente, so ist daraus zu entnehmen, daß die Tentorialeinstülpungen
+des Kopfes zum vorangehenden Segmente (Comstock und Kochi) zu rechnen sind und nicht
+zum nachfolgenden (Riley), ein Ergebnis, das bei der Beurteilung der vorderen Arme von Be‐
+deutung sein wird.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="216" y="1417"/>
+	<Point x="385" y="1417"/>
+	<Point x="407" y="1424"/>
+	<Point x="438" y="1417"/>
+	<Point x="670" y="1419"/>
+	<Point x="700" y="1400"/>
+	<Point x="2390" y="1400"/>
+	<Point x="2395" y="1721"/>
+	<Point x="1671" y="1721"/>
+	<Point x="1646" y="1730"/>
+	<Point x="1620" y="1719"/>
+	<Point x="1517" y="1724"/>
+	<Point x="1351" y="1723"/>
+	<Point x="1185" y="1721"/>
+	<Point x="215" y="1724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die medianen Äste des hinteren Tentorialarmes (branche labiali) konnte Berlese bei
+Acerentomon ebenfalls bis an die Körperwand verfolgen. Dieser Befund ließ sich nicht bestätigen,
+und ebenso findet sich bei Eosentomon kein Zusammenhang zwischen dem Chitin des Exoskelettes
+und diesen inneren Ästen. Ob man dieselben daher weiterhin noch für Labialarme halten darf, welche
+den Kontakt mit dem äußeren Chitin verloren haben, muß dahingestellt bleiben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="213" y="1729"/>
+	<Point x="1620" y="1728"/>
+	<Point x="1641" y="1737"/>
+	<Point x="1667" y="1729"/>
+	<Point x="2383" y="1728"/>
+	<Point x="2380" y="2381"/>
+	<Point x="520" y="2379"/>
+	<Point x="520" y="2404"/>
+	<Point x="210" y="2404"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Besonders am gefärbten Präparat sieht man oft deutlich, daß der untere Lappen der Gnatho-
+pleura von dem Rest abgesetzt ist. Während ich den dorsalen Abschnitt als Teil des Maxillar-
+segmentes betrachte, erscheint es mir wahrscheinlich, daß der ventrale erst sekundär mit dem
+oberen verschmolzen ist und dem Labialsegmente angehört, obschon ein Beweis dafür nicht zu
+erbringen war. Verfolgt man nun beide Maxillarsegmente entlang des Occipitalwulstes auf die Dorsal‐
+seite, so findet man dort den schon erwähnten sanduhrförmigen Sklerit. Nach dem Gesagten wäre
+dann anzunehmen, daß in seinem vorderen Teile die letzten Reste eines Maxillar-, im hinteren die
+eines Labialtergums zu suchen sind. Von den Sterna der beiden hintersten Kopfsomiten ist äußerlich
+sichtbar nur das labiale, welches als Gula den Kopf auf der Ventralseite schließt. Das Maxillarsternum
+beteiligt sich am Aufbau des Hypopharynx (Riley u. a.) und bildet sich zur Lingua (Gl�ssa) des‐
+selben um.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="214" y="2414"/>
+	<Point x="529" y="2413"/>
+	<Point x="538" y="2401"/>
+	<Point x="2382" y="2401"/>
+	<Point x="2375" y="2961"/>
+	<Point x="1678" y="2963"/>
+	<Point x="1649" y="2975"/>
+	<Point x="1615" y="2963"/>
+	<Point x="763" y="2962"/>
+	<Point x="734" y="2972"/>
+	<Point x="704" y="2973"/>
+	<Point x="691" y="2961"/>
+	<Point x="216" y="2964"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von Interesse ist es, daß bei Eosentomon die Gula von einer einheitlichen, ringsum freien
+Platte gebildet wird. Bei höheren Insekten lassen sich zwei Haupttypen in der Ausbildung der Kopf‐
+kapsel unterscheiden (Verhoeff). Bei den Köpfen mit Postcranium clausum ist die Gula beider‐
+seits mit den Wangen verwachsen und bildet so eine starre Brücke, welche das Hinterhauptsloch
+von der Mundöffnung trennt (Coleoptera); bei denen mit Postcranium apertum dagegen fehlt eine
+derartige Brücke. Da die Gula in diesem Falle meist in zahlreiche kleinere Sklerite aufgelöst ist oder
+zum Labium in nähere Beziehung tritt, ist sie oft nur undeutlich zu erkennen. Bei den Proturen
+hat eine solche Aufspaltung nicht stattgefunden, und so läßt sich bei ihnen das von Verhoeff
+für das Postcranium apertum bezweifelte Vorhandensein einer Kehlplatte mit Sicherheit nachweisen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="221" y="2971"/>
+	<Point x="682" y="2971"/>
+	<Point x="704" y="2978"/>
+	<Point x="737" y="2976"/>
+	<Point x="762" y="2969"/>
+	<Point x="1616" y="2970"/>
+	<Point x="1646" y="2980"/>
+	<Point x="1680" y="2971"/>
+	<Point x="2385" y="2967"/>
+	<Point x="2384" y="3172"/>
+	<Point x="219" y="3179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oralwärts folgt dem Maxillarsegment das Mandibularsegment. Im Anschlusse an Comstock
+und Kochi erblicke ich die Rudimente seiner Pleuren und seines Tergums in dem schmalen, als
+Occiput und Postgenae (Comstock) bezeichneten Bande, welches entlang des Hinterrandes</Unicode></TextEquiv></TextRegion></Page></PcGts>

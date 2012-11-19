@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672454">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:38:16</Created>
+	<LastChange>2012-02-10T09:54:55</LastChange></Metadata>
+	<Page imageFilename="00672454.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="932" y="126"/>
+	<Point x="1235" y="126"/>
+	<Point x="1235" y="192"/>
+	<Point x="932" y="192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 244 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="282" y="266"/>
+	<Point x="1978" y="266"/>
+	<Point x="1978" y="764"/>
+	<Point x="282" y="764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Exemplar erhalten, wo alle 4 Flügel total schwarzgrau
+sind; nur die schwarzen Flecke aller Flügel heben sich
+dunkler aus der schwarzgrauen Grundfarbe hervor. Auf den
+Hinterﬂügeln sind einige Adern mattgelb angeﬂogen, und
+erinnern nur hierdurch an die gelbe Grundfarbe derselben
+bei der typischen Melanaria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="291" y="783"/>
+	<Point x="1985" y="783"/>
+	<Point x="1985" y="1032"/>
+	<Point x="291" y="1032"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Uebrigens besitze ich auch Uebergänge von der Stamm-
+form zu dieser ganz dunkeln aberratio, die ich nach dem
+freundlichen Spender Hanseni benenne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="301" y="1044"/>
+	<Point x="1992" y="1044"/>
+	<Point x="1992" y="1453"/>
+	<Point x="301" y="1453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bei einem Stücke sind alle 4 Flügel hellgrau überzogen,
+und zwar so, dass von der weissen Zeichnung der Vorder-
+ﬂügel gar nichts durchscheint, die schwarzen Flecke viel
+spärlicher und kleiner als bei Melanaria sind, und die Hin-
+terﬂügel matt graugelb erscheinen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="301" y="1464"/>
+	<Point x="2012" y="1464"/>
+	<Point x="2012" y="1969"/>
+	<Point x="301" y="1969"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eine mir von Herrn Erschoff mitgetheilte Abbildung
+eines Stückes seiner Sammlung stimmt auf den Vorderﬂügeln
+ganz mit meiner ab. Hanseni überein, wogegen auf den
+Hinterﬂügeln, namentlich gegen den Aussenrand zu, die
+ursprünglich gelbe Grundfarbe wie durch einen dunkeln
+Ueberzug hindurchschimmert. Tab. XIII, ﬁg. 12.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="262" y="1980"/>
+	<Point x="2021" y="1980"/>
+	<Point x="2021" y="2730"/>
+	<Point x="262" y="2730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ich möchte sowohl Askoldinaria Obthr. als auch Han-
+seni Hedm. nur als Aberrationen von Melanaria ansehen,
+die mit der Stammform gleichzeitig ﬂiegen (ich besitze auch
+eine gewöhnliche Melanaria von der Insel Askold), und
+verstehe unter der ab. Askoldinaria Obthr. diejenige Form,
+wo die Vorderﬂügel dunkel, die Hinterﬂügel aber normal
+gelb sind; unter ab. Hanseni Hedm. diejenige, wo alle 4
+Flügel dunkel erscheinen, als wenn sie mit einer mehr oder
+weniger dunkeln Tuschlage überzogen wären.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="266" y="2740"/>
+	<Point x="2021" y="2740"/>
+	<Point x="2021" y="3076"/>
+	<Point x="266" y="3076"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Abraxas Marginata var. Amurensis Hedm. Mein Name
+Amurensis hat einzugehen, indem Herr Butler diese Varie-
+tät als eigne Art im III Bande der Lep. Het. of the Brit.
+Mus. pl. LIII, ﬁg. 3 abgebildet und schon 1878 in den</Unicode></TextEquiv></TextRegion></Page></PcGts>

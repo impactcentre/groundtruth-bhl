@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672755">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:06:20</Created>
+	<LastChange>2012-03-12T14:34:25</LastChange></Metadata>
+	<Page imageFilename="00672755.tif" imageWidth="2018" imageHeight="2792">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1042" y="92"/>
+	<Point x="1176" y="92"/>
+	<Point x="1176" y="180"/>
+	<Point x="1042" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>614</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="280" y="195"/>
+	<Point x="1935" y="195"/>
+	<Point x="1935" y="1164"/>
+	<Point x="280" y="1164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dans la petite Russie et dans la Russie blanche la mor‐
+talité est plus grande que dans les provinces russes et en
+Sibérie. En Crimée, à Jekathérinoslaw, à Cherson, en
+Caucasie la mortalité est encore plus grande, de manière
+qu’au milieu de tant de variations le terme moien paroit
+être 1 à 40. Cette proportion est toujours si forte que
+Schlôzer en a douté, car en Suède elle n’est que 1 à 34,
+en Allemagne 1 à 32, en France 1 à 30 ou 1 à 30⅛
+et il n’y a que le pays de Vaux qui a la proportion d’un
+à 45, tandis que Cathérinenbourg sur l’Oural a une pro‐
+portion beaucoup plus avantageuse, 1 à 54.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="283" y="1178"/>
+	<Point x="1935" y="1178"/>
+	<Point x="1935" y="2114"/>
+	<Point x="283" y="2114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. Le rapport des mariages a la population est ce
+qu’il y a de plus étonnant en Russie. On a trouvé à
+Saratow un mariage sur 150 personnes des deux sexes,
+en d’autres Gouvernemens 220 mariages sur 1000 indivi‐
+dus, et ordinairement 200 mariages sur 1000 personnes,
+tandis que les pays les plus fertiles ne comptent que 175
+mariages sur 1000 individus. Moheau et Necker ont
+trouvé un mariage sur 113¾ individus, les nouvelles re‐
+cherches faites en France ont établi la proportion 1 à 132
+ce qui prouve que le nombre des mariages diminue sen‐
+siblement en France.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="285" y="2126"/>
+	<Point x="1923" y="2126"/>
+	<Point x="1923" y="2307"/>
+	<Point x="285" y="2307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4. Le rapport général des naissances est aux décès
+dans tout l’Empire 16 à 10, mais il y a des Gouverne-</Unicode></TextEquiv></TextRegion></Page></PcGts>

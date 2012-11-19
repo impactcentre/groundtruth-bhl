@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668725">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T03:30:28</Created>
+	<LastChange>2012-02-10T10:29:33</LastChange></Metadata>
+	<Page imageFilename="00668725.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r31" index="2"/>
+	<RegionRefIndexed regionRef="r33" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r35" index="7"/>
+	<RegionRefIndexed regionRef="r37" index="8"/>
+	<RegionRefIndexed regionRef="r8" index="9"/>
+	<RegionRefIndexed regionRef="r9" index="10"/>
+	<RegionRefIndexed regionRef="r10" index="11"/>
+	<RegionRefIndexed regionRef="r11" index="12"/>
+	<RegionRefIndexed regionRef="r39" index="13"/>
+	<RegionRefIndexed regionRef="r41" index="14"/>
+	<RegionRefIndexed regionRef="r14" index="15"/>
+	<RegionRefIndexed regionRef="r15" index="16"/>
+	<RegionRefIndexed regionRef="r16" index="17"/>
+	<RegionRefIndexed regionRef="r17" index="18"/>
+	<RegionRefIndexed regionRef="r18" index="19"/>
+	<RegionRefIndexed regionRef="r19" index="20"/>
+	<RegionRefIndexed regionRef="r20" index="21"/>
+	<RegionRefIndexed regionRef="r21" index="22"/>
+	<RegionRefIndexed regionRef="r22" index="23"/>
+	<RegionRefIndexed regionRef="r23" index="24"/>
+	<RegionRefIndexed regionRef="r43" index="25"/>
+	<RegionRefIndexed regionRef="r45" index="26"/>
+	<RegionRefIndexed regionRef="r28" index="27"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="875" y="289"/>
+	<Point x="1368" y="289"/>
+	<Point x="1368" y="365"/>
+	<Point x="875" y="365"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="973" y="393"/>
+	<Point x="1229" y="393"/>
+	<Point x="1229" y="445"/>
+	<Point x="973" y="445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XXIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="172" y="783"/>
+	<Point x="1074" y="783"/>
+	<Point x="1074" y="1022"/>
+	<Point x="172" y="1022"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MARBLE ACHATINA. Shell elongately turreted,
+narrow, somewhat cylindrical, rather solid, whorls
+ﬂatly convex, obliquely rather rudely striated, colu‐
+mella thinly truncated, aperture small; white, covered
+with a chestnut horny epidermis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="175" y="1025"/>
+	<Point x="368" y="1025"/>
+	<Point x="368" y="1064"/>
+	<Point x="175" y="1064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.—?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="148" y="1076"/>
+	<Point x="1069" y="1076"/>
+	<Point x="1069" y="1231"/>
+	<Point x="148" y="1231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This species resembles the Bulimus calcar in form. It
+is of more solid growth, and has the columella distinctly
+truncated.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="158" y="1669"/>
+	<Point x="1063" y="1669"/>
+	<Point x="1063" y="1996"/>
+	<Point x="158" y="1996"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MOULDY ACHATINA. Shell ovate, thin, rather ven-
+tricose, whorls six in number, decussately very ﬁnely
+granulosely striated, marginated round the upper
+part, and obscurely crenulated, columella very thinly
+truncated; streaked and variegated with opake-
+white and purple-brown, covered with a thin epi‐
+dermis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="161" y="2001"/>
+	<Point x="558" y="2001"/>
+	<Point x="558" y="2048"/>
+	<Point x="161" y="2048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus mucidus, Gould.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="157" y="2051"/>
+	<Point x="601" y="2051"/>
+	<Point x="601" y="2096"/>
+	<Point x="157" y="2096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Liberia, West Africa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1121" y="471"/>
+	<Point x="2025" y="471"/>
+	<Point x="2025" y="772"/>
+	<Point x="1121" y="772"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SAULCYD’S ACHATINA. Shell oblong-ovate, ventricose,
+sinistral, somewhat papillary at the apex, whorls
+convex, irregularly roughly striated, crenulated at
+the sutures, columella slightly excavated and trun‐
+cated; violet-grey, longitudinally streaked and linea-
+ted with blackish brown, aperture rusty-fulvous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1112" y="774"/>
+	<Point x="2013" y="774"/>
+	<Point x="2006" y="824"/>
+	<Point x="1684" y="817"/>
+	<Point x="1668" y="818"/>
+	<Point x="1561" y="818"/>
+	<Point x="1125" y="816"/>
+	<Point x="1112" y="816"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE JOANNIS, Guérin’s Mag. de Zool. 1834, Moll. pl. 50.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1112" y="820"/>
+	<Point x="1669" y="820"/>
+	<Point x="1669" y="862"/>
+	<Point x="1112" y="862"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Prince’s Island, West Africa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1110" y="876"/>
+	<Point x="2029" y="876"/>
+	<Point x="2029" y="1128"/>
+	<Point x="1110" y="1128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I have not seen this species, but have ventured to copy
+the excellent ﬁgure of it in the work above referred to, on
+account of its characteristic appearance. The papillary
+type of the apex appears also in Bulimus torridus, from
+the neighbouring locality of Liberia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="1323" y="1196"/>
+	<Point x="1795" y="1196"/>
+	<Point x="1795" y="1251"/>
+	<Point x="1323" y="1251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 128. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1110" y="1261"/>
+	<Point x="2011" y="1261"/>
+	<Point x="2011" y="1595"/>
+	<Point x="1110" y="1595"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA GOULDII. Achat. testâ ovato-conicâ, tenui,
+ventricosâ, apice subpapillari, anfractibus plano-con-
+vexis, obliquè tenuissimè striatis, ad suturas subtiliter
+crenulatis, anfractu, ultimo basi leviter angulato; ful-
+vescente-olivaceâ, epidermide tenui indutâ, epidermide
+secundâ hydrophanâ prope apicem radiatâ et infra
+angulum anfractüs ultimi unifasciatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1104" y="1598"/>
+	<Point x="2011" y="1598"/>
+	<Point x="2011" y="1976"/>
+	<Point x="1104" y="1976"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GOULD’S ACHATINA. Shell ovately conical, thin, ventri‐
+cose, somewhat papillary at the apex, whorls ﬂatly
+convex, obliquely very ﬁnely striated, ﬁnely crenu‐
+lated at the sutures, last whorl slightly angled at the
+base; fulvous-olive, covered with a thin epidermis,
+rayed at the apex with a second hydrophanous epi‐
+dermis, and encircled with a single band of the same
+beneath the angle of the last whorl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1101" y="1979"/>
+	<Point x="1507" y="1979"/>
+	<Point x="1507" y="2020"/>
+	<Point x="1101" y="2020"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus balteatus, Gould.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1102" y="2023"/>
+	<Point x="1537" y="2023"/>
+	<Point x="1537" y="2063"/>
+	<Point x="1102" y="2063"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Liberia, West Africa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="heading">
+	<Coords>
+	<Point x="390" y="469"/>
+	<Point x="864" y="469"/>
+	<Point x="864" y="537"/>
+	<Point x="390" y="537"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 125. (Mus. Taylor.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="170" y="542"/>
+	<Point x="1083" y="542"/>
+	<Point x="1083" y="780"/>
+	<Point x="170" y="780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA MARMOREA. Achat. testâ elongato-turritâ, an-
+gustâ, subcylindraceâ, solidiusculâ, anfractibus plano-
+convexis, obliquè subrudè striatis, columellâ tenuè trun-
+catâ, aperturâ parvâ; albâ, epidermide corneâ cas-
+taneâ indutâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="heading">
+	<Coords>
+	<Point x="376" y="1313"/>
+	<Point x="861" y="1313"/>
+	<Point x="861" y="1366"/>
+	<Point x="376" y="1366"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 126. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="162" y="1375"/>
+	<Point x="1064" y="1375"/>
+	<Point x="1064" y="1665"/>
+	<Point x="162" y="1665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA MUCIDA. Achat. testâ ovatâ, tenui, subven-
+tricosâ, anfractibus sex, decussatim subtilisimè granu-
+loso-striatis, supernè marginatis, et obscurè crenulatis,
+columellâ tenuissimè truncatâ; opaco-albo et pur-
+pureo-fusco strigatâ et variegatâ, epidermide tenui
+indutâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="145" y="2106"/>
+	<Point x="1058" y="2106"/>
+	<Point x="1058" y="2217"/>
+	<Point x="145" y="2217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A light, strongly painted shell, of which the colouring
+is seen through in the interior.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="heading">
+	<Coords>
+	<Point x="392" y="2285"/>
+	<Point x="829" y="2285"/>
+	<Point x="829" y="2338"/>
+	<Point x="392" y="2338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 127. (Fig. Guérin.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="150" y="2346"/>
+	<Point x="1057" y="2346"/>
+	<Point x="1057" y="2644"/>
+	<Point x="150" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA SAULCYDI. Achat. testâ oblongo-ovatâ, ven-
+tricosâ, sinistrâ, apice subpapillari, anfractibus con-
+vexis, irregulariter rugoso-striatis, ad suturas crenula-
+tis, columellâ subexcavatâ et truncatâ; violaceo-griseâ,
+nigricante-fusco longitudinaliter lineatâ et strigatâ,
+aperturœ fauce ferrugineo-fulvâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1097" y="2076"/>
+	<Point x="2016" y="2076"/>
+	<Point x="2016" y="2285"/>
+	<Point x="1097" y="2285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The name balteatus being already occupied in this
+genus, I have the pleasure of naming the species after the
+accomplished naturalist to whom I am indebted for it,—
+Dr. Gould, of Boston, United States.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="heading">
+	<Coords>
+	<Point x="1323" y="2370"/>
+	<Point x="1770" y="2370"/>
+	<Point x="1770" y="2428"/>
+	<Point x="1323" y="2428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 129. (Mus. Taylor.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="1101" y="2434"/>
+	<Point x="1998" y="2434"/>
+	<Point x="1998" y="2632"/>
+	<Point x="1101" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA OBELISCUS. Achat. testâ elongato-turritâ, an-
+fractibus novem ad decem, planis, medio subconcavis,
+transversim obscurè et irregulariter liratis, anfractu
+ultimo basi obtusè angulato, columellâ arcuatâ et</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r46">
+	<Coords>
+	<Point x="391" y="1262"/>
+	<Point x="854" y="1262"/>
+	<Point x="854" y="1288"/>
+	<Point x="391" y="1288"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r47">
+	<Coords>
+	<Point x="410" y="2236"/>
+	<Point x="820" y="2236"/>
+	<Point x="820" y="2261"/>
+	<Point x="410" y="2261"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r48">
+	<Coords>
+	<Point x="1091" y="485"/>
+	<Point x="1106" y="485"/>
+	<Point x="1102" y="951"/>
+	<Point x="1100" y="1275"/>
+	<Point x="1094" y="1644"/>
+	<Point x="1090" y="2102"/>
+	<Point x="1091" y="2294"/>
+	<Point x="1092" y="2479"/>
+	<Point x="1091" y="2655"/>
+	<Point x="1068" y="2654"/>
+	<Point x="1068" y="2103"/>
+	<Point x="1075" y="1644"/></Coords></SeparatorRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="955" y="2673"/>
+	<Point x="1201" y="2673"/>
+	<Point x="1201" y="2728"/>
+	<Point x="955" y="2728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>March, 1850.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r49">
+	<Coords>
+	<Point x="1327" y="1151"/>
+	<Point x="1793" y="1151"/>
+	<Point x="1793" y="1178"/>
+	<Point x="1327" y="1178"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r50">
+	<Coords>
+	<Point x="1334" y="2319"/>
+	<Point x="1768" y="2319"/>
+	<Point x="1768" y="2343"/>
+	<Point x="1334" y="2343"/></Coords></SeparatorRegion></Page></PcGts>

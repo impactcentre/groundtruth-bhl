@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668061">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:27:52</Created>
+	<LastChange>2012-02-10T09:52:34</LastChange></Metadata>
+	<Page imageFilename="00668061.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r18" index="0"/>
+	<RegionRefIndexed regionRef="r26" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r30" index="6"/>
+	<RegionRefIndexed regionRef="r38" index="7"/>
+	<RegionRefIndexed regionRef="r7" index="8"/>
+	<RegionRefIndexed regionRef="r8" index="9"/>
+	<RegionRefIndexed regionRef="r28" index="10"/>
+	<RegionRefIndexed regionRef="r9" index="11"/>
+	<RegionRefIndexed regionRef="r10" index="12"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="570" y="594"/>
+	<Point x="1712" y="594"/>
+	<Point x="1712" y="687"/>
+	<Point x="570" y="687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE YELLOW‐BREASTED BUNTING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="854" y="758"/>
+	<Point x="1441" y="758"/>
+	<Point x="1441" y="848"/>
+	<Point x="854" y="848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Emberiza aureola, PALLAS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="drop-capital">
+	<Coords>
+	<Point x="216" y="918"/>
+	<Point x="328" y="918"/>
+	<Point x="328" y="1065"/>
+	<Point x="216" y="1065"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="334" y="912"/>
+	<Point x="2066" y="912"/>
+	<Point x="2066" y="1061"/>
+	<Point x="334" y="1061"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N immature female was shot at Cley, Norfolk, in September 1905. It has
+occurred at Heligoland, North Italy and south-eastern France.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="736" y="1768"/>
+	<Point x="1480" y="1768"/>
+	<Point x="1480" y="1869"/>
+	<Point x="736" y="1869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CIRL BUNTING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="876" y="1936"/>
+	<Point x="1401" y="1936"/>
+	<Point x="1401" y="2018"/>
+	<Point x="876" y="2018"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Emberiza cirlus, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="335" y="2264"/>
+	<Point x="334" y="2094"/>
+	<Point x="2069" y="2092"/>
+	<Point x="2072" y="2461"/>
+	<Point x="196" y="2471"/>
+	<Point x="195" y="2264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HE range of the Cirl Bunting is more restricted than that of the other
+European species as it does not extend into the northern parts of the
+Continent. In Central and Southern Europe it is resident, but in Southern
+Italy, Greece, and Asia Minor, it seeks the mountains for breeding purposes. In
+Belgium and Holland it is said to be rare. It has been found breeding in Algeria,
+but appears to be chieﬂy a winter visitor to North-west Africa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="196" y="2472"/>
+	<Point x="2072" y="2472"/>
+	<Point x="2072" y="2724"/>
+	<Point x="196" y="2724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Though resident in Great Britain and not rare, the Cirl Bunting is decidedly
+local, being essentially a southern species. Formerly every work on British
+Birds which was published, used to assert that this bird was found breeding in
+all the southern counties from Cornwall to Sussex, being apparently absent from</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="header">
+	<Coords>
+	<Point x="488" y="212"/>
+	<Point x="1814" y="212"/>
+	<Point x="1814" y="281"/>
+	<Point x="488" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE YELLOW‐BREASTED BUNTING, THE CIRL BUNTING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="page-number">
+	<Coords>
+	<Point x="1966" y="212"/>
+	<Point x="2079" y="212"/>
+	<Point x="2079" y="308"/>
+	<Point x="1966" y="308"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>117</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="drop-capital">
+	<Coords>
+	<Point x="202" y="2095"/>
+	<Point x="330" y="2095"/>
+	<Point x="330" y="2254"/>
+	<Point x="202" y="2254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="signature-mark">
+	<Coords>
+	<Point x="1702" y="2731"/>
+	<Point x="1805" y="2731"/>
+	<Point x="1805" y="2771"/>
+	<Point x="1702" y="2771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="signature-mark">
+	<Coords>
+	<Point x="305" y="2731"/>
+	<Point x="435" y="2731"/>
+	<Point x="435" y="2780"/>
+	<Point x="305" y="2780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="208" y="333"/>
+	<Point x="843" y="333"/>
+	<Point x="843" y="412"/>
+	<Point x="208" y="412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1385" y="337"/>
+	<Point x="2073" y="337"/>
+	<Point x="2073" y="416"/>
+	<Point x="1385" y="416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—EMBERIZINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="208" y="1513"/>
+	<Point x="858" y="1513"/>
+	<Point x="858" y="1598"/>
+	<Point x="208" y="1598"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1344" y="1513"/>
+	<Point x="2075" y="1513"/>
+	<Point x="2075" y="1598"/>
+	<Point x="1344" y="1598"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—EMBERIZINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r22">
+	<Coords>
+	<Point x="1024" y="1292"/>
+	<Point x="1024" y="1321"/>
+	<Point x="1248" y="1321"/>
+	<Point x="1248" y="1292"/></Coords></SeparatorRegion></Page></PcGts>

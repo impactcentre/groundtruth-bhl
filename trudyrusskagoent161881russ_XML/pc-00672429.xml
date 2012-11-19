@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672429">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:34:09</Created>
+	<LastChange>2012-02-10T09:54:51</LastChange></Metadata>
+	<Page imageFilename="00672429.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="826" y="173"/>
+	<Point x="1141" y="173"/>
+	<Point x="1141" y="241"/>
+	<Point x="826" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 235 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="117" y="310"/>
+	<Point x="1844" y="310"/>
+	<Point x="1844" y="473"/>
+	<Point x="117" y="473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>auf den Vorderﬂügeln 4 Aeste, nicht 3, wie die beiden ame-
+rikanischen Arten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="112" y="480"/>
+	<Point x="1860" y="480"/>
+	<Point x="1860" y="1048"/>
+	<Point x="112" y="1048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gewöhnlich kleiner als Homoeosomella. Kopf und Rücken-
+schild lehmgelbgrau. Taster dünn, etwas über die gerundete
+Stirn reichend, dunkelbraun, an der Wurzel mit hellgrauen
+Schuppenhaaren. Fühler stark, bräunlich, mit kurzem Wurzel-
+gliede. Hinterleib gelblich grau. Analbusch des ♂ ochergelb,
+ohne Auszeichnung. Beine grau; Hinterfüsse mit hellen Enden
+der Glieder.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="107" y="1058"/>
+	<Point x="1866" y="1058"/>
+	<Point x="1866" y="2564"/>
+	<Point x="107" y="2564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 3—З1/2‴ lang, schmal, nach hinten erwei-
+tert, mit schräg zurückgehendem Hinterrande und daher ziem-
+lich deutlicher Spitze, röthlich lehmgrau, am Innenrand bis zur
+ersten Querlinie em dunkelsten. Diese ist hell wie die zweite,
+ziemlich dünn, fast senkrecht, mit mehrern kappenförmigen
+Biegungen. Die zweite ist eben so dünn, schwach gezähnelt,
+in der Mitte einen fast rechten Winkel bildend, dessen oberer
+Schenkel sich doppelt so weit vom Hinterrand entfernt wie
+der untere; sie ist basalwärts, wie die erste hinterwärts schmal
+schwärzlich gerandet, hinterwärts aber mit einem ziemlich
+breiten Bande der verdunkelten Grundfarbe eingefasst. Der
+Raum zwischen den beiden Querlinien ist vorn bis gegen die
+Dorsalader herab schwärzlich, am dunkelsten gegen den Vor-
+derrand und auf den Aesten der Medianader. Der schwarze,
+verdickte, aber aus der Dunkelheit nicht immer scharf hervor-
+tretende Queraderpunkt ist weit gegen den Vorderrand vorge-
+rückt. Die schwarzen Hinterrandpunkte stehen weit von ein-
+ander ab; die Franzen sind gelbgrau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="110" y="2569"/>
+	<Point x="1862" y="2569"/>
+	<Point x="1862" y="2899"/>
+	<Point x="110" y="2899"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel spitz und von geringem Umfang, hell grau,
+durchscheinend, mit dunkeln Adern und schmalem solchen
+Hinterrande. Franzen mit grauer Linie hinter der gelblichen
+Wurzellinie durchzogen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="117" y="2903"/>
+	<Point x="1860" y="2903"/>
+	<Point x="1860" y="3148"/>
+	<Point x="117" y="3148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite grau, ohne Schimmer. Die Medianader der Vor-
+derﬂügel ist dreiästig, der erste Ast kommt von 3/5 ihrer
+Länge; Ast 2 und 3 bilden eine Gabel mit 1/4 so langem</Unicode></TextEquiv></TextRegion></Page></PcGts>

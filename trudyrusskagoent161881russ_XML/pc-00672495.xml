@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672495">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:45:07</Created>
+	<LastChange>2012-02-10T09:55:01</LastChange></Metadata>
+	<Page imageFilename="00672495.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="801" y="189"/>
+	<Point x="1100" y="189"/>
+	<Point x="1100" y="267"/>
+	<Point x="801" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 299 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="96" y="321"/>
+	<Point x="1841" y="321"/>
+	<Point x="1841" y="1335"/>
+	<Point x="96" y="1335"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ptochus strigirostris Hochh. Der P. variegatus Hochh.
+wird von Seidlitz „die Otiorhynchiden s. str.“ nach Origi-
+nalexemplaren in v. Heyden's und v. Kiesenwetter's Samm-
+lung zu Deportatus Sch. gebracht. Die Annahme Seidlitz's,
+Hochhuth hätte geﬂeckte Stücke des Deportatus als Varie-
+gatus beschrieben, ist jedenfalls irrig, da Hochhuth gleich
+hinter der Diagnose des Variegatus schreibt: „var. β. elytris
+cinereis immaculatis.“ Da Seidlitz jedenfalls den typischen
+Deportatus gesehen, so gehört Variegatus Hochh. zu ersterem,
+nur bleibt unaufgeklärt, was H. für Deportatus gehalten hat,
+welcher nach ihm von der Gestalt des Strigirostris aber dop-
+pelt so gross sein soll.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="101" y="1344"/>
+	<Point x="1855" y="1344"/>
+	<Point x="1855" y="1671"/>
+	<Point x="101" y="1671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ferner vergleicht Hochhuth den Variegatus mit Strigi-
+rostris und nennt ihn „meistens kaum etwas grösser als Stri-
+girostris, aber in den Decken breiter und viel stärker ge-
+wölbt.“</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="105" y="1687"/>
+	<Point x="1887" y="1687"/>
+	<Point x="1887" y="3130"/>
+	<Point x="105" y="3130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vergleicht man die Beschreibungen beider Arten (Strigi-
+rostris und Variegatus) so haben dieselben fast Alles und
+namentlich die ﬂache, längsgestrichelte Stirn, gemein und
+weichen nur in der Form der Flügeldecken ab. Beide Arten
+habe ich cr. 1 Jahr vor Hochhuth's Tode mit einigen an-
+deren seiner Arten von ihm gekauft; sie stammen von Nert-
+schinsk, passen genau auf die resp. Beschreibungen, wenn die
+Stücke auch recht abgerieben sind. Nachdem ich in jüngster
+Zeit eine grössere Anzahl ganz fehlerfreier Stücke im Museum
+zu Helsingfors und bei Dr. I. Sahlberg vom Jenisei gesehen,
+ist es kein Zweifel dass der kleinere, längliche Strigirostris
+das ♂ und der breitere, gewölbte Variegatus das ♀ derselben
+Art ist. Zu bemerken ist, dass bei abgeriebenen Stücken
+die Augen gewölbter erscheinen als bei beschuppten, dass die
+feinen Striche an den Augen bei beiden weniger massgebend sind,
+als die selbst bei beschuppten Stücken ziemlich groben paral-
+lelen Striche (beim ♂ kräftiger) auf der ganzen Länge des</Unicode></TextEquiv></TextRegion></Page></PcGts>

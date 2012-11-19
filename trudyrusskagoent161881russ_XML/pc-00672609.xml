@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672609">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:35:06</Created>
+	<LastChange>2012-02-10T09:55:20</LastChange></Metadata>
+	<Page imageFilename="00672609.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="754" y="192"/>
+	<Point x="1092" y="192"/>
+	<Point x="1092" y="269"/>
+	<Point x="754" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 413 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="97" y="428"/>
+	<Point x="1759" y="428"/>
+	<Point x="1759" y="550"/>
+	<Point x="97" y="550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>83. Melanargia Japygia Сyr. var. Suwarovius Hrbst.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="52" y="600"/>
+	<Point x="1771" y="600"/>
+	<Point x="1771" y="773"/>
+	<Point x="52" y="773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce lépidoptère était extrêmement abondant dans tout le
+Tian-Chian entre 3000 et 7000´ d'élévation.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="45" y="783"/>
+	<Point x="1785" y="783"/>
+	<Point x="1785" y="1033"/>
+	<Point x="45" y="1033"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tous les individus appartenaient à la var. Suwarovius, et
+ne diﬀéraient en rien de ceux de la Russie méridionale, de
+l'Oural et du nord du Caucase.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="40" y="1045"/>
+	<Point x="1780" y="1045"/>
+	<Point x="1780" y="1307"/>
+	<Point x="40" y="1307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ne serait-il pas juste de considérer la Suwarovius Hrbst.
+comme espèce séparée de la Japygia? Elle le mérite, à mon
+avis, bien plus que beaucoup d'autres espèces admises.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="47" y="1383"/>
+	<Point x="1761" y="1383"/>
+	<Point x="1761" y="1602"/>
+	<Point x="47" y="1602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>84. Erebia Turanica Ersch. (Horae Soc. Ent. Ros. T. XII).
+Tab. XV, ﬁg. 22.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="54" y="1666"/>
+	<Point x="1785" y="1666"/>
+	<Point x="1785" y="1921"/>
+	<Point x="54" y="1921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce, quoique brièvement décrite par Mr. Er-
+schoff, l'est pourtant assez, pour que je n'aie que peu de
+chose à en dire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="38" y="1933"/>
+	<Point x="1792" y="1933"/>
+	<Point x="1792" y="2354"/>
+	<Point x="38" y="2354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ♀ ne diﬀère guère du ♂. Pourtant l'espèce varie beau-
+coup pour la grandeur des taches fauves ainsi que pour la
+bande transversale blanche du revers des secondes ailes. Cette
+bande est tantôt large, tantôt réduite à des taches irrégu-
+lières, plus ou moins petites.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="35" y="2364"/>
+	<Point x="1788" y="2364"/>
+	<Point x="1788" y="2528"/>
+	<Point x="35" y="2528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les tâches blanches extrabasilaires disparaîssent quelque-
+fois complêtement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="35" y="2533"/>
+	<Point x="1778" y="2533"/>
+	<Point x="1778" y="3133"/>
+	<Point x="35" y="3133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le type de l'Ala-Tau, pris par Mr. Haberhaueren 1878 a
+généralement, aux ailes antérieures les taches fauves isolées, tan-
+disque bien souvent ces taches conﬂuent chez les individus du Tian-
+Chian. En outre, la tache, qui est chez les individus de l'Ala-Tau,
+située au dessus de la première nervure (d'en bas), manque
+à presque toutes les Turanica du Tian-Chian. Aussi, le Dr.
+Staudinger, voit-il dans les Turanica de cette dernière pro-</Unicode></TextEquiv></TextRegion></Page></PcGts>

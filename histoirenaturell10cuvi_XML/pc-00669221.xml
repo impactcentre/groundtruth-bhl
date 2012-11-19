@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669221">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:39:12</Created>
+	<LastChange>2012-03-12T14:33:50</LastChange></Metadata>
+	<Page imageFilename="00669221.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r21" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="550" y="232"/>
+	<Point x="1023" y="232"/>
+	<Point x="1023" y="292"/>
+	<Point x="550" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. NASONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1353" y="216"/>
+	<Point x="1487" y="216"/>
+	<Point x="1487" y="289"/>
+	<Point x="1353" y="289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>289</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="78" y="567"/>
+	<Point x="1494" y="567"/>
+	<Point x="1494" y="837"/>
+	<Point x="78" y="837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Recueil de Vlaming, dont la ﬁdélité est
+aujourd’hui si bien constatée, a représenté,
+n.° 216, sous le nom de jannetje-everts,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="139" y="849"/>
+	<Point x="1507" y="849"/>
+	<Point x="1507" y="1612"/>
+	<Point x="139" y="1612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>une espèce à museau plus court que le précédent,
+mais saillant, à proﬁl montant par une courbe ar‐
+rondie, sans tubérosité marquée, à caudale échan-
+crée et sans ﬁlets à l’extrémité des lobes, dont le
+corps est bleu foncé, presque noirâtre, parsemé de
+petits points blanchâtres ou bleuâtres. Les plaques
+de la queue sont colorées comme le fond du corps.
+Il lui donne une ligne bleue le long de la base de la
+dorsale, celle de l’anale en a deux, une bleue et une
+rouge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="80" y="1626"/>
+	<Point x="1501" y="1626"/>
+	<Point x="1501" y="2239"/>
+	<Point x="80" y="2239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On voit une mauvaise copie de cette ﬁgure
+dans Renard, I.re part., n.° 178, étiquetée
+Touté tou; mais enluminée de brun clair et
+pointillée de noir. Nous avons déjà vu ce nom
+de Touté tou employé pour désigner d’autres
+poissons, tels que des acanthures, et notam‐
+ment nos pemphérides.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="83" y="2414"/>
+	<Point x="1503" y="2414"/>
+	<Point x="1503" y="2692"/>
+	<Point x="83" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous terminerons cette histoire des nasons
+par des espèces auxquelles la tubérosité ar‐
+rondie ou la loupe qu’elles portent non pas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="405" y="459"/>
+	<Point x="1155" y="459"/>
+	<Point x="1155" y="537"/>
+	<Point x="405" y="537"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Naseus punctulatus, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="heading">
+	<Coords>
+	<Point x="452" y="353"/>
+	<Point x="1110" y="353"/>
+	<Point x="1110" y="430"/>
+	<Point x="452" y="430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le NASON POINTILLÉ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="698" y="2303"/>
+	<Point x="698" y="2341"/>
+	<Point x="885" y="2341"/>
+	<Point x="885" y="2303"/></Coords></SeparatorRegion>
+	<TextRegion id="r25" type="signature-mark">
+	<Coords>
+	<Point x="204" y="2700"/>
+	<Point x="326" y="2700"/>
+	<Point x="326" y="2769"/>
+	<Point x="204" y="2769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="signature-mark">
+	<Coords>
+	<Point x="1178" y="2703"/>
+	<Point x="1178" y="2780"/>
+	<Point x="1266" y="2780"/>
+	<Point x="1266" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>19</Unicode></TextEquiv></TextRegion></Page></PcGts>

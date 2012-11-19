@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669181">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:04:44</Created>
+	<LastChange>2012-03-12T14:33:47</LastChange></Metadata>
+	<Page imageFilename="00669181.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="91" y="342"/>
+	<Point x="1494" y="342"/>
+	<Point x="1494" y="526"/>
+	<Point x="91" y="526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle a aussi été dessinée par MM. Quoy et
+Gaimard, et à Ulea par M. de Mertens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="93" y="877"/>
+	<Point x="1495" y="877"/>
+	<Point x="1495" y="1313"/>
+	<Point x="93" y="1313"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un acanthure inﬁniment voisin de ce sco-
+pas, surtout de la femelle, si même ce n’en
+est pas un jeune âge, a été apporté de la
+mer des Indes par Péron, et de l’Isle-de-
+France par M. Lamare-Piquot.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="150" y="1341"/>
+	<Point x="1500" y="1341"/>
+	<Point x="1500" y="1710"/>
+	<Point x="756" y="1711"/>
+	<Point x="754" y="1722"/>
+	<Point x="150" y="1722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce sont les mêmes points et linéoles d’une ﬁnesse
+excessive, la même bande latérale et même plus mar‐
+quée, car elle semble d’un blanc d’argent; mais il
+est plus élevé et a les nageoires plus hautes, plus
+même que le voilier qui va suivre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="152" y="1725"/>
+	<Point x="762" y="1726"/>
+	<Point x="767" y="1720"/>
+	<Point x="1498" y="1716"/>
+	<Point x="1500" y="2254"/>
+	<Point x="148" y="2254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous le nommons en conséquence A. altivelis.
+La longueur de son ovale en surpasse à peine la hau‐
+teur, et, en y comprenant ses nageoires, sa hauteur
+totale est plus considérable que toute sa longueur.
+Le reste de ses formes est tout-à-fait pareil, et l’on
+voit aussi dans quelques individus une villosité vers
+les côtés de la queue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="380" y="2269"/>
+	<Point x="1269" y="2269"/>
+	<Point x="1269" y="2340"/>
+	<Point x="380" y="2340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 5/23; A. 3/19; C. 16; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="105" y="2364"/>
+	<Point x="1496" y="2364"/>
+	<Point x="1494" y="2526"/>
+	<Point x="500" y="2527"/>
+	<Point x="495" y="2542"/>
+	<Point x="472" y="2543"/>
+	<Point x="457" y="2536"/>
+	<Point x="103" y="2537"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ne l’avons que de la taille de deux
+et de trois pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="104" y="2540"/>
+	<Point x="457" y="2539"/>
+	<Point x="472" y="2547"/>
+	<Point x="502" y="2546"/>
+	<Point x="505" y="2533"/>
+	<Point x="1502" y="2532"/>
+	<Point x="1500" y="2711"/>
+	<Point x="104" y="2711"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les dessins de Parkinson, conservés à la
+bibliothèque de Banks, oﬀrent un acanthure</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="309" y="632"/>
+	<Point x="1278" y="632"/>
+	<Point x="1278" y="714"/>
+	<Point x="309" y="714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE A HAUTES VOILES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="485" y="746"/>
+	<Point x="1098" y="746"/>
+	<Point x="1098" y="829"/>
+	<Point x="485" y="829"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus altivelis.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1342" y="236"/>
+	<Point x="1491" y="236"/>
+	<Point x="1491" y="307"/>
+	<Point x="1342" y="307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>249</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="491" y="253"/>
+	<Point x="1101" y="253"/>
+	<Point x="1101" y="315"/>
+	<Point x="491" y="315"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

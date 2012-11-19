@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669069">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:21:02</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669069.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="89" y="279"/>
+	<Point x="1477" y="279"/>
+	<Point x="1477" y="877"/>
+	<Point x="89" y="877"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sant; tout son corps et sa tête paraissent dans le sec
+d’un brun clair, semé de petites taches rondes et ser‑
+rées d’un brun foncé ou noirâtre. Il y a aussi de ces
+taches sur la caudale, mais encore plus petites et plus
+serrées, et on en aperçoit de plus grandes, mais pas
+aussi nettes, entre les rayons mous de la dorsale et de
+l’anale. Les autres nageoires paraissent uniformément
+brunes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="512" y="883"/>
+	<Point x="1040" y="883"/>
+	<Point x="1040" y="962"/>
+	<Point x="512" y="962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/10; A. 7/9, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="38" y="970"/>
+	<Point x="1466" y="970"/>
+	<Point x="1466" y="1219"/>
+	<Point x="38" y="1219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ignorons l’origine de notre individu,
+qui a été cédé au Cabinet du Roi par celui
+de Lisbonne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="118" y="1224"/>
+	<Point x="798" y="1224"/>
+	<Point x="798" y="1314"/>
+	<Point x="731" y="1315"/>
+	<Point x="702" y="1307"/>
+	<Point x="409" y="1306"/>
+	<Point x="406" y="1317"/>
+	<Point x="390" y="1317"/>
+	<Point x="119" y="1312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il a un pied de long.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="37" y="1317"/>
+	<Point x="183" y="1318"/>
+	<Point x="256" y="1320"/>
+	<Point x="268" y="1321"/>
+	<Point x="619" y="1323"/>
+	<Point x="636" y="1312"/>
+	<Point x="692" y="1312"/>
+	<Point x="724" y="1324"/>
+	<Point x="844" y="1323"/>
+	<Point x="873" y="1305"/>
+	<Point x="1468" y="1306"/>
+	<Point x="1464" y="2512"/>
+	<Point x="835" y="2515"/>
+	<Point x="808" y="2507"/>
+	<Point x="37" y="2507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est à cet amphacanthus guttatus que
+Bloch, dans son Système posthume, a voulu
+rapporter tous les poissons de ce genre décrits
+par les auteurs, excepté le scarus stellatus
+de Forskal; mais il s’est trop laissé entraîner
+par les caractères génériques. Ainsi le scarus
+siganus ou le rivulatus ne peut être le même,
+puisqu’il a des lignes longitudinales jaunes.
+Ce ne peut être non plus le sparus spinus
+d’Osbeck et de Linnæus, puisque ce spinus a
+des lignes bleues et tortueuses sur les côtés.
+Il ne s’accorde pas davantage avec l’hepatus
+cauda fronteque inermibus de Gronovius1,
+qui est devenu le teuthis javus de Linnæus;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="100" y="2579"/>
+	<Point x="800" y="2579"/>
+	<Point x="800" y="2665"/>
+	<Point x="100" y="2665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Zoophyl., p. 113, n.° 352.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="425" y="193"/>
+	<Point x="1061" y="193"/>
+	<Point x="1061" y="261"/>
+	<Point x="425" y="261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1305" y="174"/>
+	<Point x="1439" y="174"/>
+	<Point x="1439" y="259"/>
+	<Point x="1305" y="259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>137</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="47" y="2526"/>
+	<Point x="47" y="2571"/>
+	<Point x="1475" y="2571"/>
+	<Point x="1475" y="2526"/></Coords></SeparatorRegion></Page></PcGts>

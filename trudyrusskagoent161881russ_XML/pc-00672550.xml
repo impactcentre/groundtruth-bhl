@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672550">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:55:49</Created>
+	<LastChange>2012-02-10T09:55:09</LastChange></Metadata>
+	<Page imageFilename="00672550.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1016" y="135"/>
+	<Point x="1321" y="135"/>
+	<Point x="1321" y="203"/>
+	<Point x="1016" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 354 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="275" y="271"/>
+	<Point x="2046" y="271"/>
+	<Point x="2046" y="1026"/>
+	<Point x="275" y="1026"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>croit ètre la même espèce que l'Apollonius (ce qui du reste
+est plus que probable); mais il n'en rapporta malheureusement
+pas. „Volat in Songariae montibus Junio“ dit Eversmann;
+et, Ersсhoff, en parlant de la ♀ rapportée par l'expédition
+Fetschenko, donne le mois de Juillet, comme époque de la
+prise de celle-ci, près d'un petit lac (Kouli-Kalane), situé
+entre 8000 et 12.000' d'altitude. Aussi suis-je bien étonné
+d'avoir rencontré cette espèce en Avril, et à une altitude
+de 2000' seulement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="276" y="1042"/>
+	<Point x="2046" y="1042"/>
+	<Point x="2046" y="1464"/>
+	<Point x="276" y="1464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Apollonius, que je rapportai, me paraîssent être un
+peu diﬀérents de ceux reçus depuis par le Dr. Staudinger
+du Marghélane (dans le Ferganah); mais je ne puis l'afﬁrmer,
+n'ayant devant les yeux qu'une seule paire d'individus de cette
+localité.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="276" y="1478"/>
+	<Point x="2046" y="1478"/>
+	<Point x="2046" y="1648"/>
+	<Point x="276" y="1648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mes individus ont une envergure qui varie de 69 à 77
+mill. pour les ♀♀, et de 61 à 74 mill. pour les ♂♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="276" y="1662"/>
+	<Point x="2042" y="1662"/>
+	<Point x="2042" y="1908"/>
+	<Point x="276" y="1908"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je dois ajouter ici que je mesure les Parnassiens un peu
+au dessous de l'apex des premières ailes, c. à d. à l'endroit
+où les ailes atteignent le maximum de leur largeur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="275" y="1921"/>
+	<Point x="2039" y="1921"/>
+	<Point x="2039" y="2517"/>
+	<Point x="275" y="2517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ailes des Apollonius de Kouldjà me paraîssent être
+plus arrondies à l'apex que ne le sont celles des individus du
+Marghélane. Les taches rouges sont d'un rouge bien moins
+brillant et toujours d'une teinte un peu ocracée. Entre autres,
+j'ai pris quelques individus à taches d'un ocre-foncé et d'au-
+tres à taches jaunes, au lieu des taches d'un carmin pur,
+qu'ont les Apollonius du Marghélane.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="280" y="2524"/>
+	<Point x="2041" y="2524"/>
+	<Point x="2041" y="2776"/>
+	<Point x="280" y="2776"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Dr. Staudinger nous fera bientôt connaître quelles
+sont les diﬀérences, s'il y en a, entre les individus de Kouldjà
+et ceux du Marghélane.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="283" y="2787"/>
+	<Point x="2044" y="2787"/>
+	<Point x="2044" y="3055"/>
+	<Point x="283" y="3055"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je trouve encore que la frange des Apollonius de ce der-
+nier pays est presque complêtement blanche, tandisqu'elle est
+très nettement alternée de gris-noirâtre, chez les miens.</Unicode></TextEquiv></TextRegion></Page></PcGts>

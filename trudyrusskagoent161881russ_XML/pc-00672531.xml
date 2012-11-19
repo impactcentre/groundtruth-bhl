@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672531">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:53:01</Created>
+	<LastChange>2012-02-10T09:55:07</LastChange></Metadata>
+	<Page imageFilename="00672531.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="728" y="199"/>
+	<Point x="1042" y="199"/>
+	<Point x="1042" y="276"/>
+	<Point x="728" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 335 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="24" y="332"/>
+	<Point x="1760" y="332"/>
+	<Point x="1760" y="1089"/>
+	<Point x="24" y="1089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬁque. D'autre part ce pays promettait un vaste champ à dé-
+couvertes qu'il me tardait d'explorer. Dans un compte-rendu,
+que j'espère bientôt présenter à notre Société Impériale de
+Géographie, je tâcherai de donner, 1°: une rélation complète
+de mon voyage, et, 2°: toutes les notes sur les Vertebrés
+que j'y ai rassemblées. Aussi me bornerai-je à indiquer ici le
+plus brièvement possible la route que j'ai suivi, et à caracté-
+riser par quelques mots, les localités où je collectionnai, aﬁn
+de faire reconnaître les habitats des Lépidoptères rapportés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="23" y="1096"/>
+	<Point x="1758" y="1096"/>
+	<Point x="1758" y="1585"/>
+	<Point x="23" y="1585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mais avant tout je me fais un devoir de témoigner ici,
+ma reconnaissance à mon ami et compagnon de voyage Mr.
+Eustrate Scaramanga, qui non seulement a bien voulu
+partager mes fatigues, mais encore prendre sa part des dé-
+penses toujours lourdes d'un pareil voyage, et par cela même
+contribuer au résultat obtenu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="33" y="1778"/>
+	<Point x="1778" y="1778"/>
+	<Point x="1778" y="2451"/>
+	<Point x="33" y="2451"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Partis de St. Pétersbourg le 4. Janvier 1879, nous arri-
+vâmes le 5 Février à Kouldjà, après avoir suivi la route
+d'Omsk. Outre Mr. Scaramanga et moi, deux personnes
+encore faisaient partie de notre expédition. C'étaient: le pré-
+parateur Pierre Mistchenko, qui avait déjà chassé les Lé-
+pidoptères avec et pour moi dans l'Oural et le Caucase, et
+qui était devenu un taxidermiste habile, et le chasseur au fu-
+sil Nicolas Kourduk, petit russien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="35" y="2462"/>
+	<Point x="1780" y="2462"/>
+	<Point x="1780" y="2964"/>
+	<Point x="35" y="2964"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le printemps commençait dans la vallée de l'Ili, cepen-
+dant les gelées n'étaient pas encore passées, et nous dûmes
+nous borner à faire nos préparatifs de voyage pour les sables
+à l'Ouest de Kouldjâ, où nous avions décidé de passer le
+printemps. Le peu d'instants libres qui nous restaient étaient
+employés à faire des observations ornithologiques.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="46" y="2969"/>
+	<Point x="1773" y="2969"/>
+	<Point x="1773" y="3144"/>
+	<Point x="46" y="3144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je dois exprimer ici ma gratitude au général Wartmann
+gouverneur militaire de Kouldjà dont l'acceuil bienveillant et</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="746" y="1676"/>
+	<Point x="1044" y="1676"/>
+	<Point x="1044" y="1703"/>
+	<Point x="746" y="1703"/></Coords></SeparatorRegion></Page></PcGts>

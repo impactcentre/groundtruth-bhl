@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667887">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:39:46</Created>
+	<LastChange>2012-02-10T09:52:18</LastChange></Metadata>
+	<Page imageFilename="00667887.tif" imageWidth="2912" imageHeight="4368">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="711" y="905"/>
+	<Point x="2664" y="905"/>
+	<Point x="2671" y="1757"/>
+	<Point x="2673" y="2507"/>
+	<Point x="2668" y="2852"/>
+	<Point x="2607" y="3018"/>
+	<Point x="2528" y="3018"/>
+	<Point x="2402" y="3118"/>
+	<Point x="2365" y="3157"/>
+	<Point x="2284" y="3189"/>
+	<Point x="1928" y="3352"/>
+	<Point x="1815" y="3486"/>
+	<Point x="1742" y="3552"/>
+	<Point x="1531" y="3557"/>
+	<Point x="1481" y="3558"/>
+	<Point x="711" y="3558"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="2689" y="2007"/>
+	<Point x="2689" y="2423"/>
+	<Point x="2747" y="2423"/>
+	<Point x="2747" y="2007"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SWALLOW. � ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="2773" y="2126"/>
+	<Point x="2773" y="2313"/>
+	<Point x="2826" y="2313"/>
+	<Point x="2826" y="2126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 65.</Unicode></TextEquiv></TextRegion></Page></PcGts>

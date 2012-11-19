@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669352">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:25:23</Created>
+	<LastChange>2012-03-12T14:33:57</LastChange></Metadata>
+	<Page imageFilename="00669352.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="374" y="248"/>
+	<Point x="1777" y="248"/>
+	<Point x="1777" y="508"/>
+	<Point x="374" y="508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce nom vient d'����� (cuire), parce qu'on
+faisait cuire tous ces petits poissons ensemble,
+sans les séparer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="363" y="510"/>
+	<Point x="1785" y="510"/>
+	<Point x="1785" y="2368"/>
+	<Point x="363" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos côtes de la Méditerranée oﬀrent plu-
+sieurs athérines spéciﬁquement distinctes.
+Rondelet en avait déjà annoncé deux, aux-
+quelles il appliquait les noms d'atherina et
+d'hepsetus. Son atherina portait, dit-il (p.
+216), de son temps, à Marseille et sur l'étang
+de Martigues, le nom de sauclet; à Montpel-
+lier, celui de melet, et à Rome, celui de lat-
+tarina. Son hepsetus, au contraire (p. 217),
+s'appelait à Montpellier juoil. Les ﬁgures qu'il
+donne de ces deux espèces sont bien carac-
+térisées par la grandeur relative de la tête et
+de l'œil; mais n'en ayant à son ordinaire in-
+diqué dans le texte les diﬀérences que d'une
+manière vague, et Willughby n'ayant pas ob-
+servé la seconde espèce, ou n'en ayant pas
+saisi les caractères, Artedi a jugé à propos de
+ne faire de ces deux poissons que des variétés
+d'une seule espèce; et Linné ayant même
+passé sous silence cette distinction de varié-
+tés, il n'a plus, pendant long-temps, été ques-
+tion que d'une seule athérine dans nos mers.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="360" y="2371"/>
+	<Point x="1785" y="2371"/>
+	<Point x="1785" y="2637"/>
+	<Point x="360" y="2637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. De Laroche lui-même, qui a récemment
+retrouvé et rapporté les deux athérines de
+Rondelet (le chuclet et le cabasuda d'Iviça),</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="372" y="143"/>
+	<Point x="541" y="143"/>
+	<Point x="541" y="227"/>
+	<Point x="372" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>420</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="848" y="143"/>
+	<Point x="1306" y="143"/>
+	<Point x="1306" y="227"/>
+	<Point x="848" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

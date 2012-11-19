@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669342">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:54:12</Created>
+	<LastChange>2012-03-12T14:33:57</LastChange></Metadata>
+	<Page imageFilename="00669342.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="460" y="297"/>
+	<Point x="1808" y="297"/>
+	<Point x="1808" y="600"/>
+	<Point x="460" y="600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>horizontale que les pectorales, et en arrière de leur
+dernier rayon; on y en distingue, comme à l'ordi-
+naire, un simple et cinq branchus: leur longueur
+n'est pas du dixième de celle des pectorales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="466" y="602"/>
+	<Point x="1804" y="602"/>
+	<Point x="1804" y="2637"/>
+	<Point x="466" y="2637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La crête du crâne a son sommet à la rencontre
+de la ligne du proﬁl avec sa ligne postérieure, qui
+est dirigée très-obliquement en avant et vers le haut.
+C'est à cette pointe que s'articule la corne, ou, si
+l'on veut, la première épine dorsale, comprimée,
+tranchante en avant, arquée vers l'arrière, plus haute
+de moitié que la tête quand elle est entière, et le
+long du bord postérieur de laquelle règne une con-
+tinuation de la membrane de la dorsale. Immédiate-
+ment derrière la crête du crâne on sent au travers
+de la peau les premiers interépineux, placés très-
+obliquement. Ils portent les premiers rayons dor-
+saux, qui sont très-petits; mais les suivans grandis-
+sent bientôt assez pour que la hauteur moyenne de
+la dorsale soit de près du tiers de celle du corps. Je
+n'ai pu y distinguer ni branches ni articulation, et
+les derniers de tous, qui redeviennent assez petits,
+ne m'ont pas paru diﬀérens de ceux qui garnissent
+le bout de la queue et y forment une espèce de
+caudale, par une légère échancrure: on en compte
+dans la dorsale environ deux cent trente, à quoi il faut
+en ajouter seize ou dix-sept, assez petits aussi, pour la
+caudale. Le plus inférieur de ceux-ci est comprimé,
+tranchant et plus fort que les autres. L'anus est très-
+voisin du bout de la queue, car l'intervalle qui l'en
+sépare ne fait pas le seizième de la longueur totale;
+la moitié antérieure seulement de ce court espace</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="402" y="191"/>
+	<Point x="542" y="191"/>
+	<Point x="542" y="266"/>
+	<Point x="402" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>410</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="807" y="191"/>
+	<Point x="1386" y="191"/>
+	<Point x="1386" y="266"/>
+	<Point x="807" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

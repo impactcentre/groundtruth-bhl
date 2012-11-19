@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669275">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:46:18</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669275.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="69" y="247"/>
+	<Point x="1536" y="247"/>
+	<Point x="1532" y="1438"/>
+	<Point x="895" y="1439"/>
+	<Point x="881" y="1449"/>
+	<Point x="724" y="1449"/>
+	<Point x="716" y="1442"/>
+	<Point x="66" y="1443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons trois individus de cette espèce,
+dont un de Naples par M. Savigny, deux
+autres de Nice. Leur taille est de quatre pieds
+et quatre pieds et demi; il n’ont conservé que
+des vestiges de leur panache et de leurs ven‐
+trales, et un seul a sa caudale, mais fort rac‐
+courcie. Cependant M. Freycinet nous a en‐
+voyé de Toulon une tête et une queue bien
+conservées de la même espèce, d’après les‐
+quelles nous jugeons que la caudale devait
+avoir le huitième de la longueur totale. Un
+dessin que M. Cuvier a fait à Florence, d’après
+un individu du cabinet de S. A. R. le grand-duc
+de Toscane, donne à peu près le même résultat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="69" y="1448"/>
+	<Point x="711" y="1447"/>
+	<Point x="717" y="1452"/>
+	<Point x="886" y="1452"/>
+	<Point x="901" y="1443"/>
+	<Point x="1533" y="1442"/>
+	<Point x="1535" y="1630"/>
+	<Point x="72" y="1630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est sur cette espèce que nous avons fait
+des observations anatomiques.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="143" y="1648"/>
+	<Point x="1543" y="1648"/>
+	<Point x="1542" y="2325"/>
+	<Point x="228" y="2323"/>
+	<Point x="226" y="2335"/>
+	<Point x="142" y="2334"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le foie est de moyenne grandeur et a un seul
+lobe olongé, arrondi en arrière, mince, et qui n’oc‐
+cupe que le cinquième au plus de la longueur de
+l’hypocondre droit. La vésicule du ﬁel est grosse,
+globuleuse, attachée sous le foie, peu en arrière
+du diaphragme. Un canal cholédoque, grêle et très-
+long, descend le long du duodénum, vers le milieu
+duquel il débouche entre les nombreux cœcums
+qui entourent cet intestin.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="138" y="2337"/>
+	<Point x="229" y="2338"/>
+	<Point x="232" y="2327"/>
+	<Point x="1541" y="2328"/>
+	<Point x="1539" y="2660"/>
+	<Point x="145" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’estomac est un sac étroit, alongé; du tiers infé‐
+rieur de sa longueur s’élève la branche montante,
+qui est très-courte. Les parois du sac sont minces,
+et à l’intérieur on ne voit que peu de plis longitu-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="467" y="143"/>
+	<Point x="1104" y="143"/>
+	<Point x="1104" y="230"/>
+	<Point x="467" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1354" y="143"/>
+	<Point x="1493" y="143"/>
+	<Point x="1493" y="230"/>
+	<Point x="1354" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>343</Unicode></TextEquiv></TextRegion></Page></PcGts>

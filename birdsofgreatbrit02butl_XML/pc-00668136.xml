@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668136">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T07:05:49</Created>
+	<LastChange>2012-02-10T09:52:39</LastChange></Metadata>
+	<Page imageFilename="00668136.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1039" y="226"/>
+	<Point x="1283" y="226"/>
+	<Point x="1283" y="296"/>
+	<Point x="1039" y="296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE JAY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="230" y="340"/>
+	<Point x="2101" y="333"/>
+	<Point x="2100" y="593"/>
+	<Point x="229" y="593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>brighter than the colouring of its back, and this colouring becomes permanent.
+I only became aware of the fact after I had completed the rearing of a ﬁne young
+bird which was given to me; but my statement has since been conﬁrmed by Mr.
+Meade-Waldo and others.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="228" y="596"/>
+	<Point x="2102" y="596"/>
+	<Point x="2103" y="1091"/>
+	<Point x="226" y="1097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Not many years ago this was a tolerably common bird in the Kentish woods;
+nevertheless I but rarely found its nest, not more than three or four times at
+most. I can only suppose that, in that county, the Jay may have been so perse‐
+cuted, that it has to some extent departed from its customary plan of building
+low down; and, like the Magpie, has made its home in the inaccessible branches
+of some lofty tree: that such a proceeding would not be unprecedented is clear
+from the fact that Sterland described a nest which he found at the top of a beech
+tree, ﬁfty or sixty feet from the ground.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="226" y="1099"/>
+	<Point x="2103" y="1093"/>
+	<Point x="2106" y="1531"/>
+	<Point x="223" y="1534"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Jay is essentially a bird of the woods and is far more frequently heard
+than seen on account of its extreme wariness; now and again you may come suddenly
+upon it and catch a glimpse of its showy plumage as it ﬂaps irregularly across
+some opening into the sheltering foliage, screaming harshly as it ﬂies—chaik, chaik,
+chaik: indeed I once disturbed a company of ﬁve in a small clearing. The alarm
+note often commences with a frightened sort of whine; it is very harsh arrgh,
+arrgh.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="222" y="1538"/>
+	<Point x="2108" y="1534"/>
+	<Point x="2104" y="2728"/>
+	<Point x="209" y="2725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seebohm gives a singularly accurate account of the habits of this bird in a
+state of freedom:—“The Jay becomes noisiest in the evening; and its discordant
+notes may then be heard together with those of the Pheasant and the Magpie.
+Numbers of the birds call together, or answer each other from diﬀerent parts of
+the cover, and, with the note of the Wood-Owl and the purr of the Nightjar, make
+a concert sounding singularly uncanny amidst the gloom of the forest. The
+ﬂight of the Jay is a somewhat laboured one, performed very irregularly and with
+rapid beatings of the wings. The Jay’s peculiar ﬂight is seen to the greatest per‐
+fection when the bird is ﬂying in the open; for in the thick cover they appear to
+scurry oﬀ amongst the branches, anxious to conceal themselves as soon as possible.
+In spring the Jay may sometimes be observed to ﬂy at a considerable elevation
+above its native woods, and, suddenly closing its wings to shoot downwards like
+an arrow into the cover below. Although capable of long-sustained ﬂight, in this
+country it rarely ﬂies far, preferring to go from tree to tree or to pursue its way
+through the tangled undergrowth. When perched in a tree the Jay sits well upright,
+its tail sometimes wafted to and fro, its head constantly turned from side to side,
+and its crest erected or depressed, its restless actions showing its wariness and
+timidity at being so far from cover. When thus perched the Jay can sometimes
+be approached very closely; and it is a noteworthy fact, that singularly beautiful</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="224" y="224"/>
+	<Point x="348" y="224"/>
+	<Point x="348" y="292"/>
+	<Point x="224" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>156</Unicode></TextEquiv></TextRegion></Page></PcGts>

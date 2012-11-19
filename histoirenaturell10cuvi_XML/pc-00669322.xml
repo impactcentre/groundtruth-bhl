@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669322">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:51:52</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669322.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="349" y="269"/>
+	<Point x="1782" y="269"/>
+	<Point x="1780" y="1799"/>
+	<Point x="351" y="1799"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Linné avait voulu présenter une deuxième
+espèce, parce qu’il croyait en voir une dans
+le tœnia authorum d’Artedi1; or, ce premier
+tœnia d’Artedi, pris de Rondelet (p. 326),
+n’était primitivement et dans le sens de cet
+auteur, qu’un gymnètre, ainsi qu’on peut s’en
+assurer, ne fût-ce que par la taille, qu’il
+lui donne, de deux à trois coudées. Il y a
+bien dans Willughby (p. 116) un autre pois‐
+son qu’il prend pour le tœnia de Rondelet,
+et qu’Artedi, sur son autorité, a rangé parmi
+les synonymes du sien; mais ce poisson de
+Willughby, qui n’a point de ventrales, dont
+l’anale avance plus que la dorsale et a le
+triple de sa hauteur, où ces deux nageoires
+s’unissent avec la caudale en une seule pointe,
+et qui a l’anus presque sous la mâchoire in‐
+férieure2, n’est évidemment que le ﬁerasfer,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote">
+	<Coords>
+	<Point x="416" y="1855"/>
+	<Point x="829" y="1855"/>
+	<Point x="829" y="1919"/>
+	<Point x="416" y="1919"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Art. Syn., 114.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="416" y="1923"/>
+	<Point x="853" y="1923"/>
+	<Point x="870" y="1918"/>
+	<Point x="1167" y="1916"/>
+	<Point x="1167" y="1973"/>
+	<Point x="1058" y="1976"/>
+	<Point x="417" y="1973"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Voici les termes de Willughby:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="352" y="1980"/>
+	<Point x="646" y="1981"/>
+	<Point x="1153" y="1980"/>
+	<Point x="1207" y="1971"/>
+	<Point x="1784" y="1971"/>
+	<Point x="1782" y="2654"/>
+	<Point x="352" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pisciculus isthic in longissimam et tenuissimam caudam extenditur
+— caro per totum pellucida et squamarum prorsus expero — pin-
+narum unum duntaxat par ad branchias — in medio dorso pinnam
+habet. Digiti distantia, a capite inchoatam et ad caudam extremam
+pertinentem, ubi concurrit seu continuatur cum pinna quœ in medio
+ventre ab ano incipit. — Est autem huic pisci peculiare, quod
+pinna ventris plus triplo altior sit quam dorsi, ejusque initium dorso
+proximius, imo adeo prope ad caput accedit, ut vix relinquatur pro
+excrementorum oriﬁcio, quod in ipso fere maxillœ inferioris angulo
+situm est, etc. Voyez aussi Cuvier, mémoire sur le ﬁerasfer, Mém.
+du Mus., I, p. 312.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="349" y="176"/>
+	<Point x="506" y="176"/>
+	<Point x="506" y="248"/>
+	<Point x="349" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>390</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="774" y="176"/>
+	<Point x="1337" y="176"/>
+	<Point x="1337" y="253"/>
+	<Point x="774" y="253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNlOÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="369" y="1812"/>
+	<Point x="366" y="1846"/>
+	<Point x="1780" y="1846"/>
+	<Point x="1780" y="1807"/></Coords></SeparatorRegion></Page></PcGts>

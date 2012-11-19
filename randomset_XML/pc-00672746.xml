@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672746">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:35:47</Created>
+	<LastChange>2012-02-10T10:29:46</LastChange></Metadata>
+	<Page imageFilename="00672746.tif" imageWidth="1976" imageHeight="3253">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="608" y="535"/>
+	<Point x="1207" y="535"/>
+	<Point x="1207" y="603"/>
+	<Point x="608" y="603"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ON SPHINGOSINE.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="433" y="658"/>
+	<Point x="1396" y="658"/>
+	<Point x="1396" y="726"/>
+	<Point x="433" y="726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BY P. A. LEVENE AND W. A. JACOBS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="451" y="932"/>
+	<Point x="1394" y="932"/>
+	<Point x="1394" y="1001"/>
+	<Point x="451" y="1001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Received for publication, May 2, 1912.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="101" y="1048"/>
+	<Point x="1732" y="1048"/>
+	<Point x="1732" y="1514"/>
+	<Point x="101" y="1514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sphingosine was discovered by Thudichum2 on hydrolysis of a
+cerebroside, phrenosine. Discussing the chemical properties of
+the substance, its behavior towards bases and acids, the author
+took into consideration the possibility of the substance having the
+structure of an amino-acid or of an alkaloidal base. In his ﬁnal
+conclusion he expressed preference to the view of the basic nature
+of the substance.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="87" y="1517"/>
+	<Point x="1744" y="1517"/>
+	<Point x="1744" y="1730"/>
+	<Point x="87" y="1730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In later years Thierfelder3 repeated the work of Thudichum, and
+in the main substantiated his views. The work of Thierfelder,
+however, was directed principally to the study of the properties of</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="98" y="1746"/>
+	<Point x="1733" y="1746"/>
+	<Point x="1733" y="2694"/>
+	<Point x="98" y="2694"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1 A report on the results of the present investigation has appeared in the
+Proceedings of the Meeting of the American Society of Biological Chemists,
+held December 28th to December 30th, 1911, published in the March
+number of this Journal. In Heft 6, vol. lxxvii of Hoppe-Seyler's Zeit-
+schrift für physiologische Chemie, published on April 9, there appeared
+two articles by Thierfelder, Riesser and Thomas in which the authors
+arrived at the same conclusions as reported by us. The appearance of the
+two articles was caused undoubtedly by the publication of our report, since
+Heft 5 of vol. lxxvii of Hoppe-Seyler's Zeitschrift contained no mention of
+Thierfelder's name among the authors of twenty-six articles received for
+publication. In a footnote to one of the articles Professor Thierfelder
+claims the sole privilege for work on sphingosine and related substances, for
+the reason that Thudichum's work had been half forgotten at the time when
+Thierfelder directed his attention to cerebrosides. We do not feel that this
+justiﬁes the request made by Thierfelder, that the work which had been in
+progress in our laboratory for more than a year should be abandoned before
+it is completed.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="151" y="2698"/>
+	<Point x="1374" y="2698"/>
+	<Point x="1375" y="2747"/>
+	<Point x="152" y="2747"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2 Die chemische Konstitution des Gehirns. Tübingen, 1901.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="112" y="2751"/>
+	<Point x="1726" y="2751"/>
+	<Point x="1726" y="2860"/>
+	<Point x="112" y="2860"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3 Zeitschr. f. physiol. Chem., xliv, p. 366. 1905; Kitagawa: Ibid., xlix, p.
+286, 1906.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="883" y="2876"/>
+	<Point x="966" y="2876"/>
+	<Point x="966" y="2921"/>
+	<Point x="883" y="2921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>547</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="101" y="746"/>
+	<Point x="1726" y="746"/>
+	<Point x="1726" y="874"/>
+	<Point x="101" y="874"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(From the Laboratories of the Rockefeller Institute for Medical Research'
+New York.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

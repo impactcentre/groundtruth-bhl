@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672710">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:25:14</Created>
+	<LastChange>2012-03-12T14:34:24</LastChange></Metadata>
+	<Page imageFilename="00672710.tif" imageWidth="2225" imageHeight="3479">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r16" index="3"/>
+	<RegionRefIndexed regionRef="r19" index="4"/>
+	<RegionRefIndexed regionRef="r26" index="5"/>
+	<RegionRefIndexed regionRef="r30" index="6"/>
+	<RegionRefIndexed regionRef="r35" index="7"/>
+	<RegionRefIndexed regionRef="r39" index="8"/>
+	<RegionRefIndexed regionRef="r41" index="9"/>
+	<RegionRefIndexed regionRef="r43" index="10"/>
+	<RegionRefIndexed regionRef="r47" index="11"/>
+	<RegionRefIndexed regionRef="r49" index="12"/>
+	<RegionRefIndexed regionRef="r51" index="13"/>
+	<RegionRefIndexed regionRef="r53" index="14"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="316" y="148"/>
+	<Point x="441" y="148"/>
+	<Point x="441" y="224"/>
+	<Point x="316" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>768</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1091" y="157"/>
+	<Point x="1385" y="157"/>
+	<Point x="1385" y="230"/>
+	<Point x="1091" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>W. Patschke.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="489" y="271"/>
+	<Point x="1889" y="271"/>
+	<Point x="1889" y="448"/>
+	<Point x="489" y="448"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>plana, marginibus non curvatis. Strobili juveniles
+purpureo, violacei, adulti obscure brunnei. Ra‐
+muli cortice sordido-rufescente obtecti. . . . . recurvata Mast.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="321" y="460"/>
+	<Point x="2087" y="460"/>
+	<Point x="2087" y="635"/>
+	<Point x="321" y="635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. Canales resiniferi — in foliis adultis ramorum-sterilium
+— in parenchymate siti. Bracteae inter squamas ob-
+sconditae vel eas excedentes	. . . . . . . . . . . Sect. Centrales Patschke</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="390" y="640"/>
+	<Point x="2155" y="644"/>
+	<Point x="2155" y="700"/>
+	<Point x="388" y="694"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a. Canales resiniferi axillis valde approximati . . . . Subsect. Laterales Patschke</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="454" y="702"/>
+	<Point x="1878" y="703"/>
+	<Point x="1878" y="871"/>
+	<Point x="453" y="869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>α. Cellulae sclerenchymaticae numerosae in par‐
+enchymate sitae. Folia ramorum sterilium apice
+longe bifurcata . . . . . . . . . . . . . . . ﬁrma S. et Z.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="448" y="875"/>
+	<Point x="1532" y="875"/>
+	<Point x="1532" y="1048"/>
+	<Point x="448" y="1047"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>β. Cellulae sclerenchymaticae in parenchymate nullae.
+Folia ramorum sterilium acuta nunquam apice
+longe bifurcata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="501" y="1052"/>
+	<Point x="1525" y="1055"/>
+	<Point x="1526" y="1167"/>
+	<Point x="502" y="1168"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I. Bracteae squamas aequantes vel mucrones
+bractearum eas parum superantes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="550" y="1172"/>
+	<Point x="1527" y="1171"/>
+	<Point x="1526" y="1286"/>
+	<Point x="553" y="1286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Strobili ovoideo-cylindrici 5—6 cm longi,
+3 cm crassi. Squamae exunguiculatae planae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="603" y="1292"/>
+	<Point x="1915" y="1288"/>
+	<Point x="1915" y="1584"/>
+	<Point x="605" y="1583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>∆ Squamae apice subrotundatae basi auri-
+culatae. Bracteae integerrimae apice
+acuminatae acumine caudiformi. Folia
+margine parum recurvata. Ramuli no-
+velli glabri nitentes . . . . . . . . . Fargesii Franch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="582" y="1590"/>
+	<Point x="1890" y="1589"/>
+	<Point x="1890" y="1880"/>
+	<Point x="583" y="1878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>∆∆ Squamae apice cuneiformiter angustatae
+basi non auriculatae. Bracteae margine
+eroso denticulatae apice spatulatae. Folia
+margine non recurvata. Ramuli novelli
+nigro-pilosi . . . . . . . . . . . . . squamata Mast.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="560" y="1889"/>
+	<Point x="1874" y="1884"/>
+	<Point x="1875" y="2171"/>
+	<Point x="559" y="2175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Strobili cylindrici 6—8 cm longi, 2½s—3½ cm
+crassi. Squamae longe unguiculatae auri-
+culis magnis deﬂexis. Bracteae eroso-den-
+ticulatae subtiliterque acuminatae. Ramuli
+novelli rubescenti-pilosi . . . . . . . . . Veitchii Carr.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="495" y="2182"/>
+	<Point x="1351" y="2181"/>
+	<Point x="1350" y="2241"/>
+	<Point x="495" y="2246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>II. Bracteae squamis 2—3-plo breviores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="553" y="2250"/>
+	<Point x="2137" y="2244"/>
+	<Point x="2137" y="2646"/>
+	<Point x="552" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Strobili ovoideo-cylindrici obtusi 7—12 cm
+longi, 4—6 cm crassi. Squamae integerrimae.
+Bracteae profunde trilobae. Folia ramorum
+sterilium apice emarginata. Ramuli novelli
+ferruginei dense pilosi. . . . . . . . . . Mariesii Mast.
+Semina alaque albida . . . . . . . . . var. α. typica Patschke
+Semina alaque nigrescentia . . . . . . var. β. Kawakamii Hayata</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="548" y="2658"/>
+	<Point x="1960" y="2655"/>
+	<Point x="1961" y="2939"/>
+	<Point x="548" y="2946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Strobili cylindrico-obtusi 7—8 cm longi,
+3 cm crassi. Squamae denticulatae. Brac‐
+teae subdenticulatae. Folia ramorum ste‐
+rilium apice breviter bifurcata. Ramuli no‐
+velli pallide ﬂavi glabri nitentes . . . . . homolepis S. et Z.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="396" y="2951"/>
+	<Point x="2151" y="2950"/>
+	<Point x="2151" y="3069"/>
+	<Point x="396" y="3073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>b. Canales resiniferi ad medium inter columellam cen‐
+tralem et margines foliorum siti vel ad eam approximati Subsect. Medianae Patschke</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="457" y="3078"/>
+	<Point x="1529" y="3075"/>
+	<Point x="1528" y="3263"/>
+	<Point x="455" y="3267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>α. Bracteae squamas excedentes arcuatim reﬂexae.
+Folia coriacea obtuse-emarginata subtus utrin-
+que 8 vel 9 seriebus stomatium ornata. Cellulae</Unicode></TextEquiv></TextRegion></Page></PcGts>

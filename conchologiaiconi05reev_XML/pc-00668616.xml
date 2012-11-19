@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668616">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T10:40:47</Created>
+	<LastChange>2012-02-10T10:29:25</LastChange></Metadata>
+	<Page imageFilename="00668616.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r18" index="8"/>
+	<RegionRefIndexed regionRef="r22" index="9"/>
+	<RegionRefIndexed regionRef="r26" index="10"/>
+	<RegionRefIndexed regionRef="r31" index="11"/>
+	<RegionRefIndexed regionRef="r28" index="12"/>
+	<RegionRefIndexed regionRef="r10" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="945" y="125"/>
+	<Point x="1496" y="125"/>
+	<Point x="1496" y="170"/>
+	<Point x="945" y="170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE LXXXVIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="298" y="482"/>
+	<Point x="1204" y="482"/>
+	<Point x="1204" y="630"/>
+	<Point x="298" y="630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This ﬁne species is nearest allied to B. pudicus, from
+which the plicate growth of the columella diﬀers materially
+in form; whilst the shell is of a more oblong growth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="520" y="705"/>
+	<Point x="992" y="705"/>
+	<Point x="992" y="761"/>
+	<Point x="520" y="761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 659. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="305" y="769"/>
+	<Point x="1216" y="769"/>
+	<Point x="1216" y="1014"/>
+	<Point x="305" y="1014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS DOMINICUS. Bul. testâ, ovatâ, tenui, inﬂatâ,
+anfractibus quinque, sub lente minutissimè decussatim
+striatis, columellâ tenuè reﬂexâ et appressâ, aperturâ
+ovatâ, labro simplici; pellucido-corneâ, fasciâ castaneâ
+interruptâ cingulatâ, anfractu ultimo trifasciato.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="312" y="1016"/>
+	<Point x="1213" y="1016"/>
+	<Point x="1213" y="1301"/>
+	<Point x="312" y="1301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE DOMINGO BULIMUS. Shell ovate, thin, inﬂated,
+whorls ﬁve in number, very minutely decussately
+striated beneath the lens, columella thinly reﬂected
+and appressed, aperture ovate, lip simple; trans-
+parent horny, encircled with an interrupted chestnut
+band, last whorl three-banded.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="318" y="1306"/>
+	<Point x="729" y="1306"/>
+	<Point x="729" y="1353"/>
+	<Point x="318" y="1353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. St. Domingo; Sallè.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1245" y="217"/>
+	<Point x="2157" y="217"/>
+	<Point x="2157" y="312"/>
+	<Point x="1245" y="312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Resembling B. Humboldtii, but much smaller and more
+transparent, and of a diﬀerent form.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1252" y="1164"/>
+	<Point x="2164" y="1164"/>
+	<Point x="2164" y="1364"/>
+	<Point x="1252" y="1364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This very interesting species belongs to the same type
+as the Pupa grandis of the islands of Socotra and Mada-
+gascar, and, bordering on the conﬁnes of the two genera,
+may be referred with equal propriety to either.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="372" y="222"/>
+	<Point x="1204" y="222"/>
+	<Point x="1204" y="393"/>
+	<Point x="718" y="393"/>
+	<Point x="688" y="424"/>
+	<Point x="372" y="424"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>very minutely indented, columella rather thickened,
+reﬂected; whitish, partially tinged with pink, covered
+with a thin horny olive-yellow epidermis, interior of
+the aperture white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="307" y="427"/>
+	<Point x="697" y="428"/>
+	<Point x="711" y="416"/>
+	<Point x="866" y="416"/>
+	<Point x="866" y="474"/>
+	<Point x="307" y="474"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Minas Geraes, Brazil; Miers.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="549" y="662"/>
+	<Point x="954" y="662"/>
+	<Point x="954" y="682"/>
+	<Point x="549" y="682"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="1462" y="326"/>
+	<Point x="1926" y="326"/>
+	<Point x="1926" y="342"/>
+	<Point x="1462" y="342"/></Coords></SeparatorRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="1466" y="356"/>
+	<Point x="1929" y="356"/>
+	<Point x="1929" y="416"/>
+	<Point x="1466" y="416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 660. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1246" y="418"/>
+	<Point x="2162" y="418"/>
+	<Point x="2162" y="709"/>
+	<Point x="1246" y="709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS LIBERIANUS. Bul. testâ oblongo-ovatâ, tumi-
+diusculâ, compressè umbilicatâ, apice obtusâ, anfractibus
+sex, convexis, ad suturas tenuimarginatis, obliquè sub-
+tiliter et creberrimè elevato-striatis, columellâ latè ver-
+ticaliter reﬂexâ, aperturâ obliquè subquadratâ; pellu-
+cido-albâ, immaculatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1252" y="1103"/>
+	<Point x="2148" y="1103"/>
+	<Point x="2148" y="1145"/>
+	<Point x="1252" y="1145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Liberia, West Africa.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r29">
+	<Coords>
+	<Point x="1005" y="1578"/>
+	<Point x="1486" y="1578"/>
+	<Point x="1486" y="1609"/>
+	<Point x="1005" y="1609"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r30">
+	<Coords>
+	<Point x="1214" y="229"/>
+	<Point x="1225" y="1364"/>
+	<Point x="1244" y="1364"/>
+	<Point x="1233" y="229"/></Coords></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="2160" y="714"/>
+	<Point x="2160" y="1056"/>
+	<Point x="1870" y="1056"/>
+	<Point x="1870" y="1055"/>
+	<Point x="1557" y="1055"/>
+	<Point x="1557" y="1054"/>
+	<Point x="1249" y="1054"/>
+	<Point x="1249" y="714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LIBERIAN BULIMUS. Shell oblong-ovate, rather
+swollen, compressly umbilicated, obtuse at the apex,
+whorls six in number, convex, thinly margined at the
+sutures, obliquely ﬁnely and very closely sculptured
+with raised striæ, columella broadly rather vertically
+reﬂected, aperture obliquely square-formed; trans-
+parent white, unspotted.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1555" y="1056"/>
+	<Point x="1555" y="1057"/>
+	<Point x="1868" y="1057"/>
+	<Point x="1868" y="1058"/>
+	<Point x="2160" y="1058"/>
+	<Point x="2160" y="1101"/>
+	<Point x="1249" y="1101"/>
+	<Point x="1249" y="1056"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GOULD, MSS.</Unicode></TextEquiv></TextRegion></Page></PcGts>

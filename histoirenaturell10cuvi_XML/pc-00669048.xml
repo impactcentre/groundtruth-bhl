@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669048">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:18:22</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669048.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="290" y="225"/>
+	<Point x="1713" y="225"/>
+	<Point x="1713" y="1920"/>
+	<Point x="290" y="1920"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cependant Linnæus en a mis une espèce dans
+ses teuthis1 et une autre dans ses sparus2. Bloch
+et Parkinson en ont placé une parmi les chæ‐
+todon3; Forskal les a rangés parmi ses scarus4,
+mais a proposé ensuite d’en faire un genre à
+part, qu’il nomme siganus; Houttuyn a créé
+pour eux le genre centrogaster5, que Gmelin
+a gâté ensuite en y ajoutant des espèces étran‐
+gères6. Commerson en a fait son genre buro,
+et Bloch enﬁn, dans son Système posthume,
+son genre amphacanthus, et des naturalistes
+d’ailleurs habiles se sont si peu aperçus de
+l’identité d’êtres ainsi éparpillés, que dans
+M. de Lacépède, plusieurs de ces dénomina‐
+tions diverses paraissent comme représentant
+des poissons de genres, même d’ordre très-
+diﬀérens, que son buro brun, par exemple,
+son centrogaster brunâtre, son scare sidjan,
+son scare étoilé, son chétodon cannelé, son
+chétodon tacheté, son spare éperonné et</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote">
+	<Coords>
+	<Point x="352" y="2031"/>
+	<Point x="1705" y="2030"/>
+	<Point x="1705" y="2092"/>
+	<Point x="348" y="2103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Teuthis javus. — 2. Sparus spinus. — 3. Chætodon guttatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="290" y="2111"/>
+	<Point x="1710" y="2097"/>
+	<Point x="1708" y="2261"/>
+	<Point x="731" y="2277"/>
+	<Point x="292" y="2272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4. Scarus siganus ou rivulatus et scarus stellatus. C’est dans
+une feuille qui suit le titre qu’il propose d’en faire un genre
+sous le nom de siganus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="342" y="2285"/>
+	<Point x="1535" y="2275"/>
+	<Point x="1536" y="2338"/>
+	<Point x="1244" y="2336"/>
+	<Point x="1206" y="2337"/>
+	<Point x="1066" y="2336"/>
+	<Point x="342" y="2328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5. Mém. de Harlem, t. XX, 2.e part., p. 333 et 334.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="302" y="2349"/>
+	<Point x="1710" y="2345"/>
+	<Point x="1714" y="2584"/>
+	<Point x="292" y="2584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6. Il y met le scomber equula, qui est un de nos equula, et le
+scomber Rhombeus de Forskal, qui est un de nos psettus, tandis
+qu’il n’y met point les deux siganus, qui précisément y appar‐
+tenaient.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="298" y="138"/>
+	<Point x="436" y="138"/>
+	<Point x="436" y="200"/>
+	<Point x="298" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>116</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="751" y="138"/>
+	<Point x="1252" y="138"/>
+	<Point x="1252" y="200"/>
+	<Point x="751" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="292" y="1962"/>
+	<Point x="292" y="1994"/>
+	<Point x="1718" y="1994"/>
+	<Point x="1716" y="1954"/></Coords></SeparatorRegion></Page></PcGts>

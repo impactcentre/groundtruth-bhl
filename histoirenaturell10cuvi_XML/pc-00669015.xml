@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669015">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T23:44:09</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669015.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r15" index="4"/>
+	<RegionRefIndexed regionRef="r17" index="5"/>
+	<RegionRefIndexed regionRef="r19" index="6"/>
+	<RegionRefIndexed regionRef="r21" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="524" y="182"/>
+	<Point x="1042" y="182"/>
+	<Point x="1042" y="264"/>
+	<Point x="524" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1392" y="178"/>
+	<Point x="1489" y="178"/>
+	<Point x="1489" y="256"/>
+	<Point x="1392" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>83</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="79" y="593"/>
+	<Point x="1496" y="593"/>
+	<Point x="1496" y="773"/>
+	<Point x="79" y="773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons reçu de la côte de Malabar un
+de ces equula à taches noires,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="128" y="781"/>
+	<Point x="1512" y="781"/>
+	<Point x="1515" y="1465"/>
+	<Point x="987" y="1472"/>
+	<Point x="775" y="1467"/>
+	<Point x="727" y="1462"/>
+	<Point x="639" y="1471"/>
+	<Point x="121" y="1482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>qui a le museau plus court, moins tronqué que les
+autres, et dont la bouche, quand elle se jette en
+avant, forme un tube moins long, qui toutefois ne
+se relève pas comme dans l’equula insidiatrix: ses pro‐
+portions diﬀèrent peu du gomorah, mais ses aiguillons
+sont plus courts et moins forts; elle est d’un argenté
+fort brillant, son dos paraît un peu roussâtre, avec
+des lignes et des taches transversales de reﬂets peu
+apparentes. Ses nageoires sont jaunâtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="67" y="1932"/>
+	<Point x="1508" y="1932"/>
+	<Point x="1508" y="2476"/>
+	<Point x="67" y="2476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un troisième equula, à sommet de la dor‐
+sale noir, a été rapporté de l’île de Ceylan
+par M. Leschenault; nous ne doutons point
+que ce ne soit le dacer-karah de Russel,
+pl. 65, dont il a tous les caractères. Sa tache
+noire est un peu plus étendue et</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="134" y="2489"/>
+	<Point x="1503" y="2489"/>
+	<Point x="1503" y="2659"/>
+	<Point x="134" y="2659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l’espèce se distingue en outre fort aisément des deux
+précédentes, parce qu’elle n’est pas si haute (sa</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="334" y="346"/>
+	<Point x="1250" y="346"/>
+	<Point x="1250" y="450"/>
+	<Point x="334" y="450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA A MUSEAU COURT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="420" y="460"/>
+	<Point x="1193" y="460"/>
+	<Point x="1193" y="564"/>
+	<Point x="420" y="564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula brevirostris, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="688" y="1478"/>
+	<Point x="989" y="1478"/>
+	<Point x="988" y="1541"/>
+	<Point x="689" y="1546"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 8/15, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="144" y="1543"/>
+	<Point x="369" y="1538"/>
+	<Point x="585" y="1553"/>
+	<Point x="1214" y="1553"/>
+	<Point x="1205" y="1633"/>
+	<Point x="143" y="1633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les individus ont trois pouces et demi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords>
+	<Point x="487" y="1719"/>
+	<Point x="1069" y="1719"/>
+	<Point x="1069" y="1802"/>
+	<Point x="487" y="1802"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA DACER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="heading">
+	<Coords>
+	<Point x="71" y="1809"/>
+	<Point x="1495" y="1809"/>
+	<Point x="1495" y="1925"/>
+	<Point x="71" y="1925"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula dacer, nob.; Dacer-karah, Russel, pl. 65.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

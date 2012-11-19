@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669058">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:19:39</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669058.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="323" y="207"/>
+	<Point x="1764" y="207"/>
+	<Point x="1760" y="380"/>
+	<Point x="1651" y="381"/>
+	<Point x="1644" y="394"/>
+	<Point x="1627" y="396"/>
+	<Point x="1621" y="392"/>
+	<Point x="1613" y="383"/>
+	<Point x="873" y="382"/>
+	<Point x="862" y="403"/>
+	<Point x="846" y="404"/>
+	<Point x="826" y="390"/>
+	<Point x="815" y="388"/>
+	<Point x="323" y="392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l’Océan; Osbeck avait pris le sien près de l’île
+de Java. Il dit que sa taille était d’un empan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="312" y="399"/>
+	<Point x="324" y="398"/>
+	<Point x="824" y="394"/>
+	<Point x="840" y="408"/>
+	<Point x="873" y="408"/>
+	<Point x="878" y="390"/>
+	<Point x="1611" y="389"/>
+	<Point x="1618" y="403"/>
+	<Point x="1651" y="397"/>
+	<Point x="1656" y="387"/>
+	<Point x="1766" y="387"/>
+	<Point x="1768" y="1032"/>
+	<Point x="785" y="1032"/>
+	<Point x="762" y="1070"/>
+	<Point x="308" y="1067"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il nous paraît que c’est notre amphacanthe
+marbré, que représentent à leur manière Va-
+lentyn, ﬁg. 400, et Renard, 1.re part., ﬁg. 137.
+On ne s’en douterait pas trop, à voir ces gra‐
+vures; mais leur original commun dans le
+Recueil de Corneille de Vlaming est un peu
+meilleur et nous a aidé à reconnaître ces gros‐
+sières copies.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="306" y="1074"/>
+	<Point x="781" y="1073"/>
+	<Point x="784" y="1066"/>
+	<Point x="794" y="1043"/>
+	<Point x="1774" y="1042"/>
+	<Point x="1772" y="1427"/>
+	<Point x="317" y="1427"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vlaming l’appelle ongirat, comme Renard;
+mais Valentyn le nomme ikan-berombac ou
+le poisson ondé. Il assure qu’il devient grand
+et qu’il est gras et d’un excellent goût.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="621" y="1490"/>
+	<Point x="1512" y="1490"/>
+	<Point x="1512" y="1574"/>
+	<Point x="621" y="1574"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE VERMICULÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="562" y="1604"/>
+	<Point x="1581" y="1604"/>
+	<Point x="1581" y="1706"/>
+	<Point x="562" y="1706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus vermiculatus, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="351" y="1727"/>
+	<Point x="1788" y="1727"/>
+	<Point x="1788" y="2496"/>
+	<Point x="351" y="2496"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une espèce voisine de ce marbré, mais
+beaucoup plus haute, et dont les raies sont
+tortueuses et vermiculées sur le ventre, aussi
+bien que sur le reste de sa hauteur, a été
+apportée de la Nouvelle-Guinée par MM. Quoy
+et Gaimard, lors de leur second voyage, et
+auparavant nous en avions vu un dessin en‐
+voyé de Java au Musée des Pays-Bas par
+MM. Kuhl et Van-Hasselt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="493" y="2505"/>
+	<Point x="1781" y="2505"/>
+	<Point x="1781" y="2602"/>
+	<Point x="493" y="2602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur n’est que deux fois et un quart dans la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="486" y="120"/>
+	<Point x="486" y="123"/>
+	<Point x="485" y="123"/>
+	<Point x="485" y="136"/>
+	<Point x="484" y="136"/>
+	<Point x="484" y="150"/>
+	<Point x="483" y="150"/>
+	<Point x="483" y="163"/>
+	<Point x="482" y="163"/>
+	<Point x="482" y="177"/>
+	<Point x="481" y="177"/>
+	<Point x="481" y="190"/>
+	<Point x="480" y="190"/>
+	<Point x="480" y="197"/>
+	<Point x="346" y="197"/>
+	<Point x="346" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>126</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="800" y="120"/>
+	<Point x="1307" y="120"/>
+	<Point x="1307" y="197"/>
+	<Point x="800" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES</Unicode></TextEquiv></TextRegion></Page></PcGts>

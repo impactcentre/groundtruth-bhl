@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672634">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:38:52</Created>
+	<LastChange>2012-02-10T09:55:26</LastChange></Metadata>
+	<Page imageFilename="00672634.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="250" y="728"/>
+	<Point x="2014" y="728"/>
+	<Point x="2014" y="883"/>
+	<Point x="250" y="883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cryptocephalus bitaeniatus nov. sp. Solsky.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="259" y="957"/>
+	<Point x="2023" y="957"/>
+	<Point x="2023" y="2392"/>
+	<Point x="259" y="2392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elongatus, cylindricus, nitidus, supra glaber, subtus pectore
+abdomineque sat dense subtiliter cinereo-pubescentibus sordide
+testaceus, nigro-variegatus. Capite disperse punctato, fronte
+plana, maculis tribus plus minusve conﬂuentibus, oculisque
+nigris, labro fusco; antennis breviusculis articulis apice summo
+infuscatis. Thorace parum transverso, anterius vix angustato,
+convexo, minus subtiliter, sat crebre, profunde punctato, limbo
+angusto lineaque media laevibus; punctis fuscis seu nigris,
+nigredine plus minusve conﬂuente, margine summo basali nigro.
+Scutello triangulari, apice truncato, laevi, nigro. Elytris tho-
+race vix latioribus, parallelis, minus subtiliter punctato striatis,
+striis intermediis ante apicem deletis interstitiis planis, subti-
+lissime disperse punctatis leviter rugulosis livide testaceis;
+limbo basali et suturali angusto, macula humerali, vittaque
+lata in disco nigris. Pygidio nigro, dense griseo pubescente apice
+albomarginato; pectore abdomineque nigris, epipleuris meso-
+thoracis pallidis. Pedibus testaceis, albido pubescentibus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="264" y="2397"/>
+	<Point x="2011" y="2397"/>
+	<Point x="2011" y="2561"/>
+	<Point x="264" y="2561"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ Abdomine deplanato, ante apicem transversim impresso,
+laeviore; ♀ abdomine segmento ultimo profunde late foveolato.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="385" y="2569"/>
+	<Point x="1414" y="2569"/>
+	<Point x="1414" y="2642"/>
+	<Point x="385" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 5, elytr. 3⅕, lat. 2½ mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="245" y="2647"/>
+	<Point x="2014" y="2647"/>
+	<Point x="2014" y="3078"/>
+	<Point x="245" y="3078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>var. α. Capite nigro, fronte utrinque macula juxta oculari,
+puncto parvo inter antennas et epistomo testaceis. Thorace
+nigro, maculis hinc inde nebulosis, praesertim in basi, limbo
+maculoso laterali sat lato, margine anteriore angusto lineaque
+media ex illo emergente et circa medium evanescente testaceis.</Unicode></TextEquiv></TextRegion></Page></PcGts>

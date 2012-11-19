@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669106">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T02:25:36</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669106.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="360" y="230"/>
+	<Point x="1753" y="230"/>
+	<Point x="1753" y="382"/>
+	<Point x="360" y="382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>les plis de l’intérieur s’y élèvent en lames minces et
+hautes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="360" y="388"/>
+	<Point x="1734" y="388"/>
+	<Point x="1732" y="1428"/>
+	<Point x="1361" y="1430"/>
+	<Point x="937" y="1435"/>
+	<Point x="889" y="1442"/>
+	<Point x="364" y="1442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’æsophage se courbe vers la partie inférieure et
+se dilate en un estomac un peu ovoïde, qui est
+situé en travers et verticalement; ses parois, d’abord
+très-minces, deviennent charnues et épaisses vers
+le pylore autour duquel il y a dix appendices cæ-
+cales, à peu près égales. L’intestin, d’un diamètre
+uniforme sur toute sa longueur, qui est fort grande,
+se porte vers le diaphragme et vers le côté gauche,
+en dehors de la masse enroulée. Il s’y replie quatre
+à cinq fois, puis il revient dans l’hypocondre droit,
+où il fait trois replis assez longs, et se contourne
+au-dessus des appendices cæcales, pour aller direc‐
+tement déboucher à l’anus, qui est à peu près ouvert
+à la hauteur du pylore.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="364" y="1446"/>
+	<Point x="916" y="1445"/>
+	<Point x="936" y="1440"/>
+	<Point x="1394" y="1437"/>
+	<Point x="1753" y="1435"/>
+	<Point x="1753" y="1874"/>
+	<Point x="1180" y="1884"/>
+	<Point x="1049" y="1891"/>
+	<Point x="358" y="1891"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La rate est petite, trièdre, située auprès du duodé‐
+num et cachée dans les replis de l’intestin; les laitances
+sont petites, découpées en lobules sur leur bord;
+elles sont rejetées à la partie postérieure et infé‐
+rieure de la cavité abdominale: elles aboutissent di‐
+rectement dans le cloaque.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="308" y="1897"/>
+	<Point x="309" y="1894"/>
+	<Point x="1070" y="1897"/>
+	<Point x="1157" y="1893"/>
+	<Point x="1220" y="1891"/>
+	<Point x="1284" y="1888"/>
+	<Point x="1751" y="1881"/>
+	<Point x="1761" y="2261"/>
+	<Point x="1192" y="2262"/>
+	<Point x="1111" y="2268"/>
+	<Point x="306" y="2266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La vessie aérienne est très-grande, ses parois sont
+si minces et si adhérentes qu’on peut à peine la
+détacher; elle se prolonge en arrière en deux grandes
+cornes, qui font hernie dans les muscles de la queue
+de chaque côté des interépineux de l’anale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="363" y="2271"/>
+	<Point x="1136" y="2271"/>
+	<Point x="1193" y="2267"/>
+	<Point x="1759" y="2266"/>
+	<Point x="1758" y="2584"/>
+	<Point x="362" y="2584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les reins, d’un petit volume, aboutissent à une assez
+grande vessie urinaire à parois épaisses, blanches et
+brillantes, qui s’appuie sur le premier interépineux
+de l’anale entre les fourches de la vessie aérienne; le</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="312" y="118"/>
+	<Point x="472" y="118"/>
+	<Point x="472" y="225"/>
+	<Point x="312" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>174</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="769" y="118"/>
+	<Point x="1282" y="118"/>
+	<Point x="1282" y="225"/>
+	<Point x="769" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669146">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:30:21</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669146.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r23" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="256" y="286"/>
+	<Point x="1683" y="286"/>
+	<Point x="1683" y="459"/>
+	<Point x="256" y="459"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ne tenait qu’à la confusion faite par Linnæus
+du nason avec l’acanthure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="572" y="530"/>
+	<Point x="1403" y="530"/>
+	<Point x="1403" y="611"/>
+	<Point x="572" y="611"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE BRUN-NOIR.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="475" y="630"/>
+	<Point x="1478" y="630"/>
+	<Point x="1478" y="735"/>
+	<Point x="475" y="735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus nigro-fuscus, Forsk.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="273" y="744"/>
+	<Point x="1712" y="744"/>
+	<Point x="1712" y="1196"/>
+	<Point x="273" y="1196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce, encore très-voisine de l’elon-
+gatus, a l’épine plus grande et les pointes de
+la caudale plus aiguës. Elle a été rapportée
+de l'île de Bourbon par M. Leschenault, et
+de la mer Rouge par M. Ehrenberg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="348" y="2050"/>
+	<Point x="1742" y="2050"/>
+	<Point x="1742" y="2651"/>
+	<Point x="348" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a à son opercule quelques veines plutôt que
+des stries; sa dorsale et son anale forment en arrière
+un angle un peu saillant; sa caudale est échancrée
+en croissant, avec des pointes courtes, dont la supé‐
+rieure est cependant un peu plus longue; ses ven‐
+trales s’eﬃlent en pointes. Sa tête et tout son corps
+sont couverts de petites écailles rondes, ﬁnement
+ciliées à leur bord externe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="321" y="1202"/>
+	<Point x="1709" y="1202"/>
+	<Point x="1709" y="1949"/>
+	<Point x="321" y="1949"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur est comprise deux fois dans la longueur
+de son ovale, et deux fois et demie dans sa longueur
+totale; sonproﬁldescend d’abord obliquement, devient
+un peu convexe vis-à-vis l’æil, puis très-peu concave
+au-dessous, c’est-à-dire qu’il est courbé en S, mais
+extrêmement peu. Son museau n’est pas proéminent;
+ses dents supérieures sont oblongues, un peu poin‐
+tues et ﬁnement crénelées en leurs deux bords; les in‐
+férieures sont tronquées et ont seulement cinq petites
+crénelures à leur tranchant. Ses nombres sont:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="517" y="1967"/>
+	<Point x="1525" y="1967"/>
+	<Point x="1525" y="2038"/>
+	<Point x="517" y="2038"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/25 ou 26; A. 3/24; C. 16; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="page-number">
+	<Coords>
+	<Point x="263" y="178"/>
+	<Point x="431" y="178"/>
+	<Point x="431" y="273"/>
+	<Point x="263" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>214</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="header">
+	<Coords>
+	<Point x="717" y="178"/>
+	<Point x="1270" y="178"/>
+	<Point x="1270" y="273"/>
+	<Point x="717" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

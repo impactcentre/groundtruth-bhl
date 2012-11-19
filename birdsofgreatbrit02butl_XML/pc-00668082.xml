@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668082">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:30:12</Created>
+	<LastChange>2012-02-10T09:52:35</LastChange></Metadata>
+	<Page imageFilename="00668082.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="803" y="196"/>
+	<Point x="1455" y="196"/>
+	<Point x="1455" y="282"/>
+	<Point x="803" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LAPLAND BUNTING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="169" y="310"/>
+	<Point x="2078" y="310"/>
+	<Point x="2078" y="1242"/>
+	<Point x="169" y="1242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The food consists chieﬂy of insects, their larvæ, and small mollusca in summer,
+but of seeds in winter; in conﬁnement, however, very little insect food is necessary
+to keep this bird in health. In October, 1888, I purchased my ﬁrst male Reed-
+Bunting from a catcher. I turned it into my largest covered aviary, where it
+lived a perfectly inoﬀensive, though stupid and absolutely silent life until 1891;
+the winter following the death of this bird my man caught a second (in company
+with Skylarks) which also lived about three years, dying before its spring change
+of plumage, whilst a third example was given to me and died more quickly. Not
+one of these three birds ever uttered the slightest sound, nor have others which
+I have owned more recently, and although fairly tame they all showed a skulking
+disposition, rarely appearing in the open part of the aviary excepting to feed, and
+showing none of that somewhat sprightly activity which characterizes this species
+in its wild state. As an aviary bird, I can, therefore, only recommend this
+Bunting on account of its quiet beauty of plumage and absolute innocence.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="694" y="2012"/>
+	<Point x="1544" y="2012"/>
+	<Point x="1544" y="2103"/>
+	<Point x="694" y="2103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LAPLAND BUNTING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="805" y="2182"/>
+	<Point x="1424" y="2182"/>
+	<Point x="1424" y="2267"/>
+	<Point x="805" y="2267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Calcarius lapponicus, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="290" y="2526"/>
+	<Point x="290" y="2335"/>
+	<Point x="2076" y="2316"/>
+	<Point x="2076" y="2758"/>
+	<Point x="176" y="2758"/>
+	<Point x="173" y="2526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NHABITS the greater part of the circumpolar regions, with the exception of
+Iceland—to which it is only an occasional straggler from Greenland—and
+Spitzbergen and Novaya Zemlya, whence it has not yet been recorded. It
+is only at considerable elevations, such as the Dovre Fjeld, in Norway, that it is
+found breeding to the south of the Arctic circle; but east of the North Cape it
+is common in Lapland, while in Northern Siberia it is extremely abundant, being,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="194" y="203"/>
+	<Point x="194" y="287"/>
+	<Point x="314" y="287"/>
+	<Point x="314" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>130</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="drop-capital">
+	<Coords>
+	<Point x="183" y="2322"/>
+	<Point x="183" y="2509"/>
+	<Point x="284" y="2509"/>
+	<Point x="284" y="2322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“I</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="174" y="1737"/>
+	<Point x="506" y="1732"/>
+	<Point x="837" y="1737"/>
+	<Point x="837" y="1846"/>
+	<Point x="174" y="1846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1355" y="1751"/>
+	<Point x="2085" y="1751"/>
+	<Point x="2085" y="1835"/>
+	<Point x="1355" y="1835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—EMBERIZINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="1024" y="1485"/>
+	<Point x="1024" y="1505"/>
+	<Point x="1231" y="1505"/>
+	<Point x="1231" y="1485"/></Coords></SeparatorRegion></Page></PcGts>

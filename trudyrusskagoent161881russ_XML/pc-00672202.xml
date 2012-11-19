@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672202">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T16:14:37</Created>
+	<LastChange>2012-02-10T09:54:00</LastChange></Metadata>
+	<Page imageFilename="00672202.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1000" y="97"/>
+	<Point x="1326" y="97"/>
+	<Point x="1326" y="180"/>
+	<Point x="1000" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 8 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="288" y="233"/>
+	<Point x="2026" y="233"/>
+	<Point x="2026" y="396"/>
+	<Point x="288" y="396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mann2) und Alex. Brandt3) erwähnten Intervisceral-
+muskeln.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="289" y="407"/>
+	<Point x="2030" y="407"/>
+	<Point x="2030" y="571"/>
+	<Point x="289" y="571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Speicheldrüsen der Periplaneta americana verhalten
+sich ganz so, wie diejenigen der P. orientalis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="266" y="578"/>
+	<Point x="2023" y="578"/>
+	<Point x="2023" y="1649"/>
+	<Point x="266" y="1649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Blatta germanica besitzt ebenfalls zwei traubenähnliche
+Speicheldrüsen; jede Drüse besteht aus einem acinösen Theile
+und einem deutlich sichtbaren Speichelreservoire, der jedoch
+von Ferd. Morawitz übersehen war4); nur das Verhalten
+der Ausführungsgänge ist hier etwas verschieden von demje‐
+nigen der Periplaneta orientalis. Der Ausführungsgang des
+acinösen Theiles jeder Drüse (ﬁg. 5 a) vereinigt sich nämlich
+mit dem Ausführungsgange des Reservoirs derselben Seite
+(ﬁg. 5 b) zu einem durchsichtigen gemeinschaftlichen Gange
+(ﬁg. 5 c); dieser verbindet sich endlich mit dem entsprechen‐
+den gemeinschaftlichen Gange der anderen Seite zu einem gros‐
+sen Hauptgange, (ﬁg. 5 d), welcher, wie bei Periplaneta, un‐
+ter der Zunge einmündet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="266" y="1655"/>
+	<Point x="2015" y="1655"/>
+	<Point x="2015" y="2569"/>
+	<Point x="266" y="2569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bezüglich der Innervation der Speicheldrüsen von Peri‐
+planeta orientalis haben wir eine grosse, oft citirte Arbeit
+von Kupﬀer5), welche jedoch einige bedeutende Unrichtig‐
+keiten enthält. So z. B. nennt Kupﬀer die Reservoire der
+Speicheldrüsen «die beiden Saugmägen» (!) und beschreibt die
+Mündung der Ausführungsgänge auch unrichtig. Er nimmt
+drei Nerven für jede Speicheldrüse an: 1) einen aus dem obe‐
+ren, 2) einen aus dem unteren Kopfganglion, und 3) einen
+dem sympathischen Nervensysteme entspringenden Nerven. Den
+ersten Nerven konnte ich, trotz aller sorgfältigen Unter‐
+suchung, nicht auﬃnden und seine Existenz ist für mich</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="273" y="2642"/>
+	<Point x="1993" y="2642"/>
+	<Point x="1993" y="2772"/>
+	<Point x="273" y="2772"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2) Die nachembryonale Entwicklung der Musciden. Zeitschrift für wissen‐
+schaftliche Zoologie XIV. 1864.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="355" y="2775"/>
+	<Point x="1530" y="2775"/>
+	<Point x="1530" y="2833"/>
+	<Point x="355" y="2833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3) Сер���, ����� � �����. �����������. С�б. 1867.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="280" y="2835"/>
+	<Point x="2002" y="2835"/>
+	<Point x="2002" y="2943"/>
+	<Point x="280" y="2943"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4) Quaedam ad anatomiam Blattae germanicae pertinentu. Diss. Dorpat.
+1853.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="269" y="2949"/>
+	<Point x="2000" y="2949"/>
+	<Point x="2000" y="3080"/>
+	<Point x="269" y="3080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5) Beiträge zur Anatomie und Physiologie als Festgabe С. Ludwig; 1 Heft.
+1875.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="274" y="2587"/>
+	<Point x="274" y="2623"/>
+	<Point x="889" y="2623"/>
+	<Point x="889" y="2587"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669327">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T16:52:35</Created>
+	<LastChange>2012-03-12T14:33:56</LastChange></Metadata>
+	<Page imageFilename="00669327.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="125" y="270"/>
+	<Point x="1498" y="270"/>
+	<Point x="1498" y="2544"/>
+	<Point x="125" y="2544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gueur. L’épaisseur en avant est de la moitié de la
+hauteur, mais en arrière le poisson s’amincit beau‐
+coup à mesure qu’il s’aiguise en pointe. Sa hauteur
+à la base de la caudale n’est que du huitième de celle
+qu’il a aux pectorales. La tête est obtuse en avant;
+la ligne du proﬁl, et celle de la gorge et de la mâ‐
+choire inférieure, se courbent presque également
+pour aboutir au museau. L’œil, dont le diamètre
+est à peu près du tiers de la longueur de la tète,
+est à une distance du bout du museau qui ne fait
+que le cinquième de cette longueur; il est tout près
+de la ligne du proﬁl, que l’orbite entame même un
+peu, et la distance d’un œil à l’autre n’est que de
+deux tiers de leur diamètre. La narine a un oriﬁce
+très-près du bord antérieur et un peu supérieur de
+l’orbite, et un autre, beaucoup plus petit, un peu plus
+en avant; la fente de la bouche descend rapidement
+en arrière jusque sous le tiers antérieur de l’œil; sa
+protractilité, due aux pédicules des intermaxillaires,
+est médiocre; mais quand elle s’ouvre, les parties
+externes de ces os et des maxillaires se portent fort
+en avant, et ils prennent une position verticale. Le
+maxillaire est plat, élargi et tronqué en arrière; les
+sous-orbitaires forment autour du bas de l’orbite une
+portion d’anneau fort étroite. Les branches de la
+mâchoire inférieure se rapprochent dans une posi‐
+tion presque horizontale, et forment ainsi une pa‐
+lette arrondie en avant, dont la courbure est un peu
+plus étroite que celle de la mâchoire supérieure,
+mais à peu près semblable.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="205" y="2546"/>
+	<Point x="1494" y="2546"/>
+	<Point x="1494" y="2632"/>
+	<Point x="205" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les dents sont grêles, pointues, assez longues,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="517" y="181"/>
+	<Point x="1027" y="181"/>
+	<Point x="1027" y="252"/>
+	<Point x="517" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. CÉPOLES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1327" y="167"/>
+	<Point x="1478" y="167"/>
+	<Point x="1478" y="251"/>
+	<Point x="1327" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>395</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672716">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:33:02</Created>
+	<LastChange>2012-02-10T10:29:45</LastChange></Metadata>
+	<Page imageFilename="00672716.tif" imageWidth="2090" imageHeight="3234">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="395" y="169"/>
+	<Point x="1876" y="169"/>
+	<Point x="1876" y="250"/>
+	<Point x="395" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulletin of the Brooklyn Entomological Society Vol. XVIII</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="240" y="335"/>
+	<Point x="1866" y="335"/>
+	<Point x="1866" y="873"/>
+	<Point x="240" y="873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 2, are quite like the paraprocts pa of the roach shown in Fig.
+1; but the cerci ce of the termite are not as well developed as those
+of the roach. Certain termites, such as Architermopsis, however,
+have quite large and well-developed cerci. In this connection, I
+would call attention to the fact that certain sawﬂies have long
+slender cerci quite suggestive of those of Architermopsis, as I
+hope to show in a subsequent paper dealing with the anatomy of
+the sawﬂies.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="219" y="881"/>
+	<Point x="1871" y="880"/>
+	<Point x="1871" y="1709"/>
+	<Point x="219" y="1709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In the Isoptera and Blattids the epiproct ep (Figs. 1 and 2) is
+largely formed by the tenth tergite, and in the Mantids also the
+tenth tergite is large (and the eleventh tergite becomes greatly
+reduced and is largely concealed by the tenth). I am not sure
+that the posterior portion of the plate labeled ep in Fig. 1 is not
+the representative of the eleventh tergite, but I have provisionally
+interpreted it as a posterior portion of the tenth tergite. The ninth
+and eighth tergites labeled 8t and 9t in Fig. 1 are greatly narrowed
+in the roach there depicted, but in other roaches they are a little
+broader. In the absence of a marked reduction or narrowing of
+these tergites in the Isoptera, the latter resemble the Phasmids and
+Orthoptera in some respects.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="235" y="1711"/>
+	<Point x="1873" y="1711"/>
+	<Point x="1873" y="2597"/>
+	<Point x="235" y="2597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Taking the terminal structures in general, Mastotermes resem-
+bles the Blattids more than any other insects, and in connection
+with other features such as the venation of the wings, the char-
+acter of the cervical sclerites, etc., a study of the ovipostor, hy-
+pogynum, etc., in Mastotermes, would materially strengthen the
+view that the Isoptera are more closely related to the Blattids than
+to any other living insects, and likewise indicates that the super-
+order Panisoptera (composed of the Blattids, Mantids, Isoptera,
+etc.) is a natural one. In some respects, the Dermaptera bear a
+marked resemblance to the members of this superorder, but for the
+present, at least, I would leave the Dermaptera in the superorder
+Panorthoptera (including the Orthoptera, s. str., the Phasmids,
+etc.).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="230" y="2602"/>
+	<Point x="1869" y="2602"/>
+	<Point x="1869" y="2873"/>
+	<Point x="230" y="2873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The study of the structures present in Mastotermes is of prime
+importance, since it is one of the most primitive representatives of
+the order Isoptera, and the Isoptera are in many respects the
+nearest living representatives of the Protorthoptera-like ancestors</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="223" y="259"/>
+	<Point x="1861" y="259"/>
+	<Point x="1861" y="285"/>
+	<Point x="223" y="285"/></Coords></SeparatorRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="219" y="166"/>
+	<Point x="330" y="166"/>
+	<Point x="330" y="240"/>
+	<Point x="219" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>88</Unicode></TextEquiv></TextRegion></Page></PcGts>

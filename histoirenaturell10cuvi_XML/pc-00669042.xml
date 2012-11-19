@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669042">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:17:33</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669042.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="385" y="262"/>
+	<Point x="1743" y="262"/>
+	<Point x="1743" y="1156"/>
+	<Point x="385" y="1156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>brane plus épaisse, plus forte et argentée. La limite
+entre ces deux membranes de nature et d’épaisseur
+diﬀérentes, est tranchée de la manière la plus nette.
+En arrière la vessie se bifurque, et chacune des cornes
+forme un tube conique extrêmement pointu, dont
+le sommet atteint la base de la caudale; ainsi la
+vessie va dans l’épaisseur des muscles de chaque
+côté des interépineux de l’anale, tout le long de la
+queue du poisson. Les glandes sécrétoires de l’air
+ont la forme de deux rubans étroits, qui occupent
+toute la longueur de la région abdominale de la
+vessie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="377" y="1167"/>
+	<Point x="1739" y="1167"/>
+	<Point x="1739" y="1609"/>
+	<Point x="377" y="1609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les reins sont gros; ils se terminent un peu
+avant la bifurcation de la vessie aérienne. L’uretère
+est très-long, passe entre les deux cornes de la vessie
+natatoire, descend sur le bord du premier interépineux
+de l’anale, et en s’élargissant un peu, il va déboucher
+derrière l’anus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="379" y="1617"/>
+	<Point x="1740" y="1617"/>
+	<Point x="1740" y="1859"/>
+	<Point x="379" y="1859"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons trouvé dans l’estomac des écailles
+minces, argentées et brillantes comme celles des
+clupées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="331" y="167"/>
+	<Point x="463" y="167"/>
+	<Point x="463" y="240"/>
+	<Point x="331" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>110</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="704" y="167"/>
+	<Point x="1360" y="167"/>
+	<Point x="1360" y="240"/>
+	<Point x="704" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="927" y="2074"/>
+	<Point x="927" y="2112"/>
+	<Point x="1117" y="2112"/>
+	<Point x="1117" y="2074"/></Coords></SeparatorRegion></Page></PcGts>

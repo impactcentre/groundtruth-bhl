@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668806">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T18:43:22</Created>
+	<LastChange>2012-02-10T10:29:38</LastChange></Metadata>
+	<Page imageFilename="00668806.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r38" index="1"/>
+	<RegionRefIndexed regionRef="r32" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1149" y="103"/>
+	<Point x="1483" y="103"/>
+	<Point x="1483" y="150"/>
+	<Point x="1149" y="150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS.—PLATE X.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="401" y="192"/>
+	<Point x="1295" y="192"/>
+	<Point x="1295" y="480"/>
+	<Point x="401" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Linnæus; care must, however, be taken not to confound
+it with the Cassis plicata of Martini, which is the C. cru-
+mena of Lamarck, and without doubt a variety of C. testi-
+culus. The plicated sculpture of this species is constant,
+so also is its singularly compressed growth, and dark
+brown blotches behind the varices.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="1335" y="189"/>
+	<Point x="2239" y="189"/>
+	<Point x="2239" y="567"/>
+	<Point x="1335" y="567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE AGATE HELMET. Shell ovate, ventricose, spire
+short, whorls destitute of varices, smooth, columella
+scarcely wrinkled, truncated at the base, lip thinly
+reﬂected, slightly denticulated towards the base;
+ash or bluish colour, longitudinally ﬂamed and
+arcuately articulated with red or purple-brown;
+columella cream-colour or reddish, lip spotted with
+brownish-black.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="1338" y="575"/>
+	<Point x="2231" y="575"/>
+	<Point x="2231" y="624"/>
+	<Point x="1338" y="624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.) vol. x. p. 33.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1343" y="626"/>
+	<Point x="1765" y="626"/>
+	<Point x="1765" y="665"/>
+	<Point x="1343" y="665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Algoa Bay; Hennah.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1342" y="714"/>
+	<Point x="2237" y="714"/>
+	<Point x="2237" y="953"/>
+	<Point x="1342" y="953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A well-known species, not of very common occurrence,
+mainly distinguished by its richly variegated style of
+painting. Lamarck cites New Holland as its place of
+habitation, but Mr. Cuming’s specimens were collected in
+Algoa Bay, Cape of Good Hope, by the Rev. Mr. Hennah.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="1304" y="196"/>
+	<Point x="1304" y="950"/>
+	<Point x="1333" y="950"/>
+	<Point x="1325" y="196"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="1095" y="1124"/>
+	<Point x="1095" y="1144"/>
+	<Point x="1537" y="1144"/>
+	<Point x="1537" y="1124"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="627" y="497"/>
+	<Point x="627" y="513"/>
+	<Point x="1083" y="513"/>
+	<Point x="1083" y="497"/></Coords></SeparatorRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="403" y="622"/>
+	<Point x="1294" y="622"/>
+	<Point x="1294" y="956"/>
+	<Point x="403" y="956"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS ACHATINA. Cass. testâ ovatâ, ventricosâ, spirâ
+brevi, anfractibus evaricosis, lœvibus, columellâ vix
+rugatâ, basi truncatâ, labro tenuè reﬂexo, basin versus
+leviter denticulato; cinereâ aut cœrulescente, rufo
+purpureove longitudinaliter ﬂammatâ et arcuatim arti-
+culatâ; columellâ lacteâ aut rufescente, labro fusco-
+nigricante maculato.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="heading">
+	<Coords>
+	<Point x="600" y="521"/>
+	<Point x="1093" y="521"/>
+	<Point x="1093" y="569"/>
+	<Point x="1027" y="569"/>
+	<Point x="1027" y="614"/>
+	<Point x="676" y="614"/>
+	<Point x="676" y="569"/>
+	<Point x="600" y="569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 28. (Fig. a. Mus. Saul.
+Fig. b. Mus. Cuming.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

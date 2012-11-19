@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672552">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T19:56:06</Created>
+	<LastChange>2012-02-10T09:55:09</LastChange></Metadata>
+	<Page imageFilename="00672552.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="978" y="132"/>
+	<Point x="1301" y="132"/>
+	<Point x="1301" y="207"/>
+	<Point x="978" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 356 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="258" y="269"/>
+	<Point x="2012" y="269"/>
+	<Point x="2012" y="860"/>
+	<Point x="258" y="860"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le caractère accidenté et pierreux du sol et la raréﬁcation
+de l'air, dans les endroits habités par ces deux derniers Par-
+nassiens, faisaient que nous ne les chassions qu'avec une peine
+extrême et peu de succès. L'une des ♀♀ rapportées a les ailes
+du coté gauche un peu crispées, et les taches colorées en
+jaune d'ocre, tandisque celles du coté droit sont de la couleur
+normale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="264" y="869"/>
+	<Point x="2021" y="869"/>
+	<Point x="2021" y="1294"/>
+	<Point x="264" y="1294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voilà tout ce que j'avais à dire sur les cinq Parnassiens
+du district de Kouldjà et des montagnes environnantes, et je
+n'ai plus à faire remarquer, que, contre toute attente, nous
+ne trouvâmes pas certaines espèces que je croyais devoir ha-
+biter ces localités bien certaînement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="266" y="1298"/>
+	<Point x="2023" y="1298"/>
+	<Point x="2023" y="1637"/>
+	<Point x="266" y="1637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'absence de P. Mnemosyne (varié ou typique), du
+Delhis (v. Intermedius ou autre) et du Nomion, qui tous se
+rencontrent dans l'Altaï et l'Ala-Tau, est presque inconce-
+vable.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="276" y="1648"/>
+	<Point x="2019" y="1648"/>
+	<Point x="2019" y="2073"/>
+	<Point x="276" y="2073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seraient-ce des raisons climatériques qui empêcheraient
+ces espèces d'habiter le Tian-Chian? Je ne le crois pas. Car
+bien certainement tous les climats des montagnes de l'Asie
+centrale se retrouvent, à diverses hauteurs, dans le Tian-
+Chian.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="271" y="2087"/>
+	<Point x="2021" y="2087"/>
+	<Point x="2021" y="2426"/>
+	<Point x="271" y="2426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Serait-ce donc l'absence des plantes nourricières? Je ne
+saurais l'admettre d'avantage, car il n'y manque certes ni des
+saxifrages, ni des Sedum, ni des Salsola, qui sont les plantes
+nourricières de tous les Parnassiens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="260" y="2437"/>
+	<Point x="2024" y="2437"/>
+	<Point x="2024" y="2946"/>
+	<Point x="260" y="2946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y aurait-il des obstacles naturels, tels que discontinuité
+dans les chaînes des montagnes, etc., qui pourraient empècher
+ces espèces de se répandre dans le Tian-Chian? Je le crois
+encore moins, puisque l'Ala-Tau, par l'une de ses chaînes,
+(l'Altyne-Imel,) rejoint celui-ci à l'Est de la vallée de l'Ili-
+Kounguesse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="282" y="2949"/>
+	<Point x="2017" y="2949"/>
+	<Point x="2017" y="3135"/>
+	<Point x="282" y="3135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il faudrait employer bien des années h parcourir le Tian-
+Chian en tous sens, pour pouvoir répondre à de pareilles</Unicode></TextEquiv></TextRegion></Page></PcGts>

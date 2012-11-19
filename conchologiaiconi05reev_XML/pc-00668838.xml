@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668838">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:48:39</Created>
+	<LastChange>2012-02-10T10:29:40</LastChange></Metadata>
+	<Page imageFilename="00668838.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r16" index="0"/>
+	<RegionRefIndexed regionRef="r22" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r24" index="3"/>
+	<RegionRefIndexed regionRef="r30" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1023" y="110"/>
+	<Point x="1508" y="110"/>
+	<Point x="1508" y="161"/>
+	<Point x="1023" y="161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA.—PLATE V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="347" y="881"/>
+	<Point x="1242" y="881"/>
+	<Point x="1242" y="925"/>
+	<Point x="347" y="925"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.) vol. ix. p. 256.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="342" y="1048"/>
+	<Point x="1246" y="1048"/>
+	<Point x="1246" y="1243"/>
+	<Point x="342" y="1243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This ﬁne species from the Cape de Verd Islands is dis‐
+tinguished by a pair of conspicuous swollen keels and a
+bold profuse style of painting; the base and aperture are
+of a peculiar purplish-hue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="384" y="1246"/>
+	<Point x="1246" y="1246"/>
+	<Point x="1246" y="1295"/>
+	<Point x="384" y="1295"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>At Pl. VII. Sp. 33, is another species very similar to</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1288" y="199"/>
+	<Point x="2203" y="199"/>
+	<Point x="2203" y="302"/>
+	<Point x="1288" y="302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>this, collected by Capt. Sir E. Belcher during the Voyage
+of the Sulphur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="1532" y="346"/>
+	<Point x="1988" y="346"/>
+	<Point x="1988" y="398"/>
+	<Point x="1532" y="398"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 21. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1286" y="407"/>
+	<Point x="2196" y="407"/>
+	<Point x="2196" y="645"/>
+	<Point x="1286" y="645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA TORULOSA. Turr. testâ acuminato-turritâ,
+crassiusculâ, anfractibus quindecim, rotundatis, striatis,
+prismis bicostatis, cæteris gradatim quadricostatis, costis
+obsoletè granatis, duabus inferioribus fortioribus; ful-
+vescente-albâ, rufo-fusco punctatâ et eximiè ﬂammulatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1284" y="648"/>
+	<Point x="2193" y="648"/>
+	<Point x="2193" y="934"/>
+	<Point x="1284" y="934"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CORDED TURRITELLA. Shell acuminately turreted,
+rather thick, whorls ﬁfteen in number, rounded,
+striated, ﬁrst whorls two ribbed, the rest gradually
+four-ribbed, ribs obsoletely grained, the two lower
+ribs always the stronger; light fulvous white, dotted
+and delicately ﬂamed with red-brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1284" y="938"/>
+	<Point x="1917" y="938"/>
+	<Point x="1917" y="980"/>
+	<Point x="1538" y="981"/>
+	<Point x="1533" y="979"/>
+	<Point x="1284" y="979"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>KIENER, Icon. coq. viv. p. 18. pl. 6. f. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1286" y="985"/>
+	<Point x="1480" y="985"/>
+	<Point x="1480" y="1026"/>
+	<Point x="1286" y="1026"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.—?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1285" y="1048"/>
+	<Point x="2202" y="1048"/>
+	<Point x="2202" y="1296"/>
+	<Point x="1285" y="1296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The whorls are more than usually rounded in this
+species, and they are corded with four rather prominent
+ribs, the upper two of which are not developed until the
+shell has advanced to its ninth or tenth convolution. The
+painting has a peculiarly dotted character.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="1253" y="203"/>
+	<Point x="1257" y="1307"/>
+	<Point x="1275" y="1307"/>
+	<Point x="1276" y="202"/></Coords></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="346" y="204"/>
+	<Point x="1246" y="204"/>
+	<Point x="1246" y="446"/>
+	<Point x="346" y="446"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>presso-excavatis, deinde bicostatis, costis prominentibus,
+tumidis, planiusculis, distantibus, interstitio excavato,
+suturis subprofundè excavatis; fulvo-albidâ, rufo-fusco
+profusè ﬂammatâ et variegatâ, areâ inter costas parum
+pictâ, basi et aperturœ fauce purpureo-roseis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="346" y="448"/>
+	<Point x="1247" y="448"/>
+	<Point x="1247" y="878"/>
+	<Point x="346" y="878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWO-GIRDLED TURRITELLA. Shell acuminately tur-
+reted, whorls eighteen in number, ﬁnely striated, de-
+pressly excavated round the upper part, then two-
+ribbed, ribs prominent, swollen, rather ﬂattened,
+distant, with the interstice excavated, sutures rather
+deeply excavated; fulvous white, profusely ﬂamed
+and variegated with red-brown, area between the ribs
+but little painted, base and interior of the aperture
+purple-rose.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="356" y="929"/>
+	<Point x="990" y="929"/>
+	<Point x="990" y="972"/>
+	<Point x="356" y="972"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turritella biangulata, De Blainville.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="346" y="975"/>
+	<Point x="1003" y="975"/>
+	<Point x="1003" y="1024"/>
+	<Point x="346" y="1024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Porto Praya, Cape de Verd Islands.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r31">
+	<Coords>
+	<Point x="1026" y="1662"/>
+	<Point x="1496" y="1662"/>
+	<Point x="1496" y="1684"/>
+	<Point x="1026" y="1684"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r32">
+	<Coords>
+	<Point x="1492" y="313"/>
+	<Point x="1977" y="313"/>
+	<Point x="1977" y="336"/>
+	<Point x="1492" y="336"/></Coords></SeparatorRegion></Page></PcGts>

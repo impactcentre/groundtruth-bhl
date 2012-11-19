@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672563">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:57:59</Created>
+	<LastChange>2012-02-10T09:55:10</LastChange></Metadata>
+	<Page imageFilename="00672563.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="66" y="659"/>
+	<Point x="1811" y="659"/>
+	<Point x="1811" y="1076"/>
+	<Point x="66" y="1076"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Erate était encore plus commune que la précédente, du-
+rant tout l'été, partout dans le district de Kouldjà et les mon-
+tagnes environnantes, jusqu'à une élévation de 10,000'. Les
+♀♀ blanches, ab. Pallida Stgr., étaient rares et je n'en pris
+que deux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="61" y="1085"/>
+	<Point x="1814" y="1085"/>
+	<Point x="1814" y="1414"/>
+	<Point x="61" y="1414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je trouvai aussi un individu ♂ de Tab. Chrysodona Kind.
+près de Kouldjà (perdu pendant le voyage); j'en trouvai un
+second dans une petite collection laissée par feu l'apothicaire
+Golicke, à Kouldjà.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="61" y="1428"/>
+	<Point x="1814" y="1428"/>
+	<Point x="1814" y="1766"/>
+	<Point x="61" y="1766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je dirai maintenant tout ce que je sais sur la C. Chryso-
+dona Kind., dont la var. Helichta Ld. est un synonyme, le
+Dr. Boisduval ayant décrit la Chrysodona Kind, bien avant
+ce dernier auteur (gen. et Index 1840, p. 7).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="59" y="1780"/>
+	<Point x="1814" y="1780"/>
+	<Point x="1814" y="2021"/>
+	<Point x="59" y="2021"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'ai eu au moins 50 exemplaires de cette Chrysodona entre
+les mains, de sorte que j'ai pu me convaincre que deux pa-
+pillons diﬀérents étaient confondus sous ce nom.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="57" y="2035"/>
+	<Point x="1797" y="2035"/>
+	<Point x="1797" y="2542"/>
+	<Point x="57" y="2542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le premier de ces papillons est, à coup sur, un métis, qui
+provient du croisement de la C. Edusa F. et de l'Erate Esp.,
+ce qui arrive souvent dans les localités habitées par ces deux
+espèces. J'ai pris plusieurs fois ces deux lépidoptères in co-
+pula et je crois que d'autres lépidoptéristes ont fait de sem-
+blables observations près de Sarepta, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="57" y="2554"/>
+	<Point x="1788" y="2554"/>
+	<Point x="1788" y="2971"/>
+	<Point x="57" y="2971"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces métis non pas de caractères stables, se rapprochant
+d'avantage, tantôt de l'une, tantôt de l'autre de ces espèces.
+Le second n'est simplement qu'une aberration ocracée de l'Erate,
+aberration, qui, par endroits, n'est pas râre: ainsi par exemple
+près des marais, autour de la ville d'Azow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="57" y="2983"/>
+	<Point x="1788" y="2983"/>
+	<Point x="1788" y="3154"/>
+	<Point x="57" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces derniers individus ne diﬀèrent en rien, la couleur ex-
+ceptée, de l'Erate. Ainsi, dans les endroits où habitent les</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="771" y="185"/>
+	<Point x="1130" y="185"/>
+	<Point x="1130" y="264"/>
+	<Point x="771" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 367 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="73" y="378"/>
+	<Point x="1795" y="378"/>
+	<Point x="1795" y="564"/>
+	<Point x="73" y="564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21. С. Erate Esp.; ab. ♀ Pallida Stgr.; ab. Chryso-
+dona Kind.</Unicode></TextEquiv></TextRegion></Page></PcGts>

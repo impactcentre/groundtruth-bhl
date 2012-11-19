@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669289">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:47:55</Created>
+	<LastChange>2012-03-12T14:33:54</LastChange></Metadata>
+	<Page imageFilename="00669289.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="40" y="275"/>
+	<Point x="1444" y="275"/>
+	<Point x="1444" y="444"/>
+	<Point x="40" y="444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vidu était encore plus mutilé que les nôtres.
+Voici les nombres donnés par ce naturaliste:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="300" y="449"/>
+	<Point x="1179" y="449"/>
+	<Point x="1182" y="510"/>
+	<Point x="298" y="509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 6; D. 246; A. 0; C. 12; P. 11; V. 4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="98" y="517"/>
+	<Point x="1448" y="517"/>
+	<Point x="1448" y="1044"/>
+	<Point x="97" y="1046"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La peau de ce poisson est garnie de petites verrues
+osseuses, lisses, hémisphériques, qui, vers le tran‐
+chant du ventre, deviennent un peu coniques. Ces
+verrues n’y sont pas réparties également, elles sem‐
+blent disposées sur des bandes longitudinales, ré-
+trécies et élargies d’espace en espace, et séparées
+par des intervalles plus lisses.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="107" y="1051"/>
+	<Point x="1246" y="1047"/>
+	<Point x="1451" y="1048"/>
+	<Point x="1451" y="1873"/>
+	<Point x="106" y="1873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ligne latérale est un peu au-dessous du tiers
+inférieur de la hauteur, excepté en avant, où elle
+remonte pour aboutir, comme à l’ordinaire, au haut
+de l’opercule. C’est une ligne légèrement relevée,
+continue, lisse, et qui n’a aucune de ces épines qui
+arment celles des trachyptères. Tout son corps brille
+d’un vif éclat d’argent, et est semé de mouchetures
+grisâtres, chatoyantes comme de l’opale, disposées
+en quinconce peu régulier et de manière qu’il y en
+a sept ou huit sur une ligne verticale; les nageoires
+et les panaches sont d’un beau rose vif.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="44" y="1880"/>
+	<Point x="1456" y="1879"/>
+	<Point x="1459" y="2553"/>
+	<Point x="542" y="2557"/>
+	<Point x="44" y="2555"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons déjà dit que l’individu le plus
+complet, sur lequel cette description a été
+faite, est long de huit pieds trois pouces.
+Nous en avons deux autres, moins entiers,
+qui, d’après les parties que nous en possédons,
+devaient avoir au moins neuf pieds six pouces;
+ils ont été pris au mois de Mai sur la plage
+de Nice, tout près du bord.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="136" y="2560"/>
+	<Point x="546" y="2562"/>
+	<Point x="1454" y="2556"/>
+	<Point x="1456" y="2648"/>
+	<Point x="132" y="2641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Celui que M. Risso a décrit, et qui venait</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="469" y="176"/>
+	<Point x="1018" y="176"/>
+	<Point x="1018" y="245"/>
+	<Point x="469" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. GYMNÉTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1302" y="164"/>
+	<Point x="1434" y="164"/>
+	<Point x="1434" y="242"/>
+	<Point x="1302" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>357</Unicode></TextEquiv></TextRegion></Page></PcGts>

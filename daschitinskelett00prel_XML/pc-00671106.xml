@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671106">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T03:48:41</Created>
+	<LastChange>2012-03-12T14:34:04</LastChange></Metadata>
+	<Page imageFilename="00671106.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1142" y="344"/>
+	<Point x="1403" y="344"/>
+	<Point x="1403" y="381"/>
+	<Point x="1142" y="381"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 44 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="222" y="446"/>
+	<Point x="2346" y="446"/>
+	<Point x="2346" y="696"/>
+	<Point x="222" y="696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>und zwei laterale Komponenten zu unterscheiden sind, da diese nur als sekundäre Modifikationen
+infolge der Beziehung zur Anlage des Nervensystems auftreten und unabhängig von der Einschmelzung
+der Beinanlagen sind.1) In gleicher Weise wie die Sterna kann man die mit Stücken der Lateral-
+region festverschmolzenen Terga als Zygoterga bezeichnen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="222" y="698"/>
+	<Point x="2346" y="698"/>
+	<Point x="2346" y="1257"/>
+	<Point x="222" y="1257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wendet man diese Ausdrucksweise auf das Abdomen von Eosentomon an, so ergibt sich für
+die Ventralplatten, daß diejenigen der ersten drei Segmente Sterna, die des vierten bis achten Seg-
+mentes sicher, die vier letzten wahrscheinlich Zygosterna sind. Die Rückenplatte betrachte ich als
+Zygoterga, da aus dem Vergleich mit Acerentomon (Berlese) sich ergibt, daß das dorsale Lateral-
+stück in sie aufgenommen wurde. Das neben der Rückenplatte liegende Chitinband repräsentiert
+demnach eine Pleura. Dies Ergebnis ist vielleicht noch deshalb interessant, weil Voß auf Grund
+der Muskulatur wenigstens für den dorsalen Teil der echten Pleuren tergale Abkunft feststellte. Nach
+dem Befund bei den Proturen glaube ich mit der Möglichkeit rechnen zu müssen, daß die gesamten
+Sklerite der Lateralregion Abkömmlinge der Rückenplatte sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="229" y="1259"/>
+	<Point x="2344" y="1259"/>
+	<Point x="2344" y="1935"/>
+	<Point x="229" y="1935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der morphologischen Deutung der Abdominalbeine von Eosentomon stehen keine wesentlichen
+Schwierigkeiten entgegen. Jedes Schreitbein zeigt zwei Hauptabschnitte, einen proximalen Basi-
+podit (Börner) und einen distalen Telopodit (Verhoeff). Finden sich nun im Abdominalbeine
+zwei Glieder, so glaube ich nicht fehlzugehen, wenn ich das erste als Basipodit, das zweite als Telo-
+podit anspreche. Im einzelnen dürfte dann der große, freie Teil des Basalgliedes die Coxa, die beiden
+dem Rumpf anliegenden Sklerite aber die Reste der Subcoxa repräsentieren. Den auf der Hinterseite
+der Coxa abgesetzten Teil als ein Meron (Walton) zu betrachten, ist gewagt, da einmal die Natur
+des Meron noch nicht ganz geklärt erscheint, und dann da ein Analogon des fraglichen Stückes an
+den Thorakalbeinen von Eosentomon fehlt. Ob das endständige Bläschen schließlich eine sekundäre
+Bildung ist oder in Analogie zu den Verhältnissen bei Thysanopteren einen Prätarsus darstellt,
+läßt sich bei der weitgehenden Reduktion nicht mehr nachweisen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="244" y="1946"/>
+	<Point x="2353" y="1946"/>
+	<Point x="2353" y="2379"/>
+	<Point x="244" y="2379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es ist nun noch die Frage zu entscheiden, wie diese proximalen Abdominalbeine der
+Proturen zu bezeichnen sind. Silvestri setzt dieselben den Styli der Thysanuren gleich. Nach
+dem vorher Gesagten ist das aber nicht angängig, da die Anhänge von Eosentomon dem ganzen Thorakal-
+beine homodynam sind und neben einem einfachen Sternum (Urosternum) liegen. Bei Machilis u. a.
+ist dagegen der Basipodit mit dem Sternum zu einem Zygosternum verschmolzen; die freien Styli
+können demnach nicht das ganze Bein repräsentieren, sondern höchstens einen Teil desselben, wobei
+hier davon abgesehen werden kann, ob sie als Anhänge oder als Telopoditrudimente zu deuten sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="244" y="2418"/>
+	<Point x="2346" y="2418"/>
+	<Point x="2346" y="2507"/>
+	<Point x="244" y="2507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1) Heymons ſand embryologisch eine ziemlich verwickelte Zusammensetzung der Ventralplatten, die er folgender-
+maßen gruppiert:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="877" y="2513"/>
+	<Point x="1928" y="2513"/>
+	<Point x="1928" y="2552"/>
+	<Point x="1910" y="2553"/>
+	<Point x="1905" y="2558"/>
+	<Point x="1886" y="2560"/>
+	<Point x="1872" y="2552"/>
+	<Point x="1130" y="2552"/>
+	<Point x="877" y="2553"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beinanlage Lateralfeld Medianfeld Lateralfeld Beinanlage</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="940" y="2608"/>
+	<Point x="1866" y="2606"/>
+	<Point x="1866" y="2642"/>
+	<Point x="940" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bein Sternum Bein</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="895" y="2679"/>
+	<Point x="1927" y="2679"/>
+	<Point x="1927" y="2725"/>
+	<Point x="895" y="2725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beinanlage Lateralfeld Medianfeld Lateralfeld Beinanlage</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="footnote">
+	<Coords>
+	<Point x="1331" y="2785"/>
+	<Point x="1481" y="2785"/>
+	<Point x="1481" y="2822"/>
+	<Point x="1331" y="2822"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sternum</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="footnote">
+	<Coords>
+	<Point x="401" y="2838"/>
+	<Point x="2327" y="2838"/>
+	<Point x="2327" y="2894"/>
+	<Point x="401" y="2894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ich glaube im Abdomen, mit Haase, eine der thorakalen sich anschließende Gruppierung annehmen zu müssen:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="footnote">
+	<Coords>
+	<Point x="885" y="2904"/>
+	<Point x="1922" y="2904"/>
+	<Point x="1922" y="2949"/>
+	<Point x="1012" y="2944"/>
+	<Point x="990" y="2945"/>
+	<Point x="971" y="2944"/>
+	<Point x="885" y="2949"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beinanlage Lateralfeld Medianfeld Lateralfeld Beinanlage</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="247" y="2391"/>
+	<Point x="247" y="2405"/>
+	<Point x="526" y="2405"/>
+	<Point x="526" y="2391"/></Coords></SeparatorRegion>
+	<TextRegion id="r18" type="footnote">
+	<Coords>
+	<Point x="525" y="2559"/>
+	<Point x="738" y="2559"/>
+	<Point x="738" y="2595"/>
+	<Point x="525" y="2595"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>im Thorax:</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r20">
+	<Coords>
+	<Point x="1845" y="2556"/>
+	<Point x="1845" y="2602"/>
+	<Point x="1516" y="2603"/>
+	<Point x="943" y="2603"/>
+	<Point x="943" y="2556"/></Coords></ImageRegion>
+	<TextRegion id="r22" type="footnote">
+	<Coords>
+	<Point x="543" y="2739"/>
+	<Point x="805" y="2739"/>
+	<Point x="805" y="2773"/>
+	<Point x="543" y="2773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>im Abdomen:</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r24">
+	<Coords>
+	<Point x="904" y="2727"/>
+	<Point x="1955" y="2727"/>
+	<Point x="1955" y="2781"/>
+	<Point x="904" y="2781"/></Coords></ImageRegion>
+	<ImageRegion id="r25">
+	<Coords>
+	<Point x="1095" y="2954"/>
+	<Point x="1095" y="2988"/>
+	<Point x="1701" y="2988"/>
+	<Point x="1701" y="2954"/></Coords></ImageRegion>
+	<TextRegion id="r29" type="footnote">
+	<Coords>
+	<Point x="1272" y="3073"/>
+	<Point x="1532" y="3073"/>
+	<Point x="1532" y="3117"/>
+	<Point x="1271" y="3117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zygosternum</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="footnote">
+	<Coords>
+	<Point x="1268" y="2998"/>
+	<Point x="1536" y="2998"/>
+	<Point x="1536" y="3037"/>
+	<Point x="1268" y="3037"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sternum s. str.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r35">
+	<Coords>
+	<Point x="1822" y="2951"/>
+	<Point x="1822" y="3038"/>
+	<Point x="1838" y="3038"/>
+	<Point x="1838" y="2951"/></Coords></ImageRegion>
+	<ImageRegion id="r36">
+	<Coords>
+	<Point x="979" y="2948"/>
+	<Point x="979" y="3037"/>
+	<Point x="1002" y="3037"/>
+	<Point x="1002" y="2948"/></Coords></ImageRegion>
+	<ImageRegion id="r34">
+	<Coords>
+	<Point x="977" y="3040"/>
+	<Point x="977" y="3068"/>
+	<Point x="1836" y="3068"/>
+	<Point x="1836" y="3040"/></Coords></ImageRegion></Page></PcGts>

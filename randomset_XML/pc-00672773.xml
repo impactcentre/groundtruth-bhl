@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672773">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:07:34</Created>
+	<LastChange>2012-02-10T10:29:47</LastChange></Metadata>
+	<Page imageFilename="00672773.tif" imageWidth="1813" imageHeight="3142">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="236" y="200"/>
+	<Point x="336" y="200"/>
+	<Point x="336" y="260"/>
+	<Point x="236" y="260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>122</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="657" y="213"/>
+	<Point x="1215" y="213"/>
+	<Point x="1215" y="257"/>
+	<Point x="657" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LANDSCAPE GARDENING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="210" y="326"/>
+	<Point x="1647" y="326"/>
+	<Point x="1647" y="1190"/>
+	<Point x="210" y="1190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>age and immense size, which attests the ﬁtness of the soil
+and climate, and displays the grandeur of our native species
+The Wadsworth Oak near Geneseo, N. Y., of extraordinary
+dimensions, the product of one of our most fertile valleys,
+has attracted the admiration of hundreds of travellers on
+the route to Niagara. Its trunk measures thirty-six feet in
+circumference. The celebrated Charter Oak at Hartford,
+which has ﬁgured so conspicuously in the history of New
+England, is still existing in a green old age, one of the most
+interesting monuments of the past to be found in the
+country.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="219" y="1206"/>
+	<Point x="1636" y="1206"/>
+	<Point x="1636" y="1839"/>
+	<Point x="219" y="1839"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Near the village of Flushing, Long Island, on the farm
+of Judge Lawrence, is growing one of the noblest oaks in
+the country. It is truly park-like in its dimensions, the
+circumference of the trunk being nearly thirty feet, and its
+majestic head of corresponding dignity. In the deep
+alluvial soil of the western valleys, the oak often assumes
+a grand aspect, and bears witness to the wonderful fertility
+of the soil in that region.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="225" y="1988"/>
+	<Point x="1637" y="1988"/>
+	<Point x="1637" y="2786"/>
+	<Point x="225" y="2786"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diﬀerent species of Oak. This country is peculiarly
+rich in various kinds of oak; Michaux enumerating no less
+than forty species indigenous to North America. Of these
+the most useful are the Live oak (Quercus virens), of such
+inestimable value for ship-building ; the Spanish oak (Q.
+falcata); the Red oak (Q. rubra), etc., the bark of which
+is extensively used in tanning; the Quercitron or Black
+oak, which is highly valuable as aﬀording a ﬁne yellow or
+brown dye for wool, silks, paper-hangings, etc. ; and the
+White oak, which is chieﬂy used for timber. We shall</Unicode></TextEquiv></TextRegion></Page></PcGts>

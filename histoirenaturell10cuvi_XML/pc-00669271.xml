@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669271">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:45:44</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669271.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="96" y="288"/>
+	<Point x="1469" y="288"/>
+	<Point x="1469" y="525"/>
+	<Point x="96" y="525"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gent de plus en plus vers l’arrière, et ces aiguillons,
+croissant aussi, deviennent poignans: il y en a en
+tout plus de cent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="79" y="527"/>
+	<Point x="1476" y="527"/>
+	<Point x="1477" y="1491"/>
+	<Point x="81" y="1491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette ligne, partant du haut de l’ouïe, est un peu
+concave et arrive un peu au-dessous du milieu de
+la hauteur, ensuite elle se rapproche par degrés de
+l’arête de l’abdomen, et au bout de la queue elle s’unit
+sous ce tranchant même à celle de l’autre côté, en
+sorte, qu’au lieu d’avoir sur chaque face une épine,
+comme dans tout le reste de sa longueur, le poisson
+ﬁnit par n’en porter sous le bout de sa queue qu’une
+seule, tendant vers le bas, fourchue et dirigeant une
+de ses pointes en avant et l’autre en arrière. C’est
+immédiatement au-dessus que sont les cinq ou six
+petits ﬁlets qui terminent la queue et représentent,
+si l’on veut, le lobe inférieur de la caudale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="94" y="1495"/>
+	<Point x="1504" y="1495"/>
+	<Point x="1504" y="1947"/>
+	<Point x="94" y="1947"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’anus est un petit trou percé dans le bord si
+mince du ventre, un peu plus avant que le milieu de
+la longueur. Il n’y a pas de vestige d’anale, pas même
+ces petites épines que l’on voit dans le trichiure:
+tout se réduit aux petits tubercules mous, dont nous
+avons parlé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="88" y="1951"/>
+	<Point x="1476" y="1951"/>
+	<Point x="1476" y="2730"/>
+	<Point x="88" y="2730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson ne brille pas d’un éclat d’argent moins
+vif que le lépidope et le trichiure, et ce qui le re‐
+lève encore, ce sont les trois larges taches noires
+et rondes, placées le long de son dos, au-dessous de
+la dorsale, à peu près à égales distances et de ma‐
+nière à en diviser la longueur en trois parties égales.
+Quelquefois il y en a, outre celles du dos, une ou
+deux du côté du ventre, mais plus pâles. Enﬁn, le
+rose vif qui colore ses nageoires, en fait certaine‐
+ment l’un des plus beaux poissons de la mer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="420" y="189"/>
+	<Point x="1060" y="189"/>
+	<Point x="1060" y="273"/>
+	<Point x="420" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1320" y="189"/>
+	<Point x="1476" y="189"/>
+	<Point x="1476" y="273"/>
+	<Point x="1320" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>339</Unicode></TextEquiv></TextRegion></Page></PcGts>

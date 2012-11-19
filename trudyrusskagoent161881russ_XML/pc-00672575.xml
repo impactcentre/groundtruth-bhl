@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672575">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:59:50</Created>
+	<LastChange>2012-02-10T09:55:12</LastChange></Metadata>
+	<Page imageFilename="00672575.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="798" y="169"/>
+	<Point x="1112" y="169"/>
+	<Point x="1112" y="242"/>
+	<Point x="798" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 379 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="92" y="376"/>
+	<Point x="1821" y="376"/>
+	<Point x="1821" y="491"/>
+	<Point x="92" y="491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>34. Lycaena Argiades Pall. var. Polysperclion Berg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="83" y="558"/>
+	<Point x="1826" y="558"/>
+	<Point x="1826" y="908"/>
+	<Point x="83" y="908"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De cette variété, nous ne trouvâmes que deux ♂♂, pareils
+à ceux de l'Europe: l'un aux embouchures du Khorgosse, l'autre
+près des ruines de la ville Ili (Nouvelle Kouldjà); tous les
+deux au commencement d'Avril.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="271" y="985"/>
+	<Point x="1621" y="985"/>
+	<Point x="1621" y="1089"/>
+	<Point x="271" y="1089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>35. Argus L. et var. Planorum Alph. nova.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="78" y="1158"/>
+	<Point x="1830" y="1158"/>
+	<Point x="1830" y="1760"/>
+	<Point x="78" y="1760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Argus, que nous prîmes partout dans le Tian-Chian,
+entre 2500 et 9000' d'altitude, est de fort grande taille en
+général. Le bleu foncé, lilacé, des ♂♂ est très pur. Le limbe
+noir large tranche nettement sur le fond. Ou remarque, géné-
+ralement, devant le limbe des deuxièmes ailes, une série de
+points noirs, qui conﬂuent quelquefois avec le limbe, rendant
+celui-ci encore plus large.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="73" y="1766"/>
+	<Point x="1835" y="1766"/>
+	<Point x="1835" y="1948"/>
+	<Point x="73" y="1948"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En dessus, le gris blanchâtre du fond est ordinaîrement
+très clair, avec les points noirs nets.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="78" y="1955"/>
+	<Point x="1833" y="1955"/>
+	<Point x="1833" y="2125"/>
+	<Point x="78" y="2125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La bande rouge-fauve est large. Les points métalliques sont
+grands et très brillants, tantôt verdâtres, tantôt bleus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="80" y="2130"/>
+	<Point x="1837" y="2130"/>
+	<Point x="1837" y="2967"/>
+	<Point x="80" y="2967"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Malgré la grande taille de ces individus, le Dr. Staudin-
+ger les considère comme L. Argus typiques, tandis qu'il voit
+dans les Argus des plaines et des sables de l'Orient, une va-
+riété: opinion que je trouve aujourd'hui parfaitement fondée.
+Jusqu'ici j'avais cru précisément le contraire, c. à d. que le
+type était la forme des plaines,—erreur, provenant de ce que
+je n'avais dans ma collection que des Argus de Taganrog. Or,
+je vois maintenant que ceux-ci sont très voisins (presque pas
+à distinguer) de ceux des environs de Kouldjà et de la vallée
+de l'Ili Kounguesse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="82" y="2974"/>
+	<Point x="1828" y="2974"/>
+	<Point x="1828" y="3153"/>
+	<Point x="82" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est fort probable même que cette variété des plaines,
+que je propose de designer comme v. Planorum m., se retrou-</Unicode></TextEquiv></TextRegion></Page></PcGts>

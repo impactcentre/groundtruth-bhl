@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667998">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:21:08</Created>
+	<LastChange>2012-02-10T09:52:29</LastChange></Metadata>
+	<Page imageFilename="00667998.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="185" y="224"/>
+	<Point x="282" y="224"/>
+	<Point x="282" y="305"/>
+	<Point x="185" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>86</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="951" y="217"/>
+	<Point x="1305" y="217"/>
+	<Point x="1305" y="303"/>
+	<Point x="951" y="303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LINNET</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="178" y="339"/>
+	<Point x="2064" y="339"/>
+	<Point x="2064" y="923"/>
+	<Point x="178" y="923"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>what one notices between the sexes of many butterﬂies. The diﬀerent form of
+the wing in the sexes of birds appears rarely to be noted, the mere length being
+recorded. The radius and ulna in the male are longer and the depression in front
+of their junction with the humerus deeper than in the female, the primary coverts
+are less exposed in the male, whilst the second, third, and fourth longer primaries are
+emarginate in front, in the male; but only the second and third, in the female;
+in the latter sex the primaries are more perfectly graded, whereas in the male
+the outer edge forms a slight sinus; the tail diﬀers much in outline, as will be
+at once seen from the cut.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords>
+	<Point x="295" y="953"/>
+	<Point x="1940" y="953"/>
+	<Point x="1940" y="2116"/>
+	<Point x="295" y="2116"/></Coords></ImageRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="194" y="2142"/>
+	<Point x="2056" y="2143"/>
+	<Point x="2056" y="2400"/>
+	<Point x="193" y="2402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Young birds are very like the female. After the autumn moult the feathers
+of the crown and breast have greyish borders, the crimson being dull and presenting
+a mottled appearance; this (in fully adult males) gradually changes to the bright
+colouring at the approach of spring.*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="193" y="2407"/>
+	<Point x="2055" y="2406"/>
+	<Point x="2054" y="2531"/>
+	<Point x="193" y="2526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This species, which is variously called the Grey, Brown, or Red Linnet,
+according to the age or plumage of the specimens so named, during the summer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="207" y="2558"/>
+	<Point x="2046" y="2555"/>
+	<Point x="2046" y="2727"/>
+	<Point x="206" y="2729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Seebohm almost always explains this change of colouring, by asserting that the tips of the feathers
+drop oﬀ; but if one obtains a bird in its transition stage the tips are frequently neither dropped nor abraded,
+although undoubtedly in some species the edges are worn oﬀ, whilst in others the colouring alters in the
+feathers themselves.</Unicode></TextEquiv></TextRegion></Page></PcGts>

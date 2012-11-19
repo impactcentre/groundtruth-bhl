@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669107">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:55:42</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669107.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="145" y="278"/>
+	<Point x="1507" y="278"/>
+	<Point x="1506" y="434"/>
+	<Point x="785" y="439"/>
+	<Point x="394" y="440"/>
+	<Point x="370" y="444"/>
+	<Point x="145" y="444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>péritoine est noir. Nous avons trouvé dans l’estomac
+de ce poisson des débris de végétaux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="146" y="449"/>
+	<Point x="465" y="448"/>
+	<Point x="686" y="442"/>
+	<Point x="1005" y="444"/>
+	<Point x="1503" y="439"/>
+	<Point x="1504" y="2163"/>
+	<Point x="145" y="2163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le squelette du chirurgien n’a qu’une petite crête
+mitoyenne à l’occiput, le dessus de son crâne n’en
+a point; ses intermaxillaires n’ont pas de pédicules,
+et ses maxillaires leur sont attachés ﬁxement; comme
+dans les amphacanthes, les stylets de son épaule ne
+se composent que d’une pièce, descendent verticale‐
+ment vers l’extrémité postérieure du bassin et ne se
+prolongent point vers l’anus. Ses cubitaux sont fort
+larges et ne laissent qu’un très-petit trou, à leur suture
+avec l’huméral; le trou du radial est aussi fort petit.
+Le bassin s’attache, comme à l’ordinaire, à la sym‐
+physe humérale par une seule pointe commune à
+ses deux os. Il y a vingt-deux vertèbres, dont dix ab‐
+dominales. Le premier interépineux du dos a, comme
+dans les liches, les amphacanthes et tant d’autres
+poissons voisins de ceux-là, une épine couchée et
+dirigée en avant; mais dans cette espèce elle est
+trop petite pour percer la peau. Cet interépineux est
+en outre remarquable parce qu’il porte les deux
+premières épines dorsales, et surtout parce que la
+première s’y articule dans une échancrure dont le
+bord postérieur lui présente un tubercule, sur lequel
+elle se meut par arthrodie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="145" y="2171"/>
+	<Point x="1505" y="2171"/>
+	<Point x="1505" y="2378"/>
+	<Point x="145" y="2378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette structure, beaucoup plus développée dans
+d’autres espèces, est réduite dans celle-ci à de petites
+dimensions.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="69" y="2390"/>
+	<Point x="1501" y="2390"/>
+	<Point x="1501" y="2660"/>
+	<Point x="69" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Pelé nous apprend que ce poisson se
+pêche presque toute l’année à la Martinique;
+il n’y devient pas considérable, les plus gros</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="1076" y="184"/>
+	<Point x="1076" y="261"/>
+	<Point x="495" y="261"/>
+	<Point x="495" y="184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1486" y="184"/>
+	<Point x="1486" y="261"/>
+	<Point x="1361" y="261"/>
+	<Point x="1361" y="184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>175</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668172">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T12:09:47</Created>
+	<LastChange>2012-02-10T09:52:41</LastChange></Metadata>
+	<Page imageFilename="00668172.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="50" y="247"/>
+	<Point x="1995" y="247"/>
+	<Point x="1995" y="2881"/>
+	<Point x="50" y="2881"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="2066" y="1196"/>
+	<Point x="2066" y="1807"/>
+	<Point x="2132" y="1807"/>
+	<Point x="2132" y="1196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HOODED CROW. �. �</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="2156" y="1392"/>
+	<Point x="2156" y="1592"/>
+	<Point x="2203" y="1592"/>
+	<Point x="2203" y="1392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 101.</Unicode></TextEquiv></TextRegion></Page></PcGts>

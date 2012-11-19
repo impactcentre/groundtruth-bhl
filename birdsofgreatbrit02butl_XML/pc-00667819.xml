@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667819">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T03:02:38</Created>
+	<LastChange>2012-02-10T09:52:09</LastChange></Metadata>
+	<Page imageFilename="00667819.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="936" y="513"/>
+	<Point x="1280" y="513"/>
+	<Point x="1280" y="585"/>
+	<Point x="936" y="585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BIRDS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="1078" y="682"/>
+	<Point x="1136" y="682"/>
+	<Point x="1136" y="717"/>
+	<Point x="1078" y="717"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OF</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="804" y="1217"/>
+	<Point x="1401" y="1217"/>
+	<Point x="1401" y="1276"/>
+	<Point x="804" y="1276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ORDER PASSERES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="831" y="1604"/>
+	<Point x="1400" y="1604"/>
+	<Point x="1400" y="1666"/>
+	<Point x="831" y="1666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY ORIOLIDÆ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="303" y="1750"/>
+	<Point x="2043" y="1736"/>
+	<Point x="2038" y="1749"/>
+	<Point x="2053" y="1814"/>
+	<Point x="2050" y="2003"/>
+	<Point x="2038" y="2118"/>
+	<Point x="347" y="2120"/>
+	<Point x="330" y="2123"/>
+	<Point x="319" y="2120"/>
+	<Point x="185" y="2118"/>
+	<Point x="179" y="2097"/>
+	<Point x="186" y="1899"/>
+	<Point x="301" y="1899"/>
+	<Point x="310" y="1884"/>
+	<Point x="306" y="1873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HIS family consists of a tropical group of brightly coloured birds in which
+yellow and black, or scarlet and black, are the prevailing hues. Although
+in the general form of their heads they somewhat remind one of Starlings,
+they must not be confounded with the so-called "Orioles" of the New World,
+which belong to the family Icteridœ or Hang-nests and Troupials, a group of birds
+linking the Finches and the Starlings, and feeding largely upon seeds and insects.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="162" y="2122"/>
+	<Point x="316" y="2125"/>
+	<Point x="327" y="2128"/>
+	<Point x="343" y="2125"/>
+	<Point x="2058" y="2122"/>
+	<Point x="2058" y="2431"/>
+	<Point x="162" y="2431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The late Henry Seebohm was of opinion that the Orioles were nearly related
+to the Crows; he, therefore, placed the genus Oriolus in his Subfamily Corvinœ, from
+which he said that they chieﬂy diﬀered in their exposed nostrils, although he
+admitted that the tarsus might perhaps be slightly shorter, and the prevailing
+colours diﬀerent; whilst the sexes also were dissimilar.*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="189" y="2437"/>
+	<Point x="1951" y="2437"/>
+	<Point x="1981" y="2435"/>
+	<Point x="1995" y="2437"/>
+	<Point x="2047" y="2437"/>
+	<Point x="2047" y="2563"/>
+	<Point x="189" y="2563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In addition to the above distinctive characters, the third primary of the wing
+(not the fourth or ﬁfth) appears to be the longest, in the Orioles; whilst the</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="footnote">
+	<Coords>
+	<Point x="189" y="2571"/>
+	<Point x="2041" y="2571"/>
+	<Point x="2041" y="2689"/>
+	<Point x="189" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* The fact that they hop when on the ground, would hardly serve to distinguish the Orioles from the
+Crows; for anyone who has watched a Raven, must have been vastly amused by its ungainly hopping in all
+directions.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="drop-capital">
+	<Coords>
+	<Point x="184" y="1754"/>
+	<Point x="184" y="1891"/>
+	<Point x="301" y="1891"/>
+	<Point x="302" y="1784"/>
+	<Point x="301" y="1754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="200" y="785"/>
+	<Point x="2026" y="785"/>
+	<Point x="2026" y="926"/>
+	<Point x="200" y="926"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GREAT BRITAIN AND IRELAND</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="971" y="1033"/>
+	<Point x="971" y="1078"/>
+	<Point x="1264" y="1078"/>
+	<Point x="1264" y="1033"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="954" y="1414"/>
+	<Point x="1257" y="1414"/>
+	<Point x="1257" y="1469"/>
+	<Point x="954" y="1469"/></Coords></SeparatorRegion>
+	<TextRegion id="r19" type="signature-mark">
+	<Coords>
+	<Point x="1768" y="2731"/>
+	<Point x="1769" y="2731"/>
+	<Point x="1768" y="2731"/>
+	<Point x="1768" y="2734"/>
+	<Point x="1767" y="2734"/>
+	<Point x="1767" y="2737"/>
+	<Point x="1766" y="2737"/>
+	<Point x="1766" y="2740"/>
+	<Point x="1765" y="2740"/>
+	<Point x="1765" y="2743"/>
+	<Point x="1739" y="2743"/>
+	<Point x="1739" y="2710"/>
+	<Point x="1768" y="2710"/>
+	<Point x="1768" y="2709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="signature-mark">
+	<Coords>
+	<Point x="418" y="2713"/>
+	<Point x="418" y="2715"/>
+	<Point x="417" y="2715"/>
+	<Point x="417" y="2725"/>
+	<Point x="416" y="2725"/>
+	<Point x="416" y="2735"/>
+	<Point x="415" y="2735"/>
+	<Point x="415" y="2744"/>
+	<Point x="345" y="2744"/>
+	<Point x="345" y="2745"/>
+	<Point x="345" y="2744"/>
+	<Point x="312" y="2744"/>
+	<Point x="312" y="2743"/>
+	<Point x="280" y="2743"/>
+	<Point x="280" y="2713"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion></Page></PcGts>

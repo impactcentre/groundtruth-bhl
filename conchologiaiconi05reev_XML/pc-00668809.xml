@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668809">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T01:13:48</Created>
+	<LastChange>2012-02-10T10:29:38</LastChange></Metadata>
+	<Page imageFilename="00668809.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r22" index="5"/>
+	<RegionRefIndexed regionRef="r34" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r25" index="12"/>
+	<RegionRefIndexed regionRef="r73" index="13"/>
+	<RegionRefIndexed regionRef="r13" index="14"/>
+	<RegionRefIndexed regionRef="r14" index="15"/>
+	<RegionRefIndexed regionRef="r19" index="16"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1100" y="514"/>
+	<Point x="1411" y="514"/>
+	<Point x="1411" y="568"/>
+	<Point x="1100" y="568"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1160" y="613"/>
+	<Point x="1355" y="613"/>
+	<Point x="1355" y="657"/>
+	<Point x="1160" y="657"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="567" y="703"/>
+	<Point x="1016" y="703"/>
+	<Point x="1016" y="758"/>
+	<Point x="567" y="758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 29. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="349" y="781"/>
+	<Point x="1238" y="781"/>
+	<Point x="1238" y="1058"/>
+	<Point x="349" y="1058"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS PYRUM. Cass. testâ ovato-globosâ, plerumque cras-
+sissimâ, anfractibus convexis, lœvigatis, supernè plus
+minusve angulatis, interdum subnodosis; columellâ
+crassâ, lœvigatâ, basi obscurè sulcatâ, labro reﬂexo,
+incrassato; aurantio-lacteâ, nigricante-fusco pone va‐
+rices maculatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="349" y="1062"/>
+	<Point x="1238" y="1062"/>
+	<Point x="1238" y="1352"/>
+	<Point x="349" y="1352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PEAR HELMET. Shell ovately globose, generally very
+thick, whorls convex, smooth, more or less angulated
+round the upper part, sometimes slightly nodose;
+columella thickened, smooth, obscurely grooved at
+the base, lip reﬂected, thickened; orange cream-colour,
+spotted with blackish-brown behind the varices.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="359" y="1453"/>
+	<Point x="666" y="1453"/>
+	<Point x="666" y="1489"/>
+	<Point x="359" y="1489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. New Holland.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="359" y="1526"/>
+	<Point x="1239" y="1526"/>
+	<Point x="1239" y="1765"/>
+	<Point x="359" y="1765"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I cannot observe any character of suﬃcient permanence
+to distinguish Lamarck’s Zeylanica from C. pyrum. The
+species is sometimes comparatively thin and lightly no-
+duled, but more frequently very much thickened, with the
+enamel sometimes deposited in rude callous layers.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="1501" y="701"/>
+	<Point x="1941" y="701"/>
+	<Point x="1941" y="747"/>
+	<Point x="1501" y="747"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 30. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1282" y="767"/>
+	<Point x="2168" y="765"/>
+	<Point x="2165" y="1048"/>
+	<Point x="1280" y="1046"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS SULCOSA. Cass. testâ ovatâ, spirâ subproductâ,
+acutâ, anfractibus evaricosis, supernè concavo-depressis,
+sulcis regularibus equidistantibus undique cingulatis;
+columellâ plicato-rugatâ et granosâ, labro sœpissimè
+valdè incrassato, intus acutè fortiter lirato; griseo-
+fulvâ, ferrugineo-fusco maculatâ et ﬂammatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1280" y="1048"/>
+	<Point x="2166" y="1051"/>
+	<Point x="2163" y="1425"/>
+	<Point x="1514" y="1427"/>
+	<Point x="1284" y="1425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GROOVED HELMET. Shell ovate, spire somewhat
+produced, sharp, whorls destitute of varices, con-
+cavely depressed round the upper part, encircled
+throughout with regular, equidistant grooves; colu‐
+mella plicately wrinkled and granose, lip frequently
+very much thickened, sharply and strongly ridged
+within; greyish fulvous colour, blotched and ﬂamed
+with rusty brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1284" y="1625"/>
+	<Point x="1609" y="1625"/>
+	<Point x="1609" y="1663"/>
+	<Point x="1284" y="1663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Mediterranean.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1132" y="2120"/>
+	<Point x="1405" y="2120"/>
+	<Point x="1405" y="2158"/>
+	<Point x="1132" y="2158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>September, 1848.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20">
+	<Coords>
+	<Point x="1249" y="710"/>
+	<Point x="1249" y="1925"/>
+	<Point x="1275" y="1925"/>
+	<Point x="1275" y="710"/></Coords></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="359" y="1355"/>
+	<Point x="1236" y="1355"/>
+	<Point x="1236" y="1396"/>
+	<Point x="359" y="1396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.) vol. x. p. 33.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="440" y="1402"/>
+	<Point x="971" y="1402"/>
+	<Point x="971" y="1446"/>
+	<Point x="440" y="1446"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eadem. Cassis Zeylanica, Lamarck.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r37">
+	<Coords>
+	<Point x="572" y="1814"/>
+	<Point x="572" y="1837"/>
+	<Point x="1029" y="1837"/>
+	<Point x="1029" y="1814"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r38">
+	<Coords>
+	<Point x="1038" y="2007"/>
+	<Point x="1038" y="2021"/>
+	<Point x="1496" y="2021"/>
+	<Point x="1496" y="2007"/></Coords></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1283" y="1686"/>
+	<Point x="2167" y="1686"/>
+	<Point x="2167" y="1928"/>
+	<Point x="1283" y="1928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The common species of the Mediterranean, perfectly
+distinct from the C. inﬂata and others with which M.
+Kiener seems to confound it. Owing to its ventricose
+growth and the regularity with which it is spirally grooved
+throughout, it has somewhat the aspect of a Dolium.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1285" y="1428"/>
+	<Point x="2164" y="1428"/>
+	<Point x="2164" y="1474"/>
+	<Point x="1285" y="1474"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.) vol. x. p. 34.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="paragraph">
+	<Coords>
+	<Point x="1359" y="1480"/>
+	<Point x="1815" y="1480"/>
+	<Point x="1815" y="1616"/>
+	<Point x="1359" y="1616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum sulcosum, Born.
+Cassidea sulcosa, Bruguière.
+Buccinum undulatum, Gmelin.</Unicode></TextEquiv></TextRegion></Page></PcGts>

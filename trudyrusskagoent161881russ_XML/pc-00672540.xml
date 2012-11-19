@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672540">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:54:23</Created>
+	<LastChange>2012-02-10T09:55:08</LastChange></Metadata>
+	<Page imageFilename="00672540.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="937" y="123"/>
+	<Point x="1246" y="123"/>
+	<Point x="1246" y="191"/>
+	<Point x="937" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 344 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="214" y="253"/>
+	<Point x="1973" y="253"/>
+	<Point x="1973" y="432"/>
+	<Point x="214" y="432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de 300 kilomètres, avec sa rivière, ses lacs, ses marais bril-
+lants aux rayons du soleil, et son calme de mort.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="214" y="448"/>
+	<Point x="1974" y="448"/>
+	<Point x="1974" y="1199"/>
+	<Point x="214" y="1199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le lendemain, après avoir bu une dernière gorgée de l'eau
+pure des sources du Kounguesse, nous commençâmes l'ascen-
+sion de la passe nommée At-Ounkùre, en suivant un chemin
+taillé dans le roc par les Chinois. La passe d'At-Ounkùre est
+élevée de 10,500´. De là nous descendîmes sur Jouldousse,
+après avoir pris en route quelques Lépidoptères nouveaux, tels
+que: Scotosia Pulchrata etc. Le sol sur la crête était littera-
+lement jonché de fourreaux d'une Fumea indubitablement nou-
+velle, mais dont je ne réussis pas à élever des papillons.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="208" y="1212"/>
+	<Point x="1973" y="1212"/>
+	<Point x="1973" y="1960"/>
+	<Point x="208" y="1960"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le plateau Jouldousse, dont l'altitude absolue est de 7 à
+8000´, est situé à peu près entre le 53 et 56° long. Est,
+et est traversé dans son milieu par le 43° lat. Nord. Il est
+entouré de fort hautes montagnes, dépassant par endroits
+13,000´, dont une ramiﬁcation le divise longitudinalement, à
+l'Est, en Petit et Grand Jouldousse. C'est le Petit Jouldousse,
+que traverse de l'Est à l'Ouest la rivière Bagà-Jouldousse-Gôl,
+et les montagnes qui le limitent au Nord, que nous explo-
+râmes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="205" y="1978"/>
+	<Point x="1960" y="1978"/>
+	<Point x="1960" y="2323"/>
+	<Point x="205" y="2323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les lacs innombrables, les marécages, la conformation du
+sol, les nombreuses salines et l'absence complête d'arbres, etc.
+prouvent sufﬁsamment que ce plateau a servi, dans les temps
+passés, de fond, à un lac alpin immense.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="201" y="2337"/>
+	<Point x="1964" y="2337"/>
+	<Point x="1964" y="3105"/>
+	<Point x="201" y="3105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les dimensions de cette préface ne me permettant pas
+d'entrer dans des détails faunistiques, je me bornerai donc à
+nommer ici certains animaux des plus remarquables de ce pays,
+tels que: les moutons (Ovis Heinsii) et chèvres sauvages (Capra
+sibirica), l'ours du Tian-Chian (Ursus leuconyx), les loups,
+les chiens alpins, les renards (vulpes et melanotis), les sangliers,
+les marmottes (sp. ?), les Spermophilus Eversmannii ?, les Myo-
+des lagurus etc., qui nous permirent de faire d'intéressantes
+observations, que je compte faire connaître dans un ouvrage</Unicode></TextEquiv></TextRegion></Page></PcGts>

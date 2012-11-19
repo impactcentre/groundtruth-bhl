@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669189">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:35:39</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669189.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="582" y="228"/>
+	<Point x="1055" y="228"/>
+	<Point x="1055" y="302"/>
+	<Point x="582" y="302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. NASONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="519" y="428"/>
+	<Point x="1108" y="428"/>
+	<Point x="1108" y="524"/>
+	<Point x="519" y="524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="178" y="569"/>
+	<Point x="1447" y="569"/>
+	<Point x="1447" y="700"/>
+	<Point x="178" y="700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Des Nasons (Naseus, Commerson).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="108" y="739"/>
+	<Point x="1530" y="739"/>
+	<Point x="1530" y="1501"/>
+	<Point x="443" y="1504"/>
+	<Point x="104" y="1504"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La mer des Indes produit un genre de
+poissons très-voisin des acanthures, tant par
+les détails des formes extérieures que par leur
+anatomie; mais dont la queue est armée de
+boucliers porteurs de lames ﬁxes et tranchantes,
+et non pas d’épines ou de lancettes mobiles;
+leurs dents sont coniques et pointues, et sans
+dentelures, réunion de caractères qui les dis‐
+tingue amplement des genres voisins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="80" y="1506"/>
+	<Point x="706" y="1507"/>
+	<Point x="1514" y="1510"/>
+	<Point x="1515" y="2519"/>
+	<Point x="78" y="2514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les espèces que l’on a connues les premières
+et dont Willughby a déjà représenté une,
+ont sur le front une corne épaisse et proé‐
+minente. Cette circonstance est ce qui a décidé
+ceux qui en ont établi le genre dans le choix
+de leurs dénominations. Ainsi Commerson
+avait imaginé celle de naseus, que M. de La-
+cépède a francisée en nason1, et Bloch, dans
+son Système posthume2, avait pris celle de
+monoceros. Nous préférons la première, non-
+seulement comme la plus ancienne , mais
+comme la moins signiﬁcative, attendu qu’il</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="161" y="2600"/>
+	<Point x="1011" y="2600"/>
+	<Point x="1011" y="2680"/>
+	<Point x="161" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Tome III, p. 106. — 2. Page 180.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1386" y="204"/>
+	<Point x="1386" y="291"/>
+	<Point x="1520" y="291"/>
+	<Point x="1520" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>257</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="226" y="2688"/>
+	<Point x="226" y="2744"/>
+	<Point x="326" y="2744"/>
+	<Point x="326" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1194" y="2686"/>
+	<Point x="1194" y="2764"/>
+	<Point x="1281" y="2764"/>
+	<Point x="1281" y="2686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>17</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="97" y="2542"/>
+	<Point x="97" y="2586"/>
+	<Point x="1523" y="2586"/>
+	<Point x="1523" y="2542"/></Coords></SeparatorRegion></Page></PcGts>

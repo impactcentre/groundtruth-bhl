@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668177">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T23:10:43</Created>
+	<LastChange>2012-02-10T09:52:42</LastChange></Metadata>
+	<Page imageFilename="00668177.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="883" y="214"/>
+	<Point x="1382" y="214"/>
+	<Point x="1382" y="292"/>
+	<Point x="883" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE HOODED CROW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1971" y="237"/>
+	<Point x="2052" y="237"/>
+	<Point x="2052" y="291"/>
+	<Point x="1971" y="291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>177</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="196" y="335"/>
+	<Point x="2066" y="347"/>
+	<Point x="2068" y="1032"/>
+	<Point x="186" y="1038"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>important; as showing how little the agency of man can aﬀect the extinction of
+species, so far as it is directed merely against birds, their nests and eggs:—
+“Finally, I would add one further remark, as regards the position of these Crows
+in the economy of nature. Everywhere the protection of birds creates the greatest
+interest, and man is always put in the foreground as the greatest enemy of the
+feathered creation. Now, although the destruction of song-birds and other small
+species, as it appears to be carried on in Italy, ought to be resisted by all possible
+means; nevertheless all that is oﬀered for sale, in the way of eggs and small
+birds, in Italy during one complete migration period, would scarcely equal the
+quantity of eggs and nestlings destroyed by the Hooded Crows during one single
+summer day.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="187" y="1040"/>
+	<Point x="2067" y="1037"/>
+	<Point x="2076" y="2017"/>
+	<Point x="197" y="2033"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“It is perhaps true that the number of individuals of Hooded Crows becomes
+nowhere apparent in such prepondering quantity as in Heligoland, in consequence
+of which their destructive inﬂuence is under-estimated; but if one had the oppor‐
+tunity of seeing the hosts of them which travel past during two months of
+autumn, in uninterrupted sequence, and return in the spring, as is the case here,
+where no tree, wood, or hill, impedes the view; and if one at the same time
+remembers that all these fellows, impudent as they are cunning, do nothing else
+during the long summer days, from early dawn to sunset, but plunder the nests
+of other birds, from the Lark to the Eagle (Dresser), one would indeed wonder
+that there are still any birds, other than Hooded Crows, left in the world. By
+all means let us nurture and protect our little bird-friends in every possible
+manner, more especially by abstaining from destroying any small shrubbery or
+bush, the sole use of which may, perhaps, be that it aﬀords some small songster
+a hidden nook for its nest; above everything, however, let us aim at compassing
+the destruction of Hooded Crows unsparingly, year in year out, by all the means
+placed at our command.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="200" y="2042"/>
+	<Point x="197" y="2035"/>
+	<Point x="2078" y="2021"/>
+	<Point x="2078" y="2328"/>
+	<Point x="1372" y="2334"/>
+	<Point x="197" y="2341"/>
+	<Point x="197" y="2337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The nidiﬁcation of this species is similar to that of the Carrion-Crow; in
+Ireland it commences about the middle of March, but in Scotland later; the nest
+does not diﬀer from that of C. corone, and is similarly situated, although it has
+been found built on the roofs of huts, according to Gray. The eggs are precisely
+like those of the Carrion-Crow in all their varieties.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="198" y="2343"/>
+	<Point x="2078" y="2333"/>
+	<Point x="2078" y="2468"/>
+	<Point x="199" y="2467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The cries of this species and of C. corone are indistinguishable, and the food
+is the same; but the Hooded Crow is bolder and even more destructive.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="199" y="2471"/>
+	<Point x="2076" y="2471"/>
+	<Point x="2074" y="2720"/>
+	<Point x="202" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dixon is the only Ornithologist who seems to have a good word to say for
+this Crow; he says:—“I must confess that, in spite of the dark tales of plunder
+and his questionable mode of getting a livelihood, the Hooded Crow is a favourite
+bird of mine, and his habits and regular movements never fail to interest me.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="313" y="2740"/>
+	<Point x="437" y="2740"/>
+	<Point x="437" y="2772"/>
+	<Point x="313" y="2772"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1735" y="2737"/>
+	<Point x="1792" y="2737"/>
+	<Point x="1792" y="2774"/>
+	<Point x="1735" y="2774"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Z2</Unicode></TextEquiv></TextRegion></Page></PcGts>

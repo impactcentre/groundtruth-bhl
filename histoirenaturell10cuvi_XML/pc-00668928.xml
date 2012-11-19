@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668928">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T04:33:38</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668928.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r13" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r20" index="4"/>
+	<RegionRefIndexed regionRef="r27" index="5"/>
+	<RegionRefIndexed regionRef="r31" index="6"/>
+	<RegionRefIndexed regionRef="r43" index="7"/>
+	<RegionRefIndexed regionRef="r23" index="8"/>
+	<RegionRefIndexed regionRef="r47" index="9"/>
+	<RegionRefIndexed regionRef="r51" index="10"/>
+	<RegionRefIndexed regionRef="r55" index="11"/>
+	<RegionRefIndexed regionRef="r59" index="12"/>
+	<RegionRefIndexed regionRef="r63" index="13"/>
+	<RegionRefIndexed regionRef="r67" index="14"/>
+	<RegionRefIndexed regionRef="r71" index="15"/>
+	<RegionRefIndexed regionRef="r73" index="16"/>
+	<RegionRefIndexed regionRef="r17" index="17"/>
+	<RegionRefIndexed regionRef="r75" index="18"/>
+	<RegionRefIndexed regionRef="r79" index="19"/>
+	<RegionRefIndexed regionRef="r83" index="20"/>
+	<RegionRefIndexed regionRef="r24" index="21"/>
+	<RegionRefIndexed regionRef="r85" index="22"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="346" y="240"/>
+	<Point x="415" y="240"/>
+	<Point x="415" y="279"/>
+	<Point x="346" y="279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>XX</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="954" y="238"/>
+	<Point x="1114" y="238"/>
+	<Point x="1114" y="278"/>
+	<Point x="954" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TABLE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="815" y="391"/>
+	<Point x="1259" y="391"/>
+	<Point x="1259" y="440"/>
+	<Point x="815" y="440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="818" y="1976"/>
+	<Point x="1245" y="1976"/>
+	<Point x="1245" y="2025"/>
+	<Point x="818" y="2025"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1631" y="1003"/>
+	<Point x="1720" y="1003"/>
+	<Point x="1720" y="1049"/>
+	<Point x="1631" y="1049"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>291</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1623" y="2484"/>
+	<Point x="1715" y="2484"/>
+	<Point x="1715" y="2528"/>
+	<Point x="1623" y="2528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>292</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1504" y="317"/>
+	<Point x="1616" y="317"/>
+	<Point x="1616" y="359"/>
+	<Point x="1504" y="359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pages.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1625" y="315"/>
+	<Point x="1739" y="315"/>
+	<Point x="1738" y="353"/>
+	<Point x="1625" y="355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Planch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="TOC-entry">
+	<Coords>
+	<Point x="333" y="494"/>
+	<Point x="1605" y="494"/>
+	<Point x="1605" y="569"/>
+	<Point x="333" y="569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES NASONS (NASEUS, Comm.)........... 257</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="TOC-entry">
+	<Coords>
+	<Point x="333" y="595"/>
+	<Point x="1605" y="595"/>
+	<Point x="1605" y="670"/>
+	<Point x="333" y="670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason licornet (Naseus fronticornis, Comm.). 259</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="TOC-entry">
+	<Coords>
+	<Point x="330" y="676"/>
+	<Point x="1605" y="676"/>
+	<Point x="1605" y="823"/>
+	<Point x="330" y="823"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason à épines courtes (Naseus brachycen-
+tron, nob.)........................ 275</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="TOC-entry">
+	<Coords>
+	<Point x="333" y="831"/>
+	<Point x="1604" y="831"/>
+	<Point x="1601" y="899"/>
+	<Point x="333" y="899"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason à trois boucliers (Naseus tripeltis, nob.). 276</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="TOC-entry">
+	<Coords>
+	<Point x="331" y="905"/>
+	<Point x="1600" y="908"/>
+	<Point x="1600" y="1048"/>
+	<Point x="331" y="1048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason à museau court (Naseus brevirostris,
+nob.)............................ 277</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="TOC-entry">
+	<Coords>
+	<Point x="323" y="1054"/>
+	<Point x="1600" y="1054"/>
+	<Point x="1601" y="1123"/>
+	<Point x="323" y="1118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason bordé (Naseus marginatus, nob.)... 280</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="TOC-entry">
+	<Coords>
+	<Point x="327" y="1131"/>
+	<Point x="1601" y="1131"/>
+	<Point x="1601" y="1276"/>
+	<Point x="322" y="1276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason bariolé (Naseus lituratus, nob.; Har-
+purus lituratus, Forster).............. 282</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="TOC-entry">
+	<Coords>
+	<Point x="323" y="1284"/>
+	<Point x="1612" y="1284"/>
+	<Point x="1613" y="1352"/>
+	<Point x="325" y="1350"/>
+	<Point x="325" y="1306"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason carolin (Naseus Carolinarum, nob.). 287</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="TOC-entry">
+	<Coords>
+	<Point x="330" y="1359"/>
+	<Point x="1604" y="1359"/>
+	<Point x="1604" y="1498"/>
+	<Point x="330" y="1498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason olivâtre (Naseus olivaceus, nob.; Chæ-
+todon olivaceus, Sol.)................ 288</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="TOC-entry">
+	<Coords>
+	<Point x="333" y="1506"/>
+	<Point x="1600" y="1506"/>
+	<Point x="1602" y="1572"/>
+	<Point x="333" y="1571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason pointillé (Naseus punctulatus, nob.). 289</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="TOC-entry">
+	<Coords>
+	<Point x="333" y="1584"/>
+	<Point x="1604" y="1584"/>
+	<Point x="1603" y="1719"/>
+	<Point x="336" y="1720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason loupe (Naseus tuber, Comm.; Acan-
+thurus nasus, Shaw)................. 290</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="TOC-entry">
+	<Coords>
+	<Point x="333" y="1737"/>
+	<Point x="1605" y="1735"/>
+	<Point x="1606" y="1802"/>
+	<Point x="333" y="1802"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason de Tonga (Naseus tonganus, Q. et G.) 292</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="TOC-entry">
+	<Coords>
+	<Point x="333" y="1806"/>
+	<Point x="1604" y="1812"/>
+	<Point x="1600" y="1881"/>
+	<Point x="330" y="1881"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Nason de Vlaming (Naseus Vlamingii, nob.) 293</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r75" type="TOC-entry">
+	<Coords>
+	<Point x="324" y="2077"/>
+	<Point x="1602" y="2077"/>
+	<Point x="1602" y="2247"/>
+	<Point x="324" y="2247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES PRIONURES, DES AXINURES, DES PRIODONS ET
+DES KÉRIS......................... 295</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r79" type="TOC-entry">
+	<Coords>
+	<Point x="323" y="2276"/>
+	<Point x="1600" y="2276"/>
+	<Point x="1600" y="2351"/>
+	<Point x="323" y="2351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES PRIONURES....................... lbid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r83" type="TOC-entry">
+	<Coords>
+	<Point x="320" y="2376"/>
+	<Point x="1600" y="2376"/>
+	<Point x="1600" y="2524"/>
+	<Point x="320" y="2524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Prionure microlépidote (Prionurus microlepi-
+dotus, Lacép.)..................... Ibid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r85" type="TOC-entry">
+	<Coords>
+	<Point x="324" y="2536"/>
+	<Point x="1594" y="2536"/>
+	<Point x="1594" y="2688"/>
+	<Point x="324" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Prionure lancette (Prionurus scalprum, nob.;
+Acanthurus scalprum, Langsdorff)...... 298</Unicode></TextEquiv></TextRegion></Page></PcGts>

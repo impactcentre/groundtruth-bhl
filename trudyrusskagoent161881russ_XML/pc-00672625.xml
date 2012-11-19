@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672625">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T04:07:44</Created>
+	<LastChange>2012-02-10T09:55:24</LastChange></Metadata>
+	<Page imageFilename="00672625.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="795" y="159"/>
+	<Point x="1123" y="159"/>
+	<Point x="1123" y="245"/>
+	<Point x="795" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 429 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="88" y="285"/>
+	<Point x="1833" y="285"/>
+	<Point x="1833" y="554"/>
+	<Point x="88" y="554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Iphis du Tian-Chian, que nous trouvâmes, entre 4000
+et 7000' d'altitude, le long du Kounguesse, en Juin et Juillet,
+constituent une race bien constante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="83" y="564"/>
+	<Point x="1826" y="564"/>
+	<Point x="1826" y="819"/>
+	<Point x="83" y="819"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle diﬀère du type: en dessus, par la couleur du fond
+des ailes d'un brun-noirâtre; en dessous, par un gris-brunâtre,
+qui remplace le fauve du type.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="78" y="830"/>
+	<Point x="1833" y="830"/>
+	<Point x="1833" y="1159"/>
+	<Point x="78" y="1159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A la place des points ocellés du type, nous ne trouvons,
+dans cette variété, que de simples points d'un blanc sale, (ou
+jaunâtre), centrés de blanc pur, (argenté), chez les ♀♀ seu-
+lement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="188" y="1169"/>
+	<Point x="1830" y="1169"/>
+	<Point x="1830" y="1259"/>
+	<Point x="188" y="1259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ♀♀ seules, possèdent la série complête de ces points.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="73" y="1271"/>
+	<Point x="1828" y="1271"/>
+	<Point x="1828" y="1688"/>
+	<Point x="73" y="1688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La partie basilaire des ailes postérieures est hirsée, en-
+dessous, de poils gris-verdâtres comme chez le type. La raie
+couleur de plomb et la raie marginale ocracée (ou ferrugi-
+neuse) ne sont indiquées que sur quelques individus, ♀♀ pour
+la plupart.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="69" y="1702"/>
+	<Point x="1840" y="1702"/>
+	<Point x="1840" y="2121"/>
+	<Point x="69" y="2121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La bande blanche n'est jamais continue: elle est indiquée
+seulement par deux ou trois taches blanches, ce qui du reste
+a souvent lieu chez le type d'Europe. Les antérieures sont
+traversées sur le revers, au deux tiers de leur longueur, par
+une série eﬀacée de taches blanchâtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="292" y="2200"/>
+	<Point x="1600" y="2200"/>
+	<Point x="1600" y="2316"/>
+	<Point x="292" y="2316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>103. C. Pamphilus L. et var. Lyllus Esp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="76" y="2371"/>
+	<Point x="1821" y="2371"/>
+	<Point x="1821" y="2633"/>
+	<Point x="76" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kouldjà est déﬁlé de Talki, en Avril et Mai: espèce très
+commune. Tous les individus du printemps appartiennent au
+type Pamphilus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="80" y="2645"/>
+	<Point x="1828" y="2645"/>
+	<Point x="1828" y="2819"/>
+	<Point x="80" y="2819"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En Juillet et Août, dans la vallée du Kounguesse, volait
+la II génération sous forme de var. Lyllus Esp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="83" y="2823"/>
+	<Point x="1828" y="2823"/>
+	<Point x="1828" y="3078"/>
+	<Point x="83" y="3078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Lyllus de ces parages sont très caractéristiques, (les
+♀♀ surtout), par la couleur pâle des ailes postérieures, en
+dessous.</Unicode></TextEquiv></TextRegion></Page></PcGts>

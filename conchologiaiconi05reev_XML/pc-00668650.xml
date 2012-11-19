@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668650">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:16:50</Created>
+	<LastChange>2012-02-10T10:29:28</LastChange></Metadata>
+	<Page imageFilename="00668650.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1664" y="104"/>
+	<Point x="2118" y="104"/>
+	<Point x="2118" y="176"/>
+	<Point x="1664" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Achatina, Pl.V.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords>
+	<Point x="805" y="218"/>
+	<Point x="805" y="987"/>
+	<Point x="1303" y="987"/>
+	<Point x="1303" y="218"/></Coords></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords>
+	<Point x="1705" y="994"/>
+	<Point x="1705" y="1959"/>
+	<Point x="2144" y="1959"/>
+	<Point x="2144" y="994"/></Coords></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords>
+	<Point x="56" y="896"/>
+	<Point x="56" y="2063"/>
+	<Point x="793" y="2063"/>
+	<Point x="793" y="896"/></Coords></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords>
+	<Point x="967" y="1488"/>
+	<Point x="1028" y="1167"/>
+	<Point x="1064" y="1101"/>
+	<Point x="1100" y="1045"/>
+	<Point x="1135" y="1039"/>
+	<Point x="1228" y="1081"/>
+	<Point x="1401" y="1335"/>
+	<Point x="1500" y="1471"/>
+	<Point x="1530" y="1586"/>
+	<Point x="1635" y="1737"/>
+	<Point x="1675" y="1888"/>
+	<Point x="1688" y="2033"/>
+	<Point x="1635" y="2271"/>
+	<Point x="1475" y="2477"/>
+	<Point x="1341" y="2590"/>
+	<Point x="1316" y="2654"/>
+	<Point x="1264" y="2709"/>
+	<Point x="1150" y="2739"/>
+	<Point x="994" y="2728"/>
+	<Point x="779" y="2584"/>
+	<Point x="730" y="2356"/>
+	<Point x="756" y="2166"/>
+	<Point x="809" y="2067"/>
+	<Point x="877" y="1941"/>
+	<Point x="922" y="1873"/>
+	<Point x="905" y="1777"/>
+	<Point x="920" y="1618"/>
+	<Point x="964" y="1507"/>
+	<Point x="971" y="1481"/></Coords></ImageRegion>
+	<TextRegion id="r7" type="caption">
+	<Coords>
+	<Point x="1098" y="997"/>
+	<Point x="1098" y="1032"/>
+	<Point x="1180" y="1032"/>
+	<Point x="1180" y="997"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="caption">
+	<Coords>
+	<Point x="476" y="2074"/>
+	<Point x="476" y="2110"/>
+	<Point x="562" y="2110"/>
+	<Point x="562" y="2074"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="caption">
+	<Coords>
+	<Point x="1036" y="2756"/>
+	<Point x="1036" y="2795"/>
+	<Point x="1100" y="2795"/>
+	<Point x="1100" y="2756"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>17.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1925" y="2820"/>
+	<Point x="1925" y="2859"/>
+	<Point x="2132" y="2859"/>
+	<Point x="2132" y="2820"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R.B. &amp; R. imp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="caption">
+	<Coords>
+	<Point x="1916" y="1965"/>
+	<Point x="1916" y="2009"/>
+	<Point x="1984" y="2009"/>
+	<Point x="1984" y="1965"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="272" y="2863"/>
+	<Point x="272" y="2916"/>
+	<Point x="533" y="2916"/>
+	<Point x="533" y="2863"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G. B. S. del et lith.</Unicode></TextEquiv></TextRegion></Page></PcGts>

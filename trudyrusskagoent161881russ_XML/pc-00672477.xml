@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672477">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:41:42</Created>
+	<LastChange>2012-02-10T09:54:58</LastChange></Metadata>
+	<Page imageFilename="00672477.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r14" index="6"/>
+	<RegionRefIndexed regionRef="r16" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="760" y="176"/>
+	<Point x="1069" y="176"/>
+	<Point x="1069" y="251"/>
+	<Point x="760" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 281 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="49" y="298"/>
+	<Point x="1774" y="298"/>
+	<Point x="1774" y="1060"/>
+	<Point x="49" y="1060"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>basi breviter sed distincte incrassata; genis distincte nigro-pilosis;
+palpis ﬂavis; abdomine lateribus levissime grisescente micante et
+in disco apiceque segmentorum intermediorum macrochetis prae-
+dito; genitalia porrecta; alis subinfuscatis, cellula prima pos-
+tica apice subocclusa; nervis transversis subrectis; nervo quinto
+longitud. angulatim cubitato; nervo secundo transverso
+aeque distante a primo et a curvatura quinti longit.
+spina costae distincta; pedibus nigris; uncis pulvillisque longis.
+Long. 3‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="157" y="1075"/>
+	<Point x="1539" y="1075"/>
+	<Point x="1539" y="1158"/>
+	<Point x="157" y="1158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Rossia occid. (Mohilevia ad Boristhenem).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="614" y="1260"/>
+	<Point x="1208" y="1260"/>
+	<Point x="1208" y="1348"/>
+	<Point x="614" y="1348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tachinella nv. gen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="46" y="1371"/>
+	<Point x="1782" y="1371"/>
+	<Point x="1782" y="2532"/>
+	<Point x="46" y="2532"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Antennae contra medium oculorum insertae, non longae,
+articulo ultimo quam secundo duplo aut triplo longiore; arista
+nuda basi incrassata, articulis basalibus brevissimis; genae an-
+gustae, nudae; frons non prominens in faemina lata quadrifa-
+riam setosa; oculi nudi; scutellum apice setis duabus parvis
+decussatis instructum; abdomen conicum in dorso macrochetis
+marginalibus et discoidalibus praeditum; alae cellula prima
+postica prope apicem alae occlusa, sed non petiolata, nervis
+longit. secundo toto et quarto basi spinulosis; nervo
+longit. quinto angulatim cubitato et supra cubitum subrecto,
+angulo obtuso; cubito paullo longius a margine alae sito, quam
+a nervo secundo transverso; nervo transverso secundo subrecto
+et magis distante a primo, quam a curvatura quinti longit. spi-
+nula costae nulla.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="474" y="2635"/>
+	<Point x="1357" y="2635"/>
+	<Point x="1357" y="2728"/>
+	<Point x="474" y="2728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tachinella Meigeni ♀ nv. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="53" y="2958"/>
+	<Point x="1789" y="2958"/>
+	<Point x="1789" y="3133"/>
+	<Point x="53" y="3133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nigra, nitida; antennis vittaque frontali atris, palpis fus-
+cis; genis argenteo micantibus; thorace lateribus maculis irre-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="249" y="2749"/>
+	<Point x="1644" y="2749"/>
+	<Point x="1644" y="2816"/>
+	<Point x="249" y="2816"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>? ♂ Tachina haematodes Meigen, Syst. Besch. T. IV, p. 267.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="247" y="2822"/>
+	<Point x="1647" y="2822"/>
+	<Point x="1647" y="2881"/>
+	<Point x="247" y="2881"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>? ♀ Tachina nigripennis Meigen, Syst. Besch. T. IV, p. 267.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="249" y="2882"/>
+	<Point x="1644" y="2882"/>
+	<Point x="1644" y="2944"/>
+	<Point x="249" y="2944"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>? Macquartia id. Sсhiner, Dipt. austr. T. I, p. 533.</Unicode></TextEquiv></TextRegion></Page></PcGts>

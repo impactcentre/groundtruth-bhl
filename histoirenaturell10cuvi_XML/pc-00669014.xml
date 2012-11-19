@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669014">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:14:02</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669014.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="448" y="277"/>
+	<Point x="1802" y="277"/>
+	<Point x="1808" y="428"/>
+	<Point x="1124" y="434"/>
+	<Point x="1035" y="432"/>
+	<Point x="967" y="443"/>
+	<Point x="783" y="429"/>
+	<Point x="654" y="438"/>
+	<Point x="589" y="434"/>
+	<Point x="450" y="436"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ressemblent à ceux que nous avons observés sur
+notre première espèce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="463" y="444"/>
+	<Point x="549" y="442"/>
+	<Point x="597" y="438"/>
+	<Point x="671" y="446"/>
+	<Point x="735" y="440"/>
+	<Point x="798" y="440"/>
+	<Point x="992" y="449"/>
+	<Point x="1022" y="440"/>
+	<Point x="1490" y="438"/>
+	<Point x="1802" y="439"/>
+	<Point x="1801" y="653"/>
+	<Point x="664" y="663"/>
+	<Point x="463" y="659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’intestin me paraît un peu plus long; le péri‐
+toine est moins brillant et a quelques points noi‐
+râtres épars.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="453" y="667"/>
+	<Point x="970" y="665"/>
+	<Point x="1797" y="669"/>
+	<Point x="1800" y="1480"/>
+	<Point x="1632" y="1490"/>
+	<Point x="1376" y="1476"/>
+	<Point x="1167" y="1472"/>
+	<Point x="1150" y="1488"/>
+	<Point x="1149" y="1489"/>
+	<Point x="1149" y="1490"/>
+	<Point x="1112" y="1491"/>
+	<Point x="1086" y="1477"/>
+	<Point x="453" y="1479"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le squelette de cet equula est remarquable par
+la fosse profonde, creusée entre les orbites, et dans
+laquelle remontent les pédicules des intermaxillaires
+lors de la rétraction de la bouche, fosse dont les
+côtés sont recouverts dans le bas par des proémi‐
+nences rentrantes des frontaux antérieurs; et par la
+pointe élevée que la crête mitoyenne du crâne en‐
+voie pour toucher à l’épine couchée du deuxième
+épineux du dos; en avant de cet interépineux en
+est seulement un, mais très-grêle : tous ces os ont
+des lames antérieures et postérieures très-larges.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="450" y="1487"/>
+	<Point x="780" y="1485"/>
+	<Point x="1075" y="1492"/>
+	<Point x="1116" y="1494"/>
+	<Point x="1805" y="1494"/>
+	<Point x="1812" y="2485"/>
+	<Point x="1029" y="2481"/>
+	<Point x="981" y="2481"/>
+	<Point x="440" y="2477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a dix vertèbres abdominales et quatorze cau‐
+dales; les côtes sont grêles, mais embrassent toute
+la hauteur de l’abdomen, et viennent en partie se
+joindre à l’apophyse que le premier interépineux
+de l’anale envoie en avant et qui se sent à l’extérieur.
+Les apophyses transverses des deux dernières ver‐
+tèbres abdominales se dilatent et se soudent de ma‐
+nière à former à l’arrière de l’abdomen une espèce
+de bassin qui reçoit la partie postérieure des viscères.
+Le caracoïdien descend aussi jusqu’au bord inférieur
+de l’abdomen; le radial n’a qu’un très-petit trou;
+le cubital est assez alongé et se joint presque sans
+échancrure au bord postérieur de l’huméral.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="390" y="171"/>
+	<Point x="494" y="171"/>
+	<Point x="494" y="252"/>
+	<Point x="390" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>82</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="735" y="164"/>
+	<Point x="1429" y="164"/>
+	<Point x="1429" y="267"/>
+	<Point x="735" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

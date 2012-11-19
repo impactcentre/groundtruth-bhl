@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668235">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T15:17:27</Created>
+	<LastChange>2012-02-10T09:52:46</LastChange></Metadata>
+	<Page imageFilename="00668235.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1017" y="278"/>
+	<Point x="1254" y="278"/>
+	<Point x="1254" y="339"/>
+	<Point x="1017" y="339"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>APPENDIX</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1953" y="273"/>
+	<Point x="2064" y="273"/>
+	<Point x="2064" y="344"/>
+	<Point x="1953" y="344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>211</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="205" y="398"/>
+	<Point x="2054" y="398"/>
+	<Point x="2054" y="575"/>
+	<Point x="205" y="575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Tree-Pipit occurs at Fair Isle, Shetlands, as a bird of spring and autumn
+passage, according to W. E. Clarke; it has been observed on Scilly in the
+autumn.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="195" y="590"/>
+	<Point x="2056" y="590"/>
+	<Point x="2056" y="834"/>
+	<Point x="195" y="834"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A male of the Red-throated Pipit was shot in Achill, co. Mayo, on May 26th,
+1895; a second in co. Donegal, on August 9th, 1898, but the latter was considered
+doubtful; a young female was obtained at Ninﬁeld (Sussex), on November 26th,
+1901.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="193" y="839"/>
+	<Point x="2058" y="839"/>
+	<Point x="2058" y="1147"/>
+	<Point x="193" y="1147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In 1903 four Tawny Pipits were shot in September, at Rye Harbour (Sussex),
+and a pair on the August following; another was shot, on the following month
+at Bexhill; a female was caught at Yarmouth, in October 1897, and a male at
+Bodmin (Cornwall), in September 1899. Richard’s Pipit has also been met with
+in Cornwall, North Wales, Scilly and Kentish Knock.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="192" y="1154"/>
+	<Point x="2062" y="1154"/>
+	<Point x="2062" y="1402"/>
+	<Point x="192" y="1402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A good many occurrences of the Water-Pipit have been recorded:—one from
+Freshwater (Isle of Wight), in September 1865; one in Scilly, May 1903; one
+at Milcomb (Oxford), March 1903; one in Norfolk, January 1905; one at
+Littlestone (Kent), 1906, and altogether over a score in Sussex.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="1010" y="2089"/>
+	<Point x="1260" y="2089"/>
+	<Point x="1260" y="2116"/>
+	<Point x="1010" y="2116"/></Coords></SeparatorRegion></Page></PcGts>

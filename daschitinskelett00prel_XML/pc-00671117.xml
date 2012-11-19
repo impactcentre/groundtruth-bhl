@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671117">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T18:51:04</Created>
+	<LastChange>2012-03-12T14:34:05</LastChange></Metadata>
+	<Page imageFilename="00671117.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r17" index="8"/>
+	<RegionRefIndexed regionRef="r21" index="9"/>
+	<RegionRefIndexed regionRef="r23" index="10"/>
+	<RegionRefIndexed regionRef="r25" index="11"/>
+	<RegionRefIndexed regionRef="r42" index="12"/>
+	<RegionRefIndexed regionRef="r46" index="13"/>
+	<RegionRefIndexed regionRef="r33" index="14"/>
+	<RegionRefIndexed regionRef="r50" index="15"/>
+	<RegionRefIndexed regionRef="r52" index="16"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1022" y="973"/>
+	<Point x="1540" y="976"/>
+	<Point x="1539" y="1069"/>
+	<Point x="1022" y="1065"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tafelerklärung.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1175" y="1148"/>
+	<Point x="1380" y="1148"/>
+	<Point x="1380" y="1208"/>
+	<Point x="1176" y="1211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tafel I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="238" y="1235"/>
+	<Point x="1030" y="1235"/>
+	<Point x="1029" y="1297"/>
+	<Point x="239" y="1298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 1. Ventralansicht des Tentorium.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="238" y="1301"/>
+	<Point x="1017" y="1304"/>
+	<Point x="1018" y="1345"/>
+	<Point x="238" y="1351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 2. Lateralansicht des Tentorium.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="239" y="1354"/>
+	<Point x="696" y="1353"/>
+	<Point x="1152" y="1349"/>
+	<Point x="1151" y="1400"/>
+	<Point x="241" y="1404"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 3. Dorsalansicht des isolierten Labrum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="242" y="1407"/>
+	<Point x="1132" y="1403"/>
+	<Point x="1131" y="1454"/>
+	<Point x="240" y="1457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 4. Dorsalansicht der rechten Mandibel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="242" y="1459"/>
+	<Point x="1075" y="1459"/>
+	<Point x="1077" y="1507"/>
+	<Point x="241" y="1511"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 5. Dorsalansicht der linken Maxille.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="241" y="1514"/>
+	<Point x="967" y="1512"/>
+	<Point x="968" y="1558"/>
+	<Point x="241" y="1564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 6. Ventralansicht des Labium.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="242" y="1567"/>
+	<Point x="1073" y="1565"/>
+	<Point x="1078" y="1614"/>
+	<Point x="241" y="1617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 7 a—c. Schnittserie durch die Gula.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="1172" y="1790"/>
+	<Point x="1390" y="1791"/>
+	<Point x="1391" y="1849"/>
+	<Point x="1170" y="1848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tafel II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="1154" y="2254"/>
+	<Point x="1404" y="2254"/>
+	<Point x="1404" y="2334"/>
+	<Point x="1154" y="2334"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tafel III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="1162" y="2709"/>
+	<Point x="1396" y="2708"/>
+	<Point x="1397" y="2773"/>
+	<Point x="1164" y="2773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tafel IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="223" y="1867"/>
+	<Point x="1192" y="1867"/>
+	<Point x="1192" y="1912"/>
+	<Point x="1194" y="1935"/>
+	<Point x="884" y="1937"/>
+	<Point x="875" y="1938"/>
+	<Point x="227" y="1938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 8. Dorsalansicht von Kopf und Thorax.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="225" y="1941"/>
+	<Point x="1195" y="1941"/>
+	<Point x="1195" y="1991"/>
+	<Point x="221" y="1992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 9. Lateralansicht von Kopf und Thorax.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="220" y="1995"/>
+	<Point x="1201" y="1995"/>
+	<Point x="1201" y="2059"/>
+	<Point x="225" y="2058"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 10. Ventralansicht von Kopf und Thorax.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="214" y="2351"/>
+	<Point x="2302" y="2347"/>
+	<Point x="2302" y="2416"/>
+	<Point x="1046" y="2409"/>
+	<Point x="873" y="2411"/>
+	<Point x="485" y="2410"/>
+	<Point x="336" y="2410"/>
+	<Point x="319" y="2411"/>
+	<Point x="213" y="2412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 11. Dorsalansicht von Kopf und Thorax (Umrißzeichnung mit Berücksichtigung des Endoskelettes).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="209" y="2806"/>
+	<Point x="1684" y="2803"/>
+	<Point x="1682" y="2864"/>
+	<Point x="211" y="2864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 14. Lateralansicht des Abdomens vom ersten bis vierten Segment.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="215" y="2414"/>
+	<Point x="1189" y="2413"/>
+	<Point x="1188" y="2465"/>
+	<Point x="329" y="2461"/>
+	<Point x="310" y="2466"/>
+	<Point x="216" y="2466"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 12. Lateralansicht von Kopf und Thorax.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="215" y="2469"/>
+	<Point x="314" y="2470"/>
+	<Point x="330" y="2465"/>
+	<Point x="934" y="2468"/>
+	<Point x="1189" y="2468"/>
+	<Point x="1191" y="2506"/>
+	<Point x="1190" y="2507"/>
+	<Point x="1191" y="2536"/>
+	<Point x="1038" y="2537"/>
+	<Point x="1038" y="2536"/>
+	<Point x="626" y="2536"/>
+	<Point x="626" y="2535"/>
+	<Point x="495" y="2536"/>
+	<Point x="215" y="2535"/>
+	<Point x="216" y="2535"/>
+	<Point x="216" y="2469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 13. Ventralansicht von Kopf und Thorax.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="211" y="2869"/>
+	<Point x="1691" y="2867"/>
+	<Point x="1690" y="2916"/>
+	<Point x="313" y="2912"/>
+	<Point x="303" y="2918"/>
+	<Point x="297" y="2919"/>
+	<Point x="215" y="2918"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 15. Lateralansicht des Abdomens vom fünften bis achten Segment.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="216" y="2922"/>
+	<Point x="306" y="2922"/>
+	<Point x="315" y="2916"/>
+	<Point x="1736" y="2919"/>
+	<Point x="1731" y="2974"/>
+	<Point x="217" y="2973"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 16. Lateralansicht des Abdomens vom neunten bis zwölften Segment.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r28">
+	<Coords>
+	<Point x="1196" y="1088"/>
+	<Point x="1196" y="1115"/>
+	<Point x="1381" y="1115"/>
+	<Point x="1381" y="1088"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r29">
+	<Coords>
+	<Point x="1140" y="1675"/>
+	<Point x="1140" y="1706"/>
+	<Point x="1426" y="1706"/>
+	<Point x="1426" y="1675"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r30">
+	<Coords>
+	<Point x="1145" y="2145"/>
+	<Point x="1145" y="2175"/>
+	<Point x="1415" y="2175"/>
+	<Point x="1415" y="2145"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r31">
+	<Coords>
+	<Point x="1100" y="2601"/>
+	<Point x="1100" y="2625"/>
+	<Point x="1390" y="2625"/>
+	<Point x="1390" y="2601"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r32">
+	<Coords>
+	<Point x="1138" y="3073"/>
+	<Point x="1138" y="3098"/>
+	<Point x="1426" y="3098"/>
+	<Point x="1426" y="3073"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672452">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:37:55</Created>
+	<LastChange>2012-02-10T09:54:55</LastChange></Metadata>
+	<Page imageFilename="00672452.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/>
+	<RegionRefIndexed regionRef="r3" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r12" index="9"/>
+	<RegionRefIndexed regionRef="r24" index="10"/>
+	<RegionRefIndexed regionRef="r13" index="11"/>
+	<RegionRefIndexed regionRef="r30" index="12"/>
+	<RegionRefIndexed regionRef="r17" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="930" y="133"/>
+	<Point x="1254" y="133"/>
+	<Point x="1254" y="202"/>
+	<Point x="930" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 242 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="476" y="309"/>
+	<Point x="840" y="309"/>
+	<Point x="840" y="385"/>
+	<Point x="476" y="385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Perochraria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="1359" y="311"/>
+	<Point x="1690" y="311"/>
+	<Point x="1690" y="380"/>
+	<Point x="1359" y="380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dohlmanni.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="240" y="452"/>
+	<Point x="1073" y="452"/>
+	<Point x="1073" y="680"/>
+	<Point x="240" y="680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel: Querstreif 1, 2 und
+3 fast gleich deut-
+lich ausgeprägt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="242" y="1007"/>
+	<Point x="1085" y="1007"/>
+	<Point x="1085" y="1235"/>
+	<Point x="242" y="1235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der 3te Querstreif schwach ge-
+zähnt, macht nur einen schwachen
+Bogen gegen den Saum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1102" y="445"/>
+	<Point x="1980" y="445"/>
+	<Point x="1980" y="966"/>
+	<Point x="1102" y="966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nur Querstreif 1 und 3 scharf
+bezeichnet, 2 dagegen undeutlich.
+Hierdurch wird der Flügel in drei
+deutlich von einander geschiedene
+Felder getheilt. Im Mittelfelde er-
+scheint die Grundfarbe am gesät-
+tigtsten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1114" y="1002"/>
+	<Point x="1980" y="1002"/>
+	<Point x="1980" y="1295"/>
+	<Point x="1114" y="1295"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der 3te Querstreif stark gezähnt,
+bildet zwischen Rippe 3 und 5
+einen scharfen Vorsprung gegen
+den Saum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="252" y="1354"/>
+	<Point x="1088" y="1354"/>
+	<Point x="1088" y="1652"/>
+	<Point x="252" y="1652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bei den Exemplaren, die einen
+schwarzen Mittelpunkt führen,
+tritt dieser nicht grell aus der
+Grundfarbe hervor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1121" y="1350"/>
+	<Point x="1983" y="1350"/>
+	<Point x="1983" y="1935"/>
+	<Point x="1121" y="1935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Meine beiden Stücke führen auf
+jedem Flügel einen zwar feinen,
+aber sehr scharf markirten schwar-
+zen Mittelpunkt. Bei dem einen
+Exemplare steht er auf den Vor-
+derﬂügeln auf dem verloschenen
+dritten Querstreifen, bei dem an-
+dern zwischen dem 2ten und 3ten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="580" y="2150"/>
+	<Point x="1097" y="2150"/>
+	<Point x="1097" y="2452"/>
+	<Point x="580" y="2452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der 2te und 3te
+Querstreif gleich
+stark und deutlich
+ausgeprägt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1126" y="2142"/>
+	<Point x="1990" y="2142"/>
+	<Point x="1990" y="2430"/>
+	<Point x="1126" y="2430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nur der 3te Querstreif ist scharf
+ausgeprägt und auf Rippe 5 stär-
+ker wurzelwärts gebrochen wie
+bei Perochraria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="309" y="2819"/>
+	<Point x="1995" y="2819"/>
+	<Point x="1995" y="3076"/>
+	<Point x="309" y="3076"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dohlmanni ﬂiegt im letzten Drittel des Juli. Benannt
+habe ich diese Acidalia nach meinem Freunde, dem eifrigen
+Sammler Herrn Dohlmann in Copenhagen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="261" y="1990"/>
+	<Point x="1980" y="1990"/>
+	<Point x="1980" y="2128"/>
+	<Point x="261" y="2128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel: Der erste Querstreifen der Vorderﬂügel fehlt beiden
+Arten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="261" y="2497"/>
+	<Point x="1095" y="2497"/>
+	<Point x="1095" y="2790"/>
+	<Point x="261" y="2790"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auf der Unterseite der Hinter-
+ﬂügel sind die ersten beiden
+Querlinien ungefähr gleich stark
+und gleich schwarz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1115" y="2497"/>
+	<Point x="1988" y="2497"/>
+	<Point x="1988" y="2790"/>
+	<Point x="1115" y="2790"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auf der Unterseite ist die erste
+Querlinie ganz verloschen und
+nur die zweite scharf schwarz.</Unicode></TextEquiv></TextRegion></Page></PcGts>

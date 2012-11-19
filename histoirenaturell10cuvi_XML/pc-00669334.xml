@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669334">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:53:22</Created>
+	<LastChange>2012-03-12T14:33:56</LastChange></Metadata>
+	<Page imageFilename="00669334.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r21" index="1"/>
+	<RegionRefIndexed regionRef="r23" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r19" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r25" index="6"/>
+	<RegionRefIndexed regionRef="r27" index="7"/>
+	<RegionRefIndexed regionRef="r29" index="8"/>
+	<RegionRefIndexed regionRef="r31" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="349" y="268"/>
+	<Point x="1778" y="268"/>
+	<Point x="1778" y="1028"/>
+	<Point x="349" y="1028"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>genre. Sa tête déprimée; ses mâchoires pres‐
+que égales; ses dents, les unes longues et
+droites, les autres petites, distribuées trois
+à trois entre les premières, ne s’accordent
+guère avec ce que montre l’espèce commune;
+mais l’auteur, ne donnant pas le nombre de
+rayons, nous rend bien diﬃcile de décou‐
+vrir ce que son poisson pouvait être réelle‐
+ment.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="432" y="1578"/>
+	<Point x="1801" y="1578"/>
+	<Point x="1801" y="2186"/>
+	<Point x="432" y="2186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a le corps rougeâtre; la dorsale et l’anale bordées
+de rose vif; les pectorales et les ventrales jaunes.
+Une petite tache ovale et noire vers la partie anté‐
+rieure de la dorsale; l’iris de l’œil jaune, et trois
+séries de points rouges sur le tiers postérieur du
+corps; savoir: une le long de la ligne latérale, et
+les deux autres le long de la base de la dorsale et
+de l’anale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="354" y="167"/>
+	<Point x="498" y="167"/>
+	<Point x="498" y="249"/>
+	<Point x="354" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>402</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="756" y="165"/>
+	<Point x="1361" y="165"/>
+	<Point x="1361" y="252"/>
+	<Point x="756" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="785" y="1357"/>
+	<Point x="1380" y="1357"/>
+	<Point x="1380" y="1440"/>
+	<Point x="785" y="1440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CÈPOLE DU JAPON</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords>
+	<Point x="434" y="1451"/>
+	<Point x="1728" y="1451"/>
+	<Point x="1728" y="1563"/>
+	<Point x="434" y="1563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Cepola limbata, nob.; Krusenst., pl. 60, ﬁg. 2),</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="368" y="1036"/>
+	<Point x="1782" y="1036"/>
+	<Point x="1780" y="1205"/>
+	<Point x="366" y="1206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il n’en est pas de même des espèces de Kru-
+senstern; ce sont de véritables cépoles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="440" y="1208"/>
+	<Point x="1295" y="1208"/>
+	<Point x="1295" y="1309"/>
+	<Point x="439" y="1309"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La première, qu’il nomme</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="heading">
+	<Coords>
+	<Point x="785" y="2226"/>
+	<Point x="1414" y="2226"/>
+	<Point x="1414" y="2312"/>
+	<Point x="785" y="2312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La CÉPOLE BORDÉE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords>
+	<Point x="389" y="2326"/>
+	<Point x="1805" y="2326"/>
+	<Point x="1805" y="2434"/>
+	<Point x="389" y="2434"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Cepola marginata, nob.; Krusenst., pl. 60, ﬁg. 1.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="463" y="2452"/>
+	<Point x="1809" y="2452"/>
+	<Point x="1809" y="2551"/>
+	<Point x="463" y="2551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La seconde des espèces de Krusenstern</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="463" y="2559"/>
+	<Point x="1809" y="2559"/>
+	<Point x="1809" y="2665"/>
+	<Point x="463" y="2665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a le corps rouge de brique, sablé de très-petits points</Unicode></TextEquiv></TextRegion></Page></PcGts>

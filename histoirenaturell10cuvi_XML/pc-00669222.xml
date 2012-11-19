@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669222">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:39:19</Created>
+	<LastChange>2012-03-12T14:33:50</LastChange></Metadata>
+	<Page imageFilename="00669222.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r27" index="1"/>
+	<RegionRefIndexed regionRef="r21" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="314" y="266"/>
+	<Point x="1735" y="266"/>
+	<Point x="1735" y="523"/>
+	<Point x="314" y="523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>au front, mais sur le devant du museau,
+donne une physionomie très-diﬀérente des
+autres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="317" y="833"/>
+	<Point x="1753" y="833"/>
+	<Point x="1753" y="1698"/>
+	<Point x="317" y="1698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La première est le naseus tuber ou le na‐
+son loupe, dont Commerson a laissé une des‐
+cription détaillée et un dessin gravé dans M. de
+Lacépède, t. III, pl. 7, ﬁg. 3. Le Cabinet du
+Roi n’a possédé long-temps que l’échantillon de
+Commerson, desséché en herbier et assez mal
+conservé; mais M. Lamarre-Piquot vient d’en
+rapporter de l’Isle-de-France quelques-uns en
+meilleur état, et d’ailleurs la description de
+Commerson nous servira à compléter la nôtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="380" y="1724"/>
+	<Point x="1749" y="1724"/>
+	<Point x="1749" y="2662"/>
+	<Point x="380" y="2662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La plus grande bauteur du poisson est un peu
+après la naissance de l’anale, et contenue trois fois
+dans la longueur totale. Le corps est, comme dans la
+plupart des autres, verticalement ovale, et la queue
+s’amincit au point de n’avoir plus que le sixième
+de la hauteur totale. Le proﬁl descend très-lente‐
+ment et presque en ligne droite depuis la nuque
+jusque sur l’aplomb de l’extrémité du museau, où
+il se courbe subitement, et forme ainsi, un peu
+avant, de descendre à la bouche, cette loupe qui ca‐
+ractérise l’espèce. D’après cette direction presque
+horizontale du proﬁl, la tête se trouve aussi longue</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="324" y="176"/>
+	<Point x="460" y="176"/>
+	<Point x="460" y="244"/>
+	<Point x="324" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>290</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="773" y="176"/>
+	<Point x="1291" y="176"/>
+	<Point x="1291" y="244"/>
+	<Point x="773" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="heading">
+	<Coords>
+	<Point x="308" y="703"/>
+	<Point x="1744" y="703"/>
+	<Point x="1744" y="796"/>
+	<Point x="308" y="796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Naseus tuber, Comm.; Acanthurus nasus, Shaw.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords>
+	<Point x="745" y="589"/>
+	<Point x="1312" y="589"/>
+	<Point x="1312" y="665"/>
+	<Point x="745" y="665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le NASON LOUPE.</Unicode></TextEquiv></TextRegion></Page></PcGts>

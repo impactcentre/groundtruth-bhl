@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672475">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:41:25</Created>
+	<LastChange>2012-02-10T09:54:58</LastChange></Metadata>
+	<Page imageFilename="00672475.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="810" y="137"/>
+	<Point x="1135" y="137"/>
+	<Point x="1135" y="207"/>
+	<Point x="810" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 279 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="98" y="269"/>
+	<Point x="1849" y="269"/>
+	<Point x="1849" y="1198"/>
+	<Point x="98" y="1198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cante fasciisque latis transversalibus in medio latissime inter-
+ruptis (maculas subtrigonas laterales formantibus); segmento
+primo in dorso inerme; secundo antice prope incisuram
+et in disco, tertio in disco et prope apicem macro-
+chetis duabus praeditis; segmento ultimo dorso ma-
+crochetis duabus tantum discoidalibus munito (praeter
+aliquibus lateralibus), apicalibus (marginalibus) nullis; alis
+subinfuscatis, basi ﬂavescentibus, nervis omnibus paullo fusco
+limbatis, transverso secundo subrecto; quinto longit. supra cu-
+bitum paullo incurvo; squamis mediocribus, albis; pedibus fuscis.
+Long. 4¼‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="216" y="1212"/>
+	<Point x="1142" y="1212"/>
+	<Point x="1142" y="1299"/>
+	<Point x="216" y="1299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Rossia merid. (Charkow).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="355" y="1492"/>
+	<Point x="1592" y="1492"/>
+	<Point x="1592" y="1589"/>
+	<Point x="355" y="1589"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Macquartia olivaceomaculata ♀ nv. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="105" y="1667"/>
+	<Point x="1846" y="1667"/>
+	<Point x="1846" y="2933"/>
+	<Point x="105" y="2933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parva, ovata, tota grisea; antennis breviusculis, nigris, ar-
+ticulo ultimo fere duplo longiore secundo; arista basi incras-
+sata; fronte lata, vitta media nigra (interdum rufescente nigra)
+cinereo micante; genis pilis brevissimis et sparsis prae-
+ditis; palpis ﬂavis; thorace lineis quatuor nigris, intermediis
+parum determinatis; abdomine maculis olivaceis micantibus;
+segmentis duobus basalibus dorso in disco et apice
+inermibus, segmento tertio in disco macrochetis dua-
+bus et serie marginata macrochetarum, segmento quarto
+seriebus tribus macrochetarum: duabus discoidalibus
+et una marginata; alis subhyalinis, spinula costae parva;
+cellula prima postica fere in apice alae aperta; nervo
+longit. quinto angulatim cubitato et supra cubitum subrecto;
+nervo transverso secundo inﬂexo et magis distante a primo,
+quam a curvatura quinti longitudinalis; pedibus nigris. Long 3‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="216" y="2953"/>
+	<Point x="1228" y="2953"/>
+	<Point x="1228" y="3048"/>
+	<Point x="216" y="3048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Caucasus (Mtzchet, Erivan).</Unicode></TextEquiv></TextRegion></Page></PcGts>

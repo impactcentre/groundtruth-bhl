@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668968">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T18:38:33</Created>
+	<LastChange>2012-02-09T16:27:26</LastChange></Metadata>
+	<Page imageFilename="00668968.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="409" y="301"/>
+	<Point x="1756" y="301"/>
+	<Point x="1756" y="677"/>
+	<Point x="409" y="677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lement, qui de son milieu envoie une ligne en‐
+foncée à chaque tempe; le bord inférieur de la man‐
+dibule a des arêtes ﬁnement dentelées, et son angle
+fait une légère saillie, mais qui ne peut être regardée
+comme une épine.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="394" y="681"/>
+	<Point x="998" y="681"/>
+	<Point x="1472" y="680"/>
+	<Point x="1758" y="680"/>
+	<Point x="1758" y="2647"/>
+	<Point x="395" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La membrane branchiostège embrasse la pointe
+de l’isthme, par sa réunion avec celle de l’autre côté.
+Elle est garnie d’écailles âpres dans toute sa partie
+découverte, je n’ai pu y compter que cinq rayons.
+Il n’y a pas d’épines aux os de l’épaule; l’huméral a
+sa partie supérieure un peu striée. La nuque est
+comprimée et suit une ligne convexe depuis la con‐
+cavité du chanfrein jusqu’à la dorsale, qui ne com‐
+mence que vis-à-vis la base des pectorales. Cette dor‐
+sale est si profondément échancrée que l’on peut dire
+qu’il y en a deux avec au moins autant de justesse que
+pour les sciènes. Sa première partie a neuf aiguil‐
+lons forts et âpres; le premier est très-court, le
+second n’a que la moitié ou même que le tiers de
+la longueur du troisième, qui est le plus long et qui
+égale la moitié de la hauteur du corps; il diminue
+ensuite jusqu’au neuvième, qui n’a que le tiers de la
+longueur du troisième: quelques individus en ont
+dix. La seconde partie de la dorsale est aussi longue
+que la première; mais moins haute, et a vingt-trois
+rayons mous presque égaux. L’anale répond à peu
+près à la seconde partie de la dorsale, qu’elle de‐
+vance seulement un peu; sa hauteur est la même;
+elle a trois aiguillons et vingt-trois rayons mous.
+La portion de queue derrière ces nageoires est huit
+fois et demie dans la longueur totale; la caudale y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="348" y="197"/>
+	<Point x="450" y="197"/>
+	<Point x="450" y="263"/>
+	<Point x="348" y="263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>36</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="725" y="205"/>
+	<Point x="1378" y="205"/>
+	<Point x="1378" y="274"/>
+	<Point x="725" y="274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

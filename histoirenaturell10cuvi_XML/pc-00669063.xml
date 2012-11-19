@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669063">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:20:17</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669063.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r15" index="0"/>
+	<RegionRefIndexed regionRef="r29" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="83" y="599"/>
+	<Point x="1494" y="599"/>
+	<Point x="1494" y="2186"/>
+	<Point x="83" y="2186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans la liqueur il paraît brun, plus clair vers le
+ventre, avec des lignes longitudinales peu marquées
+et des taches brunes foncées sur la caudale. Trois
+ou quatre lignes obliques bleuâtres se montrent sous
+l’æil et sur la joue. A l’état frais, comme les natura‐
+listes que nous venons de citer l’ont peint, il est
+d’un blanc bleuâtre. Des lignes longitudinales fauves
+parcourent sa longueur, au nombre de neuf ou dix,
+formant vers le dos des îles et des næuds, s’inter-
+rompant vers le ventre, se réduisant à des points
+près de l’anale. Sur la tète se voient des lignes alter‐
+nativement rousses et bleues, descendant obliquement
+en avant. La partie épineuse de la dorsale et de
+l’anale est jaunâtre; la partie molle est, ainsi que la
+caudale, d’un brun pourpré; des taches rousses ou
+brunes sont semées sur le bout de la queue, sur la
+caudale et sur la partie molle de l’anale. Les ventrales
+et les pectorales sont jaunâtres. Le dos a, près de la
+partie molle de la dorsale, une large tache jaune,
+semée de petits points noirs, et entourée d’un cercle
+roux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="23" y="2197"/>
+	<Point x="1479" y="2197"/>
+	<Point x="1479" y="2374"/>
+	<Point x="23" y="2377"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus sont longs de sept ou huit
+pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="7" y="2382"/>
+	<Point x="1484" y="2381"/>
+	<Point x="1479" y="2566"/>
+	<Point x="0" y="2566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce, commune à Vanicolo, est
+nommée feneley par les indigènes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="413" y="175"/>
+	<Point x="1066" y="175"/>
+	<Point x="1066" y="269"/>
+	<Point x="413" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1315" y="175"/>
+	<Point x="1459" y="175"/>
+	<Point x="1459" y="269"/>
+	<Point x="1315" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>131</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="90" y="278"/>
+	<Point x="1522" y="278"/>
+	<Point x="1522" y="515"/>
+	<Point x="90" y="515"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gueur, et sa tête quatre fois et demie. Ses épines
+sont médiocres, et sa queue faiblement échancrée
+en croissant; ses épines sont assez fortes et striées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1048" y="520"/>
+	<Point x="1048" y="560"/>
+	<Point x="1049" y="560"/>
+	<Point x="1049" y="594"/>
+	<Point x="547" y="594"/>
+	<Point x="547" y="521"/>
+	<Point x="567" y="521"/>
+	<Point x="567" y="520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/10; A. 7/9, etc.</Unicode></TextEquiv></TextRegion></Page></PcGts>

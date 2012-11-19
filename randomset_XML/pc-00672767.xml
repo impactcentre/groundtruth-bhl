@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672767">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T17:07:00</Created>
+	<LastChange>2012-02-10T10:29:47</LastChange></Metadata>
+	<Page imageFilename="00672767.tif" imageWidth="2052" imageHeight="3005">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="268" y="168"/>
+	<Point x="817" y="168"/>
+	<Point x="817" y="216"/>
+	<Point x="268" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BY THE SAME AUTHOR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="263" y="384"/>
+	<Point x="1452" y="384"/>
+	<Point x="1452" y="440"/>
+	<Point x="263" y="440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAMERA ADVENTURES IN THE AFRICAN WILDS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="343" y="460"/>
+	<Point x="1547" y="460"/>
+	<Point x="1547" y="698"/>
+	<Point x="343" y="698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Being an account of a four months' expedition in British East
+Africa, for the purpose of securing photographs from life of the
+Game, with Map and reproductions of numerous photographs from
+life by the Author. Popular Edition. Demy 4to. 12s. 6d. net.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="262" y="762"/>
+	<Point x="1006" y="762"/>
+	<Point x="1006" y="821"/>
+	<Point x="262" y="821"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>WILD LIFE AND THE CAMERA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="356" y="847"/>
+	<Point x="1373" y="847"/>
+	<Point x="1373" y="903"/>
+	<Point x="356" y="903"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Illustrated from photographs. Demy 8vo. Price 6s. net.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="269" y="1040"/>
+	<Point x="1527" y="1040"/>
+	<Point x="1527" y="1099"/>
+	<Point x="269" y="1099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LONDON: WILLIAM HEINEMANN, 21, BEDFORD ST., W.C.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="273" y="220"/>
+	<Point x="835" y="220"/>
+	<Point x="835" y="232"/>
+	<Point x="273" y="232"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="611" y="964"/>
+	<Point x="1180" y="964"/>
+	<Point x="1180" y="991"/>
+	<Point x="611" y="991"/></Coords></SeparatorRegion></Page></PcGts>

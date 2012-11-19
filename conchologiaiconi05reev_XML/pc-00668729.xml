@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668729">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:31:07</Created>
+	<LastChange>2012-02-10T10:29:33</LastChange></Metadata>
+	<Page imageFilename="00668729.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="753" y="808"/>
+	<Point x="1357" y="808"/>
+	<Point x="1357" y="891"/>
+	<Point x="753" y="891"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MONOGRAPH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="882" y="1018"/>
+	<Point x="1224" y="1018"/>
+	<Point x="1224" y="1070"/>
+	<Point x="882" y="1070"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OF THE GENUS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="581" y="1213"/>
+	<Point x="1504" y="1213"/>
+	<Point x="1504" y="1322"/>
+	<Point x="581" y="1322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r8" type="other">
+	<Coords>
+	<Point x="771" y="1416"/>
+	<Point x="771" y="1450"/>
+	<Point x="1328" y="1450"/>
+	<Point x="1328" y="1416"/></Coords></GraphicRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="701" y="1570"/>
+	<Point x="1413" y="1570"/>
+	<Point x="1413" y="1744"/>
+	<Point x="701" y="1744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ocean, in thy unfathomable depths
+What beauties lie concealed from wondering eyes!
+Pearls that adorn the neck of beauty; shells
+On which the sea-born Venus ﬁnds a couch.—Bryant.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9" type="other">
+	<Coords>
+	<Point x="787" y="1818"/>
+	<Point x="1348" y="1818"/>
+	<Point x="1348" y="1843"/>
+	<Point x="787" y="1843"/></Coords></GraphicRegion></Page></PcGts>

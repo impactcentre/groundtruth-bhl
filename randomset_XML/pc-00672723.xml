@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672723">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:03:49</Created>
+	<LastChange>2012-02-10T10:29:45</LastChange></Metadata>
+	<Page imageFilename="00672723.tif" imageWidth="1540" imageHeight="2540">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="217" y="170"/>
+	<Point x="317" y="170"/>
+	<Point x="317" y="228"/>
+	<Point x="217" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>124</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="558" y="162"/>
+	<Point x="1130" y="162"/>
+	<Point x="1130" y="232"/>
+	<Point x="558" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MR. DARWIN'S CRITICS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="206" y="286"/>
+	<Point x="1438" y="286"/>
+	<Point x="1438" y="1021"/>
+	<Point x="206" y="1021"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It looks, at ﬁrst, as if this meant, that Mr.
+Darwin's views being false, the opposition to
+“religion” which ﬂows from them must be need-
+less. But I suspect this is not the right view of
+the meaning of the passage, as Mr. Mivart, from
+whom the Quarterly Reviewer plainly draws so
+much inspiration, tells us that “the consequences
+which have been drawn from evolution, whether
+exclusively Darwinian or not, to the prejudice of
+religion, by no means follow from it, and are in
+fact illegitimate” (p. 5).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="194" y="1025"/>
+	<Point x="1432" y="1024"/>
+	<Point x="1432" y="2018"/>
+	<Point x="196" y="2018"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I may assume, then, that the Quarterly
+Reviewer and Mr. Mivart admit that there is no
+necessary opposition between “evolution whether
+exclusively Darwinian or not,” and religion. But
+then, what do they mean by this last much-
+abused term? On this point the Quarterly
+Reviewer is silent. Mr. Mivart, on the contrary,
+is perfectly explicit, and the whole tenor of his
+remarks leaves no doubt that by “religion” he
+means theology; and by theology, that particular
+variety of the great Proteus, which is expounded
+by the doctors of the Roman Catholic Church, and
+held by the members of that religious community
+to be the sole form of absolute truth and of saving
+faith.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="189" y="2022"/>
+	<Point x="1419" y="2022"/>
+	<Point x="1418" y="2294"/>
+	<Point x="189" y="2294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>According to Mr. Mivart, the greatest and most
+orthodox authorities upon matters of Catholic
+doctrine agree in distinctly asserting “derivative
+creation” or evolution; “and thus their teachings</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1392" y="185"/>
+	<Point x="1444" y="185"/>
+	<Point x="1444" y="234"/>
+	<Point x="1392" y="234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>v</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672766">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:06:37</Created>
+	<LastChange>2012-03-12T14:34:26</LastChange></Metadata>
+	<Page imageFilename="00672766.tif" imageWidth="2183" imageHeight="3686">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="62" y="310"/>
+	<Point x="1742" y="310"/>
+	<Point x="1742" y="582"/>
+	<Point x="62" y="582"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>le granite, tandis qu’en quelques points se rencontrent le quartz pur,
+le kaolin, l’amphibole, le porphyre, la serpentine. Une très-grande
+inégalité se constate dans l’altitude, dont les cotes extrêmes sont
+157 et 777 mètres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="48" y="592"/>
+	<Point x="1741" y="592"/>
+	<Point x="1741" y="1155"/>
+	<Point x="48" y="1155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Mont-Dore n’a pas oﬀert à M. Lamy d’espèces véritablement
+calcicoles; mais le département de la Haute-Vienne, quoique composé
+de roches essentiellement granitiques, lui en a présenté un certain
+nombre « qu’il faut chercher le plus souvent, soit sur les vieux
+murs crépis de chaux, soit sur les pierres calcaires employées
+aujourd’hui pour la construction et pour l’embellissement des jar‐
+dins et des parcs ». M. Lamy nous fait remarquer qu’il a pris sur le
+granit le Verrucaria plumbea, éminemment calcicole.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="49" y="1162"/>
+	<Point x="1742" y="1162"/>
+	<Point x="1742" y="3216"/>
+	<Point x="49" y="3216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans un aperçu général, servant de préface à son travail, M. Lamy
+est conduit à parler très-brièvement de la théorie algo-lichénique,
+« d’après laquelle les gonidies des Lichens, en réalité étrangères
+au thalle, constituent de véritables Algues, qui ont une vie propre, et
+qui, dès leur enfance, servent de support à une sorte de Champignon;
+par suite, l’ancien Lichen devient le composé d’une Algue et d’un
+Champignon». Pour lui, les préparations microscopiques démontrent
+jusqu’à l’évidence que les gonidies naissent à l’intérieur des cel‐
+lules thallines et s’y développent. A cette preuve il ajoute les
+arguments de Bentham contre la théorie de Schwendener et une
+observation qui lui est personnelle. « On ne saurait, dit-il, refuser
+aux Lichens deux moyens de se reproduire: l’un par la voie des
+spores, et c’est en même temps le plus rationnel et le plus naturel,
+puisque c’est par la graine que se succèdent sans interruption les
+générations des plantes; l’autre, d’un ordre inférieur, moins direct,
+qui vient en aide au précédent pour la propagation des espèces, leur
+conservation, et dont la nécessité se fait surtout sentir pour les Li‐
+chens assez nombreux qui ne fructiﬁent jamais. — La question posée
+ainsi n’est-elle pas d’une solution facile? Voudra-t-on refuser à
+l’agent principal ce que l’on accorde à l’agent secondaire? Ne serait-il
+pas déraisonnable d’admettre que les spores des Lichens, comme
+celles des autres Sporophytes de toutes classes, n’ont pas la faculté de
+reproduction par elles-mêmes, sans le concours, sans la présence
+simultanée des gonidies? Si cette faculté ne leur est pas refusée,
+n’est-il pas certain que les individus ainsi formés seront également
+pourvus de gonidies tout aussi bien que s’ils provenaient de celles-ci?
+et dès-lors comment ne pas s’incliner devant l’évidence, comment ne
+pas admettre que les deux organes, spores et gonidies, sont indépen‐
+dants l’un de l’autre dans le sens indiqué, que chacun d’eux possède</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="494" y="228"/>
+	<Point x="1293" y="228"/>
+	<Point x="1293" y="289"/>
+	<Point x="494" y="289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TRAVAUX FRANÇAIS — BOTANIQUE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1652" y="228"/>
+	<Point x="1741" y="228"/>
+	<Point x="1741" y="289"/>
+	<Point x="1652" y="289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>97</Unicode></TextEquiv></TextRegion></Page></PcGts>

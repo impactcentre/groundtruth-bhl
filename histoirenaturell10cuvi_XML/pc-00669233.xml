@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669233">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:40:32</Created>
+	<LastChange>2012-03-12T14:33:50</LastChange></Metadata>
+	<Page imageFilename="00669233.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="84" y="306"/>
+	<Point x="1442" y="306"/>
+	<Point x="1442" y="1061"/>
+	<Point x="84" y="1061"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La dorsale commence au-dessus de l’ouïe et se
+continue, en gardant à peu près la même hauteur,
+jusqu’à une distance de la caudale qui est à peu
+près du neuvième de la longueur totale. L’anale
+commence sous le troisième rayon de la dorsale, et
+ﬁnit à la même distance de la caudale; la portion
+de queue derrière ces deux nageoires est un peu
+déprimée. La pectorale est demi-ovale, obtuse, du
+septième de la longueur totale; la ventrale vis-à-vis
+le bord postérieur de la base.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="245" y="1080"/>
+	<Point x="1274" y="1080"/>
+	<Point x="1274" y="1157"/>
+	<Point x="245" y="1157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 5; D. 4/28; A. 2/28; C. 16; P. 17; V. 1/3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="86" y="1173"/>
+	<Point x="1431" y="1173"/>
+	<Point x="1431" y="1614"/>
+	<Point x="86" y="1614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’âpreté de ce poisson est excessivement ﬁne et
+se sent à peine du doigt quand on le dirige vers la
+queue; la ligne latérale est parallèle au dos, et a un
+peu moins du quart de la plus grande hauteur; elle
+se recourbe à quelque distance de la queue, pour
+aller horizontalement et ﬁnir à la lame latérale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="85" y="1623"/>
+	<Point x="1430" y="1623"/>
+	<Point x="1431" y="2005"/>
+	<Point x="84" y="2002"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il paraît tout entier d’une couleur plombée; ses
+pectorales sont un peu jaunâtres; sa dorsale est mar‐
+quée de lignes obliques et assez serrées, alternati‐
+vement blanches et noirâtres. Il y en a aussi des traces
+sur l’anale, mais plus obscures.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="77" y="2007"/>
+	<Point x="511" y="2006"/>
+	<Point x="1427" y="2008"/>
+	<Point x="1429" y="2688"/>
+	<Point x="77" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’œsophage de l’axinure thynnoïde est large et
+inégalement dilaté; ses parois augmentent d’épaisseur
+à l’endroit où il se plie pour descendre vers les
+muscles du bas-ventre et former un estomac cy‐
+lindrique et étroit. Il n’y a au pylore que trois cœ-
+cums courts. L’intestin est replié en divers sens sur
+lui-même; mais comme ces replis sont courts, le
+canal intestinal n’a pas autant d’étendue que dans les
+autres espèces des genres qui composent cette famille.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1302" y="202"/>
+	<Point x="1425" y="202"/>
+	<Point x="1425" y="275"/>
+	<Point x="1302" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>301</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="475" y="213"/>
+	<Point x="1000" y="213"/>
+	<Point x="1000" y="274"/>
+	<Point x="475" y="274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. IV. AXINURES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

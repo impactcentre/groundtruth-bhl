@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669348">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:24:48</Created>
+	<LastChange>2012-03-12T14:33:57</LastChange></Metadata>
+	<Page imageFilename="00669348.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="384" y="260"/>
+	<Point x="1794" y="260"/>
+	<Point x="1794" y="857"/>
+	<Point x="384" y="857"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les athérines sont donc des poissons à
+deux dorsales, et à ventrales sous l'abdomen,
+à mâchoire supérieure protractile, garnie de
+dents très-menues. Il en existe quelquefois
+au palais, dans d'autres espèces il est lisse:
+leur corps est orné d'une large bande d'ar-
+gent à chaque ﬂanc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="384" y="858"/>
+	<Point x="1794" y="858"/>
+	<Point x="1794" y="1361"/>
+	<Point x="384" y="1361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette bande d'argent le long des ﬂancs,
+dont Linné a fait le principal caractère du
+genre, se retrouve en eﬀet dans toutes les
+espèces connues, et elles oﬀrent toutes aussi
+un autre accident de couleur, un petit trait
+noirâtre au bord supérieur de l'orbite.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="380" y="1364"/>
+	<Point x="1801" y="1364"/>
+	<Point x="1801" y="2460"/>
+	<Point x="380" y="2460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'estomac des athérines est un simple ca-
+nal membraneux, un peu élargi, sans cul-
+de-sac ni appendices pyloriques; leur canal
+intestinal est beaucoup moins long et a moins
+de replis que celui des muges; leurs œufs sont
+assez gros, et leur péritoine est généralement
+noir en dedans et argenté en dehors; elles
+ont une vessie natatoire, souvent prolongée
+dans un canal de leurs vertèbres caudales:
+le nombre de ces os est plus que le double
+de celui qui constitue la colonne épinière des
+muges, et leurs apophyses et leurs côtes forment
+dans leur chair de nombreuses arêtes grêles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="389" y="2464"/>
+	<Point x="1793" y="2464"/>
+	<Point x="1793" y="2632"/>
+	<Point x="389" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a des espèces de ces poissons dans
+toutes les mers. Sur nos côtes de Normandie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="533" y="157"/>
+	<Point x="533" y="232"/>
+	<Point x="388" y="232"/>
+	<Point x="388" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>416</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="852" y="157"/>
+	<Point x="1318" y="157"/>
+	<Point x="1318" y="232"/>
+	<Point x="852" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

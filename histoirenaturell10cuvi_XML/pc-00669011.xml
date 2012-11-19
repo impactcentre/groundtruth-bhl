@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669011">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:13:38</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669011.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r21" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="489" y="245"/>
+	<Point x="1025" y="245"/>
+	<Point x="1025" y="318"/>
+	<Point x="489" y="318"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1359" y="231"/>
+	<Point x="1460" y="231"/>
+	<Point x="1460" y="316"/>
+	<Point x="1359" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>79</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="422" y="386"/>
+	<Point x="1081" y="386"/>
+	<Point x="1081" y="482"/>
+	<Point x="422" y="482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA RUCONII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="47" y="512"/>
+	<Point x="1463" y="512"/>
+	<Point x="1463" y="604"/>
+	<Point x="47" y="604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula Ruconius, nob.; Chanda Ruconius, Buchan.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="45" y="624"/>
+	<Point x="1462" y="624"/>
+	<Point x="1462" y="1151"/>
+	<Point x="45" y="1151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous n’avons pas vu le chanda Ruconius
+de M. Buchanan1, mais c’est ici que nous
+croyons devoir le placer, d’après la descrip‐
+tion et la ﬁgure publiées par ce naturaliste.
+L’espèce se rapproche pour la forme de notre
+equula caballa ou tottah-karah; mais</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="105" y="1167"/>
+	<Point x="1475" y="1167"/>
+	<Point x="1475" y="2000"/>
+	<Point x="105" y="2000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>elle est encore plus élevée, et son élévation tient
+autant et plus à la convexité de sa ligne dorsale qu’à
+celle de l’anale; sa hauteur n’est qu’une fois et
+demie dans sa largeur; son proﬁl descend plus qu’à
+aucune des espèces; elle a d’ailleurs tous les caractères
+du genre et jusqu’aux dentelures de quelques épines
+dorsales et anales; la seconde dorsale n’a pas le tiers
+de la hauteur du corps, la seconde anale est de
+même force. M. Buchanan donne ses nombres comme
+il suit; nous doutons également de l’exactitude de
+celui des rayons branchiaux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="100" y="2632"/>
+	<Point x="1339" y="2632"/>
+	<Point x="1339" y="2714"/>
+	<Point x="100" y="2714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Poissons du Gange, p. 106 et 371 , et pl. 12, ﬁg. 35.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="55" y="2574"/>
+	<Point x="55" y="2621"/>
+	<Point x="1450" y="2621"/>
+	<Point x="1450" y="2574"/></Coords></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="114" y="2089"/>
+	<Point x="1469" y="2089"/>
+	<Point x="1471" y="2550"/>
+	<Point x="108" y="2550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa taille ne passe que rarement trois pouces. Tout
+son corps est d’une brillante couleur d’argent, avec
+douze ou quinze lignes noires, formées d’une mul‐
+titude de points, et descendant du dos jusques au
+milieu du ﬂanc; les unes sont plus longues, les
+autres plus courtes, assez alternativement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="270" y="2006"/>
+	<Point x="1303" y="2006"/>
+	<Point x="1303" y="2083"/>
+	<Point x="270" y="2083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 6; D. 8/16; A. 3/14; C. 17; P. 13; V. 1/5.</Unicode></TextEquiv></TextRegion></Page></PcGts>

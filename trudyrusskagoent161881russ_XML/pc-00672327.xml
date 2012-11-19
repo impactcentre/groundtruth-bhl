@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672327">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:41:14</Created>
+	<LastChange>2012-02-10T09:54:30</LastChange></Metadata>
+	<Page imageFilename="00672327.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r40" index="1"/>
+	<RegionRefIndexed regionRef="r44" index="2"/>
+	<RegionRefIndexed regionRef="r48" index="3"/>
+	<RegionRefIndexed regionRef="r50" index="4"/>
+	<RegionRefIndexed regionRef="r52" index="5"/>
+	<RegionRefIndexed regionRef="r56" index="6"/>
+	<RegionRefIndexed regionRef="r60" index="7"/>
+	<RegionRefIndexed regionRef="r64" index="8"/>
+	<RegionRefIndexed regionRef="r66" index="9"/>
+	<RegionRefIndexed regionRef="r5" index="10"/>
+	<RegionRefIndexed regionRef="r6" index="11"/>
+	<RegionRefIndexed regionRef="r68" index="12"/>
+	<RegionRefIndexed regionRef="r70" index="13"/>
+	<RegionRefIndexed regionRef="r72" index="14"/>
+	<RegionRefIndexed regionRef="r74" index="15"/>
+	<RegionRefIndexed regionRef="r76" index="16"/>
+	<RegionRefIndexed regionRef="r78" index="17"/>
+	<RegionRefIndexed regionRef="r80" index="18"/>
+	<RegionRefIndexed regionRef="r84" index="19"/>
+	<RegionRefIndexed regionRef="r86" index="20"/>
+	<RegionRefIndexed regionRef="r88" index="21"/>
+	<RegionRefIndexed regionRef="r90" index="22"/>
+	<RegionRefIndexed regionRef="r92" index="23"/>
+	<RegionRefIndexed regionRef="r96" index="24"/>
+	<RegionRefIndexed regionRef="r98" index="25"/>
+	<RegionRefIndexed regionRef="r100" index="26"/>
+	<RegionRefIndexed regionRef="r102" index="27"/>
+	<RegionRefIndexed regionRef="r14" index="28"/>
+	<RegionRefIndexed regionRef="r104" index="29"/>
+	<RegionRefIndexed regionRef="r106" index="30"/>
+	<RegionRefIndexed regionRef="r16" index="31"/>
+	<RegionRefIndexed regionRef="r17" index="32"/>
+	<RegionRefIndexed regionRef="r18" index="33"/>
+	<RegionRefIndexed regionRef="r19" index="34"/>
+	<RegionRefIndexed regionRef="r20" index="35"/>
+	<RegionRefIndexed regionRef="r21" index="36"/>
+	<RegionRefIndexed regionRef="r108" index="37"/>
+	<RegionRefIndexed regionRef="r112" index="38"/>
+	<RegionRefIndexed regionRef="r114" index="39"/>
+	<RegionRefIndexed regionRef="r116" index="40"/>
+	<RegionRefIndexed regionRef="r160" index="41"/>
+	<RegionRefIndexed regionRef="r162" index="42"/>
+	<RegionRefIndexed regionRef="r24" index="43"/>
+	<RegionRefIndexed regionRef="r25" index="44"/>
+	<RegionRefIndexed regionRef="r26" index="45"/>
+	<RegionRefIndexed regionRef="r27" index="46"/>
+	<RegionRefIndexed regionRef="r28" index="47"/>
+	<RegionRefIndexed regionRef="r29" index="48"/>
+	<RegionRefIndexed regionRef="r30" index="49"/>
+	<RegionRefIndexed regionRef="r31" index="50"/>
+	<RegionRefIndexed regionRef="r32" index="51"/>
+	<RegionRefIndexed regionRef="r33" index="52"/>
+	<RegionRefIndexed regionRef="r125" index="53"/>
+	<RegionRefIndexed regionRef="r127" index="54"/>
+	<RegionRefIndexed regionRef="r129" index="55"/>
+	<RegionRefIndexed regionRef="r133" index="56"/>
+	<RegionRefIndexed regionRef="r137" index="57"/>
+	<RegionRefIndexed regionRef="r141" index="58"/>
+	<RegionRefIndexed regionRef="r145" index="59"/>
+	<RegionRefIndexed regionRef="r149" index="60"/>
+	<RegionRefIndexed regionRef="r153" index="61"/>
+	<RegionRefIndexed regionRef="r155" index="62"/>
+	<RegionRefIndexed regionRef="r36" index="63"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="755" y="126"/>
+	<Point x="1078" y="126"/>
+	<Point x="1078" y="191"/>
+	<Point x="755" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 133 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="85" y="260"/>
+	<Point x="483" y="260"/>
+	<Point x="483" y="312"/>
+	<Point x="85" y="312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Teleia Mersinella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="55" y="847"/>
+	<Point x="907" y="847"/>
+	<Point x="907" y="901"/>
+	<Point x="55" y="901"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* › Schlaegeriella v. Syriaca (Syr.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="45" y="908"/>
+	<Point x="628" y="908"/>
+	<Point x="628" y="962"/>
+	<Point x="45" y="962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* › Proteella (Syr.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="191" y="1908"/>
+	<Point x="586" y="1908"/>
+	<Point x="586" y="1957"/>
+	<Point x="191" y="1957"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Univittella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="65" y="2086"/>
+	<Point x="893" y="2086"/>
+	<Point x="893" y="2148"/>
+	<Point x="65" y="2148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* › Quadrifariella (Ross. m.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="950" y="262"/>
+	<Point x="1451" y="262"/>
+	<Point x="1451" y="315"/>
+	<Point x="950" y="315"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Coleophora Tauricella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1051" y="320"/>
+	<Point x="1420" y="320"/>
+	<Point x="1420" y="364"/>
+	<Point x="1051" y="364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Occatella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1056" y="375"/>
+	<Point x="1479" y="375"/>
+	<Point x="1479" y="424"/>
+	<Point x="1056" y="424"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Breviuscula</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1047" y="433"/>
+	<Point x="1494" y="433"/>
+	<Point x="1494" y="484"/>
+	<Point x="1047" y="484"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Granulosella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1052" y="493"/>
+	<Point x="1443" y="493"/>
+	<Point x="1443" y="543"/>
+	<Point x="1052" y="543"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Luteolella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1012" y="905"/>
+	<Point x="1357" y="905"/>
+	<Point x="1357" y="957"/>
+	<Point x="1012" y="957"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Paelopyga</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1012" y="963"/>
+	<Point x="1705" y="963"/>
+	<Point x="1705" y="1014"/>
+	<Point x="1012" y="1014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Flaviventrella v. ? Asiatica</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1011" y="1020"/>
+	<Point x="1435" y="1020"/>
+	<Point x="1435" y="1075"/>
+	<Point x="1011" y="1075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Anomaloptera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1006" y="1081"/>
+	<Point x="1396" y="1081"/>
+	<Point x="1396" y="1136"/>
+	<Point x="1006" y="1136"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Basistrigella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1005" y="1138"/>
+	<Point x="1348" y="1138"/>
+	<Point x="1348" y="1195"/>
+	<Point x="1005" y="1195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Platypyga</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1010" y="1198"/>
+	<Point x="1283" y="1198"/>
+	<Point x="1283" y="1244"/>
+	<Point x="1010" y="1244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Zelleri</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1007" y="1257"/>
+	<Point x="1340" y="1257"/>
+	<Point x="1340" y="1304"/>
+	<Point x="1007" y="1304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Caramani</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1007" y="1311"/>
+	<Point x="1385" y="1311"/>
+	<Point x="1385" y="1371"/>
+	<Point x="1007" y="1371"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Subfasciata</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1007" y="1376"/>
+	<Point x="1347" y="1376"/>
+	<Point x="1347" y="1423"/>
+	<Point x="1007" y="1423"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Canescens</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="933" y="1431"/>
+	<Point x="1512" y="1431"/>
+	<Point x="1512" y="1490"/>
+	<Point x="933" y="1490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* › Satyrella (Hyrc.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="991" y="2082"/>
+	<Point x="1757" y="2082"/>
+	<Point x="1757" y="2145"/>
+	<Point x="991" y="2145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Pentadactyla v. (?) Sulphurea.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r38">
+	<Coords>
+	<Point x="774" y="2357"/>
+	<Point x="774" y="2377"/>
+	<Point x="1070" y="2377"/>
+	<Point x="1070" y="2357"/></Coords></SeparatorRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="589" y="316"/>
+	<Point x="589" y="373"/>
+	<Point x="428" y="373"/>
+	<Point x="428" y="374"/>
+	<Point x="240" y="374"/>
+	<Point x="240" y="375"/>
+	<Point x="73" y="375"/>
+	<Point x="73" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Maculata</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="589" y="375"/>
+	<Point x="589" y="435"/>
+	<Point x="515" y="435"/>
+	<Point x="515" y="436"/>
+	<Point x="422" y="436"/>
+	<Point x="422" y="437"/>
+	<Point x="329" y="437"/>
+	<Point x="329" y="438"/>
+	<Point x="236" y="438"/>
+	<Point x="236" y="439"/>
+	<Point x="143" y="439"/>
+	<Point x="143" y="440"/>
+	<Point x="73" y="440"/>
+	<Point x="73" y="377"/>
+	<Point x="242" y="377"/>
+	<Point x="242" y="376"/>
+	<Point x="430" y="376"/>
+	<Point x="430" y="375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Apatetris Mirabella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="589" y="437"/>
+	<Point x="589" y="493"/>
+	<Point x="343" y="493"/>
+	<Point x="343" y="494"/>
+	<Point x="73" y="494"/>
+	<Point x="73" y="442"/>
+	<Point x="145" y="442"/>
+	<Point x="145" y="441"/>
+	<Point x="238" y="441"/>
+	<Point x="238" y="440"/>
+	<Point x="331" y="440"/>
+	<Point x="331" y="439"/>
+	<Point x="424" y="439"/>
+	<Point x="424" y="438"/>
+	<Point x="517" y="438"/>
+	<Point x="517" y="437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ergatis Decoratella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="589" y="495"/>
+	<Point x="589" y="551"/>
+	<Point x="73" y="551"/>
+	<Point x="73" y="496"/>
+	<Point x="345" y="496"/>
+	<Point x="345" y="495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Doryphora Punctatella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="759" y="556"/>
+	<Point x="759" y="606"/>
+	<Point x="76" y="606"/>
+	<Point x="76" y="556"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Parvula</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="759" y="608"/>
+	<Point x="759" y="668"/>
+	<Point x="606" y="668"/>
+	<Point x="606" y="667"/>
+	<Point x="312" y="667"/>
+	<Point x="312" y="666"/>
+	<Point x="76" y="666"/>
+	<Point x="76" y="608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anacampsis Splendens</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords>
+	<Point x="310" y="668"/>
+	<Point x="310" y="669"/>
+	<Point x="604" y="669"/>
+	<Point x="604" y="670"/>
+	<Point x="759" y="670"/>
+	<Point x="759" y="727"/>
+	<Point x="573" y="727"/>
+	<Point x="573" y="728"/>
+	<Point x="296" y="728"/>
+	<Point x="296" y="729"/>
+	<Point x="76" y="729"/>
+	<Point x="76" y="668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nothris Sulcella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="paragraph">
+	<Coords>
+	<Point x="759" y="729"/>
+	<Point x="759" y="791"/>
+	<Point x="76" y="791"/>
+	<Point x="76" y="731"/>
+	<Point x="298" y="731"/>
+	<Point x="298" y="730"/>
+	<Point x="575" y="730"/>
+	<Point x="575" y="729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Holcopogon Helveolellus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords>
+	<Point x="759" y="793"/>
+	<Point x="759" y="843"/>
+	<Point x="76" y="843"/>
+	<Point x="76" y="793"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pleurota Subpyropella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r68" type="paragraph">
+	<Coords>
+	<Point x="535" y="967"/>
+	<Point x="535" y="1015"/>
+	<Point x="439" y="1015"/>
+	<Point x="439" y="1014"/>
+	<Point x="168" y="1014"/>
+	<Point x="168" y="967"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Galaticella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r70" type="paragraph">
+	<Coords>
+	<Point x="437" y="1016"/>
+	<Point x="437" y="1017"/>
+	<Point x="535" y="1017"/>
+	<Point x="535" y="1066"/>
+	<Point x="168" y="1066"/>
+	<Point x="168" y="1016"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Issicella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r72" type="paragraph">
+	<Coords>
+	<Point x="609" y="1081"/>
+	<Point x="609" y="1135"/>
+	<Point x="60" y="1135"/>
+	<Point x="60" y="1081"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* › Simplex (Syr.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r74" type="paragraph">
+	<Coords>
+	<Point x="60" y="1137"/>
+	<Point x="609" y="1137"/>
+	<Point x="609" y="1193"/>
+	<Point x="60" y="1193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oecoph. Sordida</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="paragraph">
+	<Coords>
+	<Point x="513" y="1198"/>
+	<Point x="513" y="1247"/>
+	<Point x="454" y="1247"/>
+	<Point x="454" y="1246"/>
+	<Point x="83" y="1246"/>
+	<Point x="83" y="1198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Irroratella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" type="paragraph">
+	<Coords>
+	<Point x="452" y="1248"/>
+	<Point x="452" y="1249"/>
+	<Point x="513" y="1249"/>
+	<Point x="513" y="1308"/>
+	<Point x="83" y="1308"/>
+	<Point x="83" y="1248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gracil. Mutilata</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r80" type="paragraph">
+	<Coords>
+	<Point x="622" y="1316"/>
+	<Point x="622" y="1372"/>
+	<Point x="600" y="1372"/>
+	<Point x="600" y="1371"/>
+	<Point x="461" y="1371"/>
+	<Point x="461" y="1370"/>
+	<Point x="322" y="1370"/>
+	<Point x="322" y="1369"/>
+	<Point x="183" y="1369"/>
+	<Point x="183" y="1368"/>
+	<Point x="69" y="1368"/>
+	<Point x="69" y="1316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Pallescens</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r84" type="paragraph">
+	<Coords>
+	<Point x="181" y="1370"/>
+	<Point x="181" y="1371"/>
+	<Point x="320" y="1371"/>
+	<Point x="320" y="1372"/>
+	<Point x="459" y="1372"/>
+	<Point x="459" y="1373"/>
+	<Point x="598" y="1373"/>
+	<Point x="598" y="1374"/>
+	<Point x="622" y="1374"/>
+	<Point x="622" y="1433"/>
+	<Point x="598" y="1433"/>
+	<Point x="598" y="1434"/>
+	<Point x="506" y="1434"/>
+	<Point x="506" y="1435"/>
+	<Point x="414" y="1435"/>
+	<Point x="414" y="1436"/>
+	<Point x="323" y="1436"/>
+	<Point x="323" y="1437"/>
+	<Point x="231" y="1437"/>
+	<Point x="231" y="1438"/>
+	<Point x="139" y="1438"/>
+	<Point x="139" y="1439"/>
+	<Point x="69" y="1439"/>
+	<Point x="69" y="1370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Coleophora Albipennella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r86" type="paragraph">
+	<Coords>
+	<Point x="622" y="1435"/>
+	<Point x="622" y="1493"/>
+	<Point x="69" y="1493"/>
+	<Point x="69" y="1441"/>
+	<Point x="141" y="1441"/>
+	<Point x="141" y="1440"/>
+	<Point x="233" y="1440"/>
+	<Point x="233" y="1439"/>
+	<Point x="325" y="1439"/>
+	<Point x="325" y="1438"/>
+	<Point x="416" y="1438"/>
+	<Point x="416" y="1437"/>
+	<Point x="508" y="1437"/>
+	<Point x="508" y="1436"/>
+	<Point x="600" y="1436"/>
+	<Point x="600" y="1435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Setipalpella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r88" type="paragraph">
+	<Coords>
+	<Point x="545" y="1495"/>
+	<Point x="545" y="1548"/>
+	<Point x="522" y="1548"/>
+	<Point x="522" y="1549"/>
+	<Point x="489" y="1549"/>
+	<Point x="489" y="1550"/>
+	<Point x="457" y="1550"/>
+	<Point x="457" y="1551"/>
+	<Point x="424" y="1551"/>
+	<Point x="424" y="1552"/>
+	<Point x="391" y="1552"/>
+	<Point x="391" y="1553"/>
+	<Point x="358" y="1553"/>
+	<Point x="358" y="1554"/>
+	<Point x="325" y="1554"/>
+	<Point x="325" y="1555"/>
+	<Point x="293" y="1555"/>
+	<Point x="293" y="1556"/>
+	<Point x="260" y="1556"/>
+	<Point x="260" y="1557"/>
+	<Point x="227" y="1557"/>
+	<Point x="227" y="1558"/>
+	<Point x="194" y="1558"/>
+	<Point x="194" y="1559"/>
+	<Point x="194" y="1495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Difﬁnis</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r90" type="paragraph">
+	<Coords>
+	<Point x="545" y="1550"/>
+	<Point x="545" y="1601"/>
+	<Point x="194" y="1601"/>
+	<Point x="194" y="1561"/>
+	<Point x="196" y="1561"/>
+	<Point x="196" y="1560"/>
+	<Point x="229" y="1560"/>
+	<Point x="229" y="1559"/>
+	<Point x="262" y="1559"/>
+	<Point x="262" y="1558"/>
+	<Point x="295" y="1558"/>
+	<Point x="295" y="1557"/>
+	<Point x="327" y="1557"/>
+	<Point x="327" y="1556"/>
+	<Point x="360" y="1556"/>
+	<Point x="360" y="1555"/>
+	<Point x="393" y="1555"/>
+	<Point x="393" y="1554"/>
+	<Point x="426" y="1554"/>
+	<Point x="426" y="1553"/>
+	<Point x="459" y="1553"/>
+	<Point x="459" y="1552"/>
+	<Point x="491" y="1552"/>
+	<Point x="491" y="1551"/>
+	<Point x="524" y="1551"/>
+	<Point x="524" y="1550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Tristella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r92" type="paragraph">
+	<Coords>
+	<Point x="569" y="1606"/>
+	<Point x="569" y="1660"/>
+	<Point x="525" y="1660"/>
+	<Point x="525" y="1661"/>
+	<Point x="452" y="1661"/>
+	<Point x="452" y="1662"/>
+	<Point x="379" y="1662"/>
+	<Point x="379" y="1663"/>
+	<Point x="306" y="1663"/>
+	<Point x="306" y="1664"/>
+	<Point x="233" y="1664"/>
+	<Point x="233" y="1665"/>
+	<Point x="190" y="1665"/>
+	<Point x="190" y="1606"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Bivittella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r96" type="paragraph">
+	<Coords>
+	<Point x="569" y="1662"/>
+	<Point x="569" y="1726"/>
+	<Point x="190" y="1726"/>
+	<Point x="190" y="1667"/>
+	<Point x="235" y="1667"/>
+	<Point x="235" y="1666"/>
+	<Point x="308" y="1666"/>
+	<Point x="308" y="1665"/>
+	<Point x="381" y="1665"/>
+	<Point x="381" y="1664"/>
+	<Point x="454" y="1664"/>
+	<Point x="454" y="1663"/>
+	<Point x="527" y="1663"/>
+	<Point x="527" y="1662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Echinella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r98" type="paragraph">
+	<Coords>
+	<Point x="569" y="1728"/>
+	<Point x="569" y="1779"/>
+	<Point x="190" y="1779"/>
+	<Point x="190" y="1728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Similis</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r100" type="paragraph">
+	<Coords>
+	<Point x="779" y="1791"/>
+	<Point x="779" y="1843"/>
+	<Point x="718" y="1843"/>
+	<Point x="718" y="1844"/>
+	<Point x="373" y="1844"/>
+	<Point x="373" y="1845"/>
+	<Point x="59" y="1845"/>
+	<Point x="59" y="1791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* › Simillima (Dalmat.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r102" type="paragraph">
+	<Coords>
+	<Point x="779" y="1845"/>
+	<Point x="779" y="1905"/>
+	<Point x="59" y="1905"/>
+	<Point x="59" y="1847"/>
+	<Point x="375" y="1847"/>
+	<Point x="375" y="1846"/>
+	<Point x="720" y="1846"/>
+	<Point x="720" y="1845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* › Propinqua (Syr.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r104" type="paragraph">
+	<Coords>
+	<Point x="596" y="1964"/>
+	<Point x="596" y="2023"/>
+	<Point x="583" y="2023"/>
+	<Point x="583" y="2024"/>
+	<Point x="495" y="2024"/>
+	<Point x="495" y="2025"/>
+	<Point x="407" y="2025"/>
+	<Point x="407" y="2026"/>
+	<Point x="318" y="2026"/>
+	<Point x="318" y="2027"/>
+	<Point x="230" y="2027"/>
+	<Point x="230" y="2028"/>
+	<Point x="190" y="2028"/>
+	<Point x="190" y="1964"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Necessaria</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r106" type="paragraph">
+	<Coords>
+	<Point x="596" y="2025"/>
+	<Point x="596" y="2083"/>
+	<Point x="190" y="2083"/>
+	<Point x="190" y="2030"/>
+	<Point x="232" y="2030"/>
+	<Point x="232" y="2029"/>
+	<Point x="320" y="2029"/>
+	<Point x="320" y="2028"/>
+	<Point x="409" y="2028"/>
+	<Point x="409" y="2027"/>
+	<Point x="497" y="2027"/>
+	<Point x="497" y="2026"/>
+	<Point x="585" y="2026"/>
+	<Point x="585" y="2025"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Confusa</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r108" type="paragraph">
+	<Coords>
+	<Point x="1422" y="552"/>
+	<Point x="1422" y="611"/>
+	<Point x="948" y="611"/>
+	<Point x="948" y="552"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Miserella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r112" type="paragraph">
+	<Coords>
+	<Point x="1422" y="613"/>
+	<Point x="1422" y="663"/>
+	<Point x="1308" y="663"/>
+	<Point x="1308" y="664"/>
+	<Point x="1182" y="664"/>
+	<Point x="1182" y="665"/>
+	<Point x="1056" y="665"/>
+	<Point x="1056" y="666"/>
+	<Point x="948" y="666"/>
+	<Point x="948" y="613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chauliod. Wockeellus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r114" type="paragraph">
+	<Coords>
+	<Point x="1422" y="665"/>
+	<Point x="1422" y="723"/>
+	<Point x="948" y="723"/>
+	<Point x="948" y="668"/>
+	<Point x="1058" y="668"/>
+	<Point x="1058" y="667"/>
+	<Point x="1184" y="667"/>
+	<Point x="1184" y="666"/>
+	<Point x="1310" y="666"/>
+	<Point x="1310" y="665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dougl. Columbella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r116" type="paragraph">
+	<Coords>
+	<Point x="1451" y="728"/>
+	<Point x="1451" y="779"/>
+	<Point x="950" y="779"/>
+	<Point x="950" y="728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Minutissima</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r125" type="paragraph">
+	<Coords>
+	<Point x="932" y="1494"/>
+	<Point x="1532" y="1494"/>
+	<Point x="1532" y="1550"/>
+	<Point x="932" y="1550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* › Matronella (Hyrc.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r127" type="paragraph">
+	<Coords>
+	<Point x="932" y="1555"/>
+	<Point x="1540" y="1555"/>
+	<Point x="1540" y="1606"/>
+	<Point x="932" y="1606"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elach. Atrisquamosa</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r129" type="paragraph">
+	<Coords>
+	<Point x="1720" y="1610"/>
+	<Point x="1720" y="1669"/>
+	<Point x="943" y="1669"/>
+	<Point x="943" y="1610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Deceptricula</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r133" type="paragraph">
+	<Coords>
+	<Point x="1720" y="1671"/>
+	<Point x="1720" y="1725"/>
+	<Point x="943" y="1725"/>
+	<Point x="943" y="1671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Pollutissima</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r137" type="paragraph">
+	<Coords>
+	<Point x="1720" y="1727"/>
+	<Point x="1720" y="1783"/>
+	<Point x="943" y="1783"/>
+	<Point x="943" y="1727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lithocol. Deleta</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r141" type="paragraph">
+	<Coords>
+	<Point x="1720" y="1785"/>
+	<Point x="1720" y="1846"/>
+	<Point x="943" y="1846"/>
+	<Point x="943" y="1785"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bucculatrix Basifuscella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r145" type="paragraph">
+	<Coords>
+	<Point x="1720" y="1848"/>
+	<Point x="1720" y="1900"/>
+	<Point x="1667" y="1900"/>
+	<Point x="1667" y="1901"/>
+	<Point x="1544" y="1901"/>
+	<Point x="1544" y="1902"/>
+	<Point x="1421" y="1902"/>
+	<Point x="1421" y="1903"/>
+	<Point x="1298" y="1903"/>
+	<Point x="1298" y="1904"/>
+	<Point x="1175" y="1904"/>
+	<Point x="1175" y="1905"/>
+	<Point x="1052" y="1905"/>
+	<Point x="1052" y="1906"/>
+	<Point x="943" y="1906"/>
+	<Point x="943" y="1848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Oppositella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r149" type="paragraph">
+	<Coords>
+	<Point x="1720" y="1902"/>
+	<Point x="1720" y="1961"/>
+	<Point x="1555" y="1961"/>
+	<Point x="1555" y="1960"/>
+	<Point x="1244" y="1960"/>
+	<Point x="1244" y="1959"/>
+	<Point x="943" y="1959"/>
+	<Point x="943" y="1908"/>
+	<Point x="1054" y="1908"/>
+	<Point x="1054" y="1907"/>
+	<Point x="1177" y="1907"/>
+	<Point x="1177" y="1906"/>
+	<Point x="1300" y="1906"/>
+	<Point x="1300" y="1905"/>
+	<Point x="1423" y="1905"/>
+	<Point x="1423" y="1904"/>
+	<Point x="1546" y="1904"/>
+	<Point x="1546" y="1903"/>
+	<Point x="1669" y="1903"/>
+	<Point x="1669" y="1902"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Infans</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r153" type="paragraph">
+	<Coords>
+	<Point x="1242" y="1961"/>
+	<Point x="1242" y="1962"/>
+	<Point x="1553" y="1962"/>
+	<Point x="1553" y="1963"/>
+	<Point x="1720" y="1963"/>
+	<Point x="1720" y="2023"/>
+	<Point x="1593" y="2023"/>
+	<Point x="1593" y="2024"/>
+	<Point x="1372" y="2024"/>
+	<Point x="1372" y="2025"/>
+	<Point x="1150" y="2025"/>
+	<Point x="1150" y="2026"/>
+	<Point x="943" y="2026"/>
+	<Point x="943" y="1961"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Micropteryx Amasiella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r155" type="paragraph">
+	<Coords>
+	<Point x="1720" y="2025"/>
+	<Point x="1720" y="2079"/>
+	<Point x="943" y="2079"/>
+	<Point x="943" y="2028"/>
+	<Point x="1152" y="2028"/>
+	<Point x="1152" y="2027"/>
+	<Point x="1374" y="2027"/>
+	<Point x="1374" y="2026"/>
+	<Point x="1595" y="2026"/>
+	<Point x="1595" y="2025"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Acipt. Baliodactyla v. Meridionalis</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r158">
+	<Coords>
+	<Point x="920" y="253"/>
+	<Point x="920" y="2149"/>
+	<Point x="929" y="2149"/>
+	<Point x="929" y="253"/></Coords></SeparatorRegion>
+	<TextRegion id="r160" type="paragraph">
+	<Coords>
+	<Point x="1451" y="781"/>
+	<Point x="1451" y="842"/>
+	<Point x="950" y="842"/>
+	<Point x="950" y="781"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Butalis Tenuisquamata</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r162" type="paragraph">
+	<Coords>
+	<Point x="1451" y="844"/>
+	<Point x="1451" y="891"/>
+	<Point x="950" y="891"/>
+	<Point x="950" y="844"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Tabescentella</Unicode></TextEquiv></TextRegion></Page></PcGts>

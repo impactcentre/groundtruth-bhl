@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672190">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T08:12:54</Created>
+	<LastChange>2012-02-10T09:53:58</LastChange></Metadata>
+	<Page imageFilename="00672190.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r28" index="5"/>
+	<RegionRefIndexed regionRef="r34" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r14" index="13"/>
+	<RegionRefIndexed regionRef="r16" index="14"/>
+	<RegionRefIndexed regionRef="r17" index="15"/>
+	<RegionRefIndexed regionRef="r18" index="16"/>
+	<RegionRefIndexed regionRef="r20" index="17"/>
+	<RegionRefIndexed regionRef="r21" index="18"/>
+	<RegionRefIndexed regionRef="r22" index="19"/>
+	<RegionRefIndexed regionRef="r23" index="20"/>
+	<RegionRefIndexed regionRef="r24" index="21"/>
+	<RegionRefIndexed regionRef="r25" index="22"/>
+	<RegionRefIndexed regionRef="r26" index="23"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="624" y="874"/>
+	<Point x="1584" y="874"/>
+	<Point x="1584" y="979"/>
+	<Point x="624" y="979"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LISTE DES MEMBRES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1012" y="993"/>
+	<Point x="1207" y="993"/>
+	<Point x="1207" y="1058"/>
+	<Point x="1012" y="1058"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="232" y="1074"/>
+	<Point x="1967" y="1074"/>
+	<Point x="1967" y="1174"/>
+	<Point x="232" y="1174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOCIÉTÉ ENTOMOLOGIQUE DE RUSSIE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="913" y="1205"/>
+	<Point x="1319" y="1205"/>
+	<Point x="1319" y="1261"/>
+	<Point x="913" y="1261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1 Décembre 1880.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="602" y="1321"/>
+	<Point x="1597" y="1321"/>
+	<Point x="1597" y="1379"/>
+	<Point x="602" y="1379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NОТА. L’astérisque indique les fondateurs de la Société.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="467" y="1630"/>
+	<Point x="1761" y="1630"/>
+	<Point x="1761" y="1736"/>
+	<Point x="467" y="1736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CONSTANTIN NICOLAÏÉVITCH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="805" y="1773"/>
+	<Point x="1402" y="1773"/>
+	<Point x="1402" y="1838"/>
+	<Point x="805" y="1838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Membres Honoraires.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="958" y="1871"/>
+	<Point x="1258" y="1871"/>
+	<Point x="1258" y="1935"/>
+	<Point x="958" y="1935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En Russie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="200" y="1958"/>
+	<Point x="1990" y="1958"/>
+	<Point x="1990" y="2135"/>
+	<Point x="200" y="2135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son Altesse Impériale Monseigneur le Grand-Duc NICOLAS
+NICOLAÏÉVITCH ainé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="207" y="2581"/>
+	<Point x="1080" y="2581"/>
+	<Point x="1080" y="2709"/>
+	<Point x="207" y="2709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1873. Greigh (Samuel), membre du Con‐
+seil de l’Empire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="209" y="2714"/>
+	<Point x="1083" y="2714"/>
+	<Point x="1083" y="2833"/>
+	<Point x="209" y="2833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1861. Keyserling (le Comte Alexdr.),
+à Dorpat. — Zoologie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="211" y="3024"/>
+	<Point x="1083" y="3021"/>
+	<Point x="1084" y="3135"/>
+	<Point x="210" y="3135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1880. Lieven (le Comte A.), Ministre des
+domaines.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1133" y="2174"/>
+	<Point x="2010" y="2174"/>
+	<Point x="2010" y="2361"/>
+	<Point x="1133" y="2361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1867. Maeklin (Frédér. Guill.), profes‐
+seur à l’Université de Helsing-
+fors. — Zoologie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1205" y="2364"/>
+	<Point x="2018" y="2364"/>
+	<Point x="2018" y="2536"/>
+	<Point x="1204" y="2540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Manderstjerna (Alexdr.), gé‐
+néral aide-de-camp, à Radom.—
+Coléoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1207" y="2543"/>
+	<Point x="2016" y="2543"/>
+	<Point x="2016" y="2656"/>
+	<Point x="1207" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Middendorff (Alexdr.), acadé‐
+micien, à Dorpat. — Zoologie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1133" y="2660"/>
+	<Point x="2015" y="2660"/>
+	<Point x="2014" y="2832"/>
+	<Point x="1134" y="2837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1867. Ovsiannikoff (Philippe), acadé‐
+micien. — Anatomie et physio‐
+logie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1138" y="2839"/>
+	<Point x="2010" y="2834"/>
+	<Point x="2010" y="2946"/>
+	<Point x="1137" y="2950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1861. Poutiatine (le Comte E.), mem‐
+bre du Conseil de l’Empire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="heading">
+	<Coords>
+	<Point x="695" y="1429"/>
+	<Point x="1523" y="1429"/>
+	<Point x="1523" y="1507"/>
+	<Point x="695" y="1507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Protecteur de la Société</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="heading">
+	<Coords>
+	<Point x="290" y="1522"/>
+	<Point x="1931" y="1522"/>
+	<Point x="1931" y="1608"/>
+	<Point x="290" y="1608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son Altesse Impériale Monseigneur le Grand-Duc</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="190" y="2170"/>
+	<Point x="1083" y="2170"/>
+	<Point x="1083" y="2311"/>
+	<Point x="188" y="2315"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1861. Chaudoir (le Baron Maximilien
+de), à Kiew. — Coléoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="187" y="2319"/>
+	<Point x="1085" y="2319"/>
+	<Point x="1085" y="2441"/>
+	<Point x="189" y="2443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1866. Délianoff (Jean), membre du
+Conseil de l’Empire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="205" y="2450"/>
+	<Point x="1076" y="2450"/>
+	<Point x="1076" y="2572"/>
+	<Point x="205" y="2572"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1862. Golovnine (Alexdr.), membre du
+Conseil de l'Empire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="202" y="2841"/>
+	<Point x="1079" y="2841"/>
+	<Point x="1077" y="3016"/>
+	<Point x="205" y="3023"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1863. Kessler (Charles), professeur à
+l’Université de St. Pétersbourg.—
+Zoologie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1215" y="2954"/>
+	<Point x="2020" y="2951"/>
+	<Point x="2020" y="3130"/>
+	<Point x="1211" y="3130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Radoczkovsky (Octave), géné-
+ral, à Varsovie. — Hyménop-
+tères.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r46">
+	<Coords>
+	<Point x="951" y="1288"/>
+	<Point x="951" y="1316"/>
+	<Point x="1259" y="1316"/>
+	<Point x="1259" y="1288"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r47">
+	<Coords>
+	<Point x="943" y="1387"/>
+	<Point x="943" y="1411"/>
+	<Point x="1260" y="1411"/>
+	<Point x="1260" y="1387"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r51">
+	<Coords>
+	<Point x="1101" y="2184"/>
+	<Point x="1101" y="3146"/>
+	<Point x="1123" y="3146"/>
+	<Point x="1123" y="2184"/></Coords></SeparatorRegion></Page></PcGts>

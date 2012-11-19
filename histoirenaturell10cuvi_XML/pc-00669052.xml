@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669052">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:48:49</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669052.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="315" y="236"/>
+	<Point x="1751" y="236"/>
+	<Point x="1747" y="612"/>
+	<Point x="1296" y="626"/>
+	<Point x="1278" y="629"/>
+	<Point x="1241" y="629"/>
+	<Point x="1226" y="619"/>
+	<Point x="1225" y="618"/>
+	<Point x="777" y="615"/>
+	<Point x="769" y="625"/>
+	<Point x="316" y="621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a quelques lignes irrégulièrement saillantes vers son
+angle, qui est un peu arrondi. L’ensemble opercu-
+laire, placé derrière lui, est trois fois plus haut que
+long. On aperçoit sur l’opercule quelques stries
+très-légères, qui descendent en rayonnant.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="362" y="625"/>
+	<Point x="772" y="628"/>
+	<Point x="779" y="619"/>
+	<Point x="1224" y="624"/>
+	<Point x="1240" y="633"/>
+	<Point x="1280" y="632"/>
+	<Point x="1294" y="631"/>
+	<Point x="1740" y="620"/>
+	<Point x="1730" y="2116"/>
+	<Point x="364" y="2116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ouïe n’est fendue que jusque sous le bord posté‐
+rieur de l’æil , sa membrane s’unit là au côté de
+l’isthme, qui est assez large; elle contient cinq rayons,
+dont le dernier ou l’inférieur est très-élargi à sa
+base. L’os huméral a quelques stries au-dessus de
+la pectorale; celle-ci est au tiers inférieur de la hau‐
+teur, de forme demi-ovale, d’un peu plus du sixième
+de la longueur totale; on y compte dix-sept rayons:
+le premier est simple et moitié moindre que le second,
+qui est le plus long; le dernier est très-petit. L’ais‐
+selle n’a rien de particulier. Les ventrales naissent
+sous le tiers postérieur des pectorales, et se portent
+aussi loin qu’elles; leurs rayons externe et interne
+sont deux fortes épines, entre lesquelles sont les trois
+autres. Quand elles se serrent contre le ventre, les
+rayons mous se cachent, et on n’aperçoit que les
+quatre épines à côté l’une de l’autre; quand on les
+écarte on voit que les deux épines internes s’attachent
+à la ligne médiane par une membrane, et les deux
+nageoires ont l’air de n’en faire qu’une.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="353" y="2119"/>
+	<Point x="1705" y="2119"/>
+	<Point x="1705" y="2575"/>
+	<Point x="353" y="2575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’anus est caché par les ventrales. En avant de la
+dorsale, derrière la nuque et vis-à-vis le haut de
+l’ouïe, est une pointe, couchée en avant et immobile
+comme dans les liches; puis commence la dorsale,
+composée de treize rayons épineux et de dix mous.
+Les épines sont à peu près égales, d’un peu plus du</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="311" y="135"/>
+	<Point x="457" y="135"/>
+	<Point x="457" y="230"/>
+	<Point x="311" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>120</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="763" y="132"/>
+	<Point x="1285" y="132"/>
+	<Point x="1285" y="230"/>
+	<Point x="763" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672168">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T16:09:26</Created>
+	<LastChange>2012-02-10T09:53:53</LastChange></Metadata>
+	<Page imageFilename="00672168.tif" imageWidth="2201" imageHeight="3129">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="687" y="1085"/>
+	<Point x="1717" y="1085"/>
+	<Point x="1717" y="1169"/>
+	<Point x="687" y="1169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>RÉPARTITION DES LIVRAISONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="352" y="1301"/>
+	<Point x="1631" y="1301"/>
+	<Point x="1631" y="1358"/>
+	<Point x="352" y="1358"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1 &amp; 2 livraisons: Bulletin entomologique, pages III—XXII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="748" y="1360"/>
+	<Point x="1634" y="1360"/>
+	<Point x="1634" y="1419"/>
+	<Point x="748" y="1419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Matériaux scientiﬁques, pages 3 — 208.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="748" y="1423"/>
+	<Point x="2007" y="1423"/>
+	<Point x="2007" y="1473"/>
+	<Point x="748" y="1473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Planches I — Х ......... 5 Février 1881.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="347" y="1482"/>
+	<Point x="1632" y="1482"/>
+	<Point x="1632" y="1536"/>
+	<Point x="347" y="1536"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3 &amp; 4 &gt; Matériaux scientiﬁques, pages 209 — 439.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="752" y="1543"/>
+	<Point x="2054" y="1543"/>
+	<Point x="2054" y="1591"/>
+	<Point x="752" y="1591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Planches XI — XV ........ 1 Novembre 1881.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="1047" y="1857"/>
+	<Point x="1047" y="1890"/>
+	<Point x="1352" y="1890"/>
+	<Point x="1352" y="1857"/></Coords></SeparatorRegion></Page></PcGts>

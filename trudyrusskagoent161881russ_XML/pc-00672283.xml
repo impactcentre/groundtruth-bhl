@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672283">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T21:59:20</Created>
+	<LastChange>2012-02-10T09:54:20</LastChange></Metadata>
+	<Page imageFilename="00672283.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="729" y="94"/>
+	<Point x="1074" y="94"/>
+	<Point x="1074" y="188"/>
+	<Point x="729" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 89 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="9" y="224"/>
+	<Point x="1792" y="224"/>
+	<Point x="1792" y="588"/>
+	<Point x="9" y="588"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zackt, ebenso ist die äussere dunkle Doppelbinde ungezackt.
+Auch sind die beiden schwarzen Punkte am Ende der Mit‐
+telzelle, wie bei Parasitella, in einen Längsﬂeck zusammenge‐
+ﬂossen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="14" y="596"/>
+	<Point x="1790" y="596"/>
+	<Point x="1790" y="1453"/>
+	<Point x="14" y="1453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Homoeosoma spec.? Da ich noch mehrere Binaevella v.
+Unitella aus Amasia erhielt, so kann ich das am Ende der
+Beschreibung dieser v. Unitella p. 224 erwähnte grosse dunkle
+♀ durchaus nicht als eine Varietät der Binaevella ansehn.
+Auch die Intricata Alph. kann es nicht sein, da es zwei
+sehr starke dunkle Querbinden der Vorderﬂügel und keine
+Spur von bräunlicher Färbung auf denselben zeigt. Von Bi‐
+naevella unterscheidet es sich auch noch besonders dadurch,
+dass die erste dunkle Binde viel weiter nach der Mitte zu ge‐
+rückt ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="22" y="1461"/>
+	<Point x="1816" y="1461"/>
+	<Point x="1816" y="2479"/>
+	<Point x="22" y="2479"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ephestia Unicolorella Stgr. Johann sandte mir noch
+einen ♂ (13 Mai gefangen) und 4 ♀♀ (13 und 24 Mai) die‐
+ser Form ein, die ich danach unbedingt als eine von Elutella
+verschiedene Art aufstelle. Die Grösse ist dieselbe, die Vor‐
+derﬂügel zeigen aber keine Spur von röthlicher Färbung. Die
+beiden dunklen Querlinien, besonders die erste, sind stärker,
+und die äussere mehr gezackt. Besonders das zuletzt erhal‐
+tene ♂ hat eine ganz schwarze Basis des Vorderrandes, das
+erste ♂ auch, aber weniger, die ♀♀ gar nicht. Dennoch gehö‐
+ren sie sicher zu den ♂♂, zumal die zuletzt erhaltenen 4 Stück;
+aber auch das erste grösste, welches dem Parasitella ♀ ähn‐
+lich aussieht, gehört wohl ziemlich sicher zu dieser Art.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="9" y="2492"/>
+	<Point x="1805" y="2492"/>
+	<Point x="1805" y="2916"/>
+	<Point x="9" y="2916"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Teras Logiana Schiff. (ab. Germarana Frr.)? Mann
+giebt an, dass er im Juni bei Brussa einige Teras Tristana
+Hb. ﬁng. Vielleicht waren dies Logiana und wahrscheinlich
+die lichtere Form Germarana, die ich auch aus Macedonien
+erhielt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="22" y="2922"/>
+	<Point x="1783" y="2926"/>
+	<Point x="1779" y="3101"/>
+	<Point x="22" y="3101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ter. Contaminana Hb. Johann sandte mir ein am 22
+September gefangenes frisches, aber ganz verletztes Stück die-</Unicode></TextEquiv></TextRegion></Page></PcGts>

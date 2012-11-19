@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668995">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T15:41:39</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668995.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="28" y="305"/>
+	<Point x="1450" y="305"/>
+	<Point x="1448" y="1745"/>
+	<Point x="920" y="1745"/>
+	<Point x="913" y="1758"/>
+	<Point x="872" y="1758"/>
+	<Point x="863" y="1743"/>
+	<Point x="619" y="1743"/>
+	<Point x="614" y="1754"/>
+	<Point x="581" y="1754"/>
+	<Point x="576" y="1747"/>
+	<Point x="185" y="1746"/>
+	<Point x="179" y="1755"/>
+	<Point x="29" y="1755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>données un peu plus nombreuses que celles
+dont il disposait à cette époque. La grande
+ressemblance qui existe entre ces poissons rend
+ce travail très-diﬃcile et peut-être impossible
+sur de simples descriptions rédigées par des
+auteurs diﬀérens qui ne s’en sont pas fait les
+mêmes idées. Mais les savans voyageurs qui
+nous ont rendu tant d’autres services, nous
+ont aussi fourni les moyens d’éclaircir ce sujet,
+en nous mettant à même d’en décrire plusieurs
+espèces d’après nature et sur le même plan, ce
+qui nous aidera beaucoup à reconnaître celles
+dont il est parlé dans les articles de nos pré‐
+décesseurs, et à dire avec plus d’assurance
+quelles sont celles de leurs descriptions ou de
+leurs ﬁgures auxquelles nous ne pouvons rien
+rapporter de ce que nous possédons.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="28" y="1757"/>
+	<Point x="189" y="1757"/>
+	<Point x="192" y="1752"/>
+	<Point x="567" y="1753"/>
+	<Point x="578" y="1760"/>
+	<Point x="621" y="1760"/>
+	<Point x="627" y="1751"/>
+	<Point x="857" y="1752"/>
+	<Point x="865" y="1767"/>
+	<Point x="921" y="1767"/>
+	<Point x="934" y="1749"/>
+	<Point x="1454" y="1750"/>
+	<Point x="1463" y="2701"/>
+	<Point x="32" y="2701"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pour donner à nos lecteurs des idées plus
+précises du genre, nous rassemblerons ici un
+assez grand nombre de traits qui se repro‐
+duisent dans toutes ses espèces, tels que leur
+bouche petite, transverse, se portant en avant
+comme celle des dorées et plus semblable en‐
+core à celle des Gerres, garnie ordinairement
+de dents ﬁnes comme celles des Chétodons;
+leur orbite, muni à son angle antérieur d’une ou
+deux petites épines; les deux oriﬁces de leurs
+narines rapprochés l’un de l’autre et du bord</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="466" y="217"/>
+	<Point x="1028" y="217"/>
+	<Point x="1028" y="290"/>
+	<Point x="466" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1321" y="198"/>
+	<Point x="1454" y="198"/>
+	<Point x="1454" y="286"/>
+	<Point x="1321" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>63</Unicode></TextEquiv></TextRegion></Page></PcGts>

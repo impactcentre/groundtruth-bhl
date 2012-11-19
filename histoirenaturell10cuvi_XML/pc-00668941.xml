@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668941">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T17:35:27</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668941.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="121" y="321"/>
+	<Point x="1520" y="321"/>
+	<Point x="1520" y="659"/>
+	<Point x="121" y="659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>comme ������� signifie faber, on en a conclu
+à l'identité de l'espèce désignée par ces deux
+noms; mais on n'en sait guère plus sur la signi-
+fication de l'un que sur celle de l'autre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="122" y="664"/>
+	<Point x="1518" y="664"/>
+	<Point x="1518" y="1082"/>
+	<Point x="122" y="1082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Athénée dit seulement que le chalceus se
+trouve sur la côte de Cysique et qu'il est de
+forme ronde et circulaire1, et Oppien se borne
+à le ranger parmi les poissons saxatiles2, qui
+paissent près des roches herbeuses.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="122" y="1087"/>
+	<Point x="1521" y="1087"/>
+	<Point x="1521" y="1593"/>
+	<Point x="122" y="1593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son nom romain actuel, cetola, a fait penser
+à Paul-Jove3 que ce pourrait être le ������
+d'Athénée; mais Athénée4 n'en dit autre chose,
+sinon que le kittos était consacré à Bacchus,
+ainsi l'on n'a pas plus de certitude sur cette
+dénomination que sur les autres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="122" y="1598"/>
+	<Point x="1525" y="1598"/>
+	<Point x="1525" y="2439"/>
+	<Point x="122" y="2439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce qui est plus singulier encore, c'est que
+l'on n'ait pas toujours su partout que c'était
+un excellent poisson. Apparemment que sa
+figure rebutait: il est certain, encore aujour-
+d'hui, qu'il est peu recherché à Paris, et Pen-
+nant nous assure qu'on n'a appris à connaître
+sa valeur en Angleterre que par le comédien
+Quin, qui n'était pas moins célèbre en qua-
+lité de gourmand qu'en qualité d'acteur; et
+j'ai entendu dire à un Anglais, habitant de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="129" y="2563"/>
+	<Point x="1519" y="2563"/>
+	<Point x="1519" y="2686"/>
+	<Point x="129" y="2686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. L. VII, p. 328 et ch. 22. — 2. Opp., Hal., 133. —
+3. Pisc. rom., c. 27. — 4. Ath., Deipn., l. VII, p. 325 B.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="615" y="225"/>
+	<Point x="1038" y="225"/>
+	<Point x="1038" y="291"/>
+	<Point x="615" y="291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. ZÉES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1475" y="225"/>
+	<Point x="1525" y="225"/>
+	<Point x="1525" y="288"/>
+	<Point x="1475" y="288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>9</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="132" y="2493"/>
+	<Point x="1521" y="2493"/>
+	<Point x="1521" y="2509"/>
+	<Point x="132" y="2509"/></Coords></SeparatorRegion></Page></PcGts>

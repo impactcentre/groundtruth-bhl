@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669365">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:27:03</Created>
+	<LastChange>2012-03-12T14:33:58</LastChange></Metadata>
+	<Page imageFilename="00669365.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="118" y="254"/>
+	<Point x="1477" y="254"/>
+	<Point x="1477" y="409"/>
+	<Point x="118" y="409"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>du bord inférieur de la ligne argentée des ﬂancs. Le
+haut de l'opercule en a plusieurs rapprochés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="98" y="414"/>
+	<Point x="1490" y="414"/>
+	<Point x="1490" y="781"/>
+	<Point x="98" y="781"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ses viscères ne sont pas très-diﬀérens du sauclet.
+Son estomac me paraît un peu plus globuleux et
+plus large. Sa vessie aérienne se prolonge davantage
+en arrière de l'anus. Le péritoine est moins noir,
+et sa surface argentée moins brillante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="112" y="785"/>
+	<Point x="1485" y="785"/>
+	<Point x="1485" y="1778"/>
+	<Point x="112" y="1778"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une diﬀérence beaucoup plus remarquable, c'est
+que son squelette n'a que quarante-quatre vertèbres,
+dont vingt appartiennent à la queue. Les quatre ou
+cinq plus voisines de la tête ont des apophyses épi-
+neuses comprimées en crêtes presque membraneu-
+ses, et qui se joignent les unes aux autres. Les quatre
+les plus voisines du commencement de la queue ont
+leurs apophyses transverses élargies et réunies en cer-
+cles, ce qui forme à l'arrière de l'abdomen une es-
+pèce de petit cornet ou d'entonnoir, qui loge la
+partie postérieure de la vessie natatoire. Des côtes
+grêles entourent presque tout l'abdomen, et ont un
+petit appendice vers leur base.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="58" y="1780"/>
+	<Point x="1488" y="1780"/>
+	<Point x="1488" y="2488"/>
+	<Point x="58" y="2488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons reçu ce joël ou cabasuda
+d'Iviça par M. De Laroche; de Nice, par M.
+Savigny; de Toulon, par M. Banon; de Si-
+cile, par M. Biberon; de Malte, par M. Leach.
+Il ne paraît pas qu'il soit aussi commun que
+le sauclet, ni qu'il devienne tout-à-fait aussi
+grand. Aucun de nos individus ne passe trois
+pouces et demi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="180" y="2640"/>
+	<Point x="294" y="2640"/>
+	<Point x="294" y="2712"/>
+	<Point x="180" y="2712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1149" y="2628"/>
+	<Point x="1250" y="2628"/>
+	<Point x="1250" y="2713"/>
+	<Point x="1149" y="2713"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>28</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="904" y="156"/>
+	<Point x="904" y="225"/>
+	<Point x="616" y="225"/>
+	<Point x="616" y="156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1462" y="156"/>
+	<Point x="1462" y="225"/>
+	<Point x="1326" y="225"/>
+	<Point x="1326" y="156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>433</Unicode></TextEquiv></TextRegion></Page></PcGts>

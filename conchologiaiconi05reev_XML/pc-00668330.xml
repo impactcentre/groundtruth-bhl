@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668330">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T10:04:54</Created>
+	<LastChange>2012-02-10T09:52:54</LastChange></Metadata>
+	<Page imageFilename="00668330.tif" imageWidth="2453" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r15" index="6"/>
+	<RegionRefIndexed regionRef="r29" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1068" y="164"/>
+	<Point x="1505" y="164"/>
+	<Point x="1505" y="219"/>
+	<Point x="1068" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE XVII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="376" y="233"/>
+	<Point x="1268" y="233"/>
+	<Point x="1268" y="422"/>
+	<Point x="376" y="422"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>most of its congeners, brings forth its young alive, and
+during the dry season incloses itself within the shell by
+forming an epiphragm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="590" y="534"/>
+	<Point x="1052" y="534"/>
+	<Point x="1052" y="585"/>
+	<Point x="590" y="585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 102. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="384" y="605"/>
+	<Point x="1265" y="605"/>
+	<Point x="1265" y="839"/>
+	<Point x="384" y="839"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS CHILENSIS. Bul. testâ oblongo-ovatâ, tenui,
+subtiliter creberrimè granulatâ, spirâ subacutâ, anfrac-
+tibus sex, longitudinaliter rudè striatis, labro tenuissimo,
+simplici; fuscescente, strigis sordidè castaneis longitu-
+dinalibus hic illic tinctâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="385" y="846"/>
+	<Point x="1260" y="846"/>
+	<Point x="1260" y="945"/>
+	<Point x="385" y="945"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CHILI BULIMUS. Shell oblong-ovate, thin, ﬁnely
+very closely granulated, spire rather sharp, whorls</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1307" y="558"/>
+	<Point x="2205" y="558"/>
+	<Point x="2205" y="947"/>
+	<Point x="1307" y="947"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Although this shell is exactly similar in structure to
+that of the preceding species, the animal is not viviparous;
+it is, however, singularly distinguished by the smallness
+of its eggs, which are like little peas. It inhabits the
+mountains of Conception, and is found in ravines near the
+sea-shore as far as Valparaiso. During the dry season it
+buries itself in the earth, inclosed by an epiphragm. The
+shell exhibits little variation of form or colouring.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="1280" y="260"/>
+	<Point x="1273" y="939"/>
+	<Point x="1294" y="940"/>
+	<Point x="1298" y="260"/></Coords></SeparatorRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1376" y="251"/>
+	<Point x="2208" y="251"/>
+	<Point x="2208" y="397"/>
+	<Point x="1376" y="397"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>six in number, longitudinally rudely striated, lip very
+thin, simple; light brown, stained here and there
+with longitudinal dull chesnut streaks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1311" y="495"/>
+	<Point x="2082" y="495"/>
+	<Point x="2082" y="545"/>
+	<Point x="1311" y="545"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Valparaiso and Conception, Chili; Cuming.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r30">
+	<Coords>
+	<Point x="606" y="462"/>
+	<Point x="606" y="481"/>
+	<Point x="1060" y="481"/>
+	<Point x="1060" y="462"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r18">
+	<Coords>
+	<Point x="1062" y="1132"/>
+	<Point x="1535" y="1132"/>
+	<Point x="1535" y="1154"/>
+	<Point x="1062" y="1154"/></Coords></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1312" y="402"/>
+	<Point x="1937" y="402"/>
+	<Point x="1937" y="447"/>
+	<Point x="1853" y="447"/>
+	<Point x="1853" y="492"/>
+	<Point x="1385" y="492"/>
+	<Point x="1385" y="447"/>
+	<Point x="1312" y="447"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LESSON, Voy. de la Coquille, pl. 8. f. 3.
+Bulimus granulosus, Broderip.</Unicode></TextEquiv></TextRegion></Page></PcGts>

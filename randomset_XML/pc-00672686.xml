@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672686">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-14T10:54:52</Created>
+	<LastChange>2012-03-12T14:34:23</LastChange></Metadata>
+	<Page imageFilename="00672686.tif" imageWidth="2909" imageHeight="4617">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/></OrderedGroup></ReadingOrder>
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="407" y="611"/>
+	<Point x="1380" y="611"/>
+	<Point x="1380" y="3050"/>
+	<Point x="407" y="3050"/></Coords></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords>
+	<Point x="1611" y="604"/>
+	<Point x="2752" y="604"/>
+	<Point x="2752" y="3066"/>
+	<Point x="1611" y="3066"/></Coords></ImageRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="1152" y="3452"/>
+	<Point x="1978" y="3452"/>
+	<Point x="1978" y="3597"/>
+	<Point x="1152" y="3597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von den namen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="600" y="3642"/>
+	<Point x="2750" y="3680"/>
+	<Point x="2748" y="4131"/>
+	<Point x="1313" y="4141"/>
+	<Point x="424" y="4135"/>
+	<Point x="421" y="3816"/>
+	<Point x="600" y="3814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B das wrtlin Origanum vnſerm Doen billi zů gelegt werde/wol
+teich der gelerten Teütſer vnd welſcher nation vrſach/gern verne
+men/ſeitemal vnſer Origanus vnnd Doenmit den iiij. alten deſcription
+Dioſco. vnd Plinij gar nit zů dragen. Dañ Plini. lib. xx. cap. xvij. vnd Dio.
+lib. iij. cap. xxx. vergleien die vier Origanos mit den blettern ein theil dem
+nyſop/die andern dem Serpillo vnd Quendel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="2497" y="4161"/>
+	<Point x="2666" y="4161"/>
+	<Point x="2666" y="4285"/>
+	<Point x="2497" y="4285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="869" y="116"/>
+	<Point x="869" y="307"/>
+	<Point x="2266" y="307"/>
+	<Point x="2266" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von der Kreüter bnderſerd</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="728" y="369"/>
+	<Point x="728" y="538"/>
+	<Point x="1288" y="538"/>
+	<Point x="1288" y="369"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wolgemůt</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1709" y="345"/>
+	<Point x="1709" y="533"/>
+	<Point x="2545" y="533"/>
+	<Point x="2545" y="345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>klein Wolgemůt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="435" y="3609"/>
+	<Point x="434" y="3781"/>
+	<Point x="594" y="3784"/>
+	<Point x="595" y="3609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="419" y="3060"/>
+	<Point x="1587" y="3060"/>
+	<Point x="1606" y="3078"/>
+	<Point x="2747" y="3077"/>
+	<Point x="2743" y="3440"/>
+	<Point x="885" y="3422"/>
+	<Point x="862" y="3462"/>
+	<Point x="418" y="3462"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sunino ein Wolgemůt oder Doen/mit fa ſpisigen blettern.
+Dann die vorige/fa ho�it rau vnd wilde/inetlichen wlden zů findẽ/
+mit braunen blmlin vmb den engel wie nyſop. Doen wach gern in
+heen/vnd ſunderlich an bergen/heen/vnd dornen/do die Sonets hin
+kommen kan.</Unicode></TextEquiv></TextRegion></Page></PcGts>

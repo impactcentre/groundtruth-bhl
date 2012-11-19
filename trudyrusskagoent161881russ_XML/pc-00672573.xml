@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672573">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:59:33</Created>
+	<LastChange>2012-02-10T09:55:12</LastChange></Metadata>
+	<Page imageFilename="00672573.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="766" y="171"/>
+	<Point x="1083" y="171"/>
+	<Point x="1083" y="257"/>
+	<Point x="766" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 377 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="45" y="288"/>
+	<Point x="1790" y="288"/>
+	<Point x="1790" y="730"/>
+	<Point x="45" y="730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la vallée de l'Ili et près du Tekèsse. Parmi ces individus il
+y en avait à appendices des secondes ailes très courts (Ther-
+samon) ainsi que des vrais éxemplaires de la forme Omphale
+qui ne peuvent par conséquent être considérés ici comme une
+forme constante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="45" y="740"/>
+	<Point x="1792" y="740"/>
+	<Point x="1792" y="916"/>
+	<Point x="45" y="916"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'ai fait la même observation près de Taganrog, où les
+individus à appendices longs et courts volent entremêlés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="47" y="921"/>
+	<Point x="1792" y="921"/>
+	<Point x="1792" y="1192"/>
+	<Point x="47" y="1192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce Polyommatus était fort râre dans la localité où nous
+le trouvâmes, et, je ne puis dire laquelle de ces deux for-
+mes était la plus fréquente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="464" y="1261"/>
+	<Point x="1369" y="1261"/>
+	<Point x="1369" y="1357"/>
+	<Point x="464" y="1357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>30. P. Phoenicurus Ld. var.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="50" y="1390"/>
+	<Point x="1783" y="1390"/>
+	<Point x="1783" y="1745"/>
+	<Point x="50" y="1745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'ai rencontré le P. Phoenicurus varié, dans un des pro-
+montoires du Tian-Chian, le 13 Mai, non loin du village Ma-
+zare; quelques jours plus tard je le rencontrai de nouveau
+près du Tékesse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="50" y="1754"/>
+	<Point x="1785" y="1754"/>
+	<Point x="1785" y="1923"/>
+	<Point x="50" y="1923"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parmi les 14 individus que j'ai rapportés, et qui varient
+beaucoup entre eux, il n'y en a pas deux pareils.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="50" y="1933"/>
+	<Point x="1795" y="1933"/>
+	<Point x="1795" y="3107"/>
+	<Point x="50" y="3107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pourtant on voit bien que ces individus font passage du
+Phoenicurus typique de l'Hyrcanie à la variété trouvée en
+1880 par les chasseurs du Dr. Staudinger dans le Ferga-
+nah, nommée depuis v. Margelanica (Stgr. in litt.), variété
+qui se distingue principalement par sa grande taille du type
+de l'Hyrcanie. Ce qui m'avait tout d'abord frappé dans ces
+individus, c'est la ressemblance de quelques ♀♀, avec les ♀♀ du
+P. Athamanthis Ev., et je dois ajouter que cette ressemblance
+existe réellement. Mais après une attentive comparaison avec
+les 4 exemplaires de l'Athamanthis de la collection Ersehoff,
+j'ai du reconnaître dans mes exemplaires une forme variée du
+Phoenicurus. Plusieurs de mes ♂♂ présentent, sur le disque
+du dessus des ailes, les points du revers très nettement ac-
+centués, ce qui, au premier abord, leur donne un aspect bien</Unicode></TextEquiv></TextRegion></Page></PcGts>

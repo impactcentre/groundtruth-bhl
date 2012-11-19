@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672373">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:22:19</Created>
+	<LastChange>2012-02-10T09:54:36</LastChange></Metadata>
+	<Page imageFilename="00672373.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="864" y="153"/>
+	<Point x="1166" y="153"/>
+	<Point x="1166" y="228"/>
+	<Point x="864" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 179 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="137" y="1048"/>
+	<Point x="1874" y="1048"/>
+	<Point x="1874" y="2624"/>
+	<Point x="137" y="2624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 41/2‴ lang, schmal, mit schwach convexem
+Vorderrand, an der Spitze fast stumpf, am Innenwinkel ganz
+abgerundet, sehr bleich zimmtgelblich, längs des Vorderrandes
+schmal striemenförmig am hellsten. Die Medianader bildet,
+doch nicht von der Wurzel aus, eine feine, weisse Linie, deren
+zwei Endäste eben so beschaﬀen sind; sie trägt vor der Mitte
+und an der Querader je einen tiefschwarzen Punkt. Ueber ihr
+läuft von dem ersten Punkt an ein gelbbrauner Längsstreifen
+bis zum Hinterrand, gegen welchen sie sich verstärkt und ver-
+dunkelt, und vor welchem dicht über ihr ein kurzer solcher
+Längsstrich liegt. Die gleichfalls feine, weisse Subdorsallinie
+hat einen schwarzen Punkt gegen die Basis und einen anderen
+unter dem ersten der Medianader. Gleich hinter diesem ist
+der ganze Raum zwischen dem Innenrand, dem Hinterrand und
+den zwei deutlichen Medianaderästen wolkig zimmtbräunlich.
+Hinterrand mit undeutlichen, schwarzen Punkten, welche mit
+den weisslichen Aderenden abwechseln. Franzen hellgrau, unter
+der Flügelspitze von der Verlängerung des gelbbraunen Längs-
+streifens durchzogen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="128" y="2626"/>
+	<Point x="1876" y="2626"/>
+	<Point x="1876" y="3128"/>
+	<Point x="128" y="3128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel ziemlich kurz mit scharfer Spitze, glasartig
+weiss, irisirend, nur an der Spitze mit einer kleinen, bräun-
+lichen, ﬂeckartigen Stelle. Der erste Ast kommt von 1/5 der
+Medianader, der zweite bald dahinter, der dritte nach lan-
+gem Abstande, so dass der Stiel der Endgabel länger ist als
+diese.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1626" y="3135"/>
+	<Point x="1712" y="3135"/>
+	<Point x="1712" y="3183"/>
+	<Point x="1626" y="3183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>12*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="144" y="291"/>
+	<Point x="1885" y="291"/>
+	<Point x="1885" y="1041"/>
+	<Point x="144" y="1041"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dem Gesicht anliegend; das Endglied 1/3 so lang wie das
+zweite Glied. Die Maxillartaster pinselförmig, hell zimmtbraun.
+Die Fühler am Wurzelglied hellbräunlich, sonst braungrau; der
+Schuppenbusch stark, innen tiefschwarz. Kragen zimmtbraun,
+einwärts weisslich. Rückenschild weisslich mit zimmtfarbnen
+Schulterdecken. Hinterleib gestreckt, schmutzig bleichochergelb,
+Analbusch schwach; die Haltzangen behaart, hervorstehend,
+darunter graue Haarschuppen. Beine gelblich- oder röthlichgrau;
+Mittelschienen ﬂach gedrückt, auf dein Rücken haarschuppig.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669200">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:36:51</Created>
+	<LastChange>2012-03-12T14:33:49</LastChange></Metadata>
+	<Page imageFilename="00669200.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="308" y="285"/>
+	<Point x="1748" y="285"/>
+	<Point x="1748" y="464"/>
+	<Point x="309" y="465"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pas le regarder comme un individu encore
+plus jeune que celui de M. Théodore Delise.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="328" y="468"/>
+	<Point x="1731" y="468"/>
+	<Point x="1730" y="884"/>
+	<Point x="326" y="884"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Enﬁn, nous en devons de plus petits encore
+à M. Lamarre-Piquot, et qui n’ont plus même
+de plaques ou écussons de chaque côté de la
+queue : une petite tache bleue en marque la
+place.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="326" y="887"/>
+	<Point x="1727" y="888"/>
+	<Point x="1729" y="1987"/>
+	<Point x="326" y="1987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons pu examiner les viscères de
+l’individu que MM. Quoy et Gaimard ont
+procuré au Cabinet du Roi. Dans ce poisson,
+long, comme nous l’avons déjà dit, de dix
+pouces, la cavité abdominale a près de deux
+pouces et demi de long, deux pouces seule‐
+ment dans le sens de la hauteur, et environ
+un pouce d’épaisseur. Outre un foie assez épais,
+une rate, une vessie natatoire assez grandes,
+des reins, et enﬁn les organes de la génération,
+la nature a trouvé moyen de placer dans une
+aussi petite cavité un canal intestinal long de
+quatre pieds.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="326" y="1989"/>
+	<Point x="1725" y="1989"/>
+	<Point x="1725" y="2499"/>
+	<Point x="326" y="2499"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette longueur du canal digestif est rare‐
+ment observée dans la classe des poissons,
+animaux généralement carnassiers; mais celui
+que nous examinons est phytophage comme
+ceux de la famille des Teuthies, et Forskal
+l’avait déjà remarqué.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="392" y="2504"/>
+	<Point x="1735" y="2504"/>
+	<Point x="1735" y="2660"/>
+	<Point x="392" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Après avoir traversé le diaphragme, le canal montre
+en dessous un petit cul-de-sac, puis il se continue</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="324" y="183"/>
+	<Point x="482" y="183"/>
+	<Point x="482" y="276"/>
+	<Point x="324" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>268</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="776" y="183"/>
+	<Point x="1326" y="183"/>
+	<Point x="1326" y="276"/>
+	<Point x="776" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

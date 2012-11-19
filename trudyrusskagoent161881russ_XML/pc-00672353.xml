@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672353">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:18:07</Created>
+	<LastChange>2012-02-10T09:54:33</LastChange></Metadata>
+	<Page imageFilename="00672353.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="730" y="157"/>
+	<Point x="1044" y="157"/>
+	<Point x="1044" y="226"/>
+	<Point x="730" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 159 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="33" y="291"/>
+	<Point x="1769" y="291"/>
+	<Point x="1769" y="1787"/>
+	<Point x="33" y="1787"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>durch Concavität des Hinterrandes mehr hervortretende Spitze.
+Die Grundfarbe ist weiss, auf mehr als der Basalhälfte reich-
+lich mit grauen Querstrichelchen bestreut, welche nach hinten
+und im Costal- und Dorsalfelde in blosse Pünktchen übergehen.
+Hinter der Mitte folgt eine hellgrau ochergelbe Querlinie, welche
+im Mittelfelde einen lang ausgezogenen Winkel und weiter ab-
+wärts einen kleinen Winkel bildet. Vor dem Hinterrande läuft
+eine graue Doppellinie, welche einen grossen, nach hinten ge-
+richteten Bogen macht, der sich in der Mitte sehr dem Hinter-
+rande nähert; von diesen zwei Linien ist die hintere dunkler
+und kurzwellig. Der Raum zwischen ihnen und der Mittellinie
+ist, ausser am Vorderrande, mit feinen, schwarzen Schüppchen
+ziemlich dicht bestreut. Die Flügelspitze ist zum grössern Theil
+sehr blass dottergelb. Die Hinterrandlinie ist schwärzlich, fein,
+mit schwachen Verdickungen. Durch die weisslichen Franzen
+zieht eine stärkere, schwarze Linie. — Die beiden ♀♀ sind in
+Bosque County (Texas), das grössere am 29 Juni, das kleinere
+am 25 August gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="235" y="1891"/>
+	<Point x="1555" y="1891"/>
+	<Point x="1555" y="1989"/>
+	<Point x="235" y="1989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Donacoscaptes lanceolatns. Tab. XI, ﬁg. 4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="26" y="2024"/>
+	<Point x="1767" y="2024"/>
+	<Point x="1767" y="2283"/>
+	<Point x="26" y="2283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Maximus, alis ant. angustis, apice valde productis, mar-
+gine peroblique recedente, ochraceis, antice pallescentibus; post.
+valde acuminatis, pallidis. ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="37" y="2316"/>
+	<Point x="1769" y="2316"/>
+	<Point x="1769" y="2887"/>
+	<Point x="37" y="2887"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dieses gewaltig grosse Thier hat keine Ocellen, gehört
+also nicht zu Chilo (s. exot. Micr. p. 16), und da ihm auch
+der Sauger fehlt und seine Stirn in ein langes, braunes Horn
+ausläuft, dessen Spitze über die bekleidenden Schuppen hervor-
+steht, so kann es auch mit Chilo angustipennis, welcher Ocellen,
+einen starken, aufgerollten Sauger und eine zugerunclete Stirn
+hat, nicht in einerlei Gattung gehören *). Die Lippentaster</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="42" y="2980"/>
+	<Point x="1751" y="2980"/>
+	<Point x="1751" y="3110"/>
+	<Point x="42" y="3110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Daher wird Ch. angustipennis aller Wahrscheinlichkeit nach lange
+Lippentaster besitzen.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="41" y="2919"/>
+	<Point x="626" y="2919"/>
+	<Point x="626" y="2964"/>
+	<Point x="41" y="2964"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672470">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:40:34</Created>
+	<LastChange>2012-02-10T09:54:57</LastChange></Metadata>
+	<Page imageFilename="00672470.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="985" y="167"/>
+	<Point x="1305" y="167"/>
+	<Point x="1305" y="237"/>
+	<Point x="985" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 276 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="271" y="298"/>
+	<Point x="2037" y="298"/>
+	<Point x="2037" y="1221"/>
+	<Point x="271" y="1221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>crochetis duabus brevibus et apice serie marginata macroche-
+tarum longarum; quarto toto longe setoso (in faemina segmento
+primo apice et secundo in disco inermibus); alis sat brevibus,
+subhyalinis; spinula costae valida; nervo quinto angulatim
+cubitato et a cubito ad apicem paullo incurvato; angulo sub-
+recto; nervis transversis appropinquantibus, transverso
+secundo obliquo, subinﬂexo paullo magis distante a primo
+transverso quam a curvatura quinti longitudinalis; cellula prima
+postica sat longe ab apicem alae aperta; nervo quarto basi
+setulis 3—4—5 armato; pedibus nigris; uncis pulvillisque
+in utroque sexu parvis. Long. 3—4‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="399" y="1242"/>
+	<Point x="1644" y="1242"/>
+	<Point x="1644" y="1324"/>
+	<Point x="399" y="1324"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Rossia merid. (Poltawa, Charkow).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="628" y="1482"/>
+	<Point x="1687" y="1482"/>
+	<Point x="1687" y="1583"/>
+	<Point x="628" y="1583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pachystylum fasciatum ♂ nv. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="294" y="1657"/>
+	<Point x="2058" y="1657"/>
+	<Point x="2058" y="3083"/>
+	<Point x="294" y="3083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nigrum, nitidum; capite albomicante; fronte antice parum
+porrecta, lata, quadrifariam setosa; vitta frontali atra; genis
+sat latis setulis prope marginem instructis; peristomio sub oculos
+distincte producto; antennis liberis sat angustis et cum palpis
+nigris; arista basi geniculata et ad medium incrassata; articu-
+lis basalibus aristae brevibus sed distinctis; thorace griseo-
+pruinoso lineis quatuor nigris, intermediis tenuissimis; abdomine
+fasciis latis albomicantibus in segmentis secundo, tertio et
+quarto; segmentis macrochetis discoidalibus et marginalibus
+instructis; pedibus nigris, tibiis nigro-fuscis; unguibus pulvil-
+lísque parvis; alis subhyalinis basi ﬂavidis; nervo secundo
+longitudinali non distincte producto ultra transversum
+primum, cellula prima postica fere in apice alae
+aperta; nervo quinto longit. angulatim cubitato et supra cu-
+bitum subrecto, angulo obtuso; cubito paullo longius a
+nervo transverso secundo sito, quam a margine alarum;
+nervo secundo transverso inﬂexo et magis distante a</Unicode></TextEquiv></TextRegion></Page></PcGts>

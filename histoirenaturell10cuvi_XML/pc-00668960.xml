@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668960">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T10:07:32</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668960.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="744" y="250"/>
+	<Point x="1397" y="250"/>
+	<Point x="1397" y="340"/>
+	<Point x="744" y="340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="433" y="357"/>
+	<Point x="1786" y="357"/>
+	<Point x="1786" y="674"/>
+	<Point x="433" y="674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>même entre les appendices cæcales, qui sont plus
+grêles et encore plus nombreuses. L'estomac est un
+peu plus petit; ses parois, quoique très-charnues,
+sont plus minces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="353" y="696"/>
+	<Point x="1796" y="696"/>
+	<Point x="1796" y="1556"/>
+	<Point x="993" y="1556"/>
+	<Point x="976" y="1560"/>
+	<Point x="959" y="1556"/>
+	<Point x="509" y="1556"/>
+	<Point x="485" y="1549"/>
+	<Point x="465" y="1556"/>
+	<Point x="353" y="1556"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est manifestement un individu semblable
+que Rondelet a représenté, p. 328. Sa ﬁgure
+exprime parfaitement la grosseur des rayons
+de la première dorsale, l'épaisseur et le petit
+nombre des écussons aux côtés de la seconde,
+la longueur et la force de l'épine scapulaire,
+ainsi que la lame divergente dont sa base est
+armée; enﬁn, la pointe aiguë de l'humeral.
+La tache se voyant dans cette ﬁgure, on doit
+croire que cette espèce l'a comme l'autre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="348" y="1564"/>
+	<Point x="464" y="1564"/>
+	<Point x="474" y="1558"/>
+	<Point x="484" y="1556"/>
+	<Point x="495" y="1557"/>
+	<Point x="520" y="1564"/>
+	<Point x="868" y="1564"/>
+	<Point x="887" y="1558"/>
+	<Point x="904" y="1564"/>
+	<Point x="991" y="1564"/>
+	<Point x="1012" y="1558"/>
+	<Point x="1039" y="1564"/>
+	<Point x="1798" y="1564"/>
+	<Point x="1798" y="2083"/>
+	<Point x="348" y="2083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comment se fait-il maintenant qu'un pois-
+son si remarquable ait été confondu avec la
+dorée ordinaire, ou si (contre toute attente)
+ce n'en était qu'une variété, comment les ob-
+servateurs ont-ils tous négligé de nous instruire
+des causes qui l'amènent?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="382" y="242"/>
+	<Point x="474" y="242"/>
+	<Point x="474" y="318"/>
+	<Point x="382" y="318"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>28</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="983" y="2316"/>
+	<Point x="1150" y="2316"/>
+	<Point x="1150" y="2332"/>
+	<Point x="983" y="2332"/></Coords></SeparatorRegion></Page></PcGts>

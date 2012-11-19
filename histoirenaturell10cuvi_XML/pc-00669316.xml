@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669316">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:51:06</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669316.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="429" y="253"/>
+	<Point x="1798" y="253"/>
+	<Point x="1798" y="635"/>
+	<Point x="433" y="640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’opercule est petit et étroit, de forme quadrilatère,
+et placé dans la moitié supérieure de l’arrière de la
+tête. L’autre moitié est occupée par le préopercule,
+assez semblable, pour la forme et la grandeur, à
+l’opercule, et par le sous-opercule, qui est fort petit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="448" y="642"/>
+	<Point x="1785" y="638"/>
+	<Point x="1793" y="1376"/>
+	<Point x="609" y="1372"/>
+	<Point x="600" y="1389"/>
+	<Point x="445" y="1390"/>
+	<Point x="445" y="794"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’œil est de grandeur moyenne; les ouïes sont
+assez fendues; les rayons sont au nombre de quatre
+(M. de Blainville dit cinq ou six), le tronc est un
+peu plus arrondi en dessous qu’en dessus, et je crois
+que si l’individu était mieux conservé, la peau de
+l’abdomen serait un peu molle et lâche, comme un
+fanon. La pectorale est demi-ovale, assez pointue;
+sa longueur est à peu près égale à la hauteur du
+corps. M. Valenciennes lui a compté treize rayons.
+Il n’y a évidemment aucune trace de ventrales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="447" y="1396"/>
+	<Point x="604" y="1396"/>
+	<Point x="615" y="1379"/>
+	<Point x="1793" y="1381"/>
+	<Point x="1794" y="2221"/>
+	<Point x="448" y="2221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La dorsale commence immédiatement au-dessus de
+l’opercule, et règne jusque tout près de l’extrémité
+postérieure. Elle est de moitié moins haute que le
+tronc, et a au moins cent dix rayons, tous simples,
+dont les pointes dépassent un peu le bord de la
+membrane1. Sur l’extrémité postérieure est la cau‐
+dale, à qui sa position donne l’apparence d’une
+seconde dorsale: elle a six rayons dans une peau
+épaisse; les cinq premiers sont courts, mais le
+sixième, qui est dirigé dans la continuation de l’axe du
+corps, forme un cordon de nature cornée, plus de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="382" y="2303"/>
+	<Point x="1806" y="2303"/>
+	<Point x="1806" y="2638"/>
+	<Point x="382" y="2638"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Ces nombres me sont aussi conﬁrmés par les notes que je
+viens de recevoir de M. R. Owen. Je saisis avec empressement
+l’occasion de lui témoigner ici l’expression de ma sincère gratitude.
+M. de Blainville n’en a compté que cinquante-six dans le texte,
+et il en a marqué soixante et un sur sa ﬁgure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="366" y="152"/>
+	<Point x="531" y="152"/>
+	<Point x="531" y="245"/>
+	<Point x="366" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>384</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="791" y="152"/>
+	<Point x="1374" y="152"/>
+	<Point x="1374" y="245"/>
+	<Point x="791" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="398" y="2258"/>
+	<Point x="398" y="2285"/>
+	<Point x="1794" y="2285"/>
+	<Point x="1794" y="2249"/></Coords></SeparatorRegion></Page></PcGts>

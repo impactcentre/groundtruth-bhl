@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672438">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:35:48</Created>
+	<LastChange>2012-02-10T09:54:53</LastChange></Metadata>
+	<Page imageFilename="00672438.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="899" y="153"/>
+	<Point x="1210" y="153"/>
+	<Point x="1210" y="224"/>
+	<Point x="899" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 244 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="182" y="299"/>
+	<Point x="1941" y="299"/>
+	<Point x="1941" y="546"/>
+	<Point x="182" y="546"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die 4 Exemplare sind von Honda; über das eine bemerkt
+Petersen speciell: «Beim Guarinò am 13 April Abends an halb-
+verfaulten Fischen».</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="180" y="908"/>
+	<Point x="1939" y="908"/>
+	<Point x="1939" y="1246"/>
+	<Point x="180" y="1246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parva, capite ac thorace obscure ochraceis; alis ant. an-
+gustis, brunneo-fuscis, striga recta perobliqua ante medium al-
+teraque postica subrecta obsoleta margini parallela exalbidis;
+post. dilute cinereis, subpellucidis, fusco-venosis. ♂ ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="176" y="1271"/>
+	<Point x="1955" y="1271"/>
+	<Point x="1955" y="1774"/>
+	<Point x="176" y="1774"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eine der kleinsten Ephestien, an der sehr schief gestellten
+weisslichen Querlinie vor der Mitte der gelbbraunen Vorderﬂügel
+zu unterscheiden, doch nicht von der in der Anmerkung er-
+wähnten Eph. resticula; bei Declivella ist sie aber grade, bei
+Resticula etwas nach aussen gebogen, und ausserdem ist bei
+dieser die zweite Querlinie scharf gezackt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="178" y="1785"/>
+	<Point x="1953" y="1785"/>
+	<Point x="1953" y="2362"/>
+	<Point x="178" y="2362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grösse der folgenden Eph. simplicula und der hospitella Z.
+Kopf und Rückenschild bräunlich ochergelb. Taster bräunlich,
+vorgestreckt, ein wenig aufgerichtet und etwas länger als von
+Kopﬂänge. Fühler bräunlich mit hellem Wurzelgliede, ohne
+Auszeichnung. Hinterleib ziemlich schlank, gelblich grau mit
+kleinem, grauem ♂ Analbusch. Analglied des ♀ länglich, ab-
+gestutzt kegelförmig. Beine bräunlich grau, ungeﬂeckt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="178" y="2371"/>
+	<Point x="1942" y="2371"/>
+	<Point x="1942" y="3119"/>
+	<Point x="178" y="3119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 21/2 — 23/4‴ lang, schmal, nach hinten sanft
+erweitert, mit ziemlich gradem Vorder- und Hinterrand, so dass
+die Flügelspitze deutlich ist, dunkel gelbbraun, auf dem Ba-
+saldrittel gewöhnlich mehr röthlich zimmtbraun. Die erste Quer-
+linie ist vom ersten Costaldrittel nach der Mitte des Innen-
+randes gelegt, also sehr schräg, dabei grade, dünn, scharf be-
+grenzt, gelbweisslich und bisweilen nach oben etwas erweitert.
+Die zweite Querlinie ist fast grade, breiter, viel verloschener,
+dem Hinterrande parallel, gleich weit abstehend von diesem</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="1651" y="624"/>
+	<Point x="1651" y="756"/>
+	<Point x="451" y="756"/>
+	<Point x="451" y="624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ephestia Guen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="1651" y="758"/>
+	<Point x="1651" y="874"/>
+	<Point x="451" y="874"/>
+	<Point x="451" y="758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ephestia declivella Tab. XII, ﬁg. 47.</Unicode></TextEquiv></TextRegion></Page></PcGts>

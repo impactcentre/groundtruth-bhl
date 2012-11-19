@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668211">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T12:14:58</Created>
+	<LastChange>2012-02-10T09:52:44</LastChange></Metadata>
+	<Page imageFilename="00668211.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="895" y="233"/>
+	<Point x="1345" y="233"/>
+	<Point x="1345" y="288"/>
+	<Point x="895" y="288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BLACK LARK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1940" y="242"/>
+	<Point x="2045" y="242"/>
+	<Point x="2045" y="295"/>
+	<Point x="1940" y="295"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>195</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="171" y="359"/>
+	<Point x="2045" y="359"/>
+	<Point x="2045" y="480"/>
+	<Point x="171" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>brought to England, and liberated when the discovery was made that (being a
+female) it had no song.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="173" y="485"/>
+	<Point x="2054" y="485"/>
+	<Point x="2054" y="657"/>
+	<Point x="173" y="657"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This species occurred in Sussex in November, 1869, and three examples were
+shot in Kent in 1902; in December, 1907, and January, 1908 a pair were shot in
+Sussex.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="169" y="1102"/>
+	<Point x="747" y="1102"/>
+	<Point x="747" y="1169"/>
+	<Point x="169" y="1169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—ALAUDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="790" y="1361"/>
+	<Point x="1435" y="1361"/>
+	<Point x="1435" y="1435"/>
+	<Point x="790" y="1435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BLACK LARK.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="730" y="1526"/>
+	<Point x="1502" y="1526"/>
+	<Point x="1502" y="1600"/>
+	<Point x="730" y="1600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Melanocorypha yeltoniensis, FORST.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="333" y="1859"/>
+	<Point x="319" y="1671"/>
+	<Point x="2057" y="1671"/>
+	<Point x="2057" y="2319"/>
+	<Point x="164" y="2319"/>
+	<Point x="164" y="1854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FLOCK of this species visited the south-east of England in January, 1907,
+three examples having been obtained. About that time it appears that
+many, imported from the Continent, were on sale in Leadenhall Market.
+Larks, Ortolans, and Quails are generally sent over in long “runners,” which
+include perhaps, from sixty to a hundred birds, almost as closely packed together
+as bullocks in a cattle-truck. The jerking open of the door of one of these
+runners, or the partial smashing in of its roof during a rough sea, would at once
+liberate enough birds to form quite a respectable ﬂock. No doubt such accidents
+do sometimes occur with importations of birds, and thus the British list is
+enriched by man-assisted immigrants.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="985" y="869"/>
+	<Point x="1245" y="869"/>
+	<Point x="1245" y="902"/>
+	<Point x="985" y="902"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="983" y="2509"/>
+	<Point x="1233" y="2509"/>
+	<Point x="1233" y="2550"/>
+	<Point x="983" y="2550"/></Coords></SeparatorRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="178" y="1685"/>
+	<Point x="178" y="1838"/>
+	<Point x="309" y="1838"/>
+	<Point x="309" y="1685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion></Page></PcGts>

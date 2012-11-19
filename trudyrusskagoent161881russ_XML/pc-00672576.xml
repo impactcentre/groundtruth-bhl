@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672576">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T04:00:01</Created>
+	<LastChange>2012-02-10T09:55:12</LastChange></Metadata>
+	<Page imageFilename="00672576.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="930" y="128"/>
+	<Point x="1258" y="128"/>
+	<Point x="1258" y="208"/>
+	<Point x="930" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 380 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="208" y="264"/>
+	<Point x="1974" y="264"/>
+	<Point x="1974" y="432"/>
+	<Point x="208" y="432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vera dans beaucoup de localités, à commencer par la Russie
+méridionale en allant vers l'Orient.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="207" y="441"/>
+	<Point x="1980" y="441"/>
+	<Point x="1980" y="937"/>
+	<Point x="207" y="937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La var. Planorum est de taille médiocre, ce qui, du reste,
+ne peut être pris comme caractère ﬁxe. Le dessus des ♂♂ est
+d'un bleu plus terne et le limbe noir est très étroit. Le des-
+sous est plus grisâtre, avec les points noirs moins nettement
+ecrits. Quant à la bande fauve, elle est très claire, quelquefois
+d'un jaune pâle. Les points métalliques sont bien moins brillants.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="210" y="946"/>
+	<Point x="1974" y="946"/>
+	<Point x="1974" y="2110"/>
+	<Point x="210" y="2110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans son ouvrage sur les Lépidoptères du Turkestan, Mr.
+Erschoff parle d'abord d'un ♂ typique de l'Argus trouvé
+dans les sables de Kisil-Koume et d'une ♀ et d'un ♂ pris par
+l'expédition Fetschenko: la ♀ près de Samarkand et le ♂
+près de Katty-Kourgane. Il décrit ces deux dernières comme
+variété Maracandica. La description de Mr. Erschoff ne
+s'adapte pas à mes individus du district de Kouldjà. Il est
+vrai qu'il n'a eu entre les mains qu'une seule paire, pour la
+ﬁxation de la v. Maracandica, et que les deux individus qu'il
+a eus pourraient n'être que des aberrations accidentelles. Ainsi,
+par exemple, le caractère de la ♀: „supra caerulea, fusco-adum-
+brata“, me semble être plutôt accidentel, le groupe Argus —
+Aegon étant plutôt sujet à des modiﬁcations accidentelles qu'à
+des modiﬁcations constantes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="214" y="2117"/>
+	<Point x="1971" y="2117"/>
+	<Point x="1971" y="2635"/>
+	<Point x="214" y="2635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aujourd'hui le nombre des individus de diﬀérentes prove-
+nances, que j'ai devant moi, me permet de constater ce fait
+et de mettre en doute la constance de la var. Maracandica
+Ersch. Je suis prêt à y voir: ou une aberration, ou même
+une espèce voisine de l'Argus, mais non, une variété dont
+la ♀ serait bleue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="222" y="2707"/>
+	<Point x="1980" y="2707"/>
+	<Point x="1980" y="2820"/>
+	<Point x="222" y="2820"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>36. L. Torgouta Alph. nov. sp. Tab XIV, ﬁg. 5 ♂, 6 ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="707" y="2832"/>
+	<Point x="1497" y="2832"/>
+	<Point x="1497" y="2930"/>
+	<Point x="707" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ 23; ♀ 25—25½ mill.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="222" y="2950"/>
+	<Point x="1972" y="2950"/>
+	<Point x="1972" y="3130"/>
+	<Point x="222" y="3130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ alae supra violaceo-caeruleae, margine tenui fusco (ut
+in Argo); ♀ fuscae basi caerulescenti, angulum pone analem</Unicode></TextEquiv></TextRegion></Page></PcGts>

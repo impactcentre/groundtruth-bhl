@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668073">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T04:29:15</Created>
+	<LastChange>2012-02-10T09:52:35</LastChange></Metadata>
+	<Page imageFilename="00668073.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r24" index="0"/>
+	<RegionRefIndexed regionRef="r28" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r30" index="4"/>
+	<RegionRefIndexed regionRef="r4" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/>
+	<RegionRefIndexed regionRef="r12" index="9"/>
+	<RegionRefIndexed regionRef="r13" index="10"/>
+	<RegionRefIndexed regionRef="r5" index="11"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="705" y="582"/>
+	<Point x="1698" y="582"/>
+	<Point x="1698" y="673"/>
+	<Point x="705" y="673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BRANDT’S SIBERIAN BUNTING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="891" y="748"/>
+	<Point x="1480" y="748"/>
+	<Point x="1480" y="824"/>
+	<Point x="891" y="824"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Emberiza cioides, BRANDT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="387" y="1064"/>
+	<Point x="387" y="879"/>
+	<Point x="2121" y="878"/>
+	<Point x="2121" y="1224"/>
+	<Point x="232" y="1224"/>
+	<Point x="233" y="1062"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N example of the Chinese race of this species, said to have been obtained
+near Flamborough, in October, 1887, was purchased in June, 1888, by Mr.
+R. W. Chase, of Birmingham: there seems, however, to be some question
+as to the date of capture;* and, in any case, it appears to me to have no claim
+to be called a British species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="233" y="1504"/>
+	<Point x="905" y="1504"/>
+	<Point x="905" y="1604"/>
+	<Point x="233" y="1604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1459" y="1516"/>
+	<Point x="2126" y="1516"/>
+	<Point x="2126" y="1609"/>
+	<Point x="1459" y="1609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—EMBERIZINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="801" y="1763"/>
+	<Point x="1573" y="1763"/>
+	<Point x="1573" y="1855"/>
+	<Point x="801" y="1855"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE RUSTIC BUNTING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="894" y="1927"/>
+	<Point x="1493" y="1927"/>
+	<Point x="1493" y="2019"/>
+	<Point x="894" y="2019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Emberiza rustica, PALLAS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="drop-capital">
+	<Coords>
+	<Point x="247" y="2076"/>
+	<Point x="371" y="2076"/>
+	<Point x="379" y="2220"/>
+	<Point x="247" y="2224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="378" y="2067"/>
+	<Point x="2137" y="2065"/>
+	<Point x="2139" y="2126"/>
+	<Point x="2139" y="2140"/>
+	<Point x="2143" y="2684"/>
+	<Point x="242" y="2690"/>
+	<Point x="245" y="2252"/>
+	<Point x="387" y="2254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N accidental straggler to our shores, of which the ﬁrst example was captured
+near Brighton, on October 23rd, 1867, the second was shot on the Holder-
+ness coast, Yorkshire, on September 17th, 1881, the third captured at
+Elstree reservoir, near London, on November, 1882. A young male was shot at
+Westﬁeld, Sussex, by a boy in September 1902, a female was recognized at St.
+Leonards in 1906; another, captured in Northumberland in 1902, was exhibited
+at the Crystal Palace in 1905, two examples were secured in Scotland in 1905
+and one in 1906. It is tolerably certain that nearly all the specimens of this
+and the following species which are from time to time exhibited at bird-shows,
+are Continental specimens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="page-number">
+	<Coords>
+	<Point x="1995" y="208"/>
+	<Point x="2144" y="208"/>
+	<Point x="2144" y="311"/>
+	<Point x="1995" y="311"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>125</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="header">
+	<Coords>
+	<Point x="1816" y="208"/>
+	<Point x="1816" y="311"/>
+	<Point x="257" y="311"/>
+	<Point x="257" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BRANDT’S SIBERIAN BUNTING, THE RUSTIC BUNTING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="drop-capital">
+	<Coords>
+	<Point x="250" y="864"/>
+	<Point x="250" y="1041"/>
+	<Point x="383" y="1041"/>
+	<Point x="383" y="864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="footnote">
+	<Coords>
+	<Point x="2035" y="2705"/>
+	<Point x="2035" y="2715"/>
+	<Point x="2039" y="2739"/>
+	<Point x="1840" y="2737"/>
+	<Point x="1840" y="2738"/>
+	<Point x="1624" y="2738"/>
+	<Point x="1624" y="2739"/>
+	<Point x="1407" y="2739"/>
+	<Point x="1407" y="2740"/>
+	<Point x="1191" y="2740"/>
+	<Point x="1191" y="2741"/>
+	<Point x="975" y="2741"/>
+	<Point x="975" y="2742"/>
+	<Point x="758" y="2742"/>
+	<Point x="758" y="2743"/>
+	<Point x="542" y="2743"/>
+	<Point x="542" y="2744"/>
+	<Point x="348" y="2744"/>
+	<Point x="348" y="2743"/>
+	<Point x="349" y="2743"/>
+	<Point x="349" y="2695"/>
+	<Point x="629" y="2695"/>
+	<Point x="629" y="2694"/>
+	<Point x="909" y="2694"/>
+	<Point x="909" y="2693"/>
+	<Point x="1188" y="2693"/>
+	<Point x="1188" y="2692"/>
+	<Point x="1468" y="2692"/>
+	<Point x="1468" y="2691"/>
+	<Point x="1748" y="2691"/>
+	<Point x="1748" y="2690"/>
+	<Point x="2029" y="2689"/>
+	<Point x="2039" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Vide “Zoologist,” 1891, p. 363, where this specimen is stated to have been obtained in November, 1886.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="signature-mark">
+	<Coords>
+	<Point x="353" y="2754"/>
+	<Point x="353" y="2792"/>
+	<Point x="476" y="2792"/>
+	<Point x="476" y="2754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="signature-mark">
+	<Coords>
+	<Point x="1764" y="2742"/>
+	<Point x="1764" y="2792"/>
+	<Point x="1839" y="2792"/>
+	<Point x="1839" y="2742"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="253" y="353"/>
+	<Point x="777" y="352"/>
+	<Point x="892" y="353"/>
+	<Point x="892" y="442"/>
+	<Point x="830" y="440"/>
+	<Point x="780" y="437"/>
+	<Point x="253" y="442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1444" y="348"/>
+	<Point x="2146" y="348"/>
+	<Point x="2146" y="453"/>
+	<Point x="1444" y="453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—EMBERIZINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r23">
+	<Coords>
+	<Point x="1064" y="1326"/>
+	<Point x="1064" y="1376"/>
+	<Point x="1314" y="1376"/>
+	<Point x="1314" y="1326"/></Coords></SeparatorRegion></Page></PcGts>

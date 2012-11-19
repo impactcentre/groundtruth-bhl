@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672213">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:16:11</Created>
+	<LastChange>2012-02-10T09:54:03</LastChange></Metadata>
+	<Page imageFilename="00672213.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="763" y="165"/>
+	<Point x="1165" y="165"/>
+	<Point x="1165" y="278"/>
+	<Point x="763" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 19 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="23" y="311"/>
+	<Point x="1840" y="311"/>
+	<Point x="1841" y="1572"/>
+	<Point x="22" y="1574"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>s’attache par son sommet inférieur tout près de l’abaisseur, en
+avant et en dehors de lui et dans le voisinage de la région
+du premier stigmate thoracique (ﬁg. 17 et 21). Le petit
+muscle additionnel de l’abaisseur antérieur de l’aile postérieure
+est construit un peu autrement. Il est d’une forme ovalaire,
+plus ou moins allongé et fourni de deux tendons très minces:
+l’un au bout supérieur et l’autre à l’inférieur. Le tendon su‐
+périeur se ﬁxe près du tendon de son principal abaisseur sur
+la membrane et l’inférieur sur le bourrelet, qui passe entre les
+deux élévations d’épimère. Ce bourrelet provenant de l’angle
+postérieur de l’iliaque se dirige en haut et se termine vis-à-vis
+du second stigmate thoracique. Sur le côté postérieur de ce
+bourrelet, un peu au dessous du stigmate, se ﬁxe le muscle
+additionnel par son ﬁn et long tendon (ﬁg. 17, 21, 23
+et 26).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="40" y="1580"/>
+	<Point x="1845" y="1580"/>
+	<Point x="1845" y="3166"/>
+	<Point x="40" y="3166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chacun des abaisseurs postérieurs a deux muscles addition‐
+nels assez petits. L’un d’eux, nommément l’antérieur, qui se
+trouve plus en avant, est plus long que le postérieur. L’an‐
+térieur est de forme cylindrique et le postérieur est un peu
+comprimé du dedans et du dehors. Tous les deux s’attachent
+par leurs bouts supérieurs derrière les muscles abaisseurs pos‐
+térieurs, c’est-à-dire chaque paire de ces muscles additionnels
+(l’une de l’aile antérieure et l’autre de la postérieure) se ﬁxe
+derrière son principal, sur la membrane sous-alaire, près de
+son origine (bord supérieur), par l’intermédiaire des tendons
+cornés et assez longs. Le tendon de l’additionnel antérieur est
+conique près de l’insertion du muscle et ﬁliforme dans son
+prolongement. Le tendon de l’additionnel postérieur est plat
+et se dilate à ses bouts, de sorte qu’il aﬀecte la forme de
+deux triangles unis par leurs sommets (ﬁg. 13, 16, 17, 21
+et 31). L’additionnel antérieur longe le bord postérieur de
+son principal et se ﬁxe par le sommet inférieur immédiatement
+sur le détour de l’élévation de l’épimère, à laquelle adhère
+l’abaisseur postérieur. L’additionnel postérieur, qui est plus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="1592" y="3177"/>
+	<Point x="1687" y="3177"/>
+	<Point x="1687" y="3228"/>
+	<Point x="1592" y="3228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2*</Unicode></TextEquiv></TextRegion></Page></PcGts>

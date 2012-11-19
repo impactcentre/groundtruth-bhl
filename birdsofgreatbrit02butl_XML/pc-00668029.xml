@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668029">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:54:27</Created>
+	<LastChange>2012-02-10T09:52:32</LastChange></Metadata>
+	<Page imageFilename="00668029.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="209" y="377"/>
+	<Point x="1995" y="377"/>
+	<Point x="1995" y="2758"/>
+	<Point x="209" y="2758"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="2095" y="1250"/>
+	<Point x="2095" y="1800"/>
+	<Point x="2177" y="1800"/>
+	<Point x="2177" y="1250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BRAMBLING � 9/10. ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="2195" y="1427"/>
+	<Point x="2195" y="1627"/>
+	<Point x="2254" y="1627"/>
+	<Point x="2254" y="1427"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 83.</Unicode></TextEquiv></TextRegion></Page></PcGts>

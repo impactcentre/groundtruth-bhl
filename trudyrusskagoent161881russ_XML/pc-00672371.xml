@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672371">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:21:53</Created>
+	<LastChange>2012-02-10T09:54:36</LastChange></Metadata>
+	<Page imageFilename="00672371.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r21" index="0"/>
+	<RegionRefIndexed regionRef="r23" index="1"/>
+	<RegionRefIndexed regionRef="r25" index="2"/>
+	<RegionRefIndexed regionRef="r27" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="796" y="160"/>
+	<Point x="1121" y="160"/>
+	<Point x="1121" y="222"/>
+	<Point x="796" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 177 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="380" y="828"/>
+	<Point x="1441" y="828"/>
+	<Point x="1441" y="892"/>
+	<Point x="380" y="892"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mella Dymnusella Walker. Cat. XIX, p. 1017.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="82" y="941"/>
+	<Point x="1837" y="941"/>
+	<Point x="1837" y="2191"/>
+	<Point x="82" y="2191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ein einzelnes, schönes, mittelgrosses ♂, in der Gegend von
+Honda zu Anfang Mai durch Petersen gefangen, zeichnet sich
+durch weisse, durchsichtige, um die Spitze schmal und wenig
+gebräunte Hinterﬂügel aus. Mein brasilisches ♀ hat weniger
+durchsichtige und unreine Hinterﬂügel, an denen aber die ganze
+Hinterrandlinie braun und die Flügelspitze breit schattig ist.
+An beiden Exemplaren sind die Vorderﬂügel ein wenig kürzer
+als bei Zinckenella gewöhnlich; die Costalstrieme ist rein weiss,
+etwas glänzend, und während sie verdünnt in die Flügelspitze
+ausläuft, gegen die Basis verengert. Alles das kommt auch bei
+der europäischen Zinckenella vor, ausser dass die Costalstrieme
+bei dieser nicht glänzend weiss, sondern ziemlich matt ist. Ich
+kann daher diese südamerikanischen Exemplare nur als Var. c,
+vitta costali nivea nitida, ante apicem anguste cinnamomea in
+costa (♂ ♀) ansehen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="78" y="2200"/>
+	<Point x="1839" y="2200"/>
+	<Point x="1839" y="2705"/>
+	<Point x="78" y="2705"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Art hat eine grosse Verbreitung. Das von Walker
+beschriebene Exemplar aus Sierra Leona gehört wahrscheinlich
+hierher, obgleich er die Grundfarbe einfach slate-colour nennt,
+also keine röthliche Beimischung erwähnt. Ein sicheres, aber
+schlecht erhaltenes ♀ sah ich durch Oberstlieutenant Saal-
+müller aus Madagascar. Dass ich auch Carolina richtig als</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="87" y="2816"/>
+	<Point x="1821" y="2816"/>
+	<Point x="1821" y="3128"/>
+	<Point x="87" y="3128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Guenée stellt in den Ann. Soc. ent. France 1845 (separat p. 81) die
+europäische Art als besonderes Genus auf, Rhamphodes Gn., das er aber
+nicht charakterisirt und dem er einen sonderbaren Platz zwischen Epischnia
+und Myelois anweist. Mit Recht hat sich v. Heinemann daran nicht gekehrt,
+als er die charakterisirte Abtheilung von Pempelia zur Gattung erhob.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="89" y="2750"/>
+	<Point x="89" y="2780"/>
+	<Point x="689" y="2780"/>
+	<Point x="689" y="2750"/></Coords></SeparatorRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="235" y="3139"/>
+	<Point x="540" y="3139"/>
+	<Point x="540" y="3189"/>
+	<Point x="235" y="3189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="signature-mark">
+	<Coords>
+	<Point x="1671" y="3139"/>
+	<Point x="1671" y="3189"/>
+	<Point x="1584" y="3189"/>
+	<Point x="1584" y="3139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>12</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r19" type="handwritten-annotation">
+	<Coords>
+	<Point x="538" y="633"/>
+	<Point x="538" y="700"/>
+	<Point x="787" y="700"/>
+	<Point x="787" y="633"/></Coords></GraphicRegion>
+	<TextRegion id="r21" type="heading">
+	<Coords>
+	<Point x="1330" y="387"/>
+	<Point x="1330" y="515"/>
+	<Point x="564" y="515"/>
+	<Point x="564" y="387"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Phycideen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="1330" y="517"/>
+	<Point x="1330" y="630"/>
+	<Point x="564" y="630"/>
+	<Point x="564" y="517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Etiella Zinckenella Tr.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1583" y="703"/>
+	<Point x="1583" y="764"/>
+	<Point x="1366" y="764"/>
+	<Point x="1366" y="765"/>
+	<Point x="860" y="765"/>
+	<Point x="860" y="766"/>
+	<Point x="371" y="766"/>
+	<Point x="371" y="703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pempelia Zinckenella. Isis 1846, p. 755. 1848, p. 882.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1583" y="766"/>
+	<Point x="1583" y="821"/>
+	<Point x="371" y="821"/>
+	<Point x="371" y="768"/>
+	<Point x="862" y="768"/>
+	<Point x="862" y="767"/>
+	<Point x="1368" y="767"/>
+	<Point x="1368" y="766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Etiella — Heinem. II. Pyral. p. 154 *).</Unicode></TextEquiv></TextRegion></Page></PcGts>

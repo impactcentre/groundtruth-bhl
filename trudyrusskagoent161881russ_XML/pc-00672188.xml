@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672188">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T21:42:39</Created>
+	<LastChange>2012-02-10T09:53:56</LastChange></Metadata>
+	<Page imageFilename="00672188.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r14" index="7"/>
+	<RegionRefIndexed regionRef="r18" index="8"/>
+	<RegionRefIndexed regionRef="r24" index="9"/>
+	<RegionRefIndexed regionRef="r26" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="978" y="643"/>
+	<Point x="1428" y="643"/>
+	<Point x="1428" y="716"/>
+	<Point x="978" y="716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AUSZUG</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="357" y="787"/>
+	<Point x="420" y="787"/>
+	<Point x="445" y="786"/>
+	<Point x="501" y="786"/>
+	<Point x="529" y="784"/>
+	<Point x="579" y="784"/>
+	<Point x="644" y="783"/>
+	<Point x="702" y="783"/>
+	<Point x="730" y="781"/>
+	<Point x="882" y="781"/>
+	<Point x="941" y="779"/>
+	<Point x="990" y="779"/>
+	<Point x="1017" y="780"/>
+	<Point x="1081" y="780"/>
+	<Point x="1107" y="779"/>
+	<Point x="2049" y="779"/>
+	<Point x="2049" y="838"/>
+	<Point x="1913" y="838"/>
+	<Point x="1884" y="837"/>
+	<Point x="1820" y="837"/>
+	<Point x="1795" y="838"/>
+	<Point x="1745" y="838"/>
+	<Point x="1716" y="837"/>
+	<Point x="1441" y="837"/>
+	<Point x="1412" y="840"/>
+	<Point x="1363" y="840"/>
+	<Point x="1332" y="838"/>
+	<Point x="1197" y="838"/>
+	<Point x="1171" y="839"/>
+	<Point x="1107" y="839"/>
+	<Point x="1081" y="840"/>
+	<Point x="941" y="840"/>
+	<Point x="882" y="842"/>
+	<Point x="730" y="842"/>
+	<Point x="702" y="843"/>
+	<Point x="357" y="843"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AUS DEM JAHRESBERICHTE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="972" y="1100"/>
+	<Point x="1450" y="1100"/>
+	<Point x="1450" y="1148"/>
+	<Point x="972" y="1148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FÜR DAS JAHR 1879.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="646" y="1296"/>
+	<Point x="1006" y="1296"/>
+	<Point x="1006" y="1350"/>
+	<Point x="646" y="1350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Meine Herren!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="360" y="1406"/>
+	<Point x="2067" y="1406"/>
+	<Point x="2067" y="2303"/>
+	<Point x="360" y="2303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das Jahr 1879 wird lange für die Gesellschaft unvergessen blei¬
+ben! "Wir verloren in diesem Jahre einen unserer thätigsten und nütz¬
+lichsten Mitglieder, den Vice-Präsidenten und Ehrenmitglied der Ge-
+sellchaft S. M. S о l s к у, dessen wissenschaftlichen Verdienste um die
+Entomologie in weitesten entomologischen Kreisen allgemein bekannt
+und anerkannt waren. Der Verstorbene wirkte zuerst als Secretair,
+Bibliothekar und Rédacteur und dann als Vice-Präsident. Er legte den
+Grundstein der Bibliothek der Gesellschaft und nahm immer einen
+sehr regen Antheil am wissenschaftlichen Leben und an der Admini¬
+stration der Gesellschaft. In demselben Jahre starben auch die beiden
+Ehrenmitglieder der Gesellschaft A. J. Barjatinsky und der Akade¬
+miker J. Fr. Brandt, und die wirklichen Mitglieder Golike und
+Löw.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="1020" y="886"/>
+	<Point x="1387" y="886"/>
+	<Point x="1387" y="936"/>
+	<Point x="1020" y="936"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES CONSEILS
+DER RISSISCHEN ENTOMOLOGISCHEN GESELLSCHAFT</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="579" y="966"/>
+	<Point x="1832" y="966"/>
+	<Point x="1832" y="1045"/>
+	<Point x="579" y="1045"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DER RUSSISCHEN ENTOMOLOGISCHEN GESELLSCHAFT</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="1130" y="1215"/>
+	<Point x="1130" y="1232"/>
+	<Point x="1284" y="1232"/>
+	<Point x="1284" y="1215"/></Coords></SeparatorRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="463" y="2341"/>
+	<Point x="1124" y="2341"/>
+	<Point x="1124" y="2395"/>
+	<Point x="463" y="2395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Neu aufgenommen wurden:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="603" y="2416"/>
+	<Point x="616" y="2415"/>
+	<Point x="629" y="2416"/>
+	<Point x="652" y="2418"/>
+	<Point x="675" y="2419"/>
+	<Point x="700" y="2417"/>
+	<Point x="780" y="2420"/>
+	<Point x="838" y="2418"/>
+	<Point x="953" y="2415"/>
+	<Point x="989" y="2417"/>
+	<Point x="1115" y="2416"/>
+	<Point x="1117" y="2496"/>
+	<Point x="2070" y="2496"/>
+	<Point x="2070" y="2551"/>
+	<Point x="1321" y="2551"/>
+	<Point x="1321" y="2692"/>
+	<Point x="578" y="2692"/>
+	<Point x="578" y="2551"/>
+	<Point x="577" y="2551"/>
+	<Point x="577" y="2479"/>
+	<Point x="573" y="2417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3 Ehrenmitglieder.
+8 wirkliche Mitglieder (von diesen 7 in Russland und einer
+im Auslande).
+3 correspondirende Mitglieder.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="381" y="2732"/>
+	<Point x="2079" y="2732"/>
+	<Point x="2079" y="2865"/>
+	<Point x="381" y="2865"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zum Ende des Jahres 1879 befinden sich in der Gesellschaft im
+Ganzen 179 Mitglieder, und zwar:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="512" y="2893"/>
+	<Point x="2089" y="2895"/>
+	<Point x="2083" y="3093"/>
+	<Point x="514" y="3104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>29 Ehrenmitglieder (18 in Russland und 11 im Auslande).
+122 wirkliche Mitglieder (76 in Russland und 46 im Auslande).
+28 correspondirende Mitglieder.</Unicode></TextEquiv></TextRegion></Page></PcGts>

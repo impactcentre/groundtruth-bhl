@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669350">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:55:05</Created>
+	<LastChange>2012-03-12T14:33:57</LastChange></Metadata>
+	<Page imageFilename="00669350.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="348" y="255"/>
+	<Point x="1785" y="255"/>
+	<Point x="1785" y="598"/>
+	<Point x="348" y="598"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Venise, par exemple, où on les nomme an-
+guela, il y en a par milliers dans les canaux,
+et l'on en crie pendant tout l'été dans les
+rues pour nourrir les chats.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="355" y="600"/>
+	<Point x="1790" y="600"/>
+	<Point x="1790" y="1433"/>
+	<Point x="355" y="1433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le nom d'������� se trouve en divers en-
+droits des anciens pour celui d'un petit pois-
+son2 littoral3, qui vivait en troupes4, et d'où
+provenait une de ces espèces d'aphie qu'on
+nommait hepsetus5, et ce nom d'���� ou d'a-
+pua s'entendait de tous ces petits poissons
+qui viennent d'éclore et qui sont encore ras-
+semblés comme le nonnat dont nous venons
+de parler, ou comme ces petites anguilles que
+l'on nomme en Normandie montée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="352" y="1436"/>
+	<Point x="1790" y="1436"/>
+	<Point x="1790" y="2298"/>
+	<Point x="352" y="2298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a peu de dénominations anciennes
+dont l'application soit mieux assurée que
+celle-ci; car non-seulement toutes les quali-
+tés attribuées à ces anciennes athérines se
+retrouvent dans celles d'à-présent et jusqu'à
+leur aphie; mais leur nom même s'est con-
+servé en plusieurs endroits. Tous les Grecs au
+seizième siècle, selon Gyllius, appelaient en-
+core nos sauclets atherina6; Sonnini, de nos
+jours, les a entendu nommer atherno7, et à</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="359" y="2366"/>
+	<Point x="1791" y="2366"/>
+	<Point x="1791" y="2632"/>
+	<Point x="359" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Martens, Voyage à Venise, t. II, p. 346. — 2. Athénée,
+1. VII, p. m. 285 A. — 3. Oppian., 1. I, v. 108. — 4. Arist.,
+1. IX, c. 2 — 5. Athénée, loc. cit. — 6. Gyll., De gall. nom.
+pisc., c. 110. — 7. Voyage en Turquie et en Grèce, t. II, p. 209.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="368" y="2317"/>
+	<Point x="1783" y="2317"/>
+	<Point x="1783" y="2343"/>
+	<Point x="368" y="2343"/></Coords></SeparatorRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="509" y="151"/>
+	<Point x="509" y="230"/>
+	<Point x="358" y="230"/>
+	<Point x="358" y="151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>418</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="840" y="151"/>
+	<Point x="1305" y="151"/>
+	<Point x="1305" y="230"/>
+	<Point x="840" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

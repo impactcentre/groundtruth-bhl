@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668175">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T20:10:27</Created>
+	<LastChange>2012-02-10T09:52:41</LastChange></Metadata>
+	<Page imageFilename="00668175.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="873" y="248"/>
+	<Point x="1403" y="248"/>
+	<Point x="1403" y="337"/>
+	<Point x="1120" y="335"/>
+	<Point x="873" y="337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE HOODEN CROW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1962" y="260"/>
+	<Point x="2078" y="260"/>
+	<Point x="2078" y="346"/>
+	<Point x="1962" y="346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>175</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="158" y="360"/>
+	<Point x="742" y="360"/>
+	<Point x="742" y="464"/>
+	<Point x="158" y="464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—CORVIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="774" y="603"/>
+	<Point x="1508" y="603"/>
+	<Point x="1508" y="705"/>
+	<Point x="774" y="705"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE HOODED CROW.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="901" y="785"/>
+	<Point x="1378" y="785"/>
+	<Point x="1378" y="866"/>
+	<Point x="1220" y="863"/>
+	<Point x="901" y="866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Corvus comix, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="342" y="1134"/>
+	<Point x="340" y="909"/>
+	<Point x="2086" y="937"/>
+	<Point x="2088" y="1310"/>
+	<Point x="199" y="1321"/>
+	<Point x="188" y="1134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OUND throughout Europe east of about long. 10°, and in Asia extends
+north of Turkestan, throughout Asia Minor and Persia into Afghanistan,
+and through Palestine into Egypt. Examples from the Persian Gulf have
+the pale slate-grey replaced by nearly white, and have been called C. capellanus;
+but Siberian birds are intermediate in colour, and the Persian birds can only be
+looked upon as a local race.”—Seebohm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="199" y="1323"/>
+	<Point x="2088" y="1313"/>
+	<Point x="2086" y="1626"/>
+	<Point x="1011" y="1627"/>
+	<Point x="1001" y="1628"/>
+	<Point x="988" y="1627"/>
+	<Point x="199" y="1627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An autumn and winter visitant to England and Wales, where a few pairs
+have, from time to time, remained to breed; whilst in the Isle of Man it is
+believed to breed regularly. Throughout Scotland and Ireland it is pretty
+generally distributed, resident and common, interbreeding occasionally with the
+Carrion-Crow in the former country and in Wales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="198" y="1630"/>
+	<Point x="2086" y="1629"/>
+	<Point x="2083" y="2068"/>
+	<Point x="200" y="2067"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The typical Hooded Crow has the head, throat, and front of breast, wings,
+tail, and thighs black, with purple and green gloss; remainder of plumage ashy-
+grey, with the exception of the centre of the upper tail-coverts which is blackish,
+becoming quite black close to the tail; bill and feet black; iris dark brown. The
+female is similar in plumage, but browner on mantle and slightly smaller, the
+bill is larger, but broader when seen from above, and with heavier lower mandible.
+The young are duller in colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="200" y="2069"/>
+	<Point x="2086" y="2071"/>
+	<Point x="2086" y="2192"/>
+	<Point x="201" y="2193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>There is a large migration of Scandinavian Hoodies southwards at the
+approach of winter, to which fact we owe our seasonal visitation.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="200" y="2196"/>
+	<Point x="2087" y="2195"/>
+	<Point x="2093" y="2762"/>
+	<Point x="196" y="2758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The late Henry Stevenson in his “Birds of Norfolk,” says:—“The Royston
+or Grey-backed Crow, as this species is also called, visits us in autumn in large
+numbers, arriving about the ﬁrst week in October, though occasionally earlier, and
+leaves again by the end of March or beginning of April. They frequent for the
+most part the broads and marshes near the rivers, particularly the mouths of tidal
+streams, and are extremely numerous on the sea coast, where they also gradually
+collect together towards the time of their departure in spring. It is fortunate for
+Norfolk that this destructive species leaves us so regularly in the breeding-season,
+as no greater enemy to the game-keeper probably exists, neither eggs nor young</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="196" y="914"/>
+	<Point x="337" y="913"/>
+	<Point x="338" y="1092"/>
+	<Point x="196" y="1093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“F</Unicode></TextEquiv></TextRegion></Page></PcGts>

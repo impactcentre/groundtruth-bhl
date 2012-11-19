@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669247">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:42:02</Created>
+	<LastChange>2012-03-12T14:33:51</LastChange></Metadata>
+	<Page imageFilename="00669247.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="97" y="359"/>
+	<Point x="1511" y="359"/>
+	<Point x="1511" y="520"/>
+	<Point x="956" y="520"/>
+	<Point x="946" y="533"/>
+	<Point x="909" y="533"/>
+	<Point x="896" y="527"/>
+	<Point x="311" y="527"/>
+	<Point x="298" y="539"/>
+	<Point x="262" y="539"/>
+	<Point x="254" y="529"/>
+	<Point x="169" y="529"/>
+	<Point x="168" y="537"/>
+	<Point x="96" y="537"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>individus adultes ont presque toujours perdu
+quelques-unes de leurs nageoires.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="98" y="539"/>
+	<Point x="255" y="539"/>
+	<Point x="259" y="546"/>
+	<Point x="304" y="546"/>
+	<Point x="317" y="536"/>
+	<Point x="887" y="535"/>
+	<Point x="897" y="540"/>
+	<Point x="953" y="540"/>
+	<Point x="963" y="528"/>
+	<Point x="1517" y="528"/>
+	<Point x="1518" y="944"/>
+	<Point x="1121" y="945"/>
+	<Point x="1118" y="960"/>
+	<Point x="1080" y="960"/>
+	<Point x="1067" y="949"/>
+	<Point x="309" y="949"/>
+	<Point x="305" y="960"/>
+	<Point x="98" y="960"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces circonstances tiennent à la nature de
+leur squelette et de leurs muscles, et ils of‐
+frent en outre des particularités plus extra‐
+ordinaires que l’on en observerait dans le
+plus grand nombre des autres poissons.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="88" y="962"/>
+	<Point x="311" y="962"/>
+	<Point x="315" y="955"/>
+	<Point x="1062" y="956"/>
+	<Point x="1070" y="965"/>
+	<Point x="1127" y="965"/>
+	<Point x="1129" y="952"/>
+	<Point x="1519" y="952"/>
+	<Point x="1518" y="1541"/>
+	<Point x="1020" y="1541"/>
+	<Point x="1014" y="1555"/>
+	<Point x="984" y="1555"/>
+	<Point x="974" y="1549"/>
+	<Point x="91" y="1550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos Trachyptères1 ont des pectorales mé‐
+diocres et des ventrales souvent très-déve-
+loppées; la forme de leur corps est compri‐
+mée et alongée comme un ruban, ou comme
+une lame d’épée; tout le dessus est garni d’une
+dorsale, dont la partie antérieure, séparée par
+une échancrure, s’élève en panache.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="93" y="1553"/>
+	<Point x="973" y="1553"/>
+	<Point x="981" y="1560"/>
+	<Point x="1021" y="1560"/>
+	<Point x="1025" y="1548"/>
+	<Point x="1516" y="1548"/>
+	<Point x="1523" y="2144"/>
+	<Point x="92" y="2146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Leur bouche extrêmement protractile, leur
+menton saillant lors de la rétraction, leur
+mâchoire inférieure montante, leurs grands
+yeux, le vif éclat d’argent de leur peau, les
+belles couleurs de leurs nageoires, la gran‐
+deur à laquelle parviennent plusieurs de leurs
+espèces, les rendent déjà très-remarquables.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="87" y="2148"/>
+	<Point x="1531" y="2146"/>
+	<Point x="1530" y="2491"/>
+	<Point x="87" y="2491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le nom de gymnetrus a été composé par
+Bloch, pour désigner des poissons à ventrales
+d’un seul rayon et sans nageoire anale; il vient
+de ������ (nu), et de ����� (le bas - ventre),</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="97" y="2545"/>
+	<Point x="1529" y="2545"/>
+	<Point x="1529" y="2752"/>
+	<Point x="97" y="2752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Ce nom, composé par Gouan des mots ������ (rude) et
+����� (nageoire), exprime un caractère qui ne couvient plus au‐
+jourd’hui à toutes les espèces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="288" y="256"/>
+	<Point x="1304" y="256"/>
+	<Point x="1304" y="338"/>
+	<Point x="288" y="338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES ET GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1358" y="252"/>
+	<Point x="1511" y="252"/>
+	<Point x="1511" y="336"/>
+	<Point x="1358" y="336"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>315</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="103" y="2505"/>
+	<Point x="103" y="2534"/>
+	<Point x="1523" y="2534"/>
+	<Point x="1523" y="2505"/></Coords></SeparatorRegion></Page></PcGts>

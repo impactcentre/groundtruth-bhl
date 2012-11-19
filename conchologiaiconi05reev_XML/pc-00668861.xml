@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668861">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:53:58</Created>
+	<LastChange>2012-02-10T10:29:41</LastChange></Metadata>
+	<Page imageFilename="00668861.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r14" index="13"/>
+	<RegionRefIndexed regionRef="r16" index="14"/>
+	<RegionRefIndexed regionRef="r17" index="15"/>
+	<RegionRefIndexed regionRef="r18" index="16"/>
+	<RegionRefIndexed regionRef="r37" index="17"/>
+	<RegionRefIndexed regionRef="r45" index="18"/>
+	<RegionRefIndexed regionRef="r21" index="19"/>
+	<RegionRefIndexed regionRef="r62" index="20"/>
+	<RegionRefIndexed regionRef="r56" index="21"/>
+	<RegionRefIndexed regionRef="r23" index="22"/>
+	<RegionRefIndexed regionRef="r24" index="23"/>
+	<RegionRefIndexed regionRef="r25" index="24"/>
+	<RegionRefIndexed regionRef="r26" index="25"/>
+	<RegionRefIndexed regionRef="r27" index="26"/>
+	<RegionRefIndexed regionRef="r28" index="27"/>
+	<RegionRefIndexed regionRef="r29" index="28"/>
+	<RegionRefIndexed regionRef="r30" index="29"/>
+	<RegionRefIndexed regionRef="r31" index="30"/>
+	<RegionRefIndexed regionRef="r80" index="31"/>
+	<RegionRefIndexed regionRef="r74" index="32"/>
+	<RegionRefIndexed regionRef="r19" index="33"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="964" y="223"/>
+	<Point x="1512" y="223"/>
+	<Point x="1512" y="288"/>
+	<Point x="964" y="288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1154" y="320"/>
+	<Point x="1325" y="320"/>
+	<Point x="1325" y="359"/>
+	<Point x="1154" y="359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="556" y="406"/>
+	<Point x="981" y="406"/>
+	<Point x="981" y="450"/>
+	<Point x="556" y="450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 56. (Mus. Belcher.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="322" y="466"/>
+	<Point x="1216" y="466"/>
+	<Point x="1216" y="657"/>
+	<Point x="322" y="657"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA BICOLOR. Turr. testâ acuminato-turritâ, an‐
+fractibus decem ad duodecim, convexis, subtilissimè qua-
+driliratis et striatis, liris distantibus obscurè granulatis;
+aureo-luteâ, suturis lirisque nigrescente-purpureis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="325" y="660"/>
+	<Point x="1215" y="660"/>
+	<Point x="1215" y="893"/>
+	<Point x="325" y="893"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWO-COLOURED TURRITELLA. Shell acuminately
+turreted, whorls ten to twelve in number, convex,
+very ﬁnely four-ridged and striated, ridges distant,
+obscurely granulated; rich yellow, sutures and ridges
+blackish purple.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="327" y="896"/>
+	<Point x="975" y="896"/>
+	<Point x="975" y="942"/>
+	<Point x="327" y="942"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ADAMS and REEVE, Moll. Voy. Samarang.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="325" y="945"/>
+	<Point x="599" y="945"/>
+	<Point x="599" y="982"/>
+	<Point x="325" y="982"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. China Seas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="326" y="1005"/>
+	<Point x="1218" y="1005"/>
+	<Point x="1218" y="1103"/>
+	<Point x="326" y="1103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In addition to the above characters there are a few
+puckered obliquely wrinkled striæ next the sutures.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="554" y="1181"/>
+	<Point x="989" y="1181"/>
+	<Point x="989" y="1229"/>
+	<Point x="554" y="1229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 57. (Mus. Belcher.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="323" y="1245"/>
+	<Point x="1216" y="1245"/>
+	<Point x="1216" y="1437"/>
+	<Point x="323" y="1437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA CANALICULATA. Turr. testâ acuminato-tur‐
+ritâ, anfractibus duodecim, spiraliter acutè sex-liratis
+et striatis, interstitiis striis obliquis cancellatis, liris
+tenuibus, duabus inferioribus prominulis; sordidè albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="322" y="1440"/>
+	<Point x="1220" y="1440"/>
+	<Point x="1220" y="1675"/>
+	<Point x="322" y="1675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CHANNELLED TURRITELLA. Shell acuminately tur‐
+reted, whorls twelve in number, spirally sharply six-
+ridged and striated, interstices cancellated with
+oblique striæ, ridges thin, the two lower ones rather
+prominent; dull white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="327" y="1678"/>
+	<Point x="977" y="1678"/>
+	<Point x="977" y="1722"/>
+	<Point x="327" y="1722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ADAMS and REEVE, Moll. Voy. Samarang.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="329" y="1726"/>
+	<Point x="608" y="1726"/>
+	<Point x="608" y="1766"/>
+	<Point x="329" y="1766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. China Seas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="559" y="1970"/>
+	<Point x="989" y="1970"/>
+	<Point x="989" y="2020"/>
+	<Point x="559" y="2020"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 58. (Mus. Belcher.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="328" y="2035"/>
+	<Point x="1219" y="2035"/>
+	<Point x="1219" y="2273"/>
+	<Point x="328" y="2273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA VITTULATA. Turr. testâ acuminato-turritâ,
+basi subconcavâ, anfractibus duodecim, ad suturas con‐
+tractis, creberrimè spiraliter striatis, striis elevatis, sub-
+irregularibus, anfractibus perpaucis primis bicarinatis;
+fuscescente, striis interruptè castaneis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="333" y="2276"/>
+	<Point x="1221" y="2276"/>
+	<Point x="1221" y="2603"/>
+	<Point x="333" y="2603"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE FINELY-FILLETED TURRITELLA. Shell acuminately
+turreted, slightly concave at the base, whorls twelve
+in number, contracted at the sutures, very closely
+spirally striated, striæ raised, somewhat irregular,
+ﬁrst few whorls two-keeled; light-brown, striæ
+stained with chestnut here and there in an interrupted
+manner.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1146" y="2624"/>
+	<Point x="1343" y="2624"/>
+	<Point x="1343" y="2663"/>
+	<Point x="1146" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>June, 1849.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1256" y="516"/>
+	<Point x="2151" y="516"/>
+	<Point x="2151" y="650"/>
+	<Point x="1256" y="650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The striæ of this species are not articulated with
+chestnut, but merely coloured in an irregularly interrupted
+manner.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1258" y="1011"/>
+	<Point x="2151" y="1011"/>
+	<Point x="2151" y="1199"/>
+	<Point x="1258" y="1199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CONGEALED TURRITELLA. Shell sharply subulate,
+angled at the base, whorls sixteen in number, con-
+vexly ﬂattened, smooth, obscurely three-ridged,
+ridges ﬁne, distant; transparent white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1259" y="1203"/>
+	<Point x="1913" y="1203"/>
+	<Point x="1913" y="1245"/>
+	<Point x="1259" y="1245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ADAMS and REEVE, Moll. Voy. Samarang.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1258" y="1248"/>
+	<Point x="1534" y="1248"/>
+	<Point x="1534" y="1287"/>
+	<Point x="1258" y="1287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. China Seas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1256" y="1309"/>
+	<Point x="2148" y="1309"/>
+	<Point x="2148" y="1408"/>
+	<Point x="1256" y="1408"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Transparent at the base, but more opake towards the
+apex.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords>
+	<Point x="1538" y="1469"/>
+	<Point x="1907" y="1469"/>
+	<Point x="1907" y="1513"/>
+	<Point x="1538" y="1513"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 60. (Mus. Brit.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1257" y="1529"/>
+	<Point x="2153" y="1529"/>
+	<Point x="2153" y="1765"/>
+	<Point x="1257" y="1765"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA PAGODA. Turr. testâ subpyramidali-turritâ,
+anfractibus quatuordecim, spiraliter acutè liratis, basin
+versus conspicuè acutè unicostatis, anfractibus perpaucis
+primis bicostatis, costâ superiori citò evanidâ; albidâ,
+fulvescente obscurè ﬂammatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1259" y="1770"/>
+	<Point x="2157" y="1770"/>
+	<Point x="2157" y="2050"/>
+	<Point x="1259" y="2050"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PAGODA TURRITELLA. Shell somewhat pyramidally
+turreted, whorls fourteen to ﬁfteen in number, spirally
+sharply ridged, conspicuously encircled with a single
+sharp rib towards the base, ﬁrst few whorls two-ribbed,
+the upper one quickly disappearing; whitish, ob‐
+scurely ﬂamed with light fulvous colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1262" y="2053"/>
+	<Point x="1783" y="2053"/>
+	<Point x="1783" y="2093"/>
+	<Point x="1262" y="2093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. New Zealand; Dr. Sinclair.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1262" y="2113"/>
+	<Point x="2154" y="2113"/>
+	<Point x="2154" y="2257"/>
+	<Point x="1262" y="2257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Distinctly characterized by its single spiral keel and
+elegant form; yet intimately allied with the double-keel
+T. conspersa.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r33">
+	<Coords>
+	<Point x="1225" y="398"/>
+	<Point x="1232" y="2609"/>
+	<Point x="1255" y="2609"/>
+	<Point x="1250" y="1964"/>
+	<Point x="1249" y="399"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r34">
+	<Coords>
+	<Point x="552" y="1133"/>
+	<Point x="552" y="1151"/>
+	<Point x="1008" y="1151"/>
+	<Point x="1008" y="1133"/></Coords></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="329" y="1787"/>
+	<Point x="1218" y="1787"/>
+	<Point x="1218" y="1882"/>
+	<Point x="329" y="1882"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The two lower ridges, more prominent than the rest,
+form a spiral channel immediately above the suture.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r35">
+	<Coords>
+	<Point x="540" y="1921"/>
+	<Point x="540" y="1944"/>
+	<Point x="1007" y="1944"/>
+	<Point x="1007" y="1921"/></Coords></SeparatorRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="1259" y="405"/>
+	<Point x="1917" y="405"/>
+	<Point x="1917" y="449"/>
+	<Point x="1259" y="449"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ADAMS and REEVE, Moll. Voy. Samarang.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="1260" y="452"/>
+	<Point x="1534" y="452"/>
+	<Point x="1534" y="488"/>
+	<Point x="1260" y="488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. China Seas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r48">
+	<Coords>
+	<Point x="1503" y="700"/>
+	<Point x="1503" y="719"/>
+	<Point x="1935" y="719"/>
+	<Point x="1935" y="700"/></Coords></SeparatorRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="1259" y="812"/>
+	<Point x="2145" y="812"/>
+	<Point x="2145" y="1006"/>
+	<Point x="1259" y="1006"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA CONGELATA. Turr. testâ acutè subulatâ,
+basi angulatâ, anfractibus sedecim, convexo-planis,
+lævibus, obscurè triliratis, liris tenuibus, distantibus;
+pellucido-albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="heading">
+	<Coords>
+	<Point x="1485" y="754"/>
+	<Point x="1917" y="754"/>
+	<Point x="1917" y="804"/>
+	<Point x="1485" y="804"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 59. (Mus. Belcher.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r65">
+	<Coords>
+	<Point x="1487" y="1424"/>
+	<Point x="1487" y="1440"/>
+	<Point x="1930" y="1440"/>
+	<Point x="1930" y="1424"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r66">
+	<Coords>
+	<Point x="1477" y="2272"/>
+	<Point x="1477" y="2292"/>
+	<Point x="1952" y="2292"/>
+	<Point x="1952" y="2272"/></Coords></SeparatorRegion>
+	<TextRegion id="r74" type="paragraph">
+	<Coords>
+	<Point x="1266" y="2369"/>
+	<Point x="2157" y="2369"/>
+	<Point x="2157" y="2609"/>
+	<Point x="1266" y="2609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA HOOKERI. Turr. testâ acuminato-turritâ,
+tenuiculâ, anfractibus quindecim, medio concavo-tumidis,
+carinis duabus acutis, remotis, undique conspicuè cingu-
+latis, anfractu ultimo et penultimo subtiliter elevato-
+striatis; pellucido-albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r80" type="heading">
+	<Coords>
+	<Point x="1494" y="2309"/>
+	<Point x="1876" y="2309"/>
+	<Point x="1876" y="2356"/>
+	<Point x="1494" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 61. (Mus. Brit.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

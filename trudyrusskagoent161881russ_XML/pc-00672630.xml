@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672630">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T04:08:22</Created>
+	<LastChange>2012-02-10T09:55:25</LastChange></Metadata>
+	<Page imageFilename="00672630.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1007" y="123"/>
+	<Point x="1314" y="123"/>
+	<Point x="1314" y="190"/>
+	<Point x="1007" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 434 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="283" y="254"/>
+	<Point x="2040" y="254"/>
+	<Point x="2040" y="845"/>
+	<Point x="283" y="845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>visager que comme deux espèces bien distinctes spéciﬁquement.
+Car, outre les diﬀérences, que l'on ne peut bien apprécier
+qu'en comparant les deux espèces en nature, il en est une,
+du moins, qui ne permet pas de confondre les ♂♂ de ces Co-
+liades: je veux parler de la tache empesée à la base des se-
+condes ailes de la Myrmidone, tache qui manque toujours
+aux ♂♂ de la Thisoa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="283" y="852"/>
+	<Point x="2050" y="852"/>
+	<Point x="2050" y="1769"/>
+	<Point x="283" y="1769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je trouve ce caractère très constant dans toutes les es-
+pèces chez lesquelles il se présente. Quant à la ressemblance
+de deux mêmes sexes des Colias diﬀérentes, ce n'est pas là
+un caractère sufﬁsant pour démontrer la parenté spéciﬁque
+des espèces chez ce genre. En eﬀet si l'on devait s'en rapporter
+à ces ressemblances, si fréquentes dans ce genre homogène, l'on
+arriverait certaînement à des conclusions erronées. Comme
+exemple de ce que j'avance je puis donner, pour soutenir mon
+opinion, la ressemblance extrême de certaines ♀♀ de la C.
+Hyale avec celles de la C. Erate, tant formes blanches que
+formes jaunes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="292" y="2616"/>
+	<Point x="2050" y="2616"/>
+	<Point x="2050" y="2752"/>
+	<Point x="292" y="2752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vanessa С. album var. Interposita Stgr. (l. c. p. 286).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="295" y="2838"/>
+	<Point x="2050" y="2838"/>
+	<Point x="2050" y="3121"/>
+	<Point x="295" y="3121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Vanessa du Tian-Chian, que j'avais désignée comme
+Egea v. I. album, est la nouvelle variété de la V. C. album
+nommée var. Interposita, par Staudinger.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="278" y="1778"/>
+	<Point x="2050" y="1778"/>
+	<Point x="2050" y="2030"/>
+	<Point x="2054" y="2030"/>
+	<Point x="2054" y="2469"/>
+	<Point x="276" y="2469"/>
+	<Point x="276" y="2030"/>
+	<Point x="278" y="2030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pourtant ce sont la des espèces bien distincts entre elles.
+Quant à la ressemblance des ♀♀ Hyale et Erate, elle me pa-
+rait être encore plus frappante, depuis que j'ai pris plusieurs
+♀♀ jaunes de l'Hyale, près de Taganrog. Le Dr. Staudinger
+possède aussi 4 ♀♀ jaunes de l'Hyale dans sa collection. Je
+proﬁtte de la présente notice pour désigner comme ab. ♀ In-
+versa m., cette aberration jaune de la Hyale, ce qui, comme
+on le voit, n'est pas un fait isolé.</Unicode></TextEquiv></TextRegion></Page></PcGts>

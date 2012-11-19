@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668990">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:11:01</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668990.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="422" y="313"/>
+	<Point x="1785" y="315"/>
+	<Point x="1785" y="661"/>
+	<Point x="1784" y="1141"/>
+	<Point x="1572" y="1142"/>
+	<Point x="1514" y="1143"/>
+	<Point x="423" y="1139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>courbure de la ligne latérale, la disposition des
+taches argentées éparses sur le fond gris ou rosé du
+poisson, sont absolument semblables à tout ce que
+nous avons observé sur nos plus grands individus.
+Les nageoires ont les mêmes nombres de rayons,
+mais le prolongement remarquable des ventrales et
+de la portion antérieure de la dorsale, donne à ce
+petit lampris une physionomie tellement diﬀérente
+de celle des autres individus que nous venons de
+mentionner, que l’on serait tenté au premier coup
+d’æil de le regarder comme d’une espèce distincte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="434" y="1145"/>
+	<Point x="1460" y="1146"/>
+	<Point x="1781" y="1150"/>
+	<Point x="1774" y="2259"/>
+	<Point x="1772" y="2497"/>
+	<Point x="1516" y="2496"/>
+	<Point x="1328" y="2497"/>
+	<Point x="1216" y="2499"/>
+	<Point x="1143" y="2499"/>
+	<Point x="427" y="2498"/>
+	<Point x="430" y="2260"/>
+	<Point x="429" y="2053"/>
+	<Point x="430" y="1663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ventrales ont plus de la moitié de la longueur
+du corps, et atteignent de leur pointe le milieu de la
+caudale et au-delà; elles ont la forme de faux étroites
+et aiguës et se composent de quatorze rayons. L’exté‐
+rieur, qui est le plus long, est comprimé, tran‐
+chant et simple; les autres sont articulés et bran-
+chus. La dorsale commence au-dessus du bord
+postérieur des pectorales, et ses premiers rayons se
+prolongent en une pointe aiguë, falciforme, aussi
+longue que la ventrale, c’est-à-dire, de plus de la moi‐
+tié de la longueur totale du corps. Le premier rayon
+n’est qu’une petite épine, le second est comprimé,
+tranchant et le plus long de tous. Il va jusqu’à l’extré‐
+mité de la faux, laquelle atteindrait presque au milieu
+de la caudale; les suivans décroissent rapidement à
+compter du treizième; ils sont tous bas, s’alongeant
+cependant un peu et graduellement, de manière que
+la ﬁn de la dorsale est un peu plus haute que le milieu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="436" y="2501"/>
+	<Point x="1765" y="2501"/>
+	<Point x="1765" y="2656"/>
+	<Point x="436" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’anale répond à la portion basse de la nageoire
+du dos et n’a aucun rayon prolongé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="364" y="201"/>
+	<Point x="482" y="201"/>
+	<Point x="482" y="276"/>
+	<Point x="364" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>58</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="755" y="217"/>
+	<Point x="1410" y="217"/>
+	<Point x="1410" y="292"/>
+	<Point x="755" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

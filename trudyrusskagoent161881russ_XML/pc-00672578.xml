@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672578">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:30:21</Created>
+	<LastChange>2012-02-10T09:55:13</LastChange></Metadata>
+	<Page imageFilename="00672578.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="942" y="114"/>
+	<Point x="1264" y="114"/>
+	<Point x="1264" y="202"/>
+	<Point x="942" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 382 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="204" y="235"/>
+	<Point x="1976" y="235"/>
+	<Point x="1976" y="752"/>
+	<Point x="204" y="752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les secondes ailes ont sur le revers: 1°, trois points ba-
+silaires, (disposés en ligne droite inclinée, le dernier se trou-
+vant placé près du milieu du bord anal); 2°, le point disco-
+cellulaire, ainsi que la série courbe des points extérieurs —
+noirs, nettement cerclés de blanc, tout comme sur les premières
+ailes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="204" y="766"/>
+	<Point x="1978" y="766"/>
+	<Point x="1978" y="1014"/>
+	<Point x="204" y="1014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les deux rangées antimarginales, que nous avons aux ailes
+antérieures, se trouvent aussi aux postérieures; mais, elles
+sont entourées de blanc (un peu grisâtre) plus largement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="202" y="1023"/>
+	<Point x="1976" y="1023"/>
+	<Point x="1976" y="1352"/>
+	<Point x="202" y="1352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En outre, ces deux rangées sont séparées par une bande
+interrompue d'un fauve-orangé clair, avant l'angle anal. Les
+deux derniers points noirs près de l'angle anal sont pupillés de
+bleu métallique, à la manière des points marginaux de l'Argus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="202" y="1361"/>
+	<Point x="1976" y="1361"/>
+	<Point x="1976" y="1602"/>
+	<Point x="202" y="1602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le seul ♂ que je possède à, en dessus, la bordure (ou le
+limbe) noire, ainsi qu'un point central. Il ressemble en cela
+à certains ♂♂ de l'Argus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="207" y="1611"/>
+	<Point x="1978" y="1611"/>
+	<Point x="1978" y="1854"/>
+	<Point x="207" y="1854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les dessins, qui accompagnent ma description, étant irré-
+prochables, j'espère que la Lycaena Torgouta pourra être fa-
+cilement reconnue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="195" y="1861"/>
+	<Point x="1980" y="1861"/>
+	<Point x="1980" y="2190"/>
+	<Point x="195" y="2190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je dois encore ajouter que la frange est blanche en des-
+sus comme en dessous, à l'exception des premières ailes, où,
+elle est un peu enfumée des deux cotés, au dessus de l'angle
+interne, chez les deux sexes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="183" y="2200"/>
+	<Point x="1971" y="2200"/>
+	<Point x="1971" y="2461"/>
+	<Point x="183" y="2461"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ne trouvâmes que deux ♀♀ et un ♂ le 14 Mai, dans
+les promontoires du Tian-Chian, à une élévation de 4000' à
+peu près.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="785" y="2530"/>
+	<Point x="1376" y="2530"/>
+	<Point x="1376" y="2616"/>
+	<Point x="785" y="2616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>37. L. Orion Pall.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="202" y="2695"/>
+	<Point x="1950" y="2695"/>
+	<Point x="1950" y="2950"/>
+	<Point x="202" y="2950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>23 Avril, déﬁlé de Talki; en Mai dans une gorge du Tian-
+Chian, près de Charbougtschi; enﬁn, en Juin, par-ci, par-là,
+dans le Tian-Chian, jusqu'à 7000' d'altitude.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="202" y="2959"/>
+	<Point x="1947" y="2959"/>
+	<Point x="1947" y="3142"/>
+	<Point x="202" y="3142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce varie beaucoup dans les Célestes Montagnes,
+mais n'y constitue pas une variété constante.</Unicode></TextEquiv></TextRegion></Page></PcGts>

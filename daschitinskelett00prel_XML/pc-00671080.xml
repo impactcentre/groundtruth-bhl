@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671080">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T10:42:24</Created>
+	<LastChange>2012-03-12T14:34:03</LastChange></Metadata>
+	<Page imageFilename="00671080.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1127" y="298"/>
+	<Point x="1414" y="298"/>
+	<Point x="1414" y="381"/>
+	<Point x="1127" y="381"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 20 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="193" y="409"/>
+	<Point x="2332" y="409"/>
+	<Point x="2330" y="714"/>
+	<Point x="1004" y="731"/>
+	<Point x="997" y="739"/>
+	<Point x="972" y="740"/>
+	<Point x="946" y="732"/>
+	<Point x="390" y="731"/>
+	<Point x="380" y="739"/>
+	<Point x="196" y="739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nächstfolgenden vom vierten an einander sehr gleichen, bietet, wie bei vielen Insekten, das achte
+Segment wieder einen gewissen Abschluß. Die hinter ihm gelegenen drei Segmente sind kleiner als
+die übrigen und sind besonders dadurch bemerkenswert, daß sie erst im Laufe der postembryonalen
+Entwicklung gebildet werden. Das zwölfte Segment, das Telson, nimmt als den After umschließendes
+Endsegment eine besondere Stellung ein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="214" y="745"/>
+	<Point x="1015" y="746"/>
+	<Point x="1053" y="742"/>
+	<Point x="2325" y="731"/>
+	<Point x="2322" y="855"/>
+	<Point x="1611" y="864"/>
+	<Point x="1527" y="863"/>
+	<Point x="212" y="860"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Da die Modifizierung gegenüber den Thorakalsegmenten von vorn nach hinten immer stärker
+wird, können die Metameren in ihrer natürlichen Reihenfolge besprochen werden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="195" y="866"/>
+	<Point x="2330" y="869"/>
+	<Point x="2340" y="1530"/>
+	<Point x="552" y="1523"/>
+	<Point x="511" y="1548"/>
+	<Point x="337" y="1548"/>
+	<Point x="194" y="1547"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Terga der vorderen Abdominalsegmente (Fig. 14) weisen mit den
+thorakalen nur eine recht geringe Ähnlichkeit auf. Wie bei diesen liegen vor der eigentlichen Rücken‐
+schuppe symmetrisch schmale lamellöse Chitinplatten (Tgl, Tgla), die nur bei stärkerer Imprägnierung
+und bei Färbung klar hervortreten. Die dahinter gelegene Hauptschuppe (Notum, Not) ist auch
+in den Uroterga bei Eosentomon einfach und läßt in der Regel keine Trennung in Acrotergit, Protergit
+und Mesotergit erkennen. Während die Hauptschuppe des ersten Urotergums noch ziemlich klein
+ist, nimmt die relative Größe derselben caudalwärts von Segment zu Segment allmählich zu. Hinter
+der Hauptschuppe folgt ein breiter Sklerit dünneren Chitins, welcher dem Metatergit (Mttg) entspricht.
+Ein eigentlicher Nothotergit (Notg) ist nicht zur Ausbildung gekommen; sein Rudiment bildet ein
+schmaler Streif dickeren Chitins mit vier feinen Borsten, welcher sich an den Hinterrand des Meso-
+tergits anfügt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="217" y="1553"/>
+	<Point x="529" y="1551"/>
+	<Point x="547" y="1540"/>
+	<Point x="2330" y="1543"/>
+	<Point x="2329" y="1794"/>
+	<Point x="1879" y="1793"/>
+	<Point x="1854" y="1800"/>
+	<Point x="218" y="1790"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seitlich schließt sich an das eigentliche Tergum eine fest mit ihm verbundene dünnere Chitin‐
+region an, welche jedenfalls der völlig verschmolzenen Pleura (PI) gleichzusetzen ist. Daß die
+Sympleura in der Rückenplatte aufgegangen ist, läßt sich bei Eosentomon nicht mit Sicherheit
+nachweisen, während es aus den Verhältnissen bei Acerentomon klar hervorgeht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="214" y="1800"/>
+	<Point x="1857" y="1805"/>
+	<Point x="1886" y="1800"/>
+	<Point x="2339" y="1800"/>
+	<Point x="2339" y="2396"/>
+	<Point x="198" y="2416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das Urosternum (Fig. 14 und 21) des ersten Abdominalsegmentes ist schildförmig. Seine
+breiteste Stelle liegt nahe dem Vorderrande, wo es flügelartig vor dem Abdominalbeine an den Seiten
+emporgreift; nach hinten zu verjüngt es sich gleichmäßig. Seine dicker chitinisierte Hauptschuppe
+nimmt etwa zwei Drittel des Sternum ein. Seitlich ziemlich weit an ihr vorgreifend, schließt sich an
+sie der Metasternit (Mtst) an, der seitlich neben den Beinen je eine kleine Nebenplatte aufweist. Das
+zweite Urosternum ist etwas plumper gebaut als das erste. Die Erweiterung am Vorderrande ist
+weniger hervortretend, die Hauptschuppe ist breiter, die seitlichen Nebenplatten des Metasternit
+sind kleiner. Beim dritten Urosternum schließlich liegt die breiteste Stelle nicht mehr am Vorder‐
+rand, sondern etwa in der Mitte der Hauptschuppe; die seitlichen Nebenplatten (Mtsa) des Meta‐
+sternit sind rudimentär.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="206" y="2422"/>
+	<Point x="2340" y="2413"/>
+	<Point x="2337" y="3124"/>
+	<Point x="205" y="3112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zwischen Urosternum und Rückenschuppe, etwa in der Höhe des Mesosternit, entspringen
+die zweigliedrigen Abdominalextremitäten oder Stylopoden (Stp; Fig. 21 und 25). Abgesehen
+von einigen Einzelheiten sind dieselben einander vollständig gleichartig gebaut (das verschiedene
+Aussehen auf der Abbildung beruht größtenteils auf verschiedener Lage im Präparat). Das Basalglied
+(Coa) derselben ist, von der Ventralseite gesehen, etwa eiförmig, endwärts leicht verjüngt. Bei seit‐
+licher Ansicht sieht man, daß der dorsale (hintere) Teil (Com) durch eine Längsfurche gegen den
+größeren ventralen (vorderen, wenn das Bein rechtwinklig abstehend gedacht wird) abgesetzt ist.
+Am vorderen Teil des Lateralrandes erstreckt sich von dem Basalglied oralwärts eine leicht impräg‐
+nierbare Spange (Sca), welche sich dem Rumpfe anschmiegt; ebenso geht vom hinteren Ende des
+Seitenrandes eine kleinere Chitinverbindung dorsalwärts aus, welche beim ersten Stylopodenpaar am
+größten, beim dritten aber schon fast ganz reduziert ist. Der Endrand des Basalgliedes liegt in einer</Unicode></TextEquiv></TextRegion></Page></PcGts>

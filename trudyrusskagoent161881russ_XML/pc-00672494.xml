@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672494">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:44:58</Created>
+	<LastChange>2012-02-10T09:55:01</LastChange></Metadata>
+	<Page imageFilename="00672494.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="958" y="137"/>
+	<Point x="1266" y="137"/>
+	<Point x="1266" y="201"/>
+	<Point x="958" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 298 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="233" y="269"/>
+	<Point x="1987" y="269"/>
+	<Point x="1987" y="607"/>
+	<Point x="233" y="607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diese Gattung ist von Roelofs Ann. Belg. 1880 auf
+seine Piazomias tigrinus und griseus von Japan errichtet. Der
+geschätzte Autor hat den C. insularis mit seinen beiden Ar-
+ten verglichen und für speciﬁsch verschieden erklärt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="233" y="617"/>
+	<Point x="1992" y="617"/>
+	<Point x="1992" y="933"/>
+	<Point x="233" y="933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von griseus durch das vorne mehr verengte, quer gerun-
+zelte Halsschild mit vertiefter Längslinie und die gleichbreiten
+ﬂachen Zwischenräume auf den Decken hauptsächlich ver-
+schieden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="228" y="949"/>
+	<Point x="1992" y="949"/>
+	<Point x="1992" y="2896"/>
+	<Point x="228" y="2896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rüssel von den Augen bis zur Spitze wenig verengt, grob
+punktirt mit 2 deutlicher hervortretenden Längsrunzeln neben
+der breiten sich enger und feiner bis auf den Scheitel fort-
+setzenden Mittelfurche. Augen gewölbt vorragend. Schaft und
+Geisselglieder mit Borstenkränzen, Geisselglied 1 = 2 und
+etwas dicker, 4 und 5 die kürzesten. Halsschild wenig län-
+ger als breit, vorne deutlich enger als hinten, an beiden Enden
+gerade abgeschnitten, oben sparsam punktirt mit unregelmässigen
+ﬂachen, queren Eindrücken, die vertiefte Mittellinie von beiden
+Enden gleich weit abstehend, nicht länger als die halbe Hals-
+schildlänge. Schildchen deutlich dreieckig. Decken ohne Schul-
+tern, bauchig erweitert, hinten gemeinsam stumpf zugespitzt,
+höchstens um die Hälfte länger als breit, ﬂach gewölbt mit
+entfernt punktirten, ﬂachen Punktstreifen, 9 bei den Hinter-
+hüften breit und tief, zur Spitze hin schwächer gefurcht, Su-
+tur um das Schildchen vertieft, neben der Schulter ﬂach ge-
+drückt, alle Zwischenräume gleich breit und ﬂach; 4 Vorder-
+schienen innen deutlich 2buchtig, die hinteren nach aussen ge-
+krümmt. Runde, deutlich von einander getrennte Schuppen,
+an den Seiten hell graublau, auf dem Rücken verwaschen grau
+und braun, bedecken die ganze Oberseite, Seiten des Hals-
+schildes bis auf die Deckenbasis fortgesetzt weisslich, Unter-
+seite dicht und lang behaart.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="237" y="2907"/>
+	<Point x="1992" y="2907"/>
+	<Point x="1992" y="3082"/>
+	<Point x="237" y="3082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1 Stück vom Bergingenieur A. Köppen auf der Insel
+Sachalin gefunden und mir freundlichst überlassen.</Unicode></TextEquiv></TextRegion></Page></PcGts>

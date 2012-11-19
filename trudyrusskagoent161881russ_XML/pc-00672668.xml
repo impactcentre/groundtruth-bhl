@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672668">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:41:52</Created>
+	<LastChange>2012-02-10T09:55:32</LastChange></Metadata>
+	<Page imageFilename="00672668.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r9" index="5"/>
+	<RegionRefIndexed regionRef="r10" index="6"/>
+	<RegionRefIndexed regionRef="r11" index="7"/>
+	<RegionRefIndexed regionRef="r13" index="8"/>
+	<RegionRefIndexed regionRef="r15" index="9"/>
+	<RegionRefIndexed regionRef="r17" index="10"/>
+	<RegionRefIndexed regionRef="r18" index="11"/>
+	<RegionRefIndexed regionRef="r20" index="12"/>
+	<RegionRefIndexed regionRef="r21" index="13"/>
+	<RegionRefIndexed regionRef="r22" index="14"/>
+	<RegionRefIndexed regionRef="r24" index="15"/>
+	<RegionRefIndexed regionRef="r25" index="16"/>
+	<RegionRefIndexed regionRef="r26" index="17"/>
+	<RegionRefIndexed regionRef="r28" index="18"/>
+	<RegionRefIndexed regionRef="r30" index="19"/>
+	<RegionRefIndexed regionRef="r32" index="20"/>
+	<RegionRefIndexed regionRef="r34" index="21"/>
+	<RegionRefIndexed regionRef="r36" index="22"/>
+	<RegionRefIndexed regionRef="r38" index="23"/>
+	<RegionRefIndexed regionRef="r39" index="24"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="851" y="309"/>
+	<Point x="1608" y="309"/>
+	<Point x="1608" y="393"/>
+	<Point x="851" y="393"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TABLE DES MATIÈRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="924" y="505"/>
+	<Point x="1536" y="505"/>
+	<Point x="1536" y="575"/>
+	<Point x="924" y="575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulletin entomologique.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="1891" y="558"/>
+	<Point x="2102" y="558"/>
+	<Point x="2102" y="624"/>
+	<Point x="1891" y="624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pages.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="TOC-entry">
+	<Coords>
+	<Point x="364" y="841"/>
+	<Point x="2081" y="841"/>
+	<Point x="2081" y="900"/>
+	<Point x="364" y="900"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Liste des membres de la Société au 1 Decembre 1880 . . . XVIII—XXII</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="924" y="939"/>
+	<Point x="1529" y="939"/>
+	<Point x="1529" y="1017"/>
+	<Point x="924" y="1017"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Matériau� scientiﬁques.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="TOC-entry">
+	<Coords>
+	<Point x="360" y="1459"/>
+	<Point x="2079" y="1459"/>
+	<Point x="2079" y="1516"/>
+	<Point x="360" y="1516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gryllus frontalis Fieb. Auct. N. Arnold. Avec 1 pl. (T. IX) . 38 — 42</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="TOC-entry">
+	<Coords>
+	<Point x="352" y="1641"/>
+	<Point x="2077" y="1641"/>
+	<Point x="2077" y="1694"/>
+	<Point x="352" y="1694"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fundorte russischer Ichneumonidon. Von F. W. Woldstedt . 58 — 64</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="TOC-entry">
+	<Coords>
+	<Point x="358" y="1697"/>
+	<Point x="2081" y="1697"/>
+	<Point x="2081" y="1758"/>
+	<Point x="358" y="1758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lepidopteren-Fauna Kleinasien's, Von Dr. O. Staudinger . 65 — 135</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="TOC-entry">
+	<Coords>
+	<Point x="356" y="1881"/>
+	<Point x="2083" y="1881"/>
+	<Point x="2083" y="1937"/>
+	<Point x="356" y="1937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Paxylloma Cremieri Breb. Auct. N. Arnold . . . . . . . 146 — 149</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="TOC-entry">
+	<Coords>
+	<Point x="354" y="1940"/>
+	<Point x="2077" y="1940"/>
+	<Point x="2077" y="1993"/>
+	<Point x="354" y="1993"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zwei neue Otiorhynchus-Arten aus Sibirien. Von Dr. Stierlin . 150 — 153</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="TOC-entry">
+	<Coords>
+	<Point x="352" y="2837"/>
+	<Point x="2078" y="2837"/>
+	<Point x="2078" y="2897"/>
+	<Point x="352" y="2897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cryptocephalus bitaeniatus nov. sp. Par S. Solsky . . . . 438 — 439</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="1095" y="2978"/>
+	<Point x="1364" y="2978"/>
+	<Point x="1364" y="3039"/>
+	<Point x="1095" y="3039"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prix 8 r.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r42">
+	<Coords>
+	<Point x="1156" y="441"/>
+	<Point x="1306" y="441"/>
+	<Point x="1306" y="460"/>
+	<Point x="1156" y="460"/></Coords></SeparatorRegion>
+	<TextRegion id="r11" type="TOC-entry">
+	<Coords>
+	<Point x="359" y="1029"/>
+	<Point x="2082" y="1029"/>
+	<Point x="2082" y="1155"/>
+	<Point x="359" y="1155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Speicheldrüsen bei den Odonaten. Von Nicolaus Poletaïew.
+Mit 1 Tafel (T. I) . . . . . . . . . . . . . . 3 — 6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="TOC-entry">
+	<Coords>
+	<Point x="354" y="1160"/>
+	<Point x="2081" y="1160"/>
+	<Point x="2081" y="1335"/>
+	<Point x="354" y="1335"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zur Frage über den Bau und über die Innervation der Spei-
+cheldrüsen der Blattiden. Von N. Cholodkowsky. Mit
+2 Tafeln (T. II &amp; III) . . . . . . . . . . . . 6 — 9</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="TOC-entry">
+	<Coords>
+	<Point x="360" y="1340"/>
+	<Point x="2078" y="1340"/>
+	<Point x="2078" y="1454"/>
+	<Point x="360" y="1454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Du développement des muscles d'ailes chez les Odonates. Par
+Nicolas Poletaïew. Avec 5 planches (T. IV—VIII) . 10 — 37</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="TOC-entry">
+	<Coords>
+	<Point x="360" y="1518"/>
+	<Point x="2073" y="1518"/>
+	<Point x="2073" y="1633"/>
+	<Point x="360" y="1633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beitrag zur Lepidopteren-Fauna des Amur-Landes. Von W.
+von Hedemann. Mit 1 Tafel. (T. X) . . . . . . . 43 — 57</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="TOC-entry">
+	<Coords>
+	<Point x="354" y="1764"/>
+	<Point x="2079" y="1764"/>
+	<Point x="2079" y="1879"/>
+	<Point x="354" y="1879"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diptera europaea et asiatica nova aut minus cognita. Auct. J.
+Portschinsky . . . . . . . . . . . . . . . 136 — 145</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="TOC-entry">
+	<Coords>
+	<Point x="347" y="2000"/>
+	<Point x="2075" y="2000"/>
+	<Point x="2075" y="2118"/>
+	<Point x="347" y="2118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Columbische Chiloniden, Crambiden und Phycideen. Von Р. C.
+Zeller. Mit 2 Tafeln (T. XI &amp; XII) . . . . . . . 154 — 256</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="TOC-entry">
+	<Coords>
+	<Point x="352" y="2120"/>
+	<Point x="2072" y="2120"/>
+	<Point x="2072" y="2239"/>
+	<Point x="352" y="2239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beitrag zur Lepidopteren-Fauna des Amur-Landes. Von W.
+v. Hedemann. Mit 1 Tafel (T. XIII) . . . . . . . 257 — 272</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="TOC-entry">
+	<Coords>
+	<Point x="352" y="2241"/>
+	<Point x="2074" y="2241"/>
+	<Point x="2074" y="2359"/>
+	<Point x="352" y="2359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diptera europaea et asiatica nova aut minus cognita. Pars II.
+Auct. J. Portschinsky . . . . . . . . . . . 273 — 284</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="TOC-entry">
+	<Coords>
+	<Point x="354" y="2362"/>
+	<Point x="2074" y="2362"/>
+	<Point x="2074" y="2533"/>
+	<Point x="354" y="2533"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beiträge zur Kenntniss der Käfer des Europäischen und Asia-
+tischen Russlauds mit Einschluss der Küsten des Kaspi-
+schen Meeres. Von J. Faust . . . . . . . . . . 285 — 333</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="TOC-entry">
+	<Coords>
+	<Point x="345" y="2540"/>
+	<Point x="2082" y="2540"/>
+	<Point x="2082" y="2716"/>
+	<Point x="345" y="2716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lépidoptères du district de Kouldjà et des montagnes environ-
+nantes. Par Serge Alphéraky. Avec 2 planches (T. XIV
+&amp; XV) . . . . . . . . . . . . . . . . . . 334 — 435</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="TOC-entry">
+	<Coords>
+	<Point x="345" y="2721"/>
+	<Point x="2082" y="2721"/>
+	<Point x="2082" y="2831"/>
+	<Point x="345" y="2831"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Des muscles d'aile chez les Lépidoptères Rhopalocères. Par Ni
+colas Poletaïew . . . . . . . . . . . . . . 436 — 437</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r43">
+	<Coords>
+	<Point x="1067" y="2922"/>
+	<Point x="1368" y="2922"/>
+	<Point x="1368" y="2948"/>
+	<Point x="1067" y="2948"/></Coords></SeparatorRegion>
+	<TextRegion id="r5" type="TOC-entry">
+	<Coords>
+	<Point x="370" y="608"/>
+	<Point x="1809" y="608"/>
+	<Point x="1839" y="650"/>
+	<Point x="2091" y="650"/>
+	<Point x="2091" y="720"/>
+	<Point x="370" y="722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auszüge aus den Sitzungsberichten der Gesellschaft im Jahre
+1879. . . . . . . . . . . . . . . . . . . III—XV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="TOC-entry">
+	<Coords>
+	<Point x="362" y="725"/>
+	<Point x="2085" y="725"/>
+	<Point x="2085" y="835"/>
+	<Point x="362" y="835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auszug aus dem Jahresberichte der Gesellschaft für das
+Jahr 1879 . . . . . . . . . . . . . . . . XVI—XVII</Unicode></TextEquiv></TextRegion></Page></PcGts>

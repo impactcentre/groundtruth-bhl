@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672272">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:57:00</Created>
+	<LastChange>2012-02-10T09:54:17</LastChange></Metadata>
+	<Page imageFilename="00672272.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1033" y="96"/>
+	<Point x="1339" y="96"/>
+	<Point x="1339" y="174"/>
+	<Point x="1033" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 78 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="292" y="208"/>
+	<Point x="2082" y="208"/>
+	<Point x="2082" y="2564"/>
+	<Point x="292" y="2564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cucullia Blattariae ab. Anceps Stgr. Johann sandte
+mir ein am 14 Juni gefangenes ganz frisches ♀ ein, das ich
+fast für eine von Blattariae verschiedene Art ansehn muss.
+Zu diesem ♀ gehört noch das von uns am 28 Juni bei der
+Laterne im Kerasdere, früher als Blattariae ab. aufgeführte
+♀. Beide Stücke, besonders das von Johann gefangene, sind
+bedeutend lichter mit fast weisslichen Vorderﬂügeln, besonders
+aber ist bei ihnen der Vorderrand derselben nicht breit blei‐
+grau, wie bei allen meinen ächten Blattariae, auch denen aus
+Amasia. Auch die Hinterﬂügel sind ganz licht, nach der Ba‐
+sis weisslich wie bei Blattariae ♂♂, während sie bei den äch‐
+ten Blattariae ♀♀ stets ganz dunkel sind. Die Fransen füh‐
+ren nicht die breite dunkle Theilungslinie der Blattariae, son‐
+dern sind fast ganz weiss, nur mit einzelnen dunklen Flecken
+darin. Ich bezeichne vorläuﬁg diese beiden ♀♀ als Anceps
+und überlasse es der Zukunft (Kenntniss der Raupen und
+einer grösseren Anzahl, besonders sicherer ♂♂ dazu), ob dies
+nur eine zufällige Aberration oder eine eigene Art ist. Eine
+Varietät kann es nicht sein, da die typischen Blattariae bei
+Amasia heimisch sind. Vielleicht gehört die früher von mir
+als ? Scrophulariae aufgeführte Raupe zu dieser neuen Art.
+Die Arten der Cuc. Verbasci-Gruppe sind aber bekanntlich die
+allerschwierigsten, so dass hier die genausten Untersuchungen
+nothwendig sind. Ich erhielt auch aus Amasia einen Cuc.
+Blattariae ♂, mit fast ebenso weissem Discus der Vorderﬂügel
+als bei den beiden Anceps, allein der Vorderrand derselben ist
+breit bleigrau und die Hinterﬂügel haben genau solche Fran‐
+sen wie bei typischen Blattariae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="314" y="2582"/>
+	<Point x="2075" y="2582"/>
+	<Point x="2075" y="2848"/>
+	<Point x="314" y="2848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Janthinea Frivaldszkyi Friv. 1878 fand Johann hier‐
+von endlich eine Anzahl sehr schöner Stücke, die an einer
+weissen sehr kleinblüthigen Pﬂanze sassen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="330" y="2862"/>
+	<Point x="2078" y="2862"/>
+	<Point x="2078" y="3044"/>
+	<Point x="330" y="3044"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Heliothis Cognatus Frr. Zeller führt Anthoecia Cognata
+als von Loew bei Smyrna gefunden auf.</Unicode></TextEquiv></TextRegion></Page></PcGts>

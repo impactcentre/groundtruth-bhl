@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668915">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T04:31:36</Created>
+	<LastChange>2012-02-09T16:27:23</LastChange></Metadata>
+	<Page imageFilename="00668915.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="96" y="323"/>
+	<Point x="1532" y="323"/>
+	<Point x="1532" y="2658"/>
+	<Point x="96" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pas en laisser à lui seul la responsabilité scienti-
+ﬁque, attendu que j'ai proﬁté assidûment des
+travaux qui sont venus à ma connaissance
+depuis ces dernières années, et souvent ces
+additions ont beaucoup modiﬁé le travail de
+M. Cuvier: les nombreux mémoires présentés
+à la société zoologique de Londres; les rapports
+annuels de M. J. Desjardins de l'Isle-de-France
+sur les travaux des membres de la société d'his-
+toire naturelle, dont il est secrétaire; le Pro-
+drome de l'ichthyologie scandinave de M. Nilson,
+m'ont fourni des documens qui ont fait quel-
+quefois changer nos premières déterminations.
+L'activité de ces savans à contribuer aux progrès
+de la connaissance des poissons, est le résultat
+de l'élan que M. Cuvier donnait aux naturalistes
+chaque fois qu'il se livrait à l'étude d'une science
+en particulier. Sa correspondance conﬁante et
+suivie sans relâche, le plaisir que les hommes
+laborieux trouvent à résoudre, par la lecture
+des ouvrages de ce grand homme, les diﬃcultés
+que présentait la détermination des espèces,
+ont éveillé de toutes parts l'attention des zoolo-
+gistes sur l'histoire des poissons, comme aupara-
+vant ses immortelles recherches sur les ossemens</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1409" y="216"/>
+	<Point x="1513" y="216"/>
+	<Point x="1513" y="302"/>
+	<Point x="1409" y="302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="596" y="226"/>
+	<Point x="1013" y="226"/>
+	<Point x="1013" y="284"/>
+	<Point x="596" y="284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AVERTISSEMENT.</Unicode></TextEquiv></TextRegion></Page></PcGts>

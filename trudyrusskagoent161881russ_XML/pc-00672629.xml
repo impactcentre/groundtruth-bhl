@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672629">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:38:13</Created>
+	<LastChange>2012-02-10T09:55:25</LastChange></Metadata>
+	<Page imageFilename="00672629.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="696" y="993"/>
+	<Point x="1138" y="993"/>
+	<Point x="1138" y="1135"/>
+	<Point x="696" y="1135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Appendice.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="35" y="1212"/>
+	<Point x="1806" y="1212"/>
+	<Point x="1806" y="1764"/>
+	<Point x="35" y="1764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pendant l'impression de mon travail j'ai reçu du Dr. Stau-
+dinger son Mémoire sur les Rhopalocères du Saïsan, Tarba-
+gataï, Ala-Tau et Lépsà, publié dans le Stett. Ent. Zeitung
+de 1881. Comme on y fait mention de plusieurs espèces dont
+je parle dans le présent ouvrage, je me vois forcé d'ajouter
+quelques mots à ce que j'en ai dit précédemment.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="212" y="1825"/>
+	<Point x="1635" y="1825"/>
+	<Point x="1635" y="1925"/>
+	<Point x="212" y="1925"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parnassius Delphius Ev. (Stgr. l. c. p. 278).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="35" y="1961"/>
+	<Point x="1816" y="1961"/>
+	<Point x="1816" y="2322"/>
+	<Point x="35" y="2322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les taches noires, rondes, près de l'angle anal des ailes
+postérieures ne portent pas trace d'écailles bleues, chez les
+individus du Tian-Chian, que j'ai rapportés, et qui se trouvent,
+selon Staudinger chez quelques individus de l'Ala-Tau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="600" y="2377"/>
+	<Point x="1229" y="2377"/>
+	<Point x="1229" y="2480"/>
+	<Point x="600" y="2480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Colias Thisoa Mén.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="41" y="2503"/>
+	<Point x="1825" y="2503"/>
+	<Point x="1825" y="3129"/>
+	<Point x="41" y="3129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Dr. Staudinger, qui en a reçu une trentaîne d'in-
+dividus du Tarbagataï, croit décidément qu'elle n'est qu'une
+variété de la C. Myrmidone, s'appuyant principalement sur ce
+que certain ♂♂ ne sont presque pas à distinguer de ceux de
+Myrmidone. J'ai eu beaucoup de Thisoa du Tian-Chian entre
+les mains, des ♂♂ surtout, et je ne puis me ranger à l'avis
+du Dr. Staudinger. Bien au contraire, je ne puis les en-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="190" y="3164"/>
+	<Point x="509" y="3164"/>
+	<Point x="509" y="3229"/>
+	<Point x="190" y="3229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1558" y="3161"/>
+	<Point x="1654" y="3161"/>
+	<Point x="1654" y="3229"/>
+	<Point x="1558" y="3229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>28</Unicode></TextEquiv></TextRegion></Page></PcGts>

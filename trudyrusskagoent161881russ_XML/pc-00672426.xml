@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672426">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:33:33</Created>
+	<LastChange>2012-02-10T09:54:50</LastChange></Metadata>
+	<Page imageFilename="00672426.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="953" y="124"/>
+	<Point x="1249" y="124"/>
+	<Point x="1249" y="189"/>
+	<Point x="953" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 232 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="214" y="257"/>
+	<Point x="1994" y="257"/>
+	<Point x="1994" y="1596"/>
+	<Point x="214" y="1596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 31/2‴ lang, schmal, nach hinten wenig er-
+weitert, mit stumpfer Spitze, hell graubraun, am Vorderrande
+zwischen den Querlinien weisslich, sonst fast überall mit dun-
+keln Stäubchen bestreut. Die erste Querlinie ist näher der
+Basis als den Queraderpunkten, wenig schräg, vollständig,
+ziemlich breit, öfters in der Falte mit scharfem, nach hinten
+gerichtetem Zahn, auf der Basalseite nicht abgegrenzt, auf
+der Aussenseite mit breitem, dunkel graubraunem Schatten
+gerandet. Die zwei Queraderpunkte sind mehr oder weniger
+dunkel und scharf und ﬂiessen gewöhnlich in einander; der
+untere liegt auf der weisslichen Medianader. Die hintere
+Querlinie ist in der Mitte zwischen den Queraderpunkten und
+dem Hinterrande, diesem parallel, gezähnelt, in der Mitte
+etwas nach hinten gebogen, auf beiden Seiten ziemlich schmal
+bräunlich eingefasst. Der Hinterrand hat einige tiefschwarze,
+gewöhnlich nicht sehr auﬀallende Punkte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="223" y="1607"/>
+	<Point x="1985" y="1607"/>
+	<Point x="1985" y="1764"/>
+	<Point x="223" y="1764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel spitz und gestreckt, lichtgrau, durchscheinend;
+Vorderrand, Adern und Hinterrandlinie bräunlich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="221" y="1773"/>
+	<Point x="1982" y="1773"/>
+	<Point x="1982" y="2437"/>
+	<Point x="221" y="2437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite grau; auf den dunkleren, einfarbigen Vorder-
+ﬂügeln entspringt der erste Ast der Medianader bei 2/3, der
+zweite nicht weit davon; 3 und 4 bilden eine Gabel, die so
+lang ist wie ihr Stiel. Auf den nicht schillernden Hinterﬂügeln
+kommt der erste Ast von 1/3, der 2te von 1/2; fast mitten
+beiden geht die Querader ab; 2 und 3 bilden mithin eine
+lange Gabel. Von einem Nebenästchen des obern Armes der
+Subcostalader ist keine Spur zu entdecken.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="228" y="2439"/>
+	<Point x="1982" y="2439"/>
+	<Point x="1982" y="2701"/>
+	<Point x="228" y="2701"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von den 11 Exemplaren ﬁng Petersen bei Vianí ein ♀
+am 5 August, 1 ♂ am 10 September, die übrigen, meist ♂♂,
+bei Honda zu Ende April.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="558" y="2801"/>
+	<Point x="1635" y="2801"/>
+	<Point x="1635" y="2889"/>
+	<Point x="558" y="2889"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Euzoph. disticta Tab. XII, ﬁg. 39.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="242" y="2941"/>
+	<Point x="1973" y="2941"/>
+	<Point x="1973" y="3110"/>
+	<Point x="242" y="3110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis subreﬂexis; alis ant. angustis, luteo-cinerascentibus,
+antice albis, strigis duabus distantibus, angulatis, albis, nigro-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669331">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:53:00</Created>
+	<LastChange>2012-03-12T14:33:56</LastChange></Metadata>
+	<Page imageFilename="00669331.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="125" y="255"/>
+	<Point x="1484" y="255"/>
+	<Point x="1484" y="629"/>
+	<Point x="125" y="629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>près égales; et comme l’anus s’ouvre à la moitié de
+la longueur de l’abdomen, il résulte de ces posi‐
+tions que l’intestin, malgré sa longueur, n’occupe
+que peu de place dans la moitié antérieure de la
+cavité du ventre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="130" y="638"/>
+	<Point x="1487" y="638"/>
+	<Point x="1487" y="1079"/>
+	<Point x="130" y="1079"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le foie est petit, composé de deux lobes égaux
+situés en travers sous l’œsophage; la vésicule du ﬁel
+est très-petite, suspendue à un canal hépato-cystique
+de longueur médiocre, et appuyée sur la face supé‐
+rieure de l’œsophage, le long du bord aminci du
+lobe droit du foie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="130" y="1086"/>
+	<Point x="1488" y="1086"/>
+	<Point x="1488" y="1918"/>
+	<Point x="130" y="1918"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’œsophage est étroit, de longueur moyenne; il
+se dilate en un estomac dont la forme ressemble à
+celle d’une cornemuse; il est placé verticalement
+dans l’abdomen. Sa partie postérieure remonte un
+peu vers le diaphragme, mais on ne peut y distin‐
+guer de branche montante proprement dite. Le py‐
+lore est marqué par un étranglement assez fort; il est
+muni de huit appendices cœcales de grosseur mé‐
+diocre, coniques, pointues, et appuyées à droite et
+à gauche sur la partie postérieure de l’estomac,
+qu’elles enveloppent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="133" y="1920"/>
+	<Point x="1491" y="1920"/>
+	<Point x="1491" y="2604"/>
+	<Point x="133" y="2604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le duodénum se porte en arrière et en haut jus‐
+qu’auprès de l’anus, où il se dilate subitement en
+une sorte de vessie alongée; un étranglement très-
+serré distingue cette première portion du canal di‐
+gestif du reste des intestins grêles, dont le diamètre
+est lui-même très-petit, et qui font deux replis avant
+de remonter auprès du pylore, où l’intestin se di‐
+late en un rectum beaucoup plus large, et qui se
+rend droit à l’anus sans faire aucun repli.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="506" y="161"/>
+	<Point x="1030" y="161"/>
+	<Point x="1030" y="231"/>
+	<Point x="506" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. CÉPOLES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1338" y="147"/>
+	<Point x="1477" y="147"/>
+	<Point x="1477" y="231"/>
+	<Point x="1338" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>399</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672201">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T08:14:27</Created>
+	<LastChange>2012-02-10T09:54:00</LastChange></Metadata>
+	<Page imageFilename="00672201.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="87" y="252"/>
+	<Point x="1882" y="252"/>
+	<Point x="1882" y="2442"/>
+	<Point x="87" y="2442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>linderepitheltragenden, Ausführungsgang des acinösen Theiles
+(ﬁg. 1 a) und dieser verbindet sich mit dem entsprechenden
+Ausführungsgange der anderen Drüse, so dass also dadurch
+ein gemeinsсhaftliсher Ausführungsgang der acinö-
+sen Theile der beiden Drüsen entsteht (ﬁg. 1 с). Das Spei‐
+chelreservoir verdünnt sich auch nach vorn zu einem durch‐
+sichtigen, tracheenähnlichen Ausführungsgange (ﬁg. 1 b), der
+sich mit dem entsprechenden Ausführungsgange der anderen
+Seite (ﬁg. 1 d) verbindet. Alsdann verbinden sich die beiden
+Ausführungsgänge с und d in einen grossen gemeinschaft‐
+lichen Speichelgang (ﬁg. 1 e); dieser letztere begiebt
+sich nach vorn, unter das ganglion infraoesophageum und mün‐
+det unter der hornigen Zunge. Diese Verhältnisse sind ziem‐
+lich gut in einer Zeichnung von Basch 1) abgebildet; nur
+muss ich diesem Forscher darin widersprechen, dass der ge‐
+meinschaftliche Speichelgang nicht, wie er angibt, in den
+Schlund, sondern unter der Zunge einmündet. Ich habe ein
+feines Härchen durch das Lumen dieses Ganges bis zu seiner
+Ausmündungsstelle in den Mund gesetzt (siehe ﬁg. 2; n Un‐
+terlippe, l Zunge, h Härchen), so dass nun die Frage über
+die Einmündung desselben ausser allem Zweifel gestellt ist.
+Uebrigens muss ich bemerken, dass schon Burmeister in
+seinem «Handbuche der Entomologie» eine Beschreibung der
+Speicheldrüsen einer anderen Blattide, Blabera trapezoides,
+giebt, welche in vollem Einklange mit meinen Untersuchungen
+steht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="108" y="2448"/>
+	<Point x="1882" y="2448"/>
+	<Point x="1882" y="2949"/>
+	<Point x="108" y="2949"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ich muss noch einen eigenthümlichen, bisher nicht be‐
+schriebenen Muskel der Speicheldrüse erwähnen. Die‐
+ser Muskel beginnt aus der unteren Fläche des Kropfes und
+inserirt sich an das Speichelreservoir, und zwar an derjenigen
+Stelle, wo dasselbe in seinen Ausführungsgang übergeht (ﬁg.
+6 m). Er reiht sich oﬀenbar in die Kategorie der von Weiss-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote">
+	<Coords>
+	<Point x="101" y="2999"/>
+	<Point x="1869" y="2999"/>
+	<Point x="1869" y="3137"/>
+	<Point x="101" y="3137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1) Ueber das chylo- und uropoetische System der Peripl. orientalis (Sitzungs‐
+berichte der Wiener Acad. 1858).</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords>
+	<Point x="129" y="2961"/>
+	<Point x="129" y="2983"/>
+	<Point x="726" y="2983"/>
+	<Point x="726" y="2961"/></Coords></SeparatorRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="797" y="132"/>
+	<Point x="797" y="230"/>
+	<Point x="1160" y="230"/>
+	<Point x="1160" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 7 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

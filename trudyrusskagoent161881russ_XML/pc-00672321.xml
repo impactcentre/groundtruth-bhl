@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672321">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T19:09:32</Created>
+	<LastChange>2012-02-10T09:54:29</LastChange></Metadata>
+	<Page imageFilename="00672321.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="798" y="137"/>
+	<Point x="1098" y="137"/>
+	<Point x="1098" y="203"/>
+	<Point x="798" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 127 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="76" y="271"/>
+	<Point x="1817" y="271"/>
+	<Point x="1817" y="508"/>
+	<Point x="76" y="508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>teressanten Vergleichungen und Schlussfolgerungen lassen sich
+leicht aus den gegebenen Tabellen der Arten und Gattungen
+ziehen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="73" y="510"/>
+	<Point x="1823" y="510"/>
+	<Point x="1823" y="2733"/>
+	<Point x="73" y="2733"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ueber die Sphingidae erwähne ich nur kurz Folgendes. Zu-
+nächst zeigt auch hier Kleinasien mehr Arten (89) als Cen-
+tral-Europa (84). Etwa 36 Arten hat es mit Deutschland ge-
+mein und etwa 38 sind nur im Osten vorkommende Arten.
+P. (Amasia) steht mit 59 Arten und 13 Gattungen den ande-
+ren Lokalitäten voran; B. hat eben so viel Gattungen, aber
+nur 47 Arten. Charakteristisch für Kleinasien ist die Gattung
+Sciapteron, die mit allen für das europäische Faunengebiet be-
+kannten 5 Arten dort vorkommt, von denen zwei für Klein-
+asien endemisch, zwei andere sonst nur noch in Nord-Persien
+gefunden sind. Auch von der Gattung Paranthrene sind die
+bekannten drei Arten in Kleinasien heimisch; eine ist ende-
+misch (Hoplisiformis). Verhältnissmässig reich, besonders in
+Bezug auf die Schwierigkeit, dieselben zu ﬁnden, ist die Gat-
+tung Sesia mit 26 Arten, von denen 19 bei Brussa vorkom-
+men, und 6 — 8 endemisch (oder fast) für Kleinasien sind.
+Auch die kleine Gattung Ino ist mit 11 Arten reich vertre-
+ten, von denen nur eine (Capitalis) endemisch ist. Die Gat-
+tung Zygaena mit 20 Arten (von denen zwei Ganymedes und
+Formosa endemisch sind) ist auch grade nicht arm zu nennen.
+Das anscheinende Fehlen dieser Gattung auf Cypern beruht
+wohl sicher nur auf Mangel an Beobachtungen dort. In P.
+wurde nur die Gattung Pterogon aufgefunden, Thyris und Syn-
+tomis bisher nur in P. und B. Bei B. wurden zwei (Trochi-
+lium und Bembecia) allein gefunden, in L. eine (Acherontia),
+die aber wohl zweiﬀellos sich überall in Kleinasien vorﬁnden
+dürfte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="87" y="2737"/>
+	<Point x="1819" y="2737"/>
+	<Point x="1819" y="3074"/>
+	<Point x="87" y="3074"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Was nun die Bombycidae anbetriﬀt, so bleibt deren An-
+zahl für Kleinasien (116) weit hinter Central-Europa (204)
+zurück. Allein von hier an beginnen die grossen Lücken der
+kleinasiatischen Fauna, da bei dieser und den folgenden Fa-</Unicode></TextEquiv></TextRegion></Page></PcGts>

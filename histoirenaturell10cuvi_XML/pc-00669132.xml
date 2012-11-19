@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669132">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:28:39</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669132.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="255" y="229"/>
+	<Point x="1698" y="229"/>
+	<Point x="1694" y="2176"/>
+	<Point x="556" y="2181"/>
+	<Point x="255" y="2179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et trouvé dans les papiers de Commerson.
+Mais un autre dessin de la même espèce, fait à
+la plume par Sonnerat, et très-reconnaissable
+pour un acanthure, par ses neuf épines dor‐
+sales et par la lame latérale de la queue, par‐
+faitement exprimée, a été altéré, relativement
+à cette dernière circonstance, par le copiste,
+qui a entièrement omis cette arme. M. de
+Lacépède, trompé par cette inﬁdélité, l’avait
+fait graver, t. III, pl. 25, ﬁg. 3, et l’avait rap‐
+porté d’abord au chætodon striatus, de Linné
+(Mus. Ad. Fred., pl. 33, ﬁg. 7), et de Bloch
+(pl. 205, ﬁg. 1)1; poisson certainement très-
+diﬀérent, ne fût-ce que par les treize rayons
+épineux de sa dorsale, et même par des cou‐
+leurs autrement distribuées, des bandes noires
+plus larges, etc. Plus tard notre illustre prédé‐
+cesseur en a fait une espèce qu’il a nommée
+chætodon couagga2, mais qui ne repose, ainsi
+qu’on le voit en consultant le dessin original,
+que sur l’altération d’une ﬁgure représentant
+une variété de son acanthure zèbre où man‐
+quait la première bande du tronc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="333" y="2183"/>
+	<Point x="1673" y="2183"/>
+	<Point x="1673" y="2270"/>
+	<Point x="333" y="2270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a aussi une très-bonne ﬁgure de notre</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="255" y="2344"/>
+	<Point x="1664" y="2344"/>
+	<Point x="1662" y="2472"/>
+	<Point x="564" y="2472"/>
+	<Point x="559" y="2477"/>
+	<Point x="527" y="2477"/>
+	<Point x="526" y="2467"/>
+	<Point x="255" y="2467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Il le nomme sur la planche chætodon zebre, qui est sa dé‐
+nomination pour le chætodon striatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="260" y="2471"/>
+	<Point x="518" y="2471"/>
+	<Point x="524" y="2481"/>
+	<Point x="564" y="2481"/>
+	<Point x="567" y="2476"/>
+	<Point x="1669" y="2476"/>
+	<Point x="1668" y="2600"/>
+	<Point x="258" y="2600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Lacép., t. IV, p. 727, et dans l’avertissement du même vo‐
+lume, p. 16.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="276" y="130"/>
+	<Point x="410" y="130"/>
+	<Point x="410" y="210"/>
+	<Point x="276" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>200</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="714" y="133"/>
+	<Point x="1233" y="133"/>
+	<Point x="1233" y="210"/>
+	<Point x="714" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="261" y="2288"/>
+	<Point x="261" y="2336"/>
+	<Point x="1668" y="2336"/>
+	<Point x="1668" y="2288"/></Coords></SeparatorRegion></Page></PcGts>

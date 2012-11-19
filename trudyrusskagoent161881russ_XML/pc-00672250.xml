@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672250">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:22:07</Created>
+	<LastChange>2012-02-10T09:54:10</LastChange></Metadata>
+	<Page imageFilename="00672250.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1007" y="132"/>
+	<Point x="1316" y="132"/>
+	<Point x="1316" y="196"/>
+	<Point x="1007" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 56 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="357" y="269"/>
+	<Point x="2050" y="269"/>
+	<Point x="2050" y="953"/>
+	<Point x="357" y="953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>von einer stark gezähnten, olivenbraunen Linie durchzogen.
+Hierauf tritt die Grundfarbe hervor bis zum Saum, von ei-
+ner scharf hervortretenden, gezackten, weissen Linie getheilt.
+Certata hat vor dem Saume eine überall gleich feine schwarze
+Saumlinie, Varia hat diese schärfer gebrochen und im Schei-
+tel stark verdickt, so dass sie hier wie eine Reihe schwar-
+zer Halbmonde erscheint, mit Ausnahme des zwischen Rippe
+3 und 4 beﬁndlichen, der nicht im Scheitel verdickt ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="341" y="960"/>
+	<Point x="2064" y="960"/>
+	<Point x="2064" y="1297"/>
+	<Point x="341" y="1297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Hinterﬂügel wie die der Certata, nur auch wiede-
+rum schärfer gezeichnet und gegen den Aussenrand zu schön
+braun gefärbt. Die Halbmonde der Saumlinie auch hier
+stärker ausgedrückt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="353" y="1305"/>
+	<Point x="2055" y="1305"/>
+	<Point x="2055" y="2158"/>
+	<Point x="353" y="2158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Unterseite der Flügel bietet ein sicheres Unterschei-
+dungszeichen. Certata führt hier (taf. X, ﬁg. 8) auf beiden
+Flügelpaaren einen unterbrochenen, schwach geschwungenen
+dunklen Querstreifen. Bei Varia (taf. X, ﬁg. 7 a) ist die-
+ser Streifen nur auf der Vorderrandshälfte der Vorderﬂü-
+gel sichtbar und zwar stark gezähnt, hört bei Rippe 3 ganz
+auf. Auf den Hinterﬂügeln fehlt er ganz. Hier sind die
+Rippen braun punktirt und die ganze Flügelﬂäche hat ein
+marmorirtes Aussehn, was bei Certata beides nur äusserst
+schwach ausgedrückt ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="353" y="2166"/>
+	<Point x="2057" y="2166"/>
+	<Point x="2057" y="2578"/>
+	<Point x="353" y="2578"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ausserdem ist der scharf schwarze Mittelpunkt bei Cer-
+tata grösser und auf beiden Flügelpaaren fast gleich gross,
+während er bei Varia auf den Vorderﬂügeln überhaupt klei-
+ner als dort, aber entschieden auf denselben grösser ist als
+auf den Hinterﬂügeln.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="371" y="2587"/>
+	<Point x="2062" y="2587"/>
+	<Point x="2062" y="2762"/>
+	<Point x="371" y="2762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kopf hellbraun, Palpen schwarzbraun, länger und spit-
+zer als bei Certata. Beine bei beiden Arten gleich. 23 mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="341" y="2769"/>
+	<Point x="2062" y="2769"/>
+	<Point x="2062" y="3119"/>
+	<Point x="341" y="3119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mir liegen 7 Stücke von der Insel Askold vor, wo das
+Thier häuﬁg zu sein scheint. Nach Herrn Butler kömmt
+Varia auch in Japan vor, ganz übereinstimmend mit den
+Askolder Exemplaren.</Unicode></TextEquiv></TextRegion></Page></PcGts>

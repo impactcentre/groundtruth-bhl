@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672430">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:34:20</Created>
+	<LastChange>2012-02-10T09:54:51</LastChange></Metadata>
+	<Page imageFilename="00672430.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="933" y="146"/>
+	<Point x="1239" y="146"/>
+	<Point x="1239" y="208"/>
+	<Point x="933" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 236 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="208" y="275"/>
+	<Point x="1967" y="275"/>
+	<Point x="1967" y="608"/>
+	<Point x="208" y="608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Stiel. — Auf den Hinterﬂügeln entspringt der erste Ast weit
+vor der Mitte, die aus 2 und 3 gebildete Gabel hat einen
+Stiel von ihrer Länge, vor dessen Mitte die Querader ab-
+geht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="216" y="624"/>
+	<Point x="1982" y="624"/>
+	<Point x="1982" y="1321"/>
+	<Point x="216" y="1321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von den vorliegenden 4 Exemplaren wurde eins am 10
+August bei Mariquita, die übrigen zu Ende April bei Honda
+gesammelt. Das fragliche Weibchen ist kleiner als die andern,
+aber mit eben so starken Fühlern. Da auch durch theilweise
+Abreibung des Analbusches kein Legestachel zum Vorschein
+kommt, so scheint es trotz des dicken Hinterleibes doch nur
+ein ♂ zu sein, dessen Analbusch in Folge von Verölung die
+weibliche Gestalt angenommen hatte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="387" y="1407"/>
+	<Point x="1799" y="1407"/>
+	<Point x="1799" y="1491"/>
+	<Point x="387" y="1491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fundella pellucens Z. Tab. XII, ﬁg. 41 a. b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="880" y="1532"/>
+	<Point x="1291" y="1532"/>
+	<Point x="1291" y="1603"/>
+	<Point x="880" y="1603"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Isis 1848 p. 866.*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="207" y="1632"/>
+	<Point x="1960" y="1632"/>
+	<Point x="1960" y="2469"/>
+	<Point x="207" y="2469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das Genus Fundella ist wohl begründet nicht nur durch
+die Verdickung des Innenrandes der Hinterﬂügel, den dadurch
+bewirkten Mangel der drei Adern 1 а—с und den scharfen
+Analwinkel, sondern auch durch die а. a. O. angegebene Be-
+schaﬀenheit der Fühler. Es kommt noch dazu, dass die Taster
+dem Gesicht eng angeschmiegt sind, wodurch sie bei manchem
+Exemplar, dessen letztes Tasterglied ebenso übergelegt ist, ganz
+zu fehlen scheinen; dies enge Anschmiegen ist dadurch ermög-
+licht, dass das Gesicht zu jeder Seite eine Längsfurche besitzt,
+in welcher je ein Taster liegt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="205" y="2478"/>
+	<Point x="1962" y="2478"/>
+	<Point x="1962" y="2896"/>
+	<Point x="205" y="2896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die columbischen Exemplare sind etwas grösser als mein
+einzelnes aus St. Thomas; bei diesem ist auch der Hinterleib
+viel dünner und gestreckter, und die Hinterﬂügel sind von
+geringerem Umfang und weniger durchsichtig, und ihr Hinter-
+rand ist gradliniger, so dass der Analwinkel um so schärfer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="203" y="3007"/>
+	<Point x="1957" y="3007"/>
+	<Point x="1957" y="3135"/>
+	<Point x="203" y="3135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Statt priorum ist in der Diagnose zu lesen priorem, und Zeile 5 statt
+Eph. lutella; Eph. elutella.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="216" y="2941"/>
+	<Point x="807" y="2941"/>
+	<Point x="807" y="2973"/>
+	<Point x="216" y="2973"/></Coords></SeparatorRegion></Page></PcGts>

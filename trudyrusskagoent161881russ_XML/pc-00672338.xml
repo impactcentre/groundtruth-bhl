@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672338">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:15:28</Created>
+	<LastChange>2012-02-10T09:54:31</LastChange></Metadata>
+	<Page imageFilename="00672338.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1000" y="80"/>
+	<Point x="1314" y="80"/>
+	<Point x="1314" y="154"/>
+	<Point x="1000" y="154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 144 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="642" y="285"/>
+	<Point x="1690" y="285"/>
+	<Point x="1690" y="380"/>
+	<Point x="642" y="380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Limnophora calcarata ♀ nov. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="264" y="414"/>
+	<Point x="2040" y="414"/>
+	<Point x="2040" y="1266"/>
+	<Point x="264" y="1266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ovata obscure cinerea; capite albido, antennis modice lon-
+gis palpisque nigris; oculis arctissime cohaerentibus; thorace
+nigro griseo micante, antice humerisque albidioribus; lineis dua-
+bus nigris postice abbreviatis; scutello nigro griseo micante; ab-
+domine ovato cinereo, vitta dorsali nigra; pedibus nigris, tibiis
+posticis intus apice spina valida truncata armatis et extus se-
+tulis exilibus aequalibusque pectinatis; halteribus squamisque
+ﬂavescentibus; alis paullo infuscatis; nervo transverso secundo
+recto, nervis longit. quarto et quinto apice non divergentibus.
+Long. 3‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="390" y="1271"/>
+	<Point x="1254" y="1271"/>
+	<Point x="1254" y="1357"/>
+	<Point x="390" y="1357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Caucasus (Lagodechi).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="759" y="1509"/>
+	<Point x="1566" y="1509"/>
+	<Point x="1566" y="1597"/>
+	<Point x="759" y="1597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Adapsilia picta ♂ nov. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="283" y="1642"/>
+	<Point x="2061" y="1642"/>
+	<Point x="2061" y="3071"/>
+	<Point x="283" y="3071"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tota ﬂava, nigro picta; proboscide crassa; genis infra ocu-
+los utrinque macula oblongo-rotundata nigra nitida; epistomate
+in medio lineis duabus fuscis et macula parva nigra infra ba-
+sin antennarum; vertice linea transversa brunnea postice emar-
+ginata ornatis; fronte porrecta; antennis longis, articulis duobus
+ultimis subaequalibus; oculis, singulo longitudinaliter bisulcato,
+late distantibus. Thorace vittis tribus latis nigris ornato; la-
+teralibus interruptis, maculiformibus; intermedia postice abbre-
+viata et apice emarginata; vitta transversa nigra ante scutel-
+lum; metathorace nigro nitido superne (subscutello) macula se-
+milunata et lateribus ﬂavis. Abdomine basi coarctato; segmento
+primo elongato, ﬂavo, maculis quatuor ornato: duabus basalibus
+fusics parum determinatis, saepe subconﬂuentibus et duabus in-
+termediis, oblongis aut lineatis; segmentis secundo et tertio nig-
+ris nitidis postice late ﬂavomarginatis; segmento quarto ﬂavo,
+lateribus et vitta basali postice profunde emarginata nigris ni-
+tidis; ventre ﬂavo; femoribus basi fusco nigris; alis ﬂavescenti-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672587">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:31:44</Created>
+	<LastChange>2012-02-10T09:55:15</LastChange></Metadata>
+	<Page imageFilename="00672587.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="761" y="133"/>
+	<Point x="1085" y="133"/>
+	<Point x="1085" y="228"/>
+	<Point x="761" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 391 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="52" y="269"/>
+	<Point x="1790" y="269"/>
+	<Point x="1790" y="528"/>
+	<Point x="52" y="528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les individus étaient très vieillis et je ne parvins à en
+prendre que quelques exemplaires intacts. Les ♀♀ y étaient
+d'une rareté extrême.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="52" y="530"/>
+	<Point x="1807" y="530"/>
+	<Point x="1807" y="940"/>
+	<Point x="52" y="940"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les individus de la var. Iphigenia du Jouldousse sont
+d'un bleu plus foncé, plus éclatant, que ne le sont les ♂♂ de
+l'Hyrcanie. Ils ont le limbe noir encore plus large, aux ailes
+postérieures surtout, où, il atteint généralement l'angle
+anal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="45" y="950"/>
+	<Point x="1811" y="950"/>
+	<Point x="1811" y="1776"/>
+	<Point x="45" y="1776"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le fond des ailes est entremêlé d'écailles noires, plus riche-
+ment, que chez les individus de l'Hyrcanie, ce qui donne au bleu
+des Iphigenia du Tian-Chian une apparence moins lisse. En outre,
+la nervure transversale noire des antérieures est toujours distinc-
+tement visible, et elle est dilatée en un point transversal chez
+quelques sujets. Les ♀♀ présentent des tâches marginales (rouge-
+fauves) sur la face des 4 ailes; mais, ce qui est curieux, c'est
+que sur le revers, ces mêmes tâches marginales sont très net-
+tement accusées sur les premières ailes et très faiblement, ou
+presque pas sur les deuxièmes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="54" y="1783"/>
+	<Point x="1821" y="1783"/>
+	<Point x="1821" y="2861"/>
+	<Point x="54" y="2861"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La raie longitudinale, blanche des secondes ailes au des-
+sous, est bien plus nette chez les ♀♀, qu'elle ne l'est chez
+les ♂♂, ce qui provient de la teinte plus sombre, plus bru-
+nâtre, du revers des ♀♀. Je fus convaincu, lors même de la
+prise de l'Iphigenia, sur le Jouldousse, qu'elle ne pouvait être
+une variété de la Damon Schiff. Le travail sur le groupe
+Damon — Phyllis du Dr. Staudinger (Horae Soc. Eut. Ross.
+1878, p. 249 et suivantes) le prouve aussi. Nous devons
+être très reconnaissants à ce savant Lépidoptériste d'avoir tant
+soit peu eclairci ce groupe de Lycaena, si embrouillé na-
+guère encore; d'autant plus que personne ne possède un ma-
+tériel aussi riche que lui, et que personne ne serait, plus que
+lui, à même de rectiﬁer les erreurs de feu Léderer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="54" y="2869"/>
+	<Point x="1804" y="2869"/>
+	<Point x="1804" y="3128"/>
+	<Point x="54" y="3128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Dr. Staudinger, comme il le dit l. c. ne pense pas
+avoir déﬁnitivement et infailliblement résolu toutes les difﬁ-
+cultés, qu'oﬀre ce groupe; mais, il a fait beaucoup déjà, rien</Unicode></TextEquiv></TextRegion></Page></PcGts>

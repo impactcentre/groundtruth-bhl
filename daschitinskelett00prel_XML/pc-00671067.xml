@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671067">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T17:39:30</Created>
+	<LastChange>2012-03-12T14:34:02</LastChange></Metadata>
+	<Page imageFilename="00671067.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1141" y="330"/>
+	<Point x="1373" y="330"/>
+	<Point x="1373" y="381"/>
+	<Point x="1141" y="381"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 7 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="194" y="435"/>
+	<Point x="2307" y="435"/>
+	<Point x="2307" y="1179"/>
+	<Point x="194" y="1179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zwischen beiden liegt die Lateralregion, welche beiderseits von je zwei Skleriten, bezw. Skleriten-
+gruppen bedeckt wird. Die ventrale derselben oder Sternopleura enthält diejenigen Stücke, welche
+die Pleuren höherer Insekten bilden und kann daher kurz als Pleura bezeichnet werden. Die dorsale
+oder Tergopleura folgt in der Hauptsache dem lateralen Rande des Tergunis; für sie schlage ich den
+kürzeren Namen Sympleura vor. Jede der genannten Hauptschuppen setzt sich aus einzelnen Skleriten
+zusammen, welche allerdings oft infolge von Reduktion oder Verschmelzung nicht mehr einzeln nach-
+weisbar sind. Diese Sklerite sind als Tergite, Sternite, Pleurite und Sympleurite zu bezeichnen. Ihre
+Zahl beträgt meist vier, welche ich mit Berlese von vorn nach hinten als Acro-, Pro-, Meso- und
+Metasternit usw. bezeichne. Nur im Tergum findet sich ein weiterer Sklerit, der Nothotergit zu
+welchem Analoga in den anderen Regionen fehlen. Nach dieser Nomenklatur ist somit z. B. unter
+Mesopleurit das dritte Stück der sternalen Pleurenkette zu verstehen, welche homolog mit der Pleural-
+leiste der höheren Insekten und ihren Seitenteilen ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="200" y="1183"/>
+	<Point x="2292" y="1183"/>
+	<Point x="2292" y="1377"/>
+	<Point x="200" y="1377"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Obwohl der Kopf in seinem Bau am stärksten modifiziert ist, halte ich es doch für zweckmäßiger,
+mit seiner Besprechung zu beginnen und der Reihenfolge am Körper entsprechend, erst nach ihm
+den Thorax als ursprünglichsten Komplex zu behandeln.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="1090" y="1464"/>
+	<Point x="1409" y="1464"/>
+	<Point x="1409" y="1528"/>
+	<Point x="1090" y="1528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A. Der Kopf.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="194" y="1556"/>
+	<Point x="2303" y="1556"/>
+	<Point x="2303" y="1869"/>
+	<Point x="194" y="1869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der Kopf von Eosentomon hat eine umgekehrt birnförmige Gestalt. In der Hauptsache ist er,
+wie stets bei Insekten, unsegmentiert, doch lassen sich gewisse Abschnitte der Metamere, welche an
+seinem Aufbau beteiligt sind, in mehreren Fällen noch nachweisen. Nur ein geringer Teil der Kopf-
+somite ist nicht fest mit dem Epicranium verschmolzen und findet sich in Form eines Jugularsclerites
+hinter der eigentlichen Kopfkapsel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="198" y="1873"/>
+	<Point x="2303" y="1873"/>
+	<Point x="2303" y="2611"/>
+	<Point x="913" y="2612"/>
+	<Point x="902" y="2615"/>
+	<Point x="890" y="2612"/>
+	<Point x="514" y="2613"/>
+	<Point x="499" y="2616"/>
+	<Point x="481" y="2613"/>
+	<Point x="198" y="2613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von Anhängen zeigt der Kopf nur die drei typischen Anhänge des Gnathocephalon, je ein
+freies Paar Mandibeln und erste Maxillen, und die zur Bildung eines Labiums zusammengetretenen
+aber nicht verwachsenen zweiten Maxillen. Sämtliche Mundteile sind endotroph. Die Einstülpung
+der beiden ersten Anhangspaare ist ganz beträchtlich, so daß von den Mandibeln nur die Endteile,
+von den Maxillen die Spitzen der Laden und der seitlich antennenartig hervortretende Maxillarpalpus
+sichtbar werden. Die zweiten Maxillen sind nur wenig eingesenkt und bilden im Verein mit dem
+Labrum den größten Teil des Verschlusses für die Mundöffnung. Zwischen die Mundteile, in engster
+Beziehung zu dem kompliziert gebauten Tentorium stehend, schiebt sich der Hypopharynx ein.
+Sein Linguateil überragt von unten her die Pharyngealöffnung, während Superlinguae nicht zu er-
+kennen sind. Reste vom zweiten Antennenpaar sind nicht vorhanden. Ob die ersten Antennen
+völlig fehlen (Berlese) oder ob sie in den Pseudoculi (Schepotieff) zu suchen sind, werden
+erst embryologische Untersuchungen erweisen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="192" y="2620"/>
+	<Point x="2299" y="2616"/>
+	<Point x="2299" y="2792"/>
+	<Point x="192" y="2792"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Indem ich nunmehr zur Beschreibung der einzelnen Chitinteile des Kopfes übergehe, will ich
+beginnen mit den Komponenten der Kopfkapsel, dann die Mundteile im Zusammenhange erörtern,
+und zuletzt einen Blick auf das Tentorium werfen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="196" y="2796"/>
+	<Point x="2294" y="2796"/>
+	<Point x="2294" y="3111"/>
+	<Point x="196" y="3111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das Epicranium (Ecr, Figur 1 und 2) von Eosentomon ist ein völlig einheitliches Gebilde.
+Dorsal eine gleichmäßig gewölbte Decke bildend und lateral bis auf die Unterseite herumgreifend,
+umschließt es kapselartig den größten Teil des Kopfes. Nur ventral bleibt ein Spalt offen, der nach
+vorn zu sich zur Mundbucht (Or), nach hinten zu dem großen Hinterhauptsloche erweitert. Eine
+Gliederung des Vorderteiles in Clypeus und Frons ist nicht vorhanden oder wenigstens nicht mit</Unicode></TextEquiv></TextRegion></Page></PcGts>

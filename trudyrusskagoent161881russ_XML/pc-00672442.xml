@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672442">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:36:28</Created>
+	<LastChange>2012-02-10T09:54:53</LastChange></Metadata>
+	<Page imageFilename="00672442.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="964" y="137"/>
+	<Point x="1280" y="137"/>
+	<Point x="1280" y="207"/>
+	<Point x="964" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 248 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="241" y="542"/>
+	<Point x="1994" y="542"/>
+	<Point x="1994" y="1378"/>
+	<Point x="241" y="1378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grösse der Declivella. Vorderkörper gelbbräunlich. Taster
+grade, zugespitzt, um Kopﬂänge hervorstehend. Stirn ﬂach ge-
+rundet. Fühler borstenförmig, nach unten etwas verstärkt,
+bräunlich; Wurzelglied oblong. Beine dunkelgrau; Hinterschie-
+nen ﬂach mit blassem Mittelband und solcher Spitze. Hinter-
+leib grau; dass er am Ende abgestutzt kegelförmig ist, scheint
+mehr die Folge von Zusammenziehung durch Schimmel zu sein
+als davon, dass er einem Weibchen angehört; denn an der Spitze
+selbst war er eingekerbt, und ein Legestachel ungeachtet völ-
+liger Abreibung nicht zu bemerken.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="239" y="1385"/>
+	<Point x="2001" y="1385"/>
+	<Point x="2001" y="2560"/>
+	<Point x="239" y="2560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 3‴ lang, schmal, am Vorderrand sehr schwach
+convex, mit sehr schrägem, schwach convexem Hinterrand und
+dadurch deutlich gespitzt, dunkel röthlichbraungrau, im Mittel-
+raum und am Hinterrand am hellsten. Auf 1/3 ist das oben
+erwähnte weissliche, nur bis zur Subcostalader reichende Com-
+mazeichen; es ist scharf mit breiter, brauner Einfassung, be-
+sonders hinterwärts. Im hellen Raum liegt ein starker, schwar-
+zer Punkt auf dem obern Theil der Querader. Die zweite
+Querlinie, dünner und weniger deutlich als das Comma und
+diesem so nahe wie dem Punkte, oben gegen ihn diver-
+girend, ist auf beiden Seiten braunschattig, doch nicht so dun-
+kel gesäumt wie das Comma, so dass der Raum vor dem
+Hinterrande, auf welchem nur ein schwarzer Punkt kenntlich
+ist, hell bleibt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="244" y="2567"/>
+	<Point x="2003" y="2567"/>
+	<Point x="2003" y="2816"/>
+	<Point x="244" y="2816"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel hellgrau, ziemlich durchsichtig, am Hinterrande
+schmal verdunkelt, die Adern bräunlich. Franzen mit gelbli-
+cher Wurzellinie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="249" y="2832"/>
+	<Point x="1992" y="2832"/>
+	<Point x="1992" y="3096"/>
+	<Point x="249" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite hellgrau, etwas schimmernd. Auf den Vorder-
+ﬂügeln kommt Ast 1 der Medianader von 2/3, Ast 2 nicht weit
+von ihm; Ast 3 ist in eine Gabel getheilt, die kürzer ist als</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="257" y="289"/>
+	<Point x="1991" y="289"/>
+	<Point x="1991" y="526"/>
+	<Point x="257" y="526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>verdünnte erste Querstreifen, der also grade die entgegengesetzte
+Krümmung zeigt, wie bei den vorhergehenden Declivella und
+Resticula.</Unicode></TextEquiv></TextRegion></Page></PcGts>

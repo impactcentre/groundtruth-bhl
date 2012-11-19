@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668636">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T10:44:59</Created>
+	<LastChange>2012-02-10T10:29:27</LastChange></Metadata>
+	<Page imageFilename="00668636.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r23" index="1"/>
+	<RegionRefIndexed regionRef="r25" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r28" index="4"/>
+	<RegionRefIndexed regionRef="r30" index="5"/>
+	<RegionRefIndexed regionRef="r12" index="6"/>
+	<RegionRefIndexed regionRef="r13" index="7"/>
+	<RegionRefIndexed regionRef="r14" index="8"/>
+	<RegionRefIndexed regionRef="r37" index="9"/>
+	<RegionRefIndexed regionRef="r16" index="10"/>
+	<RegionRefIndexed regionRef="r17" index="11"/>
+	<RegionRefIndexed regionRef="r18" index="12"/>
+	<RegionRefIndexed regionRef="r19" index="13"/>
+	<RegionRefIndexed regionRef="r20" index="14"/>
+	<RegionRefIndexed regionRef="r21" index="15"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="348" y="232"/>
+	<Point x="1094" y="232"/>
+	<Point x="1094" y="283"/>
+	<Point x="348" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ROISSY, Buﬀon de Sonnini, Hist. Moll. p. 354.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="348" y="628"/>
+	<Point x="1260" y="628"/>
+	<Point x="1260" y="771"/>
+	<Point x="348" y="771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This ﬁne large species exists in great abundance in the
+woods of West Africa, with little variation except that the
+striped painting is sometimes absent, as in Pl. V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="353" y="1196"/>
+	<Point x="1266" y="1196"/>
+	<Point x="1266" y="1485"/>
+	<Point x="353" y="1485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWO-COLOURED ACHATINA. Shell somewhat elon-
+gately turreted, whorls seven in number, rather
+irregularly striated, indistinctly plicately crenulated
+at the sutures, columella arched and twisted, strongly
+truncated, aperture small; intense purple-black,
+chesnut towards the apex, columella bluish-white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1309" y="236"/>
+	<Point x="1666" y="236"/>
+	<Point x="1666" y="282"/>
+	<Point x="1309" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>JAY, Cat. Mus. p. 119.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1302" y="437"/>
+	<Point x="2220" y="437"/>
+	<Point x="2220" y="590"/>
+	<Point x="1302" y="590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This shell has not the generic character of Achatinella,
+the species of which are more or less polished, and dis-
+tinguished by a peculiar screw-like twist of the columella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="1548" y="690"/>
+	<Point x="1979" y="690"/>
+	<Point x="1979" y="742"/>
+	<Point x="1548" y="742"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 5. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1304" y="751"/>
+	<Point x="2223" y="751"/>
+	<Point x="2223" y="990"/>
+	<Point x="1304" y="990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA COCHLEA. Achat. testâ elongato-turritâ, an-
+fractibus octo, spiraliter costatis, supernè depressis,
+infra convexo-planis, basi subangulatis, columellâ pro-
+fundè arcuatâ et contortâ; ustulato-castaneâ, zonulâ
+albâ infra suturas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1306" y="994"/>
+	<Point x="2222" y="994"/>
+	<Point x="2222" y="1270"/>
+	<Point x="1306" y="1270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SCREW ACHATINA. Shell elongately turreted,
+whorls eight in number, spirally ribbed, depressed
+round the upper part, convexly ﬂattened beneath,
+slightly angled at the base, columella deeply arched
+and twisted; burnt chesnut colour, with a narrow
+white zone beneath the sutures.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1305" y="1276"/>
+	<Point x="1494" y="1276"/>
+	<Point x="1494" y="1319"/>
+	<Point x="1305" y="1319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Peru.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1306" y="1338"/>
+	<Point x="2223" y="1338"/>
+	<Point x="2223" y="1484"/>
+	<Point x="1306" y="1484"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This species is chieﬂy remarkable on account of its
+elongated form and spiral ribbed structure, having much
+the aspect of a Turritella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1067" y="141"/>
+	<Point x="1498" y="141"/>
+	<Point x="1498" y="191"/>
+	<Point x="1067" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.—PLATE I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="353" y="566"/>
+	<Point x="1185" y="566"/>
+	<Point x="1185" y="612"/>
+	<Point x="353" y="612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Sierra Leone &amp;c., West Africa (in the woods).</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r26">
+	<Coords>
+	<Point x="571" y="801"/>
+	<Point x="1039" y="801"/>
+	<Point x="1039" y="825"/>
+	<Point x="571" y="825"/></Coords></SeparatorRegion>
+	<TextRegion id="r28" type="heading">
+	<Coords>
+	<Point x="589" y="846"/>
+	<Point x="1033" y="846"/>
+	<Point x="1033" y="898"/>
+	<Point x="589" y="898"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 4. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="353" y="904"/>
+	<Point x="1264" y="904"/>
+	<Point x="1264" y="1187"/>
+	<Point x="353" y="1187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA BICOLOR. Achat. testâ subelongato-turritâ,
+anfractibus septem, subirregulariter striatis, ad suturas
+indistinctè plicato-crenulatis, columellâ arcuatâ et con-
+tortâ, fortiter truncatâ, aperturâ parvâ; intensè pur-
+pureo-nigrâ, apicem versus castaneâ, columellâ cœrules-
+cente-albâ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r31">
+	<Coords>
+	<Point x="1536" y="631"/>
+	<Point x="1536" y="654"/>
+	<Point x="1977" y="654"/>
+	<Point x="1977" y="631"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r32">
+	<Coords>
+	<Point x="1038" y="1863"/>
+	<Point x="1038" y="1898"/>
+	<Point x="1514" y="1898"/>
+	<Point x="1514" y="1863"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r33">
+	<Coords>
+	<Point x="1274" y="236"/>
+	<Point x="1274" y="1481"/>
+	<Point x="1296" y="1481"/>
+	<Point x="1296" y="236"/></Coords></SeparatorRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="1985" y="378"/>
+	<Point x="1985" y="422"/>
+	<Point x="1306" y="422"/>
+	<Point x="1306" y="378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Sandwich Islands.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="435" y="285"/>
+	<Point x="833" y="285"/>
+	<Point x="833" y="330"/>
+	<Point x="896" y="330"/>
+	<Point x="896" y="378"/>
+	<Point x="1058" y="378"/>
+	<Point x="1058" y="519"/>
+	<Point x="1159" y="519"/>
+	<Point x="1159" y="564"/>
+	<Point x="362" y="564"/>
+	<Point x="362" y="519"/>
+	<Point x="432" y="519"/>
+	<Point x="432" y="426"/>
+	<Point x="435" y="426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulla achatina, Linnæus.
+Buccinum achatinum, Muller.
+Buccinum variegatum, Fabius Columna.
+Bulimus achatinus, Bruguière.
+Cochlitoma achatina, Férussac.
+Achatina perdix, Lamarck.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1387" y="285"/>
+	<Point x="1825" y="285"/>
+	<Point x="1825" y="328"/>
+	<Point x="1985" y="328"/>
+	<Point x="1985" y="376"/>
+	<Point x="1306" y="376"/>
+	<Point x="1306" y="328"/>
+	<Point x="1387" y="328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Achatinella bicolor, Pfeiﬀer.
+Achatina adusta, Gould (ﬁde Pfeiﬀer).</Unicode></TextEquiv></TextRegion></Page></PcGts>

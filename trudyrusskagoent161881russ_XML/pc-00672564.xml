@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672564">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:58:11</Created>
+	<LastChange>2012-02-10T09:55:10</LastChange></Metadata>
+	<Page imageFilename="00672564.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1011" y="138"/>
+	<Point x="1326" y="138"/>
+	<Point x="1326" y="214"/>
+	<Point x="1011" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 368 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="292" y="276"/>
+	<Point x="2054" y="276"/>
+	<Point x="2054" y="788"/>
+	<Point x="292" y="788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deux espèces, l'Erate et l'Edusa, nous pouvons rencontrer
+des Chrysodona ou métis, ou simplement des Erate, aberra-
+tion ocracée; mais partout où l'Edusa manque, comme c'est
+le cas dans le Tian-Chian et près de Kouldjà, il ne faut ad-
+mettre que des individus ocracés de l'Erate comme forme
+Chrysodona.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="295" y="797"/>
+	<Point x="2052" y="797"/>
+	<Point x="2052" y="1628"/>
+	<Point x="295" y="1628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je ne veux pas afﬁrmer qu'il ne puisse y avoir, dans ces
+localités, d'hybrides de l'Erate et de la Thisoa Mén., cette
+dernière espèce me paraissant être tout aussi rapprochée spé-
+ciﬁquement de la première que l'Edusa; et en ce cas, nous
+aurions bien probablement une forme ressemblant à la Chry-
+sodona hybride susmentionnée. Mais, j'ai pris beaucoup de
+Thisoa Mén. dans la même localité, ainsi qu'un grand nombre
+d'Erate, près de l'Archane, sans avoir vu un seul exemplaire,
+qui presentât quelque caractère intermédiaire entre ces deux
+espèces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="297" y="1633"/>
+	<Point x="2057" y="1633"/>
+	<Point x="2057" y="1876"/>
+	<Point x="297" y="1876"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'ai pris en Septembre une C. ab. Chrysodona près de la
+ville Sergiopol, sur la frontière du district des Sept-Rivières
+(le Sémiretschié).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="295" y="1883"/>
+	<Point x="2059" y="1883"/>
+	<Point x="2059" y="2128"/>
+	<Point x="295" y="2128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Erate typiques des environs de Kouldjà étaient gé-
+néralement de taille médiocre et d'un jaune-verdâtre clair,
+comme le sont les individus de Taganrog.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="295" y="2135"/>
+	<Point x="2047" y="2135"/>
+	<Point x="2047" y="2395"/>
+	<Point x="295" y="2395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ceux des montagnes, pris en été, étaient plus grands, il
+est vrai; mais, le jaune etait toujours plus clair que celui des
+individus de Sarepta, Saratow etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="330" y="2459"/>
+	<Point x="2026" y="2459"/>
+	<Point x="2026" y="2573"/>
+	<Point x="330" y="2573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>22. C. Staudingeri Alph. nov. sp. Tab. XIV, ﬁg. 3 ♂, 4 ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="707" y="2630"/>
+	<Point x="1645" y="2630"/>
+	<Point x="1645" y="2740"/>
+	<Point x="707" y="2740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂♂ 44—51; ♀♀ 43—50 mill.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="300" y="2764"/>
+	<Point x="2050" y="2764"/>
+	<Point x="2050" y="3116"/>
+	<Point x="300" y="3116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Supra ♂ alae anticae rufo-fulvae (rarius lilacino mican-
+tes), venis marginem versus nigris. Puncto discocellulari, irre-
+gulari fusco (saepe squamis admixto fulvis); limbo externo an-
+gusto, concave sinuato, ad costam latiori—fusco-nigro, virides-</Unicode></TextEquiv></TextRegion></Page></PcGts>

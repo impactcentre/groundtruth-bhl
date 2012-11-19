@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672411">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:30:25</Created>
+	<LastChange>2012-02-10T09:54:47</LastChange></Metadata>
+	<Page imageFilename="00672411.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="818" y="172"/>
+	<Point x="1125" y="172"/>
+	<Point x="1125" y="239"/>
+	<Point x="818" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 217 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="107" y="300"/>
+	<Point x="1843" y="300"/>
+	<Point x="1843" y="1125"/>
+	<Point x="107" y="1125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel grau, am Vorderrande am
+dunkelsten. Die Medianader sendet ihre Aeste nach einander
+ab, so dass die Gabel, welche die 2 letzten bilden, einen Stiel
+hat, der länger ist als der Abstand der zwei ersten von ein-
+ander. — Hinterﬂügel wie oben, doch im Costalfelde dunkler,
+und die Adern in der schwach irisirenden Fläche wenig be-
+merklich. Ast 1 der Medianader entspringt bei 1/3, und gleich
+dahinter die sehr schiefe Querader; Ast 2 bei der Flügelmitte;
+die Endgabel ist kürzer als ihr Stiel, welcher auch länger
+ist als der Abstand der beiden ersten Aeste von einander.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="218" y="1136"/>
+	<Point x="1679" y="1136"/>
+	<Point x="1679" y="1218"/>
+	<Point x="218" y="1218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das einzelne ♂ stammt aus der Gegend von Honda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="465" y="1334"/>
+	<Point x="1478" y="1334"/>
+	<Point x="1478" y="1432"/>
+	<Point x="465" y="1432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. solitella Tab. XII, ﬁg. 30.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="121" y="1476"/>
+	<Point x="1854" y="1476"/>
+	<Point x="1854" y="1812"/>
+	<Point x="121" y="1812"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis subporrectis, obtusis; alis ant. subangustis, cinereis,
+dorso obscuriore, costa late albida, strigis duabus opposite ni-
+gra marginatis; punctis duobus venae transversae serieque punc-
+torum marginalium nigris; post. exalbidis, pellucidis. ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="123" y="1843"/>
+	<Point x="1859" y="1843"/>
+	<Point x="1859" y="2269"/>
+	<Point x="123" y="2269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Etwas ähnlich einer Homoeosoma, aber mit kürzern, hin-
+ten breitern Vorderﬂügeln und auf den Hinterﬂügeln mit 4-
+ästiger Medianader. Von der grössern und auch sonst wenig
+ähnlichen Myel, famula ist sie durch ihre am Vorderrand
+breit weissen Vorderﬂügel leicht zu unterscheiden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="110" y="2280"/>
+	<Point x="1859" y="2280"/>
+	<Point x="1859" y="2778"/>
+	<Point x="110" y="2778"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Körper lehmbräunlich mit gelblichem Analbusch und darin
+verstecktem Legestachel. Taster wenig aufgekrümmt, um die
+halbe Kopﬂänge über die gerundete Stirn hervorstehend, zu-
+sammengedrückt, grau; Endglied kurz und zugespitzt. Fühler
+microscopisch gefranzt. Beine hellgrau, aussen dunkel bestäubt;
+Fussglieder schwarz, an den Spitzen weiss</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="121" y="2785"/>
+	<Point x="1856" y="2785"/>
+	<Point x="1856" y="3132"/>
+	<Point x="121" y="3132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 4‴ lang, ziemlich schmal, nach hinten merk-
+lich erweitert, mit sanft convexem Hinterrand, grau, am Innen-
+rand verdunkelt mit sehr schwacher röthlicher Mischung, am
+Vorderrand breit weiss, am breitesten zwischen den zwei</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669124">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T15:57:41</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669124.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="408" y="230"/>
+	<Point x="1765" y="231"/>
+	<Point x="1764" y="535"/>
+	<Point x="409" y="534"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>le corps est couvert de petites écailles oblongues,
+dont l’extrémité visible est ﬁnement ciliée; la tête
+et même les opercules en ont aussi et de plus petites:
+l’huméral seul est nu et strié.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="662" y="544"/>
+	<Point x="1539" y="548"/>
+	<Point x="1540" y="623"/>
+	<Point x="662" y="624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/30; A. 3/28; C. 16; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="470" y="630"/>
+	<Point x="1682" y="630"/>
+	<Point x="1682" y="699"/>
+	<Point x="1496" y="698"/>
+	<Point x="1492" y="708"/>
+	<Point x="1461" y="708"/>
+	<Point x="1451" y="703"/>
+	<Point x="742" y="697"/>
+	<Point x="740" y="711"/>
+	<Point x="705" y="711"/>
+	<Point x="683" y="695"/>
+	<Point x="470" y="696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout ce poisson est noirâtre, sauf ce qui suit:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="415" y="700"/>
+	<Point x="678" y="701"/>
+	<Point x="698" y="715"/>
+	<Point x="749" y="716"/>
+	<Point x="751" y="705"/>
+	<Point x="1445" y="706"/>
+	<Point x="1455" y="713"/>
+	<Point x="1500" y="713"/>
+	<Point x="1503" y="703"/>
+	<Point x="1750" y="704"/>
+	<Point x="1750" y="845"/>
+	<Point x="412" y="845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sous chaque æil est une large tache en forme de
+croissant, d’un blanc bleuâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="413" y="853"/>
+	<Point x="1753" y="853"/>
+	<Point x="1753" y="1081"/>
+	<Point x="413" y="1081"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le bout du museau, au-dessus des lèvres, est en‐
+touré d’un anneau pâle; le long de la base de la
+dorsale et de l’anale règne une ligne jaune.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="411" y="1082"/>
+	<Point x="1751" y="1083"/>
+	<Point x="1746" y="1673"/>
+	<Point x="410" y="1670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sur l’arrière de ces nageoires cette ligne s’élargit et
+se nuance d’orangé ou de roux. La caudale est bleue
+et a une bande jaune à son bord terminal, et qui se
+réﬂéchit en partie le long de ses bords supérieur et
+inférieur. Les ventrales sont noires, et les pectorales
+paraissent avoir été verdâtres. Dans le sec, ou dans
+les individus macérés par la liqueur, les lignes jaunes
+et même toute la caudale deviennent blanchâtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="339" y="1697"/>
+	<Point x="1749" y="1697"/>
+	<Point x="1749" y="1881"/>
+	<Point x="339" y="1881"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est dans cet état que le poisson a été
+décrit par Artedi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="408" y="1893"/>
+	<Point x="1746" y="1893"/>
+	<Point x="1746" y="2489"/>
+	<Point x="408" y="2489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’estomac de cette espèce est très-petit et non
+renﬂé: il y a cinq cæcums longs grêles et con‐
+tournés sur eux-mêmes; l’intestin forme, comme à
+l’ordinaire, de nombreux replis dans le côté gauche,
+et après être revenu dans l’hypocondre droit, il se
+dilate de manière à tripler son diamètre et faire
+ensuite deux replis, après lesquels il se rétrécit pour
+aboutir à l’anus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="418" y="2513"/>
+	<Point x="1664" y="2513"/>
+	<Point x="1664" y="2617"/>
+	<Point x="418" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Notre individu est long de cinq pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="339" y="129"/>
+	<Point x="496" y="129"/>
+	<Point x="496" y="218"/>
+	<Point x="339" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>192</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="787" y="135"/>
+	<Point x="1317" y="135"/>
+	<Point x="1317" y="221"/>
+	<Point x="787" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

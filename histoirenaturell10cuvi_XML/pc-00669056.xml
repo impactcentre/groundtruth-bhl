@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669056">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:19:22</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669056.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/>
+	<RegionRefIndexed regionRef="r24" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="372" y="268"/>
+	<Point x="1764" y="268"/>
+	<Point x="1764" y="579"/>
+	<Point x="863" y="589"/>
+	<Point x="848" y="574"/>
+	<Point x="374" y="566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La peau, coriace, sans aucune écaille visible, selon
+M. Russel, est d’une couleur blanche, rembrunie sur
+la poitrine et le ventre, noire, marbrée de noirâtre
+sur le reste du corps, et rayée de jaunâtre rembruni.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="375" y="575"/>
+	<Point x="845" y="579"/>
+	<Point x="857" y="594"/>
+	<Point x="1759" y="584"/>
+	<Point x="1762" y="724"/>
+	<Point x="373" y="724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voici les nombres comptés par M. Russel, mais
+écrits suivant notre méthode.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="526" y="737"/>
+	<Point x="1589" y="737"/>
+	<Point x="1589" y="827"/>
+	<Point x="526" y="827"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 5; D. 13/10; A. 7/9; C. 20; P. 17; V. 2/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="394" y="833"/>
+	<Point x="1744" y="833"/>
+	<Point x="1744" y="948"/>
+	<Point x="394" y="948"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu était long de sept pouces anglais.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="289" y="1308"/>
+	<Point x="1768" y="1308"/>
+	<Point x="1768" y="2024"/>
+	<Point x="289" y="2024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MM. Quoy et Gaimard ont rapporté de
+l’archipel des Mariannes une autre espèce d’une
+grande beauté, que nous avons nommée am‐
+phacanthus marmoratus. Ils l’ont décrite et
+représentée sous ce nom dans la Zoologie du
+Voyage de Freycinet, p. 367 et pl. 62, ﬁg. 1
+et 2, et on en trouve une seconde ﬁgure dans
+le Dictionnaire classique d’histoire naturelle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="357" y="2034"/>
+	<Point x="1750" y="2034"/>
+	<Point x="1750" y="2661"/>
+	<Point x="357" y="2661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa forme générale est oblongue. Sa hauteur est
+trois fois dans sa longueur, et sa tête, aussi haute
+que longue, y est cinq fois. Sa caudale, quand on
+l’étalé, est presque tronquée; elle a le museau légè‐
+rement court, convexe et élargi entre les yeux par
+la saillie des rebords antérieurs de ses orbites. Entre
+les yeux régnent trois arêtes, dont les deux laté‐
+rales se rapprochent en avant; son crâne est ridé et</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="474" y="167"/>
+	<Point x="474" y="172"/>
+	<Point x="473" y="172"/>
+	<Point x="473" y="187"/>
+	<Point x="472" y="187"/>
+	<Point x="472" y="203"/>
+	<Point x="471" y="203"/>
+	<Point x="471" y="218"/>
+	<Point x="470" y="218"/>
+	<Point x="470" y="234"/>
+	<Point x="469" y="234"/>
+	<Point x="469" y="249"/>
+	<Point x="468" y="249"/>
+	<Point x="468" y="257"/>
+	<Point x="326" y="257"/>
+	<Point x="326" y="167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>124</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="1306" y="167"/>
+	<Point x="1306" y="257"/>
+	<Point x="772" y="257"/>
+	<Point x="772" y="219"/>
+	<Point x="771" y="219"/>
+	<Point x="771" y="167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="513" y="1042"/>
+	<Point x="1555" y="1042"/>
+	<Point x="1555" y="1136"/>
+	<Point x="513" y="1136"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE MARBRÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="513" y="1168"/>
+	<Point x="1555" y="1168"/>
+	<Point x="1555" y="1277"/>
+	<Point x="513" y="1277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus marmoratus, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

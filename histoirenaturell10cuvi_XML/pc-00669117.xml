@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669117">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:26:52</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669117.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="95" y="320"/>
+	<Point x="1509" y="320"/>
+	<Point x="1509" y="1257"/>
+	<Point x="95" y="1257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>autorité. Au reste Gronovius cite encore,
+comme appartenant à ce poisson, deux ﬁgures
+de Valentyn, n.°S 77 et 383, qui n’ont de
+commun avec lui que les caractères génériques.
+Les ﬁgures 402 et 404 sont les seules de Va‐
+lentyn qui aient une ressemblance un peu
+plus particulière avec celle de Seba, encore
+ne lui ressemblent-elles pas complétement;
+mais qui voudrait demander une exactitude
+absolue à des artistes tels que Valentyn et
+Renard les ont employés ?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="100" y="1259"/>
+	<Point x="1516" y="1259"/>
+	<Point x="1516" y="1526"/>
+	<Point x="100" y="1526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’espèce de ces deux ﬁgures reparaît, encore
+plus grossièrement représentée, dans Renard,
+2.e partie, n.° 55.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="164" y="1550"/>
+	<Point x="1538" y="1550"/>
+	<Point x="1538" y="2706"/>
+	<Point x="164" y="2706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ovale du corps de l’hépate jusqu’au bout de la
+dorsale, et de l’anale, et en n’y comprenant pas la
+queue, a juste en longueur le double de sa hauteur.
+L’épaisseur est d’un peu moins du tiers de la hauteur.
+Son proﬁl descend obliquement et par une ligne
+légèrement convexe à sa partie supérieure et presque
+droite ensuite; la longueur de sa tête, sans la gorge,
+n’est que d’un cinquième moindre que sa hauteur.
+Toutes les parties de son corps et de sa tête sont
+couvertes de très-petites écailles rudes, qui rappel‐
+lent plutôt l’âpreté des squales que les écailles des
+poissons ordinaires: on voit à la loupe que ce sont
+de petits grains portant chacun six ou huit petites
+épines; vers l'arrière du ﬂanc, sur un espace alongé,
+en avant de l’épine latérale de la queue, les pointes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="500" y="224"/>
+	<Point x="1085" y="224"/>
+	<Point x="1085" y="301"/>
+	<Point x="500" y="301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1367" y="209"/>
+	<Point x="1495" y="209"/>
+	<Point x="1495" y="298"/>
+	<Point x="1367" y="298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>185</Unicode></TextEquiv></TextRegion></Page></PcGts>

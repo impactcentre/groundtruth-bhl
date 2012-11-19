@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669164">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:32:32</Created>
+	<LastChange>2012-02-09T16:27:36</LastChange></Metadata>
+	<Page imageFilename="00669164.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="334" y="259"/>
+	<Point x="1685" y="259"/>
+	<Point x="1685" y="954"/>
+	<Point x="334" y="954"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>portion; mais ses écailles sont beaucoup plus petites,
+et, comme dans bien d’autres espèces, elles rappel‐
+lent à l’æil le grenu d’un maroquin plutôt que de vraies
+écailles. Il a à chaque mâchoire seize dents ovales,
+dentelées en scie sur une grande partie de leur pour‐
+tour. L’opercule et le limbe du préopercule sont
+striés sur toute leur surface, ainsi que l’humeral au-
+dessus de la pectorale; mais tout le reste de la tête
+et de l’épaule est écailleux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="559" y="962"/>
+	<Point x="1469" y="962"/>
+	<Point x="1469" y="1036"/>
+	<Point x="559" y="1036"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/25; A. 3/24; C. 16; P. 16; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="320" y="1048"/>
+	<Point x="1689" y="1048"/>
+	<Point x="1689" y="1869"/>
+	<Point x="320" y="1869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout ce poisson est noirâtre; une large bande
+rouge, bordée d’un ruban noir, s’étend à partir du
+haut de l’opercule, en ligne droite, jusqu’au milieu
+de la longueur du tronc, où sa terminaison est ar‐
+rondie. La pectorale a un large bord bleuâtre; un
+trait bleu suit le bord de l’opercule, et un autre
+le long de la base de la dorsale; la caudale a des pointes
+longues et aiguës, la supérieure l’est un peu plus
+que l’autre; tout le bord de cette nageoire est blanc.
+Dans la liqueur, tout ce qui était rouge ou bleu de‐
+vient blanchâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="333" y="1874"/>
+	<Point x="1694" y="1874"/>
+	<Point x="1694" y="2346"/>
+	<Point x="333" y="2346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il a l’estomac renﬂé et arrondi comme une petite
+boule, à cause de la grande épaisseur de ses parois,
+qui sont fortement charnues; il a six appendices
+cæcales au pylore. Du reste il ressemble à tous les
+autres acanthures par les nombreux replis de ses
+intestins et par la position de ses autres viscères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="247" y="2357"/>
+	<Point x="1700" y="2357"/>
+	<Point x="1700" y="2628"/>
+	<Point x="247" y="2628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. de Mertens nous apprend que dans les
+jeunes individus le fond de la couleur est ver-
+dâtre ou olivâtre, et c’est la seule diﬀérence</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="284" y="157"/>
+	<Point x="434" y="157"/>
+	<Point x="434" y="252"/>
+	<Point x="284" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>232</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="735" y="152"/>
+	<Point x="1257" y="152"/>
+	<Point x="1257" y="252"/>
+	<Point x="735" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669204">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:37:15</Created>
+	<LastChange>2012-03-12T14:33:49</LastChange></Metadata>
+	<Page imageFilename="00669204.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="344" y="253"/>
+	<Point x="1787" y="253"/>
+	<Point x="1787" y="844"/>
+	<Point x="1423" y="855"/>
+	<Point x="1414" y="855"/>
+	<Point x="1331" y="858"/>
+	<Point x="341" y="854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sur le corps, et des lignes obliques jaunes sur
+la dorsale et sur l’anale, qui produisent un
+eﬀet agréable. Ce poisson nage en grandes
+troupes, et l’on en prend souvent beaucoup
+à la fois dans les ﬁlets. L’individu décrit par
+Commerson était long de vingt-deux pouces,
+mais il y en a de beaucoup plus grands.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="370" y="858"/>
+	<Point x="1406" y="861"/>
+	<Point x="1471" y="858"/>
+	<Point x="1780" y="849"/>
+	<Point x="1788" y="1343"/>
+	<Point x="367" y="1352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce naturaliste nous apprend déjà que l’es‐
+pèce se répand assez loin dans le grand Océan,
+car il l’a observé dans le même voyage au‐
+près d’Otaïti. Les nombreux individus réunis
+dans la collection du Muséum conﬁrment
+cette assertion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="359" y="1357"/>
+	<Point x="1777" y="1350"/>
+	<Point x="1777" y="1776"/>
+	<Point x="358" y="1776"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forster l’y a également observé, il dit qu’on
+le nomme eooma ou éoumé, nom qui est gé‐
+nérique, car nous le retrouvons encore appli‐
+qué à d’autres espèces du même genre, no‐
+tamment à son naseus lituratus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="356" y="1779"/>
+	<Point x="1777" y="1779"/>
+	<Point x="1774" y="2194"/>
+	<Point x="488" y="2203"/>
+	<Point x="360" y="2203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le brun dont ce poisson est teint tire sur
+le verdâtre; son abdomen et sa queue pren‐
+nent une nuance jaunâtre, et outre les lignes
+jaunes de sa dorsale et de son anale, ses deux
+nageoires sont liserées de bleu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="370" y="2206"/>
+	<Point x="1768" y="2198"/>
+	<Point x="1768" y="2373"/>
+	<Point x="372" y="2373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le naturaliste anglais n’a décrit qu’un in‐
+dividu de quatorze pouces; ses nombres sont:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="523" y="2384"/>
+	<Point x="1612" y="2384"/>
+	<Point x="1612" y="2461"/>
+	<Point x="523" y="2461"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 4; D. 6/29; A. 2/30; C. 16; P. 1/17; V. 1/3.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="414" y="2550"/>
+	<Point x="925" y="2550"/>
+	<Point x="925" y="2629"/>
+	<Point x="414" y="2629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Bl. Schn., p. 181.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="342" y="2480"/>
+	<Point x="342" y="2535"/>
+	<Point x="1765" y="2535"/>
+	<Point x="1765" y="2480"/></Coords></SeparatorRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="362" y="159"/>
+	<Point x="513" y="159"/>
+	<Point x="513" y="234"/>
+	<Point x="362" y="234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>272</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="1333" y="159"/>
+	<Point x="1333" y="234"/>
+	<Point x="812" y="234"/>
+	<Point x="812" y="159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669388">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:00:17</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669388.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r12" index="5"/>
+	<RegionRefIndexed regionRef="r14" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="349" y="275"/>
+	<Point x="1774" y="275"/>
+	<Point x="1774" y="444"/>
+	<Point x="349" y="444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 5 — 9; A. 15; C. 18; P. 17; V. 1/5) revien‐
+nent aussi assez exactement aux nôtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="347" y="452"/>
+	<Point x="1768" y="452"/>
+	<Point x="1768" y="706"/>
+	<Point x="347" y="706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il avait trouvé ce poisson aux embouchures
+des petits ruisseaux de la Nouvelle-Calédonie.
+Les indigènes le nommaient m’bai.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="348" y="709"/>
+	<Point x="1768" y="709"/>
+	<Point x="1768" y="960"/>
+	<Point x="348" y="960"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous en possédons un individu qui vient
+de ce même endroit, et dont tous les carac‐
+tères justiﬁent notre rapprochement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="345" y="964"/>
+	<Point x="1771" y="964"/>
+	<Point x="1771" y="1468"/>
+	<Point x="345" y="1468"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce nous a été envoyée d’abord
+de Sumatra par MM. Duvaucel et Diard. Elle
+est aussi venue de Waygiou par l’expédition
+de Freycinet, et MM. Quoy et Gaimard en
+ont parlé sous le nom d’atherina waygiensis1,
+mais en la confondant avec la précédente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="344" y="1470"/>
+	<Point x="1774" y="1470"/>
+	<Point x="1774" y="1725"/>
+	<Point x="344" y="1725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les mêmes naturalistes ont retrouvé cette
+espèce à Amboine et à Vanikoro, pendant leur
+second voyage.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="344" y="2008"/>
+	<Point x="1770" y="2008"/>
+	<Point x="1770" y="2443"/>
+	<Point x="344" y="2443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une quatrième athérine de cette subdivi‐
+sion vient de la terre d’Endracht, et en général
+de la côte sud-ouest de la Nouvelle-Hollande,
+d’où elle a été apportée par Péron et par
+MM. Quoy et Gaimard.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="409" y="2516"/>
+	<Point x="1289" y="2516"/>
+	<Point x="1287" y="2580"/>
+	<Point x="1151" y="2580"/>
+	<Point x="1150" y="2586"/>
+	<Point x="631" y="2585"/>
+	<Point x="616" y="2587"/>
+	<Point x="539" y="2587"/>
+	<Point x="533" y="2578"/>
+	<Point x="409" y="2578"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Voyage de Freycinet, Zool., p. 335.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="397" y="2582"/>
+	<Point x="527" y="2582"/>
+	<Point x="538" y="2591"/>
+	<Point x="617" y="2591"/>
+	<Point x="633" y="2587"/>
+	<Point x="1139" y="2588"/>
+	<Point x="1153" y="2588"/>
+	<Point x="1155" y="2584"/>
+	<Point x="1767" y="2582"/>
+	<Point x="1766" y="2663"/>
+	<Point x="397" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Quoy et Gaimard, Voyage de Freycinet, Zoologie, p. 334.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="655" y="1778"/>
+	<Point x="1461" y="1778"/>
+	<Point x="1461" y="1864"/>
+	<Point x="655" y="1864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ATHÉRINE D’ENDRACHT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="668" y="1874"/>
+	<Point x="1443" y="1874"/>
+	<Point x="1443" y="1975"/>
+	<Point x="668" y="1975"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina endrachtensis.2)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="349" y="173"/>
+	<Point x="504" y="173"/>
+	<Point x="504" y="257"/>
+	<Point x="349" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>456</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="header">
+	<Coords>
+	<Point x="834" y="187"/>
+	<Point x="1287" y="187"/>
+	<Point x="1287" y="258"/>
+	<Point x="834" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="351" y="2457"/>
+	<Point x="351" y="2498"/>
+	<Point x="1764" y="2498"/>
+	<Point x="1764" y="2457"/></Coords></SeparatorRegion></Page></PcGts>

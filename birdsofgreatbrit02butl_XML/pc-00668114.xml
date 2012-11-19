@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668114">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T07:03:35</Created>
+	<LastChange>2012-02-10T09:52:37</LastChange></Metadata>
+	<Page imageFilename="00668114.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="773" y="192"/>
+	<Point x="1580" y="192"/>
+	<Point x="1580" y="269"/>
+	<Point x="773" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ROSE‐COLOURED STARLING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="257" y="334"/>
+	<Point x="2117" y="334"/>
+	<Point x="2117" y="452"/>
+	<Point x="257" y="452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bearable; but, to see Starlings to perfection, they should be kept in a good-sized
+aviary.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="255" y="463"/>
+	<Point x="2115" y="463"/>
+	<Point x="2115" y="1515"/>
+	<Point x="255" y="1515"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I have frequently seen Pastor roseus oﬀered for sale, but was not suﬃciently
+struck with the bird to give the price required for it. Herr Wiener, however,
+observes (Cassell’s Cage-birds, p. 424):—“I doubted the accounts I had read of
+Starlings waging a war of extermination against locusts and grasshoppers; till
+seeing one day a Rose-coloured Pastor oﬀered for sale, I remembered that I had
+a hot-pit over-run with crickets, and resolved to try an experiment. The Pastor
+was placed in an aviary, and I proceeded to catch crickets by placing balls of
+crumpled brown paper into the warmest corners of the pit. Hundreds of lively
+crickets could be shaken out of the papers in the morning, and I could thus
+produce at pleasure something like a swarm of grasshoppers. A well-bred terrier
+will face any number of his natural enemies—rats; but his zeal is nothing com‐
+pared to the Pastor’s powers of methodical destruction of grasshoppers and crickets.
+The crickets covered the ground on which the bird stood: they ran up his legs
+and over his body, and coolly would he peck away, devouring one after the other,
+until none were left. Where he put all the insects seemed incomprehensible;
+but the immense services which such insectivorous birds, with endless appetites,
+can render to the agriculturist are palpable.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="254" y="1524"/>
+	<Point x="2113" y="1524"/>
+	<Point x="2113" y="1945"/>
+	<Point x="254" y="1945"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In conﬁnement this species should be fed like the Common Starling upon
+the usual soft food, with the addition of such fruit as happens to be in season,
+and any insects which can be obtained. Doubtless, like Sturnus vulgaris, it would
+be all the better if allowed to have access to a saucer of seed: the fact that the
+bird is a perfect scourge in the Indian ﬁelds of white millet being a suﬃcient
+answer to those aviculturists who assert that seed is an unnatural food for insect‐
+ivorous birds.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="251" y="210"/>
+	<Point x="358" y="210"/>
+	<Point x="358" y="271"/>
+	<Point x="251" y="271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>146</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="1060" y="2300"/>
+	<Point x="1300" y="2300"/>
+	<Point x="1300" y="2336"/>
+	<Point x="1060" y="2336"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669169">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:33:12</Created>
+	<LastChange>2012-02-09T16:27:36</LastChange></Metadata>
+	<Page imageFilename="00669169.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="107" y="288"/>
+	<Point x="1525" y="288"/>
+	<Point x="1525" y="813"/>
+	<Point x="107" y="813"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous croyons devoir former un groupe
+particulier de quelques petits acanthures à
+neuf épines, qui, au lieu d’écailles ou d’une
+peau nue, ont tout le corps ﬁnement strié de
+lignes verticales, saillantes, serrées, qui leur
+donnent un aspect fort particulier.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="106" y="1076"/>
+	<Point x="1530" y="1076"/>
+	<Point x="1534" y="1441"/>
+	<Point x="105" y="1440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le premier de ces acanthures striés, décou‐
+vert à l’île Guam par MM. Quoy et Gaimard,
+n’est pas moins remarquable par sa conﬁgu‐
+ration que par ses tégumens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="176" y="1452"/>
+	<Point x="1522" y="1452"/>
+	<Point x="1520" y="1668"/>
+	<Point x="244" y="1678"/>
+	<Point x="240" y="1692"/>
+	<Point x="175" y="1693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son corps, très-aplati par les côtés, est verticalement
+presque circulaire, et la bouche ne semble qu’un
+petit trou de son bord antérieur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="175" y="1696"/>
+	<Point x="246" y="1697"/>
+	<Point x="248" y="1683"/>
+	<Point x="1533" y="1677"/>
+	<Point x="1537" y="2650"/>
+	<Point x="423" y="2662"/>
+	<Point x="180" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En ne comptant pas la queue, sa longueur ne sur‐
+passerait sa hauteur que d’un peu moins d’un quart;
+avec la queue, elle la comprend une fois et deux
+tiers. La caudale est à peu près tronquée, l’épaisseur
+ne fait pas le sixième de la hauteur: c’est la poitrine
+qui a surtout plus d’élévation qu’à l’ordinaire, et la
+hauteur de la tête n’est guère que moitié de celle du
+corps. L’æil est un peu au-dessus du milieu de la
+hauteur de la tête, et en a le tiers en diamètre, c’est
+aussi la distance d’un æil à l’autre. Les deux oriﬁces
+de la narine sont très-près de l’æil; la bouche, moitié
+moins grande que l’æil, a des dents très-petites et tri-
+dentées; le crâne est ﬁnement ridé; le dessus de l’æil</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="386" y="861"/>
+	<Point x="1246" y="861"/>
+	<Point x="1246" y="946"/>
+	<Point x="386" y="946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE ORBICULAIRE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="245" y="953"/>
+	<Point x="1381" y="953"/>
+	<Point x="1381" y="1065"/>
+	<Point x="245" y="1065"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus orbicularis, Quoy et Gaim.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="525" y="202"/>
+	<Point x="1109" y="202"/>
+	<Point x="1109" y="275"/>
+	<Point x="525" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="page-number">
+	<Coords>
+	<Point x="1367" y="167"/>
+	<Point x="1510" y="167"/>
+	<Point x="1510" y="269"/>
+	<Point x="1367" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>237</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668937">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T10:04:55</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668937.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="546" y="220"/>
+	<Point x="965" y="220"/>
+	<Point x="965" y="280"/>
+	<Point x="546" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. ZÉES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="66" y="317"/>
+	<Point x="1459" y="317"/>
+	<Point x="1466" y="837"/>
+	<Point x="1459" y="1068"/>
+	<Point x="66" y="1068"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en y ajoutant le zeus insidiator, qui est un
+Equula, le zeus ciliaris, dont nous avons fait
+l'histoire à l'article blepharis; le zeus luna est
+le genre lampris, dont nous parlerons bien-
+tôt, et le zeus quadratus, établi d'après une
+ﬁgure de Sloane, est, comme nous l'avons dé-
+montré, le même que le chetodon faber de
+Broussonnet, notre première espèce du genre
+ephippus de la famille des squammipennes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="62" y="1075"/>
+	<Point x="1474" y="1075"/>
+	<Point x="1474" y="2087"/>
+	<Point x="62" y="2087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. de Lacépède avait commencé la réforme
+du genre de Linné, en en distrayant le zeus
+aper et le zeus luna, pour en faire les deux
+genres que nous adoptons, l'un sous le nom
+de capros, l'autre sous celui de chrysotose,
+que nous changeons en celui de lampris,
+comme plus ancien; mais il ne plaçait pas si
+heureusement le zeus vomer, le zeus gallus
+et le zeus quadratus, ainsi que nous l'avons
+fait voir à leurs articles respectifs. Enﬁn, des
+deux poissons qu'il réunissait à la dorée, l'un
+est un blepharis et l'autre un equula.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="68" y="2091"/>
+	<Point x="1472" y="2091"/>
+	<Point x="1472" y="2683"/>
+	<Point x="68" y="2683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos prédécesseurs ne connaissaient donc de
+vrais zées, tels que nous l'entendons, que le
+seul poisson fort abondant sur nos côtes, et
+si connu sous la dénomination presque vul-
+gaire de poisson Saint-Pierre ou de dorée.
+Mais nous en possédons une autre belle espèce
+que la Méditerranée nourrit dans ses eaux si</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1407" y="208"/>
+	<Point x="1457" y="208"/>
+	<Point x="1457" y="278"/>
+	<Point x="1407" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5</Unicode></TextEquiv></TextRegion></Page></PcGts>

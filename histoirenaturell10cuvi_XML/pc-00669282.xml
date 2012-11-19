@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669282">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:47:07</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669282.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="289" y="294"/>
+	<Point x="1701" y="294"/>
+	<Point x="1705" y="454"/>
+	<Point x="355" y="452"/>
+	<Point x="331" y="471"/>
+	<Point x="289" y="471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vaagmaere signiﬁe demoiselle des anses1, ou
+jument des anses.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="290" y="481"/>
+	<Point x="344" y="481"/>
+	<Point x="371" y="463"/>
+	<Point x="1709" y="464"/>
+	<Point x="1709" y="1050"/>
+	<Point x="289" y="1056"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous trouvons ce trachyptère, cité sous le
+nom de gymnogaster arcticus, dans deux
+ouvrages récens sur les poissons du Nord;
+mais la description n’en a pas été faite sur la
+nature même, de sorte que les auteurs ajoutent
+peu à ce que Brünnich et Olafsen nous ont
+déjà appris.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="306" y="1061"/>
+	<Point x="1723" y="1058"/>
+	<Point x="1723" y="2481"/>
+	<Point x="302" y="2481"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Faber2 a inséré dans son Histoire des
+poissons de l’Islande une description du tra‐
+chyptère faite d’après Brünnich: il nous fournit
+cependant quelques renseignemens précieux.
+Ainsi il nous procure l’identité spéciﬁque du
+bogmare d’Olafsen et du gymnogastre de Brün‐
+nich, puisque celui-ci a travaillé sur un des
+exemplaires mêmes du voyageur islandais.
+L’autre individu, privé de sa tête, est encore
+conservé dans le Muséum de l’université de
+Copenhague. Malgré la grande rareté de cette
+espèce, il nous démontre aussi que le poisson
+nommé vogmar par les Islandais, est déjà
+connu depuis long-temps, puisqu’il se trouve
+dans les écrits de Jon Gudmunsen, savant
+Islandais, mort en 1658, et auteur d’une his‐
+toire naturelle de l’Islande.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="320" y="2547"/>
+	<Point x="1706" y="2547"/>
+	<Point x="1706" y="2674"/>
+	<Point x="320" y="2674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Olafsen et Powelsen, Descr. de l’Islande; trad. fr., t. III,
+p. 341. — 2. Naturgesch. der Fische lsland’s, p. 66.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="301" y="183"/>
+	<Point x="439" y="183"/>
+	<Point x="439" y="267"/>
+	<Point x="301" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>350</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="703" y="189"/>
+	<Point x="1285" y="189"/>
+	<Point x="1285" y="264"/>
+	<Point x="703" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="319" y="2501"/>
+	<Point x="319" y="2540"/>
+	<Point x="1716" y="2540"/>
+	<Point x="1716" y="2501"/></Coords></SeparatorRegion></Page></PcGts>

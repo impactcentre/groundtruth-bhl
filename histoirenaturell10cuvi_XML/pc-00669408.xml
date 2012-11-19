@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669408">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:02:40</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669408.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="874" y="221"/>
+	<Point x="1317" y="221"/>
+	<Point x="1317" y="285"/>
+	<Point x="874" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="385" y="601"/>
+	<Point x="1809" y="601"/>
+	<Point x="1809" y="1198"/>
+	<Point x="387" y="1199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous regardons comme un devoir de notre
+reconnaissance de dédier au célèbre profes‑
+seur Lichtenstein, qui nous a ouvert avec
+tant de générosité les trésors renfermés dans
+le beau musée de l’université de Berlin, la
+plus remarquable de ces athérines américaines
+par sa taille et par ses caractères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="400" y="1204"/>
+	<Point x="1803" y="1204"/>
+	<Point x="1803" y="1364"/>
+	<Point x="400" y="1364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle est voisine de notre atherina bona-
+riensis;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="456" y="1398"/>
+	<Point x="1808" y="1398"/>
+	<Point x="1808" y="2087"/>
+	<Point x="456" y="2087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais elle a la tête encore plus longue, car elle ne
+fait que le quart de la longueur totale, prise jusqu’à
+la fourche de la caudale. La ligne du proﬁl est légè‑
+rement concave sur la tête: cependant le vertex d’un
+œil à l’autre est un peu convexe. Sur l’occiput la
+courbe se soutient, pour s’abaisser et devenir concave
+entre la tête et la seconde dorsale; la base de cette
+nageoire est un peu relevée, et le contour s’abaisse
+ensuite jusqu’à la caudale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="458" y="2091"/>
+	<Point x="1806" y="2090"/>
+	<Point x="1806" y="2695"/>
+	<Point x="459" y="2695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le dessous du corps suit une ligne légèrement
+concave, assez régulière, d’où il résulte que la plus
+grande hauteur du corps est derrière la tête, et
+fait, à cet endroit, le septième de la distance entre
+le bout du museau et l’extrémité des rayons mi‑
+toyens de la caudale, tandis que la hauteur du mi‑
+lieu du corps n’en fait que le huitième, et celle de
+la queue n’en est guère que le seizième. Le corps</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="398" y="210"/>
+	<Point x="530" y="210"/>
+	<Point x="530" y="283"/>
+	<Point x="398" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>476</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="631" y="373"/>
+	<Point x="1571" y="373"/>
+	<Point x="1571" y="446"/>
+	<Point x="631" y="446"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ATHÉRINE DE LICHTENSTEIN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="677" y="477"/>
+	<Point x="1529" y="477"/>
+	<Point x="1529" y="559"/>
+	<Point x="677" y="559"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina Lichtensteinii, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

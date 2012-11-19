@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668741">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T01:02:36</Created>
+	<LastChange>2012-02-10T10:29:34</LastChange></Metadata>
+	<Page imageFilename="00668741.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r34" index="5"/>
+	<RegionRefIndexed regionRef="r50" index="6"/>
+	<RegionRefIndexed regionRef="r66" index="7"/>
+	<RegionRefIndexed regionRef="r7" index="8"/>
+	<RegionRefIndexed regionRef="r8" index="9"/>
+	<RegionRefIndexed regionRef="r9" index="10"/>
+	<RegionRefIndexed regionRef="r10" index="11"/>
+	<RegionRefIndexed regionRef="r11" index="12"/>
+	<RegionRefIndexed regionRef="r12" index="13"/>
+	<RegionRefIndexed regionRef="r13" index="14"/>
+	<RegionRefIndexed regionRef="r14" index="15"/>
+	<RegionRefIndexed regionRef="r72" index="16"/>
+	<RegionRefIndexed regionRef="r100" index="17"/>
+	<RegionRefIndexed regionRef="r16" index="18"/>
+	<RegionRefIndexed regionRef="r17" index="19"/>
+	<RegionRefIndexed regionRef="r21" index="20"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="860" y="452"/>
+	<Point x="1207" y="452"/>
+	<Point x="1207" y="518"/>
+	<Point x="860" y="518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="948" y="563"/>
+	<Point x="1129" y="563"/>
+	<Point x="1129" y="605"/>
+	<Point x="948" y="605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="241" y="650"/>
+	<Point x="885" y="650"/>
+	<Point x="885" y="695"/>
+	<Point x="241" y="695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 3. (Fig. a and b, Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="121" y="714"/>
+	<Point x="1012" y="714"/>
+	<Point x="1012" y="1046"/>
+	<Point x="121" y="1046"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM FIMBRIATUM. Dol. testâ globosâ, ventricosissimâ,
+vix umbilicatâ, spirœ suturis impressis, anfractibus
+sex, conspicuè costatis, costis plus minusve numerosis,
+quarum prœcipuis quatuordecim ad quindecim, colu‐
+mellâ contortâ, labro externo ﬁmbriato et dentato;
+fulvescente-albâ, costis rufescente-fusco maculatis, aper‐
+turœ fauce fuscâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="124" y="1051"/>
+	<Point x="1014" y="1051"/>
+	<Point x="1014" y="1385"/>
+	<Point x="124" y="1385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE FIMBRIATED TUN. Shell globose, very ventricose,
+scarcely umbilicated, sutures of the spire impressed,
+whorls six in number, conspicuously ribbed, ribs more
+or less numerous, the chief of which are about fourteen
+in number, columella twisted, outer lip ﬁmbriated
+and toothed; fulvous white, ribs spotted with red‐
+dish-brown, interior of the aperture brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="207" y="1583"/>
+	<Point x="656" y="1583"/>
+	<Point x="656" y="1624"/>
+	<Point x="207" y="1624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dolium marginatum, Philippi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="129" y="1630"/>
+	<Point x="1013" y="1630"/>
+	<Point x="1013" y="1673"/>
+	<Point x="129" y="1673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Bay of Manila, Island of Luzon, Philippines; Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="125" y="1697"/>
+	<Point x="1013" y="1697"/>
+	<Point x="1013" y="2128"/>
+	<Point x="125" y="2128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Deshayes notices as a character by which to distin‐
+guish this from the following species, that it has about
+fourteen ribs, whilst the D. maculatum has mostly nine.
+I ﬁnd this observation may be mainly relied on, for when
+the ribs are really more numerous, as in the magniﬁcent
+specimen represented at Fig. 3 a, there are still from
+fourteen to ﬁfteen principal ribs, the rest being manifestly
+inferior both in colour and development. The species is
+further distinguished by the columella being abruptly</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1057" y="641"/>
+	<Point x="1940" y="641"/>
+	<Point x="1940" y="738"/>
+	<Point x="1057" y="738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>twisted and by the outer lip becoming strongly ﬁmbriated
+on arriving at maturity.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1055" y="741"/>
+	<Point x="1942" y="741"/>
+	<Point x="1942" y="981"/>
+	<Point x="1055" y="981"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Adanson named this shell after the Minjac or
+Muntjak, a spotted animal of the deer tribe, and M.
+Deshayes proposes to use this for the speciﬁc title. I do
+not, however, see how a common name of this kind can
+be adopted with propriety in the Latin.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="1291" y="1049"/>
+	<Point x="1707" y="1049"/>
+	<Point x="1707" y="1096"/>
+	<Point x="1291" y="1096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 4. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1059" y="1110"/>
+	<Point x="1943" y="1110"/>
+	<Point x="1943" y="1396"/>
+	<Point x="1059" y="1396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM MACULATUM. Dol. testâ ovatâ, ventricosissimâ,
+vix umbilicatâ, spirâ suturis subimpressis, anfractibus
+sex, transversim costatis, costis ad novem, distantibus,
+lirâ subobscurâ interveniente, columellâ subrectâ, vix
+contortâ, labro externo simplici; cœrulescente-albâ,
+costis rufescente-fusco maculatis, aperturœ fauce fuscâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1057" y="1400"/>
+	<Point x="1943" y="1400"/>
+	<Point x="1943" y="1730"/>
+	<Point x="1057" y="1730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SPOTTED TUN. Shell ovate, very ventricose, scarcely
+umbilicated, sutures of the spire somewhat impressed,
+whorls six in number, encircled by about nine distant
+ribs having a somewhat obscure ridge running between
+them, columella nearly straight, scarcely twisted,
+outer lip simple; bluish-white, ribs spotted with
+reddish-brown, interior of the aperture brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1059" y="1882"/>
+	<Point x="1361" y="1882"/>
+	<Point x="1361" y="1917"/>
+	<Point x="1059" y="1917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Eastern Seas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="905" y="2283"/>
+	<Point x="1168" y="2283"/>
+	<Point x="1168" y="2322"/>
+	<Point x="905" y="2322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>December, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="127" y="1389"/>
+	<Point x="632" y="1389"/>
+	<Point x="632" y="1429"/>
+	<Point x="127" y="1429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOWERBY, Genera of Shells, f. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords>
+	<Point x="167" y="1535"/>
+	<Point x="415" y="1535"/>
+	<Point x="415" y="1572"/>
+	<Point x="167" y="1572"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An eadem var.?</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r70">
+	<Coords>
+	<Point x="1280" y="1001"/>
+	<Point x="1280" y="1022"/>
+	<Point x="1728" y="1022"/>
+	<Point x="1728" y="1001"/></Coords></SeparatorRegion>
+	<TextRegion id="r72" type="paragraph">
+	<Coords>
+	<Point x="1061" y="1734"/>
+	<Point x="1940" y="1734"/>
+	<Point x="1940" y="1779"/>
+	<Point x="1061" y="1779"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.) vol. x. p. 140.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1056" y="1935"/>
+	<Point x="1938" y="1935"/>
+	<Point x="1938" y="2130"/>
+	<Point x="1056" y="2130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This is a shell of lighter growth than the preceding
+species, the ribs are less numerous and consequently
+more distant from each other, the columella is straighter,
+and the lip simple.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r103">
+	<Coords>
+	<Point x="778" y="2513"/>
+	<Point x="778" y="2533"/>
+	<Point x="1229" y="2533"/>
+	<Point x="1229" y="2513"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r104">
+	<Coords>
+	<Point x="1025" y="656"/>
+	<Point x="1025" y="2116"/>
+	<Point x="1045" y="2116"/>
+	<Point x="1045" y="656"/></Coords></SeparatorRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="201" y="1438"/>
+	<Point x="780" y="1438"/>
+	<Point x="780" y="1532"/>
+	<Point x="201" y="1532"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Minjac, Adanson.
+Dolium tessellatum (pars), Enc. Méth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r100" type="paragraph">
+	<Coords>
+	<Point x="1135" y="1785"/>
+	<Point x="1708" y="1785"/>
+	<Point x="1708" y="1875"/>
+	<Point x="1135" y="1875"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum dolium, Linnæus.
+Dolium tessellatum (pars), Enc. Méth.</Unicode></TextEquiv></TextRegion></Page></PcGts>

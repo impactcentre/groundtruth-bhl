@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672569">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:58:59</Created>
+	<LastChange>2012-02-10T09:55:11</LastChange></Metadata>
+	<Page imageFilename="00672569.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="23" y="317"/>
+	<Point x="1748" y="317"/>
+	<Point x="1748" y="578"/>
+	<Point x="23" y="578"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nes du limbe sont réduites à des points et sont d'un jaune
+bien moins pur, que dans tous mes autres exemplaires de la
+Staudingeri.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="571" y="644"/>
+	<Point x="1203" y="644"/>
+	<Point x="1203" y="735"/>
+	<Point x="571" y="735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>23. C. Thisoa Mén.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="17" y="814"/>
+	<Point x="1767" y="814"/>
+	<Point x="1767" y="1401"/>
+	<Point x="17" y="1401"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voilà, certes, une espèce qui a bien longtemps embarassé
+les entomologistes, et ce n'est guère qu'aujourd'hui qu'on peut
+dire avec certitude que c'est une espèce qui n'a rien de com-
+mun avec les autres Coliades connues et qui ne peut être
+considérée comme variété alpine, ni de la Myrmidone Esp.
+ni de l'Aurorina H.-S., comme l'avaient supposé plusieurs en-
+tomologistes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="23" y="1405"/>
+	<Point x="1766" y="1405"/>
+	<Point x="1766" y="2917"/>
+	<Point x="23" y="2917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'absence de la tache empesée à la base des secondes ai-
+les du ♂, ainsi que certains autres caractères, ne permettent
+plus de confondre la Thisoa avec les autres espèces. Je pos-
+sède deux exemplaires (♂ et ♀) de la Thisoa, pris sur l'Ara-
+rat en Arménie, de plus un ♂ et une ♀ de l'Ala-Tau, rap-
+portés par Haberhauer en 1878. J'en ai pris, en outre, moi-
+même un grand nombre, dans le Tian-Chian *) entre 6,500
+et 9000 pieds d'altitude, et enﬁn j'ai pu, à mon retour de
+Kouldjà, examiner la ♀ qui a servi de type au dessin et à la
+description de Ménetriès. Je suis donc dans la possibilité d'af-
+ﬁrmer que tous ces individus appartiennent à une même espèce,
+mais que l'individu (♀) qu'avait pris Ménetriès, a les ailes pos-
+térieures plus envahies par le noir, que tous les autres indi-
+vidus que j'ai vus. Deux ou trois ♀♀, rapportées par moi du
+Tian-Chian, s'approchent, du reste, de bien près de la ♀ pré-
+citée. L'envahissement des secondes ailes par le noir, n'est du
+reste pas très râre parmi les Coliades, témoin une ♀ Edusa
+de ma collection prise près de Taganrog, etc. Les 2 Thisoa,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="26" y="2962"/>
+	<Point x="1773" y="2962"/>
+	<Point x="1773" y="3160"/>
+	<Point x="26" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Malheureusement les individus frais étaient fort râres, et je n'en ai
+pris que fort peu. C'est peut être la Colias, qui a le vol le plus rapide: elle est
+bien difﬁcile à saisir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="726" y="175"/>
+	<Point x="1071" y="175"/>
+	<Point x="1071" y="266"/>
+	<Point x="726" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 373 —</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="23" y="2926"/>
+	<Point x="626" y="2926"/>
+	<Point x="626" y="2951"/>
+	<Point x="23" y="2951"/></Coords></SeparatorRegion></Page></PcGts>

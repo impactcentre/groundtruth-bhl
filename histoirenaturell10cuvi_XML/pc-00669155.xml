@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669155">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:31:22</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669155.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="138" y="289"/>
+	<Point x="1510" y="289"/>
+	<Point x="1510" y="606"/>
+	<Point x="138" y="606"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle a le corps de même forme, la caudale coupée
+en croissant et à pointes aiguës, l’æil un peu plus
+grand et les nombres de rayons assez diﬀérens; l’au‐
+teur les compte comme il suit:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="367" y="612"/>
+	<Point x="1280" y="612"/>
+	<Point x="1280" y="685"/>
+	<Point x="367" y="685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/20; A. 3/22; C. 20; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="132" y="692"/>
+	<Point x="1517" y="692"/>
+	<Point x="1517" y="1063"/>
+	<Point x="132" y="1063"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La couleur est une teinte brune unie; un peu plus
+pâle sur les nageoires; des points rouges sont jetés
+sur le front, sur la joue et sur l’espace triangulaire
+compris entre la fente des ouïes, la pectorale et les
+ventrales. L’iris est doré.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="70" y="1086"/>
+	<Point x="1520" y="1086"/>
+	<Point x="1520" y="1270"/>
+	<Point x="70" y="1270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson, observé dans le nord de la mer
+Rouge, est long de huit pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="90" y="1271"/>
+	<Point x="1520" y="1272"/>
+	<Point x="1521" y="1965"/>
+	<Point x="85" y="1965"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Ruppel avait soupçonné que l’on pour‐
+rait rapporter à son espèce le chétodon alongé
+de Lacépède. Le dessin de Commerson, ainsi
+que les individus préparés par ce zélé natu‐
+raliste, et d’après lequel nous avons caracté‐
+risé plus haut l’acanthure alongé, ont la cau‐
+dale à peine échancrée et ne laissent aucune
+trace de points.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="478" y="2023"/>
+	<Point x="1112" y="2023"/>
+	<Point x="1112" y="2115"/>
+	<Point x="478" y="2115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE RAYÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="89" y="2133"/>
+	<Point x="1518" y="2133"/>
+	<Point x="1518" y="2300"/>
+	<Point x="89" y="2300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus lineatus, Lacép. et Bl. Schn.; Chæto-
+don lineatus, Lin.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="76" y="2311"/>
+	<Point x="1522" y="2311"/>
+	<Point x="1522" y="2707"/>
+	<Point x="76" y="2707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le plus beau de ces acanthures à pointe de
+la caudale prolongée est l’acanthure rayé, dé‐
+crit, depuis long-temps, en détail par Artedi, et
+placé par Linné dans le Systema naturæ sous le</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="465" y="192"/>
+	<Point x="1081" y="192"/>
+	<Point x="1081" y="269"/>
+	<Point x="465" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="1357" y="192"/>
+	<Point x="1501" y="192"/>
+	<Point x="1501" y="269"/>
+	<Point x="1357" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>223</Unicode></TextEquiv></TextRegion></Page></PcGts>

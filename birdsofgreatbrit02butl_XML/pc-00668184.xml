@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668184">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:41:55</Created>
+	<LastChange>2012-02-10T09:52:42</LastChange></Metadata>
+	<Page imageFilename="00668184.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="224" y="170"/>
+	<Point x="332" y="170"/>
+	<Point x="332" y="230"/>
+	<Point x="224" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>180</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1023" y="161"/>
+	<Point x="1310" y="161"/>
+	<Point x="1310" y="228"/>
+	<Point x="1023" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ROOK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="232" y="284"/>
+	<Point x="2114" y="275"/>
+	<Point x="2113" y="467"/>
+	<Point x="232" y="476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>continual noises of a great city do not seem to disturb them at all, as is evident
+from the fact that Rooks still build and breed in the old trees which have been
+left standing in the busiest parts of London.*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="232" y="477"/>
+	<Point x="2114" y="470"/>
+	<Point x="2115" y="1219"/>
+	<Point x="226" y="1219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The nest is usually commenced or repaired early in March, but after
+unusually mild winters building operations sometimes commence much earlier.
+After the exceptionally open winter of 1895-6 I saw several young Rooks sitting
+just outside the nests in which they had been hatched as early as the 6th March,
+whilst I had noticed the Rooks in a rookery close to my house repairing their
+nests in January, and in February a pair daily visited my garden for worms: a
+friend of mine living at Dulwich ﬁrst directed my attention to the early pre‐
+parations for nesting made by these birds, assuring me in January that he had
+seen a pair of Rooks carrying sticks up to their nest. In the “Feathered World”
+for April 24th, 1896, Mr. W. N. Rushen says:— “I saw two young Rooks near
+Wanstead Park, on April 8th, which were as strong on the wing as their parents;
+and, to be as forward as this, they must have left the nest for some weeks.”†</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="226" y="1221"/>
+	<Point x="2116" y="1220"/>
+	<Point x="2115" y="1721"/>
+	<Point x="226" y="1722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The structure is usually very compact, formed of strong sticks and twigs,
+plastered with mud, lined with turf, straw, roots, and sometimes moss, dead
+leaves, and feathers. The eggs number from three to ﬁve and vary considerably
+both in form and colouring, exhibiting similar forms to those of the Carrion-
+Crow; they are, however, noticeably smaller. The ground-colour varies from
+pale blue to green, and is lighter or darker in diﬀerent nests; the spotting is
+olive-brown, ﬁne and sparse, or coarser and thickly distributed over the entire
+surface and sometimes with a few larger deep brown blotches or streaks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="225" y="1723"/>
+	<Point x="2116" y="1724"/>
+	<Point x="2116" y="1843"/>
+	<Point x="224" y="1847"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Of the eggs ﬁgured on our plate, ﬁgs. 241 and 242 are from my own
+collection, and 243 and 244 from that of Mr. A. B. Farn’s.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="225" y="1849"/>
+	<Point x="2118" y="1845"/>
+	<Point x="2117" y="2283"/>
+	<Point x="711" y="2285"/>
+	<Point x="224" y="2284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>When the young ﬁrst leave the nest they are awkward and weak on their
+legs, sitting huddled on a branch with their heads well down between their
+shoulders; as the wind sways the branch they tip forwards, and have to open
+their short wings to recover their balance; but, after daily short excursions
+from branch to branch, they gradually gather strength and conﬁdence, until
+ﬁnally they are able to accompany their parents to the ﬁelds and get their
+ﬁrst lesson in ﬁnding food for themselves.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="223" y="2286"/>
+	<Point x="2118" y="2286"/>
+	<Point x="2118" y="2477"/>
+	<Point x="223" y="2476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>To those who have not noticed the methods by which the various species
+of Crows are taught by their parents, I cannot do better than recommend the
+admirable account given by Mrs. Olive Thorne Miller in her fascinating book</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="224" y="2478"/>
+	<Point x="2118" y="2479"/>
+	<Point x="2119" y="2571"/>
+	<Point x="224" y="2576"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Sometimes the nest is said to be placed on chimneys, ornaments of church spires, and rarely on the
+ground.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="223" y="2578"/>
+	<Point x="2121" y="2574"/>
+	<Point x="2122" y="2650"/>
+	<Point x="223" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>+ Mr. Rushen was well-known to readers of that paper as one of its most reliable contributors; a keen
+student and enthusiastic lover of our British Birds.</Unicode></TextEquiv></TextRegion></Page></PcGts>

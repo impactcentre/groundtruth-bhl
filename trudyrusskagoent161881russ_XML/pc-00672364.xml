@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672364">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:20:34</Created>
+	<LastChange>2012-02-10T09:54:35</LastChange></Metadata>
+	<Page imageFilename="00672364.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r12" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="971" y="66"/>
+	<Point x="1283" y="66"/>
+	<Point x="1283" y="132"/>
+	<Point x="971" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 170 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="257" y="196"/>
+	<Point x="2003" y="196"/>
+	<Point x="2003" y="366"/>
+	<Point x="257" y="366"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel stumpf, weisslich oder grau, gegen den Hinter-
+rand getrübt; sie lassen das Licht wenig oder gar nicht durch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="271" y="371"/>
+	<Point x="2014" y="371"/>
+	<Point x="2014" y="533"/>
+	<Point x="271" y="533"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel grau, am Vorderrand ins Gelb-
+liche. Franzen heller grau, ohne Glanz. Hinterﬂügel wie oben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="262" y="537"/>
+	<Point x="2024" y="537"/>
+	<Point x="2024" y="703"/>
+	<Point x="262" y="703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2 ♂♂, 1 ♀, letzteres sehr verﬂogen, von Mariquita; das
+grössere, ganz unverﬂogene ♂ wurde am 21 Septbr. gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="253" y="710"/>
+	<Point x="2032" y="710"/>
+	<Point x="2032" y="2042"/>
+	<Point x="253" y="2042"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung. Ein ♂ aus Jamaica, von Möschler erhalten,
+Ligonellus mus. Z. (Tab. XI, ﬁg. 9), steht dem Decorellus darin
+näher, dass vor den goldglänzenden Franzen eine Reihe von
+7 scharfen, tiefschwarzen Punkten hergeht. Die Grundfarbe
+der nur 31/4‴ langen, etwas mehr als bei Decorellus gestreck-
+ten Vorderﬂügel ist blässer als bei diesem, also viel ange-
+nehmer und heller als bei Tenuistrigatus. Die erste Querlinie
+ist dunkler als bei diesem, schärfer, und ihr unterer Winkel
+noch spitzer als ihr oberer. Was den Ligonellus von beiden
+Arten unterscheidet, ist, dass bei ihm die hintere Querlinie
+doppelt ist; beide Linien, deren Zwischenraum weissgrau
+glänzt, sind gleich stark, ohne Zähne, in der obern Hälfte
+nach innen gebogen, auf der Falte mit einem stumpfen Winkel
+nach aussen. Die dunkelgrauen Hinterﬂügel sind gegen den
+Innenrand hin gelichtet. Diese Art steht natürlich zwischen
+Decorellus und Tenuistrigatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="774" y="2100"/>
+	<Point x="1516" y="2100"/>
+	<Point x="1516" y="2187"/>
+	<Point x="774" y="2187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cramb. immunellus Z.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="280" y="2360"/>
+	<Point x="2041" y="2360"/>
+	<Point x="2041" y="3035"/>
+	<Point x="280" y="3035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nach 5 von Petersen gefangenen Exemplaren ändert die
+Art etwas in der Grösse ab, die aber doch nicht bis zu der
+des Expansellus herabsinkt. Den speciﬁschen Unterschied gegen
+diesen allerdings sehr ähnlichen Crambus ergiebt ausserdem
+1) die grössere Streckung der Vorderﬂügel; 2) die Gestalt der
+hintern Doppellinie auf denselben; sie krümmt sich nämlich im
+obern Drittel zwar etwas mehr als die Abbildung zeigt, aber
+doch nur schwach und reicht weit weniger nahe an den vor-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1410" y="2201"/>
+	<Point x="1410" y="2279"/>
+	<Point x="546" y="2279"/>
+	<Point x="546" y="2201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ent. Ztg. 1872, p. 472, tab. 2, ﬁg. 6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1410" y="2281"/>
+	<Point x="1410" y="2341"/>
+	<Point x="546" y="2341"/>
+	<Point x="546" y="2281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Exot. Micropt. p. 47.</Unicode></TextEquiv></TextRegion></Page></PcGts>

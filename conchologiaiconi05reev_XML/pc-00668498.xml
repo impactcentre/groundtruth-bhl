@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668498">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:12:58</Created>
+	<LastChange>2012-02-10T09:53:20</LastChange></Metadata>
+	<Page imageFilename="00668498.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r84" index="8"/>
+	<RegionRefIndexed regionRef="r35" index="9"/>
+	<RegionRefIndexed regionRef="r37" index="10"/>
+	<RegionRefIndexed regionRef="r43" index="11"/>
+	<RegionRefIndexed regionRef="r54" index="12"/>
+	<RegionRefIndexed regionRef="r12" index="13"/>
+	<RegionRefIndexed regionRef="r13" index="14"/>
+	<RegionRefIndexed regionRef="r14" index="15"/>
+	<RegionRefIndexed regionRef="r15" index="16"/>
+	<RegionRefIndexed regionRef="r16" index="17"/>
+	<RegionRefIndexed regionRef="r72" index="18"/>
+	<RegionRefIndexed regionRef="r78" index="19"/>
+	<RegionRefIndexed regionRef="r18" index="20"/>
+	<RegionRefIndexed regionRef="r19" index="21"/>
+	<RegionRefIndexed regionRef="r92" index="22"/>
+	<RegionRefIndexed regionRef="r70" index="23"/>
+	<RegionRefIndexed regionRef="r22" index="24"/>
+	<RegionRefIndexed regionRef="r23" index="25"/>
+	<RegionRefIndexed regionRef="r56" index="26"/>
+	<RegionRefIndexed regionRef="r62" index="27"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1022" y="154"/>
+	<Point x="1462" y="154"/>
+	<Point x="1462" y="205"/>
+	<Point x="1022" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE LIX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="324" y="236"/>
+	<Point x="1222" y="236"/>
+	<Point x="1222" y="346"/>
+	<Point x="324" y="346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This well-known species is very generally distributed
+throughout Germany and other parts of Central Europe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="536" y="418"/>
+	<Point x="1006" y="418"/>
+	<Point x="1006" y="471"/>
+	<Point x="536" y="471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 400. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="331" y="481"/>
+	<Point x="1225" y="481"/>
+	<Point x="1225" y="672"/>
+	<Point x="331" y="672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS HONDURASANUS. Bul. testâ subacuminato-
+oblongâ, tenuiculâ, umbilicatâ, anfractibus sex, con-
+vexiusculis, lœvibus, columellâ latè reﬂexâ, labro sim-
+plici; pellucido-ﬂavescente, roseo-fusco trifasciatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="328" y="673"/>
+	<Point x="1225" y="673"/>
+	<Point x="1225" y="908"/>
+	<Point x="328" y="908"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE HONDURAS BULIMUS. Shell somewhat acuminately
+oblong, rather thin, umbilicated, whorls six in number,
+rather convex, smooth, columella broadly reﬂected,
+lip simple; transparent yellowish-white, encircled by-
+three rose-brown bands.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="331" y="916"/>
+	<Point x="938" y="916"/>
+	<Point x="938" y="959"/>
+	<Point x="331" y="959"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc., 1846, p. 29.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="330" y="964"/>
+	<Point x="719" y="964"/>
+	<Point x="719" y="1011"/>
+	<Point x="330" y="1011"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Honduras; Dyson.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="371" y="1028"/>
+	<Point x="1057" y="1028"/>
+	<Point x="1057" y="1074"/>
+	<Point x="371" y="1074"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A very delicate transparent rose-tinged shell.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="320" y="1857"/>
+	<Point x="1227" y="1857"/>
+	<Point x="1227" y="2060"/>
+	<Point x="320" y="2060"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It has been supposed that Mr. Broderip’s Bulimus Pro‐
+teus is the B. sordidus of Lesson; but Dr. Pfeiﬀer has
+shown it to be a distinct species, as the authentic specimen
+here ﬁgured, obtained by Mr. Cuming from those collected</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1266" y="236"/>
+	<Point x="2174" y="236"/>
+	<Point x="2174" y="387"/>
+	<Point x="1265" y="382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>by M. Lesson, suﬃciently veriﬁes. The name sordidus
+applied to Sp. 100, must therefore be cancelled in favour
+of Mr. Broderip’s very signiﬁcant title of Proteus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="1485" y="447"/>
+	<Point x="1956" y="447"/>
+	<Point x="1956" y="495"/>
+	<Point x="1485" y="495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 402. (Mus, Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1268" y="507"/>
+	<Point x="2191" y="507"/>
+	<Point x="2191" y="749"/>
+	<Point x="1268" y="749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS CONSTRICTUS. Bul. testâ subcylindraceo-ovatâ,
+solidiusculâ, profundè umbilicatâ, spirœ suturis im-
+pressis, anfractibus septem, convexis, tenuissimè striatis,
+columellâ latè expansâ, aperturâ parviusculâ, sub-
+reﬂexâ; opaco-albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1271" y="751"/>
+	<Point x="2184" y="751"/>
+	<Point x="2184" y="1037"/>
+	<Point x="1271" y="1037"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CONSTRICTED BULIMUS. Shell somewhat cylindri-
+cally ovate, rather solid, deeply umbilicated, sutures
+of the spire impressed, whorls seven in number, con‐
+vex, very ﬁnely striated, columella broadly expanded,
+aperture rather small, with the lip a little reﬂected;
+opake white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1274" y="1138"/>
+	<Point x="1539" y="1138"/>
+	<Point x="1539" y="1186"/>
+	<Point x="1274" y="1186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Angostura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1273" y="1653"/>
+	<Point x="2180" y="1653"/>
+	<Point x="2180" y="1891"/>
+	<Point x="1273" y="1891"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SPRATT’S BULIMUS. Shell somewhat globosely ovate,
+rather solid, swollen, umbilicated, whorls six in
+number, longitudinally rather roughly plicated, colu‐
+mella broadly expanded, lip slightly reﬂected; whitish,
+partially covered with a thin horny olive epidermis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1279" y="1895"/>
+	<Point x="2017" y="1895"/>
+	<Point x="2017" y="1937"/>
+	<Point x="1279" y="1937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, in Phil. Abbild., Bulimus, pl. 4. f. 6.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r25">
+	<Coords>
+	<Point x="1239" y="246"/>
+	<Point x="1245" y="2064"/>
+	<Point x="1260" y="2064"/>
+	<Point x="1256" y="246"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r26">
+	<Coords>
+	<Point x="551" y="372"/>
+	<Point x="551" y="400"/>
+	<Point x="1005" y="400"/>
+	<Point x="1005" y="372"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r27">
+	<Coords>
+	<Point x="538" y="1112"/>
+	<Point x="538" y="1141"/>
+	<Point x="1006" y="1141"/>
+	<Point x="1006" y="1112"/></Coords></SeparatorRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="321" y="1224"/>
+	<Point x="1228" y="1224"/>
+	<Point x="1228" y="1460"/>
+	<Point x="321" y="1460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS SORDIDUS. Bul. testâ conico-ovatâ, tenui, sub-
+ampliter umbilicatâ, anfractibus sex ad septem, rotun-
+datis, creberrimè fortiter elevato-striatis, columellâ latè
+expansâ, vix reﬂexâ, labro tenui, simplici; sordidè
+fuscâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="322" y="1463"/>
+	<Point x="1228" y="1463"/>
+	<Point x="1228" y="1702"/>
+	<Point x="322" y="1702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SORDID BULIMUS. Shell conically ovate, thin,
+rather largely umbilicated, whorls six to seven in
+number, rounded, very closely strongly elevately
+striated, columella broadly expanded, scarcely re‐
+ﬂected, lip thin, simple; dull brown.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r44">
+	<Coords>
+	<Point x="1492" y="400"/>
+	<Point x="1492" y="420"/>
+	<Point x="1967" y="420"/>
+	<Point x="1967" y="400"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r45">
+	<Coords>
+	<Point x="1491" y="1312"/>
+	<Point x="1491" y="1337"/>
+	<Point x="1946" y="1337"/>
+	<Point x="1946" y="1312"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r46">
+	<Coords>
+	<Point x="1002" y="2349"/>
+	<Point x="1002" y="2385"/>
+	<Point x="1479" y="2385"/>
+	<Point x="1479" y="2349"/></Coords></SeparatorRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="323" y="1799"/>
+	<Point x="713" y="1799"/>
+	<Point x="713" y="1842"/>
+	<Point x="323" y="1842"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Environs of Lima.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="1275" y="1942"/>
+	<Point x="2103" y="1942"/>
+	<Point x="2103" y="1987"/>
+	<Point x="1275" y="1987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Asia Minor, Pisidia; Forbes. Lycia; Spratt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="1305" y="1999"/>
+	<Point x="2187" y="1999"/>
+	<Point x="2187" y="2057"/>
+	<Point x="1305" y="2057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A turgid delicately plicated species of very distinct form.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r70" type="paragraph">
+	<Coords>
+	<Point x="1272" y="1408"/>
+	<Point x="2180" y="1408"/>
+	<Point x="2180" y="1650"/>
+	<Point x="1272" y="1650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS SPRATTII. Bul. testâ subgloboso-ovatâ, solidius‐
+culâ, turgidâ, umbilicatâ, aufractibus sex, longitudin-
+aliter ruguloso-plicatis, columellâ latè expansâ, labro
+subreﬂexo; albidâ, epidermide tenui corneâ olivaceâ
+partim indutâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r72" type="paragraph">
+	<Coords>
+	<Point x="1273" y="1043"/>
+	<Point x="1837" y="1043"/>
+	<Point x="1837" y="1085"/>
+	<Point x="1273" y="1085"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Symbolæ, vol. i. p. 43.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" type="paragraph">
+	<Coords>
+	<Point x="1351" y="1087"/>
+	<Point x="1836" y="1087"/>
+	<Point x="1836" y="1134"/>
+	<Point x="1351" y="1134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus Angosturensis, Gruner.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1272" y="1200"/>
+	<Point x="2172" y="1200"/>
+	<Point x="2172" y="1297"/>
+	<Point x="1272" y="1297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dr. Pfeiﬀer describes this species as having a horny
+epidermis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r84" type="heading">
+	<Coords>
+	<Point x="529" y="1160"/>
+	<Point x="1014" y="1160"/>
+	<Point x="1014" y="1208"/>
+	<Point x="529" y="1208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 401. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="330" y="1706"/>
+	<Point x="1226" y="1706"/>
+	<Point x="1226" y="1795"/>
+	<Point x="330" y="1795"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Helix sordida, Lesson, Voyage de la Coquille, p. 315. pl.
+13. f. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r92" type="heading">
+	<Coords>
+	<Point x="1485" y="1348"/>
+	<Point x="1953" y="1348"/>
+	<Point x="1953" y="1396"/>
+	<Point x="1485" y="1396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 403. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

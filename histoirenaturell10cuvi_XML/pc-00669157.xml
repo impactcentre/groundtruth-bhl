@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669157">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:31:37</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669157.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="176" y="313"/>
+	<Point x="1532" y="313"/>
+	<Point x="1532" y="1425"/>
+	<Point x="176" y="1425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>petites écailles comme le reste de la tête; les dents
+ont chacune cinq crénelures. Les écailles, plus grandes
+que dans le reste du genre, sont quadrangulaires,
+le côté de la racine est plus étroit que l’extérieur,
+et celui-ci, vu à une forte loupe, montre de très-
+ﬁns petits cils. Il y a une épine couchée en avant
+de la dorsale. Les ventrales se terminent en pointe
+aiguë; la partie molle de la dorsale et de l’anale
+fait aussi un angle assez marqué. Les épines des
+nageoires sont très-acérées; la caudale a deux longues
+pointes très-aiguës, qui font plus de moitié de sa
+longueur totale, et dont la supérieure dépasse l’autre;
+la lame des côtés de la queue est grande, forte et
+légèrement arquée; elle ressemble tout-à-fait à une
+lame de canif.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="350" y="1457"/>
+	<Point x="1348" y="1457"/>
+	<Point x="1348" y="1533"/>
+	<Point x="350" y="1533"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 5; D. 9/28; A. 3/27; C. 16; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="165" y="1544"/>
+	<Point x="1534" y="1544"/>
+	<Point x="1536" y="2674"/>
+	<Point x="1174" y="2676"/>
+	<Point x="1146" y="2681"/>
+	<Point x="165" y="2681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson se distingue admirablement par des ban‐
+des, composées chacune d’une ligne bleue, bordée de
+deux lignes noires, qui marchent séparées les unes
+des autres par des bandes argentées ou dorées. Il y
+en a ainsi sur le dos et les ﬂancs neuf de chaque
+sorte: les premières montent un peu obliquement,
+et s’étendent sur la base de la dorsale; les suivantes
+se prolongent jusqu’à son angle; les trois dernières
+règnent longitudinalement jusqu’à la base de la cau‐
+dale, où elles sont arrêtées par deux lignes verticales
+des mêmes couleurs; la caudale elle-même est noi‐
+râtre, et a une ligne bleue, courbée en arc, qui tra‐
+verse son milieu, et aboutit par ses extrémités à
+chacune de ses pointes. Le crâne a cinq lignes lon‐
+gitudinales; les deuxièmes de chaque côté s’unis-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="538" y="228"/>
+	<Point x="1117" y="228"/>
+	<Point x="1117" y="294"/>
+	<Point x="538" y="294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1402" y="220"/>
+	<Point x="1532" y="220"/>
+	<Point x="1532" y="294"/>
+	<Point x="1402" y="294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>225</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="228" y="2688"/>
+	<Point x="228" y="2749"/>
+	<Point x="324" y="2749"/>
+	<Point x="324" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="1186" y="2685"/>
+	<Point x="1186" y="2757"/>
+	<Point x="1282" y="2757"/>
+	<Point x="1282" y="2685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>15</Unicode></TextEquiv></TextRegion></Page></PcGts>

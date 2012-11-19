@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671105">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:48:26</Created>
+	<LastChange>2012-03-12T14:34:04</LastChange></Metadata>
+	<Page imageFilename="00671105.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1122" y="372"/>
+	<Point x="1382" y="372"/>
+	<Point x="1382" y="410"/>
+	<Point x="1122" y="410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 43 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="857" y="515"/>
+	<Point x="1705" y="515"/>
+	<Point x="1705" y="587"/>
+	<Point x="857" y="587"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C. Das Abdomen und seine Anhänge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="215" y="597"/>
+	<Point x="2325" y="597"/>
+	<Point x="2325" y="907"/>
+	<Point x="214" y="909"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das Abdomen von Eosentomon unterscheidet sich äußerlich in mancher Beziehung von dem
+anderer Insekten. Von solchen Unterschieden braucht nur hingewiesen werden auf das Vorhandensein
+von Abdominalbeinen, die Anamorphose und die Ausbildung des Telson. Außerdem ist aber die
+Verschiedenheit der Segmente untereinander schon recht beträchtlich, und aus diesem Grunde er-
+scheint eine genauere Erörterung ihrer Zusammensetzung erforderlich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="217" y="912"/>
+	<Point x="2330" y="912"/>
+	<Point x="2330" y="1030"/>
+	<Point x="562" y="1033"/>
+	<Point x="217" y="1033"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zunächst möchte ich den Bau des einzelnen Abdominalsegmentes und
+die daraus sich ergebenden Fragen über die Bezeichnungsweise kurz berühren.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="210" y="1038"/>
+	<Point x="2335" y="1034"/>
+	<Point x="2335" y="1212"/>
+	<Point x="210" y="1212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wie schon bei der Besprechung der Thorakalsklerite erörtert wurde, lassen sich un jedem flügel-
+losen Segment ein Tergum, zwei Sympleuren, zwei Pleuren und ein Sternum unterscheiden, zu denen
+dann noch zwischen Pleuren und Sternum die Beine hinzutreten können.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="220" y="1217"/>
+	<Point x="2332" y="1217"/>
+	<Point x="2332" y="1714"/>
+	<Point x="220" y="1714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diese Art der Zusammensetzung, die bei Eosentomon nur am Thorax deutlich zu erkennen ist,
+erleidet am Abdomen zunächst eine wichtige Veränderung durch das Fehlen von Schreitbeinen. In
+wenigen Fällen finden sich an Stelle der Schreitbeine anders gestaltete, den Extremitäten homologe
+Bildungen (Cerci, Stylopoden), in der Regel fehlen aber jegliche Anhänge. Entwicklungsgeschichtliche
+Untersuchungen (Bütschli, Graber, Heymons u. a.) zeigten nun, daß embryonal an allen
+Segmenten Extremitäten angelegt werden, welche nur sekundär verstreichen und mit den Sterna
+verschmelzen. Gelegentlich lassen sich die Reste dieser eingeschmolzenen Beinanlagen noch an der
+Bauchschuppe des fertigen Insekts erkennen, so bei Machilis, Periplaneta (Haase) u. a.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="227" y="1718"/>
+	<Point x="2330" y="1718"/>
+	<Point x="2330" y="1838"/>
+	<Point x="1016" y="1838"/>
+	<Point x="227" y="1837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ebenso wie die Extremitäten, lassen sich oft auch die Sklerite der Lateralregion nicht mehr
+frei nachweisen, indem dieselben bald ganz obliterieren, bald mit Tergum oder Sternum verschmelzen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="225" y="1843"/>
+	<Point x="2333" y="1841"/>
+	<Point x="2332" y="2085"/>
+	<Point x="817" y="2087"/>
+	<Point x="225" y="2085"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Daraus erklärt sich, daß ein Abdominalring öfters nur aus einer Rückenschuppe, einer Bauch-
+schuppe und einer dünnen Verbindungshaut zwischen beiden besteht. Daß derartige Chitinschilder,
+mit Lateralstücken vereinigte Terga und mit Beinanlagen verschmolzene Sterna, nicht den Terga
+und Sterna der Thorakalsegmente homologisiert werden dürfen, liegt auf der Hand.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="225" y="2090"/>
+	<Point x="2348" y="2088"/>
+	<Point x="2348" y="2956"/>
+	<Point x="225" y="2958"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nun hat Lacaze - Duthiers für Abdominalsegmente den Namen Urite eingeführt und
+nennt die einfachen Terga derselben Urotergite, die Sterna Urosternite, während die dazwischen
+liegenden Epimerite und Episternite meinen Sympleuren und Pleuren entsprechen. Später wurde
+dann (Packard) Urit auf „farther condensed“ Abdominalsegmente beschränkt und jedes Abdominal-
+segment als Uromer, das ganze Abdomen als Urosoma bezeichnet. Trotzdem bei dieser Nomenklatur
+der Ausdruck Urosternit für jede Bauchschuppe anzuwenden ist, wird doch gelegentlich (Börner)
+Urosternum als Bezeichnung für das mit den Beinanlagen verwachsene Sternum definiert. Da kein
+Grund vorliegt, nur diese zusammengesetzten Bauchschuppen als, wörtlich übersetzt, „Abdominal-
+sterna“ zu bezeichnen und dies auch nicht aus der ursprünglichen Definition des Namens hervorgeht,
+scheint mir diese Bezeichnung nicht günstig. Ebensowenig zweckmäßig ist das von Verhoeff
+verwendete Coxosternum, einmal weil es von anderer Seite (Börner) für ganz andere Sklerite
+gebraucht wurde, und dann, weil es die Behauptung enthält, daß nur die Coxa es ist, welche mit dem
+Sternum verschmilzt. Aus diesem Grunde halte ich die Einführung einer neuen Benennung für
+derartige Verschmelzungsprodukte für notwendig.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="225" y="2960"/>
+	<Point x="2131" y="2959"/>
+	<Point x="2337" y="2958"/>
+	<Point x="2337" y="3140"/>
+	<Point x="225" y="3140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Als solche schlage ich Zygosternum vor und verstehe darunter jede Bauchschuppe,
+welche noch die Extremitätenanlage ganz oder teilweise außer dem eigentlichen Sternum enthält.
+Nicht berücksichtigt braucht dagegen werden, daß in jeder Sternalanlage (Heymons) eine mediane</Unicode></TextEquiv></TextRegion></Page></PcGts>

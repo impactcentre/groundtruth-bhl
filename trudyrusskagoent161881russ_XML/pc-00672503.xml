@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672503">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:46:54</Created>
+	<LastChange>2012-02-10T09:55:02</LastChange></Metadata>
+	<Page imageFilename="00672503.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="742" y="167"/>
+	<Point x="1057" y="167"/>
+	<Point x="1057" y="249"/>
+	<Point x="742" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 307 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="49" y="907"/>
+	<Point x="1782" y="907"/>
+	<Point x="1782" y="1249"/>
+	<Point x="49" y="1249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von den beiden Arten mit unbewaﬀnetem Halsschilde
+(Odontocnemus Zoubk.) durch kurze, gedrungene Form, an
+den Seiten geraden Thorax und einfarbiges gleichmässiges
+Schuppenkleid zu trennen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="48" y="1257"/>
+	<Point x="1783" y="1257"/>
+	<Point x="1783" y="3083"/>
+	<Point x="48" y="3083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kopf breit, grob, einzeln punktirt, Rüssel nicht länger als
+Kopf, an der Basis und vor der Fühlereinlenkung tief quer
+eingedrückt, Vorderrand in der Mitte mit querem, an der
+Spitze abgerundeten Höcker. Thorax doppelt so breit als
+lang, rechteckig, am erhabenen gleichbreiten Vorder- und Hin-
+terrande rund, tief abgesetzt, eingeschnürt, ﬂach gewölbt, grob
+und weitläuﬁg an den Seiten gemischt, feiner und dichter
+punktirt mit durchgehender Mittelfurche, jederseits mit einem
+schräg gegen das Schildchen gerichteten Eindruck. Decken
+nur doppelt so lang als Thorax, höchstens um die Hälfte län-
+ger als breit, Basis gerade, Schultern gerundet, hier oder
+gleich hinter denselben am breitesten, dann gerundet verengt,
+Seiten und Spitze unter den Körper gezogen, gewölbt, hinten
+steil, vor der Spitze beulig aufgetrieben, mit mehr oder min-
+der deutlichen Reihen verschieden grosser Punkte, Zwischen-
+räume ﬂach mit zerstreuten kleinen, Unterseite mit noch klei-
+neren Punkten. Mit Ausnahme der in den Streifen, alle
+Punkte mit geneigten kürzeren, Schenkel mit längeren Haaren
+bedeckt, Seiten des Halsschildes und Decken mit langen dicht-
+gestellten Zottenhaaren gefranzt. Schenkel schwach keulig,
+4 Vorderschienen innen gekrümmt auf dreiviertel ihrer Länge
+gezähnt, 2 vorderen mit 4 bis 5 runden und einem breiten</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1530" y="3101"/>
+	<Point x="1621" y="3101"/>
+	<Point x="1621" y="3153"/>
+	<Point x="1530" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1762" y="298"/>
+	<Point x="1762" y="731"/>
+	<Point x="53" y="731"/>
+	<Point x="53" y="298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vato, lateribus fere rectis, parallelis; elytris basi truncatis, la-
+titudine prothoracis parum latioribus, lateribus modice rotun-
+dato-ampliatis, postice attenuatis, prothoracis longitudine duplo
+longioribus, remote striato-punctatis, interstitiis planis, subse-
+riatim remote punctatis, femoribus hirsutis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1762" y="733"/>
+	<Point x="1762" y="823"/>
+	<Point x="53" y="823"/>
+	<Point x="53" y="733"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 8,5—9,5, lat. 4,7 — 5 Mm.</Unicode></TextEquiv></TextRegion></Page></PcGts>

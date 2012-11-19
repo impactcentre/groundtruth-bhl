@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672324">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T19:10:26</Created>
+	<LastChange>2012-02-10T09:54:29</LastChange></Metadata>
+	<Page imageFilename="00672324.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1037" y="103"/>
+	<Point x="1344" y="103"/>
+	<Point x="1344" y="169"/>
+	<Point x="1037" y="169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 130 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="307" y="232"/>
+	<Point x="2057" y="232"/>
+	<Point x="2057" y="401"/>
+	<Point x="307" y="401"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vor. Auﬀallend ist das bisherige Fehlen der Gattung Hercyna
+trotz der hohen Gebirge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="303" y="408"/>
+	<Point x="2064" y="408"/>
+	<Point x="2064" y="1385"/>
+	<Point x="303" y="1385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von den Tortricina an beginnt Brussa mit 148 Arten
+P. mit 85 Arten bedeutend zu überﬂügeln. Ich glaube, dass
+die Ursache hiervon nicht allein die bedeutend tüchtigere Sam-
+melkraft des Herrn Mann bei Brussa ist, sondern dass die Um-
+gebung von Brussa bedeutend wald- und buschreicher sein wird
+als die meisten kahlen Umgebungen von Amasia. Ich wunderte
+mich schon dort über das spärliche Vorkommen der Tortri-
+cina nicht nur an Arten, sondern auch an Individuen. Die
+Gattung Cochylis hat bis jetzt in Kleinasien bereits 32, Gra-
+pholitha 40 Arten; natürlich meist bei Brussa gefunden. Sonst
+weiss ich kaum etwas Bemerkenswerthes oder für Kleinasien
+besonders Charakteristisches bei den Tortricina anzuführen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="310" y="1398"/>
+	<Point x="2069" y="1398"/>
+	<Point x="2069" y="2557"/>
+	<Point x="310" y="2557"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Obgleich die bis jetzt, in Kleinasien gefundenen 478 Ti-
+neina als eine ganz stattliche Anzahl erscheinen, so repräsen-
+tiren sie doch kaum den vierten Theil der jetzt für das pa-
+läarktische Faunengebiet bekannten Arten. Brussa hat hiervon
+300 Arten gegen 250 bei Amasia, und sogar 104 Gattungen
+gegen 79 bei Amasia. Endemisch für Kleinasien sind nur die
+von mir nach elnzelnen Exemplaren aufgestellten Gelechiden-
+Gattungen Pogochaetia und Apatetris, was nicht viel sagen
+will. Dahingegen kann man für Kleinasien hervorheben Hap-
+sifera, Psecadia (mit 14 Arten), Ceuthomadarus, Pleurota (mit
+12 Arten). Apiletria, Dasycera (mit 4 von 5 Arten), Coleo-
+phora (mit 59 Arten) Butalis (mit 28 Arten) und Opogona,
+von denen Hapsifera, Ceuthomadarus, Apiletria und Opogona
+nur noch in einigen, meist benachbarten Ländern vorkommen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="312" y="2564"/>
+	<Point x="2066" y="2564"/>
+	<Point x="2066" y="2880"/>
+	<Point x="312" y="2880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dass bisher nur drei Micropteryx-Arten in Kleinasien ge-
+funden wurden, kann nicht auﬀallen. Einmal ist das Gebiet zu
+südlich und dann sind die Arten meist schwer zu ﬁnden, zu-
+mal wenn sie an Individuen nicht zahlreich sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="314" y="2889"/>
+	<Point x="2062" y="2889"/>
+	<Point x="2062" y="3064"/>
+	<Point x="314" y="3064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dahingegen sind die Pterophorina mit 28 Arten (25 bei
+Brussa, 15 bei Amasia) entschieden nicht gut gesammelt und</Unicode></TextEquiv></TextRegion></Page></PcGts>

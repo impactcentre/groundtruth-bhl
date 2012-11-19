@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671065">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T12:09:03</Created>
+	<LastChange>2012-03-12T14:34:02</LastChange></Metadata>
+	<Page imageFilename="00671065.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="231" y="503"/>
+	<Point x="2331" y="503"/>
+	<Point x="2331" y="806"/>
+	<Point x="740" y="811"/>
+	<Point x="713" y="811"/>
+	<Point x="699" y="814"/>
+	<Point x="679" y="811"/>
+	<Point x="232" y="811"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(EnderIein) kann geradezu (Handlirsch) als Beweis dafür dienen, daß die Entwicklungs-
+geschichte nicht überall allein zum Ziele führt und unter Umständen sogar, sei es infolge eaenogene-
+tischer Vorgänge (Gegenbaur) oder sei es, daß sich wegen zu geringer Größe die Einzelheiten
+nicht mehr verfolgen lassen, zu Irrtümern Anlaß geben kann (Auffassung der Pediculidenmundteile
+als sekundäre Bildungen).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="227" y="816"/>
+	<Point x="2329" y="816"/>
+	<Point x="2329" y="1990"/>
+	<Point x="1118" y="1993"/>
+	<Point x="1104" y="1996"/>
+	<Point x="1093" y="1993"/>
+	<Point x="482" y="1993"/>
+	<Point x="465" y="1995"/>
+	<Point x="455" y="1993"/>
+	<Point x="437" y="1996"/>
+	<Point x="422" y="1993"/>
+	<Point x="227" y="1990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Noch weiter gehen Dürken und Voß in der Kritik der Skleritvergleichung auf Grund
+ihrer Muskeluntersuchungen. So sagt Voß in der Zusammenfassung seiner Resultate über Gryillus,
+daß „die im Chitinskelett vorliegenden Gestaltungsverhältnisse . . . an sich nicht den
+geringsten Wert für morphologische Fragen“ besitzen. Zur Beurteilung dieser
+These möchte ich vergleichsweise die Aderung der Insektenflügel heranziehen. Wie Comstock
+und Needham darlegten, ist diese bei den meisten Insekten eine direkte Folge der Tracheen-
+versorgung; bei einigen Ordnungen aber weicht das Tracheensystem von dem primitiven Schema
+ab (Trichoptera, Diptera, Hymenoptera) und doch ist das definitive Adersystem auf das der
+anderen Ordnungen zurückführbar. Das führt Comstock und Kochi zu dem Schluß, „that
+the veins had attained an arrangement so useful that it could be held by natural selection after the
+tracheae hat ceased to determine their position“. In analoger Weise halte ich die Voß - Dürkensche
+kinematische Erklärung des Insektenskelettes aus der Muskulatur für prinzipiell richtig, die zitierte
+These aber für zu weit gegangen. Die große Gleichartigkeit der Skelettbildung bei Imagines
+zeigt, daß durch Verschweißung und Zergliederung vorhandener Elemente, nicht aber durch jeweils
+völlig neue Bildungen, den verschiedenen, aus verschiedenem biologischen Verhalten entspringenden
+mechanischen Anforderungen zu entsprechen gesucht wird. Daraus entnehme ich, daß die ur-
+sprünglich infolge mechanischer Beanspruchung entstandenen Sklerite — wie die aus dem
+Tracheenverlauf sich ergebenden Flügeladern — bereits phylogenetisch festgelegt sind und
+unabhängig von der Muskulatur homologisiert werden dürfen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="229" y="1998"/>
+	<Point x="2337" y="1998"/>
+	<Point x="2337" y="2494"/>
+	<Point x="229" y="2494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Untersuchung selbst wurde mit den Zeiß-Apochromaten 8 mm, 4 mm und der Oelimmersion
+1,5 mm bei verschiedener Ocularvergrößerung vorgenommen. Die Abbildungen sind zusammen-
+gestellt aus den Ergebnissen verschiedener Präparate nach Skizzen mit dem Abbeschen Zeichen-
+apparat. Eine geringe Schematisierung ließ sich nicht vermeiden, doch wurde sie auf das Notwendigste
+beschränkt. Die Ränder der einzelnen Chitinplatten waren meist fest umschrieben, nur gelegentlich
+machte es die Darstellungsweise erforderlich, eine Grenze deutlicher anzugeben, als sie im Präparate
+erschien; in einigen Fällen mußte der Borstenbesatz zur Hebung der Übersichtlichkeit ganz oder teil-
+weise weggelassen werden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1154" y="387"/>
+	<Point x="1412" y="387"/>
+	<Point x="1412" y="445"/>
+	<Point x="1154" y="445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 5 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

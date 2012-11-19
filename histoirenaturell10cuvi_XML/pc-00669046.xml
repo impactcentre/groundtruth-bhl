@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669046">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:18:06</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669046.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="352" y="133"/>
+	<Point x="482" y="133"/>
+	<Point x="482" y="205"/>
+	<Point x="352" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>114</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="797" y="150"/>
+	<Point x="1310" y="150"/>
+	<Point x="1310" y="208"/>
+	<Point x="797" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="334" y="233"/>
+	<Point x="1757" y="233"/>
+	<Point x="1757" y="912"/>
+	<Point x="1553" y="915"/>
+	<Point x="1248" y="912"/>
+	<Point x="333" y="903"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rompre aucunement les rapports naturels. Il a
+surtout cela de particulier que ses espèces
+paraissent toutes vivre de préférence de ma‐
+tières végétales. Nous n’avons trouvé dans leur
+estomac que des ﬁbres ou des débris d’algues
+marines, et déjà Forskal avait fait la même ob‐
+servation sur ceux qu’il avait examinés; aussi
+leurs intestins sont-ils d’une grande ampleur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="336" y="911"/>
+	<Point x="1387" y="918"/>
+	<Point x="1757" y="920"/>
+	<Point x="1757" y="1514"/>
+	<Point x="334" y="1514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elles ont d’ailleurs toutes des formes ovales,
+comprimées; une bouche peu fendue, non
+protractile; les dents sur une seule rangée à
+chaque mâchoire, le palais et la langue sans
+dents; une seule dorsale et d’autres similitudes,
+que l’on saisira mieux après avoir étudié par‐
+ticulièrement leurs diﬀérens genres.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="960" y="1956"/>
+	<Point x="960" y="1990"/>
+	<Point x="1141" y="1990"/>
+	<Point x="1141" y="1956"/></Coords></SeparatorRegion></Page></PcGts>

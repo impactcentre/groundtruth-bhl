@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669192">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:36:01</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669192.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="329" y="274"/>
+	<Point x="1743" y="274"/>
+	<Point x="1743" y="1621"/>
+	<Point x="1102" y="1625"/>
+	<Point x="329" y="1621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>monoceros dans l’édition posthume, publiée
+par Schneider1. Il établit une première es‐
+pèce en copiant la description fort exacte de
+Forskal; mais il en fait une seconde du pois‐
+son de Willughby, sous le nom de monoce‐
+ros Raii. Ce monoceros Raii n’est donc plus
+évidemment qu’une de ces espèces nominales
+à rayer du catalogue des êtres. Quant à la
+ﬁgure, elle est au-dessous de toute critique
+par les inexactitudes nombreuses qu’on y re‐
+marque; mais on ne peut cependant la rap‐
+porter à aucun autre nason. Forster en avait
+laissé un dessin sous le nom de harpurus
+monoceros, que Schneider a très-bien reconnu,
+en le rapportant au monoceros biaculeatus
+de Bloch ou à notre espèce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="336" y="1628"/>
+	<Point x="1759" y="1628"/>
+	<Point x="1759" y="2288"/>
+	<Point x="336" y="2288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. de Lacépède en a donné une autre
+ﬁgure, tout aussi méconnaissable que celle de
+Bloch2, et copiée d’un dessin de Commerson,
+lequel est à la vérité fort peu correct, et qui
+serait tout-à-fait indéterminable sans l’excel‐
+lente description que nous en avons trouvée
+dans les manuscrits de cet infatigable obser‐
+vateur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="427" y="2293"/>
+	<Point x="1749" y="2293"/>
+	<Point x="1749" y="2384"/>
+	<Point x="427" y="2384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forskal3, comme nous venons de le dire,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="348" y="2501"/>
+	<Point x="1753" y="2501"/>
+	<Point x="1753" y="2646"/>
+	<Point x="348" y="2646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Bloch Schn., p. 180, pl. 47. — 2. Lacép., t. III, pl. 7,
+ﬁg. 2. —3. Fauna arab., p. 63, 88.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="336" y="179"/>
+	<Point x="465" y="179"/>
+	<Point x="465" y="251"/>
+	<Point x="336" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>260</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="767" y="178"/>
+	<Point x="1273" y="178"/>
+	<Point x="1273" y="249"/>
+	<Point x="767" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="350" y="2427"/>
+	<Point x="1743" y="2427"/>
+	<Point x="1743" y="2461"/>
+	<Point x="350" y="2461"/></Coords></SeparatorRegion></Page></PcGts>

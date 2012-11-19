@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669412">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:03:05</Created>
+	<LastChange>2012-03-12T14:34:01</LastChange></Metadata>
+	<Page imageFilename="00669412.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="897" y="160"/>
+	<Point x="1363" y="160"/>
+	<Point x="1363" y="231"/>
+	<Point x="897" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="477" y="240"/>
+	<Point x="1842" y="240"/>
+	<Point x="1842" y="1968"/>
+	<Point x="477" y="1968"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le proﬁl de la tête monte, par une courbe convexe,
+jusqu’à la seconde dorsale, en faisant quelque petite
+sinuosité vers la première de ces deux nageoires. La
+mâchoire inférieure dépasse un peu la supérieure;
+les dents y sont en ﬁne carde; le palais est tout-à-fait
+lisse et sans aucunes dents; on ne voit ni on ne sent
+au doigt aucune âpreté au vomer. La longueur de
+la tête est du quart de celle du corps; les yeux sont
+vers le milieu, mais assez haut sur la joue. Leur
+diamètre fait le sixième de la longueur de la tête, et
+il y en a deux entre le bord de l’orbite et le bout du
+museau, et presque deux entre chacun d’eux. Sur
+le sommet du crâne les deux ouvertures sont fort
+petites, surtout l’antérieure, qui ne paraît être qu’un
+faible pore, la seconde est une petite fente, pratiquée
+sur le dessus de la tête en avant de l’œil. Un petit
+os nasal s’alonge sur le devant du museau, et con‐
+tribue à agrandir le méplat formé par la partie élar‐
+gie en lame horizontale du maxillaire. Le sous-or-
+bitaire est un peu celluleux, composé de deux
+grandes pièces; il n’a point d’écaillés, mais le préo‐
+percule, le haut de l’opercule et le vertex en sont
+couverts.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="460" y="1973"/>
+	<Point x="1842" y="1973"/>
+	<Point x="1842" y="2606"/>
+	<Point x="460" y="2606"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La pectorale est large, mais peu longue, et ter‐
+minée en angle assez aigu au bord supérieur; elle
+est comprise près de sept fois dans la longueur to‐
+tale. Celle des ventrales est des deux tiers de celle
+des nageoires de la poitrine. La première dorsale
+répond à la pointe de ces dernières: elle est basse;
+la seconde est placée sur le milieu de l’anale, qui
+occupe une étendue égale à la longueur de la pec-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="400" y="125"/>
+	<Point x="400" y="223"/>
+	<Point x="580" y="223"/>
+	<Point x="580" y="125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>480</Unicode></TextEquiv></TextRegion></Page></PcGts>

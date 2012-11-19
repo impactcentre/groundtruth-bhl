@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668413">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T07:23:10</Created>
+	<LastChange>2012-02-10T09:53:02</LastChange></Metadata>
+	<Page imageFilename="00668413.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r72" index="13"/>
+	<RegionRefIndexed regionRef="r14" index="14"/>
+	<RegionRefIndexed regionRef="r34" index="15"/>
+	<RegionRefIndexed regionRef="r36" index="16"/>
+	<RegionRefIndexed regionRef="r17" index="17"/>
+	<RegionRefIndexed regionRef="r19" index="18"/>
+	<RegionRefIndexed regionRef="r48" index="19"/>
+	<RegionRefIndexed regionRef="r50" index="20"/>
+	<RegionRefIndexed regionRef="r23" index="21"/>
+	<RegionRefIndexed regionRef="r56" index="22"/>
+	<RegionRefIndexed regionRef="r58" index="23"/>
+	<RegionRefIndexed regionRef="r54" index="24"/>
+	<RegionRefIndexed regionRef="r74" index="25"/>
+	<RegionRefIndexed regionRef="r78" index="26"/>
+	<RegionRefIndexed regionRef="r62" index="27"/>
+	<RegionRefIndexed regionRef="r29" index="28"/>
+	<RegionRefIndexed regionRef="r64" index="29"/>
+	<RegionRefIndexed regionRef="r66" index="30"/>
+	<RegionRefIndexed regionRef="r31" index="31"/>
+	<RegionRefIndexed regionRef="r90" index="32"/>
+	<RegionRefIndexed regionRef="r94" index="33"/>
+	<RegionRefIndexed regionRef="r16" index="34"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="857" y="207"/>
+	<Point x="1246" y="207"/>
+	<Point x="1246" y="272"/>
+	<Point x="857" y="272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="909" y="307"/>
+	<Point x="1188" y="307"/>
+	<Point x="1188" y="355"/>
+	<Point x="909" y="355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XXXVIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="354" y="395"/>
+	<Point x="817" y="395"/>
+	<Point x="817" y="437"/>
+	<Point x="354" y="437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 224. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="131" y="450"/>
+	<Point x="1027" y="450"/>
+	<Point x="1027" y="742"/>
+	<Point x="201" y="742"/>
+	<Point x="201" y="495"/>
+	<Point x="131" y="496"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS SEX-DENTATUS. Bul. testâ cylindraceo-oblongâ,
+Pupiformi, basi carinatâ et umbilicatâ; anfractibus
+octo, plano-convexis, longitudinaliter corrugato-striatis
+et sulcatis, ultimo pone labrum biscrobiculato, labro
+subexpanso, aperturâ subquadratâ, sex-dentatâ; corneo-
+albidâ, aperturtœ fauce hic illic purpureo-fusco tinctâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="132" y="745"/>
+	<Point x="1028" y="745"/>
+	<Point x="1027" y="1075"/>
+	<Point x="594" y="1075"/>
+	<Point x="594" y="1124"/>
+	<Point x="205" y="1124"/>
+	<Point x="206" y="786"/>
+	<Point x="132" y="786"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SIX-TOOTHED BULIMUS. Shell cylindrically oblong,
+Pupa-shaped, keeled and umbilicated at the base;
+whorls eight in number, ﬂatly convex, longitudinally
+striated and grooved in a wrinkled manner, last
+whorl with two indentations behind the lip, lip some‑
+what expanded, aperture rather square, six-toothed;
+horny white, interior of the aperture stained here and
+there with purple-brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="128" y="1128"/>
+	<Point x="908" y="1128"/>
+	<Point x="908" y="1173"/>
+	<Point x="616" y="1174"/>
+	<Point x="616" y="1223"/>
+	<Point x="128" y="1223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Clausilia sex-dentata, Spix, Test. Bras., pl. 14. f. 3.
+Pupa sex-dentata, Wagner.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="126" y="1228"/>
+	<Point x="325" y="1228"/>
+	<Point x="325" y="1263"/>
+	<Point x="126" y="1263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="124" y="1285"/>
+	<Point x="1015" y="1285"/>
+	<Point x="1015" y="1383"/>
+	<Point x="124" y="1383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Of a peculiarly cylindrical form, grooved and striated in
+a wrinkled manner much after the fashion of a Pupa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="336" y="1430"/>
+	<Point x="796" y="1430"/>
+	<Point x="796" y="1484"/>
+	<Point x="336" y="1484"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 225. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="120" y="1489"/>
+	<Point x="1012" y="1489"/>
+	<Point x="1012" y="1781"/>
+	<Point x="664" y="1781"/>
+	<Point x="664" y="1828"/>
+	<Point x="192" y="1827"/>
+	<Point x="192" y="1535"/>
+	<Point x="120" y="1535"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS PUNCTULATISSIMUS. Bul. testâ cylindraceo-fusi-
+formi, basi subcarinatâ et umbilicatâ, spirœ suturis sub-
+impressis; aufractibus octo ad novem, transversim sub-
+tilissimè striatis et undique superﬁcialiter indentatis,
+labro latè expanso, aperturâ subcontractâ, septem-
+dentatâ; semipellucido-albâ, opaco-albâ ad suturas,
+aperturœ fauce purpureo-fuscâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="118" y="1832"/>
+	<Point x="1006" y="1831"/>
+	<Point x="1005" y="2210"/>
+	<Point x="563" y="2210"/>
+	<Point x="190" y="2209"/>
+	<Point x="188" y="1872"/>
+	<Point x="118" y="1873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE FINELY PUNCTURED BULIMUS. Shell cylindrically
+fusiform, slightly keeled and umbilicated at the base,
+sutures of the spire somewhat impressed; whorls eight
+to nine in number, transversely very ﬁnely striated
+and everywhere superﬁcially indented, lip broadly
+expanded, aperture somewhat contracted, seven-
+toothed; semitransparent white, opake white at the
+sutures, interior of the aperture purple-brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="113" y="2213"/>
+	<Point x="1000" y="2213"/>
+	<Point x="1001" y="2269"/>
+	<Point x="383" y="2268"/>
+	<Point x="383" y="2306"/>
+	<Point x="113" y="2306"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Clausilia punctulatatissima, Lesson, Voyage de la Coquille,
+pl. 15. f. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="188" y="2310"/>
+	<Point x="691" y="2310"/>
+	<Point x="691" y="2353"/>
+	<Point x="188" y="2353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pupa septem-plicata, Rossmasler.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="102" y="2417"/>
+	<Point x="1002" y="2417"/>
+	<Point x="1002" y="2564"/>
+	<Point x="102" y="2564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is incorrect to say that this shell is punctured; the
+surface is covered with superﬁcial indentations, and it is
+encircled throughout with very ﬁne impressed striæ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="897" y="2834"/>
+	<Point x="1133" y="2834"/>
+	<Point x="1133" y="2874"/>
+	<Point x="897" y="2874"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>October, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1065" y="842"/>
+	<Point x="1965" y="842"/>
+	<Point x="1964" y="894"/>
+	<Point x="1458" y="894"/>
+	<Point x="1458" y="937"/>
+	<Point x="1065" y="937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A pretty delicately coloured shell with merely a simple
+plait upon the columella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1050" y="1841"/>
+	<Point x="1950" y="1841"/>
+	<Point x="1950" y="1984"/>
+	<Point x="1050" y="1984"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A ﬁne species in which the surface is peculiarly longi‑
+tudinally indented, the lip widely expanded, and richly
+coloured, and the teeth of the aperture prominent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1047" y="2387"/>
+	<Point x="1941" y="2387"/>
+	<Point x="1935" y="2669"/>
+	<Point x="1124" y="2669"/>
+	<Point x="1125" y="2425"/>
+	<Point x="1047" y="2425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TOOTHED-MOUTH BULIMUS. Shell cylindrically
+elongated, double-keeled and rather largely umbili-
+cated at the base, whorls seven in number, convex,
+obliquely very closely ﬁnely striated, striæ raised,
+very minutely granulated; aperture produced, seven-
+toothed; coppery-brown, aperture reddish.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="heading">
+	<Coords>
+	<Point x="323" y="2607"/>
+	<Point x="776" y="2607"/>
+	<Point x="776" y="2658"/>
+	<Point x="323" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 226. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="102" y="2668"/>
+	<Point x="1003" y="2668"/>
+	<Point x="1003" y="2815"/>
+	<Point x="102" y="2815"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS JANEIFRENSIS. Bul. testâ cylindraceo-fusiformi.
+umbilicatâ, anfractibus octo ad novem, corneis, nitidulis,
+striis obliquis, elevatiusculis, opaco-albis, fasciis longitu-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1151" y="394"/>
+	<Point x="1973" y="394"/>
+	<Point x="1973" y="492"/>
+	<Point x="1471" y="490"/>
+	<Point x="1150" y="488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dinalibus ornatis, columellâ uni-plicatâ; aperturâ
+subquadratâ, labro expanso, rosaceo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1070" y="491"/>
+	<Point x="1135" y="491"/>
+	<Point x="1142" y="493"/>
+	<Point x="1978" y="499"/>
+	<Point x="1978" y="734"/>
+	<Point x="1566" y="731"/>
+	<Point x="1529" y="731"/>
+	<Point x="1144" y="727"/>
+	<Point x="1144" y="526"/>
+	<Point x="1070" y="526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE JANEIRO BULIMUS. Shell cylindrically fusiform,
+umbilicated, whorls eight to nine in number, horny,
+shining, ornamented with oblique opake white striæ
+and longitudinal waved bands, columella plaited;
+aperture somewhat square, lip expanded, pink.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1071" y="730"/>
+	<Point x="1271" y="730"/>
+	<Point x="1276" y="734"/>
+	<Point x="1762" y="737"/>
+	<Point x="1762" y="775"/>
+	<Point x="1382" y="776"/>
+	<Point x="1376" y="770"/>
+	<Point x="1071" y="770"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOWERBY, Conchological Illustrations, f. 97.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="1070" y="780"/>
+	<Point x="1400" y="780"/>
+	<Point x="1400" y="820"/>
+	<Point x="1070" y="820"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Janeiro, Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="1065" y="1296"/>
+	<Point x="1975" y="1296"/>
+	<Point x="1975" y="1537"/>
+	<Point x="1472" y="1534"/>
+	<Point x="1472" y="1579"/>
+	<Point x="1136" y="1579"/>
+	<Point x="1136" y="1330"/>
+	<Point x="1065" y="1330"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WORM-EATEN BULIMUS. Shell oblong-fusiform,
+umbilicated, whorls eight in number, somewhat ven-
+tricose, peculiarly wrinkled and longitudinally in‑
+dented; lip very widely expanded, aperture somewhat
+squarely ovate, four-toothed, teeth laminated; greyish
+white, lip purple-red.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="heading">
+	<Coords>
+	<Point x="1272" y="989"/>
+	<Point x="1742" y="989"/>
+	<Point x="1742" y="1043"/>
+	<Point x="1272" y="1043"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 227. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="1064" y="1053"/>
+	<Point x="1962" y="1053"/>
+	<Point x="1960" y="1294"/>
+	<Point x="1140" y="1292"/>
+	<Point x="1140" y="1091"/>
+	<Point x="1064" y="1091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS EXESUS. Bul. testâ oblongo-fusiformi, umbilicatâ,
+anfractibus octo, subventricosis, peculiariter corrugatis
+et longitudinaliter indentatis; labro latissimè expanso,
+aperturâ subquadrato-ovali, quadridentatâ, dentibus
+laminatis; griseo-albicante, labro purpureo-rufescente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="1053" y="1777"/>
+	<Point x="1263" y="1777"/>
+	<Point x="1263" y="1815"/>
+	<Point x="1053" y="1815"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="heading">
+	<Coords>
+	<Point x="1262" y="2033"/>
+	<Point x="1730" y="2033"/>
+	<Point x="1730" y="2079"/>
+	<Point x="1262" y="2079"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 228. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords>
+	<Point x="1050" y="2084"/>
+	<Point x="1952" y="2084"/>
+	<Point x="1952" y="2336"/>
+	<Point x="1487" y="2337"/>
+	<Point x="1488" y="2383"/>
+	<Point x="1113" y="2383"/>
+	<Point x="1112" y="2140"/>
+	<Point x="1050" y="2139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS ODONTOSTOMA. Bul. testâ cylindraceo-elongatâ,
+basi bicarinatâ et subampliter umbilicatâ, anfractibus
+septam, convexis, obliquè creberrimè subtiliter striatis,
+striis elevatis, minutissimè granulatis; aperturâ pro‑
+ductâ, septem-dentatâ, marginibus conjunctis; cupreo-
+fuscâ, aperturâ rubente.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r67">
+	<Coords>
+	<Point x="1037" y="388"/>
+	<Point x="1059" y="389"/>
+	<Point x="1058" y="768"/>
+	<Point x="1042" y="1578"/>
+	<Point x="1035" y="2823"/>
+	<Point x="1011" y="2825"/>
+	<Point x="1014" y="2545"/>
+	<Point x="1017" y="2269"/>
+	<Point x="1029" y="1555"/>
+	<Point x="1037" y="947"/>
+	<Point x="1038" y="599"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r68">
+	<Coords>
+	<Point x="332" y="1394"/>
+	<Point x="332" y="1422"/>
+	<Point x="818" y="1422"/>
+	<Point x="818" y="1394"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r69">
+	<Coords>
+	<Point x="366" y="2577"/>
+	<Point x="770" y="2577"/>
+	<Point x="770" y="2600"/>
+	<Point x="366" y="2600"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r70">
+	<Coords>
+	<Point x="1295" y="953"/>
+	<Point x="1749" y="953"/>
+	<Point x="1749" y="972"/>
+	<Point x="1295" y="972"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r71">
+	<Coords>
+	<Point x="1266" y="1993"/>
+	<Point x="1266" y="2019"/>
+	<Point x="1737" y="2019"/>
+	<Point x="1737" y="1993"/></Coords></SeparatorRegion>
+	<TextRegion id="r72" type="paragraph">
+	<Coords>
+	<Point x="103" y="2357"/>
+	<Point x="311" y="2357"/>
+	<Point x="311" y="2394"/>
+	<Point x="103" y="2394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r74" type="paragraph">
+	<Coords>
+	<Point x="1058" y="1584"/>
+	<Point x="1746" y="1584"/>
+	<Point x="1746" y="1630"/>
+	<Point x="1058" y="1630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Clausilia exesa, Spix, Test. Bras., pl. 14. f. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r90" type="paragraph">
+	<Coords>
+	<Point x="1044" y="2673"/>
+	<Point x="1766" y="2674"/>
+	<Point x="1763" y="2719"/>
+	<Point x="1512" y="2719"/>
+	<Point x="1496" y="2713"/>
+	<Point x="1043" y="2713"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOWERBY Zool. Journ., vol. i. p. 59. pl. 5. f. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" type="paragraph">
+	<Coords>
+	<Point x="1134" y="1634"/>
+	<Point x="1462" y="1634"/>
+	<Point x="1462" y="1727"/>
+	<Point x="1542" y="1727"/>
+	<Point x="1542" y="1770"/>
+	<Point x="1129" y="1770"/>
+	<Point x="1129" y="1723"/>
+	<Point x="1121" y="1723"/>
+	<Point x="1121" y="1703"/>
+	<Point x="1120" y="1703"/>
+	<Point x="1120" y="1683"/>
+	<Point x="1119" y="1683"/>
+	<Point x="1134" y="1683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pupa exesa, Wagner.
+Pupa ringens, Jay.
+Odontostoma exesum, Beck.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r94" type="paragraph">
+	<Coords>
+	<Point x="1121" y="2722"/>
+	<Point x="1502" y="2722"/>
+	<Point x="1502" y="2771"/>
+	<Point x="1668" y="2771"/>
+	<Point x="1668" y="2813"/>
+	<Point x="1121" y="2813"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pupa odontostoma, Gray.
+Cochlodina Gargantua, De Fèrussac.</Unicode></TextEquiv></TextRegion></Page></PcGts>

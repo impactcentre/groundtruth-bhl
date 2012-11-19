@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672621">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:37:06</Created>
+	<LastChange>2012-02-10T09:55:24</LastChange></Metadata>
+	<Page imageFilename="00672621.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r16" index="5"/>
+	<RegionRefIndexed regionRef="r18" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="788" y="145"/>
+	<Point x="1116" y="145"/>
+	<Point x="1116" y="223"/>
+	<Point x="788" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 425 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="90" y="264"/>
+	<Point x="1835" y="264"/>
+	<Point x="1835" y="621"/>
+	<Point x="90" y="621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aineuse que le type), du nord du Caucase, qui est plus fon-
+cée que ne le sont les Lupinus de la Russie méridionale et de
+Kouldjà, et qui par le revers noirâtre des premières ailes, ap-
+partient à une variété bien diﬀérente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="90" y="633"/>
+	<Point x="1840" y="633"/>
+	<Point x="1840" y="883"/>
+	<Point x="90" y="883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette variété du Caucase, se retrouve en Sibérie (Irkutsk,
+etc.) et constitue une race, qui mériterait peut-être bien un
+nom de variété.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="85" y="892"/>
+	<Point x="1840" y="892"/>
+	<Point x="1840" y="1145"/>
+	<Point x="85" y="1145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Toutes les diﬀérences entre les variétés que j'ai énumérées,
+sont accentuées plus fortement chez les ♂♂, plus faiblement et
+parfois presque pas, chez les ♀♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="88" y="1154"/>
+	<Point x="1838" y="1154"/>
+	<Point x="1838" y="1664"/>
+	<Point x="88" y="1664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les individus que je considère comme Lycaon typiques des
+montagnes du Tian-Chian, portent traces d'une bande exté-
+rieure fauve, aux premières ailes, et, quelques ♂♂, ont en
+outre, deux points antimarginaux (le deuxiême étant placé dans
+la II cellule) au lieu d'en avoir un seul subapical, comme le
+type d'Europe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="545" y="1754"/>
+	<Point x="1373" y="1754"/>
+	<Point x="1373" y="1847"/>
+	<Point x="545" y="1847"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>99. E. Interposita Ersch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="685" y="2261"/>
+	<Point x="1230" y="2261"/>
+	<Point x="1230" y="2371"/>
+	<Point x="685" y="2371"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>100. E. species?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="90" y="2428"/>
+	<Point x="1859" y="2428"/>
+	<Point x="1859" y="3130"/>
+	<Point x="90" y="3130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quelques ♂♂ d'une espèce probablement nouvelle, qui à été
+aussi prise dans l'Ala-Tau par Haberhauer. Le Dr. Stau-
+dinger l'avait tout d'abord déterminée comme Pulchella Fel-
+der, et eﬀectivement c'est une espèce voisine de cette dernière
+à en juger par le dessous surtout. Depuis j'ai reçu du Dr.
+Staudinger un ♂sous le nom de Naubidensis Ersch. (Lép.
+d. Turkestan etc.) qui ne me parut pas être distinct des Pul-
+chella douteux de l'Ala-Tau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1854" y="1900"/>
+	<Point x="1854" y="2000"/>
+	<Point x="1072" y="2000"/>
+	<Point x="1072" y="1999"/>
+	<Point x="92" y="1999"/>
+	<Point x="92" y="1900"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un seul ♂, en Mai, près du Tekèsse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1070" y="2001"/>
+	<Point x="1070" y="2002"/>
+	<Point x="1854" y="2002"/>
+	<Point x="1854" y="2185"/>
+	<Point x="92" y="2185"/>
+	<Point x="92" y="2001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cet individu ne diﬀère en rien de ceux rapportés de l'Ala-
+Tau par Haberhauer.</Unicode></TextEquiv></TextRegion></Page></PcGts>

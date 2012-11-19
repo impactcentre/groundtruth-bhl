@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668033">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:24:51</Created>
+	<LastChange>2012-02-10T09:52:32</LastChange></Metadata>
+	<Page imageFilename="00668033.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r21" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r12" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="914" y="211"/>
+	<Point x="1376" y="211"/>
+	<Point x="1376" y="297"/>
+	<Point x="914" y="297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SNOW‐FINCH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1957" y="238"/>
+	<Point x="2111" y="238"/>
+	<Point x="2111" y="295"/>
+	<Point x="1957" y="295"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>105</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="204" y="358"/>
+	<Point x="2083" y="358"/>
+	<Point x="2083" y="608"/>
+	<Point x="204" y="608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ing, and sang regularly in the spring: unfortunately I kept this example in a
+cage, and, at its third moult, all its quills grew out like fans, giving the bird
+a most wild and uncanny aspect; indeed it was such an object that I gave it
+away to some poor child who took a fancy to it.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="204" y="613"/>
+	<Point x="2083" y="613"/>
+	<Point x="2083" y="1046"/>
+	<Point x="204" y="1046"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>About 1889 I again purchased a Brambling from a bird-catcher, and turned
+it into a good-sized aviary with other British species: it soon became fairly tame,
+sang well each spring, and rarely made itself objectionable to its associates; it
+lived principally upon seed, but ate a certain amount of soft food and any chance
+insects which were thrown to it. The plumage of this bird was so perfect that a
+friend who greatly desired to have it for show-purposes persuaded me to let him
+purchase it.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="203" y="1051"/>
+	<Point x="2082" y="1051"/>
+	<Point x="2082" y="1359"/>
+	<Point x="203" y="1359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bramblings have not only bred in conﬁnement, but have been successfully
+crossed with Chaﬃnches. The Natural History Museum at Florence contains
+several hybrids between the Brambling and Chaﬃnch. These specimens show
+ample evidence of their origin, and were netted in a wild state by the Italian
+bird-catchers.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="844" y="1936"/>
+	<Point x="1470" y="1936"/>
+	<Point x="1470" y="2019"/>
+	<Point x="844" y="2019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SNOW‐FINCH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="831" y="2108"/>
+	<Point x="1466" y="2108"/>
+	<Point x="1466" y="2181"/>
+	<Point x="831" y="2181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Montifringilla nivalis, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="289" y="2258"/>
+	<Point x="2084" y="2258"/>
+	<Point x="2084" y="2443"/>
+	<Point x="289" y="2443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N February 1905, a male was shot at Rye Harbour, Sussex. It has occurred
+twice at Heligoland, once in the north of France, and several times in
+Germany.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="316" y="2723"/>
+	<Point x="463" y="2723"/>
+	<Point x="463" y="2830"/>
+	<Point x="316" y="2830"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="1723" y="2726"/>
+	<Point x="1836" y="2726"/>
+	<Point x="1836" y="2802"/>
+	<Point x="1723" y="2802"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="235" y="2271"/>
+	<Point x="282" y="2271"/>
+	<Point x="282" y="2402"/>
+	<Point x="235" y="2402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="216" y="1697"/>
+	<Point x="867" y="1697"/>
+	<Point x="867" y="1790"/>
+	<Point x="216" y="1790"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1380" y="1697"/>
+	<Point x="2105" y="1697"/>
+	<Point x="2105" y="1790"/>
+	<Point x="1380" y="1790"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="1036" y="1506"/>
+	<Point x="1036" y="1532"/>
+	<Point x="1260" y="1532"/>
+	<Point x="1260" y="1506"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="1042" y="2552"/>
+	<Point x="1042" y="2574"/>
+	<Point x="1262" y="2574"/>
+	<Point x="1262" y="2552"/></Coords></SeparatorRegion></Page></PcGts>

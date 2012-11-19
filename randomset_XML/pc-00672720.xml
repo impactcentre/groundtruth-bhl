@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672720">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:03:12</Created>
+	<LastChange>2012-02-10T10:29:45</LastChange></Metadata>
+	<Page imageFilename="00672720.tif" imageWidth="1650" imageHeight="2794">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="681" y="131"/>
+	<Point x="870" y="131"/>
+	<Point x="870" y="162"/>
+	<Point x="681" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>APODEMUS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1358" y="108"/>
+	<Point x="1442" y="108"/>
+	<Point x="1442" y="160"/>
+	<Point x="1358" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>807</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r10">
+	<Coords>
+	<Point x="91" y="200"/>
+	<Point x="1465" y="200"/>
+	<Point x="1465" y="2605"/>
+	<Point x="91" y="2605"/></Coords></TableRegion></Page></PcGts>

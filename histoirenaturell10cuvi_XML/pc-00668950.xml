@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668950">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T10:06:27</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668950.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="732" y="221"/>
+	<Point x="1381" y="221"/>
+	<Point x="1381" y="298"/>
+	<Point x="732" y="298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="423" y="308"/>
+	<Point x="1754" y="308"/>
+	<Point x="1754" y="458"/>
+	<Point x="423" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>distance est double. Elle se marque par une suite
+d'élevures longues, étroites et simples.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="418" y="460"/>
+	<Point x="1759" y="460"/>
+	<Point x="1759" y="1892"/>
+	<Point x="418" y="1892"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On dit que la dorée a reçu ce nom à cause de sa
+couleur jaune, et Bloch l'enlumine en eﬀet d'un jaune
+vif : il est possible qu'elle soit ainsi dans certaines sai-
+sons, ou lorsqu'elle est très-fraîche: mais je ne l'ai vue
+que d'un gris argenté, teint de brun à la partie supé-
+rieure et traversé sur sa longueur de quelques bandes
+jaunâtres, interrompues et mal marquées. Sur chaque
+ﬂanc, à peu près au milieu de l'ovale, est une large
+tache ronde, noirâtre dans son centre, plus noire à
+ses bords et entourée d'un cercle plus pâle que le
+gris-jaunâtre du fond, et encore d'un autre cercle noir
+plus étroit. Cette disposition annulaire, très-pronon-
+cée dans les jeunes individus, s'eﬀace avec l'âge, et la
+tache y devient plus uniformément noire et quelque-
+fois nuageuse. L'abdomen des jeunes garde aussi une
+teinte plus argentée; les nageoires sont noirâtres,
+surtout les ventrales. Les soies de la première dorsale
+sont marquées chacune d'une ligne blanche qui en
+suit la longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="354" y="1925"/>
+	<Point x="1753" y="1925"/>
+	<Point x="1753" y="2166"/>
+	<Point x="354" y="2166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons vu des dorées de deux pieds
+de long, et il y en a, dit-on, de deux pieds
+et demi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="357" y="2180"/>
+	<Point x="1751" y="2180"/>
+	<Point x="1751" y="2340"/>
+	<Point x="357" y="2340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'examen des viscères nous a fait faire les
+observations suivantes :</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="420" y="2388"/>
+	<Point x="1756" y="2388"/>
+	<Point x="1756" y="2700"/>
+	<Point x="420" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'estomac est un sac assez grand; les parois de
+l'œsophage sont d'épaisseur médiocre, celles de l'es-
+tomac sont au contraire fort épaisses et l'intérieur
+est ridé par un grand nombre de gros plis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="363" y="223"/>
+	<Point x="448" y="223"/>
+	<Point x="448" y="289"/>
+	<Point x="363" y="289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>18</Unicode></TextEquiv></TextRegion></Page></PcGts>

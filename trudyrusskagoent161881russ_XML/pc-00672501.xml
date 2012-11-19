@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672501">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:46:21</Created>
+	<LastChange>2012-02-10T09:55:02</LastChange></Metadata>
+	<Page imageFilename="00672501.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="757" y="183"/>
+	<Point x="1069" y="183"/>
+	<Point x="1069" y="255"/>
+	<Point x="757" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 305 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="48" y="376"/>
+	<Point x="1785" y="376"/>
+	<Point x="1785" y="1137"/>
+	<Point x="48" y="1137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Platytrachelus exquisitus n. sp. Oblongus, niger, vi-
+ride submetallescente squamosus, nigro-setosus; antennis tibiisque
+ex parte testaceis; fronte lata; rostro antrorsum angustato an-
+tice subsulcato, obtuse-bicarinato, apice angulato-emarginato,
+scrobibus transversis; prothorace transverso, antice paulo an-
+gustiore, basi minus profunde sinuato, angulis posticis minus
+acutis, productis, remote nigro-punctato, utrinque transverso-
+biimpresso; elytris basi depressis, dorso convexioribus, postice
+declivis, tenue punctato-striatis; femoribus dentatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="171" y="1141"/>
+	<Point x="1098" y="1141"/>
+	<Point x="1098" y="1226"/>
+	<Point x="171" y="1226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 5—7, lat. 1,75—2,9 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="60" y="1316"/>
+	<Point x="1794" y="1316"/>
+	<Point x="1794" y="1901"/>
+	<Point x="60" y="1901"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Geschlechtsunterschiede d. h. Analsegment wie bei Mar-
+moratus, von ihm durch die breite Stirne, die quergestellten,
+daher konvergirenden oberständigen Fühlerfurchen, den ver-
+engten vorne schwach gefurchten und stumpf 2kieligen an
+der Spitze nur ﬂach ausgeschnittenen Rüssel, den viel weniger
+tief gebuchteten Thorax, gleichmässiges Schuppenkleid und die
+schwarzen Borsten verschieden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="73" y="1908"/>
+	<Point x="1803" y="1908"/>
+	<Point x="1803" y="3067"/>
+	<Point x="73" y="3067"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Stirn breit, Rüssel zwischen den Furchen nur halb so
+breit als an der Wurzel mit deutlichen Pterygien, unten abge-
+schnürt, hier nicht höher als an der Spitze. Fühler mit Aus-
+nahme des schwarzen Knopfes röthlich gelb, Schaft deutlicher
+gebogen, konischer, Geisselglied 1 um die Hälfte länger als
+2, dieses doppelt so lang als jedes der übrigen untereinander
+ziemlich gleichen, letztere wenig länger als breit. Thorax
+breiter als lang, vorne wenig schmäler als hinten, Seiten ge-
+rade an den Hinterecken eingezogen, Basis ﬂacher 2buchtig,
+Mittelbogen nach hinten mässig vorgezogen, jederseits mit 2
+seitlichen queren Eindrücken. Decken in beiden Geschlechtern
+über die stumpfen Schultern breiter als die Thoraxbasis, dann
+seitlich schwach ausgerandet, hinter der Mitte wieder breiter,
+die Punkte in den Streifen deutlicher. Beine bis auf die dunk-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="547" y="3092"/>
+	<Point x="547" y="3128"/>
+	<Point x="546" y="3128"/>
+	<Point x="546" y="3149"/>
+	<Point x="228" y="3149"/>
+	<Point x="228" y="3092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="1664" y="3092"/>
+	<Point x="1664" y="3149"/>
+	<Point x="1576" y="3149"/>
+	<Point x="1576" y="3092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20</Unicode></TextEquiv></TextRegion></Page></PcGts>

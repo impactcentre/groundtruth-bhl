@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669258">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:44:11</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669258.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="310" y="326"/>
+	<Point x="1729" y="326"/>
+	<Point x="1729" y="486"/>
+	<Point x="310" y="486"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rans et frêles, qui le distinguent dans les pre‑
+miers momens de son existence.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="313" y="494"/>
+	<Point x="1730" y="494"/>
+	<Point x="1730" y="1258"/>
+	<Point x="313" y="1258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Presque tous les vieux poissons usent plus
+ou moins leurs nageoires, et ceux d’entre eux
+qui les ont d’abord alongées en pointes grêles,
+n’en montrent plus à un certain âge que d’ob‑
+tuses, ou de tronquées. C’est un fait qui a
+lieu surtout dans le lampris ou zeus lema,
+qui ne serait presque plus reconnaissable dans
+la vieillesse, pour ceux qui ne l’auraient vu
+que dans son premier état de fraîcheur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="315" y="1262"/>
+	<Point x="1745" y="1262"/>
+	<Point x="1745" y="1848"/>
+	<Point x="315" y="1848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les trachyptères ne sont point estimés
+comme aliment. Bélon dit que la faux des
+Vénitiens est rejetée de toutes les tables,
+parce que, soit qu’on veuille la frire ou la
+bouillir, elle se résout en gluten ou en colle;
+aussi quelques Italiens la nomment-ils pesce-
+colla (poisson colle).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="319" y="1851"/>
+	<Point x="1750" y="1851"/>
+	<Point x="1750" y="2702"/>
+	<Point x="319" y="2702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rondelet traite moins mal ses tœnia, en
+les comparant à la sole; mais je crois que
+c’est une des assertions qu’il tire des anciens,
+et qu’il mêle à son texte comme s’il était sûr
+qu’elles portent sur la même espèce; c’est
+aussi de cette manière qu’il ajoute que sa chair
+est dure, glutineuse et mal-saine. Or, son idée,
+que ces poissons répondent aux tœnia des
+anciens, n’est pas complètement démontrée.
+Arisiote ne dit qu’un mot (t. II, c. 13) du tœnia:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="316" y="218"/>
+	<Point x="451" y="218"/>
+	<Point x="451" y="292"/>
+	<Point x="316" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>326</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="734" y="223"/>
+	<Point x="1310" y="223"/>
+	<Point x="1310" y="292"/>
+	<Point x="734" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

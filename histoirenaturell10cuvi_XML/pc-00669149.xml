@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669149">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:30:40</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669149.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="149" y="320"/>
+	<Point x="1501" y="320"/>
+	<Point x="1501" y="464"/>
+	<Point x="149" y="464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son squelette a vingt-deux vertèbres, dont neuf
+abdominales et treize caudales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="146" y="474"/>
+	<Point x="1500" y="474"/>
+	<Point x="1500" y="1158"/>
+	<Point x="146" y="1158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les apophyses épineuses des abdominales ont des
+lames osseuses verticales et minces, qui font qu’elles
+se touchent; les interépineux qui leur répondent
+s’articulent aussi entre eux et avec les apophyses
+par des lames semblables, en sorte que toute cette
+partie du dos est soutenue par une cloison osseuse
+continue. Dans les autres parties de l’épine ces lames
+sont moins larges, et celles des apophyses ne s’y
+touchent pas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="92" y="1186"/>
+	<Point x="1496" y="1186"/>
+	<Point x="1496" y="1378"/>
+	<Point x="92" y="1378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’Aagie van Enchuysen (1.re partie, n.° 119,
+copié de Vlaming, n.° 29)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="148" y="1406"/>
+	<Point x="1498" y="1406"/>
+	<Point x="1498" y="1702"/>
+	<Point x="148" y="1702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a le corps en ovale régulier, le proﬁl faisant partie
+de la même courbure; les pointes de la caudale très-
+prolongées en faux; les angles de la dorsale et de
+l’anale arrondis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="86" y="1758"/>
+	<Point x="1493" y="1758"/>
+	<Point x="1493" y="1931"/>
+	<Point x="86" y="1931"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je le soupçonne fort d’appartenir à notre
+acanthure à nageoires jaunes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="89" y="1935"/>
+	<Point x="1500" y="1935"/>
+	<Point x="1500" y="2183"/>
+	<Point x="89" y="2183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est enluminé de noir sur le corps, et
+d’un beau jaune jonquille sur toutes les na‐
+geoires.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="88" y="2188"/>
+	<Point x="1494" y="2188"/>
+	<Point x="1496" y="2360"/>
+	<Point x="1343" y="2358"/>
+	<Point x="1286" y="2358"/>
+	<Point x="1141" y="2356"/>
+	<Point x="1117" y="2356"/>
+	<Point x="1112" y="2354"/>
+	<Point x="87" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans Vlaming, n.° 29, le corps est seule‐
+ment brun foncé, et les nageoires jaune paille.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="91" y="2359"/>
+	<Point x="1045" y="2360"/>
+	<Point x="1419" y="2363"/>
+	<Point x="1438" y="2362"/>
+	<Point x="1500" y="2362"/>
+	<Point x="1499" y="2509"/>
+	<Point x="90" y="2513"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est dit que ce poisson fut pris à l’Isle-de-
+France le 13 Novembre 1680.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="91" y="2524"/>
+	<Point x="1500" y="2524"/>
+	<Point x="1500" y="2708"/>
+	<Point x="91" y="2708"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Valentyn copie cette ﬁgure n.° 499, et l’ap‐
+pelle t-moy-aachje; il assure que c’est un très-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="502" y="237"/>
+	<Point x="1076" y="237"/>
+	<Point x="1076" y="296"/>
+	<Point x="502" y="296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="page-number">
+	<Coords>
+	<Point x="1490" y="222"/>
+	<Point x="1490" y="296"/>
+	<Point x="1362" y="296"/>
+	<Point x="1362" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>217</Unicode></TextEquiv></TextRegion></Page></PcGts>

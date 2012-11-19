@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672356">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:18:41</Created>
+	<LastChange>2012-02-10T09:54:34</LastChange></Metadata>
+	<Page imageFilename="00672356.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1028" y="21"/>
+	<Point x="1346" y="21"/>
+	<Point x="1346" y="89"/>
+	<Point x="1028" y="89"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 162 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="291" y="162"/>
+	<Point x="2053" y="162"/>
+	<Point x="2053" y="583"/>
+	<Point x="291" y="583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>den Anfang der Querader (dessen entschieden sehr feinen,
+weitern Verlauf ich nicht deutlich erkenne); allein bei Diatraea
+ist die Querader als eine sehr feine, abgerundet winklige Quer-
+linie vollständig vorhanden, die sich oben mit dem
+Anfang der Ader 6 vereinigt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="866" y="683"/>
+	<Point x="1498" y="683"/>
+	<Point x="1498" y="771"/>
+	<Point x="866" y="771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diatr. neuricella Z.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="587" y="805"/>
+	<Point x="1453" y="805"/>
+	<Point x="1453" y="873"/>
+	<Point x="587" y="873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ent. Ztg. 1872, p. 465 (Monogr. p. 8).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="294" y="916"/>
+	<Point x="2053" y="916"/>
+	<Point x="2053" y="1167"/>
+	<Point x="294" y="1167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3 ♂♂ von verschiedener Güte wurden am 19 August,
+16 December und 12 April, 1 ♀ am 31 August bei Honda
+Nachts gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="285" y="1173"/>
+	<Point x="2055" y="1173"/>
+	<Point x="2055" y="2255"/>
+	<Point x="285" y="2255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sie haben so wenig wie das zweite columbische ♀ und
+mein Exemplar des Ch. culmicolellus irgend ein braunes Stäub-
+chen auf den Vorderﬂügeln; also fehlt ihnen auch jede Spur
+der zwei Querreihen schwarzer Punkte oder Fleckchen der
+Obliteratella. Dieses, so wie die stumpfere Vorderﬂügelspitze
+des ♂ und die helleren Hinterﬂügel desselben, spricht für die
+speciﬁsche Verschiedenheit von Obliteratella. Jedenfalls ist aber
+mein Chilo culmicolellus (Monogr. p. 7) nichts als eine etwas
+dunkler geaderte weibliche Neuricella. Die Vorderﬂügel ändern
+nicht bloss in der Breite und Streckung (♀ des Culmicolellus
+8‴, der Neuricella ♀ 6—61/2‴, der Neuricella ♂ 5—6‴),
+sondern auch in der Dunkelheit der Adern und in der Deut-
+lichkeit des Queraderpunktes und der feinen Marginalpunkte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="292" y="2260"/>
+	<Point x="2051" y="2260"/>
+	<Point x="2051" y="2748"/>
+	<Point x="292" y="2748"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das ♂ hat breitere Vorderﬂügel als das ♀, mit zwar deut-
+licher, aber doch weniger geschärfter Spitze, und selbst das
+unversehrteste hat keine Spur der Marginalpunkte.
+Die Hinterﬂügelspitze ist stumpfer als beim ♀ und, was im
+Vergleich mit Obliteratella auﬀällt, die Farbe ist so rein
+weiss wie bei jenem Geschlecht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="291" y="2758"/>
+	<Point x="2044" y="2758"/>
+	<Point x="2044" y="3003"/>
+	<Point x="291" y="3003"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Da Culmicolellus um eine Nummer vor Neuricellus steht,
+so werden die Prioritätsrigoristen wahrscheinlich jenen Namen
+bevorzugen. Ich habe Neuricella beibehalten, weil ich die Art</Unicode></TextEquiv></TextRegion></Page></PcGts>

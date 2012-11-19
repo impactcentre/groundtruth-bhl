@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668961">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:37:39</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668961.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="514" y="202"/>
+	<Point x="990" y="202"/>
+	<Point x="990" y="252"/>
+	<Point x="514" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. CAPROS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="533" y="382"/>
+	<Point x="969" y="382"/>
+	<Point x="969" y="443"/>
+	<Point x="533" y="443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES CAPROS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="63" y="537"/>
+	<Point x="1459" y="537"/>
+	<Point x="1459" y="1300"/>
+	<Point x="1226" y="1300"/>
+	<Point x="1218" y="1289"/>
+	<Point x="1205" y="1300"/>
+	<Point x="1050" y="1300"/>
+	<Point x="1034" y="1288"/>
+	<Point x="1016" y="1300"/>
+	<Point x="794" y="1300"/>
+	<Point x="783" y="1289"/>
+	<Point x="765" y="1300"/>
+	<Point x="136" y="1300"/>
+	<Point x="108" y="1306"/>
+	<Point x="90" y="1300"/>
+	<Point x="63" y="1300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le genre des capros, établi par Lacépède,
+a quelques caractères communs avec les zées,
+et surtout la profonde division de la nageoire
+du dos. Mais ils manquent d'aiguillons le long
+de la dorsale et de l'anale. Leur bouche est
+plus protractile que celle de la dorée, et elle
+l'est à la manière des equula ou des gerres.
+Tout le corps est couvert d'écailles dures et
+âpres. Leurs dents sont fort petites.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="78" y="1317"/>
+	<Point x="143" y="1302"/>
+	<Point x="770" y="1302"/>
+	<Point x="781" y="1297"/>
+	<Point x="792" y="1302"/>
+	<Point x="1020" y="1302"/>
+	<Point x="1032" y="1295"/>
+	<Point x="1046" y="1302"/>
+	<Point x="1209" y="1302"/>
+	<Point x="1217" y="1296"/>
+	<Point x="1224" y="1302"/>
+	<Point x="1467" y="1302"/>
+	<Point x="1467" y="2035"/>
+	<Point x="1469" y="2095"/>
+	<Point x="1467" y="2129"/>
+	<Point x="1467" y="2487"/>
+	<Point x="71" y="2487"/>
+	<Point x="71" y="1318"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On n'en connaît qu'une seule espèce peu
+abondante, quoique répandue dans toute la
+Méditerranée. Il paraîtrait qu'elle en sort, mais
+bien rarement; car nous n'avons eu connais-
+sance de sa présence dans nos eaux de l'Océan,
+qu'au mois d'Octobre de l'année 1833. Le
+docteur Henri Boase a communiqué à la so-
+ciété zoologique de Londres le dessin d'un
+poisson, pris dans le Mount's-Bay, sur la côte
+de Cornouailles, qui a été reconnu par les
+ichthyologistes de cette savante société pour
+le capros1. La description jointe à ce dessin,
+convient en tous points au capros, et justiﬁe
+pleinement la détermination.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="136" y="2585"/>
+	<Point x="1020" y="2585"/>
+	<Point x="1020" y="2654"/>
+	<Point x="136" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Procledings of zool. soc., 1833, p. 44.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1359" y="176"/>
+	<Point x="1447" y="176"/>
+	<Point x="1447" y="247"/>
+	<Point x="1359" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>29</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="87" y="2523"/>
+	<Point x="1470" y="2523"/>
+	<Point x="1470" y="2547"/>
+	<Point x="87" y="2547"/></Coords></SeparatorRegion></Page></PcGts>

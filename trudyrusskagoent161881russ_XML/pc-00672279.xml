@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672279">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:58:30</Created>
+	<LastChange>2012-02-10T09:54:18</LastChange></Metadata>
+	<Page imageFilename="00672279.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="795" y="93"/>
+	<Point x="1102" y="93"/>
+	<Point x="1102" y="170"/>
+	<Point x="795" y="170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 85 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="76" y="230"/>
+	<Point x="1831" y="230"/>
+	<Point x="1831" y="491"/>
+	<Point x="76" y="491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eher eine Varietät der Thymiella sein mag. Doch kann es
+auch eine davon verschiedene sehr ähnliche Art sein. Erst
+weitere Exemplare werden hierüber entscheiden lassen können.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="70" y="518"/>
+	<Point x="1827" y="518"/>
+	<Point x="1827" y="1269"/>
+	<Point x="70" y="1269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pemp. Fusca H w. Nachträglich ﬁnde ich noch ein ziem‐
+lich scharf gezeichnetes ♂ dieser Art aus Lederer’s Samm‐
+lung mit der Bezeichnung « Brussa ». Mann hat es vielleicht
+auf dem Olymp dort gefunden und in seiner Aufzählung ver‐
+gessen. Auch Johann sandte mir von Amasia ein am 31 Mai
+gefundenes dunkles ♀ (vielleicht vom Ak-Dagh) ein, das ich
+nur zu Fusca ziehen kann. Die äussere gezackte Querlinie
+ist sehr verloschen und statt der inneren steht hier nur ein
+am Innenrand aufsitzendes weisses Strichelchen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="73" y="1290"/>
+	<Point x="1826" y="1290"/>
+	<Point x="1826" y="1555"/>
+	<Point x="73" y="1555"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pemp. Obductella F. R. Johann sandte mir ein am 10 Juli
+bei Amasia gefangenes Stück ein, das äusserst verloschene
+Zeichnung der Vorderﬂügel hat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="58" y="1577"/>
+	<Point x="1823" y="1577"/>
+	<Point x="1823" y="3112"/>
+	<Point x="58" y="3112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pempelia Diﬀusa Stgr. n. sp. Johann sandte mir ein
+am 30 Mai bei Amasia gefundenes ganz frisches ♂ ein, das
+mit dem bei Adornatella erwähnten etwas zerfressenen, aber
+sonst auch frischem Stück eine Art bildet, die ich nach die‐
+sen zwei Stücken nicht mehr zu Adornatella ziehen kann.
+Diﬀusa ist so gross als grössere Adornatella (23 mm.), die
+Vorderﬂügel sind aber dunkler, und fast ganz zeichnungslos.
+Man kann die Vorderﬂügel als schwarzgrau bezeichnen, mit
+rothbraunen Schuppen, besonders im Discus, wenig auﬀällig
+bestreut, und ebenso wenigen weisslichen Schuppen, weit we‐
+niger als bei Adornatella, Subornatella etc. Eine eigentliche
+Zeichnung bilden diese gar nicht, und nur nach der Analogie
+bei den andern Arten lassen sie die Spuren einer äusseren
+Querlinie vermuthen. Ebenso sind die beiden schwarzen Punkte
+am Ende der Mittelzelle nur ganz schwach angedeutet. Die
+Hinterﬂügel sind dunkel grau, dunkler als bei Adornatella;
+die Fransen haben eine dunklere Basallinie. Die Palpen
+sind äusserlich dunkel, innen wie der Kopf und Prothorax</Unicode></TextEquiv></TextRegion></Page></PcGts>

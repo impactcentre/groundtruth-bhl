@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667927">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:13:50</Created>
+	<LastChange>2012-02-10T09:52:23</LastChange></Metadata>
+	<Page imageFilename="00667927.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="712" y="206"/>
+	<Point x="1445" y="206"/>
+	<Point x="1445" y="270"/>
+	<Point x="712" y="270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWO-BARRED CROSSBILL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1945" y="212"/>
+	<Point x="2016" y="212"/>
+	<Point x="2016" y="270"/>
+	<Point x="1945" y="270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>51</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="129" y="335"/>
+	<Point x="2035" y="335"/>
+	<Point x="2035" y="764"/>
+	<Point x="282" y="765"/>
+	<Point x="129" y="764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>numbers of American Passeres imported yearly to this country, it would be indeed
+surprising if some of them did not fall victims to the desire implanted in the
+hearts of many collectors to secure every strange bird which they see; moreover,
+quiet and conﬁding as the Crossbills and Rose-ﬁnches are in conﬁnement, they
+are in some respects far less attractive pets than many other birds; therefore it
+is quite conceivable that the owner might weary of them, and give them their
+liberty.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="119" y="774"/>
+	<Point x="2025" y="774"/>
+	<Point x="2026" y="1079"/>
+	<Point x="119" y="1079"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This near relative of our common species, agrees very closely with it in its
+habits, frequenting and breeding in forests of conifers, and feeding largely upon
+the seeds of these trees: in conﬁnement it is said to be very fond of apples;
+but I suspect, as is the case with the common Crossbill, it merely chews up and
+drops the fruit in order to secure the pips, which these birds eat with great relish.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="129" y="1083"/>
+	<Point x="2035" y="1083"/>
+	<Point x="2035" y="1267"/>
+	<Point x="129" y="1267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The nest is described by Mr. Dresser, as chieﬂy diﬀering from that of L.
+curvirostra in being smaller and slighter; the eggs also are said to resemble very
+closely those of the common species, but are smaller and darker.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="132" y="1270"/>
+	<Point x="2035" y="1270"/>
+	<Point x="2035" y="1579"/>
+	<Point x="132" y="1579"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The song is stated to be superior; but, as the common Crossbill can hardly
+be said to have a song worth mentioning, it need not be especially meritorious
+on that account; indeed, Herr Mathias Rausch speaks of the Crossbills collectively
+(Geﬁederte Welt, Vol. XX, p. 396) as of triﬂing value as cage-birds, on account
+of their song; with which opinion Major Alexander von Homeyer (p. 489) agrees.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="129" y="1583"/>
+	<Point x="2032" y="1583"/>
+	<Point x="2032" y="2174"/>
+	<Point x="129" y="2174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Herr Gätke says that in 1889 this species “occurred more frequently (on
+Heligoland) than on any previous occasion. On the 14th of August I obtained
+a beautiful scarlet-red male, and an old female. On the 1st, 16th, 18th, 20th, and
+22nd of September, from two, ﬁve, up to eight males and females were seen daily,
+accompanied by larger numbers of the common species; but among all these
+only one bird in the grey-and black-striped early dress. For my collection I
+stuﬀed three ﬁne red old males, a younger yellow male, two old females, and the
+young bird already mentioned. A large number were consigned to cages by
+fanciers: some of them having been sold, the rest subsequently died out.”</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="945" y="2412"/>
+	<Point x="1206" y="2412"/>
+	<Point x="1206" y="2441"/>
+	<Point x="945" y="2441"/></Coords></SeparatorRegion></Page></PcGts>

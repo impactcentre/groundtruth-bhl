@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669211">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:38:02</Created>
+	<LastChange>2012-03-12T14:33:49</LastChange></Metadata>
+	<Page imageFilename="00669211.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="121" y="320"/>
+	<Point x="1528" y="320"/>
+	<Point x="1528" y="1001"/>
+	<Point x="121" y="1001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de la caudale, sont enluminés de jaune. Cette
+caudale est simplement un peu concave au
+bord et sans pointes ni ﬁlets. La corne est
+lisérée en dessous de rouge, elle est du reste
+bleu foncé comme le dos. Un ﬁlet bleu de
+ciel s’étend du bout du museau jusqu’à la
+naissance de la caudale le long de la base de
+la dorsale; le ventre est bleuâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="118" y="1003"/>
+	<Point x="1535" y="1002"/>
+	<Point x="1537" y="1845"/>
+	<Point x="119" y="1846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Valentyn, qui a reproduit cette même ﬁgure
+n.° 393, lui attribue à peu près des couleurs
+semblables, et assure, comme Renard, que c’est
+un poisson gras et de bon goût, et très-commun
+aux Moluques. Peut-être est-ce une espèce
+particulière, mais ce ne serait pas sur de tels
+documens qu’il serait permis de l’introduire
+dans le Système des poissons; j’y aurais ce‑
+pendant un peu moins répugné, si j’en avais
+trouvé l’original dans Vlaming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="126" y="1848"/>
+	<Point x="1550" y="1848"/>
+	<Point x="1550" y="2277"/>
+	<Point x="126" y="2277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous considérons comme un jeune de ce
+nason à museau court, un individu long de
+cinq pouces, sans pointes à la caudale, que
+nous avons reçu de l’Isle-de-France par M. J.
+Desjardins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="193" y="2298"/>
+	<Point x="1550" y="2298"/>
+	<Point x="1550" y="2696"/>
+	<Point x="193" y="2696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En eﬀet, son museau a la même brièveté et le
+même contour; les nombres des rayons sont les
+mêmes; et nous ne lui voyons encore entre les
+yeux qu’un tubercule, qui est sans doute le com‑
+mencement de la corne non développée. Ses bou-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="586" y="234"/>
+	<Point x="1049" y="234"/>
+	<Point x="1049" y="297"/>
+	<Point x="586" y="297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. NASONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1382" y="220"/>
+	<Point x="1516" y="220"/>
+	<Point x="1516" y="297"/>
+	<Point x="1382" y="297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>279</Unicode></TextEquiv></TextRegion></Page></PcGts>

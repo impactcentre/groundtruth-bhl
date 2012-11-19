@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669070">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:21:10</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669070.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="325" y="251"/>
+	<Point x="1748" y="251"/>
+	<Point x="1748" y="436"/>
+	<Point x="1215" y="437"/>
+	<Point x="329" y="433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>car c’est bien sûrement notre première espèce,
+ainsi qu’il est aisé d’en juger par la ﬁgure.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="314" y="436"/>
+	<Point x="996" y="440"/>
+	<Point x="1767" y="442"/>
+	<Point x="1767" y="763"/>
+	<Point x="306" y="763"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Enﬁn le centrogaster fuscescens d’Hout-
+tuyn2, qui est brun dessus et blanchâtre des‐
+sous, ne peut être que l’espèce à laquelle nous
+avons donné le même nom.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="316" y="769"/>
+	<Point x="1751" y="769"/>
+	<Point x="1751" y="1382"/>
+	<Point x="316" y="1382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bloch donne dans son Système posthume,
+pl. 48, la ﬁgure d’un amphacanthe qu’il nomme
+oramin et qu’il croit aussi une variété du gut-
+tatus, mais bien sûrement il ne lui appartient
+pas plus que tous les précédens, et même, si
+cette ﬁgure était correcte, ce serait une espèce
+aussi distincte qu’aucune des autres;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="364" y="1398"/>
+	<Point x="1747" y="1398"/>
+	<Point x="1747" y="2242"/>
+	<Point x="364" y="2242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>elle paraît de couleur rougeâtre; tout son corps est
+rayé en long de jaune, et sur les raies de la moitié supé‐
+rieure, ou entre elles, il y a des séries de taches rondes
+et bleues; des taches nuageuses se montrent entre les
+rayons de la dorsale et de l’anale, et l’on voit quatre
+bandes brunes sur la caudale: du reste, il a tous les
+caractères génériques; sa forme particulière semble se
+rapprocher de celle de notre première espèce, et nous
+savons si bien à quel point Bloch altérait ses ﬁgures,
+que nous ne nous étonnerions point qu’il n’en fût
+en eﬀet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="372" y="2279"/>
+	<Point x="1733" y="2279"/>
+	<Point x="1734" y="2375"/>
+	<Point x="374" y="2375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce nom d’oramin que Bloch dit lui être</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="294" y="2484"/>
+	<Point x="1744" y="2484"/>
+	<Point x="1744" y="2651"/>
+	<Point x="294" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Zoophyl., pl. 8, ﬁg. 4. — 2. Mém. de Harlem, t. XX, 2.e
+part., p. 333.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="325" y="146"/>
+	<Point x="484" y="146"/>
+	<Point x="484" y="239"/>
+	<Point x="325" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>138</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="783" y="146"/>
+	<Point x="1311" y="146"/>
+	<Point x="1311" y="239"/>
+	<Point x="783" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="302" y="2409"/>
+	<Point x="302" y="2458"/>
+	<Point x="1731" y="2458"/>
+	<Point x="1731" y="2409"/></Coords></SeparatorRegion></Page></PcGts>

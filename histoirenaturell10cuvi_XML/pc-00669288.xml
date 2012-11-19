@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669288">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:47:49</Created>
+	<LastChange>2012-03-12T14:33:54</LastChange></Metadata>
+	<Page imageFilename="00669288.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="449" y="280"/>
+	<Point x="1781" y="280"/>
+	<Point x="1781" y="652"/>
+	<Point x="1395" y="654"/>
+	<Point x="830" y="656"/>
+	<Point x="605" y="661"/>
+	<Point x="446" y="660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quant à sa longueur, et y montre même cinq ou six
+très-petits ﬁlets, que l’on pourrait regarder comme
+des vestiges de rayons de caudale, a la partie dorsale
+entamée et rongée, mais cependant cicatrisée sur
+huit pouces de longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="443" y="664"/>
+	<Point x="830" y="663"/>
+	<Point x="1074" y="662"/>
+	<Point x="1389" y="659"/>
+	<Point x="1471" y="658"/>
+	<Point x="1794" y="657"/>
+	<Point x="1793" y="953"/>
+	<Point x="770" y="956"/>
+	<Point x="747" y="956"/>
+	<Point x="738" y="955"/>
+	<Point x="444" y="953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En calculant et en jugeant par les interépineux
+ce qu’il peut y avoir eu de rayons dans cet espace,
+le nombre total doit avoir été très-approchant de
+trois cent quarante, tous simples.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="655" y="965"/>
+	<Point x="1575" y="965"/>
+	<Point x="1575" y="1032"/>
+	<Point x="655" y="1032"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 6; D. 340; A. 0; C. . . .; P. 14; V. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="399" y="1036"/>
+	<Point x="1797" y="1036"/>
+	<Point x="1797" y="1962"/>
+	<Point x="1127" y="1968"/>
+	<Point x="1114" y="1969"/>
+	<Point x="399" y="1962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je ne puis rien dire de certain sur la cau‐
+dale; mais d’après l’examen que j’ai fait de
+l’extrémité de la queue dans trois individus,
+je doute qu’elle ait été aussi grande que celle
+des trachyptères. La ﬁgure donnée par M.Risso
+dans sa seconde édition, t. III, n.° 43, montre
+une caudale relevée et élargie comme celle des
+trachyptères. Mais quelle conﬁance peut-on
+accorder à une ﬁgure où tout le reste du pois‐
+son a l’air d’être le produit de l’imagination
+ou de la mémoire du peintre?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="394" y="1967"/>
+	<Point x="1013" y="1971"/>
+	<Point x="1021" y="1973"/>
+	<Point x="1029" y="1972"/>
+	<Point x="1127" y="1974"/>
+	<Point x="1134" y="1972"/>
+	<Point x="1155" y="1971"/>
+	<Point x="1363" y="1973"/>
+	<Point x="1385" y="1971"/>
+	<Point x="1793" y="1967"/>
+	<Point x="1793" y="2643"/>
+	<Point x="394" y="2643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il lui attribue dans le texte une caudale
+rougeâtre de douze rayons, sans indiquer tou‐
+tefois la grandeur de cette nageoire, et, ce qui
+est certainement erronné, quatre rayons aux
+ventrales, dont le premier, seul alongé, ferait
+le ﬁlet. Les autres nombres sont d’ailleurs telle‐
+ment diﬀérens, qu’il nous paraît certain que
+M. Risso a très-mal compté ou que son indi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="394" y="179"/>
+	<Point x="523" y="179"/>
+	<Point x="523" y="253"/>
+	<Point x="394" y="253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>356</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="804" y="181"/>
+	<Point x="1364" y="181"/>
+	<Point x="1364" y="250"/>
+	<Point x="804" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

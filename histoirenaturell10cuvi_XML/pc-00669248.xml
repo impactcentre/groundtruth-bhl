@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669248">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:42:15</Created>
+	<LastChange>2012-03-12T14:33:51</LastChange></Metadata>
+	<Page imageFilename="00669248.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="328" y="321"/>
+	<Point x="1741" y="321"/>
+	<Point x="1741" y="747"/>
+	<Point x="758" y="748"/>
+	<Point x="323" y="740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et en eﬀet, le genre auquel ce nom s’applique,
+a toute la région qui est entre l’anus et la cau‐
+dale, tout le dessous de la queue, dépourvus
+de nageoires, et même des petites épines qui
+en sont la représentation dans les Trichiures.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="324" y="744"/>
+	<Point x="773" y="752"/>
+	<Point x="1737" y="750"/>
+	<Point x="1737" y="1679"/>
+	<Point x="1134" y="1679"/>
+	<Point x="327" y="1676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est dans le même sens que Brünnich avait
+composé celui de gymnogaster, pour le
+vogmar d’Islande, poisson qui se rapproche
+presque en tout de ceux qu’on a appelés
+gymnètres; mais le genre auquel ce vogmar
+ou gymnogastre appartient, et qui diﬀère sur‐
+tout des gymnètres par ses ventrales à plu‐
+sieurs rayons, avait été auparavant bien ca‐
+ractérisé par Gouan, et en avait reçu le nom
+de Trachyptère, que nous croyons devoir lui
+être conservé par droit légitime d’ancienneté.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="324" y="1681"/>
+	<Point x="1735" y="1683"/>
+	<Point x="1735" y="2354"/>
+	<Point x="321" y="2354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ils ont d’ailleurs reçu des noms diﬀérens,
+selon que chaque auteur les a vus plus ou
+moins mutilés. Rondelet et Bélon en ont parlé
+presque en même temps, et en ont donné des
+ﬁgures, mais si diﬀérentes que personne ne
+devinerait qu’elles appartinssent à un même
+genre, peut-être même à une seule espèce,
+et cependant cela est très-vrai.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="321" y="2357"/>
+	<Point x="1739" y="2360"/>
+	<Point x="1739" y="2712"/>
+	<Point x="321" y="2712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le falx Venetorum de Bélon, p. 137, dont
+Gouan (p. 104 et 153), a fait en 1770 son
+genre Trachypterus, adopté ensuite par For-
+ster (Enchir. p. 86), et par Bloch (Syst. posth.,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="335" y="216"/>
+	<Point x="468" y="216"/>
+	<Point x="468" y="292"/>
+	<Point x="335" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>316</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="754" y="216"/>
+	<Point x="1323" y="216"/>
+	<Point x="1323" y="292"/>
+	<Point x="754" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

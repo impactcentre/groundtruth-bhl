@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667908">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:41:50</Created>
+	<LastChange>2012-02-10T09:52:20</LastChange></Metadata>
+	<Page imageFilename="00667908.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="70" y="283"/>
+	<Point x="952" y="283"/>
+	<Point x="982" y="258"/>
+	<Point x="1007" y="283"/>
+	<Point x="1085" y="283"/>
+	<Point x="1137" y="262"/>
+	<Point x="1167" y="283"/>
+	<Point x="2050" y="283"/>
+	<Point x="2050" y="1999"/>
+	<Point x="2069" y="2029"/>
+	<Point x="2050" y="2065"/>
+	<Point x="2050" y="2711"/>
+	<Point x="952" y="2813"/>
+	<Point x="70" y="2711"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="2072" y="1202"/>
+	<Point x="2072" y="1788"/>
+	<Point x="2136" y="1788"/>
+	<Point x="2136" y="1202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GREENFINCH � � �.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="2159" y="1410"/>
+	<Point x="2159" y="1586"/>
+	<Point x="2202" y="1586"/>
+	<Point x="2202" y="1410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 68.</Unicode></TextEquiv></TextRegion></Page></PcGts>

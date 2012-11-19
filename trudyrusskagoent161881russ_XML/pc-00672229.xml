@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672229">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T02:48:41</Created>
+	<LastChange>2012-02-10T09:54:06</LastChange></Metadata>
+	<Page imageFilename="00672229.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="816" y="216"/>
+	<Point x="1132" y="216"/>
+	<Point x="1132" y="285"/>
+	<Point x="816" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 35 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="123" y="348"/>
+	<Point x="1866" y="348"/>
+	<Point x="1866" y="533"/>
+	<Point x="123" y="533"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 43. Même insecte, particule du même muscle 400 fois grossie, le réseau
+n'est autre chose qu'une seule ﬁbre, dessinée dans la ﬁg. 8 et entourée
+des globules, qui n'y sont pas visibles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="128" y="535"/>
+	<Point x="1860" y="535"/>
+	<Point x="1860" y="705"/>
+	<Point x="128" y="705"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 44. Même insecte, 8 fois grossie, le dos de la larve assez agée avec les
+trous de fourreaux, vu de côté extérieur; aux bords de trous on voit
+les tendons de muscles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="116" y="707"/>
+	<Point x="1867" y="707"/>
+	<Point x="1867" y="1305"/>
+	<Point x="116" y="1305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 45. Même insecte, larve bien agée, 8 fois grossie, épimère droit vu de
+côté intérieur; a — tendon de l'abaisseur antérieur de l'aile antérieure,
+b — du postérieur de même aile, с — tendon de l'additionnel antérieur
+de l'abaisseur postérieur de l'aile antérieure, d — du postérieur du
+même muscle, e — tendon de l'abaisseur antérieur de l'aile postérieure,
+f — du postérieur de même aile, g — tendon de l'additionnel antérieur
+de l'abaisseur postérieur de l'aire postérieure, h — du postérieure
+du même muscle, i — partie recourbée de l'épimère, k — tendon de
+l'additionnel de l'abaisseur antérieur de l'aile antérieure, l — de l'an-
+térieur de l'aile postérieur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="110" y="1307"/>
+	<Point x="1880" y="1307"/>
+	<Point x="1880" y="1483"/>
+	<Point x="110" y="1483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 46. Même insecte, larve assez agée, 14 fois grossie; a — tendon du muscle
+antérieur de la patte moyenne, с — du postérieur de la même patte,
+b — tendon de l'élévateur antérieur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="107" y="1485"/>
+	<Point x="1867" y="1485"/>
+	<Point x="1867" y="1721"/>
+	<Point x="107" y="1721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 47. Même insecte, larve assez agée, 10 fois grossie, épimère droit vu de
+côté intérieur, a, b, d, e — tendons d'abaisseurs, c, f—d'additionnels
+postérieurs d'abaisseurs postérieurs, g, h — d'additionnels d'abaisseurs
+antérieurs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="108" y="1723"/>
+	<Point x="1885" y="1723"/>
+	<Point x="1885" y="2089"/>
+	<Point x="108" y="2089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 48. Même insecte, larve assez jeune, 8 fois grossie; a — trou de la hanche
+postérieure, b — de la moyenne, с — tendon de l'abaisseur antérieur
+de l'aile postérieure (apophyse, qui, chez l'insecte parfait, se termine
+par l'aire rhomboïdale), d, e — apophyses sternales, f — stigmate, g,
+h — places d'attache d'abaisseurs postérieurs, n — iliaque, о — ischia-
+tique, i, k, l, m — condyles de hanches.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="99" y="2091"/>
+	<Point x="1869" y="2091"/>
+	<Point x="1869" y="2214"/>
+	<Point x="101" y="2212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 49. Même insecte, larve assez agée, 8 fois grossie, coupe médiane verti-
+cale longitudinale du sternum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="96" y="2221"/>
+	<Point x="1883" y="2221"/>
+	<Point x="1883" y="3005"/>
+	<Point x="96" y="3005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 50. Même insecte, larve assez jeune, 10 fois grossie, sternum vu de côté
+intérieur; a — tendon de l'abaisseur antérieur futur de l'aile posté-
+rieure, à présent il joue le rôle du tendon des muscles sternaux; le
+tendon a dans la moitée gauche est ﬁguré dans sa position natu-
+relle et dans la moitié droite du dessin il est renversé en arrière et
+en dehors; les deux congénères se soudent sur la ligne d d, mais à
+présent ils sont reculés de la ligne médiane en dehors, par ce que le
+sternum, qui est concave intérieurement chez l'insecte, ici est aplati;
+e, e, e, e — tendons d'élévateurs antérieurs et postérieurs, f, f, f, f — apo-
+physes servant à l'insertion de muscles sternaux, k, l, m, n — partie
+membraneuse et postérieure du métathorax, o, p, r, s — partie mem-
+braneuse et antérieure du mésothorax; dans l' e on voit un ﬁlament
+très ﬁn, c'est le tendon ﬁliforme du plus petit chef d'élévateur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="119" y="3010"/>
+	<Point x="1873" y="3010"/>
+	<Point x="1873" y="3194"/>
+	<Point x="119" y="3194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 51. A. grandis L., jeune larve, 40 fois grossie; a — tendon de l'abaisseur
+postérieur de l'aile postérieure, b — tendon de son additionnel anté-
+rieur, с — du postérieur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="1635" y="3205"/>
+	<Point x="1716" y="3205"/>
+	<Point x="1716" y="3253"/>
+	<Point x="1635" y="3253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3*</Unicode></TextEquiv></TextRegion></Page></PcGts>

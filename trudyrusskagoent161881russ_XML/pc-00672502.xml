@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672502">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:46:38</Created>
+	<LastChange>2012-02-10T09:55:02</LastChange></Metadata>
+	<Page imageFilename="00672502.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="999" y="151"/>
+	<Point x="1321" y="151"/>
+	<Point x="1321" y="219"/>
+	<Point x="999" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 306 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="301" y="812"/>
+	<Point x="2053" y="812"/>
+	<Point x="2053" y="2557"/>
+	<Point x="301" y="2557"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Jedenfalls gehören Marmoratus und Exquisitus zu den
+Oxyophthalmes, der oberständigen Fühlerfurchen und des brei-
+ten Rüssels wegen zu den Cyphiceriden nach Lacordaire.
+Von Platytrachelus unterscheiden sich beide Arten durch die
+äusserst schwachen Augenlappen, durch die vorhandenen Wim-
+pern, den vorne abgerundeten Abdominalfortsatz und das zweite
+Abdomensegment, welches nur ebensolang als 3+4 ist. Eine
+neue Gattung für diese beiden Arten aufzustellen unterliess
+ich einstweilen, da für 10 bis jetzt mir grösstentheils nur aus
+der Beschreibung bekannt gewordene Arten 7 Gattungen in
+der Cyphicerus-Gruppe mir einstweilen ausreichend erschienen.
+Im Münchener Catalog sind aufgezählt 4 Gattungen mit 6
+Arten, dazu sind gekommen 3 Gattungen mit 4 Arten aus
+Japan durch Roelofs. Mit Sicherheit ist anzunehmen, dass
+der Ptochus carinaerostris Вoh. S., von Seidlitz als zwei-
+felhafter Ptoèhus behandelt, auch in diese Gruppe gehört. Der
+Ptochus tigrinus Redtb. wird von Seidlitz ebenfalls zu den
+Cyphiceriden gebracht. Mir war die Beschreibung des Tigri-
+nus nicht zugänglich. Oxyophthalmus Steveni Hochh. mit
+starken Augenlappen scheint auch in diese Gruppe zu ge-
+hören.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="324" y="2655"/>
+	<Point x="2060" y="2655"/>
+	<Point x="2060" y="3085"/>
+	<Point x="324" y="3085"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deracanthus Solskyi n. sp. Breviter ovatus, latior,
+niger, totus squamulis cretaceis, argenteo-micantibus tectus, pi-
+losus, prothoracis elytrorumque lateribus hirsuto-ﬁmbriatis; pro-
+thorace longitudine duplo latiore, basi apiceque truncato, intra
+basin et apicem profunde constricto, margine antice alte ele-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="2042" y="275"/>
+	<Point x="2042" y="711"/>
+	<Point x="292" y="711"/>
+	<Point x="292" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>len Borstenkränze am Schienentalus und die Krallen röthlich-
+gelb, Vorderschienen deutlich 2buchtig, Tarsenglied 3 nur
+wenig breiter als 2, schwach schwammig. Schuppen rund an
+den Seiten und unten etwas heller grün und schwach metall-
+glänzend, unten weiss kurz behaart, oben schwarz geborstet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="2042" y="713"/>
+	<Point x="2042" y="803"/>
+	<Point x="292" y="803"/>
+	<Point x="292" y="713"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von mir in Krasnowodsk gefunden.</Unicode></TextEquiv></TextRegion></Page></PcGts>

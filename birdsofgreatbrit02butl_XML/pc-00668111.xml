@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668111">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:33:14</Created>
+	<LastChange>2012-02-10T09:52:37</LastChange></Metadata>
+	<Page imageFilename="00668111.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="717" y="239"/>
+	<Point x="1485" y="242"/>
+	<Point x="1485" y="307"/>
+	<Point x="714" y="307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ROSE‐COLOURED STARLING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1933" y="251"/>
+	<Point x="2030" y="248"/>
+	<Point x="2030" y="303"/>
+	<Point x="1930" y="303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>143</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="144" y="346"/>
+	<Point x="2033" y="346"/>
+	<Point x="2033" y="762"/>
+	<Point x="144" y="762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cleverly imitated the gutteral note of the Missel-Thrush. Unless they are required
+for training, it is better to catch than to rear Starlings, selecting brightly coloured
+males, close-feathered, with long snake-like neck and head, and generally slender
+body: these are really the best birds, although they rarely win at shows unless
+kept warm and forced before their time into summer plumage. Most judges of
+British birds ignore form, being simply attracted by bright colouring.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="164" y="1191"/>
+	<Point x="717" y="1191"/>
+	<Point x="717" y="1260"/>
+	<Point x="164" y="1260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—STURNIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="564" y="1419"/>
+	<Point x="1642" y="1419"/>
+	<Point x="1642" y="1501"/>
+	<Point x="564" y="1501"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ROSE‐COLOURED STARLING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="855" y="1583"/>
+	<Point x="1332" y="1583"/>
+	<Point x="1332" y="1651"/>
+	<Point x="855" y="1651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pastor roseus, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="317" y="1745"/>
+	<Point x="2057" y="1736"/>
+	<Point x="2058" y="2775"/>
+	<Point x="158" y="2773"/>
+	<Point x="158" y="1927"/>
+	<Point x="319" y="1927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F the geographical distribution of this bird, Seebohm says:—“It breeds
+more or less regularly in Asia Minor and on the western shores of the
+Black Sea. The most westerly recorded instance of its breeding in large
+numbers is in Lombardy. At Villafranca, near Verona, in 1875, great numbers
+bred in the castle, having followed in the wake of a ﬂight of locusts. They have
+not been known to breed in Palestine; but Tristram describes enormous numbers
+passing through on their spring migration. Eastwards they breed in South Russia
+and the Caucasus, Turkestan, and South Siberia, as far east as Lake Saisan.
+They have been observed in North-west Persia and Afghanistan in spring. They
+winter in India in enormous numbers, and are occasionally found as far south as
+Ceylon. The most easterly locality recorded of this bird is the Andaman Islands,
+where ﬂocks were seen by Col. Tytler, in January (“Ibis,” 1867, p, 331). At
+this season of the year, and on the spring and autumn migrations, they have
+occurred in almost every country of Europe, from Spain in the west to Sweden
+in the north, and have been known to stray as far south as North Africa, one or
+two examples having been recorded from Egypt and Algeria.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="drop-capital">
+	<Coords>
+	<Point x="154" y="1746"/>
+	<Point x="153" y="1918"/>
+	<Point x="314" y="1918"/>
+	<Point x="312" y="1746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="980" y="935"/>
+	<Point x="980" y="987"/>
+	<Point x="1219" y="987"/>
+	<Point x="1219" y="935"/></Coords></SeparatorRegion></Page></PcGts>

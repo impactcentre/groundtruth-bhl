@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671082">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T10:42:50</Created>
+	<LastChange>2012-03-12T14:34:03</LastChange></Metadata>
+	<Page imageFilename="00671082.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="210" y="426"/>
+	<Point x="2323" y="426"/>
+	<Point x="2323" y="613"/>
+	<Point x="210" y="613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mal findet sich dann noch eine zweite Gliederung direkt vor der ersten Querreihe von Borsten, welche
+einen dunkleren Mesotergit vom Protergit trennt. Eine analoge Dreigliederung weist dann jeweils
+auch das Sternum auf.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="215" y="618"/>
+	<Point x="2326" y="618"/>
+	<Point x="2326" y="1176"/>
+	<Point x="1361" y="1176"/>
+	<Point x="1356" y="1183"/>
+	<Point x="1330" y="1184"/>
+	<Point x="1321" y="1176"/>
+	<Point x="945" y="1177"/>
+	<Point x="921" y="1185"/>
+	<Point x="900" y="1177"/>
+	<Point x="215" y="1176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die drei Uromeren des hinteren Abschnittes (Fig. 16, 20) erwachsener Exemplare
+zeigen wiederum einen untereinander sehr gleichartigen Bau. Sie sind bedeutend schlanker und kürzer
+als die Segmente des mittleren Abschnittes und stark von vorn nach hinten erweitert, um eine tele‐
+skopartige Zusammenschiebung zu gestatten. Sie bestehen aus einem Tergum, einem Sternum und
+einer Lateralplatte, von denen jedes Stück deutlich vier verschieden färbbare Regionen unterscheiden
+Iäßt, in denen ich (mit Berlese) Repräsentanten der vier typischen Segmentzonen erblicke. Auf‐
+fallender Weise ist das Seitenstück den lateralen Teilen des achten Urosternums annähernd
+homostisch, die deutlich ausgeprägte Subsegmentierung spricht jedoch dafür, daß es sich um eine
+Pleura, nicht aber um eine frei gewordene Beinanlage handelt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="880" y="1184"/>
+	<Point x="926" y="1190"/>
+	<Point x="943" y="1183"/>
+	<Point x="1311" y="1184"/>
+	<Point x="1327" y="1188"/>
+	<Point x="1363" y="1188"/>
+	<Point x="1369" y="1183"/>
+	<Point x="2324" y="1188"/>
+	<Point x="2326" y="1432"/>
+	<Point x="1014" y="1430"/>
+	<Point x="1003" y="1433"/>
+	<Point x="976" y="1434"/>
+	<Point x="956" y="1424"/>
+	<Point x="216" y="1420"/>
+	<Point x="219" y="1181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das Endsegment oder Telson (Tel) schließlich besteht aus einer dorsalen und einer ein‐
+fachen ventralen Platte, zwischen denen an den Seiten noch ein kleines, eine starke Borste tragendes
+Seitenstück liegt. Die beiden Hauptplatten des Telson haben etwa halbkreisförmige Gestalt und
+schließen zwischen sich die Mündung des Enddarmes (An) ein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="213" y="1431"/>
+	<Point x="956" y="1433"/>
+	<Point x="975" y="1441"/>
+	<Point x="1006" y="1440"/>
+	<Point x="1018" y="1435"/>
+	<Point x="2326" y="1437"/>
+	<Point x="2332" y="1746"/>
+	<Point x="1151" y="1744"/>
+	<Point x="1116" y="1740"/>
+	<Point x="211" y="1737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zwischen dem Telson und dem elften Abdominalsegment liegt bei beiden Geschlechtern die
+unpaare Öffnung für den Genitalapparat (Tep). Derselbe ist normaler Weise in das Abdomen voll‐
+ständig eingezogen. Bei der Beobachtung des lebenden Tieres in Wasser kann man aber in der Regel
+durch leichten Druck seine Ausstülpung erreichen. Eine Konservierung in ausgestrecktem Zustande
+gelingt fast nur bei der von Berlese angegebenen Fixation mit erwärmten Eisessiggemischen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="200" y="1743"/>
+	<Point x="1103" y="1746"/>
+	<Point x="1165" y="1751"/>
+	<Point x="2329" y="1750"/>
+	<Point x="2332" y="2056"/>
+	<Point x="999" y="2056"/>
+	<Point x="970" y="2051"/>
+	<Point x="212" y="2048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Am männlichen Genitalapparate (Fig. 26—29) lassen sich zwei Haupt‐
+abschnitte unterscheiden. Es ist dies zunächst ein basaler (beziehungsweise peripherer) Teil, welcher
+der Peniskapsel (Forceps) anderer Insekten entspricht, und von Berlese als Periphallus (perifallo)
+bezeichnet wird. An ihn schließt sich dann als zweites (zentrales) Stück, der eigentliche Penis oder
+Phallus (fallo) Berleses mit der paarigen Sexualöffnung an.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="211" y="2053"/>
+	<Point x="948" y="2058"/>
+	<Point x="1006" y="2062"/>
+	<Point x="1545" y="2061"/>
+	<Point x="2314" y="2063"/>
+	<Point x="2317" y="3038"/>
+	<Point x="337" y="3038"/>
+	<Point x="318" y="3046"/>
+	<Point x="207" y="3047"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der Forceps von Eosentomon wird zur Hauptsache repräsentiert durch einen unpaaren
+Grundabschnitt. Derselbe besteht aus einem schmalen ventralen Chitinbügel (Fc), von dessen bogen-
+förmig verdicktem Hinterrande sich jederseits ein langes stabförmiges Apodem (Fap) nach vorn
+erstreckt. Bei ausgestrecktem Forceps stehen beide Chitinstäbe nahezu parallel, befindet sich das
+Kopulationsorgan in Ruhe, so konvergieren sie so stark, daß sie gelegentlich sich berühren oder
+überkreuzen. Beide Apodemen sind anfänglich gerade und ragen horizontal in das Lumen der Ab‐
+dominalringe hinein; nur das letzte Viertel ist gleichmäßig nach oben umgebogen. Auf der Dorsal‐
+seite ist der Chitinbügel ringförmig geschlossen, doch ist dort das Chitin weicher und dünner, so daß
+es bei den verschiedenen Stellungen der Apodemen nachgeben kann. Der Distalrand des Chitinbügels
+trägt auf der Ventralseite in jeder Ecke eine kurze Borste. Seitlich geht von ihm die eingestülpte
+äußere Körperhülle ab und läßt so einen internen (Fci) und externen (Fce) Teil des Corpus forcipis
+unterscheiden. An das Basalstück schließt sich jederseits noch eine freie Seitenplatte (Fpa) an, die
+wie eine schützende Schiene den Penis flankiert. Dieselbe besteht aus einem dreieckigen Chitinstück,
+welches von mäßig breiter Basis sich endwärts allmählich verjüngt, im letzten Drittel leicht einwärts
+gebogen ist, und mit feiner Spitze endigt. An der Umbiegungsstelle geht eine lange und starke Borste
+(Fps) ab.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="344" y="3046"/>
+	<Point x="2320" y="3046"/>
+	<Point x="2320" y="3124"/>
+	<Point x="344" y="3124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der eigentliche Penis, welcher in der Regel in den Forceps eingezogen ist und nur selten</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1116" y="311"/>
+	<Point x="1116" y="400"/>
+	<Point x="1419" y="400"/>
+	<Point x="1419" y="311"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 22 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

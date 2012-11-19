@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669110">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:26:03</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669110.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="276" y="246"/>
+	<Point x="1751" y="246"/>
+	<Point x="1739" y="1184"/>
+	<Point x="410" y="1184"/>
+	<Point x="374" y="1193"/>
+	<Point x="272" y="1192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>grave, p. 144, qui est dit entièrement de cou‐
+leur noirâtre; mais il faut avouer qu’en ce cas
+la ﬁgure n’a pas le degré d’exactitude ordi‐
+naire à celle de Margrave; le proﬁl y est trop
+court, les ventrales trop longues, l’épine de
+la queue, dont il est parlé dans le texte, n’est
+pas même indiquée par un trait. La ﬁgure
+originale du prince Maurice montre au con‐
+traire cet aiguillon, et a les ventrales dans les
+proportions ordinaires; mais la tête n’y est
+pas mieux rendue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="272" y="1200"/>
+	<Point x="387" y="1199"/>
+	<Point x="417" y="1194"/>
+	<Point x="1747" y="1190"/>
+	<Point x="1745" y="1428"/>
+	<Point x="275" y="1430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette ﬁgure n’est pas enluminée, et le texte
+de Margrave indique la couleur comme noi‐
+râtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="312" y="1438"/>
+	<Point x="1776" y="1438"/>
+	<Point x="1776" y="2024"/>
+	<Point x="312" y="2024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous en avons aussi une ﬁgure assez exacte
+par M. Poey, qui ne présente pas les mêmes
+défauts. Cet observateur ajoute dans une note
+que le corps est noirâtre et qu’il y a du jau‐
+nâtre vers l’extrémité de la pectorale. L’espèce
+parvient quelquefois, selon lui, au poids d’une
+livre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="321" y="2030"/>
+	<Point x="1738" y="2030"/>
+	<Point x="1739" y="2559"/>
+	<Point x="321" y="2559"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette ﬁgure nous fait juger que le barbero
+de Parra, pl. 21, ﬁg. 2, paraît devoir appar‐
+tenir à cette espèce en particulier, d’après sa
+couleur toute entière d’un brun bleuâtre; à
+la vérité son proﬁl est dessiné trop court et
+sa caudale coupée trop carrément.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="330" y="148"/>
+	<Point x="456" y="148"/>
+	<Point x="456" y="229"/>
+	<Point x="330" y="229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>178</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="769" y="148"/>
+	<Point x="1284" y="148"/>
+	<Point x="1284" y="229"/>
+	<Point x="769" y="229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

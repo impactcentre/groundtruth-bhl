@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668942">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T04:35:34</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668942.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="695" y="234"/>
+	<Point x="1350" y="234"/>
+	<Point x="1350" y="294"/>
+	<Point x="695" y="294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="303" y="320"/>
+	<Point x="1739" y="320"/>
+	<Point x="1739" y="1338"/>
+	<Point x="303" y="1338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Paris et fort adonné à la bonne chère, qu'il
+s'était prévalu plus d'une fois de l'ignorance
+des Parisiens pour faire acheter ce poisson à
+bon marché. Bélon1 raconte aussi qu'à Rome
+on n'apprit à connaître son bon goût que par
+les cardinaux français qui y vinrent pour le
+conclave après la mort de Paul III; mais cette
+assertion s'accorde mal avec ce qu'en dit déjà
+Paul-Jove, qui le compare au turbot2. On en
+a la même idée en Espagne, selon Cornide3,
+et Duhamel dit qu'en Janvier, Février et
+Mars il lui est préférable.4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="309" y="1341"/>
+	<Point x="1743" y="1341"/>
+	<Point x="1743" y="2018"/>
+	<Point x="309" y="2018"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est un poisson de haute mer, qui, ne
+vivant point en troupes, ne donne point lieu
+à une pêche expresse: on en prend souvent
+de gros aux cordes avec les merlans, à la
+fouane et dans les parcs il ne s'en prend que
+de plus petits. On s'accorde à lui attribuer,
+lorsqu'il est pris, une espèce de grognement
+plus ou moins semblable à celui des trigles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="312" y="2021"/>
+	<Point x="1736" y="2021"/>
+	<Point x="1736" y="2463"/>
+	<Point x="312" y="2463"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il ne remonte pas beaucoup vers le nord;
+la Faune de Suède ni la Zoologie danoise n'en
+font mention, non plus qu'aucun des auteurs
+qui ont traité des poissons de la Baltique.
+Pennant assure que pendant long-temps on le</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="320" y="2541"/>
+	<Point x="1721" y="2541"/>
+	<Point x="1721" y="2694"/>
+	<Point x="320" y="2694"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Aquat., p. 15o. — 2. Pisc. rom., c. 27. — 3. Ensayo,
+etc., p. 29. — 4. Pêches, 2.e part., 5.e sect., p. 86.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="314" y="218"/>
+	<Point x="412" y="218"/>
+	<Point x="412" y="301"/>
+	<Point x="314" y="301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="316" y="2491"/>
+	<Point x="1700" y="2491"/>
+	<Point x="1700" y="2514"/>
+	<Point x="316" y="2514"/></Coords></SeparatorRegion></Page></PcGts>

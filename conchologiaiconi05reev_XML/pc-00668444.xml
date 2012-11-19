@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668444">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:30:26</Created>
+	<LastChange>2012-02-10T09:53:10</LastChange></Metadata>
+	<Page imageFilename="00668444.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1597" y="245"/>
+	<Point x="2059" y="247"/>
+	<Point x="2059" y="314"/>
+	<Point x="1595" y="309"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus, Pl.XLVI.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords>
+	<Point x="1076" y="400"/>
+	<Point x="1076" y="597"/>
+	<Point x="1234" y="597"/>
+	<Point x="1234" y="400"/></Coords></ImageRegion>
+	<TextRegion id="r5" type="caption">
+	<Coords>
+	<Point x="1154" y="601"/>
+	<Point x="1154" y="628"/>
+	<Point x="1207" y="628"/>
+	<Point x="1207" y="601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>290.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r6">
+	<Coords>
+	<Point x="1782" y="733"/>
+	<Point x="1782" y="982"/>
+	<Point x="1905" y="982"/>
+	<Point x="1905" y="733"/></Coords></ImageRegion>
+	<TextRegion id="r7" type="caption">
+	<Coords>
+	<Point x="1819" y="988"/>
+	<Point x="1819" y="1019"/>
+	<Point x="1884" y="1019"/>
+	<Point x="1884" y="988"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>292.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r8">
+	<Coords>
+	<Point x="1767" y="1398"/>
+	<Point x="1767" y="1664"/>
+	<Point x="1906" y="1664"/>
+	<Point x="1906" y="1398"/></Coords></ImageRegion>
+	<TextRegion id="r10" type="caption">
+	<Coords>
+	<Point x="1817" y="1670"/>
+	<Point x="1817" y="1695"/>
+	<Point x="1902" y="1695"/>
+	<Point x="1902" y="1670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>294 b.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r11">
+	<Coords>
+	<Point x="1744" y="2097"/>
+	<Point x="1744" y="2322"/>
+	<Point x="1911" y="2322"/>
+	<Point x="1911" y="2097"/></Coords></ImageRegion>
+	<TextRegion id="r12" type="caption">
+	<Coords>
+	<Point x="1829" y="2328"/>
+	<Point x="1829" y="2356"/>
+	<Point x="1887" y="2356"/>
+	<Point x="1887" y="2328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>297.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1736" y="2682"/>
+	<Point x="1736" y="2734"/>
+	<Point x="1927" y="2734"/>
+	<Point x="1927" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R, B &amp; R, imp.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r14">
+	<Coords>
+	<Point x="1021" y="2445"/>
+	<Point x="1021" y="2690"/>
+	<Point x="1152" y="2690"/>
+	<Point x="1152" y="2445"/></Coords></ImageRegion>
+	<TextRegion id="r15" type="caption">
+	<Coords>
+	<Point x="1059" y="2694"/>
+	<Point x="1059" y="2720"/>
+	<Point x="1132" y="2720"/>
+	<Point x="1132" y="2694"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>298.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r16">
+	<Coords>
+	<Point x="1037" y="1706"/>
+	<Point x="1037" y="2000"/>
+	<Point x="1200" y="2000"/>
+	<Point x="1200" y="1706"/></Coords></ImageRegion>
+	<TextRegion id="r17" type="caption">
+	<Coords>
+	<Point x="1098" y="2008"/>
+	<Point x="1098" y="2035"/>
+	<Point x="1167" y="2035"/>
+	<Point x="1167" y="2008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>295.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r18">
+	<Coords>
+	<Point x="1068" y="1035"/>
+	<Point x="1068" y="1294"/>
+	<Point x="1200" y="1294"/>
+	<Point x="1200" y="1035"/></Coords></ImageRegion>
+	<TextRegion id="r19" type="caption">
+	<Coords>
+	<Point x="1111" y="1301"/>
+	<Point x="1111" y="1333"/>
+	<Point x="1184" y="1333"/>
+	<Point x="1184" y="1301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>293.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r20">
+	<Coords>
+	<Point x="356" y="729"/>
+	<Point x="356" y="959"/>
+	<Point x="459" y="959"/>
+	<Point x="459" y="729"/></Coords></ImageRegion>
+	<TextRegion id="r21" type="caption">
+	<Coords>
+	<Point x="379" y="964"/>
+	<Point x="379" y="991"/>
+	<Point x="442" y="991"/>
+	<Point x="442" y="964"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>291.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r22">
+	<Coords>
+	<Point x="310" y="1367"/>
+	<Point x="310" y="1635"/>
+	<Point x="447" y="1635"/>
+	<Point x="447" y="1367"/></Coords></ImageRegion>
+	<TextRegion id="r23" type="caption">
+	<Coords>
+	<Point x="350" y="1644"/>
+	<Point x="350" y="1677"/>
+	<Point x="445" y="1677"/>
+	<Point x="445" y="1644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>294. a.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r24">
+	<Coords>
+	<Point x="298" y="2076"/>
+	<Point x="298" y="2325"/>
+	<Point x="460" y="2325"/>
+	<Point x="460" y="2076"/></Coords></ImageRegion>
+	<TextRegion id="r25" type="caption">
+	<Coords>
+	<Point x="364" y="2330"/>
+	<Point x="364" y="2364"/>
+	<Point x="427" y="2364"/>
+	<Point x="427" y="2330"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>296.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="signature-mark">
+	<Coords>
+	<Point x="244" y="2628"/>
+	<Point x="244" y="2674"/>
+	<Point x="473" y="2674"/>
+	<Point x="473" y="2628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G. B. S. del et lith.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672281">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:58:55</Created>
+	<LastChange>2012-02-10T09:54:19</LastChange></Metadata>
+	<Page imageFilename="00672281.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="774" y="79"/>
+	<Point x="1087" y="79"/>
+	<Point x="1087" y="179"/>
+	<Point x="774" y="179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 87 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="44" y="216"/>
+	<Point x="1824" y="216"/>
+	<Point x="1824" y="2672"/>
+	<Point x="44" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hypochalcia Fasciatella Stgr. n. sp. Johann sandte ein
+am 10 Juni bei Amasia gefangenes ganz frisches ♂ ein, das
+mit einer grösseren Zahl von Stücken, die Christoph in der
+ersten Hälfte des Juli bei Schakuh ﬁng, sicher als eine Art
+zusammen gehört. Ich glaube gewiss, dass dies eine von Ahe‐
+nella verschiedene Art ist, da sie einen ganz andern Total-
+Eindruck macht, obgleich die Angabe bestimmter Unterschiede
+um so schwieriger ist, weil beide Arten ziemlich variable sind.
+Fasciatella ist durchschnittlich etwas kleiner, die ♂♂ messen
+18—26 mm. Die Färbung ist eine dunklere, besonders sind
+die Hinterﬂügel fast schwarz mit lichteren (grauen) Fransen.
+Die Vorderﬂügel zeigen fast stets zwei dunklere Querbinden,
+die aber sehr unbestimmt sind, und die bald dichter (vor und
+nach der Mitte), bald weiter aus einander stehn. Sie sind nie
+röthlich braun, wie meist bei Ahenella (wenn sie hier nicht
+ganz fehlen) und verlaufen auch grader. Zuweilen sind sie,
+namentlich die äussere, lichter begrenzt und dazwischen steht
+ein lichter (Mittel) Flecken, der bei einem Stück, wo die Bin‐
+den fehlen, als länglicher weisser Wisch auftritt. Ein Stück
+ist ganz zeichnungslos; das Amasiner zeigt die beiden Querli‐
+nien ziemlich schwach. Christoph fand zwei ♀♀, die durch‐
+aus zu dieser Art gehören müssen, da er weiter keine Hypo‐
+chalcia bei Schakuh fand. Dieselben haben ganz eintönige
+schwarze Flügel, die vorderen sind kohlschwarz mit sehr ge‐
+ringem Glanz. Diese ♀♀ (18—20 mm. gross) sind von denen
+der Ahenella so verschieden, dass an ein Zusammengehören
+beider Arten nicht gedacht werden kann. Wahrscheinlich ge‐
+hörten die von Mann bei Amasia gefundenen Ahenella auch
+zu dieser so ähnlichen Art.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="9" y="2748"/>
+	<Point x="1822" y="2748"/>
+	<Point x="1822" y="3125"/>
+	<Point x="9" y="3125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Acrobasis Bithynella Z. Das pag. 208 als Acrobasis
+spec. ? erwähnte Stück scheint mir nach genauem Vergleich
+ziemlich sicher eine abgeﬂogene Bithynella Z. zu	sein, von
+der ich auch zwei Stücke aus der südlichen Krim von He-</Unicode></TextEquiv></TextRegion></Page></PcGts>

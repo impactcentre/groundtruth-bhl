@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668322">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T02:03:10</Created>
+	<LastChange>2012-02-10T09:52:53</LastChange></Metadata>
+	<Page imageFilename="00668322.tif" imageWidth="2453" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r27" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r29" index="13"/>
+	<RegionRefIndexed regionRef="r33" index="14"/>
+	<RegionRefIndexed regionRef="r38" index="15"/>
+	<RegionRefIndexed regionRef="r37" index="16"/>
+	<RegionRefIndexed regionRef="r17" index="17"/>
+	<RegionRefIndexed regionRef="r18" index="18"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1081" y="130"/>
+	<Point x="1488" y="130"/>
+	<Point x="1488" y="173"/>
+	<Point x="1081" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE XV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="380" y="375"/>
+	<Point x="1262" y="375"/>
+	<Point x="1262" y="569"/>
+	<Point x="380" y="569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>At the Isle of Plata Mr. Cuming found this beautiful
+and well known species in such abundance upon trees
+stripped of their leaves, that they looked as if laden with
+fruit. The animal yields a rich purple juice.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="503" y="625"/>
+	<Point x="1153" y="625"/>
+	<Point x="1153" y="675"/>
+	<Point x="503" y="675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 89. (Fig, a and b. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="386" y="689"/>
+	<Point x="1264" y="689"/>
+	<Point x="1264" y="920"/>
+	<Point x="386" y="920"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS PORPHYRIUS. Bul. testâ subelongato-ovatâ,
+spirâ acuminatâ, anfractibus sex, coucentricè rudè et
+irregulariter elevato-striatis, per marginem superiorem.
+hic illic minutè crenulatis; fumeo-fuscâ, striis concen-
+tricis hic illic albis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="376" y="928"/>
+	<Point x="1263" y="928"/>
+	<Point x="1263" y="1205"/>
+	<Point x="376" y="1205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PORPHYRY BULIMUS. Shell somewhat elongately
+ovate, spire acuminated, whorls six in number, con‐
+centrically, rudely, and irregularly elevately striated,
+and minutely crenulated here and there along the
+upper margin; smoky brown, concentric striæ here
+and there white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="384" y="1215"/>
+	<Point x="983" y="1215"/>
+	<Point x="983" y="1260"/>
+	<Point x="384" y="1260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Zool. Pro. Soc. 1846. p. 114</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="387" y="1264"/>
+	<Point x="574" y="1264"/>
+	<Point x="574" y="1314"/>
+	<Point x="387" y="1314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.—?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="378" y="1326"/>
+	<Point x="1262" y="1326"/>
+	<Point x="1262" y="1665"/>
+	<Point x="378" y="1665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The growth of this shell not being completed, it is im‐
+possible to say whether the lip would remain simple or be
+reﬂected at maturity. It is a very characteristic species and
+cannot easily be confounded with any other; the white
+ridge-like striæ have a rubbed appearance and being on
+a dark ground have a very peculiar aspect. Mr. Cuming
+has no information as to its locality.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="1529" y="216"/>
+	<Point x="1973" y="216"/>
+	<Point x="1973" y="267"/>
+	<Point x="1529" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 90. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1310" y="280"/>
+	<Point x="2208" y="280"/>
+	<Point x="2208" y="566"/>
+	<Point x="1310" y="568"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS ZEBRA. Bul. testâ ovatâ, tenuiculâ, imperforatâ,
+ventricosâ, spirâ acuminatâ, anfractibus subrotundatis
+Iœvibus, columellâ rectâ, labro simplici; viridi, ﬂam-
+mis strigisque minoribus peculiariter undatis ﬂavican-
+tibus ornatâ, columellâ albâ, labro intus castaneo-mar-
+ginato.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1311" y="572"/>
+	<Point x="2206" y="572"/>
+	<Point x="2206" y="856"/>
+	<Point x="1311" y="856"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ZEBRA BULIMUS. Shell ovate, rather thin, imper‐
+forated, ventricose, spire acuminated, whorls some‐
+what rounded, smooth, columella straight, lip simple;
+green, ornamented with peculiarly waved ﬂames and
+lesser streaks of yellow, columella white, lip edged
+internally with chesnut.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1310" y="1107"/>
+	<Point x="2201" y="1107"/>
+	<Point x="2201" y="1200"/>
+	<Point x="1310" y="1200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Nicaragua, Panama, Costa Rico, Veragua, Pernam-
+buco, West Indies.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1307" y="1216"/>
+	<Point x="2206" y="1216"/>
+	<Point x="2206" y="1693"/>
+	<Point x="1307" y="1693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Few species of the genus aﬀect a wider range of country
+than the present, and it is owing to the diﬀerent aspects
+under which it is found, that the above-recorded synonymes
+have arisen. The beautiful variety ﬁgured in the Concho-
+logical Illustrations under the name B. princeps was col‐
+lected by Mr. Cuming in the woods of Nicaragua where it
+inhabits the hollows of trees; the more common variety,
+known as the B. undatus, is found in the West Indies and
+Brazil, and, extremely rich in colour, at Panama and Costa
+Rico.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r19">
+	<Coords>
+	<Point x="1279" y="217"/>
+	<Point x="1278" y="1692"/>
+	<Point x="1291" y="1692"/>
+	<Point x="1295" y="217"/></Coords></SeparatorRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="387" y="316"/>
+	<Point x="1030" y="316"/>
+	<Point x="1030" y="359"/>
+	<Point x="387" y="359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Chili and Peru (on trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1313" y="860"/>
+	<Point x="2197" y="860"/>
+	<Point x="2197" y="905"/>
+	<Point x="1313" y="905"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum zebra, Muller, Verm. Terr, et Fluv. Hist. p. 138.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r28">
+	<Coords>
+	<Point x="596" y="1679"/>
+	<Point x="596" y="1703"/>
+	<Point x="1061" y="1703"/>
+	<Point x="1061" y="1679"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r30">
+	<Coords>
+	<Point x="594" y="593"/>
+	<Point x="1052" y="593"/>
+	<Point x="1052" y="610"/>
+	<Point x="594" y="610"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r31">
+	<Coords>
+	<Point x="1087" y="1968"/>
+	<Point x="1087" y="1992"/>
+	<Point x="1508" y="1992"/>
+	<Point x="1508" y="1968"/></Coords></SeparatorRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="1308" y="907"/>
+	<Point x="1862" y="907"/>
+	<Point x="1862" y="952"/>
+	<Point x="1308" y="952"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus undatus, Bruguière.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1487" y="957"/>
+	<Point x="1487" y="1001"/>
+	<Point x="1308" y="1001"/>
+	<Point x="1308" y="957"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Varietates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="385" y="218"/>
+	<Point x="1261" y="218"/>
+	<Point x="1261" y="266"/>
+	<Point x="870" y="266"/>
+	<Point x="870" y="312"/>
+	<Point x="465" y="312"/>
+	<Point x="465" y="266"/>
+	<Point x="385" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VALENCIENNES, Humboldt, Zool. v. ii. p. 244. pl. 55. f. 4.
+Bulimus iostoma, Sowerby.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="1386" y="1012"/>
+	<Point x="1807" y="1012"/>
+	<Point x="1807" y="1056"/>
+	<Point x="1803" y="1056"/>
+	<Point x="1803" y="1103"/>
+	<Point x="1383" y="1103"/>
+	<Point x="1383" y="1059"/>
+	<Point x="1386" y="1059"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus zigzag, Lamarck.
+Bulimus princeps, Sowerby.</Unicode></TextEquiv></TextRegion></Page></PcGts>

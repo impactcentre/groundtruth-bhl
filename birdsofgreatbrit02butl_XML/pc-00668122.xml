@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668122">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T23:04:23</Created>
+	<LastChange>2012-02-10T09:52:38</LastChange></Metadata>
+	<Page imageFilename="00668122.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="240" y="324"/>
+	<Point x="2137" y="324"/>
+	<Point x="2137" y="1323"/>
+	<Point x="240" y="1323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>years took a ﬁrst prize at the Crystal Palace which seemed to have been ﬁve
+years old in 1887, ten years old in 1890, and twelve years old in 1891; since
+which time it became contented with a twelve-month year: possibly there may
+have been three cock birds; but, with a species the nestlings of which must be
+diﬃcult to secure, this would seem less probable than that an error had occurred
+in stating the age, due perhaps to the fact of no record having been kept to
+which reference could be made. That the Chough can be induced to breed in a
+state of partial domestication has been proved by Lady Nevill (“Zoologist,” 1882,
+p. 431); she says:—“For years when I lived at Dangstein I kept Choughs (P.
+graculus) able to ﬂy where they liked. They once attempted to make a nest in a
+stoke-hole, but were disturbed, and never did so again. On my removal to East
+Sussex I brought the Choughs (two pairs) with me, and the next year one pair
+made their nest in a tower attached to the house, and laid three eggs; but they
+did not sit well, and the eggs were not hatched: two of them were pulled out of
+the nest. The one pair drove the others away, for when they ﬁrst came they all
+roosted in the tower.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="244" y="1334"/>
+	<Point x="2140" y="1334"/>
+	<Point x="2140" y="1721"/>
+	<Point x="244" y="1721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It seems extremely probable that breeding experiments with one pair would
+be successful. There is, however, one very strong objection to Choughs in
+captivity: I understand that my friend Mr. Reginald Phillipps, a very well-known
+aviculturist, at one time attempted to keep these birds; but the noise which they
+made was so appalling that the neighbours were driven to the verge of madness,
+and he wisely parted with his pets before any tragic climax had been arrived at.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1010" y="209"/>
+	<Point x="1359" y="209"/>
+	<Point x="1359" y="273"/>
+	<Point x="1010" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CHOUGH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="253" y="224"/>
+	<Point x="253" y="288"/>
+	<Point x="372" y="288"/>
+	<Point x="372" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>150</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="1081" y="2189"/>
+	<Point x="1081" y="2229"/>
+	<Point x="1300" y="2229"/>
+	<Point x="1300" y="2189"/></Coords></SeparatorRegion></Page></PcGts>

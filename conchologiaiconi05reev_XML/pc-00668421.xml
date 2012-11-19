@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668421">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T15:55:30</Created>
+	<LastChange>2012-02-10T09:53:03</LastChange></Metadata>
+	<Page imageFilename="00668421.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r37" index="6"/>
+	<RegionRefIndexed regionRef="r39" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/>
+	<RegionRefIndexed regionRef="r17" index="14"/>
+	<RegionRefIndexed regionRef="r18" index="15"/>
+	<RegionRefIndexed regionRef="r19" index="16"/>
+	<RegionRefIndexed regionRef="r20" index="17"/>
+	<RegionRefIndexed regionRef="r21" index="18"/>
+	<RegionRefIndexed regionRef="r22" index="19"/>
+	<RegionRefIndexed regionRef="r23" index="20"/>
+	<RegionRefIndexed regionRef="r24" index="21"/>
+	<RegionRefIndexed regionRef="r25" index="22"/>
+	<RegionRefIndexed regionRef="r26" index="23"/>
+	<RegionRefIndexed regionRef="r27" index="24"/>
+	<RegionRefIndexed regionRef="r28" index="25"/>
+	<RegionRefIndexed regionRef="r29" index="26"/>
+	<RegionRefIndexed regionRef="r43" index="27"/>
+	<RegionRefIndexed regionRef="r45" index="28"/>
+	<RegionRefIndexed regionRef="r32" index="29"/>
+	<RegionRefIndexed regionRef="r33" index="30"/>
+	<RegionRefIndexed regionRef="r34" index="31"/>
+	<RegionRefIndexed regionRef="r35" index="32"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="806" y="275"/>
+	<Point x="1219" y="275"/>
+	<Point x="1219" y="346"/>
+	<Point x="806" y="346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="921" y="383"/>
+	<Point x="1110" y="383"/>
+	<Point x="1110" y="427"/>
+	<Point x="921" y="427"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="304" y="467"/>
+	<Point x="778" y="467"/>
+	<Point x="778" y="524"/>
+	<Point x="304" y="524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 244. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="93" y="534"/>
+	<Point x="994" y="534"/>
+	<Point x="994" y="726"/>
+	<Point x="93" y="726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS MEXICANUS. Bul. testâ acuminato-ovatâ, tenui,
+vix umbilicatâ, anfractibus sex ad septem, longitu-
+dinaliter tenuistriatis; columellâ reﬂexâ, labro tenui,
+simplici; albidâ, nigricante-fusco tri-quadri-zonatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="93" y="730"/>
+	<Point x="997" y="730"/>
+	<Point x="997" y="960"/>
+	<Point x="93" y="960"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MEXICAN BULIMUS. Shell acuminately ovate, thin,
+but slightly umbilicated, whorls six to seven in
+number, longitudinally ﬁnely striated; columella
+reﬂected, lip thin, simple; whitish, encircled by three
+or four zones of blackish brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="88" y="965"/>
+	<Point x="994" y="965"/>
+	<Point x="994" y="1056"/>
+	<Point x="88" y="1056"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert., (Deshayes’ edit.) vol. viii. p.
+232.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="97" y="1171"/>
+	<Point x="992" y="1171"/>
+	<Point x="992" y="1264"/>
+	<Point x="97" y="1264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Approximating in general aspect to the B. Caribœorum
+of the West Indies.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="310" y="1349"/>
+	<Point x="774" y="1349"/>
+	<Point x="774" y="1398"/>
+	<Point x="310" y="1398"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 245. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="98" y="1411"/>
+	<Point x="1000" y="1411"/>
+	<Point x="1000" y="1649"/>
+	<Point x="100" y="1651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS LUCIDUS. Bul. testâ oblongo-ovatâ, tenui, corneâ,
+pellucidâ, vix umbilicatâ, anfractibus sex, convexis,
+Iœvibus, nitentibus, sub lente creberrimè spiraliter
+impresso-striatis; columellâ reﬂexâ, labro simplici,
+acuto; pallidè stramineâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="98" y="1653"/>
+	<Point x="999" y="1653"/>
+	<Point x="998" y="1843"/>
+	<Point x="95" y="1843"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CLEAR BULIMUS. Shell oblong ovate, thin, horny,
+transparent, scarcely umbilicated, whorls six in
+number, convex, smooth, shining, very closely spirally
+impressly striated.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="96" y="1847"/>
+	<Point x="556" y="1847"/>
+	<Point x="556" y="1893"/>
+	<Point x="96" y="1893"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. St. Vincents, Guilding.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="319" y="2176"/>
+	<Point x="784" y="2176"/>
+	<Point x="784" y="2228"/>
+	<Point x="319" y="2228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 246. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="102" y="2238"/>
+	<Point x="993" y="2238"/>
+	<Point x="993" y="2530"/>
+	<Point x="102" y="2530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS VIMINEUS. Bul. subpyramidali-ovatâ, basi sub-
+obliquè productâ, vix umbilicatâ, anfractibus septem,
+convexis, glabris; columellâ reﬂexâ, aperturâ obliquè
+angulatâ-eﬀusâ, labro subexpanso, non reﬂexo; albâ,
+luteo et cinereo-cœrulescente conspicuè longitudinaliter
+vittatâ, aperturœ fauce castaneo-fuscâ, labro albo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="97" y="2534"/>
+	<Point x="994" y="2534"/>
+	<Point x="994" y="2677"/>
+	<Point x="97" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WICKER BULIMUS. Shell somewhat pyramidally
+ovate, obliquely produced at the base, scarcely um‐
+bilicated, whorls seven in number, convex, smooth,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1104" y="463"/>
+	<Point x="1936" y="463"/>
+	<Point x="1936" y="707"/>
+	<Point x="1104" y="707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>columella reﬂected, aperture obliquely angularly
+eﬀused, lip somewhat expanded, not reﬂected; white,
+conspicuously longitudinally ﬁlleted with stripes
+of ashy blue and yellow, interior of the aperture
+chesnut-brown, lip white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1034" y="710"/>
+	<Point x="1943" y="710"/>
+	<Point x="1943" y="801"/>
+	<Point x="1034" y="801"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Helix viminea, Moricand, Mém. de Genève, vol. vi. p. 540.
+pl. 1. f. 5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1032" y="804"/>
+	<Point x="1247" y="804"/>
+	<Point x="1247" y="844"/>
+	<Point x="1032" y="844"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1036" y="867"/>
+	<Point x="1942" y="867"/>
+	<Point x="1942" y="961"/>
+	<Point x="1036" y="961"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A very characteristic species both in respect of form and
+colouring.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="1254" y="1007"/>
+	<Point x="1724" y="1007"/>
+	<Point x="1724" y="1055"/>
+	<Point x="1254" y="1055"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 247. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1036" y="1068"/>
+	<Point x="1943" y="1068"/>
+	<Point x="1943" y="1310"/>
+	<Point x="1036" y="1310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS UNDULATUS. Bul. testâ subfusiformi-ovatâ, um‐
+bilicatâ, anfractibus sex ad septem, convexiusculis,
+glabris, ultimo basi obtusè angulatis; columellâ reﬂexâ.
+aperturâ oblongo-ovali, labro acuto, vix reﬂexo; albidâ,
+luteo et livido-brunneo conspicuè undulatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1036" y="1313"/>
+	<Point x="1941" y="1313"/>
+	<Point x="1941" y="1596"/>
+	<Point x="1036" y="1596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WAVED BULIMUS. Shell somewhat fusiformly ovate,
+umbilicated, whorls six to seven in number, rather
+convex, smooth, last whorl obtusely angled at the
+base; columella reﬂected, aperture oblong-oval, lip
+sharp, but slightly reﬂected; whitish, conspicuously
+waved with yellow and livid brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1039" y="1599"/>
+	<Point x="1942" y="1599"/>
+	<Point x="1942" y="1645"/>
+	<Point x="1039" y="1645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimulus undulatus, Guilding, Zool. Journ., vol. iv. p. 169.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1039" y="1648"/>
+	<Point x="1555" y="1648"/>
+	<Point x="1555" y="1691"/>
+	<Point x="1039" y="1691"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. St. Vincents, West Indies.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1038" y="2247"/>
+	<Point x="1936" y="2247"/>
+	<Point x="1936" y="2579"/>
+	<Point x="1038" y="2579"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ANGLED BULIMUS. Shell ovately fusiform, umbili‐
+cated, attenuated at the base, whorls eight in number,
+convex, smooth; columella broadly reﬂected, aperture
+channelled at the lower part, lip somewhat expanded,
+not reﬂected; bluish-white, painted irregularly here
+and there with brown streaks, with a darker streak
+behind the lip, lip white, apex black.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="1032" y="2583"/>
+	<Point x="1748" y="2583"/>
+	<Point x="1748" y="2629"/>
+	<Point x="1032" y="2629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>WAGNER, Spix, Test. Bras., p. 14. pl. 13. f. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="1035" y="2632"/>
+	<Point x="1239" y="2632"/>
+	<Point x="1239" y="2670"/>
+	<Point x="1035" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="882" y="2704"/>
+	<Point x="1134" y="2704"/>
+	<Point x="1134" y="2753"/>
+	<Point x="882" y="2753"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>October, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="174" y="1062"/>
+	<Point x="674" y="1062"/>
+	<Point x="674" y="1109"/>
+	<Point x="174" y="1109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cochlogena vittata, De Férussac.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="93" y="1111"/>
+	<Point x="334" y="1111"/>
+	<Point x="336" y="1150"/>
+	<Point x="93" y="1150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Mexico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="94" y="1906"/>
+	<Point x="998" y="1906"/>
+	<Point x="998" y="2101"/>
+	<Point x="94" y="2101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This shell has the name fragilis attached to it in
+Mr. Cuming’s collection, but it is not the B. fragilis of
+Lamarck, which, according to M. Deshayes, is the young
+of the British Lymnea stagnalis.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r40">
+	<Coords>
+	<Point x="320" y="1295"/>
+	<Point x="783" y="1295"/>
+	<Point x="783" y="1325"/>
+	<Point x="320" y="1325"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r41">
+	<Coords>
+	<Point x="317" y="2124"/>
+	<Point x="783" y="2124"/>
+	<Point x="783" y="2152"/>
+	<Point x="317" y="2152"/></Coords></SeparatorRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1035" y="1703"/>
+	<Point x="1939" y="1703"/>
+	<Point x="1939" y="1804"/>
+	<Point x="1035" y="1804"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A prettily striped species described some years since by
+the Rev. Lansdowne Guilding, but still rare.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="heading">
+	<Coords>
+	<Point x="1252" y="1848"/>
+	<Point x="1723" y="1848"/>
+	<Point x="1723" y="1903"/>
+	<Point x="1252" y="1903"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 248. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="1036" y="1908"/>
+	<Point x="1943" y="1907"/>
+	<Point x="1942" y="2243"/>
+	<Point x="1038" y="2243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS ANGULATUS. Bul. testâ ovato-fusiformi, umbi‐
+licatâ, basi attenuatâ, anfractibus octo, convexis,
+lœvibus; columellâ latè reﬂexâ, aperturâ infernè canali-
+culatâ, labro subexpanso, non reﬂexo; cœrulescente-albâ,
+strigis fuscis longitudinalibus hic illic irregulariter
+pictâ, strigâ saturatiore pone labrum, labro albo, apice
+nigro.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r46">
+	<Coords>
+	<Point x="1255" y="971"/>
+	<Point x="1721" y="971"/>
+	<Point x="1721" y="1001"/>
+	<Point x="1255" y="1001"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r47">
+	<Coords>
+	<Point x="1289" y="1814"/>
+	<Point x="1691" y="1814"/>
+	<Point x="1691" y="1840"/>
+	<Point x="1289" y="1840"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r48">
+	<Coords>
+	<Point x="1004" y="465"/>
+	<Point x="1003" y="2677"/>
+	<Point x="1026" y="2679"/>
+	<Point x="1026" y="465"/></Coords></SeparatorRegion></Page></PcGts>

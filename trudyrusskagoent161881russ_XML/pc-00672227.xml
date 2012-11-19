@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672227">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T02:48:22</Created>
+	<LastChange>2012-02-10T09:54:06</LastChange></Metadata>
+	<Page imageFilename="00672227.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r9" index="5"/>
+	<RegionRefIndexed regionRef="r26" index="6"/>
+	<RegionRefIndexed regionRef="r22" index="7"/>
+	<RegionRefIndexed regionRef="r24" index="8"/>
+	<RegionRefIndexed regionRef="r14" index="9"/>
+	<RegionRefIndexed regionRef="r15" index="10"/>
+	<RegionRefIndexed regionRef="r18" index="11"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="805" y="180"/>
+	<Point x="1110" y="180"/>
+	<Point x="1110" y="251"/>
+	<Point x="805" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 33 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="94" y="735"/>
+	<Point x="1839" y="735"/>
+	<Point x="1839" y="1266"/>
+	<Point x="94" y="1266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 17. C. metalliса Vanderl., adulte, 7 fois grossie; a — additionnel de l'abais-
+seur antérieur de l'aile antérieure, b — élévation antérieure d'épimère,
+с — additionnel antérieur de l'abaisseur postérieur de l'aile antérieure,
+d — additionnel postérieur du même muscle, e — additionnel de l'abais-
+seur antérieur de l'aile postérieure, k — élévation postérieure d'épimère,
+f — abaisseur postérieur de l'aile postérieure, g — muscle sternal pro-
+venant de la hanche moyenne, h — auxiliaire sternali-dorsal, i — ad-
+ditionnel postérieur de l'abaisseur postérieur de l'aile postérieure,
+k' — additionnel antérieur du même musle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="80" y="1267"/>
+	<Point x="1864" y="1267"/>
+	<Point x="1864" y="1446"/>
+	<Point x="80" y="1446"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 18. Même insecte, métanotum vu de côté intérieur; f f — tendons d'éléva-
+teurs potérieurs, g — premier segment de l'abdomen, h — partie posté-
+rieure du métanotum, i i — tendons d'auxiliaires sternali-dorsaux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="76" y="1449"/>
+	<Point x="1846" y="1449"/>
+	<Point x="1846" y="1685"/>
+	<Point x="76" y="1685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 19. A. grandis L., adulte, 7 fois grossie. dorsum vu d'en haut, c'est-à-dire
+de côté extérieur; a b — crochêts servant de points d'attache de muscles
+auxiliaires dorsaux, c c — tendons d'élévateurs antérieurs, d d — les
+mêmes de postérieurs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="80" y="1687"/>
+	<Point x="1837" y="1687"/>
+	<Point x="1836" y="1923"/>
+	<Point x="79" y="1923"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 20. Même insecte; a — élévateur postérieur, b — l'antérieur, с — abaisseur
+antérieur de l'aile antérieure, d — abaisseur postérieur de l'aile posté-
+rieure, g — abaisseur antérieur de l'aile postérieure, e — auxiliaire
+sternali-dorsal, f — un muscle sternal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="82" y="1928"/>
+	<Point x="1839" y="1928"/>
+	<Point x="1839" y="2341"/>
+	<Point x="82" y="2341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 21. Même insecte; a — additionnel de l'abaisseur antérieur de l'aile anté-
+rieure, b — additionnel antérieur de l'abaisseur postérieur de l'aile an-
+térieure, с — additionnel postérieur du même muscle, f — additionnel
+antérieur de l'abaisseur postérieur de l'aile postérieure, g — addition-
+nel postérieur du même muscle, d — additionnel de l'abaisseur anté-
+rieur de l'aile postérieure, h — élévation antérieure d'épimère e — la
+postérieure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="82" y="2707"/>
+	<Point x="1828" y="2707"/>
+	<Point x="1828" y="2891"/>
+	<Point x="82" y="2891"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 25. Même insecte; a — additionnel antérieur de l'abaisseur postérieur de
+l'aile antérieure, b — additionnel postérieur du même muscle, с —
+membranule de l'aile.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="80" y="2892"/>
+	<Point x="1835" y="2892"/>
+	<Point x="1835" y="3078"/>
+	<Point x="80" y="3078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 26. Calopteryx virgo L., adulte, 8 fois grossi; a — additionnel de l'abais-
+seur antérieur de l'aile postérieure, b — additionnel postérieur de
+l'abaisseur postérieur de l'aile postérieure, k — stigmate.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="91" y="316"/>
+	<Point x="1832" y="316"/>
+	<Point x="1832" y="732"/>
+	<Point x="91" y="732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 16. Même insecte, muscles vus de côté extérieur, l'épimère est écarté;
+a — additionnel postérieur de l'abaisseur postérieur de l'aile postérieure,
+b — additionnel antérieur du même muscle, с — abaisseur postérieur
+de l'aile postérieure, d — abaisseur antérieur de même aile, e — ad-
+ditionnel postérieur de l'abaisseur postérieur de l'aile antérieure, f —
+additionnel antérieur du même muscle, g — abaisseur postérieur de
+l'aile antérieure, h — abaisseur antérieur de même aile.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1691" y="3082"/>
+	<Point x="1691" y="3141"/>
+	<Point x="82" y="3141"/>
+	<Point x="82" y="3082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 27. Même insecte, additionnel postérieur de l'élévateur postérieur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1826" y="2522"/>
+	<Point x="1826" y="2691"/>
+	<Point x="53" y="2691"/>
+	<Point x="53" y="2522"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 24. Même insecte: a — additionnel antérieur de l'abaisseur postérieur de
+l'aile postérieure, b — additionnel postérieur du même muscle, с —
+membranule de l'aile.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1842" y="2344"/>
+	<Point x="1842" y="2401"/>
+	<Point x="1331" y="2401"/>
+	<Point x="1331" y="2400"/>
+	<Point x="691" y="2400"/>
+	<Point x="691" y="2399"/>
+	<Point x="69" y="2399"/>
+	<Point x="69" y="2344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 22. Même insecte, élévateur antérieur: le plus gros et le plus petit chef.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="69" y="2401"/>
+	<Point x="689" y="2401"/>
+	<Point x="689" y="2402"/>
+	<Point x="1329" y="2402"/>
+	<Point x="1329" y="2403"/>
+	<Point x="1842" y="2403"/>
+	<Point x="1842" y="2460"/>
+	<Point x="1826" y="2460"/>
+	<Point x="1826" y="2520"/>
+	<Point x="53" y="2520"/>
+	<Point x="53" y="2464"/>
+	<Point x="69" y="2464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 23. L. ﬂaveola L., adulte, 7 fois grossie, point d'attache de l'additionnel
+de l'abaisseur antérieur de l'aile postérieure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="signature-mark">
+	<Coords>
+	<Point x="525" y="3143"/>
+	<Point x="525" y="3187"/>
+	<Point x="526" y="3187"/>
+	<Point x="526" y="3205"/>
+	<Point x="82" y="3205"/>
+	<Point x="82" y="3143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="signature-mark">
+	<Coords>
+	<Point x="1691" y="3143"/>
+	<Point x="1691" y="3205"/>
+	<Point x="1581" y="3205"/>
+	<Point x="1581" y="3143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3</Unicode></TextEquiv></TextRegion></Page></PcGts>

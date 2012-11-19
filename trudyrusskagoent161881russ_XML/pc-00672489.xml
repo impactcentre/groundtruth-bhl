@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672489">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:44:03</Created>
+	<LastChange>2012-02-10T09:55:01</LastChange></Metadata>
+	<Page imageFilename="00672489.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="773" y="212"/>
+	<Point x="1087" y="212"/>
+	<Point x="1087" y="282"/>
+	<Point x="773" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 293 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="55" y="330"/>
+	<Point x="1801" y="330"/>
+	<Point x="1801" y="2785"/>
+	<Point x="55" y="2785"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>halbrunde Kinn auf, welches nur die Lippentaster an der
+Seite bemerken lässt. Der vordere Seitenrand des Rüssels ist
+breit und ﬂach eckig ausgeschnitten. Fühler näher der Mitte
+als der Spitze eingefügt, ihr Schaft die Mitte der Augen
+nicht erreichend, bedeutend kürzer als die Geissel, diese mit
+verlängertem Glied 1. Halsschild an beiden Enden abgestutzt.
+Schildchen deutlich. Decken in den Schultern breiter als das
+Halsschild mit parallelen Seiten, punktstreiﬁg. Schenkel schwach
+verdickt, die 2 hintersten die längsten. Schienen kaum kür-
+zer als die Schenkel, alle an der Spitze aussen scharfwinklig,
+die 4 vorderen etwas ﬂachgedrückten auch innen dornartig
+erweitert; Talus an den 4 vorderen schräg oﬀen, nur die
+Aussenkante erhaben, an den hinteren grade abgestutzt, zur
+Hälfte mit einer glatten unbeschuppten Fläche gedeckt, alle 3
+Kanten erhaben, mit Stachelborsten gewimpert. Tarsen seit-
+lich und dicht an der vorderen Talusspitze eingefügt, die 3
+ersten Glieder an Länge abnehmend, an Breite fast gleich, 3
+herzförmig zur Aufnahme des Klauengliedes, von oben tief
+gefurcht. Klauenglied verlängert mit 2 scharfen gleich am
+Grunde gebogenen Klauen. Vorderhüften aneinanderstehend,
+die mittleren durch einen schmalen, parallelen, die stark trans-
+versalen, den Marginalsaum der Decken erreichenden hintern
+durch einen breiten nach Vorne abgerundeten Abdominalfort-
+satz getrennt, welcher schmäler als die Hüften ist. Hinter-
+rand des ersten Abdominalsegment's gebuchtet, das zweite et-
+was kürzer als 3 und 4 zusammengenommen. Episternen der
+Hinterbrust an Länge den 3 ersten Abdominalsegmenten
+gleich,* die Epimeren der Mittelbrust schmal. Prosternum an
+beiden Enden bis zur Augenhöhe erhaben gerandet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote">
+	<Coords>
+	<Point x="48" y="2862"/>
+	<Point x="1799" y="2862"/>
+	<Point x="1799" y="3182"/>
+	<Point x="48" y="3182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Es ist durchaus nöthig den Begriﬀ der Ausdrücke «Hinterbrust lang,
+kurz oder sehr kurz» zu präcisiren. Als naheliegendes Vergleichsobjekt wäre
+selbstverständlich nicht der in seiner Lage zu veränderliche Thorax auch nicht
+die, meistentheils nicht in derselben graden Fläche liegende Mittelbrust, son-
+dern besser das Abdomen oder vielmehr die ersten Segmente desselben zu</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords>
+	<Point x="58" y="2812"/>
+	<Point x="644" y="2812"/>
+	<Point x="644" y="2839"/>
+	<Point x="58" y="2839"/></Coords></SeparatorRegion></Page></PcGts>

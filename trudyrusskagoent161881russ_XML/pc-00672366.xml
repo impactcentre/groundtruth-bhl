@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672366">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:20:56</Created>
+	<LastChange>2012-02-10T09:54:35</LastChange></Metadata>
+	<Page imageFilename="00672366.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="989" y="62"/>
+	<Point x="1316" y="62"/>
+	<Point x="1316" y="133"/>
+	<Point x="989" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 172 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="821" y="278"/>
+	<Point x="1494" y="278"/>
+	<Point x="1494" y="355"/>
+	<Point x="821" y="355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cramb. incanellus Z.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="573" y="417"/>
+	<Point x="1246" y="417"/>
+	<Point x="1246" y="482"/>
+	<Point x="573" y="482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Exot. Micropt. p. 50, ﬁg. 19.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="283" y="539"/>
+	<Point x="2032" y="539"/>
+	<Point x="2032" y="1035"/>
+	<Point x="283" y="1035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In der Abbildung ist die Grundfarbe ganz verfehlt, weder
+dem Namen Incanellus, noch dem canus der Diagnose, noch
+dem Weissgrau der Beschreibung entsprechend; die charak-
+teristische Querreihe schwarzer Strichelchen ist unnatürlich in
+eine Querreihe von Pfeilspitzen verwandelt; auch sind die Hinter-
+ﬂügel zu spitz und zu wenig umfangreich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="273" y="1039"/>
+	<Point x="2041" y="1039"/>
+	<Point x="2041" y="2787"/>
+	<Point x="273" y="2787"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Grösse ist veränderlich. Das kleinste ♂ hat nur 21/2‴
+Vorderﬂügellänge und kommt also dem ♀ des folgenden Pyg-
+maeus gleich; das grösste Exemplar, auch ein ♂, hat dagegen
+33/4‴. Die Grundfarbe ist stets weissgrau oder selbst grau-
+weiss. Der dunkle Schrägstrich aus der Costalmitte ist, öfters
+einwärts dunkel beschattet, stets vorhanden; aber seine Fort-
+setzung quer über den Flügel lässt sich fast nie vollständig
+erkennen, löst sich jedoch auch nie in so zerstreute Flecke
+auf wie in der Abbildung. Die schwarzen Längsstrichelchen
+machen die Art sehr kenntlich; bei einem Exemplar fehlen
+einzelne; bei wenigen verﬂogenen sind von ihnen nur schwarze
+Pünktchen übrig geblieben, die man wenigstens auf dem einen
+Flügel entdeckt. — Die sehr merkwürdige Abweichung im
+Geäder der Flügel, die Snellen (Tydschrift XV. 1872, p. 102)
+an zwei nächst stehenden afrikanischen Arten entdeckt hat,
+besteht darin, dass die Medianader nicht wie bei anderen
+Crambus 4, sondern nur drei Aeste hat: auf den Vorder-
+ﬂügeln geht Ast 1 ungefähr von der Mitte; der Rest bildet
+von 3/4 an eine Gabel, die also viel länger ist als ihr Stiel.
+Auf den Hinterﬂügeln entspringt Ast 1 ein wenig vor der
+Mitte, und die Gabel ist etwas kürzer als ihr Stiel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="275" y="2794"/>
+	<Point x="2035" y="2794"/>
+	<Point x="2035" y="3037"/>
+	<Point x="275" y="3037"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von den mehr als 30 vorhandenen Exemplaren erkenne
+ich nur eins als ♀; die Fühler sind bei ihm dünner, und das
+Analglied ist zugespitzt und am Ende abgeschnitten. Die an-</Unicode></TextEquiv></TextRegion></Page></PcGts>

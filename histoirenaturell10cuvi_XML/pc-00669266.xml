@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669266">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:45:11</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669266.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="759" y="186"/>
+	<Point x="1345" y="186"/>
+	<Point x="1345" y="256"/>
+	<Point x="759" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="393" y="269"/>
+	<Point x="1760" y="269"/>
+	<Point x="1760" y="2651"/>
+	<Point x="393" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La hauteur à la nuque, qui se relève plus haut
+que la tête, est cinq fois et un quart dans la lon‐
+gueur totale, la caudale non comprise. La tête, lors‐
+que la bouche se retire, se forme d’un rhombe dont
+la diagonale verticale, d’un tiers moins haute que
+la nuque, est très-peu supérieure à la diagonale ho‐
+rizontale. L’épaisseur au milieu de la hauteur est dans
+les individus de Sicile et de Corse du neuvième de
+cette hauteur. Le dos et le ventre vont encore en
+s’amincissant, en sorte que leurs bords sont à peu
+près tranchans et minces comme un léger carton;
+la ligne du dos et celle du ventre sont en arcs un
+peu convexes; mais au total elles vont en se rap‐
+prochant, en sorte que le corps forme un ruban
+argenté très-mince, assez large en avant, mais qui
+se rétrécit par degrés en arrière, et ﬁnit en pointe
+comprimée presque autant que le corps, et la tête,
+aussi haute que longue, a son proﬁl descendant
+obliquement en ligne droite et joignant la nuque
+par un arc très-ouvert. Le bout du museau est
+tronqué pour former la bouche, qui n’est presque
+pas fendue latéralement; mais dont l’ouverture est
+transverse, verticale et de forme à peu près parabo‐
+lique. C’est en eﬀet la courbure transversale de la
+mâchoire supérieure, et quand la bouche se ferme,
+le bout de la mâchoire inférieure entre dans cette
+concavité. La protractilité de la mâchoire supérieure
+est telle, que lorsqu’elle se porte en avant, la dis‐
+tance de l’œil au bout du museau devient presque
+double de ce qu’elle est dans l’état de repos. Le
+front a sous la peau une cavité en triangle isocèle</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="334" y="164"/>
+	<Point x="334" y="252"/>
+	<Point x="494" y="252"/>
+	<Point x="494" y="164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>334</Unicode></TextEquiv></TextRegion></Page></PcGts>

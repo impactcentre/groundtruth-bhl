@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671116">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:50:56</Created>
+	<LastChange>2012-03-12T14:34:05</LastChange></Metadata>
+	<Page imageFilename="00671116.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/>
+	<RegionRefIndexed regionRef="r16" index="3"/>
+	<RegionRefIndexed regionRef="r20" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1132" y="345"/>
+	<Point x="1403" y="345"/>
+	<Point x="1403" y="396"/>
+	<Point x="1132" y="396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 54 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="200" y="451"/>
+	<Point x="2335" y="451"/>
+	<Point x="2335" y="559"/>
+	<Point x="640" y="561"/>
+	<Point x="624" y="564"/>
+	<Point x="619" y="561"/>
+	<Point x="200" y="561"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Verhoeff, K. W., Zur vergleichenden Morphologie und Systematik der Embiiden. — Nova Acta, LXXXII,
+2, 1904, p. 141—204.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="203" y="937"/>
+	<Point x="990" y="938"/>
+	<Point x="2106" y="938"/>
+	<Point x="2327" y="937"/>
+	<Point x="2325" y="1043"/>
+	<Point x="564" y="1043"/>
+	<Point x="200" y="1039"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Woodworth, C. W., The Wing Veins of Insects. — Univ. of California Publications, Entomology, I, 1,
+1906, p. 1—152.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="193" y="1044"/>
+	<Point x="1815" y="1046"/>
+	<Point x="2327" y="1047"/>
+	<Point x="2329" y="1147"/>
+	<Point x="446" y="1154"/>
+	<Point x="192" y="1149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zacher, E., Studien über das System der Protodermapteren. — Zool. Jahrb., Abt. Syst., XXX, 1911,
+p. 303—400.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="208" y="668"/>
+	<Point x="435" y="668"/>
+	<Point x="446" y="674"/>
+	<Point x="466" y="668"/>
+	<Point x="846" y="668"/>
+	<Point x="863" y="673"/>
+	<Point x="878" y="670"/>
+	<Point x="884" y="668"/>
+	<Point x="1287" y="668"/>
+	<Point x="1304" y="672"/>
+	<Point x="1315" y="668"/>
+	<Point x="2332" y="668"/>
+	<Point x="2332" y="725"/>
+	<Point x="2144" y="725"/>
+	<Point x="2035" y="724"/>
+	<Point x="2000" y="718"/>
+	<Point x="1970" y="724"/>
+	<Point x="1563" y="723"/>
+	<Point x="208" y="723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Walton, L. B., The Basal Segments of the Hexapod leg. — Amer. Naturalist, XXXIV, 1900, p. 267—274.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="209" y="564"/>
+	<Point x="471" y="562"/>
+	<Point x="611" y="562"/>
+	<Point x="624" y="568"/>
+	<Point x="651" y="562"/>
+	<Point x="2335" y="564"/>
+	<Point x="2335" y="666"/>
+	<Point x="1310" y="666"/>
+	<Point x="1301" y="669"/>
+	<Point x="1294" y="666"/>
+	<Point x="879" y="666"/>
+	<Point x="863" y="670"/>
+	<Point x="854" y="666"/>
+	<Point x="458" y="666"/>
+	<Point x="454" y="669"/>
+	<Point x="446" y="671"/>
+	<Point x="440" y="666"/>
+	<Point x="208" y="667"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voß, Fr., Über den Thorax von Gryllus domesticus. — Zeitschr. wiss. Zool., Bd. LXXVIII, p. 268—521,
+p. 645—759; Bd. C, p. 589—834; Bd. CI, p. 579—682.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="209" y="727"/>
+	<Point x="942" y="725"/>
+	<Point x="1976" y="726"/>
+	<Point x="2002" y="723"/>
+	<Point x="2034" y="726"/>
+	<Point x="2325" y="727"/>
+	<Point x="2325" y="827"/>
+	<Point x="981" y="828"/>
+	<Point x="962" y="829"/>
+	<Point x="209" y="828"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Walton, L. B., The metathoracic Pterygoda of the Hexapoda and their Relation to the Wings. — Amer.
+Naturalist, XXXV, 1901, p. 357—362.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="203" y="831"/>
+	<Point x="2329" y="831"/>
+	<Point x="2329" y="933"/>
+	<Point x="568" y="935"/>
+	<Point x="203" y="933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wood-Mason, J., Morphological Notes, bearing on the origin of insects. — Trans. Ent. Soc. London,
+1879, p. 145—167.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="1068" y="1436"/>
+	<Point x="1068" y="1494"/>
+	<Point x="1451" y="1494"/>
+	<Point x="1451" y="1436"/></Coords></SeparatorRegion></Page></PcGts>

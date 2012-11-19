@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672574">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:59:42</Created>
+	<LastChange>2012-02-10T09:55:12</LastChange></Metadata>
+	<Page imageFilename="00672574.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="942" y="123"/>
+	<Point x="1266" y="123"/>
+	<Point x="1266" y="211"/>
+	<Point x="942" y="211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 378 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="230" y="259"/>
+	<Point x="1985" y="259"/>
+	<Point x="1985" y="966"/>
+	<Point x="230" y="966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>diﬀérent de celui des individus non tâchetés, et qui furent
+pris dans le même lieu et en même temps. Le revers des
+ailes résout afﬁrmativement la question de l'identité spéciﬁque
+de ces individus tachetés avec les autres. Le Dr. Stau-
+dinger, lorsqu'il decrira la v. Margelanica, en dira assuré-
+ment plus long sur ce sujet; quant à moi, n'ayant eu qu'une
+seule paire de cette variété à comparer avec mes individus
+du Tian-Chian, je ne puis en dire d'avantage.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="719" y="1035"/>
+	<Point x="1473" y="1035"/>
+	<Point x="1473" y="1152"/>
+	<Point x="719" y="1152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>31. P. Alciphron Rott.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="221" y="1230"/>
+	<Point x="1988" y="1230"/>
+	<Point x="1988" y="1852"/>
+	<Point x="221" y="1852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous en trouvâmes de très grands individus, le long du
+Kounguesse en Juin, entre 4000 et 5500' d'altitude. Parmi
+une trentaine d'exemplaires que nous prîmes, un tout petit ♂,
+présente un léger passage à la var. Gordius Sulz.; mais,
+en général, les ♂♂ sont d'une teinte violacée très intense.
+Deux ♂♂ sont complêtement recouverts sur le dessus par
+cette couleur sans trace du fauve des ♂♂ typiques d'Europe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="511" y="1942"/>
+	<Point x="1707" y="1942"/>
+	<Point x="1707" y="2057"/>
+	<Point x="511" y="2057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>32. P. Dispar Hw. v. Rutilus Wernb.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="226" y="2138"/>
+	<Point x="2004" y="2138"/>
+	<Point x="2004" y="2323"/>
+	<Point x="226" y="2323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En Mai, près de Kouldjà, j'en ai pris 3 individus, qui
+ne sont pas diﬀérents de ceux de l'Europe centrale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="338" y="2333"/>
+	<Point x="1973" y="2333"/>
+	<Point x="1973" y="2433"/>
+	<Point x="338" y="2433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce Polyommatus semble faire défaut dans les montagnes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="823" y="2530"/>
+	<Point x="1400" y="2530"/>
+	<Point x="1400" y="2623"/>
+	<Point x="823" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>33. P. Phlaeas L.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="230" y="2702"/>
+	<Point x="1971" y="2702"/>
+	<Point x="1971" y="2892"/>
+	<Point x="230" y="2892"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ne vimes ce papillon qu'à de très grandes hauteurs.
+Toujours au dessus de 9000' d'altitude.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="219" y="2902"/>
+	<Point x="1969" y="2902"/>
+	<Point x="1969" y="3090"/>
+	<Point x="219" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tous les individus sont grands et typiques. La forme
+sombre, Eleus F. ne nous est pas tombée sous la main.</Unicode></TextEquiv></TextRegion></Page></PcGts>

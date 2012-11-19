@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669050">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:48:36</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669050.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r24" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="302" y="273"/>
+	<Point x="1731" y="273"/>
+	<Point x="1731" y="748"/>
+	<Point x="302" y="748"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>viennent des mers orientales, et nous devons
+faire remarquer que l’on ne doit pas compter
+dans leur nombre, comme l’a fait Bloch1, le
+perca ascensionis d’Osbeck; nous avons vu
+précédemment que c’est un holocentrum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="297" y="1041"/>
+	<Point x="1754" y="1041"/>
+	<Point x="1754" y="1494"/>
+	<Point x="297" y="1494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous décrirons d’abord l’espèce qui a paru
+la première dans les ouvrages des méthodistes
+(le teuthis javus de Linnæus). Elle est com‐
+mune à Pondichéry et se retrouve sur plusieurs
+autres points de la mer des Indes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="340" y="1504"/>
+	<Point x="1745" y="1504"/>
+	<Point x="1752" y="1712"/>
+	<Point x="1559" y="1713"/>
+	<Point x="964" y="1723"/>
+	<Point x="689" y="1731"/>
+	<Point x="340" y="1731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle a le corps aplati par les côtés; en n’y com‐
+prenant pas la queue, son contour vertical est un
+bel ovale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="357" y="1736"/>
+	<Point x="753" y="1738"/>
+	<Point x="958" y="1730"/>
+	<Point x="969" y="1729"/>
+	<Point x="1582" y="1724"/>
+	<Point x="1745" y="1723"/>
+	<Point x="1737" y="2324"/>
+	<Point x="1181" y="2332"/>
+	<Point x="948" y="2329"/>
+	<Point x="831" y="2330"/>
+	<Point x="824" y="2343"/>
+	<Point x="359" y="2346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur au milieu est deux fois et demie dans
+sa longueur totale, et son épaisseur quatre fois dans
+sa hauteur. La ligne demi-elliptique de son dos des‐
+cend obliquement au museau, et, prenant un peu
+de concavité, devient presque droite sur le crâne;
+la longueur de sa tête est quatre fois et demie dans
+la longueur totale; et sa hauteur à la nuque est
+encore un peu plus considérable.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="376" y="2350"/>
+	<Point x="638" y="2347"/>
+	<Point x="784" y="2350"/>
+	<Point x="824" y="2349"/>
+	<Point x="835" y="2335"/>
+	<Point x="1147" y="2338"/>
+	<Point x="1735" y="2330"/>
+	<Point x="1735" y="2495"/>
+	<Point x="378" y="2495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’æil est tout entier au-dessus du milieu de la
+hauteur; son diamètre est du tiers de la longueur</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="345" y="2570"/>
+	<Point x="922" y="2570"/>
+	<Point x="922" y="2655"/>
+	<Point x="345" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Syst. posth., p. 210.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="308" y="173"/>
+	<Point x="456" y="173"/>
+	<Point x="456" y="265"/>
+	<Point x="308" y="265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>118</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="754" y="199"/>
+	<Point x="1263" y="199"/>
+	<Point x="1263" y="256"/>
+	<Point x="754" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="601" y="810"/>
+	<Point x="1414" y="810"/>
+	<Point x="1414" y="897"/>
+	<Point x="601" y="897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE JAVANAIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="353" y="917"/>
+	<Point x="1683" y="917"/>
+	<Point x="1683" y="1032"/>
+	<Point x="353" y="1032"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus javus, nob.; teuthis javus, L.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r25">
+	<Coords>
+	<Point x="306" y="2517"/>
+	<Point x="1737" y="2510"/>
+	<Point x="1737" y="2556"/>
+	<Point x="308" y="2557"/></Coords></SeparatorRegion></Page></PcGts>

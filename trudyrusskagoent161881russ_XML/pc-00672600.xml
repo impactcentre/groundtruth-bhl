@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672600">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T17:03:41</Created>
+	<LastChange>2012-02-10T09:55:18</LastChange></Metadata>
+	<Page imageFilename="00672600.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/>
+	<RegionRefIndexed regionRef="r13" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="995" y="161"/>
+	<Point x="1314" y="161"/>
+	<Point x="1314" y="242"/>
+	<Point x="995" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 404 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="273" y="300"/>
+	<Point x="2038" y="300"/>
+	<Point x="2038" y="721"/>
+	<Point x="273" y="721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂♂ du Tian-Chian sont souvent de la couleur de la v. Neera,
+F. d. W. de la Russie méridionale. En outre j'ai deux in-
+dividus de la Didyma, pris par moi dans le nord du Cau-
+case, qui sont parfaîtement intermédiaires entre la v. Neera
+et la var. Ala.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="635" y="828"/>
+	<Point x="1740" y="828"/>
+	<Point x="1740" y="928"/>
+	<Point x="635" y="928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>72. Melitaea Fergana Stgr. in litt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="269" y="988"/>
+	<Point x="2035" y="988"/>
+	<Point x="2035" y="1340"/>
+	<Point x="269" y="1340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je dois a l'obligeance de Mr. N. Erschoff cette nouvelle
+Melitaea du district de Kouldjà. Elle fut prise par le Dr.
+Albert Regel près du lac Saïram, sans indication de l'époque
+de son apparition.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="266" y="1350"/>
+	<Point x="2054" y="1350"/>
+	<Point x="2054" y="1859"/>
+	<Point x="266" y="1859"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'aurais bien voulu decrire la M. Fergana ici, sous le nom
+que lui a donné le Dr. Staudinger, si j'avais entre les
+mains un matériel sufﬁsant; mais decrire une Melitaea nouvelle
+d'après trois individus, dont deux seulement, sont assez frais,
+me semble être chose par trop osée. Je me borne donc à ne
+faire que les remarques suivantes:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="242" y="1866"/>
+	<Point x="2038" y="1866"/>
+	<Point x="2038" y="2302"/>
+	<Point x="242" y="2302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1) La M. Fergana Stgr., est voisine de l'Athene, 2) le
+♂ du Saîram — noor est en tout pareil à celui que j'ai du
+Ferganah, et, enﬁn, 3) cette espèce a été aussi prise sur les
+alpes de la Perse à une élévation de 14,000´ environ, a ce
+que m'apprend le Dr. Staudinger.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="254" y="2685"/>
+	<Point x="2026" y="2685"/>
+	<Point x="2026" y="2961"/>
+	<Point x="254" y="2961"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ supra fulvus, venis nigris; anticis limbo externo, serie
+media transversa punctorum, signis paginae internae basique—
+fuscis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="261" y="2978"/>
+	<Point x="2016" y="2978"/>
+	<Point x="2016" y="3152"/>
+	<Point x="261" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♀ anticae ﬂavido-grisescentes, fuscoreticulatae; posticae parte
+antica ochraceo-fulvescenti, limbo basique—fuscis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="2023" y="2390"/>
+	<Point x="2023" y="2529"/>
+	<Point x="1479" y="2529"/>
+	<Point x="1479" y="2530"/>
+	<Point x="851" y="2530"/>
+	<Point x="851" y="2531"/>
+	<Point x="271" y="2531"/>
+	<Point x="271" y="2390"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>73. M. Solona Alph. nov. sp. Tab. XIV, ﬁg. 14 ♂, 15 ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="2023" y="2531"/>
+	<Point x="2023" y="2633"/>
+	<Point x="271" y="2633"/>
+	<Point x="271" y="2533"/>
+	<Point x="853" y="2533"/>
+	<Point x="853" y="2532"/>
+	<Point x="1481" y="2532"/>
+	<Point x="1481" y="2531"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ 33—34; ♀ 34—39 mill.</Unicode></TextEquiv></TextRegion></Page></PcGts>

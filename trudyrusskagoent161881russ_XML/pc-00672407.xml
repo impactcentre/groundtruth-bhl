@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672407">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:29:41</Created>
+	<LastChange>2012-02-10T09:54:44</LastChange></Metadata>
+	<Page imageFilename="00672407.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="864" y="178"/>
+	<Point x="1183" y="178"/>
+	<Point x="1183" y="248"/>
+	<Point x="864" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 213 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="148" y="319"/>
+	<Point x="1901" y="319"/>
+	<Point x="1901" y="553"/>
+	<Point x="148" y="553"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>penstreifchen an den ♂ Fühlern und auf den Hinterﬂügeln durch
+die sehr kurze Gabel der 2 letzten Medianaderäste, die 4mal
+so kurz ist wie ihr Stiel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="532" y="694"/>
+	<Point x="1508" y="694"/>
+	<Point x="1508" y="780"/>
+	<Point x="532" y="780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. postica Tab. XII, ﬁg. 28.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="155" y="839"/>
+	<Point x="1891" y="839"/>
+	<Point x="1891" y="1169"/>
+	<Point x="155" y="1169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis albis, ter atro-cinctis; alis ant. angustis, canis,
+passim atro-squamulatis, ante strigam posteriorem albidam atro-
+marginatam transverse nigricantibus; post. fere niveis, hya-
+linis ♂ ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="153" y="1224"/>
+	<Point x="1898" y="1224"/>
+	<Point x="1898" y="1542"/>
+	<Point x="153" y="1542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kenntlich an der Tasterzeichnung, an den im Enddrittel
+geschwärzten Vorderﬂügeln und an den schneeweissen, sehr
+durchsichtigen Hinterﬂügeln mit sehr kurzer Endgabel der Me-
+dianader.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="148" y="1551"/>
+	<Point x="1901" y="1551"/>
+	<Point x="1901" y="2878"/>
+	<Point x="148" y="2878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grösse einer kleinen Deﬁnitella. Rückenschild und Kopf
+hellgrau, schwärzlich bestäubt. Taster wenig über das unten
+weisse Gesicht, dem sie anliegen, hinaufreichend, etwas zusam-
+mengedrückt, besonders oben reinweiss, auswärts an der Mitte
+und vor dem Ende des zweiten Gliedes mit einem tiefschwarzen
+Querstrich; das Endglied tiefschwarz mit rein weisser Spitze.
+Sauger weisslich beschuppt. Fühler borstenförmig, dunkelgrau,
+beim ♂ auf dem Rücken oberhalb des Wurzelgliedes, während
+die Geissel gar keine Biegung zeigt, mit einem schmalen, grauen
+Schuppenstreifchen. Hinterleib hell gelblichgrau, das ♂ mit
+schmalem Analbusch ohne Auszeichnung, das ♀ mit grade ab-
+geschnittenem, weisslichem Analgliede, aus welchem der Lege-
+stachel wenig hervorsteht. Beine hellgrau, die vordern aussen
+schwärzlich; die mittlern mit schwarzer Schenkelwurzel, sol-
+chem Knie und schwärzlichem Bändchen vor der Spitze; die
+4 letzten Fussglieder schwarz mit weisslicher Spitze.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="146" y="2885"/>
+	<Point x="1894" y="2885"/>
+	<Point x="1894" y="3128"/>
+	<Point x="146" y="3128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 31/2‴ lang, schmal, nach hinten sanft erwei-
+tert, mit deutlicher Spitze, weissgrau, mit tiefschwarzen, gro-
+ben Schuppen spärlich bestreut, am reichlichsten noch längs</Unicode></TextEquiv></TextRegion></Page></PcGts>

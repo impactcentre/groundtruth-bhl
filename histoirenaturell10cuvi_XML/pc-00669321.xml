@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669321">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:51:42</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669321.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="74" y="244"/>
+	<Point x="1505" y="244"/>
+	<Point x="1505" y="833"/>
+	<Point x="74" y="833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vande (p. 367), sous celui de myrus alter.1
+Willughby en a donné une description fort
+exacte (p. 117) sous celui de tœnia rubra, et
+sous les noms génois de cavagiro et de freg-
+gia; mais il s’est trompé en le prenant pour
+le tœnia altera de Rondelet, qui est le gym‐
+nètre ordinaire.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="78" y="844"/>
+	<Point x="1503" y="844"/>
+	<Point x="1503" y="1101"/>
+	<Point x="725" y="1100"/>
+	<Point x="78" y="1101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Linné, qui l’avait d’abord nommé ophi-
+dium macrophtalmum3, en a fait dans sa
+12.e édition son Cepola rubescens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="79" y="1105"/>
+	<Point x="895" y="1103"/>
+	<Point x="1501" y="1104"/>
+	<Point x="1505" y="2296"/>
+	<Point x="77" y="2292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a aussi dans cette édition un cepola
+tœnia, mais c’est une espèce factice, qui résulte
+d’une double et même d’une triple erreur. En
+eﬀet, le poisson même qu’il avait en vue, et
+auquel il attribue pour caractère spéciﬁque
+soixante rayons à la dorsale, était, à n’en pas
+douter, un Cepola rubescens mal conservé:
+toute sa description s’y accorde. Bloch, qui
+a prétendu décrire et représenter un Cepola
+tœnia (pl. 170 et part. V, p. 103); mais qui, en
+eﬀet, ne donne aussi qu’un rubescens altéré
+dans ses couleurs, lui compte soixante-six
+rayons, ce qui réduit à rien la distinction éta‐
+blie par l’auteur du Systema naturœ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="92" y="2380"/>
+	<Point x="1499" y="2380"/>
+	<Point x="1501" y="2504"/>
+	<Point x="1096" y="2505"/>
+	<Point x="93" y="2505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. La ﬁgure de Rondelet est copiée dans Gesner, p. 863, dans
+Johnsson; celle d’Aldrovande l’est dans Willughby, pl. G. 7, ﬁg. 8.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="96" y="2509"/>
+	<Point x="1498" y="2509"/>
+	<Point x="1498" y="2636"/>
+	<Point x="96" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Syst. nat., 12.e édit., p. 445. — 3. Ibid., p. 259, voyez
+plus haut, p. 317, note 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1335" y="140"/>
+	<Point x="1492" y="140"/>
+	<Point x="1492" y="223"/>
+	<Point x="1335" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>389</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="514" y="142"/>
+	<Point x="1052" y="142"/>
+	<Point x="1052" y="228"/>
+	<Point x="514" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. CÉPOLES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="92" y="2322"/>
+	<Point x="1500" y="2322"/>
+	<Point x="1500" y="2366"/>
+	<Point x="92" y="2366"/></Coords></SeparatorRegion></Page></PcGts>

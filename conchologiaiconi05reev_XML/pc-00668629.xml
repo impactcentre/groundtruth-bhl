@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668629">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T08:13:39</Created>
+	<LastChange>2012-02-10T10:29:27</LastChange></Metadata>
+	<Page imageFilename="00668629.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/>
+	<RegionRefIndexed regionRef="r13" index="11"/>
+	<RegionRefIndexed regionRef="r14" index="12"/>
+	<RegionRefIndexed regionRef="r15" index="13"/>
+	<RegionRefIndexed regionRef="r16" index="14"/>
+	<RegionRefIndexed regionRef="r17" index="15"/>
+	<RegionRefIndexed regionRef="r18" index="16"/>
+	<RegionRefIndexed regionRef="r19" index="17"/>
+	<RegionRefIndexed regionRef="r20" index="18"/>
+	<RegionRefIndexed regionRef="r21" index="19"/>
+	<RegionRefIndexed regionRef="r22" index="20"/>
+	<RegionRefIndexed regionRef="r23" index="21"/>
+	<RegionRefIndexed regionRef="r24" index="22"/>
+	<RegionRefIndexed regionRef="r25" index="23"/>
+	<RegionRefIndexed regionRef="r26" index="24"/>
+	<RegionRefIndexed regionRef="r27" index="25"/>
+	<RegionRefIndexed regionRef="r28" index="26"/>
+	<RegionRefIndexed regionRef="r29" index="27"/>
+	<RegionRefIndexed regionRef="r30" index="28"/>
+	<RegionRefIndexed regionRef="r31" index="29"/>
+	<RegionRefIndexed regionRef="r32" index="30"/>
+	<RegionRefIndexed regionRef="r33" index="31"/>
+	<RegionRefIndexed regionRef="r34" index="32"/>
+	<RegionRefIndexed regionRef="r35" index="33"/>
+	<RegionRefIndexed regionRef="r36" index="34"/>
+	<RegionRefIndexed regionRef="r37" index="35"/>
+	<RegionRefIndexed regionRef="r38" index="36"/>
+	<RegionRefIndexed regionRef="r39" index="37"/>
+	<RegionRefIndexed regionRef="r40" index="38"/>
+	<RegionRefIndexed regionRef="r41" index="39"/>
+	<RegionRefIndexed regionRef="r42" index="40"/>
+	<RegionRefIndexed regionRef="r43" index="41"/>
+	<RegionRefIndexed regionRef="r44" index="42"/>
+	<RegionRefIndexed regionRef="r45" index="43"/>
+	<RegionRefIndexed regionRef="r46" index="44"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1090" y="173"/>
+	<Point x="1233" y="173"/>
+	<Point x="1233" y="215"/>
+	<Point x="1090" y="215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>INDEX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="811" y="262"/>
+	<Point x="1128" y="262"/>
+	<Point x="1128" y="290"/>
+	<Point x="811" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Plate. Species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="303" y="293"/>
+	<Point x="1118" y="293"/>
+	<Point x="1118" y="332"/>
+	<Point x="303" y="332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>variedentatus, Hartman ..... LXXXVI. 636</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="296" y="337"/>
+	<Point x="1122" y="337"/>
+	<Point x="1122" y="382"/>
+	<Point x="296" y="384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>variegatus, Pfr. ........... XVI. 93</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="290" y="388"/>
+	<Point x="1123" y="389"/>
+	<Point x="1123" y="431"/>
+	<Point x="293" y="431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Varnensis, Frivaldsky ...... LXXV. 543</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="295" y="435"/>
+	<Point x="1120" y="435"/>
+	<Point x="1120" y="477"/>
+	<Point x="295" y="477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>velatus, Brod. ............ XI. 57</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="293" y="481"/>
+	<Point x="1121" y="481"/>
+	<Point x="1121" y="527"/>
+	<Point x="293" y="527"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>velutinus, Pfr............. LV. 362</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="297" y="529"/>
+	<Point x="1118" y="529"/>
+	<Point x="1118" y="573"/>
+	<Point x="297" y="574"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>velutino-hispidus, Moric..... XXXII. 199</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="297" y="579"/>
+	<Point x="1119" y="579"/>
+	<Point x="1119" y="623"/>
+	<Point x="297" y="623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Venezuelensis, Nyst......... XXIV. 157</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="298" y="626"/>
+	<Point x="1118" y="626"/>
+	<Point x="1118" y="670"/>
+	<Point x="298" y="670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>venosus, Reeve ............ XLV. 285</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="293" y="671"/>
+	<Point x="1121" y="671"/>
+	<Point x="1121" y="717"/>
+	<Point x="293" y="717"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ventricosus, Drap. ........... LXIX. 499</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="294" y="721"/>
+	<Point x="1121" y="721"/>
+	<Point x="1121" y="764"/>
+	<Point x="294" y="764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ventrosus (Helix), Fér....... LXIX. 499</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="290" y="771"/>
+	<Point x="1122" y="771"/>
+	<Point x="1122" y="814"/>
+	<Point x="290" y="814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Veranyi, Pfr.............. XLII. 262</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="284" y="817"/>
+	<Point x="1121" y="817"/>
+	<Point x="1121" y="863"/>
+	<Point x="284" y="863"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>verecundus, Reeve ......... II. 62</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="285" y="866"/>
+	<Point x="1120" y="866"/>
+	<Point x="1120" y="908"/>
+	<Point x="285" y="908"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>versicolor, Brod. .......... XIX. 113</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="290" y="909"/>
+	<Point x="1125" y="909"/>
+	<Point x="1125" y="956"/>
+	<Point x="290" y="956"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vexillum, Brod............ XXIII. 152</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="287" y="958"/>
+	<Point x="1122" y="958"/>
+	<Point x="1122" y="1003"/>
+	<Point x="287" y="1003"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vibex, Hutton ............ XLVII. 299</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="288" y="1007"/>
+	<Point x="1117" y="1007"/>
+	<Point x="1117" y="1052"/>
+	<Point x="288" y="1052"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vimineus (Helix), Mor. ..... XL. 246</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="288" y="1055"/>
+	<Point x="1116" y="1055"/>
+	<Point x="1116" y="1101"/>
+	<Point x="288" y="1101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vincentinus, Pfr........... LV. 366</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="284" y="1103"/>
+	<Point x="1116" y="1103"/>
+	<Point x="1116" y="1147"/>
+	<Point x="284" y="1149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>virens, Pfr. .............. VII. 32</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="287" y="1153"/>
+	<Point x="1113" y="1153"/>
+	<Point x="1113" y="1196"/>
+	<Point x="287" y="1196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>virescens, Swainson ........ XXXI. 187</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="288" y="1197"/>
+	<Point x="1114" y="1197"/>
+	<Point x="1114" y="1245"/>
+	<Point x="288" y="1245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>virgatus, Spix .......... XLVIII. 312</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="291" y="1250"/>
+	<Point x="1113" y="1250"/>
+	<Point x="1113" y="1291"/>
+	<Point x="291" y="1291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>virginius, Brug............ XXXI. 191</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="292" y="1296"/>
+	<Point x="1108" y="1296"/>
+	<Point x="1108" y="1340"/>
+	<Point x="291" y="1340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>virgulatus (Helix), Fér...... XLIX. 320</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1708" y="268"/>
+	<Point x="2020" y="268"/>
+	<Point x="2020" y="295"/>
+	<Point x="1708" y="295"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Plate. Species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1185" y="296"/>
+	<Point x="2010" y="296"/>
+	<Point x="2010" y="341"/>
+	<Point x="1185" y="341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vitreus, Spix ............... XXXVIII. 231</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1183" y="344"/>
+	<Point x="2010" y="344"/>
+	<Point x="2010" y="386"/>
+	<Point x="1183" y="386"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vitrinoides, Reeve ......... XLVI. 290</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1181" y="391"/>
+	<Point x="2013" y="391"/>
+	<Point x="2013" y="438"/>
+	<Point x="1181" y="438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vittatus, Spix ............. XLIV. 279</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1177" y="440"/>
+	<Point x="2013" y="440"/>
+	<Point x="2013" y="482"/>
+	<Point x="1177" y="482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vittatus, Brod. ............ XVIII. 105</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1178" y="484"/>
+	<Point x="2016" y="484"/>
+	<Point x="2016" y="531"/>
+	<Point x="1178" y="531"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voithianus, Pfr. .......... XXI. 131</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1175" y="533"/>
+	<Point x="2014" y="533"/>
+	<Point x="2014" y="580"/>
+	<Point x="1175" y="580"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wagneri, Pfr. .. ......... XXXVIII. 232</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1180" y="583"/>
+	<Point x="2011" y="583"/>
+	<Point x="2011" y="622"/>
+	<Point x="1179" y="622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Woodianus, Lea .......... III. 11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="1179" y="631"/>
+	<Point x="2011" y="631"/>
+	<Point x="2011" y="673"/>
+	<Point x="1178" y="675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xantholinus, Ziegler ........ L. 327</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="1177" y="680"/>
+	<Point x="2011" y="680"/>
+	<Point x="2011" y="721"/>
+	<Point x="1177" y="721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xanthostoma, Hohen........ LXI. 416</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="1178" y="728"/>
+	<Point x="2009" y="728"/>
+	<Point x="2009" y="767"/>
+	<Point x="1178" y="767"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xanthostoma, D'Orb......... XLIII. 271</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="1173" y="769"/>
+	<Point x="2009" y="769"/>
+	<Point x="2009" y="816"/>
+	<Point x="1173" y="816"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Yungasensis, D'Orb. ....... LXV. 456</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="1179" y="820"/>
+	<Point x="2006" y="820"/>
+	<Point x="2006" y="864"/>
+	<Point x="1179" y="864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zebra (Bucc.), Mull...... XV., XXVII. 90</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1178" y="868"/>
+	<Point x="2005" y="868"/>
+	<Point x="2005" y="914"/>
+	<Point x="1178" y="914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zebra, Olivier ............. LXVI. 464</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="1177" y="916"/>
+	<Point x="2001" y="916"/>
+	<Point x="2001" y="960"/>
+	<Point x="1177" y="960"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zebra, Spix............... XXX. 284</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="1177" y="964"/>
+	<Point x="1998" y="964"/>
+	<Point x="1998" y="1009"/>
+	<Point x="1177" y="1009"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zebriolus (Helix), Fér....... LXVI. 464</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="1172" y="1011"/>
+	<Point x="1998" y="1011"/>
+	<Point x="1998" y="1055"/>
+	<Point x="1172" y="1055"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ziebmanni, Pfr. .......... LXX. 506</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="1172" y="1058"/>
+	<Point x="1994" y="1058"/>
+	<Point x="1994" y="1104"/>
+	<Point x="1172" y="1104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ziegleri, Pfr.............. LVIII. 389</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1173" y="1106"/>
+	<Point x="1998" y="1106"/>
+	<Point x="1998" y="1151"/>
+	<Point x="1173" y="1151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zigzag, Lam.............. XV. 90</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="1170" y="1155"/>
+	<Point x="1995" y="1155"/>
+	<Point x="1995" y="1194"/>
+	<Point x="1170" y="1194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zonatus, Swain............ XXXIX. 237</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="1172" y="1200"/>
+	<Point x="1994" y="1200"/>
+	<Point x="1994" y="1246"/>
+	<Point x="1172" y="1246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zonulatus, Pfr. ........... XIII. 58</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="1177" y="1251"/>
+	<Point x="1986" y="1251"/>
+	<Point x="1986" y="1298"/>
+	<Point x="1176" y="1298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zoographicus, D'Orbigny .... LXX. 509</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="page-number">
+	<Coords>
+	<Point x="1963" y="179"/>
+	<Point x="2017" y="179"/>
+	<Point x="2017" y="219"/>
+	<Point x="1963" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ix</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r48">
+	<Coords>
+	<Point x="1145" y="254"/>
+	<Point x="1136" y="1324"/>
+	<Point x="1158" y="1324"/>
+	<Point x="1162" y="253"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r49">
+	<Coords>
+	<Point x="910" y="1530"/>
+	<Point x="910" y="1558"/>
+	<Point x="1369" y="1558"/>
+	<Point x="1369" y="1528"/></Coords></SeparatorRegion></Page></PcGts>

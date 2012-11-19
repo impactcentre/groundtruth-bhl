@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672286">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:59:59</Created>
+	<LastChange>2012-02-10T09:54:21</LastChange></Metadata>
+	<Page imageFilename="00672286.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1016" y="69"/>
+	<Point x="1347" y="69"/>
+	<Point x="1347" y="159"/>
+	<Point x="1016" y="159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 92 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="302" y="209"/>
+	<Point x="2057" y="209"/>
+	<Point x="2057" y="1619"/>
+	<Point x="302" y="1619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Arten, welche nur bei Diarbekir gefunden wurden, gehören im
+strengen Sinne nicht mehr zu Kleinasien, sondern zu Mesopo‑
+tamien; doch sind die Begrenzungen von Kleinasien im Süd-
+Osten und Osten ja sehr willkührliche. Ausserdem handelt
+es sich hier nur um einige wenige, etwa 10— 12 Arten, von
+denen einzelne, wie z. B. Zyg. Graslini, später auch im wirk‑
+lichen Kleinasien gefunden wurden. Von Samsun, das zu dem
+sonst lepidopterologisch ganz unbekanntem Vilajet Trapezunt
+gehört, werden nur 2—3 Arten erwähnt. Amasia ist nebst
+Brussa eine der am besten erforschten Lokalitäten von Klein‑
+asien, da ausser Kindermann, Mann, Lederer und mir
+der von mir angelernte, höchst intelligente junge Armenier
+Johann Manisadjian dort in den letzten fünf Jahren
+sammelte. Wie viel aber auch noch dort zu ﬁnden ist, be‑
+weist seine letzte verhältnissmässig sehr kleine Sendung von
+dort, die circa 30 dort noch nicht gefundene Arten, darun‑
+ter mehrere neue enthielt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="292" y="1635"/>
+	<Point x="2057" y="1635"/>
+	<Point x="2057" y="2123"/>
+	<Point x="292" y="2123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die zweite Kolonne enthält unter B. die besonders nur
+bei Brussa von Mann aufgezählten Arten, so wie einige an‑
+dere im Vilajet Brussa (Chodawendikjar) von Frivaldszky
+u. A. gefundene Arten. Sie enthält fast so viel Arten, wie
+bisher bei Amasia gefunden wurden, wenn auch vielleicht ei‑
+nige irrthümlich aufgeführte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="297" y="2136"/>
+	<Point x="2048" y="2136"/>
+	<Point x="2048" y="2868"/>
+	<Point x="297" y="2868"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die dritte Kolonne enthält unter L. (Lydien), die im Vilajet
+Aidin bisher gefundenen Arten. Diese wurden besonders von
+Frivaldszky und Krüper bei Smyrna, von Lederer
+bei Magnesia und im Bosz-dagh und von Löw an verschie‑
+denen Küstenlokalitäten und auf Rhodus gesammelt. An Tag‑
+faltern wird wohl wenig Neues mehr für dies Vilajet hinzu‑
+kommen; aber alle anderen Familien, besonders die der soge‑
+nannten Microlepidopteren, werden hier noch einen ganz be‑
+deutenden Zuwachs erhalten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="292" y="2878"/>
+	<Point x="2036" y="2878"/>
+	<Point x="2036" y="3053"/>
+	<Point x="292" y="3053"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die vierte Kolonne enthält unter T. die im Vilajet Adana,
+besonders im silicischen Taurus und bei Mersin von Kinder-</Unicode></TextEquiv></TextRegion></Page></PcGts>

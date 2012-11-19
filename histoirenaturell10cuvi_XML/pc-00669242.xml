@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669242">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:41:27</Created>
+	<LastChange>2012-03-12T14:33:51</LastChange></Metadata>
+	<Page imageFilename="00669242.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="307" y="326"/>
+	<Point x="1720" y="326"/>
+	<Point x="1720" y="820"/>
+	<Point x="1411" y="819"/>
+	<Point x="891" y="820"/>
+	<Point x="880" y="835"/>
+	<Point x="852" y="835"/>
+	<Point x="842" y="824"/>
+	<Point x="481" y="824"/>
+	<Point x="471" y="841"/>
+	<Point x="402" y="841"/>
+	<Point x="399" y="823"/>
+	<Point x="308" y="823"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ressemblance avec nos tænioïdes actuels, par
+l’absence ou l’état rudimentaire des ventrales
+de ceux-ci, leur peau nue et argentée, la
+disposition des viscères, et surtout par la réu‐
+nion des cœcums innombrables qui entourent
+le pylore ou l’origine du duodénum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="312" y="844"/>
+	<Point x="486" y="844"/>
+	<Point x="490" y="830"/>
+	<Point x="839" y="829"/>
+	<Point x="854" y="840"/>
+	<Point x="888" y="840"/>
+	<Point x="899" y="826"/>
+	<Point x="1722" y="826"/>
+	<Point x="1724" y="1159"/>
+	<Point x="1728" y="1680"/>
+	<Point x="1729" y="1968"/>
+	<Point x="1730" y="2513"/>
+	<Point x="726" y="2513"/>
+	<Point x="703" y="2514"/>
+	<Point x="693" y="2527"/>
+	<Point x="311" y="2527"/>
+	<Point x="312" y="2351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D’un autre côté les tænioïdes ont de lon‐
+gues dorsales souvent réunies avec la caudale;
+l’anale, quand elle existe, oﬀre quelquefois
+aussi la même disposition; leurs rayons arti‐
+culés le plus souvent simples, leur nombre
+aux ventrales souvent réduit à un seul, ou
+à moins de cinq; la position de ces nageoires
+avancées sous la gorge composent une com‐
+binaison de caractères qui semblent lier cette
+famille à celle des Blennies, dont nous écri‐
+rons l’histoire dans le volume suivant. Enﬁn,
+la petitesse de la bouche et la protractilité
+du museau des trachyptères, la grandeur du
+maxillaire, formant une grande plaque argentée
+de chaque côté de la joue, rappellent bien
+aussi quelques-uns des caractères des zées.
+Nous croyons donc être dirigés par les prin‐
+cipes de la méthode naturelle, en plaçant
+très-près des scombéroïdes les acanthoptéry-
+giens à corps en ruban.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="321" y="2532"/>
+	<Point x="705" y="2532"/>
+	<Point x="711" y="2518"/>
+	<Point x="1721" y="2518"/>
+	<Point x="1721" y="2703"/>
+	<Point x="1329" y="2702"/>
+	<Point x="881" y="2704"/>
+	<Point x="320" y="2704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En résumant les caractères généraux de
+notre famille des tænioïdes, on trouve bien-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="303" y="224"/>
+	<Point x="460" y="224"/>
+	<Point x="460" y="303"/>
+	<Point x="303" y="303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>310</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="801" y="228"/>
+	<Point x="1230" y="228"/>
+	<Point x="1230" y="298"/>
+	<Point x="801" y="298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE ONZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

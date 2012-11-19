@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668269">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T09:52:17</Created>
+	<LastChange>2012-02-10T09:52:49</LastChange></Metadata>
+	<Page imageFilename="00668269.tif" imageWidth="2526" imageHeight="3172">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r21" index="13"/>
+	<RegionRefIndexed regionRef="r23" index="14"/>
+	<RegionRefIndexed regionRef="r25" index="15"/>
+	<RegionRefIndexed regionRef="r27" index="16"/>
+	<RegionRefIndexed regionRef="r16" index="17"/>
+	<RegionRefIndexed regionRef="r29" index="18"/>
+	<RegionRefIndexed regionRef="r33" index="19"/>
+	<RegionRefIndexed regionRef="r35" index="20"/>
+	<RegionRefIndexed regionRef="r18" index="21"/>
+	<RegionRefIndexed regionRef="r19" index="22"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1058" y="245"/>
+	<Point x="1455" y="245"/>
+	<Point x="1455" y="311"/>
+	<Point x="1058" y="311"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1172" y="351"/>
+	<Point x="1334" y="351"/>
+	<Point x="1334" y="393"/>
+	<Point x="1172" y="393"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="461" y="433"/>
+	<Point x="1106" y="433"/>
+	<Point x="1106" y="487"/>
+	<Point x="461" y="487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 7. (Fig. a and b. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="334" y="495"/>
+	<Point x="1234" y="495"/>
+	<Point x="1235" y="733"/>
+	<Point x="334" y="732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS GILVUS. Bul. testâ subglobosâ, apice obtusâ, an‐
+fractibus senis, rotundatis, concentricè striatis, aperturâ
+subcontractâ, columellâ vix curvatâ; gilvâ vel ustulato‐
+rufâ, anfractu ultimo obscurè unifasciato, epidermide
+simplici indutâ, peritremate collumellâque livido-albis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="340" y="736"/>
+	<Point x="1233" y="736"/>
+	<Point x="1233" y="1061"/>
+	<Point x="340" y="1061"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BRICK‐COLOURED BULIMUS. Shell somewhat globose,
+obtuse at the apex, whorls six in number, rounded,
+concentrically striated, aperture rather contracted,
+columella slightly curved; brick-coloured or burnt‐
+red, last whorl encircled with an obscure band,
+covered with a simple epidermis, peritreme and colu‐
+mella livid-white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="338" y="1068"/>
+	<Point x="948" y="1068"/>
+	<Point x="948" y="1115"/>
+	<Point x="338" y="1115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOWERBY, Pro. Zool. Soc., 1845, p. 45.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="330" y="1118"/>
+	<Point x="1226" y="1118"/>
+	<Point x="1226" y="1213"/>
+	<Point x="330" y="1213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Island of Bohol, Philippines (on the leaves of trees);
+Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="333" y="1221"/>
+	<Point x="1227" y="1221"/>
+	<Point x="1227" y="1647"/>
+	<Point x="333" y="1647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The specimens of B. gilvus ﬁgured give a tolerable idea
+of the varieties of the species, which only aﬀect the shell
+so far as the depth of colour and thickness of the epidermis
+are concerned. The last whorl exhibits an obscure band
+round the lower part, and the concentric striæ are rather
+prominently developed, but there is no epidermal pattern
+or conﬁguration. The livid-white peritreme and columella
+are rather a characteristic feature in the species. It appears
+to be conﬁned to the Island of Bohol.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="329" y="1654"/>
+	<Point x="1225" y="1654"/>
+	<Point x="1225" y="1836"/>
+	<Point x="329" y="1836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The B. gilvus, it will be observed, partakes much more
+of the character of Helix than the following, which Mr.
+Broderip refers to that genus according to the method
+of De Férussac.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="440" y="1900"/>
+	<Point x="1112" y="1900"/>
+	<Point x="1112" y="1949"/>
+	<Point x="440" y="1949"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 8. (Fig. a, b, and c. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="332" y="1957"/>
+	<Point x="1227" y="1957"/>
+	<Point x="1227" y="2290"/>
+	<Point x="332" y="2290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS DAPHNIS. Bul. testâ pyramidali ovatâ, anfrac‐
+tibus senis, convexis, plus minus ventricosis, aperturâ
+subcontractâ, columellâ subrectâ; nigricante-purpureâ
+spadiceâque, epidermide vel simplici, vel in strigis
+longitudinalibus, vel in fasciis lineisve transversis; colu‐
+mellâ roseo-purpureâ, aperturâ cærulescente-albâ, peri‐
+tremate nigricante-purpureâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="327" y="2293"/>
+	<Point x="1222" y="2292"/>
+	<Point x="1222" y="2628"/>
+	<Point x="328" y="2628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE DAPHNIS BULIMUS. Shell pyramidal, ovate, whorls
+six in number, convex, more or less ventricose, aper‐
+ture somewhat contracted, columella nearly straight;
+blackish purple or fawn colour, epidermis either
+simple or disposed in longitudinal streaks or trans‐
+verse bands and lines, columella pinkish purple,
+aperture blueish white, peritreme blackish purple.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1278" y="434"/>
+	<Point x="2163" y="434"/>
+	<Point x="2163" y="532"/>
+	<Point x="1278" y="532"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Helix (Cochlostyla) Daphnis, Broderip, Pro. Zool. Soc.,
+1840, p. 180.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1268" y="1691"/>
+	<Point x="2159" y="1691"/>
+	<Point x="2159" y="1976"/>
+	<Point x="1268" y="1976"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SOLID BULIMUS. Shell oblong, somewhat elongated,
+whorls seven in number, the last very obsoletely
+angled towards the base; columella slightly twisted;
+blackish-purple, epidermis in close-set irregular lon‐
+gitudinal streaks, aperture blueish, peritreme blackish‐
+purple.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1264" y="2463"/>
+	<Point x="2150" y="2463"/>
+	<Point x="2150" y="2605"/>
+	<Point x="1264" y="2605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The name devoted to this species is rather an inappro‐
+priate one, the shell being of no more solid growth than
+its congeners.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1142" y="2668"/>
+	<Point x="1338" y="2668"/>
+	<Point x="1338" y="2715"/>
+	<Point x="1142" y="2715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>April, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1271" y="535"/>
+	<Point x="2165" y="535"/>
+	<Point x="2165" y="678"/>
+	<Point x="1271" y="678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Fig. a, Island of Siquijor; Fig. b, Argao, Island of
+Zebu; Fig. c, San Nicolas, Island of Zebu, Philippines
+(on the trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1268" y="684"/>
+	<Point x="2168" y="684"/>
+	<Point x="2168" y="1264"/>
+	<Point x="1268" y="1264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Of the varieties of this charming species it may be said
+their name is legion, all remarkable for their neatness and
+alike worthy to sustain the rural dignity of the pastoral
+shepherd and poet whose name they bear. Of the speci‐
+mens selected for representation, one has the epidermis
+disposed in transverse bands, another in concentric streaks,
+whilst in the third it is without any indication of pattern;
+and it may be observed that they vary even in form. In
+the most important part of the shell, the aperture and
+columella, they resemble each other perfectly, and not the
+least permanent character of the species resides in the
+pinky colouring of those parts.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="heading">
+	<Coords>
+	<Point x="1498" y="1343"/>
+	<Point x="1928" y="1343"/>
+	<Point x="1928" y="1390"/>
+	<Point x="1498" y="1390"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 9. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1270" y="1399"/>
+	<Point x="2161" y="1398"/>
+	<Point x="2160" y="1688"/>
+	<Point x="1270" y="1688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS SOLIDUS. Bul. testâ oblongâ, subelongatâ, an‐
+fractibus septenis, ultimo basin versus obsoletissimè
+angulato; columellâ subintortâ; nigricante-purpureâ,
+epidermide in strigis longitudinalibus, confertis, irregu‐
+laribus, aperturâ cærulescente, peritremate nigricante-
+purpureâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1264" y="1979"/>
+	<Point x="1903" y="1979"/>
+	<Point x="1903" y="2021"/>
+	<Point x="1264" y="2021"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc., 1842, p. 152.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="1264" y="2024"/>
+	<Point x="2153" y="2024"/>
+	<Point x="2153" y="2117"/>
+	<Point x="1264" y="2117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. San Juan, Province of Cagayan, Island of Luzon,
+Philippines (on leaves of trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="1262" y="2123"/>
+	<Point x="2152" y="2123"/>
+	<Point x="2152" y="2457"/>
+	<Point x="1262" y="2457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This species, of which Mr. Cuming collected only a few
+specimens, is of an elongately oblong form, and composed
+of one more whorl than any of the preceding; it is of
+rather dark colour, and the longitudinal streaks of epi‐
+dermis are very irregular and close-set. There is a variety
+in which the last whorl is more inﬂated and has a whitish
+band.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r36">
+	<Coords>
+	<Point x="1240" y="439"/>
+	<Point x="1231" y="2629"/>
+	<Point x="1255" y="2629"/>
+	<Point x="1259" y="439"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r38">
+	<Coords>
+	<Point x="1483" y="2610"/>
+	<Point x="1483" y="2627"/>
+	<Point x="1937" y="2627"/>
+	<Point x="1937" y="2610"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r37">
+	<Coords>
+	<Point x="1503" y="1292"/>
+	<Point x="1503" y="1316"/>
+	<Point x="1917" y="1316"/>
+	<Point x="1917" y="1292"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r39">
+	<Coords>
+	<Point x="523" y="1851"/>
+	<Point x="523" y="1880"/>
+	<Point x="1003" y="1880"/>
+	<Point x="1003" y="1851"/></Coords></SeparatorRegion></Page></PcGts>

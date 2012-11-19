@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669147">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:30:28</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669147.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r21" index="7"/>
+	<RegionRefIndexed regionRef="r35" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="224" y="318"/>
+	<Point x="1578" y="318"/>
+	<Point x="1578" y="617"/>
+	<Point x="224" y="617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout ce poisson est d’un brun foncé uniforme;
+les rayons de ses pectorales ont une teinte pâle, et
+on aperçoit, mais à peine, un petit liséré blanchâtre
+au bord externe de la caudale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="160" y="650"/>
+	<Point x="1580" y="650"/>
+	<Point x="1580" y="908"/>
+	<Point x="160" y="908"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus, dans la liqueur, ne sont
+longs que de trois à quatre pouces: celui de
+Commerson en avait sept.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="157" y="911"/>
+	<Point x="1585" y="911"/>
+	<Point x="1585" y="1402"/>
+	<Point x="157" y="1402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce nous paraît le vrai chætodon
+nigro-fuscus de Forskal (p. 64), que cet ob‐
+servateur caractérise par un corps d’un brun
+noir, par des pointes à la caudale, moitié moins
+longues qu’elle, et par un léger liséré blanc à
+son bord terminal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="165" y="1412"/>
+	<Point x="1585" y="1412"/>
+	<Point x="1585" y="1569"/>
+	<Point x="165" y="1569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il lui donne d’ailleurs, à peu près, les
+mêmes nombres:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="438" y="1592"/>
+	<Point x="1318" y="1592"/>
+	<Point x="1318" y="1668"/>
+	<Point x="438" y="1668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 8/25; A. 3/24; C. 16; P. 15; V. 1/5,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="169" y="1680"/>
+	<Point x="1194" y="1680"/>
+	<Point x="1194" y="1763"/>
+	<Point x="169" y="1763"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et une longueur de cinq pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="161" y="1766"/>
+	<Point x="1586" y="1766"/>
+	<Point x="1586" y="1940"/>
+	<Point x="161" y="1940"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Arabes, dit-il, l’appellent à Djedda tægà,
+mot qui signiﬁe fauve.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="169" y="2260"/>
+	<Point x="1592" y="2260"/>
+	<Point x="1592" y="2432"/>
+	<Point x="169" y="2432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Dussumier vient de rapporter des Sé-
+chelles un</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="229" y="2456"/>
+	<Point x="1600" y="2456"/>
+	<Point x="1600" y="2696"/>
+	<Point x="229" y="2696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>acanthure de même forme que le précédent, c’est-
+à-dire, qui a de même le proﬁl légèrement convexe,
+le corps élevé, les pointes de la caudale aiguës et</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="584" y="229"/>
+	<Point x="1164" y="229"/>
+	<Point x="1164" y="296"/>
+	<Point x="584" y="296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="page-number">
+	<Coords>
+	<Point x="1439" y="218"/>
+	<Point x="1574" y="218"/>
+	<Point x="1574" y="296"/>
+	<Point x="1439" y="296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>215</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="heading">
+	<Coords>
+	<Point x="301" y="2040"/>
+	<Point x="1465" y="2040"/>
+	<Point x="1465" y="2115"/>
+	<Point x="301" y="2115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE AUX NAGEOIRES JAUNES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="486" y="2145"/>
+	<Point x="1275" y="2145"/>
+	<Point x="1275" y="2233"/>
+	<Point x="486" y="2233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus xanthopterus.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669019">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:14:35</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669019.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r18" index="3"/>
+	<RegionRefIndexed regionRef="r24" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r26" index="7"/>
+	<RegionRefIndexed regionRef="r32" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="163" y="285"/>
+	<Point x="1508" y="290"/>
+	<Point x="1511" y="587"/>
+	<Point x="366" y="596"/>
+	<Point x="175" y="594"/>
+	<Point x="162" y="584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ses épines dorsales sont bien plus grêles, et la
+deuxième plus longue que dans l’espèce précédente;
+le rayon de celle-ci a plus de moitié de la hauteur
+du corps.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="158" y="601"/>
+	<Point x="1015" y="595"/>
+	<Point x="1501" y="596"/>
+	<Point x="1501" y="1046"/>
+	<Point x="1280" y="1048"/>
+	<Point x="158" y="1046"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout son corps est argenté, teint de bleuâtre vers
+le dos; une bande longitudinale d’un argenté bril‐
+lant et pur sépare le bleu de l’argenté du ventre, et
+sur ce bleu sont beaucoup de petites lignes et taches
+verticales d’un vert noirâtre. Les nageoires sont
+blanches; il y a du noir dans l’aisselle de la pectorale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="171" y="1064"/>
+	<Point x="1495" y="1069"/>
+	<Point x="1495" y="1159"/>
+	<Point x="171" y="1152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus sont longs de trois pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="91" y="1476"/>
+	<Point x="1502" y="1476"/>
+	<Point x="1502" y="1661"/>
+	<Point x="91" y="1661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est aussi une espèce oblongue, mais d’une
+apparence particulière</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="139" y="1673"/>
+	<Point x="1496" y="1673"/>
+	<Point x="1500" y="2486"/>
+	<Point x="357" y="2483"/>
+	<Point x="351" y="2502"/>
+	<Point x="139" y="2502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>par sa tête plus petite que celle des autres, excepté
+tout au plus le dacer : elle n’a que le cinquième de
+la longueur du corps et moitié de sa hauteur, qui
+elle-même est le tiers de la longueur totale. Les lignes
+de son front et de sa gorge sont presque droites, et
+au total, en faisant abstraction des nageoires, ce petit
+poisson a presque l’air d’une liche. Ses dents sont peu
+sensibles et ses épines surcilières peu apparentes; son
+second rayon dorsal n’a guère que le tiers de la
+hauteur du corps, et celui de l’anale est encore
+un peu moindre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="539" y="201"/>
+	<Point x="1070" y="201"/>
+	<Point x="1070" y="273"/>
+	<Point x="539" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1392" y="194"/>
+	<Point x="1500" y="194"/>
+	<Point x="1500" y="266"/>
+	<Point x="1392" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>87</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="395" y="1258"/>
+	<Point x="1192" y="1258"/>
+	<Point x="1192" y="1341"/>
+	<Point x="395" y="1341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA A PETITE TÊTE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="436" y="1363"/>
+	<Point x="1152" y="1363"/>
+	<Point x="1152" y="1455"/>
+	<Point x="436" y="1455"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula parviceps, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="589" y="2498"/>
+	<Point x="1105" y="2498"/>
+	<Point x="1105" y="2573"/>
+	<Point x="589" y="2573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 8/15; A. 3/14, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="210" y="2579"/>
+	<Point x="1488" y="2579"/>
+	<Point x="1488" y="2658"/>
+	<Point x="210" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson est argenté, légèrement teint de vio-</Unicode></TextEquiv></TextRegion></Page></PcGts>

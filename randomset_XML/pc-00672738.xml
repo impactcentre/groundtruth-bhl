@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672738">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:05:07</Created>
+	<LastChange>2012-02-10T10:29:46</LastChange></Metadata>
+	<Page imageFilename="00672738.tif" imageWidth="2054" imageHeight="3282">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="822" y="248"/>
+	<Point x="1287" y="248"/>
+	<Point x="1287" y="325"/>
+	<Point x="822" y="325"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>INTRODUCTION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1838" y="245"/>
+	<Point x="1919" y="245"/>
+	<Point x="1919" y="329"/>
+	<Point x="1838" y="329"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>9</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="154" y="383"/>
+	<Point x="1925" y="383"/>
+	<Point x="1925" y="961"/>
+	<Point x="154" y="961"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>the clean sweep of the fauna altogether, and thinks it may have
+survived in the southern part of England, whence it again
+spread northwards with the return of more favourable con-
+ditions; although with the loss of such forms as were unable
+to withstand a considerable amount of cold. On this latter
+view it is considered that Britain was never connected with
+the Continent after the passing away of the Glacial period.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="151" y="967"/>
+	<Point x="1929" y="967"/>
+	<Point x="1929" y="1432"/>
+	<Point x="151" y="1432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>To make matters more intelligible, we may give a summary
+(taken from Mr. Horace Woodward's “Geology of England”)
+of what Prof. James Geikie considers to have been the
+sequence of physical changes in Britain subsequent to the
+deposition of the Norfolk forest-bed, arranged in chronological
+order.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="138" y="1467"/>
+	<Point x="1922" y="1467"/>
+	<Point x="1922" y="1635"/>
+	<Point x="138" y="1635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Deposition of Norfolk forest-bed, and indications of ap-
+proaching cold.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="135" y="1651"/>
+	<Point x="1929" y="1651"/>
+	<Point x="1929" y="1896"/>
+	<Point x="135" y="1896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. “Till” deposits of Cromer, and the lowest Boulder Clay
+(an ice-formation) of other parts; this being a period of eleva-
+tion of land, accompanied by severe glacial conditions.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="135" y="1903"/>
+	<Point x="1925" y="1903"/>
+	<Point x="1925" y="2241"/>
+	<Point x="135" y="2241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. Period of considerable submergence, during which marine
+sands and gravels were deposited in many parts, reaching nearly
+to the summit of Moel Tryfaen; this epoch being apparently
+equivalent to Dr. Wallace's great period of submergence.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="125" y="2245"/>
+	<Point x="1932" y="2245"/>
+	<Point x="1932" y="2735"/>
+	<Point x="125" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4. Period of elevation of land, during which a large portion
+of Britain was covered with sheet-ice, and the greater part of
+the Boulder Clay was deposited; this being the period when,
+according to the more general view, the country was unin-
+habited by the greater part of the Mammals with which it is
+now populated.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="132" y="2745"/>
+	<Point x="1919" y="2745"/>
+	<Point x="1919" y="3103"/>
+	<Point x="132" y="3103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5. A period of less severe climatic conditions, during which
+the brick-earths and cavern deposits were laid down, and the
+climate gradually changed from intense cold to temperate and
+genial; Arctic and Southern animals visiting Britain, according</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669347">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:54:41</Created>
+	<LastChange>2012-03-12T14:33:57</LastChange></Metadata>
+	<Page imageFilename="00669347.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="30" y="246"/>
+	<Point x="1461" y="247"/>
+	<Point x="1461" y="746"/>
+	<Point x="1030" y="747"/>
+	<Point x="954" y="761"/>
+	<Point x="182" y="760"/>
+	<Point x="142" y="771"/>
+	<Point x="34" y="771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lèvre supérieure, ni le tubercule de l'inférieure,
+ni la dentelure du sous-orbitaire, ni la con-
+vexité des opercules, ni l'appareil pharyngien
+si extraordinaire, surtout par sa charpente os-
+seuse, ni ce gésier si rare parmi les poissons,
+qui vient à la suite du premier estomac.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="34" y="775"/>
+	<Point x="179" y="775"/>
+	<Point x="205" y="764"/>
+	<Point x="995" y="765"/>
+	<Point x="1023" y="757"/>
+	<Point x="1458" y="756"/>
+	<Point x="1458" y="1347"/>
+	<Point x="37" y="1347"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Leur mâchoire supérieure est beaucoup plus
+protractile que celle des muges, et dans quel-
+ques espèces autant que celle des picarels (sma-
+ris, nob.). C'est à peine si l'on aperçoit avec
+une forte loupe les très-petites dents qui gar-
+nissent les mâchoires et diverses parties de
+leur bouche.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="37" y="1352"/>
+	<Point x="1454" y="1352"/>
+	<Point x="1454" y="1864"/>
+	<Point x="37" y="1864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les pharyngiens ont la forme ordinaire que
+l'on observe dans presque tous les acanthopté-
+rygiens, et sont hérissés de petites dents serrées:
+le premier arceau des branchies a de longues
+pectinations grêles; mais on ne voit aux autres
+que de petits tubercules âpres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="47" y="1868"/>
+	<Point x="1125" y="1867"/>
+	<Point x="1458" y="1868"/>
+	<Point x="1458" y="2624"/>
+	<Point x="47" y="2624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La membrane des branchies a six rayons,
+comme dans les muges, ainsi que le dit très-
+bien Linné, quoique Gronovius n'en ait vu
+que trois, et que Bloch n'en assigne pas davan-
+tage; mais le nombre de ceux des nageoires
+est beaucoup plus varié, selon les diverses
+espèces, que dans le genre des muges, où ces
+variations se renferment dans des limites fort
+étroites.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="877" y="135"/>
+	<Point x="877" y="223"/>
+	<Point x="587" y="223"/>
+	<Point x="587" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1449" y="135"/>
+	<Point x="1449" y="223"/>
+	<Point x="1294" y="223"/>
+	<Point x="1294" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>415</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667914">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T06:12:33</Created>
+	<LastChange>2012-02-10T09:52:21</LastChange></Metadata>
+	<Page imageFilename="00667914.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r19" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="226" y="273"/>
+	<Point x="302" y="273"/>
+	<Point x="302" y="333"/>
+	<Point x="226" y="333"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>46</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="959" y="261"/>
+	<Point x="1376" y="261"/>
+	<Point x="1376" y="326"/>
+	<Point x="959" y="326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE HAWFINCH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="204" y="380"/>
+	<Point x="2114" y="380"/>
+	<Point x="2114" y="950"/>
+	<Point x="204" y="950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>occasion I called upon them to try and obtain a cock bird for breeding purposes;
+and, seeing that they had paired a Greenﬁnch and hen Canary in one of their
+cages, I asked why they were trying to breed such ugly unremunerative mules.
+They replied that their stock was getting weak, and they always introduced Green-
+ﬁnch blood when their birds were falling oﬀ in vigour, and then bred out the
+taint, pairing the mules with Canaries. This has been supposed an impossibility;
+yet it was spoken of as a matter of course. Since then other mules, said to have
+been bred from hybrids, paired with either parent stock, have been exhibited at
+the Crystal Palace.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="859" y="1578"/>
+	<Point x="1442" y="1578"/>
+	<Point x="1442" y="1654"/>
+	<Point x="859" y="1654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE HAWFINCH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="804" y="1745"/>
+	<Point x="1514" y="1745"/>
+	<Point x="1514" y="1807"/>
+	<Point x="804" y="1807"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Coccothraustes vulgaris, PALLAS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="351" y="2072"/>
+	<Point x="351" y="1935"/>
+	<Point x="356" y="1926"/>
+	<Point x="351" y="1917"/>
+	<Point x="351" y="1895"/>
+	<Point x="2097" y="1895"/>
+	<Point x="2097" y="2271"/>
+	<Point x="214" y="2271"/>
+	<Point x="214" y="2072"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HIS extremely ungainly bird is distributed over nearly the whole of Europe;
+breeding in Russia as far northwards as St. Petersburg, but only visiting
+Scandinavia in the winter; its range extends eastwards to Asia Minor,
+and the Caucasus, and possibly to Northern Persia and Turkestan. On the
+African Continent a few examples breed in Algeria, and the species has been
+known to straggle as far northward as Egypt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="207" y="2276"/>
+	<Point x="2119" y="2276"/>
+	<Point x="2119" y="2702"/>
+	<Point x="458" y="2706"/>
+	<Point x="211" y="2702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Great Britain the Hawﬁnch is local, but according to the late Howard
+Saunders has been increasing in numbers for the past ﬁfty years; he attributes
+this fact to the increase of market-gardens. Formerly it was rare in Wales and
+the extreme western counties from Cornwall to Cumberland; but breeding in suitable
+localities in most of the counties of England and in Ireland. To Scotland it is
+still chieﬂy an accidental winter visitant, though one nest was obtained in 1903
+near Newport, in the east of Fifeshire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="328" y="2711"/>
+	<Point x="2097" y="2711"/>
+	<Point x="2097" y="2771"/>
+	<Point x="328" y="2771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Although the form of the Hawﬁnch is anything but graceful, its colouring is</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="1026" y="1109"/>
+	<Point x="1271" y="1109"/>
+	<Point x="1271" y="1138"/>
+	<Point x="1026" y="1138"/></Coords></SeparatorRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="226" y="1328"/>
+	<Point x="864" y="1328"/>
+	<Point x="864" y="1385"/>
+	<Point x="226" y="1385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1211" y="1321"/>
+	<Point x="2102" y="1321"/>
+	<Point x="2102" y="1382"/>
+	<Point x="1422" y="1388"/>
+	<Point x="1211" y="1382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—COCCOTHRAUSTINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="drop-capital">
+	<Coords>
+	<Point x="234" y="1900"/>
+	<Point x="234" y="2043"/>
+	<Point x="348" y="2043"/>
+	<Point x="348" y="1936"/>
+	<Point x="350" y="1929"/>
+	<Point x="348" y="1918"/>
+	<Point x="348" y="1900"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668021">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:23:29</Created>
+	<LastChange>2012-02-10T09:52:31</LastChange></Metadata>
+	<Page imageFilename="00668021.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/>
+	<RegionRefIndexed regionRef="r16" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r17" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="930" y="222"/>
+	<Point x="1348" y="222"/>
+	<Point x="1348" y="302"/>
+	<Point x="930" y="302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CHAFFINCH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="2001" y="244"/>
+	<Point x="2087" y="244"/>
+	<Point x="2087" y="310"/>
+	<Point x="2001" y="310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>97</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="206" y="350"/>
+	<Point x="2077" y="350"/>
+	<Point x="2077" y="486"/>
+	<Point x="206" y="486"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>with the House-Sparrow.” It would, therefore, appear that, if properly treated,
+this species does become steady enough to breed in conﬁnement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="199" y="491"/>
+	<Point x="2091" y="491"/>
+	<Point x="2091" y="998"/>
+	<Point x="199" y="998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I have been told, by Aviculturists who have kept the Tree-Sparrow, that it
+is not tyrannical in an aviary; it must, however, be borne in mind, that an indi‐
+vidual does not necessarily exhibit the characteristics of a species; even half a
+dozen specimens may all be of a peaceful disposition (as was the case with my
+Robins, which never fought with any but their own species). On the other hand
+one vicious Tree-Sparrow, associated with birds weaker than itself, might do much
+mischief in a very short space of time: its powerful beak would enable it to kill
+or maim any smaller or weaker bird without the least trouble.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="830" y="1527"/>
+	<Point x="1470" y="1527"/>
+	<Point x="1470" y="1647"/>
+	<Point x="830" y="1647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CHAFFINCH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="882" y="1710"/>
+	<Point x="1235" y="1709"/>
+	<Point x="1425" y="1710"/>
+	<Point x="1425" y="1800"/>
+	<Point x="882" y="1800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fringilla cœlebs, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="344" y="2058"/>
+	<Point x="345" y="1852"/>
+	<Point x="2092" y="1851"/>
+	<Point x="2089" y="2358"/>
+	<Point x="202" y="2365"/>
+	<Point x="208" y="2062"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LTHOUGH the type of the family Fringillidœ and, therefore, the Finch of
+Finches, this species and the Brambling diﬀer much in their habits from
+the other British species of typical Finches (Fringillinœ) and one is
+surprised that any man, having the knowledge of living birds which Seebohm
+undoubtedly had, should have been content to place forms with Tit-like habits
+(Siskin, Goldﬁnch, Redpolls) in the same genus with the true species of Fringilla
+—birds which have the habits of Buntings. If distinctive structural characters
+were wholly absent, one could understand it.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="205" y="2368"/>
+	<Point x="2084" y="2363"/>
+	<Point x="2082" y="2671"/>
+	<Point x="204" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Chaﬃnch is distributed as a breeding species throughout Europe almost
+up to the North Cape, but in the south of Europe it chieﬂy haunts the mountains
+during the breeding season, wintering in the plains. It occurs locally in Morocco
+and Algeria, and winters in Egypt. In Asia it is said to breed in Palestine, Asia
+Minor, and Western Persia, and to winter in Turkestan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="323" y="2673"/>
+	<Point x="2077" y="2673"/>
+	<Point x="2077" y="2741"/>
+	<Point x="323" y="2741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Great Britain the Chaﬃnch is generally distributed; breeding freely in all</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="323" y="2753"/>
+	<Point x="323" y="2803"/>
+	<Point x="458" y="2803"/>
+	<Point x="458" y="2753"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="1737" y="2746"/>
+	<Point x="1810" y="2746"/>
+	<Point x="1810" y="2803"/>
+	<Point x="1737" y="2803"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="217" y="1306"/>
+	<Point x="855" y="1306"/>
+	<Point x="855" y="1394"/>
+	<Point x="217" y="1394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1345" y="1274"/>
+	<Point x="2081" y="1274"/>
+	<Point x="2081" y="1385"/>
+	<Point x="1345" y="1385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="drop-capital">
+	<Coords>
+	<Point x="226" y="1863"/>
+	<Point x="340" y="1863"/>
+	<Point x="340" y="2015"/>
+	<Point x="226" y="2015"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r18">
+	<Coords>
+	<Point x="1035" y="1142"/>
+	<Point x="1253" y="1142"/>
+	<Point x="1253" y="1168"/>
+	<Point x="1035" y="1168"/></Coords></SeparatorRegion></Page></PcGts>

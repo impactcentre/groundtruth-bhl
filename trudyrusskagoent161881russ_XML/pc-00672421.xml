@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672421">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:32:25</Created>
+	<LastChange>2012-02-10T09:54:50</LastChange></Metadata>
+	<Page imageFilename="00672421.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="819" y="153"/>
+	<Point x="1123" y="153"/>
+	<Point x="1123" y="224"/>
+	<Point x="819" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 227 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="103" y="287"/>
+	<Point x="1839" y="287"/>
+	<Point x="1839" y="1539"/>
+	<Point x="103" y="1539"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel über 5‴ lang, schmal, sanft erweitert, Vor-
+derrand vor der stumpfen Spitze ziemlich convex, Hinterrand
+schwach convex. Grundfarbe graubraun, am Vorderrande et-
+was heller. Gegen die Basis und in der Mitte der Falten-
+ﬂäche liegen zerstreut helle, gerundete Schuppen, dergleichen
+auch den obern Theil der hintern Querlinie einfassen. In der
+Mittelzelle vor der Flügelhälfte ist ein tiefschwarzer starker
+Punkt, welchem 2 schräg über einander gestellte folgen; hier-
+auf kommt ein undeutliches schwarzes Längsﬂeckchen, das die
+Stelle des Queraderpunkts einnimmt. Die (zweite) Querlinie,
+diesem näher als dem Hinterrande, ist hell, sägezähnig, ein-
+wärts mit tiefschwarzer, aber abwärts undeutlicher, an der
+obern Hälfte auswärts weisslicher Einfassung, basalwärts am
+Vorderrande durch einen weisslichen hellen Nebel begrenzt.
+Die schwarzen Hinterrandpunkte sind sehr undeutlich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="83" y="1544"/>
+	<Point x="1846" y="1544"/>
+	<Point x="1846" y="1955"/>
+	<Point x="83" y="1955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel gespitzt, hellgrau, gelblich schimmernd, stark
+durchscheinend, im Costalfelde grau; Hinterrand ziemlich schmal
+bräunlich gesäumt. Die Medianader grau, auf ihren Aesten
+in's Bräunliche übergehend. Franzen weisslich grau mit grauer
+Linie hinter der gelblichen Wurzel durchzogen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="87" y="1962"/>
+	<Point x="1839" y="1962"/>
+	<Point x="1839" y="2539"/>
+	<Point x="87" y="2539"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel grau mit röthlicher Costalader
+und schwarzem Costalﬂeck vor einem weissen nächst der
+Spitze. Medianader dreiästig; Ast 1 entspringt kurz hinter der
+Mitte; bald darauf Ast 2 und 3 so, dass sie eine Gabel mit
+kurzem Stiel bilden. — Hinterﬂügel etwas irisirend. Ast 1 der
+Medianader entspringt bei 1/3, Ast 2 und 3 bei 3/4, so dass
+der Stiel länger als die Gabel ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="199" y="2546"/>
+	<Point x="1801" y="2546"/>
+	<Point x="1801" y="2628"/>
+	<Point x="199" y="2628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3 ♀♀ bei Honda im letzten Aprildrittel Nachts gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="374" y="2751"/>
+	<Point x="1569" y="2751"/>
+	<Point x="1569" y="2842"/>
+	<Point x="374" y="2842"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Euzoph. Cundajensis Tab. XII, ﬁg. 36.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="83" y="2878"/>
+	<Point x="1817" y="2878"/>
+	<Point x="1817" y="3126"/>
+	<Point x="83" y="3126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis triangulis, porrectis; alis ant. angustis, sensim am-
+pliatis, luteo-cinereis, antice albidis, strigis duabus perobsoletis,
+priore maculis nigris indicata, punctis venae transversae duo-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1591" y="3151"/>
+	<Point x="1680" y="3151"/>
+	<Point x="1680" y="3203"/>
+	<Point x="1591" y="3203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>15*</Unicode></TextEquiv></TextRegion></Page></PcGts>

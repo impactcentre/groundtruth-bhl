@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668087">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T20:30:39</Created>
+	<LastChange>2012-02-10T09:52:35</LastChange></Metadata>
+	<Page imageFilename="00668087.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="760" y="216"/>
+	<Point x="1371" y="216"/>
+	<Point x="1371" y="288"/>
+	<Point x="760" y="288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LAPLAND BUNTING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="137" y="328"/>
+	<Point x="2015" y="328"/>
+	<Point x="2015" y="846"/>
+	<Point x="137" y="846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>according to Mr. Seebohm, not only the commonest, but also the most widely
+distributed bird on the tundras. In Asia it migrates further southwards than in
+Europe, reaching to about 30° N. lat. in China; whereas it is rare in the south
+of Russia and in Northern Italy, and as yet unknown in Spain. In Central
+Europe its occurrences are accidental, but further north they are naturally more
+frequent, and are regular on Heligoland in autumn. In America this species
+breeds throughout the far north; wintering in South Carolina, Kansas, and
+Colorado.” (Howard Saunders, Manual of British Birds, pp. 213-214).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="137" y="850"/>
+	<Point x="2022" y="850"/>
+	<Point x="2022" y="1843"/>
+	<Point x="137" y="1843"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>To Great Britain this species is an occasional, though not very infrequent
+visitor; upwards of forty examples apparently having been obtained previous to
+1890, since Selby ﬁrst recognized the bird, amongst some Larks forwarded to
+Leadenhall Market from Cambridgeshire, early in 1826. Since 1890 this species
+has visited us more frequently. In October and November, 1892, J. H. Gurney
+stated that at least ﬁfty-six were netted and shot in Norfolk. In the following
+year considerable numbers were seen on the Lincolnshire coast, a good many were
+recorded as having passed along the downs in February. In November of the
+same year a ﬂock of from sixty to eighty was seen near Flamborough by Matthew
+Bailey, and later a ﬂock of from a hundred to a hundred and twenty by J.
+Cordeaux. In the Zoologist for 1894, the late Rev. H. A. Macpherson stated
+that in the southern counties a few had been taken annually for the past dozen
+years near Dover, but that in November, 1893, only three were caught near
+Brighton. In 1900 Mr. Patterson reported their annual occurrence in greater or
+less numbers in Norfolk, and occurrences of the species in Sussex, Warwick,
+Yorkshire, Scotland, and Ireland have been recorded up to 1907.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="142" y="1847"/>
+	<Point x="2023" y="1847"/>
+	<Point x="2023" y="2725"/>
+	<Point x="142" y="2725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The male in breeding-plumage has the head, including the throat, and the
+breast velvety-black; a broad white superciliary stripe extends backwards over the
+ear-coverts, and is continued downwards on the sides of the neck; across the back
+of the neck is a broad collar of bright chestnut; the remainder of the upper
+surface (including the wing-coverts and secondaries) is blackish, the feathers
+bordered with tawny-buﬀ, or creamy-whitish; the primaries and tail-feathers deep
+brown, with narrow ashy margins, the two outer pairs of tail-feathers with elon‐
+gated dull white patches on the inner webs: remainder of under surface creamy-
+white, with black streaks on the ﬂanks: beak yellow, tipped with black; feet
+blackish-brown; iris hazel. The female is paler above and without the deﬁned
+collar on the nape, the feathers of the crown have tawny-margins, and a whitish
+stripe runs down the centre of the head: the ear-coverts are brown, partly edged
+with blackish; the cheeks and under surface are creamy white: a black line run‐
+ning below the cheeks to the upper throat, where the feathers are also black,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1907" y="233"/>
+	<Point x="1995" y="233"/>
+	<Point x="1995" y="287"/>
+	<Point x="1907" y="287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>131</Unicode></TextEquiv></TextRegion></Page></PcGts>

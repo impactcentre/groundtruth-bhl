@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672733">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:04:54</Created>
+	<LastChange>2012-02-10T10:29:46</LastChange></Metadata>
+	<Page imageFilename="00672733.tif" imageWidth="2158" imageHeight="2973">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="661" y="133"/>
+	<Point x="1509" y="133"/>
+	<Point x="1509" y="202"/>
+	<Point x="661" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PACIFIC COAST FISHERIES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="580" y="240"/>
+	<Point x="1596" y="241"/>
+	<Point x="1599" y="387"/>
+	<Point x="580" y="385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOUTHEASTERN REGION OF ALASKA
+OPERATING UNITS BY GEAR, 1965</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="193" y="2147"/>
+	<Point x="603" y="2147"/>
+	<Point x="603" y="2188"/>
+	<Point x="193" y="2188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1 INCLUDES HAUL SEINES.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r6">
+	<Coords>
+	<Point x="608" y="2201"/>
+	<Point x="651" y="2156"/>
+	<Point x="1332" y="2156"/>
+	<Point x="1332" y="2366"/>
+	<Point x="1682" y="2367"/>
+	<Point x="1683" y="2707"/>
+	<Point x="516" y="2707"/>
+	<Point x="516" y="2276"/></Coords></ImageRegion>
+	<TextRegion id="r7" type="caption">
+	<Coords>
+	<Point x="1401" y="2269"/>
+	<Point x="1705" y="2269"/>
+	<Point x="1705" y="2317"/>
+	<Point x="1401" y="2317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SALMON GILL NETTER</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1878" y="176"/>
+	<Point x="1973" y="176"/>
+	<Point x="1973" y="257"/>
+	<Point x="1878" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>407</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r3">
+	<Coords>
+	<Point x="191" y="394"/>
+	<Point x="1961" y="394"/>
+	<Point x="1961" y="2146"/>
+	<Point x="191" y="2146"/></Coords></TableRegion></Page></PcGts>

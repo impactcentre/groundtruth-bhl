@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672769">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:37:13</Created>
+	<LastChange>2012-02-10T10:29:47</LastChange></Metadata>
+	<Page imageFilename="00672769.tif" imageWidth="1752" imageHeight="2697">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r14" index="0"/></OrderedGroup></ReadingOrder>
+	<ImageRegion id="r5">
+	<Coords>
+	<Point x="934" y="1162"/>
+	<Point x="1492" y="1162"/>
+	<Point x="1492" y="1598"/>
+	<Point x="934" y="1598"/></Coords></ImageRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="277" y="194"/>
+	<Point x="1343" y="194"/>
+	<Point x="1343" y="270"/>
+	<Point x="277" y="270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wedge-shells, Venus-shells, and Cockles</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1364" y="208"/>
+	<Point x="1475" y="208"/>
+	<Point x="1475" y="262"/>
+	<Point x="1364" y="262"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>131</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="caption">
+	<Coords>
+	<Point x="999" y="1606"/>
+	<Point x="1432" y="1606"/>
+	<Point x="1432" y="1641"/>
+	<Point x="999" y="1641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Interior of smooth venus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="118" y="317"/>
+	<Point x="1488" y="317"/>
+	<Point x="1488" y="1140"/>
+	<Point x="909" y="1141"/>
+	<Point x="908" y="1660"/>
+	<Point x="1487" y="1660"/>
+	<Point x="1488" y="1700"/>
+	<Point x="1488" y="2507"/>
+	<Point x="118" y="2507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>margins, which are round - edged, and perfectly
+smooth. The concentric lines are so slight that they
+at ﬁrst sight appear to be more due to colour than to
+sculpture; and the character of the epidermis is such
+that it resembles a coat of varnish. The animal is
+ﬂesh-coloured with a tendency towards orange. The
+mantle is slightly scalloped along the lower margin,
+and has a few tentacles at the front. The orange
+tubes of this species are not united all the way, and
+their mouths are fringed with black-tipped tentacles.
+The large, thick foot is dark ﬂesh-tinted. It is not
+generally distributed, its range in our waters being
+conﬁned to the south and west,
+where it dwells in sand at
+depths between 12 and 25
+fathoms. It is a good edible
+species, not only for man, but
+is also appreciated by ﬁsh and
+bird; hence its thick hard
+valves, which probably are
+needed not only to resist the
+jaws and palate teeth of big ﬁshes, but to prevent
+injury from rolling about in great commotions of the
+lower waters. We have seen it washed up on Cornish
+beaches after continued heavy gales, and have seen
+the Razor-bills and Puﬃns attack it with their
+powerful bills, nipping oﬀ a little of the shell at one
+end to admit the point of their beak in order to
+sever the adductor muscle which keeps the valves
+closed. It is to these muscles and the exceedingly
+powerful hinge-teeth that the inviolability of the
+shell is due, for there are no cogs along the margins
+by which the valves may interlock.</Unicode></TextEquiv></TextRegion></Page></PcGts>

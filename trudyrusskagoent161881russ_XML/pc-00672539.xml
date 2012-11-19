@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672539">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T22:24:15</Created>
+	<LastChange>2012-02-10T09:55:08</LastChange></Metadata>
+	<Page imageFilename="00672539.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="785" y="162"/>
+	<Point x="1105" y="162"/>
+	<Point x="1105" y="239"/>
+	<Point x="785" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 343 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="69" y="291"/>
+	<Point x="1824" y="291"/>
+	<Point x="1824" y="1226"/>
+	<Point x="69" y="1226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>endroit pendant trois semaines, car ils s'y trouvait des lépi-
+doptères intéressants en grand nombre: Colias Thisoa, nouvelle
+et curieuse Colias Staudingeri, Erebia Kalmuka, Erebia Sibo,
+Melitaea Solona, Arctia Mannii etc. C'est ici également que
+nous prîmes nos uniques exemplaires de la Colias Aurora et
+Plusia Diasema; nos chasseurs y trouvèrent aussi une belle
+chasse et nos aminaux de bons pâturages. Nous faisions sou-
+vent des excursions aux sommets des montagnes, nous élevant
+jusqu'à 11,000´ et au-dessus. Je ne parlerai pas ici
+des observations intéressantes, que nous fîmes en cet endroit,
+pour la Faune en général, cela nous mènerait trop loin.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="69" y="1241"/>
+	<Point x="1826" y="1241"/>
+	<Point x="1826" y="2664"/>
+	<Point x="69" y="2664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le 7 Juillet nous quittâmes l'Archane et poursuivimes notre
+voyage le long du Kounguesse, qui, cet afﬂuent dépassé, se
+réduit de moitié. Bientôt nous eûmes dépassé aussi le Tcha-
+rantokhoï, autre afﬂuent important, qui diminue encore le Koun-
+guesse de moitié. Encore quelques kilomètres et nous étions
+devant une vallée ressemblant beaucoup à celle de l'Archane,
+mais bien moins boisée que celle-ci. C'est de cette vallée, qui
+s'étend du Sud au Nord du Kounguesse, que s'écoule véritab-
+lement ce dernier, mais les Chinois ne le considèrent pas ainsi,
+appelant cette rivière Tcharanossoune et accordant à un mince
+ﬁlet d'eau, coulant en prolongement droit du Kounguesse, le
+nom de cette rivière. Ici nous campâmes à une altitude de
+8000´, et je ﬁs, avec mon préparateur une ascension aux sour-
+ces mêmes du Kounguesse. A 9000´ environ, le mince ﬁlet
+d'eau, portant encore ce nom, bifurquait: le ruisseau de droite
+était alimenté par un petit amas de neige, placé à l'ombre
+d'un pic, quant à celui de gauche, il était complêtement tari.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="69" y="2680"/>
+	<Point x="1826" y="2680"/>
+	<Point x="1826" y="3114"/>
+	<Point x="69" y="3114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous dèpassâmes ces sources, et nous nous trouvâmes bien-
+tôt sur la crête même de ces montagnes, à 11,000´ d'éléva-
+tion. Devant nous se déroula alors le spectacle le plus impo-
+sant peut-être qu'un homme puisse voir: à vol d'oiseau nous
+apparaissait l'immense plateau alpin Jouldousse, long de plus</Unicode></TextEquiv></TextRegion></Page></PcGts>

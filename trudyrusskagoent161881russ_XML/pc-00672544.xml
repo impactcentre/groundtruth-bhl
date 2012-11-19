@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672544">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:54:55</Created>
+	<LastChange>2012-02-10T09:55:08</LastChange></Metadata>
+	<Page imageFilename="00672544.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="999" y="132"/>
+	<Point x="1307" y="132"/>
+	<Point x="1307" y="212"/>
+	<Point x="999" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 348 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="269" y="257"/>
+	<Point x="2017" y="257"/>
+	<Point x="2017" y="1103"/>
+	<Point x="269" y="1103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nord du Caucase. Quoique quelques ♀♀ soient de grande
+taille et à nervures noires très larges, je suis pourtant ob-
+ligé de considérer les Machaon rapportés de notre voyage
+comme appartenant au type Européen. Une seule grande ♀,
+prise en Août près de Charkhodé (4000´), ayant le jaune
+largement envahi par le noir et les taches rouges de l'angle
+anal des ailes postérieures comparativement grandes, doit être
+rapportée à la forme Asiatica Mén. Pourtant le cas étant
+exclusif, c'est comme Aberration que cet exemplaire doit être
+considéré.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="269" y="1112"/>
+	<Point x="2010" y="1112"/>
+	<Point x="2010" y="1698"/>
+	<Point x="269" y="1698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette ♀ ressemble de près, sauf la taille qui est plus
+forte, a certains individus de l'aberr. Sphyrus Hb. de l'Eu-
+rope méridionale (Sicile, etc.), et je suis de l'avis du Dr.
+Staudinger, qui réunit ces deux noms, dans son Catalogue
+de 1871. Si j'ai placé ici cette ♀ sous le nom d'ab. Asia-
+tica Mén. ce n'est que parcequ'elle a été prise en Asie et
+qu'elle est grande.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="271" y="1708"/>
+	<Point x="2008" y="1708"/>
+	<Point x="2008" y="1944"/>
+	<Point x="271" y="1944"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chez quelques individus, pris au printemps à Kouldjà et
+dans les sables du Khorgosse, c'est le jaune qui empiète très
+considérablement sur le noir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="408" y="2037"/>
+	<Point x="1858" y="2037"/>
+	<Point x="1858" y="2130"/>
+	<Point x="408" y="2130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. Parnassius Apollo L. v. Hesebolus Nordm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="253" y="2189"/>
+	<Point x="2014" y="2189"/>
+	<Point x="2014" y="2953"/>
+	<Point x="253" y="2953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette forme de l'Apollo volait communément à partir de
+la ﬁn Mai, dans la vallée du Kounguesse, et puis, dans tout
+le Tian-Chian visité par nous, entre 3.500´ et 9.000´ d'élé-
+vation, présentant, les ♀♀ surtout, des variétés individuelles
+inﬁnies; tantôt, richement saupoudrées de noir, d'autres fois,
+ayant le fond des ailes d'un jaune-brunâtre, etc. La gran-
+deur des taches rouges (carminées) des secondes ailes, écail-
+lées ou non de blanc dans le centre, est aussi inconstante, —
+la plupart des individus les ayant grandes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="255" y="2960"/>
+	<Point x="2007" y="2960"/>
+	<Point x="2007" y="3116"/>
+	<Point x="255" y="3116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ♂♂ sont toujours très blancs et ils sont moins sujets
+à varier. Nous prîmes le dernier individu de cette espèce sur</Unicode></TextEquiv></TextRegion></Page></PcGts>

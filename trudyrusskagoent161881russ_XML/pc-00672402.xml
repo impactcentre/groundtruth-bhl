@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672402">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:28:31</Created>
+	<LastChange>2012-02-10T09:54:43</LastChange></Metadata>
+	<Page imageFilename="00672402.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="959" y="130"/>
+	<Point x="1316" y="130"/>
+	<Point x="1316" y="202"/>
+	<Point x="959" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 208 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="590" y="342"/>
+	<Point x="1669" y="342"/>
+	<Point x="1669" y="447"/>
+	<Point x="590" y="447"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. Guarinella Tab. XI, ﬁg. 25.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="252" y="492"/>
+	<Point x="2021" y="492"/>
+	<Point x="2021" y="854"/>
+	<Point x="252" y="854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis erectis, fasciculo anali mediocri canescente; alis ant.
+angustis, griseis subuniccloribus, striga aspera atra ante me-
+dium posita costam non attingente, exterius latius lutео-margi-
+nata; post. canis, subpellucidis ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="257" y="900"/>
+	<Point x="2019" y="900"/>
+	<Point x="2019" y="1488"/>
+	<Point x="257" y="1488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sehr unscheinbar, nur durch den schwarzen Querstreifen
+der Vorderﬂügel auﬀallend, kommt sie der Deﬁnitella so nahe,
+dass sie fast eine Varietät davon zu sein scheint, was aber
+bestimmt nicht der Fall ist, wie die beträchtlichere Kürze aller
+Flügel beweist. Von Ochrodesma unterscheidet sie sich durch
+die hellgrauen Vorderﬂügel und die verblasste Einfassung des
+schwarzen Querstreifens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="254" y="1500"/>
+	<Point x="2030" y="1500"/>
+	<Point x="2030" y="1995"/>
+	<Point x="254" y="1995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grösse einer kleinen Deﬁnitella. Taster länger als bei
+dieser, hellstaubgrau, mit dem spitzen Endgliede weiter über
+die Stirn heraufreichend. Fühler ganz ohne Krümmung über
+dem Wurzelgliede. Hinterleib hell staubgrau; der Analbusch
+nicht stark, ohne die Seitenbüsche der Deﬁnitella. Beine dunk-
+ler grau, fast einfarbig.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="245" y="2009"/>
+	<Point x="2019" y="2009"/>
+	<Point x="2019" y="2933"/>
+	<Point x="245" y="2933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 3—31/4‴ lang, weniger gestreckt als bei De-
+ﬁnitella und nach hinten etwas mehr erweitert, fast einfarbig
+staubgrau, am Vorderrand gar nicht hell bestäubt. Der sehr
+auﬀallende tiefschwarze Querstreifen ist ein wenig mehr basal-
+wärts geneigt und in der Falte ein wenig eingebogen, aus-
+wärts sehr verloschen breit lehmgelblich eingefasst. Die bei-
+den Queraderpunkte sind nur bei einem Exemplar ganz ver-
+loschen angedeutet. Die zweite Querlinie ist nur auf dem Vor-
+derrande dicht vor der Flügelspitze deutlich; man erkennt aber
+ihren Verlauf als mehr gebogen und als dem Hinterrande näher
+als bei Deﬁnitella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="269" y="2940"/>
+	<Point x="2021" y="2940"/>
+	<Point x="2021" y="3109"/>
+	<Point x="269" y="3109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel breiter und mehr abgestumpft, dabei grauer
+mit weniger verdunkelten Adern.</Unicode></TextEquiv></TextRegion></Page></PcGts>

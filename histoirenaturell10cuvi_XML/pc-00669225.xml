@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669225">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:39:40</Created>
+	<LastChange>2012-03-12T14:33:50</LastChange></Metadata>
+	<Page imageFilename="00669225.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r35" index="0"/>
+	<RegionRefIndexed regionRef="r55" index="1"/>
+	<RegionRefIndexed regionRef="r65" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r67" index="4"/>
+	<RegionRefIndexed regionRef="r73" index="5"/>
+	<RegionRefIndexed regionRef="r5" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/>
+	<RegionRefIndexed regionRef="r7" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="103" y="818"/>
+	<Point x="1517" y="818"/>
+	<Point x="1517" y="985"/>
+	<Point x="103" y="985"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les insulaires appelaient aussi ce poisson
+oumé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="98" y="1267"/>
+	<Point x="1527" y="1267"/>
+	<Point x="1531" y="1610"/>
+	<Point x="622" y="1618"/>
+	<Point x="100" y="1620"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce nom d’oumé est aussi usité parmi les
+Malais des Moluques, et pour un nason tout-
+à-fait semblable aux deux précédens par la
+loupe qui occupe le dessus de son museau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="111" y="1623"/>
+	<Point x="1096" y="1619"/>
+	<Point x="1516" y="1616"/>
+	<Point x="1524" y="2211"/>
+	<Point x="117" y="2208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est l’omma de Renard, I.re part. ﬁg. 79,
+copié de Vlaming, n.° 118, où il est appelé
+ouma neus-oum. Valentyn le donne deux fois:
+d’abord au n.° 119 sous le nom malais d’ikan
+oema, une seconde, au n.° 478, sous la déno‐
+mination hollandaise de bruine-stomp-smoel
+(museau obtus brun).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="103" y="2211"/>
+	<Point x="1523" y="2214"/>
+	<Point x="1523" y="2728"/>
+	<Point x="103" y="2728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je l’ai cru long-temps le même que le na‐
+son loupe, et comme il a un ﬁlet grêle à
+chaque angle de la queue, j’avais soupçonné
+Commerson de n’avoir décrit son nason loupe
+que d’après un individu mutilé; mais aucun
+des individus bien entiers que M. Lamarre-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="565" y="240"/>
+	<Point x="1044" y="240"/>
+	<Point x="1044" y="328"/>
+	<Point x="565" y="328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. NASONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1377" y="240"/>
+	<Point x="1528" y="240"/>
+	<Point x="1528" y="328"/>
+	<Point x="1377" y="328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>293</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="117" y="337"/>
+	<Point x="1558" y="337"/>
+	<Point x="1558" y="650"/>
+	<Point x="117" y="650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>corps, noirâtre vers la tête, brun verdâtre sur le dos,
+s’éclaircit sur les ﬂancs, et devient sur le ventre d’un
+blanc bleuâtre, avec quelques taches toutes blanches:
+desséché, il paraît en entier d’un brun roux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="234" y="657"/>
+	<Point x="1297" y="657"/>
+	<Point x="1297" y="725"/>
+	<Point x="234" y="725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les nombres sont cependant les mêmes:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="404" y="733"/>
+	<Point x="1317" y="733"/>
+	<Point x="1317" y="808"/>
+	<Point x="404" y="808"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 5/29; A. 2/27; C. 17; P. 16; V. 1/3;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="heading">
+	<Coords>
+	<Point x="372" y="1020"/>
+	<Point x="1272" y="1020"/>
+	<Point x="1272" y="1124"/>
+	<Point x="372" y="1124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le NASON DE VLAMING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="heading">
+	<Coords>
+	<Point x="372" y="1149"/>
+	<Point x="1272" y="1149"/>
+	<Point x="1272" y="1257"/>
+	<Point x="372" y="1257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Naseus Vlamingii, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

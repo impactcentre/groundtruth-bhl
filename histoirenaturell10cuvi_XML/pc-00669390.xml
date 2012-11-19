@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669390">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:00:30</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669390.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r19" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="422" y="285"/>
+	<Point x="1858" y="285"/>
+	<Point x="1858" y="600"/>
+	<Point x="422" y="600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tèbres. C’est à la dix-huitième que commence le
+cornet; mais il ne règne que sous trois vertèbres,
+et les apophyses qui le forment ne sont point di‐
+latées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="418" y="885"/>
+	<Point x="1846" y="885"/>
+	<Point x="1846" y="1172"/>
+	<Point x="418" y="1172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une cinquième espèce, voisine des joëls,
+a été rapportée de Ceilan au Muséum d’his‐
+toire naturelle par M. Reynault.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="476" y="1181"/>
+	<Point x="1852" y="1181"/>
+	<Point x="1852" y="1418"/>
+	<Point x="476" y="1418"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle a, comme la précédente, cinq rayons à la
+dorsale, les pectorales longues et pointues, le ver‐
+tex peu sillonné, et douze rayons à l’anale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="872" y="1425"/>
+	<Point x="1459" y="1425"/>
+	<Point x="1459" y="1498"/>
+	<Point x="872" y="1498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 5 — 1/9; A. 1/12, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="482" y="1501"/>
+	<Point x="1851" y="1501"/>
+	<Point x="1851" y="1735"/>
+	<Point x="482" y="1735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La couleur a dû être uniformément verdâtre sur
+le dos, argentée sous le ventre, sans lignes noirâtres
+le long des ﬂancs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="475" y="1743"/>
+	<Point x="1851" y="1743"/>
+	<Point x="1851" y="1851"/>
+	<Point x="475" y="1851"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu n’a que trois pouces de longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="379" y="1960"/>
+	<Point x="1857" y="1973"/>
+	<Point x="1864" y="2410"/>
+	<Point x="964" y="2423"/>
+	<Point x="950" y="2423"/>
+	<Point x="924" y="2424"/>
+	<Point x="381" y="2422"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans les deux premières subdivisions des
+athérines, la bouche descend obliquement
+jusque sous l’œil, et la première dorsale, quoi‐
+que plus ou moins reculée, demeure toujours
+vis-à-vis d’une partie des ventrales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="386" y="2427"/>
+	<Point x="941" y="2425"/>
+	<Point x="1867" y="2418"/>
+	<Point x="1862" y="2701"/>
+	<Point x="391" y="2701"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deux autres subdivisions diﬀèrent de celles-
+là: l’une, par la position de la première dor‐
+sale, située au-dessus de l’anale; l’autre joint</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="673" y="652"/>
+	<Point x="1645" y="652"/>
+	<Point x="1645" y="747"/>
+	<Point x="673" y="747"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ATHÉRINE A DOUZE RAYONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords>
+	<Point x="673" y="775"/>
+	<Point x="1645" y="775"/>
+	<Point x="1645" y="866"/>
+	<Point x="673" y="866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina duodecimalis, nob.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20">
+	<Coords>
+	<Point x="1035" y="1898"/>
+	<Point x="1035" y="1933"/>
+	<Point x="1231" y="1933"/>
+	<Point x="1231" y="1898"/></Coords></SeparatorRegion>
+	<TextRegion id="r22" type="page-number">
+	<Coords>
+	<Point x="576" y="157"/>
+	<Point x="576" y="245"/>
+	<Point x="577" y="245"/>
+	<Point x="577" y="273"/>
+	<Point x="428" y="273"/>
+	<Point x="428" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>458</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="header">
+	<Coords>
+	<Point x="1366" y="157"/>
+	<Point x="1366" y="273"/>
+	<Point x="903" y="273"/>
+	<Point x="903" y="220"/>
+	<Point x="902" y="220"/>
+	<Point x="902" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

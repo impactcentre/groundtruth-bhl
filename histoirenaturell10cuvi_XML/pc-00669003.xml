@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669003">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:12:36</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669003.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="122" y="296"/>
+	<Point x="1498" y="296"/>
+	<Point x="1498" y="1648"/>
+	<Point x="122" y="1648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gueur totale; elle est un peu pointue et compte dix-
+huit rayons, dont le premier, simple, est très-court;
+le second, articulé mais non branchu, est le plus long
+de tous. Il n’y a point d’écaille particulière près de
+cette nageoire; sa position est un peu au-dessous
+du milieu de la hauteur; la ventrale sort sous le
+bord postérieur de l’attache de la pectorale; son
+épine est tranchante comme les deuxièmes de la
+dorsale et de l’anale, et a en longueur le onzième
+ou le douzième de celle du corps; ses rayons mous
+vont en décroissant. Au-dessus de la base de l’épine
+naît une écaille longue et pointue, couchée contre
+le corps, et sous laquelle la ventrale se replie; cette
+écaille est d’un quart moindre que l’épine de la
+nageoire: les deux ventrales sont attachées à un
+bassin rectangulaire, dont les deux bords se mar‐
+quent au travers de la peau comme deux arêtes sail‐
+lantes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="110" y="1656"/>
+	<Point x="1495" y="1656"/>
+	<Point x="1495" y="2490"/>
+	<Point x="562" y="2489"/>
+	<Point x="110" y="2490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La tête et les nageoires sont dépourvues d’écailles,
+et celles du corps sont si petites et si minces qu’on
+ne les distingue guère sans un peu de dessèchement.
+A une forte loupe elles paraissent transversalement
+ovales, entières et irrégulièrement mais très-ﬁnement
+striées; la ligne latérale est moins arquée que le
+dos et s’en rapproche par degrés en arrière. Elle
+se marque par une suite d’élevures longitudinales,
+qui s’élargissent sur les côtés de la queue et y de‐
+viennent ovales et relevées dans le milieu d’une
+légère saillie longitudinale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="145" y="2492"/>
+	<Point x="1498" y="2492"/>
+	<Point x="1498" y="2646"/>
+	<Point x="145" y="2646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’anatomie de ce poisson nous montre que son
+intestin est long et replié plusieurs fois sur lui-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="502" y="206"/>
+	<Point x="1050" y="206"/>
+	<Point x="1050" y="285"/>
+	<Point x="502" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1361" y="202"/>
+	<Point x="1456" y="202"/>
+	<Point x="1456" y="273"/>
+	<Point x="1361" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>71</Unicode></TextEquiv></TextRegion></Page></PcGts>

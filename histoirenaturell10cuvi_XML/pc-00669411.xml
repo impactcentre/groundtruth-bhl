@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669411">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:02:59</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669411.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="581" y="125"/>
+	<Point x="899" y="125"/>
+	<Point x="899" y="201"/>
+	<Point x="581" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1309" y="107"/>
+	<Point x="1464" y="107"/>
+	<Point x="1464" y="196"/>
+	<Point x="1309" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>479</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="27" y="496"/>
+	<Point x="1462" y="496"/>
+	<Point x="1462" y="2194"/>
+	<Point x="27" y="2194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons encore décrit dans le même
+musée de cette belle capitale, deux autres
+espèces fort intéressantes, originaires toutes
+deux du Mexique. Les naturalistes ne seront
+pas étonnés de nous voir dédier l’une d’elles au
+célèbre voyageur qui a répandu tant de lu‐
+mières sur l’histoire politique et physique de
+ces riches contrées, au savant illustre dont
+les travaux immortels ont rendu tant de
+services aux diﬀérentes branches de la phy‐
+sique, des sciences naturelles, de la géogra‐
+phie, en général à l’histoire naturelle du globe.
+Si, dans un ouvrage de la nature de celui
+que je publie, je pouvais faire mention des
+sentimens d’amitié dévouée et de la vive recon‐
+naissance que je lui dois, je m’estimerais heu‐
+reux de lui en donner ici ce témoignage, et
+d’en avoir trouvé l’occasion en travaillant dans
+cette belle collection qu’il m’a mis à même
+de connaître.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="97" y="2206"/>
+	<Point x="1484" y="2206"/>
+	<Point x="1484" y="2636"/>
+	<Point x="97" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le poisson dont il s’agit a la forme générale d’une
+perche; mais le museau est plus aigu et plus dé‐
+primé. La plus grande hauteur du corps se mesure
+aux ventrales et fait le cinquième de la longueur to‐
+tale: l’épaisseur n’est pas la moitié de cette hauteur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="252" y="265"/>
+	<Point x="1212" y="265"/>
+	<Point x="1212" y="353"/>
+	<Point x="252" y="353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ATHÉRINE DE HUMBOLDT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="252" y="380"/>
+	<Point x="1212" y="380"/>
+	<Point x="1212" y="472"/>
+	<Point x="252" y="472"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina Humboldtiana, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

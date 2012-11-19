@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671059">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T01:07:49</Created>
+	<LastChange>2012-03-12T14:34:02</LastChange></Metadata>
+	<Page imageFilename="00671059.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r14" index="13"/>
+	<RegionRefIndexed regionRef="r15" index="14"/>
+	<RegionRefIndexed regionRef="r16" index="15"/>
+	<RegionRefIndexed regionRef="r17" index="16"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="946" y="966"/>
+	<Point x="1509" y="966"/>
+	<Point x="1509" y="1048"/>
+	<Point x="946" y="1048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Inhaltsübersicht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="2166" y="1050"/>
+	<Point x="2275" y="1050"/>
+	<Point x="2275" y="1087"/>
+	<Point x="2166" y="1087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seite</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="TOC-entry">
+	<Coords>
+	<Point x="170" y="1103"/>
+	<Point x="2272" y="1103"/>
+	<Point x="2272" y="1152"/>
+	<Point x="170" y="1152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Einleitung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="TOC-entry">
+	<Coords>
+	<Point x="364" y="1168"/>
+	<Point x="2279" y="1168"/>
+	<Point x="2279" y="1211"/>
+	<Point x="364" y="1211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Geschichtliches . . . . . . . . . . . . . . . . . . . . . . . . . . . 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="TOC-entry">
+	<Coords>
+	<Point x="368" y="1227"/>
+	<Point x="2285" y="1227"/>
+	<Point x="2285" y="1270"/>
+	<Point x="368" y="1270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Material . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="TOC-entry">
+	<Coords>
+	<Point x="368" y="1285"/>
+	<Point x="2279" y="1285"/>
+	<Point x="2279" y="1329"/>
+	<Point x="366" y="1333"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Methoden . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="TOC-entry">
+	<Coords>
+	<Point x="169" y="1349"/>
+	<Point x="2279" y="1349"/>
+	<Point x="2279" y="1406"/>
+	<Point x="169" y="1406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I. Spezieller Teil . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="TOC-entry">
+	<Coords>
+	<Point x="298" y="1416"/>
+	<Point x="2277" y="1416"/>
+	<Point x="2277" y="1464"/>
+	<Point x="298" y="1464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A. Der Kopf . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="TOC-entry">
+	<Coords>
+	<Point x="301" y="1477"/>
+	<Point x="2274" y="1477"/>
+	<Point x="2274" y="1524"/>
+	<Point x="301" y="1524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. Der Thorax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="TOC-entry">
+	<Coords>
+	<Point x="307" y="1537"/>
+	<Point x="2270" y="1537"/>
+	<Point x="2270" y="1578"/>
+	<Point x="306" y="1583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C. Das Abdomen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="TOC-entry">
+	<Coords>
+	<Point x="175" y="1600"/>
+	<Point x="605" y="1600"/>
+	<Point x="605" y="1650"/>
+	<Point x="175" y="1650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>II. Allgemeiner Teil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="TOC-entry">
+	<Coords>
+	<Point x="303" y="1666"/>
+	<Point x="2277" y="1666"/>
+	<Point x="2277" y="1712"/>
+	<Point x="302" y="1715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A. Die Zusammensetzung des Kopfes . . . . . . . . . . . . . . . . . . . . 25</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="TOC-entry">
+	<Coords>
+	<Point x="303" y="1727"/>
+	<Point x="2268" y="1727"/>
+	<Point x="2268" y="1773"/>
+	<Point x="302" y="1775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. Die Bedeutung der Sklerite im Bauplan der Thorakalsegmente . . . . . . . . . . 32</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="TOC-entry">
+	<Coords>
+	<Point x="309" y="1785"/>
+	<Point x="2268" y="1785"/>
+	<Point x="2268" y="1835"/>
+	<Point x="309" y="1837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C. Das Abdomen und seine Anhänge . . . . . . . . . . . . . . . . . . . . 43</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="TOC-entry">
+	<Coords>
+	<Point x="298" y="1846"/>
+	<Point x="2266" y="1846"/>
+	<Point x="2266" y="1901"/>
+	<Point x="298" y="1901"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. Die systematische Stellung der Proturen . . . . . . . . . . . . . . . . . . 47</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="TOC-entry">
+	<Coords>
+	<Point x="177" y="1914"/>
+	<Point x="2267" y="1911"/>
+	<Point x="2266" y="1957"/>
+	<Point x="174" y="1957"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Literaturverzeichnis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="TOC-entry">
+	<Coords>
+	<Point x="170" y="1972"/>
+	<Point x="2270" y="1972"/>
+	<Point x="2270" y="2031"/>
+	<Point x="170" y="2030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tafelerklärung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r18" type="handwritten-annotation">
+	<Coords>
+	<Point x="5" y="78"/>
+	<Point x="5" y="431"/>
+	<Point x="413" y="431"/>
+	<Point x="413" y="78"/></Coords></GraphicRegion>
+	<SeparatorRegion id="r20">
+	<Coords>
+	<Point x="1052" y="2288"/>
+	<Point x="1052" y="2310"/>
+	<Point x="1385" y="2310"/>
+	<Point x="1385" y="2288"/></Coords></SeparatorRegion></Page></PcGts>

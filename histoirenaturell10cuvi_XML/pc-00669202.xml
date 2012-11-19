@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669202">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:37:03</Created>
+	<LastChange>2012-03-12T14:33:49</LastChange></Metadata>
+	<Page imageFilename="00669202.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="375" y="257"/>
+	<Point x="1749" y="257"/>
+	<Point x="1751" y="940"/>
+	<Point x="730" y="947"/>
+	<Point x="379" y="948"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>arrivé au milieu de la longueur de la cavité, on lui
+voit un petit étranglement qui indique la présence
+de la valvule du colon. Celui-ci s’élève droit vers la
+région dorsale; et lorsqu’il touche l’œsophage, il se
+plie brusquement de nouveau, oﬀre quelques bour‑
+souﬄures, puis se termine par un rectum plus étroit,
+qui descend droit et perpendiculairement aux parois
+abdominales, pour déboucher à l’anus, percé entre
+les deux nageoires ventrales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="386" y="950"/>
+	<Point x="732" y="951"/>
+	<Point x="821" y="950"/>
+	<Point x="1349" y="947"/>
+	<Point x="1743" y="948"/>
+	<Point x="1743" y="1608"/>
+	<Point x="383" y="1608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A l’exception de l’épaississement de l’estomac près
+du pylore, l’intestin n’a que des parois minces; la
+veloutée oﬀre des villosités très-ﬁnes: il y a quelques
+rides longitudinales dans l’œsophage, et près de son
+origine des papilles grosses et coniques, charnues,
+mais assez rigides, et dont l’usage est évidemment
+de retenir les feuilles des algues marines, dont ces
+poissons se nourrissent, et d’en faciliter l’entrée dans
+l’estomac.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="394" y="1625"/>
+	<Point x="1734" y="1619"/>
+	<Point x="1738" y="2138"/>
+	<Point x="392" y="2147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le foie est assez épais, et sa plus grande portion
+est située plus à gauche qu’à droite de l’œsophage;
+il forme une seule masse échancrée en avant, pour
+laisser passer ce conduit, et creusée derrière cette
+échancrure d’une petite fossette, dans laquelle s’en‑
+gage cet appendice de l’œsophage dont nous avons
+parlé plus haut.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="395" y="2151"/>
+	<Point x="710" y="2149"/>
+	<Point x="1139" y="2145"/>
+	<Point x="1724" y="2143"/>
+	<Point x="1723" y="2508"/>
+	<Point x="1441" y="2508"/>
+	<Point x="1431" y="2520"/>
+	<Point x="1373" y="2520"/>
+	<Point x="1363" y="2505"/>
+	<Point x="1186" y="2505"/>
+	<Point x="1180" y="2522"/>
+	<Point x="1151" y="2521"/>
+	<Point x="1144" y="2506"/>
+	<Point x="966" y="2506"/>
+	<Point x="396" y="2507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La vésicule du ﬁel, attachée à la portion droite
+du foie, est très-petite, de forme alongée, accolée
+par un tissu cellulaire dense à l’œsophage, ce qui
+rend le canal cholédoque assez long, car celui-ci
+débouche entre les cœcums près du pylore.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="462" y="2512"/>
+	<Point x="1138" y="2512"/>
+	<Point x="1145" y="2525"/>
+	<Point x="1185" y="2525"/>
+	<Point x="1192" y="2509"/>
+	<Point x="1359" y="2508"/>
+	<Point x="1367" y="2523"/>
+	<Point x="1438" y="2523"/>
+	<Point x="1446" y="2512"/>
+	<Point x="1726" y="2512"/>
+	<Point x="1725" y="2603"/>
+	<Point x="461" y="2603"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La rate est retenue sur la branche pylorique de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="327" y="160"/>
+	<Point x="463" y="160"/>
+	<Point x="463" y="244"/>
+	<Point x="327" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>270</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="765" y="165"/>
+	<Point x="1276" y="165"/>
+	<Point x="1276" y="245"/>
+	<Point x="765" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

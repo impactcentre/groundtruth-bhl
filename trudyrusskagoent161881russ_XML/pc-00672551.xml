@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672551">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T22:25:57</Created>
+	<LastChange>2012-02-10T09:55:09</LastChange></Metadata>
+	<Page imageFilename="00672551.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="691" y="394"/>
+	<Point x="1228" y="394"/>
+	<Point x="1228" y="485"/>
+	<Point x="691" y="485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6. P. Actius Ev.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="83" y="558"/>
+	<Point x="1824" y="558"/>
+	<Point x="1824" y="973"/>
+	<Point x="83" y="973"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce papillon était très râre et ne volait qu'entre 9000 et
+13.000' d'élévation, dans les endroits où la végétation deve-
+nait très aride, mais où il y avait beaucoup de saxifrages,
+qui servent indubitablement de nourriture à la chenille de
+l'Actius.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="83" y="998"/>
+	<Point x="1844" y="998"/>
+	<Point x="1844" y="1514"/>
+	<Point x="83" y="1514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une ♀, prise dans les montagnes au nord du plateau
+Jouldousse, est d'une teinte jaunâtre-enfumée et ressemble à
+certaines ♀♀ du Delius v. Intermedius Mén. de l'Altaï. C'est
+pourtant bien une ♀ d'Actius, et l'on verra dans la suite,
+que nous ne trouvâmes aucune des variétés du Delius, dans
+la partie du Tian-Chian que nous explorâmes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="641" y="1574"/>
+	<Point x="1255" y="1574"/>
+	<Point x="1255" y="1671"/>
+	<Point x="641" y="1671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7. P. Delphius Ev.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="80" y="1732"/>
+	<Point x="1817" y="1732"/>
+	<Point x="1817" y="2001"/>
+	<Point x="80" y="2001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un peu moins râre que le précédent, et habitant les
+mêmes régions, c. à d. dans tout le Tian-Chian, au dessus de
+9000'.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="89" y="2014"/>
+	<Point x="1817" y="2014"/>
+	<Point x="1817" y="2339"/>
+	<Point x="89" y="2339"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Delphius, selon toute probabilité, commence à voler
+plustôt que l'Actius, vu que la plupart de ces derniers étaient
+encore frais jusqu'en Août, tandisque les premiers étaient déjà
+vieux et frottés en Juillet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="82" y="2355"/>
+	<Point x="1816" y="2355"/>
+	<Point x="1816" y="3116"/>
+	<Point x="82" y="3116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Delphius varient entre eux bien plus que les Actius:
+tantôt d'un gris uniforme, leurs taches noirâtres faiblement
+indiquées, — tantôt très foncés avec leurs taches rouge-jau-
+natres, où purement jaunes, des secondes ailes, très grandes.
+Ces taches tournent au jaune assez fréquemment et se trouvent
+au nombre de deux ou de trois sur les ailes postérieures, la
+troisième, le cas échéant, étant placée près du bord interne,
+au dessus de l'angle anal. Plus ces taches sont petites, plus
+elles sont rouges.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1569" y="3130"/>
+	<Point x="1669" y="3130"/>
+	<Point x="1669" y="3191"/>
+	<Point x="1569" y="3191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>23*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="783" y="171"/>
+	<Point x="1119" y="171"/>
+	<Point x="1119" y="251"/>
+	<Point x="783" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 355 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

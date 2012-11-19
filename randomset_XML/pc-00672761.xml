@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672761">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:06:39</Created>
+	<LastChange>2012-02-10T10:29:47</LastChange></Metadata>
+	<Page imageFilename="00672761.tif" imageWidth="2111" imageHeight="3568">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="804" y="209"/>
+	<Point x="1419" y="209"/>
+	<Point x="1419" y="304"/>
+	<Point x="804" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reminiscences of</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="278" y="357"/>
+	<Point x="1921" y="357"/>
+	<Point x="1921" y="1218"/>
+	<Point x="278" y="1218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I purchased some of the nuggets, one of which weighed
+a pound, for which I paid three hundred dollars, and
+altogether I bought nuggets to the value of two thou-
+sand dollars. It then occurred to me that I would
+make a collection of Colorado ores, which I did, build-
+ing up from the nuggets bought, and when I returned
+to Central City I employed several men to follow up
+the opened mines in Gilpin and several other counties,
+until I secured a large and representative collection
+from several hundred mines, which I afterward ex-
+hibited at the World's Fair in Paris in 1867.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="280" y="1226"/>
+	<Point x="1919" y="1226"/>
+	<Point x="1919" y="2930"/>
+	<Point x="280" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I also secured specimens from the few opened
+mines then shown up over the range, which from assays
+made at the Denver United States Mint I found to
+be distinctive from the ores about Central City, and
+more predominating in silver than gold, which induced
+a belief in my mind that the over-the-range mineral
+veins would ultimately make a record in the silver
+line, which was not then expected. In fact the gen-
+eral view existing at that time was that Colorado was
+wholly a gold-producing region, and that silver was an
+incidental feature of no particular importance. I was
+so much impressed with the value of the silver mines
+from the Denver assays that I wrote a small book on
+the subject, entitled Silver Mining Regions of Colorado,
+of between one hundred and two hundred pages, of
+which I had ﬁve thousand copies published by D. Van
+Nostrand &amp; Co. of New York. This gave an account of
+the silver mines, with a general history of Colorado and
+its mining methods, and was the ﬁrst work published
+on Colorado. This work, published in 1865, was se-
+verely criticised by the gold-mining region newspapers,
+and in some instances ridiculed as preposterous and</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="290" y="202"/>
+	<Point x="445" y="202"/>
+	<Point x="445" y="302"/>
+	<Point x="290" y="302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>138</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669152">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:31:01</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669152.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="408" y="277"/>
+	<Point x="1787" y="277"/>
+	<Point x="1781" y="488"/>
+	<Point x="827" y="498"/>
+	<Point x="800" y="522"/>
+	<Point x="408" y="522"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et peu nombreuses; sa caudale est échancrée jus‐
+qu’au tiers. Sa première épine dorsale est cachée
+sous la peau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="421" y="601"/>
+	<Point x="1796" y="602"/>
+	<Point x="1798" y="1197"/>
+	<Point x="426" y="1197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout le corps est coloré de brun noirâtre; une
+bande blanchâtre ou lilas marque la base de sa caudale,
+qui a aussi le bord blanc; ce qui le fait remarquer
+tout d’abord, c’est que la pectorale a la moitié ex‐
+terne de sa longueur d’un beau jaune: une bande
+longitudinale, plus noire que le fond, part de l’æil
+et est étendue jusqu’à l’aplomb du milieu de la pec‐
+torale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="455" y="1223"/>
+	<Point x="1714" y="1223"/>
+	<Point x="1716" y="1324"/>
+	<Point x="600" y="1316"/>
+	<Point x="450" y="1312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Notre individu est long de sept pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="366" y="1318"/>
+	<Point x="1804" y="1327"/>
+	<Point x="1805" y="1589"/>
+	<Point x="366" y="1589"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forskal dit que ce poisson se tient ordinai‐
+rement dans la profondeur, mais qu’en été il
+joue en troupe à la surface de la mer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="693" y="1672"/>
+	<Point x="1478" y="1672"/>
+	<Point x="1478" y="1757"/>
+	<Point x="693" y="1757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE DE DOREY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="742" y="1793"/>
+	<Point x="1431" y="1793"/>
+	<Point x="1431" y="1871"/>
+	<Point x="742" y="1871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus doreensis.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="368" y="1897"/>
+	<Point x="1792" y="1897"/>
+	<Point x="1792" y="2259"/>
+	<Point x="368" y="2259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons encore un de ces acanthures
+bruns, venus du hâvre Dorey, à la Nouvelle-
+Guinée, par l’expédition conduite sous la di‐
+rection de M. Duperrey.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="453" y="2273"/>
+	<Point x="1805" y="2273"/>
+	<Point x="1805" y="2679"/>
+	<Point x="453" y="2679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Celui-ci a le proﬁl arqué en S comme le glauco-pa-
+reius. La dorsale et l’anale forment des angles, celui de
+l’anale plus pointu que l’autre; les pointes de la cau‐
+dale sont aiguës et du tiers de la longueur de la na‐
+geoire; les dents supérieures crénelées sur tout leur</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="849" y="510"/>
+	<Point x="1350" y="510"/>
+	<Point x="1350" y="590"/>
+	<Point x="849" y="590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/27; A. 3/24, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="365" y="164"/>
+	<Point x="524" y="164"/>
+	<Point x="524" y="265"/>
+	<Point x="365" y="265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>220</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="825" y="164"/>
+	<Point x="1342" y="164"/>
+	<Point x="1342" y="265"/>
+	<Point x="825" y="265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

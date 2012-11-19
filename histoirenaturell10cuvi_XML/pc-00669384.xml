@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669384">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:59:47</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669384.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="363" y="271"/>
+	<Point x="1791" y="271"/>
+	<Point x="1790" y="605"/>
+	<Point x="1526" y="605"/>
+	<Point x="1521" y="616"/>
+	<Point x="763" y="609"/>
+	<Point x="759" y="617"/>
+	<Point x="363" y="617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous rappellerons ici en passant que la
+deuxième athérine de Forskal, son atherina
+sihama, est d’un tout autre genre que celui
+dont nous parlons, c’est notre sillago acuta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="367" y="619"/>
+	<Point x="762" y="620"/>
+	<Point x="766" y="613"/>
+	<Point x="1525" y="619"/>
+	<Point x="1531" y="610"/>
+	<Point x="1800" y="610"/>
+	<Point x="1798" y="1193"/>
+	<Point x="1122" y="1193"/>
+	<Point x="1117" y="1203"/>
+	<Point x="768" y="1202"/>
+	<Point x="764" y="1209"/>
+	<Point x="368" y="1209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si MM. Quoy et Gaimard ne se sont point
+trompés dans les indications qu’ils nous ont
+données, cette espèce se retrouverait encore
+sur les côtes de la Nouvelle-Hollande, à la
+terre d’Entracht, où ils l’auraient prise pendant
+la campagne qu’ils ont faite sous les ordres
+de M. le capitaine Freycinet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="363" y="1212"/>
+	<Point x="769" y="1212"/>
+	<Point x="770" y="1206"/>
+	<Point x="1121" y="1206"/>
+	<Point x="1127" y="1199"/>
+	<Point x="1800" y="1199"/>
+	<Point x="1801" y="1545"/>
+	<Point x="364" y="1545"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Commerson a laissé une seconde descrip‐
+tion, incomplète et indéterminable, d’une es‐
+pèce dont il n’exprime que des caractères
+génériques.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="450" y="1547"/>
+	<Point x="1513" y="1547"/>
+	<Point x="1513" y="1634"/>
+	<Point x="450" y="1634"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les nombres qu’il indique sont:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="621" y="1642"/>
+	<Point x="1547" y="1642"/>
+	<Point x="1547" y="1715"/>
+	<Point x="621" y="1715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 6 — 10; A. 20; C. 17; P. 14; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="436" y="1734"/>
+	<Point x="1804" y="1734"/>
+	<Point x="1804" y="2663"/>
+	<Point x="436" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son corps est pellucide, plus obscur vers le dos,
+plus pâle vers le ventre; sa bande latérale est d’une
+belle couleur de vif-argent. Ses nageoires supérieures
+sont brunes, et les inférieures blanchâtres. L’inté‐
+rieur même de sa bouche est d’un blanc transpa‐
+rent; ses yeux sont médiocres, son péritoine tout
+noir. Commerson dit que ses côtes derrière l’anus
+s’unissent par paires et en cercles. Elles sont larges
+et fortes, et donnent chacune, en arrière, une épine
+de leur partie inférieure, ce qui revient à ce que
+nous avons observé dans les squelettes de plusieurs
+de nos espèces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="373" y="169"/>
+	<Point x="519" y="169"/>
+	<Point x="519" y="254"/>
+	<Point x="373" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>452</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="853" y="167"/>
+	<Point x="1302" y="167"/>
+	<Point x="1302" y="252"/>
+	<Point x="853" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

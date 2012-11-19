@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672460">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:39:09</Created>
+	<LastChange>2012-02-10T09:54:56</LastChange></Metadata>
+	<Page imageFilename="00672460.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="971" y="135"/>
+	<Point x="1278" y="135"/>
+	<Point x="1278" y="205"/>
+	<Point x="971" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 250 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="307" y="264"/>
+	<Point x="2010" y="264"/>
+	<Point x="2010" y="1453"/>
+	<Point x="307" y="1453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kopf, Leib und Fühler dunkelgrau, ersterer am dun-
+kelsten; der Leib kürzer als der Innenrand der Hinter-
+ﬂügel; die Fühler erscheinen, selbst durch eine ziemlich
+scharfe Loupe gesehen, glatt. Die, namentlich unten stark
+behaarten Palpen (bei einem Exemplare grade vorstehend,
+bei dem andern emporgerichtet und wohl beim Präpariren
+zufällig in diese Lage gekommen) überragen den Kopf um
+Kopfeslänge, sind oben und an den Seiten schwarzbraun,
+das Endglied an der Spitze gelbgrau, unten gelbgrau. Die
+stark entwickelte Zunge braun; Brust gelblich grau, rauh
+behaart. Die kräftigen Beine grau, stellenweise, namentlich
+auf den Füssen gelblich geringelt; die Mittelschienen mit
+einem, die schwach verdickten Hinterschienen mit zwei Paar
+kurzen, aber kräftigen Sporen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="305" y="1485"/>
+	<Point x="2007" y="1485"/>
+	<Point x="2007" y="2357"/>
+	<Point x="305" y="2357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Vorderﬂügel breit, der Vorderrand gegen die Spitze
+zu geschwungen, diese scharf, der Saum fast grade, kaum
+merklich gewellt. Das Mittelfeld ist an den Rändern am
+dunkelsten. An Stelle der bei den verwandten Arten ge-
+wöhnlichen Wellenlinie vor dem Saume, sind die Rippen
+hier fein weiss punktirt, nur in Feld 1 b, 2 und 3 erwei-
+tern diese Punkte sich zu Flecken. Die Saumlinie wird
+zwischen den Rippen durch schwarze Halbmonde gebildet.
+Die Franzen sind zwischen den Rippen grau mit weisser
+Wurzel, an den Rippen schwarzgrau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="307" y="2383"/>
+	<Point x="2007" y="2383"/>
+	<Point x="2007" y="3073"/>
+	<Point x="307" y="3073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auf den Hinterﬂügeln ist der Aussenrand gewellt, aber
+nicht so stark wie bei den verwandten Arten. Die Fär-
+bung ist wie die der Vorderﬂügel, gleichmässig dunkel braun-
+grau; durch das Fehlen der schwarzen Linien, erscheinen
+sie jedoch heller. Nur in der Saumhälfte ﬁnden sich einige
+mehr oder weniger deutliche dunklere Wellenlinien. Vor
+dem Saume sind die Rippen hell punktirt, was auf der
+sonst getreuen Abbildung nicht ersichtlich ist.</Unicode></TextEquiv></TextRegion></Page></PcGts>

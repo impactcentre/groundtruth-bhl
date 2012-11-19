@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667802">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T19:00:45</Created>
+	<LastChange>2012-02-10T09:52:05</LastChange></Metadata>
+	<Page imageFilename="00667802.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="53" y="82"/>
+	<Point x="929" y="76"/>
+	<Point x="2043" y="59"/>
+	<Point x="2160" y="62"/>
+	<Point x="2174" y="2502"/>
+	<Point x="2186" y="2800"/>
+	<Point x="2160" y="2853"/>
+	<Point x="58" y="2853"/></Coords></ImageRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="1049" y="27"/>
+	<Point x="1154" y="27"/>
+	<Point x="1154" y="70"/>
+	<Point x="1049" y="70"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PL. VI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="caption">
+	<Coords>
+	<Point x="256" y="2872"/>
+	<Point x="791" y="2872"/>
+	<Point x="789" y="2911"/>
+	<Point x="513" y="2914"/>
+	<Point x="256" y="2917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIGS. 198—206 REED-BUNTING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="caption">
+	<Coords>
+	<Point x="361" y="2921"/>
+	<Point x="536" y="2918"/>
+	<Point x="787" y="2916"/>
+	<Point x="787" y="2955"/>
+	<Point x="357" y="2955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>207—209 SNOW-BUNTING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="caption">
+	<Coords>
+	<Point x="1191" y="2869"/>
+	<Point x="1219" y="2869"/>
+	<Point x="1219" y="2870"/>
+	<Point x="1247" y="2870"/>
+	<Point x="1247" y="2871"/>
+	<Point x="1274" y="2871"/>
+	<Point x="1274" y="2872"/>
+	<Point x="1302" y="2872"/>
+	<Point x="1302" y="2873"/>
+	<Point x="1330" y="2873"/>
+	<Point x="1330" y="2874"/>
+	<Point x="1357" y="2874"/>
+	<Point x="1357" y="2912"/>
+	<Point x="1333" y="2912"/>
+	<Point x="1326" y="2911"/>
+	<Point x="1021" y="2914"/>
+	<Point x="1015" y="2912"/>
+	<Point x="915" y="2912"/>
+	<Point x="915" y="2909"/>
+	<Point x="914" y="2909"/>
+	<Point x="914" y="2906"/>
+	<Point x="913" y="2906"/>
+	<Point x="913" y="2904"/>
+	<Point x="912" y="2904"/>
+	<Point x="912" y="2901"/>
+	<Point x="911" y="2901"/>
+	<Point x="911" y="2898"/>
+	<Point x="910" y="2898"/>
+	<Point x="910" y="2896"/>
+	<Point x="909" y="2896"/>
+	<Point x="909" y="2893"/>
+	<Point x="908" y="2893"/>
+	<Point x="908" y="2891"/>
+	<Point x="907" y="2891"/>
+	<Point x="908" y="2891"/>
+	<Point x="908" y="2888"/>
+	<Point x="909" y="2888"/>
+	<Point x="909" y="2886"/>
+	<Point x="910" y="2886"/>
+	<Point x="910" y="2884"/>
+	<Point x="911" y="2884"/>
+	<Point x="911" y="2882"/>
+	<Point x="912" y="2882"/>
+	<Point x="912" y="2880"/>
+	<Point x="913" y="2880"/>
+	<Point x="913" y="2878"/>
+	<Point x="914" y="2878"/>
+	<Point x="914" y="2876"/>
+	<Point x="915" y="2876"/>
+	<Point x="915" y="2874"/>
+	<Point x="961" y="2874"/>
+	<Point x="961" y="2873"/>
+	<Point x="1007" y="2873"/>
+	<Point x="1007" y="2872"/>
+	<Point x="1053" y="2872"/>
+	<Point x="1053" y="2871"/>
+	<Point x="1099" y="2871"/>
+	<Point x="1099" y="2870"/>
+	<Point x="1145" y="2870"/>
+	<Point x="1145" y="2869"/>
+	<Point x="1191" y="2869"/>
+	<Point x="1191" y="2868"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIGS. 210—213 STARLING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="caption">
+	<Coords>
+	<Point x="1015" y="2919"/>
+	<Point x="1333" y="2919"/>
+	<Point x="1333" y="2955"/>
+	<Point x="1017" y="2955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>214—215 CHOUGH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="caption">
+	<Coords>
+	<Point x="1022" y="2966"/>
+	<Point x="1259" y="2963"/>
+	<Point x="1259" y="3000"/>
+	<Point x="1146" y="3006"/>
+	<Point x="1021" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>216—217 JAY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="caption">
+	<Coords>
+	<Point x="1561" y="2868"/>
+	<Point x="1973" y="2868"/>
+	<Point x="1974" y="2905"/>
+	<Point x="1561" y="2913"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIGS. 218—221 MAGPIE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="caption">
+	<Coords>
+	<Point x="1664" y="2920"/>
+	<Point x="1793" y="2914"/>
+	<Point x="1840" y="2915"/>
+	<Point x="1986" y="2913"/>
+	<Point x="1998" y="2933"/>
+	<Point x="1993" y="2958"/>
+	<Point x="1662" y="2958"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>222—228 JACKDAW.</Unicode></TextEquiv></TextRegion></Page></PcGts>

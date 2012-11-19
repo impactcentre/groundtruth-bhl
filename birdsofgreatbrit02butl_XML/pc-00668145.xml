@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668145">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T23:07:01</Created>
+	<LastChange>2012-02-10T09:52:39</LastChange></Metadata>
+	<Page imageFilename="00668145.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="966" y="219"/>
+	<Point x="1312" y="219"/>
+	<Point x="1312" y="292"/>
+	<Point x="966" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MAGPIE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1951" y="223"/>
+	<Point x="2073" y="223"/>
+	<Point x="2073" y="285"/>
+	<Point x="1951" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>161</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="183" y="332"/>
+	<Point x="2107" y="332"/>
+	<Point x="2107" y="1290"/>
+	<Point x="183" y="1290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>to the top of a high hawthorn hedge to discover the contents of a nest.” S. A.
+Davies, (“Zoologist” 1892, p. 29), remarks that:—“In Norway they nearly always
+prefer bushes, if procurable. Whilst travelling in 1890, in the Saetersdal, I
+observed that—as noticed by Mr. Saunders in his ‘Manual of British Birds,’—very
+often the nests were built under the eaves of the houses. In some cases the
+peasants had placed large props under the eaves for the nest to rest upon: in
+others the nest appeared to be built half inside the house, between gaps in the
+timbers. The Magpie is regarded as a bird of good omen, and it is constantly
+encouraged as much as possible to nest near the house. In one place I saw, in
+a low ﬁr-tree close to a house, no less than nine Magpies’ nests. I never heard
+before of Magpies nesting in colonies.” Lord Lilford says that in Spain he
+frequently met with “nests which could be examined without any climbing, and,
+still more, whose contents were attainable from horseback:” he also, as recorded
+by Howard Saunders, “found several nests in the papyrus reeds of the Anapo,
+near Syracuse.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="180" y="1296"/>
+	<Point x="2100" y="1296"/>
+	<Point x="2100" y="1542"/>
+	<Point x="180" y="1542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The nest itself is very bulky and when built openly is always roofed over
+with a basket-like covering of thorny sticks, between which and the nest proper,
+which is made of the same materials cemented together with mud, there is only
+a narrow entrance: the cup of the nest is very deep and neatly lined with rootlets.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="183" y="1548"/>
+	<Point x="2095" y="1548"/>
+	<Point x="2095" y="1979"/>
+	<Point x="183" y="1979"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The eggs number from six to eight, rarely nine, and are pale emerald green
+(or exceptionally ﬂeshy-white); a clutch of ﬁve in my collection obtained in the
+village of Bobbing in Kent, in May, 1888, are uniformly ﬂecked all over with
+short irregular olive markings interspersed with dots of the same colour; but
+others have the spotting massed at the larger, or more rarely, at the smaller end,
+and in some cases there are blotches and streaks of brown among the other markings,
+and I have seen eggs coloured and marked like those of the Pied Wagtail.*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="317" y="1985"/>
+	<Point x="1649" y="1985"/>
+	<Point x="1649" y="2035"/>
+	<Point x="317" y="2035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The male bird takes his share in the duties of incubation.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="207" y="2043"/>
+	<Point x="2088" y="2043"/>
+	<Point x="2088" y="2291"/>
+	<Point x="207" y="2291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The food of this bird consists of snails, worms, insects and their larvæ, eggs,
+young birds, mice, carrion; and later in the year, fruit, beech-mast, and acorns,
+as well as grain when procurable. Early in August, 1879, Mr. Frohawk saw
+considerable ﬂocks feeding on the fallows in North Devon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="206" y="2296"/>
+	<Point x="2088" y="2296"/>
+	<Point x="2088" y="2675"/>
+	<Point x="206" y="2675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The natural note of the Magpie is a harsh chattering; but, like some of the
+other Crows he is a good mimic and, as Swaysland observes, “is easily taught to
+talk.” Lord Lilford remarks:—“In conﬁnement or, more properly speaking, in
+semi-captivity, the Magpie is a very amusing bird, but his ceaseless chatter is, to
+our ears, most unmusical and annoying, and his thieving- and hiding-instincts have
+long been historically famous or infamous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="322" y="2684"/>
+	<Point x="929" y="2684"/>
+	<Point x="929" y="2733"/>
+	<Point x="322" y="2733"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* A variety also noted by Seebohm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="325" y="2740"/>
+	<Point x="445" y="2740"/>
+	<Point x="445" y="2783"/>
+	<Point x="325" y="2783"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="signature-mark">
+	<Coords>
+	<Point x="1730" y="2738"/>
+	<Point x="1810" y="2738"/>
+	<Point x="1810" y="2783"/>
+	<Point x="1730" y="2783"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T2</Unicode></TextEquiv></TextRegion></Page></PcGts>

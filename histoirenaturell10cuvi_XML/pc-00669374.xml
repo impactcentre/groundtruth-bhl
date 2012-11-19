@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669374">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:58:19</Created>
+	<LastChange>2012-03-12T14:33:58</LastChange></Metadata>
+	<Page imageFilename="00669374.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="390" y="298"/>
+	<Point x="1825" y="298"/>
+	<Point x="1825" y="813"/>
+	<Point x="390" y="813"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il nous en est venu de Brest, au milieu de
+Novembre, de très-beaux échantillons, longs
+de six pouces et plus. On les y nomme aussi
+prêtres. Ils étaient assez frais pour que nous
+en ayons mangé. Leur chair est ferme et
+agréable.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="394" y="816"/>
+	<Point x="1825" y="816"/>
+	<Point x="1825" y="1656"/>
+	<Point x="394" y="1656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout récemment Mad.e Ducrest de Ville-
+neuve vient de nous en adresser de Lorient,
+où l'on en prend en grande quantité pour la
+table. Elle trouve cependant que la chair est
+moins agréable que celle de l'éperlan, obser-
+vation qui s'accorde avec celle faite par un des
+correspondans de Duhamel à Dieppe, où cette
+athérine est peu estimée. Sa vie est si frêle,
+que ce petit poisson meurt aussitôt qu'on le
+tire de l'eau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="388" y="1658"/>
+	<Point x="1829" y="1658"/>
+	<Point x="1829" y="2249"/>
+	<Point x="388" y="2249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il en monte dans la Rance et dans les autres
+rivières du nord de la Bretagne une prodi-
+gieuse quantité au mois de Février, de Mars
+et d'Avril, ce qui, dit Duhamel, fait une manne
+pour le pays pendant le carême. A Brest on
+en pêche beaucoup autour des vaisseaux, et
+ils servent à amorcer les saines.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="405" y="2257"/>
+	<Point x="1830" y="2257"/>
+	<Point x="1830" y="2676"/>
+	<Point x="405" y="2676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous en avons sous les yeux un individu
+recueilli par Adanson à Granville, où on le
+nommait, selon lui, éperlan. Ce nom, qui
+lui est donné en plusieurs autres lieux, fait
+allusion à la délicatesse de sa chair.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="402" y="193"/>
+	<Point x="549" y="193"/>
+	<Point x="549" y="269"/>
+	<Point x="402" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>442</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="872" y="193"/>
+	<Point x="1333" y="193"/>
+	<Point x="1333" y="269"/>
+	<Point x="872" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

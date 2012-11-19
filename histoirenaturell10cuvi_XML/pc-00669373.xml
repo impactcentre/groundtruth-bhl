@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669373">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:58:11</Created>
+	<LastChange>2012-03-12T14:33:58</LastChange></Metadata>
+	<Page imageFilename="00669373.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="38" y="292"/>
+	<Point x="1449" y="292"/>
+	<Point x="1449" y="1057"/>
+	<Point x="38" y="1057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il existe de bonnes ﬁgures de ce poisson
+dans Duhamel (Pêches, 2.e part., sect. 6, pl. 4,
+ﬁg. 2 et 7), sous les noms de prêtre d'Àunis
+et de roseret de Caen, et ces ﬁgures sont
+d'autant plus commodes à consulter, que,
+se trouvant à côté de celle du sauclet, qui
+est aussi très-bonne et à peu près de même
+grandeur, on peut de suite en faire la com-
+paraison.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="33" y="1060"/>
+	<Point x="1454" y="1060"/>
+	<Point x="1454" y="1481"/>
+	<Point x="33" y="1481"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Duhamel a représenté sur la même planche
+des individus plus grands, sous les noms de
+prêtre de Brest, ﬁg. 1; de gras dos de Saint-
+Mâlo, ﬁg. 3; de gras dos de la Manche, ﬁg. 4.
+La dernière de ces ﬁgures est la meilleure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="22" y="1486"/>
+	<Point x="1449" y="1488"/>
+	<Point x="1450" y="1738"/>
+	<Point x="22" y="1738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons la preuve que cette espèce vit
+également dans la Manche, dans le golfe de
+Gascogne et autour de la pointe de la Bretagne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="29" y="1740"/>
+	<Point x="1449" y="1740"/>
+	<Point x="1449" y="2681"/>
+	<Point x="29" y="2681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. d'Orbigny nous l'a envoyée de La Ro-
+chelle. Ses individus n'ont que quatre pouces
+à quatre pouces et demi. On la nomme sur
+cette côte prêtre et abusseau, et on l'y es-
+time beaucoup. Elle y paraît au mois de Mai,
+et s'éloigne en Octobre. L'époque de son frai
+est depuis le mois de Mars jusqu'au mois
+d'Août: il s'en prend jusqu'à une lieue de la
+côte, et à quatre brasses environ de profon-
+deur sur toute espèce de fond. Ses alimens
+consistent en petits crustacés, en vers, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="889" y="188"/>
+	<Point x="889" y="261"/>
+	<Point x="598" y="261"/>
+	<Point x="598" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1432" y="188"/>
+	<Point x="1432" y="261"/>
+	<Point x="1307" y="261"/>
+	<Point x="1307" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>441</Unicode></TextEquiv></TextRegion></Page></PcGts>

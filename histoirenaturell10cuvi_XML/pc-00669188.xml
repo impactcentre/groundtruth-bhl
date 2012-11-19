@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669188">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:35:32</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669188.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="371" y="262"/>
+	<Point x="1788" y="262"/>
+	<Point x="1785" y="945"/>
+	<Point x="372" y="944"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬁl, presque vertical, est légèrement courbé en S; son
+œil est à peine au-dessus du milieu de la hauteur
+de sa tête. Il a à chaque mâchoire quatorze dents
+ovales à dentelures très-prononcées; sa dorsale et
+son anale sont arrondies et ont près de moitié de
+la hauteur du corps; la caudale est coupée carré‐
+ment; les épines de sa dorsale sont au nombre de
+quatre, toutes assez fortes, ainsi que les trois de l’anale:
+la première de l’une et de l’autre est très-courte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="385" y="1876"/>
+	<Point x="1780" y="1876"/>
+	<Point x="1780" y="1994"/>
+	<Point x="385" y="1994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Notre individu est long de quatre pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="406" y="1029"/>
+	<Point x="1775" y="1029"/>
+	<Point x="1775" y="1866"/>
+	<Point x="406" y="1866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ses écailles, à peine sensibles, font paraître sa peau
+comme un cuir. Sa tête, son corps, sa dorsale et son
+anale paraissent d’un brun foncé, semé de points
+blancs, qui sont ronds et en quinconce sur la tête
+et la poitrine, assez irrégulièrement disposés sur la
+dorsale, peu apparens sur une grande partie de l’a‐
+nale; mais qui sur le corps sont un peu alongés,
+et disposés en lignes longitudinales peu régulières,
+au nombre de vingt-quatre ou vingt-cinq. Le bout
+de la queue est jaune et a aussi des points blancs.
+La caudale paraît jaune sans points.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="651" y="948"/>
+	<Point x="1531" y="948"/>
+	<Point x="1531" y="1022"/>
+	<Point x="651" y="1022"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 4/28; A. 3/24; C. 17; P. 65; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="page-number">
+	<Coords>
+	<Point x="344" y="158"/>
+	<Point x="494" y="158"/>
+	<Point x="494" y="240"/>
+	<Point x="344" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>256</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="header">
+	<Coords>
+	<Point x="803" y="158"/>
+	<Point x="1321" y="158"/>
+	<Point x="1321" y="240"/>
+	<Point x="803" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r29">
+	<Coords>
+	<Point x="960" y="2171"/>
+	<Point x="960" y="2239"/>
+	<Point x="1167" y="2239"/>
+	<Point x="1167" y="2171"/></Coords></SeparatorRegion></Page></PcGts>

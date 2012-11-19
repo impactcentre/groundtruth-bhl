@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668947">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T10:06:07</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668947.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="164" y="308"/>
+	<Point x="1504" y="308"/>
+	<Point x="1504" y="830"/>
+	<Point x="164" y="830"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>par une épine, et qui (chose singulière) appartient,
+ainsi que nous le verrons, non pas au surscapu-
+laire, qui est articulé ﬁnement au crâne, mais au
+scapulaire. L'huméral donne aussi, entre l'angle de
+l'opercule et la pectorale, une pointe comprimée,
+tranchante en dessus et en dessous, et qui se dirige
+obliquement vers le haut.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="163" y="834"/>
+	<Point x="1500" y="834"/>
+	<Point x="1500" y="1439"/>
+	<Point x="163" y="1439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La pectorale est attachée un peu au-dessous de la
+demi-hauteur du corps, arrondie et de grandeur mé-
+diocre, salongueur ne faisant guère quele neuvième ou
+le dixième de la longueur totale. Elle a treize rayons,
+dont le premier est simple et les autres fort peu
+rameux. On sent à travers la peau, sous la pecto-
+rale, la partie inférieure du stylet caracoïdien mais
+il ne se voit pas à nu, comme Bloch l'a représenté.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="165" y="1441"/>
+	<Point x="1501" y="1441"/>
+	<Point x="1501" y="2725"/>
+	<Point x="165" y="2725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ventrales sont attachées à peu près sous les
+pectorales et plutôt un peu plus en avant; elles les
+dépassent de beaucoup en arrière, car elles approchent
+d'être trois fois aussi longues, ce qui fait atteindre leur
+pointe jusqu'au troisième rayon de l'anale. L'aiguillon
+n'a que moitié de la longueur de la nageoire. La
+première dorsale commence à quelque distance der-
+rière l'occiput, au-dessus de l'angle du préopercule,
+et elle partage également avec la seconde ce qui
+reste de la courbe du dos. Elle a dix aiguillons,
+dont le premier a un peu plus du tiers de la hau-
+teur du corps; le second et le troisième le surpas-
+sent un peu; ensuite ils diminuent jusqu'au dixième,
+qui est extrêmement court. Chacun de ces aiguillons
+a sa base armée de chaque côté d'une épine courte
+et pointue. Ils sont enveloppés, comme à l'ordinaire,
+par la membrane générale de la nageoire; mais cette</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="599" y="223"/>
+	<Point x="1009" y="223"/>
+	<Point x="1009" y="275"/>
+	<Point x="599" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. ZÉES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1422" y="212"/>
+	<Point x="1503" y="212"/>
+	<Point x="1503" y="277"/>
+	<Point x="1422" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>15</Unicode></TextEquiv></TextRegion></Page></PcGts>

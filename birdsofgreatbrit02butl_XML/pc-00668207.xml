@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668207">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:14:30</Created>
+	<LastChange>2012-02-10T09:52:44</LastChange></Metadata>
+	<Page imageFilename="00668207.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="857" y="269"/>
+	<Point x="1369" y="269"/>
+	<Point x="1369" y="333"/>
+	<Point x="857" y="333"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CRESTED LARK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1935" y="290"/>
+	<Point x="2030" y="290"/>
+	<Point x="2030" y="335"/>
+	<Point x="1935" y="335"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>191</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="161" y="404"/>
+	<Point x="2033" y="404"/>
+	<Point x="2033" y="709"/>
+	<Point x="161" y="709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>however, he told me he was quite certain that it was a Wood-Lark, so I gave him
+the money: he hurried oﬀ so quickly that I doubted again; and, taking it in-
+doors to the light, I discovered that the bird was a hen Sky-Lark whose tail had
+been pulled out and had half-grown again. I could not help laughing, but I
+never bought a bird from that man afterwards.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="263" y="716"/>
+	<Point x="1788" y="716"/>
+	<Point x="1788" y="776"/>
+	<Point x="263" y="776"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The egg ﬁgured on the plate is from Mr. A. B. Farn's collection.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="152" y="1197"/>
+	<Point x="733" y="1197"/>
+	<Point x="733" y="1257"/>
+	<Point x="152" y="1257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—ALAUDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="728" y="1447"/>
+	<Point x="1457" y="1447"/>
+	<Point x="1457" y="1535"/>
+	<Point x="728" y="1535"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CRESTED LARK.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="847" y="1623"/>
+	<Point x="1364" y="1623"/>
+	<Point x="1364" y="1680"/>
+	<Point x="847" y="1680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alauda cristata, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="302" y="1953"/>
+	<Point x="302" y="1778"/>
+	<Point x="2038" y="1775"/>
+	<Point x="2040" y="2019"/>
+	<Point x="166" y="2019"/>
+	<Point x="169" y="1953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ESIDENT in Central and Southern Europe, its northern range extending
+up to 60° N. lat. in Russia and Sweden; North Africa, southward to
+Senegambia and the Niger on the west coast, and from Abyssinia east-
+ward, through Arabia and India, to North China.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="157" y="2021"/>
+	<Point x="2040" y="2021"/>
+	<Point x="2040" y="2390"/>
+	<Point x="462" y="2392"/>
+	<Point x="157" y="2392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>To Great Britain this species appears to be a rare straggler: most examples
+have been obtained in Cornwall, one in summer and the four others in autumn
+and winter; one is said to have been caught in the Isle of Wight, and two have
+been obtained in Sussex. The statements—that one has been taken from a nest
+in the Isle of Wight, and that it has occurred in Ireland, require veriﬁcation.*
+It is also reported from Blackheath and Macclesﬁeld.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="154" y="2397"/>
+	<Point x="2040" y="2397"/>
+	<Point x="2040" y="2640"/>
+	<Point x="154" y="2640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>There are many slight climatic modiﬁcations of this Lark, all of which
+have been regarded either as species or subspecies. The typical form has the
+upper parts greyish-brown, with darker centres to the feathers, excepting on the
+rump and upper tail-coverts, which are sandy-brown; the long pointed crest has</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="footnote">
+	<Coords>
+	<Point x="171" y="2652"/>
+	<Point x="2035" y="2652"/>
+	<Point x="2035" y="2773"/>
+	<Point x="171" y="2773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* If all the stories respecting the nesting of birds in the Isle of Wight are to be accepted, it must be a
+very wonderful place; not only in birds, but in insects, it is reputed to be exceedingly rich in rarities; I once
+had a small New Zealand Moth shown to me by a man who assured me that he had caught it near Ventnor.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="973" y="978"/>
+	<Point x="1216" y="978"/>
+	<Point x="1216" y="1011"/>
+	<Point x="973" y="1011"/></Coords></SeparatorRegion>
+	<TextRegion id="r13" type="drop-capital">
+	<Coords>
+	<Point x="173" y="1780"/>
+	<Point x="300" y="1780"/>
+	<Point x="300" y="1927"/>
+	<Point x="173" y="1927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R</Unicode></TextEquiv></TextRegion></Page></PcGts>

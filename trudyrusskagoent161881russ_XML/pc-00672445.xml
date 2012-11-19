@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672445">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:36:59</Created>
+	<LastChange>2012-02-10T09:54:54</LastChange></Metadata>
+	<Page imageFilename="00672445.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="771" y="158"/>
+	<Point x="1089" y="158"/>
+	<Point x="1089" y="232"/>
+	<Point x="771" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 251 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="173" y="298"/>
+	<Point x="1805" y="298"/>
+	<Point x="1805" y="469"/>
+	<Point x="173" y="469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>e) wie b; aber die Gabel des ersten ist halb so lang wie
+ihr Stiel (1 ♂).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="167" y="474"/>
+	<Point x="1814" y="474"/>
+	<Point x="1814" y="980"/>
+	<Point x="167" y="980"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>f) vor der bei a—e als Ast 1 geltenden Ader entspringt,
+nicht weit davon, noch ein Ast, der so dick und aus-
+gebildet wie die andern und also der eigentliche er-
+ste Ast ist; die durch die eigentlichen Aeste 3 und 4
+gebildete Gabel hat einen noch kürzern Stiel als bei
+a. (1 ♂).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="62" y="983"/>
+	<Point x="1823" y="983"/>
+	<Point x="1823" y="1232"/>
+	<Point x="62" y="1232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel wie oben. Ast 1 der Medianader kommt von
+1/5, Ast 2 bei oder noch vor 1/2; die Querader aus der Mitte
+zwischen 1 u. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="55" y="1242"/>
+	<Point x="1812" y="1242"/>
+	<Point x="1812" y="1496"/>
+	<Point x="55" y="1496"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die 19 Exemplare, worunter 2 ♀♀, ﬁng Petersen am Gua-
+rinò bei Honda in der Endhälfte des April und der ersten
+Hälfte des Mai.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="683" y="1635"/>
+	<Point x="1178" y="1635"/>
+	<Point x="1178" y="1724"/>
+	<Point x="683" y="1724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anerastia H.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="557" y="1798"/>
+	<Point x="1314" y="1798"/>
+	<Point x="1314" y="1892"/>
+	<Point x="557" y="1892"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Abth. C, Mesodiphlebia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="62" y="1923"/>
+	<Point x="1812" y="1923"/>
+	<Point x="1812" y="2089"/>
+	<Point x="62" y="2089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpi porrecti. Alarum posteriorum vena mediana tantum
+furcata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="244" y="2228"/>
+	<Point x="1635" y="2228"/>
+	<Point x="1635" y="2319"/>
+	<Point x="244" y="2319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anerast. crassivenia Tab. XII, ﬁg. 52. а. b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="57" y="2383"/>
+	<Point x="1826" y="2383"/>
+	<Point x="1826" y="2732"/>
+	<Point x="57" y="2732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis horizontalibus; alis ant. griseo-ochraceis, vena me-
+diana inferius fuscescenti-marginata venaque subcostali sub-
+elevatis, in furcam conjunctis, albidis, punctis marginalibus ni-
+gris; post. sordide exalbidis. ♂ ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="67" y="2769"/>
+	<Point x="1807" y="2769"/>
+	<Point x="1807" y="3110"/>
+	<Point x="67" y="3110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Im Habitus und ganzen Bau eine echte Anerastia, unter-
+scheidet sich diese Art nebst Deliquella Z. (Isis 1848 p. 861)
+von den mir bekannten Anerastien, ja von allen Phycideen
+durch die in beiden Geschlechtern nur in 2 Aeste getheilte</Unicode></TextEquiv></TextRegion></Page></PcGts>

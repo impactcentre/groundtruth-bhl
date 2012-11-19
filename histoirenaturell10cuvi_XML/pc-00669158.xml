@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669158">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:31:44</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669158.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="396" y="274"/>
+	<Point x="1745" y="274"/>
+	<Point x="1745" y="962"/>
+	<Point x="396" y="962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sent en une, qui descend le long du chanfrein jus‐
+qu’à la bouche, et est accompagnée de chaque côté
+d’une autre qui vient du bord antérieur de l’æil; la joue
+et les opercules en ont six, qui marchent parallèle‐
+ment d’avant en arrière, en descendant un peu. Tout
+le tiers inférieur du corps est blanc et sans lignes;
+la pectorale est grise, sa base est noirâtre, avec une
+ligne bleue arquée en travers; la ventrale est blanche
+et bordée de noir au-dessous; l’anale est noirâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="315" y="972"/>
+	<Point x="1751" y="972"/>
+	<Point x="1744" y="1659"/>
+	<Point x="315" y="1663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ﬁgure du Recueil de Vlaming, qui a
+servi d’original à celle de Renard, n.° 80, donne
+une couleur d’un beau jaune aux intervalles
+des lignes bleues et noires; les nageoires ver‐
+ticales et les pectorales y sont d’un vert clair.
+Dans la ﬁgure de M. Bennett le fond est du
+même jaune d’or, mais les nageoires sont d’un
+brun olivâtre, excepté la ventrale, qui est rose.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="335" y="1667"/>
+	<Point x="1741" y="1662"/>
+	<Point x="1742" y="1824"/>
+	<Point x="1161" y="1826"/>
+	<Point x="334" y="1833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons de ces poissons de six et huit
+pouces de longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="335" y="1837"/>
+	<Point x="1095" y="1831"/>
+	<Point x="1742" y="1829"/>
+	<Point x="1742" y="2237"/>
+	<Point x="333" y="2237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il nous en est venu de Waigiou par l’expé‐
+dition de M. Freycinet et par celle de M. Du-
+perrey, et de Oualan par cette dernière; mais
+l’espèce est répandue dans tout l’archipel des
+Indes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="340" y="2246"/>
+	<Point x="1744" y="2247"/>
+	<Point x="1745" y="2501"/>
+	<Point x="1160" y="2506"/>
+	<Point x="339" y="2501"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est sans motif et sans autorité que Gme-
+lin1, et Lacépède2 d’après lui, disent qu’il
+habite aussi dans l’Amérique méridionale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="347" y="173"/>
+	<Point x="484" y="173"/>
+	<Point x="484" y="259"/>
+	<Point x="347" y="259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>226</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="784" y="190"/>
+	<Point x="1295" y="190"/>
+	<Point x="1295" y="256"/>
+	<Point x="784" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="344" y="2532"/>
+	<Point x="1742" y="2532"/>
+	<Point x="1742" y="2561"/>
+	<Point x="344" y="2561"/></Coords></SeparatorRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="398" y="2577"/>
+	<Point x="1235" y="2577"/>
+	<Point x="1235" y="2652"/>
+	<Point x="398" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Page 1246. — 2. Lacép., IV, 555.</Unicode></TextEquiv></TextRegion></Page></PcGts>

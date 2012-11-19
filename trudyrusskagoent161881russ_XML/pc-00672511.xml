@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672511">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T06:18:36</Created>
+	<LastChange>2012-02-10T09:55:04</LastChange></Metadata>
+	<Page imageFilename="00672511.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r13" index="6"/>
+	<RegionRefIndexed regionRef="r17" index="7"/>
+	<RegionRefIndexed regionRef="r21" index="8"/>
+	<RegionRefIndexed regionRef="r23" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="769" y="178"/>
+	<Point x="1073" y="178"/>
+	<Point x="1073" y="248"/>
+	<Point x="769" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 315 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="55" y="298"/>
+	<Point x="1796" y="298"/>
+	<Point x="1796" y="1398"/>
+	<Point x="55" y="1398"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tarsenglied und freie Krallen hat, wie die Erirrhinides vrais
+bei Tournier. Also nicht nur, dass die versuchte Gruppi-
+rung der Erirrhiniden des Herrn Tournier als eine durch-
+aus verfehlte angesehen werden muss, leitet dieselbe in ihrer
+grossen Flüchtigkeit irre. Mit Desbrochers und Le Conte
+muss angenommen werden, dass wenn Tournier seine Sharpia
+zu seinen Erirrhinides vrais stellt, die Gattung doch wenig-
+stens die Eigenschaften besitzt, welche er benutzt, um von
+Ersteren seine Hydronomides zu scheiden. In Wirklichkeit aber
+besitzt Sharpia die Tarsen (ﬁliformes) welche Tournier's
+Hydronomides eigen ist, und welche im Verein mit dem zwei-
+ten verlängerten Geisselgliede die einzigen Unterschiede von
+Smicronyx ausmachen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="49" y="1407"/>
+	<Point x="1812" y="1407"/>
+	<Point x="1812" y="2076"/>
+	<Point x="49" y="2076"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sharpia Biskrensis Desbr. habe ich wohl gesehen, aber zu
+einer Zeit, als ich weder Rubida Rosenh. noch Gracilentus
+Fairm. kannte, daher ich auch jetzt nicht angeben kann, ob
+Biskrensis gute Art oder zu einer schon beschriebenen gehört;
+nach der Beschreibung sollte die Biskrensis nahe bei Rubida
+stehen. Da die Gattung in den Sammlungen wenig vertreten
+und auch aus Tournier's Beschreibung nicht mit Sicherheit
+zu erkennen ist, so möge folgende Diagnose hier Platz ﬁnden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="605" y="2182"/>
+	<Point x="1248" y="2182"/>
+	<Point x="1248" y="2275"/>
+	<Point x="605" y="2275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sharpia Tournier.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="158" y="2621"/>
+	<Point x="892" y="2621"/>
+	<Point x="892" y="2692"/>
+	<Point x="158" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Scrobes subtus conﬂuentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="48" y="2357"/>
+	<Point x="1796" y="2357"/>
+	<Point x="1796" y="2454"/>
+	<Point x="48" y="2454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oculi perpendiculares, elongati, subtus contigui.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="48" y="2456"/>
+	<Point x="1796" y="2456"/>
+	<Point x="1796" y="2617"/>
+	<Point x="48" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rostrum elongatum, tenue, basi aut strictura aut crista
+transversa squamosa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="58" y="2703"/>
+	<Point x="1799" y="2703"/>
+	<Point x="1799" y="2870"/>
+	<Point x="58" y="2870"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Antennae 12-articulatae prope medium rostri insertae, ar-
+ticulis primis duobus elongatis, clava elongata-acuminata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="58" y="2872"/>
+	<Point x="1799" y="2872"/>
+	<Point x="1799" y="2954"/>
+	<Point x="58" y="2954"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prothorax post oculos plus minusve lobatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="58" y="2956"/>
+	<Point x="1799" y="2956"/>
+	<Point x="1799" y="3025"/>
+	<Point x="58" y="3025"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Scutellum punctiforme, vix conspicuum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="51" y="3033"/>
+	<Point x="1799" y="3033"/>
+	<Point x="1799" y="3112"/>
+	<Point x="51" y="3112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elytris humeris distinctis.</Unicode></TextEquiv></TextRegion></Page></PcGts>

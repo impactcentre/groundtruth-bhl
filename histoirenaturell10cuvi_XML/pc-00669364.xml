@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669364">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T05:56:53</Created>
+	<LastChange>2012-03-12T14:33:58</LastChange></Metadata>
+	<Page imageFilename="00669364.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="382" y="132"/>
+	<Point x="519" y="132"/>
+	<Point x="519" y="217"/>
+	<Point x="382" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>432</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="867" y="151"/>
+	<Point x="1308" y="151"/>
+	<Point x="1308" y="216"/>
+	<Point x="867" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="942" y="319"/>
+	<Point x="1242" y="319"/>
+	<Point x="1242" y="394"/>
+	<Point x="942" y="394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le JOEL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="416" y="424"/>
+	<Point x="1760" y="424"/>
+	<Point x="1760" y="512"/>
+	<Point x="416" y="512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina Boieri; Alhérine Boier, Riss., p. 338.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="373" y="551"/>
+	<Point x="1798" y="551"/>
+	<Point x="1798" y="816"/>
+	<Point x="373" y="816"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La seconde espèce d'athérine de la Médi-
+terranée, le joël des Languedociens, le ca-
+basuda des habitans d'Iviça,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="441" y="846"/>
+	<Point x="1794" y="846"/>
+	<Point x="1794" y="1741"/>
+	<Point x="441" y="1741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>est plus courte que la première, et a la tête plus
+grosse, plus large et plus obtuse: sa bouche, qui
+approche davantage de la verticale, et son œil plus
+grand, lui donnent aussi une autre physionomie: sa
+hauteur n'est pas tout-à-fait cinq fois dans sa lon-
+gueur: celle de sa tête n'y est guère plus de quatre
+fois; la longueur de son museau ne fait que les deux
+tiers du diamètre de l'œil, et sa mâchoire supérieure
+est bien moins protractile: ses dents sont plus nom-
+breuses et plus marquées que celles du sauclet. Il
+en a une bande étroite à chaque mâchoire, et une
+au-devant du vomer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="441" y="1748"/>
+	<Point x="1796" y="1748"/>
+	<Point x="1796" y="2275"/>
+	<Point x="441" y="2275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ventrales naissent sous le tiers postérieur
+des pectorales. Il y a deux rayons de moins à la
+première dorsale, et un rayon mou de plus, et
+quelquefois même deux à la seconde et à l'anale: la
+première dorsale est plus petite, a des rayons plus
+grêles, et ne naît que vis-à-vis le tiers postérieur
+de la ventrale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="548" y="2294"/>
+	<Point x="1682" y="2294"/>
+	<Point x="1682" y="2364"/>
+	<Point x="548" y="2364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 7—1/12; A. 1/13 ou 14; C. 17; P. 14; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="430" y="2371"/>
+	<Point x="1789" y="2371"/>
+	<Point x="1789" y="2614"/>
+	<Point x="430" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ses couleurs sont à peu près les mêmes, seule-
+ment les points noirs sont plus également répartis sur
+le dos, et il y en a quelquefois une rangée le long</Unicode></TextEquiv></TextRegion></Page></PcGts>

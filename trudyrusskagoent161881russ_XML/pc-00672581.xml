@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672581">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T04:00:48</Created>
+	<LastChange>2012-02-10T09:55:13</LastChange></Metadata>
+	<Page imageFilename="00672581.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r12" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="771" y="174"/>
+	<Point x="1107" y="174"/>
+	<Point x="1107" y="251"/>
+	<Point x="771" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 385 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="73" y="303"/>
+	<Point x="1817" y="303"/>
+	<Point x="1817" y="498"/>
+	<Point x="73" y="498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>12 exemplaires rapportés, trois seulement ont pu servir à la
+description qui précede et encore, ne sont ils pas très beaux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="519" y="592"/>
+	<Point x="1364" y="592"/>
+	<Point x="1364" y="676"/>
+	<Point x="519" y="676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>40. L. Anthracias Christ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="582" y="716"/>
+	<Point x="1319" y="716"/>
+	<Point x="1319" y="789"/>
+	<Point x="582" y="789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Horae Soc. Eut. T. XII, p. 239).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="80" y="866"/>
+	<Point x="1821" y="866"/>
+	<Point x="1821" y="1119"/>
+	<Point x="80" y="1119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mr. Christoph a décrit cette Lycaena remarquable, d'après
+un seul ♂ pris par lui en Avril près de Krasnowodsk. (Littoral
+Est de la mer Caspienne).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="76" y="1126"/>
+	<Point x="1837" y="1126"/>
+	<Point x="1837" y="1867"/>
+	<Point x="76" y="1867"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je n'ai presque rien à ajouter à la description de Christoph,
+si ce n'est que généralement la ♀ est plus grande, mais ne
+diﬀère pas autrement du ♂. C'est vers la ﬁn Mars que je vis
+les premiers individus voler dans les sables à l'Ouest de Kouldjà.
+Plus tard, en Avril, l'Anthracias, y était abondante et volait
+autour de l'une des plantes les plus caractéristiques de ces
+sables,—l'Alhagi Kirghisorum, (si je ne me trompe), qui est
+la plante nourricière de l'espèce. J'ai vu une ♀ déposer un
+œuf sur une toute jeune feuille de cette plante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="74" y="1873"/>
+	<Point x="1837" y="1873"/>
+	<Point x="1837" y="2119"/>
+	<Point x="74" y="2119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Anthracias varie très peu. C'est un papillon très dé-
+licat et il n'est pas aisé de le prendre au ﬁlet sans le dété-
+riorer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="73" y="2126"/>
+	<Point x="1830" y="2126"/>
+	<Point x="1830" y="2723"/>
+	<Point x="73" y="2723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Certains individus d'une grande fraîcheur, ont à la base
+des ailes, sur le dessus, quelques écailles bleues, ce qui me
+fait faire une supposition, qui semblera risquée peut être: je
+crois que cette espèce doit avoir deux générations (peut être
+plus?) dans ces sables, et qu'alors les individus de la II gé-
+nération, pourraient bien avoir la base ainsi qu'une partie du
+disque des ailes, plus ou moins bleuâtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="564" y="2780"/>
+	<Point x="1333" y="2780"/>
+	<Point x="1333" y="2878"/>
+	<Point x="564" y="2878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>41. L. Pheretiades Ev.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1830" y="2958"/>
+	<Point x="1830" y="3144"/>
+	<Point x="1478" y="3144"/>
+	<Point x="1478" y="3143"/>
+	<Point x="1008" y="3143"/>
+	<Point x="1008" y="3142"/>
+	<Point x="538" y="3142"/>
+	<Point x="538" y="3141"/>
+	<Point x="89" y="3141"/>
+	<Point x="89" y="2958"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Très râre à 6500', et commune entre 8000 et 11000
+d'altitude dans tout le Tian-Chian. C'était le lépidoptère le</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="536" y="3143"/>
+	<Point x="536" y="3144"/>
+	<Point x="554" y="3144"/>
+	<Point x="554" y="3214"/>
+	<Point x="89" y="3214"/>
+	<Point x="89" y="3143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="signature-mark">
+	<Coords>
+	<Point x="1830" y="3146"/>
+	<Point x="1830" y="3214"/>
+	<Point x="1582" y="3214"/>
+	<Point x="1582" y="3196"/>
+	<Point x="1581" y="3196"/>
+	<Point x="1581" y="3146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>25</Unicode></TextEquiv></TextRegion></Page></PcGts>

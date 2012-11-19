@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672241">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T18:50:40</Created>
+	<LastChange>2012-02-10T09:54:09</LastChange></Metadata>
+	<Page imageFilename="00672241.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="726" y="178"/>
+	<Point x="1039" y="178"/>
+	<Point x="1039" y="249"/>
+	<Point x="726" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 47 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="71" y="317"/>
+	<Point x="1782" y="317"/>
+	<Point x="1782" y="898"/>
+	<Point x="71" y="898"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Unterseite ist viel lebhafter gefärbt. Die Rippen
+mit Ausnahme der 1a sind orangegelb. Auf den Vorder-
+ﬂügeln ist nur die äussere Querlinie vorhanden, hier roth-
+braun; das von ihr, dem Vorderrande und Rippe 1b be-
+grenzte Feld ist orangegelb, dicht röthlich braun bestäubt.
+Diese Färbung setzt sich in Feld 2, 4 und 5 bis zum Aus-
+senrande fort.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="73" y="908"/>
+	<Point x="1782" y="908"/>
+	<Point x="1782" y="1503"/>
+	<Point x="73" y="1503"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Hinterﬂügel führen auf der Unterseite zwei feine
+rothbraune, dicht neben einander laufende Linien (die äus-
+sere derselben entspricht der Querlinie der Oberseite), die sich
+in der Mitte am weitesten von einander entfernen. Hier
+ist das ganze Wurzelfeld bis zum Innenrand orangegelb ge-
+färbt, dicht röthlich braun bestäubt. Die Mittelpunkte sind
+auf der Unterseite feiner und schärfer gezeichnet als oben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="69" y="1510"/>
+	<Point x="1771" y="1510"/>
+	<Point x="1771" y="2092"/>
+	<Point x="69" y="2092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fransen oben braun, unten rothbraun. Scheitel röthlich
+grau, Stirn braun, Halskragen oben röthlich grau, an den
+Seiten rothbraun. Palpen rothbraun, an der Wurzel und
+den Seiten des ersten Gliedes heller, das Endglied kurz.
+Fühler braun, beim ♂ zweireihig gekämmt mit nackter Spitze.
+Beine röthlich gelb, die Hinterschienen mit zwei, die Mit-
+telschienen mit einem Paar Sporen. 19 mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="182" y="2100"/>
+	<Point x="1198" y="2100"/>
+	<Point x="1198" y="2182"/>
+	<Point x="182" y="2182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auf der Insel Askold recht häuﬁg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="71" y="2192"/>
+	<Point x="1778" y="2192"/>
+	<Point x="1778" y="2353"/>
+	<Point x="71" y="2353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ich benenne sie nach dem Herrn Р. С. T. Snellen in
+Rotterdam.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="16" y="2380"/>
+	<Point x="1764" y="2380"/>
+	<Point x="1764" y="2542"/>
+	<Point x="16" y="2542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Angerona Prunaria L. ﬁndet sich in den verschiedenen Aber-
+rationen auf der Insel Askold.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="26" y="2566"/>
+	<Point x="1769" y="2566"/>
+	<Point x="1769" y="3166"/>
+	<Point x="26" y="3166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Odontopera Serrata Brem. Dieser Spanner, den Dr. Stau-
+dinger mit einem (?) in seinem Cataloge von 1871 in das
+Genus Angerona Dup. setzt, gehört in das Gen. Odonto-
+pera Led. In der nordamerikanischen Endropia Serrata
+Drury besitzt sie eine nahe Verwandte, die nebst der E.
+Obtusaria Hb. (Guené Phal. I, pag. 123) wohl auch zu
+Odontopera gestellt werden müssen. In diesem Falle muss</Unicode></TextEquiv></TextRegion></Page></PcGts>

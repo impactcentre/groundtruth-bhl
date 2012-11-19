@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668948">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T04:36:14</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668948.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="721" y="212"/>
+	<Point x="1365" y="212"/>
+	<Point x="1365" y="278"/>
+	<Point x="721" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="401" y="308"/>
+	<Point x="1760" y="308"/>
+	<Point x="1760" y="1438"/>
+	<Point x="401" y="1438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>membrane, en approchant de leur sommet, prend
+de la consistance et se prolonge en soies aussi lon-
+gues que les aiguillons eux-mêmes, et soutenues à
+l'intérieur par des ﬁbres élastiques qui paraissent un
+prolongement de la substance osseuse de l'aiguillon.
+Ces enveloppes sont aisément percées par le rayon,
+et alors, au lieu d'en paraître des prolongemens,
+elles semblent des lambeaux de la membrane; mais
+c'est une fausse apparence. La seconde dorsale est
+contiguë à la première, et néanmoins la membrane
+est bien écliancrée jusqu'au corps, en sorte qu'en
+réalité ce sont deux nageoires : elle a vingt-trois
+rayons articulés; les premiers sont fort bas, et les
+plus élevés, vers le tiers postérieur, n'ont que le
+cinquième de la hauteur totale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="401" y="1440"/>
+	<Point x="1758" y="1440"/>
+	<Point x="1758" y="2190"/>
+	<Point x="401" y="2190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De chaque côté de la base de cette seconde dor-
+sale est une rangée de pièces osseuses, alongées,
+ordinairement au nombre de neuf, quelquefois de
+huit ou de dix, portant chacune une épine fourchue,
+ou composée de deux pointes tranchantes et aiguës,
+dont la supérieure se dirige un peu obliquement en
+haut et en arrière, et l'inférieure est à peu près hori-
+zontale et dirigée de côté; la série de ces épines
+fourchues semble faire suite aux épines simples qui
+arment la base des aiguillons de la première dorsale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="411" y="2195"/>
+	<Point x="1765" y="2195"/>
+	<Point x="1765" y="2644"/>
+	<Point x="411" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a aussi deux anales, bien que peut-être elles
+soient moins profondément divisées que les dor-
+sales; la première n'a que quatre aiguillons, moins
+alongés de moitié que ceux du dos et sans prolon-
+gemens soyeux, mais armés de même d'une petite
+épine de chaque côté de leur base.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="350" y="211"/>
+	<Point x="435" y="211"/>
+	<Point x="435" y="281"/>
+	<Point x="350" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16</Unicode></TextEquiv></TextRegion></Page></PcGts>

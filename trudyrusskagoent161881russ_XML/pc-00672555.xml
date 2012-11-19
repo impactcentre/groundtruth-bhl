@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672555">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:56:37</Created>
+	<LastChange>2012-02-10T09:55:09</LastChange></Metadata>
+	<Page imageFilename="00672555.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="749" y="142"/>
+	<Point x="1064" y="142"/>
+	<Point x="1064" y="210"/>
+	<Point x="749" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 359 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="49" y="264"/>
+	<Point x="1782" y="264"/>
+	<Point x="1782" y="942"/>
+	<Point x="49" y="942"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si je donne la diagnose qui précède, c'est que je trouve
+que les Callidice du Tian-Chian n'appartiennent pas précisé-
+ment à la v. Chrysidice H. S., mais, plutôt à une var. à part,
+que j'ai pensé désigner comme v. Orientalis, et si je ne le
+fais pas, c'est uniquement parceque je n'ai pas, pour le mo-
+ment, de Chrysidice de l'Asie mineure devant les yeux pour
+comparer. En outre, Mrs. Staudinger et Erschoff consi-
+dèrent cette forme comme la Chrysidice H. S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="48" y="948"/>
+	<Point x="1791" y="948"/>
+	<Point x="1791" y="1442"/>
+	<Point x="48" y="1442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le dessous des secondes ailes est presque comme chez le
+type des alpes Européennes, à l'exception du fond des ailes
+qui est plus blanc (non jaunâtre), avec les larges nervures
+vertes plus nettement accusées. Dans la v. Chrysidice H. S.,
+au contraire, c'est plutôt le fond qui est vert, avec de petites
+taches longitudinales blanches.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="49" y="1448"/>
+	<Point x="1789" y="1448"/>
+	<Point x="1789" y="1853"/>
+	<Point x="49" y="1853"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En dessus, la forme du Tian-Chian est plus blanche, avec
+le dessin noir plus accentué. La tache discocellulaire, qua-
+drangulaire, des premières ailes est de beaucoup plus grande
+que chez le type ou la var. Chrysidice, et pourrait servir de
+caractère distinctif à la var. du Tian-Chian.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="48" y="1860"/>
+	<Point x="1789" y="1860"/>
+	<Point x="1789" y="2353"/>
+	<Point x="48" y="2353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ♂♂ ont en outre la série des points antimarginaux
+des premières ailes très sombre, bien plus que ne le sont les
+points marginaux eux mêmes. Un gros point noir est placé
+près du bord interne, au dessus de la 1-re nervure. Le dessin
+de la ♀ est encore plus net, et la tache discocellulaire des pre-
+mières ailes est deux fois plus grande que chez le ♂:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="48" y="2360"/>
+	<Point x="1787" y="2360"/>
+	<Point x="1787" y="2523"/>
+	<Point x="48" y="2523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'ai reçu du Dr. Staudinger cette même forme du Tar-
+bagataï, sous le nom de v. Chrysidice H. S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="46" y="2530"/>
+	<Point x="1782" y="2530"/>
+	<Point x="1782" y="3117"/>
+	<Point x="46" y="3117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'étude des races locales, ayant, à mon point de vue, une
+très grande importance, je crois qu'il est nécessaire de dis-
+tinguer chaque race bien caractérisée par un nom à part, et
+je propose, si les diﬀérences que j'ai indiquées paraissent suf-
+ﬁsantes pour cela, comme je le crois, de distinguer des vraies
+v. Chrysidice H. S., la v. Orientalis, propre aux montagnes
+de l'Asie centrale. Cette Pieris volait à de grandes altitudes,</Unicode></TextEquiv></TextRegion></Page></PcGts>

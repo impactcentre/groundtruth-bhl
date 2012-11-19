@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668074">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:29:23</Created>
+	<LastChange>2012-02-10T09:52:35</LastChange></Metadata>
+	<Page imageFilename="00668074.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r16" index="0"/>
+	<RegionRefIndexed regionRef="r21" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r23" index="6"/>
+	<RegionRefIndexed regionRef="r25" index="7"/>
+	<RegionRefIndexed regionRef="r7" index="8"/>
+	<RegionRefIndexed regionRef="r8" index="9"/>
+	<RegionRefIndexed regionRef="r19" index="10"/>
+	<RegionRefIndexed regionRef="r9" index="11"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="717" y="589"/>
+	<Point x="1494" y="589"/>
+	<Point x="1494" y="690"/>
+	<Point x="717" y="690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LITTLE BUNTING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="808" y="766"/>
+	<Point x="1398" y="766"/>
+	<Point x="1398" y="845"/>
+	<Point x="808" y="845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Emberiza pusilla, PALLAS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="324" y="1112"/>
+	<Point x="322" y="907"/>
+	<Point x="2029" y="905"/>
+	<Point x="2029" y="1328"/>
+	<Point x="170" y="1313"/>
+	<Point x="170" y="1117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NE specimen was captured near Brighton, on November 2nd, 1864; a female
+was secured in Durham and a male in Warwick in 1902, one was caught
+by a cat in Scotland in 1903, an example was seen at Fair Isle in 1905,
+and a female secured in 1906; all these examples were met with in October.
+At best it can only be regarded as a rare and chance wanderer to Great
+Britain, although there is no reason why it should not occasionally visit us.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="743" y="1945"/>
+	<Point x="1461" y="1945"/>
+	<Point x="1461" y="2070"/>
+	<Point x="743" y="2070"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE REED‐BUNTING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="783" y="2114"/>
+	<Point x="1441" y="2114"/>
+	<Point x="1441" y="2201"/>
+	<Point x="783" y="2201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Emberiza schœniclus, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="287" y="2467"/>
+	<Point x="286" y="2275"/>
+	<Point x="2041" y="2270"/>
+	<Point x="2036" y="2776"/>
+	<Point x="150" y="2775"/>
+	<Point x="150" y="2467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>REQUENTLY, though incorrectly, called Black-headed Bunting, Reed
+Sparrow, Water Sparrow, and Mountain Sparrow; also well-known under
+the popular name of Black-bonnet, is distributed over the whole of Europe
+from the North Cape to the Mediterranean, as well as in Western Siberia; but
+it is only a summer visitor to the more northern parts of its range, and chieﬂy a
+winter visitor to the extreme south; at this season it is also met with in Asia
+Minor and North Africa. Races of this species occurring in the south of Europe,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="178" y="230"/>
+	<Point x="295" y="230"/>
+	<Point x="295" y="305"/>
+	<Point x="178" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>126</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="1650" y="190"/>
+	<Point x="1650" y="305"/>
+	<Point x="528" y="305"/>
+	<Point x="528" y="261"/>
+	<Point x="529" y="261"/>
+	<Point x="529" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LITTLE BUNTING, THE REED‐BUNTING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="drop-capital">
+	<Coords>
+	<Point x="169" y="913"/>
+	<Point x="169" y="1076"/>
+	<Point x="319" y="1076"/>
+	<Point x="319" y="913"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="drop-capital">
+	<Coords>
+	<Point x="150" y="2272"/>
+	<Point x="150" y="2460"/>
+	<Point x="283" y="2460"/>
+	<Point x="283" y="2272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="173" y="337"/>
+	<Point x="816" y="337"/>
+	<Point x="816" y="423"/>
+	<Point x="173" y="423"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1339" y="337"/>
+	<Point x="2042" y="337"/>
+	<Point x="2042" y="417"/>
+	<Point x="1339" y="417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—EMBERIZINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="132" y="1689"/>
+	<Point x="819" y="1689"/>
+	<Point x="819" y="1787"/>
+	<Point x="132" y="1787"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1351" y="1691"/>
+	<Point x="2055" y="1691"/>
+	<Point x="2055" y="1785"/>
+	<Point x="1351" y="1785"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—EMBERIZINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r26">
+	<Coords>
+	<Point x="997" y="1492"/>
+	<Point x="997" y="1518"/>
+	<Point x="1210" y="1518"/>
+	<Point x="1210" y="1492"/></Coords></SeparatorRegion></Page></PcGts>

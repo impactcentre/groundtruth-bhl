@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672343">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:16:33</Created>
+	<LastChange>2012-02-10T09:54:32</LastChange></Metadata>
+	<Page imageFilename="00672343.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="780" y="138"/>
+	<Point x="1104" y="138"/>
+	<Point x="1104" y="202"/>
+	<Point x="780" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 149 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="69" y="271"/>
+	<Point x="1814" y="271"/>
+	<Point x="1814" y="435"/>
+	<Point x="69" y="435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>modum culicum et in terrâ sedentia (probabiliter ova deposi-
+tura?) vidi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="73" y="438"/>
+	<Point x="1823" y="438"/>
+	<Point x="1823" y="771"/>
+	<Point x="73" y="771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Volatus hujus speciei tardus, quare facile manu prehendi-
+tur. Eodem tempore individua Formicae sanguineae Latr. in-
+dividua Lasii affinis Schenck (� et ♂) rapientia et in nidos
+suos reportantia observavi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="1376" y="823"/>
+	<Point x="1673" y="823"/>
+	<Point x="1673" y="880"/>
+	<Point x="1376" y="880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N. Arnold.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="211" y="878"/>
+	<Point x="688" y="878"/>
+	<Point x="688" y="1071"/>
+	<Point x="211" y="1071"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>18 April 1880.
+Gorki,
+prov. Mohileviensis.</Unicode></TextEquiv></TextRegion></Page></PcGts>

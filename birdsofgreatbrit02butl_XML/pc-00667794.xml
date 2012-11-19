@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667794">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T00:30:08</Created>
+	<LastChange>2012-02-10T09:52:03</LastChange></Metadata>
+	<Page imageFilename="00667794.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="839" y="1455"/>
+	<Point x="1280" y="1455"/>
+	<Point x="1280" y="1653"/>
+	<Point x="839" y="1653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FOR THE PEOPLE
+FOR EDVCATION
+FOR SCIENCE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="815" y="1753"/>
+	<Point x="1266" y="1753"/>
+	<Point x="1266" y="2022"/>
+	<Point x="815" y="2022"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIBRARY
+OF
+THE AMERICAN MUSEUM
+OF
+NATURAL HISTORY</Unicode></TextEquiv></TextRegion></Page></PcGts>

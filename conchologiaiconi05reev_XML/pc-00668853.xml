@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668853">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:52:18</Created>
+	<LastChange>2012-02-10T10:29:41</LastChange></Metadata>
+	<Page imageFilename="00668853.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r14" index="13"/>
+	<RegionRefIndexed regionRef="r15" index="14"/>
+	<RegionRefIndexed regionRef="r16" index="15"/>
+	<RegionRefIndexed regionRef="r17" index="16"/>
+	<RegionRefIndexed regionRef="r18" index="17"/>
+	<RegionRefIndexed regionRef="r19" index="18"/>
+	<RegionRefIndexed regionRef="r41" index="19"/>
+	<RegionRefIndexed regionRef="r45" index="20"/>
+	<RegionRefIndexed regionRef="r53" index="21"/>
+	<RegionRefIndexed regionRef="r61" index="22"/>
+	<RegionRefIndexed regionRef="r22" index="23"/>
+	<RegionRefIndexed regionRef="r78" index="24"/>
+	<RegionRefIndexed regionRef="r72" index="25"/>
+	<RegionRefIndexed regionRef="r24" index="26"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="918" y="219"/>
+	<Point x="1463" y="219"/>
+	<Point x="1463" y="283"/>
+	<Point x="918" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1109" y="320"/>
+	<Point x="1285" y="320"/>
+	<Point x="1285" y="360"/>
+	<Point x="1190" y="359"/>
+	<Point x="1109" y="360"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="532" y="408"/>
+	<Point x="918" y="408"/>
+	<Point x="918" y="453"/>
+	<Point x="532" y="453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 42. (Mus. Brit.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="278" y="480"/>
+	<Point x="1173" y="480"/>
+	<Point x="1173" y="720"/>
+	<Point x="278" y="720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA TASMANICA. Turr. testâ angusto-acumi-
+natâ, solidiusculâ, anfractibus quindecim, planiusculis,
+ad marginem inferioriem liratis, liris duabus striisque
+intermediis supra cingulatis, interstitiis striis minutis
+elevatis obliquis creberrimè decussatis; sordidè albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="276" y="725"/>
+	<Point x="1172" y="725"/>
+	<Point x="1172" y="1003"/>
+	<Point x="276" y="1003"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TASMANIAN TURRITELLA. Shell narrowly acumi‐
+nated, rather solid, whorls ﬁfteen in number, rather
+ﬂattened, ridged at the lower edge, encircled with
+two ridges and intermediate striæ above, interstices
+very closely decussated with minute oblique raised
+striæ; dead white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="282" y="1010"/>
+	<Point x="904" y="1010"/>
+	<Point x="904" y="1054"/>
+	<Point x="282" y="1054"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Van Dieman’s Land; Dr. Sinclair.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="274" y="1082"/>
+	<Point x="1170" y="1082"/>
+	<Point x="1170" y="1364"/>
+	<Point x="274" y="1364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The only specimen of this, in the British Museum, is in
+bad condition and colourless, but aﬀords strong characters
+for the foundation of the species. It approximates nearest
+to the T. clathrata in which the spiral ridges are more
+strongly and conspicuously developed, and the interstices
+smooth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="394" y="1486"/>
+	<Point x="1039" y="1486"/>
+	<Point x="1039" y="1534"/>
+	<Point x="394" y="1534"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 43. (Fig. a and b, Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="270" y="1560"/>
+	<Point x="1169" y="1560"/>
+	<Point x="1169" y="1845"/>
+	<Point x="270" y="1845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA TRIPLICATA. Turr. testâ acuminato-turritâ,
+crassiusculâ, anfractibus quindecim, spiraliter striatis,
+et tricostatis, costis planulatis, medianâ multo majore,
+superiori parvâ, duplicatâ, apicem versus interdum
+obsoletâ; nunc albidâ, castaneo variegatâ et ﬂammatâ,
+nunc castaneâ, unicolore.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="273" y="1851"/>
+	<Point x="1165" y="1851"/>
+	<Point x="1165" y="2180"/>
+	<Point x="273" y="2180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE THREE-PLAITED TURRITELLA. Shell acuminately
+turreted, rather thick, whorls ﬁfteen in number,
+spirally striated, and three-ribbed, ribs ﬂattened, the
+middle rib much the largest, the upper one small,
+duplicate, and sometimes obsolete towards the apex;
+whitish, variegated and ﬂamed with chestnut, some‐
+times entirely chestnut.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="278" y="2183"/>
+	<Point x="957" y="2183"/>
+	<Point x="957" y="2229"/>
+	<Point x="278" y="2229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>STUDER, Philippi, Enum. Moll. Sicil. p. 190.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="278" y="2232"/>
+	<Point x="1002" y="2232"/>
+	<Point x="1002" y="2272"/>
+	<Point x="278" y="2272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Mediterranean and West Coast of Africa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="276" y="2303"/>
+	<Point x="1166" y="2303"/>
+	<Point x="1166" y="2448"/>
+	<Point x="276" y="2448"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The specimens here ﬁgured of this species are from the
+mouth of the Gambia; in the Mediterranean it is of some‐
+what smaller dimensions and of lighter growth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="1472" y="414"/>
+	<Point x="1850" y="414"/>
+	<Point x="1850" y="457"/>
+	<Point x="1472" y="457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 44. (Mus. Brit.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1216" y="474"/>
+	<Point x="2111" y="474"/>
+	<Point x="2111" y="754"/>
+	<Point x="1216" y="754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA NIVEA. Turr. testâ elongato-turritâ, crassi‐
+usculâ, anfractibus viginti, supernè contractis, deinde
+tumidiusculis, transversim septem-costatis, costis inter-
+stitiisque striatis, æqualibus, striis minutis incrementi
+creberrimè decussatis, anfractibus perpaucis primis
+bicarinatis, carinis cito evanidis; niveâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1213" y="760"/>
+	<Point x="2106" y="760"/>
+	<Point x="2106" y="1090"/>
+	<Point x="1213" y="1090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SNOW‐WHITE TURRITELLA. Shell elongately tur‐
+reted, rather thick, whorls twenty in number, con‐
+tracted round the upper part, then rather swollen,
+transversely seven-ribbed, ribs and interstices striated,
+equal, very closely decussated with minute lines of
+increase, ﬁrst few whorls two-keeled, keels quickly
+disappearing; snowy-white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1214" y="1093"/>
+	<Point x="1686" y="1093"/>
+	<Point x="1686" y="1135"/>
+	<Point x="1214" y="1135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GRAY, MSS. British Museum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1211" y="1140"/>
+	<Point x="1916" y="1140"/>
+	<Point x="1916" y="1187"/>
+	<Point x="1211" y="1187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. East Coast of Africa; Capt. Owen, R. N.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1208" y="2040"/>
+	<Point x="2096" y="2040"/>
+	<Point x="2096" y="2278"/>
+	<Point x="1208" y="2278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An interesting new species collected by Mr. Ronald
+Gunn, an eminent naturalist of Hobart Town. It is a
+narrow, sharply acuminated shell, with the whorls ﬂatly
+concave, and margined at the edges so as to give an ex‐
+cavated appearance to the sutures.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1091" y="2603"/>
+	<Point x="1281" y="2603"/>
+	<Point x="1281" y="2646"/>
+	<Point x="1091" y="2646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>June, 1849.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r25">
+	<Coords>
+	<Point x="496" y="1417"/>
+	<Point x="496" y="1433"/>
+	<Point x="943" y="1433"/>
+	<Point x="943" y="1417"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r26">
+	<Coords>
+	<Point x="505" y="2490"/>
+	<Point x="505" y="2510"/>
+	<Point x="934" y="2510"/>
+	<Point x="934" y="2490"/></Coords></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1212" y="1203"/>
+	<Point x="2100" y="1203"/>
+	<Point x="2100" y="1298"/>
+	<Point x="1212" y="1298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A genuine snow-white species, rather closely encircled
+with neat ridges of equal width with the interstices.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r27">
+	<Coords>
+	<Point x="1441" y="1312"/>
+	<Point x="1441" y="1330"/>
+	<Point x="1876" y="1330"/>
+	<Point x="1876" y="1312"/></Coords></SeparatorRegion>
+	<TextRegion id="r41" type="heading">
+	<Coords>
+	<Point x="1468" y="1344"/>
+	<Point x="1844" y="1344"/>
+	<Point x="1844" y="1392"/>
+	<Point x="1468" y="1392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 45. (Mus. Brit.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="1207" y="1402"/>
+	<Point x="2102" y="1402"/>
+	<Point x="2102" y="1690"/>
+	<Point x="1207" y="1690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA GUNNII. Turr. testâ elongato-acuminatâ, soli-
+diusculâ, angustâ, anfractibus octodecim, plano-con-
+cavis, marginibus tumidiusculis, medio obscurè et sub-
+irregulariter liratis et striatis, suturis excavatis; albidâ,
+ﬂammis undulatis pallidè fulvescente-fuscis obliquè pictâ,
+basi pallidè roseâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="1210" y="1694"/>
+	<Point x="2102" y="1694"/>
+	<Point x="2102" y="1975"/>
+	<Point x="1210" y="1975"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUNN’S TURRITELLA. Shell elongately acuminated,
+rather solid, narrow, whorls eighteen in number,
+ﬂatly concave, margins rather swollen, obscurely and
+somewhat irregularly ridged and striated in the middle,
+sutures excavated; whitish, obliquely painted with
+light fulvous-brown waved ﬂames, base pinkish.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords>
+	<Point x="1210" y="1978"/>
+	<Point x="1739" y="1978"/>
+	<Point x="1739" y="2021"/>
+	<Point x="1210" y="2021"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Van Dieman’s Land; Gunn.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r64">
+	<Coords>
+	<Point x="1428" y="2292"/>
+	<Point x="1428" y="2308"/>
+	<Point x="1874" y="2308"/>
+	<Point x="1874" y="2292"/></Coords></SeparatorRegion>
+	<TextRegion id="r72" type="paragraph">
+	<Coords>
+	<Point x="1209" y="2396"/>
+	<Point x="2098" y="2396"/>
+	<Point x="2098" y="2543"/>
+	<Point x="1209" y="2543"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA AQUILA. Turr. testâ pyramidali-turritâ, an-
+fractibus quatuordecim aut quindecim, supernè concavo-
+declivibus, deinde subobscurè latè bicostatis, undique con-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" type="heading">
+	<Coords>
+	<Point x="1442" y="2339"/>
+	<Point x="1866" y="2339"/>
+	<Point x="1866" y="2384"/>
+	<Point x="1442" y="2384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 46. (Mus. Belcher.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r81">
+	<Coords>
+	<Point x="1186" y="418"/>
+	<Point x="1174" y="2064"/>
+	<Point x="1179" y="2537"/>
+	<Point x="1201" y="2541"/>
+	<Point x="1195" y="2055"/>
+	<Point x="1201" y="418"/></Coords></SeparatorRegion></Page></PcGts>

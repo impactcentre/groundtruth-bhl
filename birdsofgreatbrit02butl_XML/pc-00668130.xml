@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668130">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:35:16</Created>
+	<LastChange>2012-02-10T09:52:38</LastChange></Metadata>
+	<Page imageFilename="00668130.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="260" y="230"/>
+	<Point x="366" y="230"/>
+	<Point x="366" y="283"/>
+	<Point x="260" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>154</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="980" y="216"/>
+	<Point x="1421" y="216"/>
+	<Point x="1421" y="282"/>
+	<Point x="980" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE NUTCRACKER</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="256" y="335"/>
+	<Point x="2133" y="336"/>
+	<Point x="2133" y="771"/>
+	<Point x="249" y="769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>about the possession of a nut, for the cock often tried to rob his mate, and she
+made every endeavour to retain her tit-bit, squeaking in a low key. It was on
+the 19th of February that I ﬁrst saw the male Nutcracker feeding his mate: she
+ﬂuttered her wings all the time, and cried as a young bird might have done.
+Thereafter the relations of these birds became most intimate. I tried my best to
+induce them to nest in the aviary, but they could not make up their minds to
+breed in conﬁnement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="251" y="773"/>
+	<Point x="2136" y="773"/>
+	<Point x="2136" y="1083"/>
+	<Point x="1509" y="1085"/>
+	<Point x="1501" y="1087"/>
+	<Point x="1491" y="1085"/>
+	<Point x="245" y="1088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unfortunately, my health broke down completely in the spring of 1893: I
+was obliged to leave my birds to the care of a friend. When I returned to duty
+in the following September I found my birds newly dead, to my great regret.
+The female had died from moulting troubles. It was thought that her faithful
+mate had died of grief, as he pined away from the day of her decease.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="246" y="1091"/>
+	<Point x="2135" y="1088"/>
+	<Point x="2134" y="1649"/>
+	<Point x="987" y="1648"/>
+	<Point x="975" y="1649"/>
+	<Point x="962" y="1648"/>
+	<Point x="246" y="1647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The late Lord Lilford informed me in 1893, that he had kept a number of
+Nutcrackers in conﬁnement. He said that his birds were specially fond of hazel‐
+nuts and walnuts. They were supplied also with ‘every other variety of nut and
+berries that could be procured—hips, haws, peas, beans, acorns, blackberries,
+beech-mast, cones of spruce, boiled rice, stale bread-crumbs, hard-boiled egg, now
+and then a little boiled liver, beetles, earthworms and crushed hemp-seed. The
+latter was mixed with dried ants’ eggs.’ I must say that my birds declined to
+eat anything except nuts; but I was away on sick-leave during the months in
+which their diet would naturally have varied most.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="246" y="1650"/>
+	<Point x="2133" y="1653"/>
+	<Point x="2133" y="1966"/>
+	<Point x="240" y="1965"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The late Mr. John Hancock kept a specimen of the Nutcracker in conﬁnement
+for six years. ‘Its voice was very peculiar. It had an extremely harsh, loud
+cry, resembling the noise produced by a ripping saw while in full action. This
+cry was so loud that it could be heard all over the house. It had also a sweet,
+low, delicate, warbling song. This was only uttered when everything was quiet.’</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="240" y="1968"/>
+	<Point x="2135" y="1968"/>
+	<Point x="2137" y="2216"/>
+	<Point x="240" y="2215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I never heard my male sing. He crowed, with a loud guttural caw, which
+was uttered while the bird perched in a drawn, upright position, the mandibles
+being visibly extended. He had a low squeaking note of pleasure, and could
+address his mate in curious terms of endearment.”</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="1084" y="2452"/>
+	<Point x="1294" y="2452"/>
+	<Point x="1294" y="2484"/>
+	<Point x="1084" y="2484"/></Coords></SeparatorRegion></Page></PcGts>

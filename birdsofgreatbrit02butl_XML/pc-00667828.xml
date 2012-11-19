@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667828">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:33:42</Created>
+	<LastChange>2012-02-10T09:52:11</LastChange></Metadata>
+	<Page imageFilename="00667828.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="238" y="255"/>
+	<Point x="267" y="255"/>
+	<Point x="267" y="294"/>
+	<Point x="238" y="294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="794" y="248"/>
+	<Point x="1468" y="248"/>
+	<Point x="1468" y="294"/>
+	<Point x="794" y="294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GREAT GREY SHRIKE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="211" y="370"/>
+	<Point x="2052" y="370"/>
+	<Point x="2052" y="798"/>
+	<Point x="211" y="798"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Some authorities consider the Shrikes to be nearly related to the Crows; in‐
+deed Seebohm made them a Subfamily close to the Corvinœ, although he admitted
+that their “exact aﬃnities are very diﬃcult to determine”; he considered that they
+approached the Crows in the form of their bills, the strong bristles, and short
+feathers partly covering the nostrils, and in their feet. Howard Saunders, from
+the position which he assigns to them in his Manual, seems to regard them as
+more nearly related to the Flycatchers.*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="201" y="1171"/>
+	<Point x="690" y="1171"/>
+	<Point x="690" y="1250"/>
+	<Point x="201" y="1250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—LANIIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="670" y="1419"/>
+	<Point x="1580" y="1419"/>
+	<Point x="1580" y="1480"/>
+	<Point x="670" y="1480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GREAT GREY SHRIKE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="863" y="1588"/>
+	<Point x="1380" y="1588"/>
+	<Point x="1380" y="1634"/>
+	<Point x="863" y="1634"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lanius excubitor, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="207" y="1922"/>
+	<Point x="348" y="1921"/>
+	<Point x="348" y="1874"/>
+	<Point x="347" y="1819"/>
+	<Point x="346" y="1760"/>
+	<Point x="345" y="1734"/>
+	<Point x="1001" y="1734"/>
+	<Point x="2047" y="1736"/>
+	<Point x="2051" y="1965"/>
+	<Point x="2052" y="2667"/>
+	<Point x="1780" y="2663"/>
+	<Point x="1477" y="2660"/>
+	<Point x="1269" y="2665"/>
+	<Point x="1105" y="2664"/>
+	<Point x="839" y="2650"/>
+	<Point x="657" y="2649"/>
+	<Point x="203" y="2647"/>
+	<Point x="206" y="2269"/>
+	<Point x="206" y="2068"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>RNITHOLOGISTS diﬀer in opinion as to whether this bird is distinct from
+Pallas’s Grey Shrike (with the single white bar on the wing): Seebohm con‐
+sidered the two forms as distinct as the Carrion and Hooded Crows, but
+Mr. Howard Saunders brought forward suﬃcient evidence to show that they had
+but little claim to the title of separate species. In his Manual we read:—“Many
+of the specimens obtained in winter have a white bar on the primaries only, the
+bases of the secondaries being black; whereas in the typical L. excubitor the
+bases of the secondaries are white, and the wing exhibits a double bar. The form
+with only one bar is the L. major, of Pallas, and, as shown by Prof. Collett (Ibis,
+1886, pp. 30-40) it meets and interbreeds with L. excubitor in Scandinavia, typical
+examples of both races being actually found in the same brood, while intermediate
+forms are not uncommon. Where the sexes have been determined, the double-
+barred bird has generally proved to be a male, and the single-barred a female.
+Dr. Hartert does not regard L. major as a distinct species. Typical L. excubitor
+breeds as far east as St. Petersburg, beyond which, in Siberia, L. major</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="306" y="2698"/>
+	<Point x="1531" y="2698"/>
+	<Point x="1531" y="2734"/>
+	<Point x="306" y="2734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* See also Lord Lilford’s note at end of account of the Woodchat-Shrike.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="211" y="1734"/>
+	<Point x="341" y="1734"/>
+	<Point x="341" y="1869"/>
+	<Point x="211" y="1869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="1017" y="972"/>
+	<Point x="1222" y="972"/>
+	<Point x="1222" y="991"/>
+	<Point x="1017" y="991"/></Coords></SeparatorRegion></Page></PcGts>

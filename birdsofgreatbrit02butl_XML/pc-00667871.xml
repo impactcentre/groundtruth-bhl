@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667871">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T22:38:07</Created>
+	<LastChange>2012-02-10T09:52:17</LastChange></Metadata>
+	<Page imageFilename="00667871.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r19" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="861" y="199"/>
+	<Point x="1420" y="199"/>
+	<Point x="1420" y="245"/>
+	<Point x="861" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PIED FLYCATCHER</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="2008" y="210"/>
+	<Point x="2060" y="210"/>
+	<Point x="2060" y="252"/>
+	<Point x="2008" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>25</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="207" y="323"/>
+	<Point x="838" y="323"/>
+	<Point x="838" y="377"/>
+	<Point x="207" y="377"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—MUSCICAPIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="738" y="571"/>
+	<Point x="1528" y="571"/>
+	<Point x="1528" y="633"/>
+	<Point x="738" y="633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PIED FLYCATCHER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="825" y="738"/>
+	<Point x="1444" y="738"/>
+	<Point x="1444" y="795"/>
+	<Point x="825" y="795"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Muscicapa atricapilla, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="333" y="1072"/>
+	<Point x="334" y="889"/>
+	<Point x="2061" y="889"/>
+	<Point x="2061" y="1443"/>
+	<Point x="205" y="1443"/>
+	<Point x="206" y="1072"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ESPECTING the distribution of this species outside Great Britain, one
+cannot do better than quote Howard Saunders:—“A wanderer to the
+Faroes, the Pied Flycatcher breeds regularly up to 69° N. lat. in Scan‐
+dinavia, 65° in Finland, and about 60° in Northern Russia to the Ural Mountains;
+southward, in suitable wooded localities, throughout the greater part of Europe,
+down to the centre of Spain; and eastward as far as Palestine; while it has been
+met with in Northern Persia. In Algeria it is said to be a resident species, its
+migrations extending to the Canaries, and down the west side of Africa to the
+Gambia, as well as on the east side to Egypt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="203" y="1449"/>
+	<Point x="2062" y="1449"/>
+	<Point x="2062" y="1932"/>
+	<Point x="203" y="1932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Great Britain this species is far rarer, and much more local than the
+Spotted Flycatcher, but especially during the breeding season: although nests
+have from time to time been obtained in many of the southern counties of England,
+it principally aﬀects the western counties, Wales, and the north, but more partic‐
+ularly the Lake district; it is said to occur annually in Norfolk, and has occurred
+in Rutland and Lincolnshire. In Scotland, and especially in the northern counties, it
+is considerably rarer than in England, and in Ireland it has been very seldom
+met with.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="200" y="1953"/>
+	<Point x="2061" y="1953"/>
+	<Point x="2061" y="2436"/>
+	<Point x="200" y="2436"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The adult male in breeding-plumage has the upper parts black, greyer on the
+rump, and browner on the wings; the forehead, central coverts, outer borders of
+secondaries, and under parts white; bill and feet black; iris dark brown. The
+female diﬀers from the male in the browner colouring of the upper parts, and all
+the white areas with a buﬃsh stain. The male after its autumn moult more nearly
+approaches the female, inasmuch as the black colouring becomes brownish. Young
+in nestling plumage have the upper parts spotted with buﬀ, and the under parts
+with dark-brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="198" y="2452"/>
+	<Point x="2053" y="2452"/>
+	<Point x="2053" y="2696"/>
+	<Point x="198" y="2696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Pied Flycatcher arrives on our coasts towards the end of April, and the
+ﬁrst eggs may usually be obtained by about the middle of the following month,
+although some pairs nidiﬁcate several weeks later. Unlike its relative the Spotted
+Flycatcher, it always nests in a hole, either in a tree, a rock, wall, or bridge,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="299" y="2719"/>
+	<Point x="411" y="2719"/>
+	<Point x="411" y="2745"/>
+	<Point x="299" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="1746" y="2713"/>
+	<Point x="1779" y="2713"/>
+	<Point x="1779" y="2743"/>
+	<Point x="1746" y="2743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="drop-capital">
+	<Coords>
+	<Point x="221" y="890"/>
+	<Point x="330" y="890"/>
+	<Point x="330" y="1024"/>
+	<Point x="221" y="1024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R</Unicode></TextEquiv></TextRegion></Page></PcGts>

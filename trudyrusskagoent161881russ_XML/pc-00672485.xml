@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672485">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T06:13:13</Created>
+	<LastChange>2012-02-10T09:54:59</LastChange></Metadata>
+	<Page imageFilename="00672485.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="724" y="194"/>
+	<Point x="1028" y="194"/>
+	<Point x="1028" y="257"/>
+	<Point x="724" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 289 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="21" y="328"/>
+	<Point x="1749" y="328"/>
+	<Point x="1749" y="830"/>
+	<Point x="21" y="830"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pedibusque ferrugineis; rostro plano, angulato, apice attenuato,
+canaliculato; prothorace transverso ante basin rotundato-am-
+pliato, verrucis e granulis minutis compositis tecto; elytris
+brevibus, remote striato-punctatis; tibiis anticis apice vix cur-
+vatis, tarsorum articulo tertio paulo dilatato, bilobato, ungui-
+culis basi connatis. Long. 5. Lat. 2,75 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="17" y="937"/>
+	<Point x="1762" y="937"/>
+	<Point x="1762" y="1782"/>
+	<Point x="17" y="1782"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von dem mir unbekannten Scobinatus Kol. durch das trans-
+versale Halsschild, durch die in Reihen punktirten Decken,
+die ﬂachen Zwischenräume und das einfarbige graue Schup-
+penkleid verschieden. Nur die deutlichen Wimpern hinter den
+Augen verhindern den Verrucicollis zu Mesagroicus zu stellen;
+das deutlich 2 lappige dritte Tarsenglied, die am Grunde ver-
+wachsenen Klauen und der auf dem Rücken etwas aufsteigende
+Schienentalus, werden wohl Veranlassung geben, diese Art,
+und den Mongolicus und wahrscheinlich auch den Scobinatus
+in eine besondere Gattung zu bringen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="17" y="1789"/>
+	<Point x="1764" y="1789"/>
+	<Point x="1764" y="3124"/>
+	<Point x="17" y="3124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rüssel zur Spitze verengt, auﬀallend scharfkantig mit schar
+unter die Augen gebogener gleichbreiter, tiefer Fühlerfurche.
+Fühlerschaft den Vorderrand der Augen erreichend, nur Schnur-
+glied 1 und 2 länger als breit, 1 dicker. Halsschild mit der
+grössten Breite hinter der Mitte, mit borstentragenden schwach
+erhabenen, gewöhnlich aus 5 sehr kleinen Körnchen zusam-
+mengesetzten Warzen bedeckt, die Mitte undeutlich längsver-
+tieft. Schildchen kaum sichtbar. Decken höchstens 21/2 mal
+so lang, kaum um die Hälfte breiter als das Halsschild, hin-
+ten stumpf gerundet. Schuppen rund, einfarbig, Punktstreifen
+mit gröbern ﬂachen Punkten, Zwischenräume mit einer Reihe
+geneigter, verkehrt kegelförmiger Borsten. Schienentalus
+etwas aufsteigend, Schienen innen schwach 2 buchtig mit
+einigen scharfen Stacheln. Tarsenglied 1 länger als die gleich-
+langen 2 und 3, dieses tief 2lappig, etwas breiter als 2
+und nur an der Spitze schwammig. Klauen am Grunde ver-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="162" y="3139"/>
+	<Point x="481" y="3139"/>
+	<Point x="481" y="3196"/>
+	<Point x="162" y="3196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1536" y="3139"/>
+	<Point x="1607" y="3139"/>
+	<Point x="1607" y="3196"/>
+	<Point x="1536" y="3196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>19</Unicode></TextEquiv></TextRegion></Page></PcGts>

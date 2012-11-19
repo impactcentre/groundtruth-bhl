@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669345">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T00:24:28</Created>
+	<LastChange>2012-03-12T14:33:57</LastChange></Metadata>
+	<Page imageFilename="00669345.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="366" y="423"/>
+	<Point x="1140" y="423"/>
+	<Point x="1140" y="526"/>
+	<Point x="366" y="526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="416" y="571"/>
+	<Point x="1052" y="571"/>
+	<Point x="1052" y="669"/>
+	<Point x="416" y="669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="26" y="730"/>
+	<Point x="1473" y="730"/>
+	<Point x="1473" y="2635"/>
+	<Point x="26" y="2635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous sommes obligés de laisser isolé au
+milieu de cette grande classe de poissons, un
+groupe constituant un seul genre, qu'il n'est
+possible de diviser qu'en petites tribus. Ce sont
+les athérines, genre qui ne se laisse complète-
+ment associer avec aucun autre. Certaines
+espèces ont des dents visibles aux mâchoires,
+sur le vomer et sur les palatins: tels sont
+les joëls et toutes les espèces voisines, qui
+ont la tête élargie et aplatie; d'autres, comme
+notre sauclet, ont les dents si petites aux os
+palatins, que c'est avec la plus grande peine
+qu'on peut les apercevoir, et il en est de même
+des rosérés. Enﬁn, un assez grand nombre
+d'espèces étrangères ont le palais tout-à-fait
+lisse et sans dents, et celles-ci, pour la plupart
+américaines, ont encore une physionomie
+particulière, qui est le résultat de la dis-
+position singulière des pédicules des inter-
+maxillaires et de la courbure des maxillaires.
+Ces pièces osseuses sont grêles, et présen-
+tent un caractère commun avec les muges,</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="other">
+	<Coords>
+	<Point x="26" y="204"/>
+	<Point x="1447" y="204"/>
+	<Point x="1447" y="242"/>
+	<Point x="26" y="242"/></Coords></GraphicRegion></Page></PcGts>

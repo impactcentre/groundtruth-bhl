@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669186">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:35:20</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669186.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r29" index="0"/>
+	<RegionRefIndexed regionRef="r38" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="352" y="1317"/>
+	<Point x="1786" y="1317"/>
+	<Point x="1786" y="1684"/>
+	<Point x="352" y="1684"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le reste de la description ne contient que
+des caractères génériques. Il est diﬃcile d’après
+cela de se faire du poisson une idée bien
+précise, et surtout bien diﬀérente de la nôtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="361" y="1936"/>
+	<Point x="1801" y="1936"/>
+	<Point x="1801" y="2448"/>
+	<Point x="361" y="2448"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On trouve dans le Recueil de Vlaming,
+n.° 231, la ﬁgure d’un acanthure à proﬁl à
+double courbure, à museau saillant et grêle,
+à queue carrée, à dorsales et anales hautes,
+dont les formes se rapprochent de celles de
+l’acanthure voilier.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="361" y="2514"/>
+	<Point x="1804" y="2498"/>
+	<Point x="1804" y="2654"/>
+	<Point x="365" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Narrative of a survey of the intertropical and western coasts of
+Australia, by cap. J. J. King, with appendix by John Gray, p. 435.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="630" y="1710"/>
+	<Point x="1544" y="1710"/>
+	<Point x="1544" y="1814"/>
+	<Point x="630" y="1814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE TÊTE-COCHON.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="630" y="1836"/>
+	<Point x="1544" y="1836"/>
+	<Point x="1544" y="1928"/>
+	<Point x="630" y="1928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus suillus, nob.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="390" y="2465"/>
+	<Point x="1795" y="2465"/>
+	<Point x="1791" y="2491"/>
+	<Point x="390" y="2501"/></Coords></SeparatorRegion>
+	<TextRegion id="r23" type="header">
+	<Coords>
+	<Point x="786" y="157"/>
+	<Point x="1322" y="157"/>
+	<Point x="1322" y="247"/>
+	<Point x="786" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="page-number">
+	<Coords>
+	<Point x="354" y="157"/>
+	<Point x="498" y="157"/>
+	<Point x="498" y="247"/>
+	<Point x="354" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>254</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="338" y="270"/>
+	<Point x="1780" y="270"/>
+	<Point x="1779" y="617"/>
+	<Point x="339" y="618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>du Journal de voyage du capitaine King1 à
+la côte de la Nouvelle-Hollande, d’où ce na‐
+vigateur l’a rapportée. Le zoologiste anglais
+l’appelle Teuthis australis, et lui donne</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="338" y="624"/>
+	<Point x="1779" y="624"/>
+	<Point x="1779" y="1311"/>
+	<Point x="338" y="1311"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>un corps brun, avec six bandes transversales, d’un
+brun noirâtre sur chaque ﬂanc. La première passe
+par le travers des yeux, la seconde est à la hauteur
+de la pectorale, les trois suivantes sont au-delà de
+cette nageoire, et la dernière est sur la queue, en
+arrière de l’aiguillon. Il n’a pas distingué les rayons
+épineux de la dorsale de ceux qui sont mous; il
+n’a compté que deux épines à l’anale, qui en aurait
+en tout vingt-trois.</Unicode></TextEquiv></TextRegion></Page></PcGts>

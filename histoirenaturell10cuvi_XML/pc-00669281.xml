@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669281">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:47:00</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669281.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="151" y="275"/>
+	<Point x="1528" y="275"/>
+	<Point x="1528" y="1412"/>
+	<Point x="151" y="1412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>des scabrosités plus ﬁnes que celles de nos tra-
+chypterus falx ou iris; mais elles distinguent suf‐
+ﬁsamment celui-ci de notre léioptère, lequel a la
+queue beaucoup plus grêle, et qui, sous ce rapport
+ne pourrait également être confondu avec le bog-
+mare. Les taches du trachyptère du Nord sont plus
+reculées que celles des poissons de la Méditerranée;
+elles se détachent d’ailleurs sur un fond argenté aussi
+brillant, et les nageoires sont colorées de même en
+rose vif. Il ne reste de la caudale que la base de ses
+principaux rayons; ils sont attachés de même sur
+le haut de la queue. Il n’y en a que sept. La ligne
+latérale a les pointes de ses boucliers assez ﬁnes,
+le dernier donne de son milieu une épine pointue
+qui avance sur la caudale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="117" y="1456"/>
+	<Point x="1513" y="1456"/>
+	<Point x="1514" y="1610"/>
+	<Point x="252" y="1617"/>
+	<Point x="118" y="1620"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu est long de deux pieds huit
+pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="114" y="1623"/>
+	<Point x="420" y="1622"/>
+	<Point x="473" y="1620"/>
+	<Point x="931" y="1618"/>
+	<Point x="1527" y="1619"/>
+	<Point x="1525" y="2007"/>
+	<Point x="1525" y="2309"/>
+	<Point x="1528" y="2423"/>
+	<Point x="1527" y="2646"/>
+	<Point x="114" y="2640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D’après les voyageurs danois ce poisson a
+la chair tendre et gélatineuse; il pénètre dans
+les anses de l’Islande, lors de la haute marée,
+et préférablement dans les endroits où le
+fond est sablonneux et où il y a peu d’eau.
+Il reste quelquefois à sec sur le sable ou dans
+la vase, après que la mer s’est retirée, et vit
+quelque temps dans cet état. Les gens du
+pays le regardent comme venimeux, parce que
+le corbeau n’en mange pas. Lorsqu’on le touche,
+la matière argentée qui le colore reste atta‐
+chée aux doigts. Son nom de vogmœre ou</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1333" y="166"/>
+	<Point x="1499" y="166"/>
+	<Point x="1499" y="249"/>
+	<Point x="1333" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>349</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="473" y="180"/>
+	<Point x="1123" y="180"/>
+	<Point x="1123" y="258"/>
+	<Point x="473" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

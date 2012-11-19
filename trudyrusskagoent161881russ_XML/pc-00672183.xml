@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672183">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T13:41:40</Created>
+	<LastChange>2012-02-10T09:53:55</LastChange></Metadata>
+	<Page imageFilename="00672183.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="83" y="297"/>
+	<Point x="1852" y="297"/>
+	<Point x="1852" y="2805"/>
+	<Point x="83" y="2805"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ren mit einander verbunden und liegen in den entsprechenden Kör‐
+perabschnitten. Das gangl. supraoesophageum ist mit sehr stark ent‐
+wickelten Gehirnwindungen versehen und verbindet sich mit dem g.
+infraoesophageum durch einen langen Schlundring; an welchem, eben
+so wie bei vielen Lamellicornien und einigen Carabiden, noch eine
+Quercommissur zu bemerken ist. Von den drei Thoracalknoten be‐
+sitzen der vordere und der mittlere zu je einem Paar Heerde und
+sind dieselben also einfache Nervenknoten, während das letzte Brust‐
+ganglion ausser einem grossen Paar Heerde noch zwei kleine Paare
+aufweist und besteht also dieser zusammengesetzte Nervenknoten aus
+einer Verschmelzung von dem letzten Brust- und den beiden vorderen
+Bauchknoten der Larve, die sich zu diesem einen Knoten verbunden
+haben. Die bisher angenommene Ansicht, die sich auf die Unter‐
+suchungen von Em. Blanchard stützte, nämlich dass die Cerambyci-
+den alle 4 Bauchknoten haben, ergiebt sich als zu sehr verallgemeinert
+und es sind einige mit 5 Bauchknoten (Pachyta quadrimaculata,
+Strangalia melanura), andere mit 4 (Callidium violaceum, Spondylis
+buprestoides) und noch andere mit bloss 3 Bauchganglien versehn
+(Lamia textor, Astynomus aedilis). Bei einigen, wie z. B. bei Lep-
+tura rubra, testata ist sogar ein Unterschied in der Anzahl der
+Gauglien einer und derselben Art, je nach dem Geschlechte und
+zwar besitzt das Weibchen 4 und das Männchen 3 Bauchknoten.
+Bei allen Cerambyciden sind Commissuralnerven vorhanden und be‐
+sitzen dieselben auch ein Stirnganglion, 2 Paar hinterer sympatischer
+Kopfknoten und auch ein sympatisches Nervensystem zwischen den
+Commissuren der Bauchganglien. Die Bauchganglien sind alle, ausser
+dem letzten, einfache Ganglien und enthalten also je ein Paar Heerde,
+während das letzte Bauchganglion mehr oder weniger complicirt er‐
+scheint, je nachdem mehr oder weniger einzelne Bauchknoten vor‐
+handen sind. Sind im Ganzen 5 Bauchknoten vorhanden, so enthält
+das letzte Bauchganglion 2 Paar Heerde und entsteht also dasselbe
+aus einer Verschmelzung der zwei letzten Bauchknoten der Larve;
+sind im Imago 4 Bauchknoten, so besitzt der letzte Bauchknoten
+3 Paar Heerde und wenn ein Bockkäfer nur 3 Bauchknoten auf‐
+weist, so hat der letzte Bauchknoten 4 Paar Heerde.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="76" y="2809"/>
+	<Point x="1854" y="2809"/>
+	<Point x="1854" y="3180"/>
+	<Point x="76" y="3180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Larven der Bockkäfer besitzen immer 2 Kopfknoten (ein g.
+supraoesophageum und ein gangl. infraoesophageum), 3 Brust- und
+8 Bauchknoten, Während der Verwandlung verschmelzen immer die
+beiden Vorderen Bauchganglien mit dem letzten Brustknoten, wäh‐
+rend von den hinteren Bauchknoten bald einer, bald zwei, bald drei</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="804" y="164"/>
+	<Point x="1128" y="164"/>
+	<Point x="1128" y="254"/>
+	<Point x="804" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— XI —</Unicode></TextEquiv></TextRegion></Page></PcGts>

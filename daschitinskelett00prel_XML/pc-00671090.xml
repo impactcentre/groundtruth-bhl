@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671090">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T02:44:44</Created>
+	<LastChange>2012-03-12T14:34:04</LastChange></Metadata>
+	<Page imageFilename="00671090.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1169" y="336"/>
+	<Point x="1434" y="336"/>
+	<Point x="1434" y="391"/>
+	<Point x="1169" y="391"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 30 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="223" y="431"/>
+	<Point x="2362" y="422"/>
+	<Point x="2374" y="1120"/>
+	<Point x="226" y="1133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>man eine gewisse Übereinstimmung zwischen beiden in Bezug auf ihre Anhänge. Bei beiden läßt sich
+ein einfacherer äußerer und ein aus verschiedenen Komponenten zusammengesetzter innerer Anhang
+unterscheiden, von denen der erstere die Galea, der letztere die Lacinia der Maxille höherer Insekten
+repräsentiert. Eine Art von Übergang zwischen dieser ladentragenden Mandibel der Diplopoden und
+der starren Mandibel der meisten Hexapoden bilden (Silvestri) die Oberkiefer mancher Coleop-
+teren, welche noch freie Anhänge tragen (Carabidae, Staphylinidae, Hydrophilidae, Mylabridae,
+Passalidae u. a.); hier ist die Außenlade als Apikalzahn fest mit dem Corpus verwachsen, während
+in den beweglichen Zähnen Reste der Innenlade zu erblicken sind. Eine andere Modifikation findet
+sich bei Machilis, an deren Mandibel die Innenlade völlig verloren gegangen ist, während die Außenlade
+als beweglicher Anhang erhalten blieb; durch Festwachsen derselben läßt sich hiervon direkt der Bau
+der Proturenmandibel ableiten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="228" y="1140"/>
+	<Point x="866" y="1136"/>
+	<Point x="1523" y="1135"/>
+	<Point x="1597" y="1132"/>
+	<Point x="1851" y="1130"/>
+	<Point x="2373" y="1131"/>
+	<Point x="2372" y="1742"/>
+	<Point x="1535" y="1736"/>
+	<Point x="1527" y="1756"/>
+	<Point x="1460" y="1757"/>
+	<Point x="1450" y="1764"/>
+	<Point x="225" y="1761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es bleibt nun noch die Chitinspange morphologisch zu deuten, durch welche die Mandibel
+mit der Kopfkapsel in Verbindung tritt. Hierfür stehen zwei Möglichkeiten offen. Die erste ist die
+Auffassung dieses Stabes als eine sekundäre Bildung, womit ihm ein weiteres Interesse abgesprochen
+wäre. Die andere, die mir zutreffender zu sein scheint, besteht in der Homologisierung mit der ekto-
+dermalen Einstülpung zwischen Labial- und Maxillarsegment, welche den hinteren Ast des Tentoriums
+bildet (Heider, Riley u. a.). In diesem Falle wäre der Chitinstab also dem hinteren Tentorialaste
+homodynam und dürfte wie dieser (Comstock und Kochi), den Pleuralapodemen der Thorakal-
+segmente gleichgesetzt werden. Sekundär wäre dann nur die durch das starke Überwuchern des
+Procephalon bedingte Verkümmerung des Mandibularsegments und die damit zusammenhängende
+Verlagerung des Chitinstabes in das Innere der Kopfkapsel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="233" y="1764"/>
+	<Point x="1423" y="1767"/>
+	<Point x="1544" y="1767"/>
+	<Point x="1551" y="1754"/>
+	<Point x="2373" y="1756"/>
+	<Point x="2374" y="2002"/>
+	<Point x="852" y="2002"/>
+	<Point x="831" y="2010"/>
+	<Point x="793" y="2010"/>
+	<Point x="771" y="2002"/>
+	<Point x="366" y="2004"/>
+	<Point x="351" y="2010"/>
+	<Point x="236" y="2010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wie schon bei früherer Gelegenheit betont wurde, entspricht die Proturen maxille in ihrer
+Zusammensetzung ganz den Unterkiefern anderer Insekten. Die Deutung, welche die einzelnen Stücke
+dort erfuhren, deckt sich aber nicht völlig mit derjenigen, welche ihnen Berlese zu teil werden
+läßt, und muß deshalb begründet werden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="238" y="2016"/>
+	<Point x="365" y="2016"/>
+	<Point x="373" y="2011"/>
+	<Point x="766" y="2010"/>
+	<Point x="795" y="2014"/>
+	<Point x="846" y="2013"/>
+	<Point x="853" y="2010"/>
+	<Point x="2356" y="2008"/>
+	<Point x="2353" y="2303"/>
+	<Point x="1984" y="2303"/>
+	<Point x="1980" y="2324"/>
+	<Point x="235" y="2320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Daran, daß die mit Cardo und Stipes bezeichneten Sklerite den gleichnamigen höherer Insekten
+homolog sind, dürften Zweifel kaum möglich sein. Weniger klar liegen dagegen die Verhältnisse bei
+den Laden. Berlese betrachtet die beiden Coxomerite des Stipes als sekundäre Differenzierungen
+desselben Anhanges und faßt sie demgemäß als „Lobo interno minore“ und „Lobo esterno maggiore“
+der Lacinia auf; die Galea dagegen erblickt er in dem dritten, äußeren Anhange.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="227" y="2324"/>
+	<Point x="1989" y="2328"/>
+	<Point x="1996" y="2316"/>
+	<Point x="2356" y="2316"/>
+	<Point x="2345" y="3142"/>
+	<Point x="222" y="3129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wegen der Zartheit des Chitins läßt sich am Totalpräparate eines Kopfes von Eosentomon oder
+an der unversehrt isolierten Maxille kaum erkennen, ob der am meisten lateral stehende Anhang am
+Stipes entspringt oder nicht. Man erhält darüber aber sofort beim Zerzupfen Aufschluß, da er stets
+am Basalstück des Palpus sitzen bleibt, wenn man dasselbe vom eigentlichen Stipes ablöst. Zieht
+man nun zum Vergleiche die Maxille von Machilis heran, so stößt man auf nahezu die gleichen Ver‐
+hältnisse. Auch hier trägt der Hauptteil des Stipes zwei Anhänge, welche zusammen die Lacinia
+bilden. Lateral davon findet sich als dritter Anhang eine zarthäutige Galea, die von einem deutlich
+als Palpiger abgesetzten Außenteil des Stipes entspringt. Überträgt man nunmehr die Nomenklatur
+von Machilis auf Eosentomon, so ergibt sich, daß die beiden inneren Anhänge als Lacinia, der äußere
+als Galea zu bezeichnen ist, während Berleses erstes Palpenglied als Palpiger zum Stipes zu ziehen ist.
+Unter Palpus im engeren Sinne sind dagegen erst die drei Glieder jenseits von dem dünnen Gürtel zu ver‐
+stehen, von denen das letzte bislang übersehen wurde. Um den Unterschied in der Bezeichnungsweise
+klarer hervortreten zu lassen, gebe ich im folgenden eine tabellarische Zusammenstellung derselben.</Unicode></TextEquiv></TextRegion></Page></PcGts>

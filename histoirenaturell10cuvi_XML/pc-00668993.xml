@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668993">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T23:41:24</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668993.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="24" y="306"/>
+	<Point x="1446" y="306"/>
+	<Point x="1446" y="1576"/>
+	<Point x="24" y="1576"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>fait usage de cette indication. Forskal en a
+décrit ensuite une sous le nom de scomber
+equula1; mais les termes dont il s’est servi
+paraissent oﬀrir des singularités. On n’a pas
+cru devoir laisser ce poisson dans le genre où
+il l’avait placé, et néanmoins on n’a pas été
+plus heureux que lui. Gmelin a réuni cet
+equula aux centrogaster2 de Houttuyn, qui
+sont des amphacanthes, et M. de Lacépède
+aux cæsio de Commerson; genre de ménides
+et non moins diﬀérent des scombres que des
+zeus3. En même temps, M. de Lacépède pla‐
+çait dans les clupées une espèce fort voisine,
+décrite par Commerson, et la nommait clu-
+pea fasciata.4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="20" y="1578"/>
+	<Point x="1441" y="1580"/>
+	<Point x="1443" y="2090"/>
+	<Point x="1310" y="2090"/>
+	<Point x="1300" y="2076"/>
+	<Point x="17" y="2076"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bloch a connu trois des poissons dont nous
+parlons: de l’un il fait un zeus, ce qui était
+conforme à l’analogie, et il le nomme insi-
+diator5; mais il met les deux autres parmi les
+scombres: ce sont ses scomber edentulus6 et
+scomber minutus7. Peut-être les avait-il reçus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="23" y="2083"/>
+	<Point x="1289" y="2082"/>
+	<Point x="1299" y="2099"/>
+	<Point x="1435" y="2099"/>
+	<Point x="1438" y="2263"/>
+	<Point x="23" y="2263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dans l’état sec et n’avait-il pas remarqué com‐
+bien leur bouche peut s’étendre. Cependant</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="25" y="2338"/>
+	<Point x="1445" y="2338"/>
+	<Point x="1445" y="2668"/>
+	<Point x="25" y="2668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Forsk., Descr. anim., p. 58. — 2. Centrogaster equula,
+Gmel, 1337. — 3. Le Cæsio poulain, Lacép., t. III, p. 90. —
+4. Clupée à bandes, Lacép., V, p. 425 et 463. — 5. Zeus in-
+sidiator, Bl., pl. 192, ﬁg. 2. — 6. Ib., pl. 428. — 7. Ib.,
+pl. 429, ﬁg. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="468" y="215"/>
+	<Point x="1026" y="215"/>
+	<Point x="1026" y="290"/>
+	<Point x="468" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1331" y="208"/>
+	<Point x="1434" y="208"/>
+	<Point x="1434" y="290"/>
+	<Point x="1331" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>61</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="25" y="2290"/>
+	<Point x="25" y="2327"/>
+	<Point x="1437" y="2327"/>
+	<Point x="1437" y="2290"/></Coords></SeparatorRegion></Page></PcGts>

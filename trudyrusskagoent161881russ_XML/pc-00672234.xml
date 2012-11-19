@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672234">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T02:49:35</Created>
+	<LastChange>2012-02-10T09:54:07</LastChange></Metadata>
+	<Page imageFilename="00672234.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1083" y="149"/>
+	<Point x="1398" y="149"/>
+	<Point x="1398" y="212"/>
+	<Point x="1083" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 40 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="366" y="283"/>
+	<Point x="2121" y="283"/>
+	<Point x="2126" y="860"/>
+	<Point x="366" y="860"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>campi marginalis et intermedii sito rudimentis tantum venu-
+larum praedito; eodem loco complicandi causa quasi emargi-
+natura parva elytri conspicitur. Campus intermedius et c.
+analis cum iisdem Gr. campestris L. comparati primo intuitu
+ramiﬁcatione multo minore venarum internomediae et analis
+parteque postica elytrorum cancellato-reticulata valde diminuta
+distinguuntur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="371" y="864"/>
+	<Point x="2128" y="864"/>
+	<Point x="2128" y="1937"/>
+	<Point x="371" y="1937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In spatio basali campi intermedii venae internomediae
+crus basale cum vena externomedia apud Gr. campestrem L.
+vulgo venulis quatuor aut quinque arcuatis conjungitur; apud
+Gr. frontalem hae venae duabus solum venulis conjunguntur;
+apud Gr. campestrem L. venae internomediae crus basale et
+vena analis venulis pluribus conjunguntur; apud Gr. frontalem
+hae venulae conjunctivae omnino desunt aut duae parvulae
+tantum existunt quae res stridoris eﬃciendi causa nonnulli
+pretii esse debet. Vena analis apud Gr. campestrem L. valde
+ramiﬁcata, apud Gr. frontalem simplex apparet. Pars postica
+campi intermedii apud Gr. campestrem L. cancellis numerosis
+repleta apud Gr. frontalem minime reticulata est quae omnia
+in tabula adjecta melius observantur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="366" y="1941"/>
+	<Point x="2128" y="1941"/>
+	<Point x="2128" y="2783"/>
+	<Point x="366" y="2783"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Organa stridoris imperfecta; venae internomediae crus ba-
+sale («archet» Goureau) subtus prominulum, subtilissime den-
+ticulatum (denticuli microscopii ope tantum observantur); mem-
+branula subtrigona pellucidior («chanterelle» Goureau) juxta
+suturam et ante angulum venae internomediae sita in utroque
+elytro adest; utrumque elytrum in facie inferiore immediatim
+pone membranulam (chanterelle) fasciculo pilorum («brosse»
+Goureau) praeditum est; praeterea in facie superiore utrius-
+que elytri in super fasciculum inferiorem rudimentum fasciculi
+pilosi superioris adest («brosse supérieure» mihi *).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="373" y="2853"/>
+	<Point x="2126" y="2853"/>
+	<Point x="2126" y="3119"/>
+	<Point x="373" y="3119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Hic fasciculus pilosus in facie superiore utriusque elytri («brosse su-
+périeure» mihi) etiam apud Gr. domesticum L. et apud Gr. campestrem L.
+adest, ab nullo auctore descriptus; apud Gr. campestrem L. in elytro sinistro
+saepe omnino detritus.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="383" y="2800"/>
+	<Point x="975" y="2800"/>
+	<Point x="975" y="2826"/>
+	<Point x="383" y="2826"/></Coords></SeparatorRegion></Page></PcGts>

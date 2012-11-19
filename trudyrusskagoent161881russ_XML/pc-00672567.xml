@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672567">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:28:42</Created>
+	<LastChange>2012-02-10T09:55:11</LastChange></Metadata>
+	<Page imageFilename="00672567.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="737" y="176"/>
+	<Point x="1055" y="176"/>
+	<Point x="1055" y="255"/>
+	<Point x="737" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 371 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="28" y="319"/>
+	<Point x="1771" y="319"/>
+	<Point x="1771" y="1075"/>
+	<Point x="28" y="1075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ♀ est d'une teinte plus orangée, plus vive que le ♂,
+avec la bordure extérieure (le limbe) inﬁniment plus large et
+contenant des taches jaune-clair. Ces tâches sont générale-
+ment très grandes et au nombre de 6 a 8 aux premières —
+et de 4 à 6 aux secondes ailes. Le point discocellulaire des
+antérieures est plus grand que chez le ♂ et souvent, irrégu-
+lièrement triangulaire. Les ailes postérieures étant saupoudrées
+de noir dans le disque, et la tache discocellulaire ne l'étant
+pas,—celle-ci est très apparente chez la ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="28" y="1087"/>
+	<Point x="1766" y="1087"/>
+	<Point x="1766" y="1328"/>
+	<Point x="28" y="1328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La bordure noire est richement saupoudrée de gris-ver-
+dâtre dans l'apex des ailes antérieures, chez les individus par-
+faitement conservés, et la frange est plus carminée que chez le ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="28" y="1335"/>
+	<Point x="1766" y="1335"/>
+	<Point x="1766" y="1744"/>
+	<Point x="28" y="1744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le dessous des deux sexes se ressemble: les premières ailes
+sont d'un jaune-verdâtre sale, sablées d'écailles noires dans le
+centre comme chez l'Hecla, qui, je l'ai déjà dit, a une cer-
+taine ressemblance avec ma C. Staudingeri, par le dessous
+surtout.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="26" y="1758"/>
+	<Point x="1758" y="1758"/>
+	<Point x="1758" y="3092"/>
+	<Point x="26" y="3092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le bord interne est plus clair, d'un jaune blanchâtre sale,
+jusqu'à la II nervure. La partie correspondant à la bordure
+extérieure du dessus, est plus verte en dessous que ne l'est
+le reste de l'aile. Les taches jaunes de la bordure (♀) sont
+aussi perceptibles sur le revers. Les points marginaux (anti-
+marginaux) ne dépassent guère le nombre de trois et sont d'un
+brun-noirâtre, plus ou moins eﬀacé. Le point central est tou-
+jours pupillé de blanc ou de blanchâtre. Le revers des se-
+condes ailes est d'un vert-jaunâtre, un peu plus clair, peut-
+être, que ne l'est le revers des mêmes ailes chez l'Hecla, et
+il est, sinon plus, tout aussi velu que chez celle-ci. Chez plu-
+sieurs individus de la Staudingeri les nervures sont plus clai-
+res que le fond des ailes, et, par cela même, visibles dans
+tout leur parcours. La série des taches sombres ou brunâtres,
+qui séparent le disque d'avec la bordure extérieure, est géné-
+ralement très oblitérée et disparait complêtement chez quelques</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1508" y="3110"/>
+	<Point x="1603" y="3110"/>
+	<Point x="1603" y="3169"/>
+	<Point x="1508" y="3169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>24*</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672245">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T02:51:17</Created>
+	<LastChange>2012-02-10T09:54:09</LastChange></Metadata>
+	<Page imageFilename="00672245.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="733" y="207"/>
+	<Point x="1044" y="207"/>
+	<Point x="1044" y="267"/>
+	<Point x="733" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 51 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="89" y="346"/>
+	<Point x="1766" y="346"/>
+	<Point x="1766" y="764"/>
+	<Point x="89" y="764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sich in ungleiche braune Flecken aufgelöste Binden in den
+Innenrand. Vor dem Saume stehen zwischen Rippe 3 und
+7 vier braune Flecke. Von der Flügelspitze bis zu Rippe
+3 sind die Fransen braun, von da bis zum Innenwinkel
+von der Farbe der Flügel. Saumlinie unbezeichnet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="76" y="771"/>
+	<Point x="1776" y="771"/>
+	<Point x="1776" y="1178"/>
+	<Point x="76" y="1178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Hinterﬂügel führen zwei ﬂeckenartige Binden, von
+denen die vordere bei Rippe 6 aufhört, die hintere nur
+am Innen- und Vorderrande durch zwei grössere Flecke
+deutlich, dazwischen aber nur durch feine bräunliche Atome
+angedeutet ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="82" y="1182"/>
+	<Point x="1792" y="1182"/>
+	<Point x="1794" y="1348"/>
+	<Point x="82" y="1351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite aller Flügel wie oben, nur der Vorderrand
+der Vorderﬂügel lebhafter gelb gefärbt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="89" y="1357"/>
+	<Point x="1791" y="1357"/>
+	<Point x="1791" y="1673"/>
+	<Point x="89" y="1673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Thorax, Leib und Beine von der Farbe der Flügel.
+Halskragen, Kopf und Fühlerschaft lehmgelb, letzterer dicht
+braun punktirt. Palpen gelbbraun, das Endglied dunkler.
+12 mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="91" y="2187"/>
+	<Point x="1807" y="2187"/>
+	<Point x="1807" y="2603"/>
+	<Point x="91" y="2603"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gehört der Flügelform und Zeichnung nach in die Ver-
+wandtschaft der Notata L. Die Form der Vorderﬂügel, der
+Ausschnitt des Saumes unter der Spitze wie bei jener, die
+Ecke der Hinterﬂügel aber weniger scharf und lang vor-
+tretend als dort.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="96" y="2610"/>
+	<Point x="1808" y="2610"/>
+	<Point x="1808" y="3196"/>
+	<Point x="96" y="3196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hell lehmgelb, stellenweise dünn braun bestäubt, die
+Vorderﬂügel mit drei, die Hinterﬂügel mit zwei bräunlichen,
+wenig scharf hervortretenden Querstreifen, die am Vorder-
+rande der Vorderﬂügel sich zu scharfen dunkelbraunen
+Flecken erweitern, deren mittelste am grössten. Bei dem ♂
+läuft auf allen Flügeln hinter dem zweiten und dritten,
+beim ♀ nur hinter dem dritten Querstreifen ein breiter ve�l-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1571" y="3205"/>
+	<Point x="1637" y="3205"/>
+	<Point x="1637" y="3255"/>
+	<Point x="1571" y="3255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1796" y="1678"/>
+	<Point x="1796" y="1849"/>
+	<Point x="19" y="1849"/>
+	<Point x="19" y="1678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ich scheuchte Pallida bei Semenow am Amur den 19 Juni
+aus Eichengebüsch auf.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1796" y="1851"/>
+	<Point x="1796" y="2180"/>
+	<Point x="19" y="2180"/>
+	<Point x="19" y="1851"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Semiothisa (Macaria) Graphata nov. sp. taf. X, ﬁg. 4. Es
+liegen mir 3 ♀♀ und 1 ♂ vor, die ich Anfangs August
+bei Chabarowka ﬁng, erstere frisch, das ♂ schon stark ab-
+geﬂogen.</Unicode></TextEquiv></TextRegion></Page></PcGts>

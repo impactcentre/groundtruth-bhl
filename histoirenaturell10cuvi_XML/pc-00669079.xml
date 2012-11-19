@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669079">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:22:26</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669079.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="63" y="204"/>
+	<Point x="1483" y="204"/>
+	<Point x="1482" y="714"/>
+	<Point x="1046" y="714"/>
+	<Point x="1022" y="728"/>
+	<Point x="995" y="720"/>
+	<Point x="656" y="717"/>
+	<Point x="651" y="727"/>
+	<Point x="613" y="728"/>
+	<Point x="612" y="716"/>
+	<Point x="62" y="718"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forster avait changé d’idée, et l’avait appelé
+du nom d’harpurus inermis, par lequel il avait
+voulu marquer son aﬃnité avec les acanthures.
+Cette description a été donnée par Schneider
+dans le Système posthume de Bloch, p. 210,
+sous le nom d’amphacanthus punctatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="57" y="722"/>
+	<Point x="604" y="724"/>
+	<Point x="603" y="732"/>
+	<Point x="657" y="733"/>
+	<Point x="668" y="724"/>
+	<Point x="1000" y="725"/>
+	<Point x="1025" y="732"/>
+	<Point x="1054" y="722"/>
+	<Point x="1491" y="722"/>
+	<Point x="1489" y="1060"/>
+	<Point x="58" y="1060"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J’ai tout lieu de croire que c’est aussi l’acan-
+thurus meleagris de Shaw, bien que cet au‐
+teur lui donne des aiguillons aux côtés de la
+queue.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="60" y="1063"/>
+	<Point x="1487" y="1063"/>
+	<Point x="1487" y="1993"/>
+	<Point x="60" y="1993"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce qui me donne cette pensée, c’est que je
+vois que Shaw a décrit les poissons cédés par
+Forster au Muséum britannique sous les noms
+que ce malheureux voyageur leur avait don‐
+nés, quoiqu’il ne l’ait pas cité, et même c’était
+par lui, qu’avant d’avoir reçu de Montpellier
+la collection de Broussonnet, nous avions
+appris quels étaient ces nombreux chétodons
+mentionnés par ce dernier naturaliste dans
+les notes de sa première décade, et dont
+Gmelin n’a pu que copier les noms.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="56" y="1996"/>
+	<Point x="1486" y="1996"/>
+	<Point x="1486" y="2343"/>
+	<Point x="56" y="2343"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ﬁgure en question, longue de dix pouces,
+donne au dos une teinte violâtre et sème tout
+le corps de points verdâtres, qui deviennent
+jaunâtres à la tête. La description, telle qu’on</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="59" y="2458"/>
+	<Point x="1479" y="2458"/>
+	<Point x="1479" y="2601"/>
+	<Point x="59" y="2601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Voyez Gener. Zool, t. IV, 2.e part., p. 385. — 2. Syst.
+linn., éd. Gmel., p. 1269.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="457" y="112"/>
+	<Point x="1094" y="112"/>
+	<Point x="1094" y="185"/>
+	<Point x="457" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1348" y="112"/>
+	<Point x="1482" y="112"/>
+	<Point x="1482" y="185"/>
+	<Point x="1348" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>147</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="67" y="2381"/>
+	<Point x="67" y="2418"/>
+	<Point x="1479" y="2418"/>
+	<Point x="1479" y="2381"/></Coords></SeparatorRegion></Page></PcGts>

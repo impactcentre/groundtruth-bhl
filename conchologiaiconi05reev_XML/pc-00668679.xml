@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668679">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T21:51:12</Created>
+	<LastChange>2012-02-10T10:29:30</LastChange></Metadata>
+	<Page imageFilename="00668679.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r31" index="10"/>
+	<RegionRefIndexed regionRef="r50" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/>
+	<RegionRefIndexed regionRef="r78" index="14"/>
+	<RegionRefIndexed regionRef="r62" index="15"/>
+	<RegionRefIndexed regionRef="r65" index="16"/>
+	<RegionRefIndexed regionRef="r71" index="17"/>
+	<RegionRefIndexed regionRef="r16" index="18"/>
+	<RegionRefIndexed regionRef="r44" index="19"/>
+	<RegionRefIndexed regionRef="r82" index="20"/>
+	<RegionRefIndexed regionRef="r18" index="21"/>
+	<RegionRefIndexed regionRef="r19" index="22"/>
+	<RegionRefIndexed regionRef="r20" index="23"/>
+	<RegionRefIndexed regionRef="r21" index="24"/>
+	<RegionRefIndexed regionRef="r22" index="25"/>
+	<RegionRefIndexed regionRef="r23" index="26"/>
+	<RegionRefIndexed regionRef="r24" index="27"/>
+	<RegionRefIndexed regionRef="r25" index="28"/>
+	<RegionRefIndexed regionRef="r26" index="29"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1028" y="309"/>
+	<Point x="1482" y="309"/>
+	<Point x="1482" y="363"/>
+	<Point x="1028" y="363"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1165" y="403"/>
+	<Point x="1358" y="403"/>
+	<Point x="1358" y="443"/>
+	<Point x="1165" y="443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="490" y="489"/>
+	<Point x="1073" y="489"/>
+	<Point x="1073" y="536"/>
+	<Point x="490" y="536"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 42. (Fig. 38. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="331" y="553"/>
+	<Point x="1233" y="553"/>
+	<Point x="1233" y="738"/>
+	<Point x="331" y="738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA SIDERATUS. Achat. testâ ovatâ, ventricosâ,
+tenuiculâ, anfractibus quinque, creberrimè minutè gra-
+nulatis, columellâ contortâ; fuscâ, castaneo acutè et sub-
+tiliter fulguratâ, aperturœ fauce pallidè cœrulescente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="331" y="741"/>
+	<Point x="1232" y="743"/>
+	<Point x="1232" y="971"/>
+	<Point x="925" y="973"/>
+	<Point x="659" y="973"/>
+	<Point x="336" y="971"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE THUNDER-STRICKEN ACHATINA. Shell ovate, ventri-
+cose, rather thin, whorls ﬁve in number, very closely
+minutely granulated, columella twisted; brown,
+marked with ﬁne sharply zigzag chestnut streaks,
+interior of the aperture faintly blue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="327" y="974"/>
+	<Point x="517" y="975"/>
+	<Point x="517" y="1010"/>
+	<Point x="327" y="1010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.—?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="319" y="1038"/>
+	<Point x="1230" y="1038"/>
+	<Point x="1230" y="1272"/>
+	<Point x="319" y="1272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This is apparently a shell of immature growth, but so
+peculiar in its colour and marking, that I venture to
+describe it as new. Of a warm brown silken hue, painted
+with ﬁne sharply zigzag streaks somewhat broken, much
+more delicate and numerous towards the apex.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="547" y="1317"/>
+	<Point x="996" y="1317"/>
+	<Point x="996" y="1365"/>
+	<Point x="547" y="1365"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 39. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="319" y="1385"/>
+	<Point x="1226" y="1385"/>
+	<Point x="1226" y="1614"/>
+	<Point x="319" y="1614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA FLAMMIGERA. Achat, testâ subpyramidali-
+ovatâ, anfractibus septem ad octo, obliquè obscurè pli-
+cato-rugosis, columellâ rectâ, vix truncatâ, aperturâ
+parviusculâ; lutescente, ﬂammis subtilibus frequentibus
+ustulato-fuscis obliquè pictâ, basi nigricante-castaneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="319" y="1617"/>
+	<Point x="1227" y="1617"/>
+	<Point x="1227" y="1890"/>
+	<Point x="322" y="1890"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE FLAMED ACHATINA. Shell somewhat pyramidally
+ovate, whorls seven to eight in number, obliquely
+obscurely plicately wrinkled, columella straight,
+scarcely truncated, aperture rather small; yellowish,
+obliquely painted with frequent ﬁne burnt-brown
+ﬂames, base blackish chestnut.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="316" y="2083"/>
+	<Point x="499" y="2085"/>
+	<Point x="496" y="2124"/>
+	<Point x="315" y="2124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Peru.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="307" y="2140"/>
+	<Point x="1217" y="2140"/>
+	<Point x="1217" y="2235"/>
+	<Point x="307" y="2236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The columella being very slightly truncated in this
+species, partakes very much of the character of Bulimus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1273" y="1052"/>
+	<Point x="2172" y="1052"/>
+	<Point x="2172" y="1133"/>
+	<Point x="1273" y="1133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.) vol. viii. p.
+297.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1272" y="1266"/>
+	<Point x="2171" y="1266"/>
+	<Point x="2171" y="1358"/>
+	<Point x="1272" y="1358"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Well characterized by its cylindrically drawn out form
+and style of painting.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords>
+	<Point x="1515" y="1449"/>
+	<Point x="1921" y="1449"/>
+	<Point x="1921" y="1492"/>
+	<Point x="1515" y="1492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 41. (Mus. Rolfe.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1269" y="1523"/>
+	<Point x="2169" y="1523"/>
+	<Point x="2169" y="1704"/>
+	<Point x="1269" y="1704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA LACTEA. Achat. testâ ovatâ, crassiusculâ, an‐
+fractibus tumidiusculis, undique plicato-striatis et gra-
+natis, columellâ arcuatâ, callosâ, attenuatè truncatâ;
+intus extusque lacteâ, immaculatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1268" y="1710"/>
+	<Point x="2169" y="1710"/>
+	<Point x="2169" y="1893"/>
+	<Point x="1268" y="1893"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CREAM-COLOURED ACHATINA. Shell ovate, rather
+thick, whorls somewhat swollen, plicately striated and
+grained, columella arched, callous, attenuately trun‐
+cated, cream-coloured within and without, unspotted.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1267" y="1897"/>
+	<Point x="2164" y="1897"/>
+	<Point x="2164" y="1985"/>
+	<Point x="1267" y="1985"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>REEVE, Pro. Zool. Soc., 1842. p. 55. Conch. Syst. vol. ii.
+p. 86. pl. 177. f. 6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1267" y="1991"/>
+	<Point x="1507" y="1991"/>
+	<Point x="1507" y="2025"/>
+	<Point x="1267" y="2025"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Zanzibar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1266" y="2063"/>
+	<Point x="2163" y="2063"/>
+	<Point x="2163" y="2155"/>
+	<Point x="1266" y="2155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An extremely characteristic species of a pure uniform
+cream colour without any indication of pattern.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1257" y="2158"/>
+	<Point x="2166" y="2158"/>
+	<Point x="2166" y="2389"/>
+	<Point x="1257" y="2389"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The specimen originally described, and from which the
+accompanying ﬁgure from the Conchologia Systematica
+was engraved, is in the possession of the Rev. S. C. E.
+Neville Rolfe of Heacham Hall. Mr. Cuming has since
+obtained similar specimens from Zanzibar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1124" y="2641"/>
+	<Point x="1338" y="2641"/>
+	<Point x="1338" y="2683"/>
+	<Point x="1124" y="2683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>March, 1849.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r27">
+	<Coords>
+	<Point x="990" y="2523"/>
+	<Point x="1444" y="2523"/>
+	<Point x="1444" y="2544"/>
+	<Point x="990" y="2544"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r28">
+	<Coords>
+	<Point x="1247" y="488"/>
+	<Point x="1262" y="488"/>
+	<Point x="1244" y="2393"/>
+	<Point x="1226" y="2393"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r29">
+	<Coords>
+	<Point x="545" y="1282"/>
+	<Point x="1018" y="1282"/>
+	<Point x="1018" y="1306"/>
+	<Point x="545" y="1306"/></Coords></SeparatorRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="312" y="1896"/>
+	<Point x="896" y="1896"/>
+	<Point x="896" y="1941"/>
+	<Point x="312" y="1941"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESHAYES, Enc. Méth. vol. ii. p. 10.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r54">
+	<Coords>
+	<Point x="575" y="2242"/>
+	<Point x="968" y="2242"/>
+	<Point x="968" y="2264"/>
+	<Point x="575" y="2264"/></Coords></SeparatorRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="312" y="2344"/>
+	<Point x="1210" y="2344"/>
+	<Point x="1210" y="2385"/>
+	<Point x="312" y="2385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA USTULATA. Achat. testâ cylindraceo-oblongâ,</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r63">
+	<Coords>
+	<Point x="1492" y="1387"/>
+	<Point x="1956" y="1387"/>
+	<Point x="1956" y="1407"/>
+	<Point x="1492" y="1407"/></Coords></SeparatorRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="1342" y="489"/>
+	<Point x="2182" y="489"/>
+	<Point x="2182" y="719"/>
+	<Point x="1342" y="719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>spirâ exsertâ, anfractibus septem, granato-striatis, striis
+in anfractu ultimo evanidis, columellâ subcontortâ,
+abruptè truncatâ, aperturâ parvâ; nigricante-castaneâ,
+strigis lutescentibus longitudinaliter fulguratis, aperturœ
+fauce cœrulescente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords>
+	<Point x="1278" y="723"/>
+	<Point x="2180" y="723"/>
+	<Point x="2180" y="1040"/>
+	<Point x="1278" y="1040"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BURNT ACHATINA. Shell cylindrically oblong, spire
+stretched out, whorls seven in number, granosely
+striated, striæ fading away in the last whorl, colu‐
+mella slightly twisted, abruptly truncated, aperture
+small; blackish chestnut, marked with longitudinal
+yellowish zigzag streaks, interior of the aperture
+bluish.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r82" type="paragraph">
+	<Coords>
+	<Point x="1275" y="1193"/>
+	<Point x="1834" y="1193"/>
+	<Point x="1834" y="1234"/>
+	<Point x="1275" y="1234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Cape of Good Hope; Krauss.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" type="heading">
+	<Coords>
+	<Point x="525" y="2277"/>
+	<Point x="980" y="2277"/>
+	<Point x="980" y="2323"/>
+	<Point x="525" y="2323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 40. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="1276" y="1145"/>
+	<Point x="1736" y="1145"/>
+	<Point x="1736" y="1186"/>
+	<Point x="1276" y="1186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cochlitoma ustulata, Férussac.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="386" y="1944"/>
+	<Point x="990" y="1944"/>
+	<Point x="990" y="2081"/>
+	<Point x="386" y="2081"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cochlitoma ﬂammigera, Férussac.
+Bulimus Richii, Lamarck.
+Achatina Richii, mihi, in Conch. Syst.</Unicode></TextEquiv></TextRegion></Page></PcGts>

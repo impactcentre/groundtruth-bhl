@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672542">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:54:40</Created>
+	<LastChange>2012-02-10T09:55:08</LastChange></Metadata>
+	<Page imageFilename="00672542.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1007" y="133"/>
+	<Point x="1310" y="133"/>
+	<Point x="1310" y="198"/>
+	<Point x="1007" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 346 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="282" y="266"/>
+	<Point x="2032" y="266"/>
+	<Point x="2032" y="430"/>
+	<Point x="282" y="430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pèce du genre Trochilium, et quelques Microlépidoptères nou-
+veaux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="282" y="441"/>
+	<Point x="2030" y="441"/>
+	<Point x="2030" y="1100"/>
+	<Point x="282" y="1100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Après un repos de trois jours, nous traversâmes le Koun-
+guesse et suivant sa rive droite et puis celle de l'Ili,
+nous arrivâmes le 24 Août à Kouldjà après avoir franchi à
+gué le Tasche, afﬂuent important de l'Ili, dont l'eau est con-
+duite par le Grand Canal (Aryk) long de 70 kilomètres à
+Kouldjà. Ainsi ﬁnit notre expédition dans le Tian-Chian.
+Sept semaines plus tard nous étions de retour à St.-Peters-
+bourg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="283" y="1108"/>
+	<Point x="2028" y="1108"/>
+	<Point x="2028" y="1428"/>
+	<Point x="283" y="1428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Depuis, nous avons fait don de nos collections de verté-
+brés à l'Académie Impériale des Sciences de St.-Petersbourg:
+je ne gardai pour moi-même que les lépidoptères rapportés,
+dont le Dr. Stauding er reçut les doubles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="283" y="1433"/>
+	<Point x="2021" y="1433"/>
+	<Point x="2021" y="2014"/>
+	<Point x="283" y="2014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aujourd'hui j'ai l'honneur de présenter à la Société Ento-
+mologique Russe mon travail sur les Lépidoptères rapportés
+de Kouldjà en me réservant de le faire suivre d'un appen-
+dice qui comprendra: 1° des tables comparatives de la distri-
+bution verticale et horizontale de ces espèces dans d'autres
+pays, et, 2° mes conclusions générales sur la composition ac-
+tuelle de la Faune lépidoptérologique de ce pays.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="271" y="2024"/>
+	<Point x="2012" y="2024"/>
+	<Point x="2012" y="2355"/>
+	<Point x="271" y="2355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que Mrs. Staudinger et Erschoff me permettent de
+leur témoigner ici toute ma reconnaissance pour leurs savants
+et bienveillants conseils, qui m'ont été d'un précieux secours
+pour la composition du présent travail.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="269" y="2362"/>
+	<Point x="2012" y="2362"/>
+	<Point x="2012" y="2610"/>
+	<Point x="269" y="2610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les beaux et exacts dessins qui accompagnent mes des-
+criptions, sont dûs au talent et à l'habile pinceau de Mr.
+Lang.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="267" y="2649"/>
+	<Point x="2008" y="2649"/>
+	<Point x="2008" y="2780"/>
+	<Point x="267" y="2780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NB. Pour les dates, j'ai employé partout le vieux style dans cet ou-
+vrage.</Unicode></TextEquiv></TextRegion></Page></PcGts>

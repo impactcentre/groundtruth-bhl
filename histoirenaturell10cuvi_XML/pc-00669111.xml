@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669111">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:26:10</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669111.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="513" y="182"/>
+	<Point x="1154" y="182"/>
+	<Point x="1154" y="289"/>
+	<Point x="513" y="289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="510" y="332"/>
+	<Point x="1168" y="332"/>
+	<Point x="1168" y="429"/>
+	<Point x="510" y="429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE BLEU.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="420" y="438"/>
+	<Point x="1236" y="438"/>
+	<Point x="1236" y="532"/>
+	<Point x="420" y="532"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus cæruleus, Bl.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="108" y="556"/>
+	<Point x="1582" y="556"/>
+	<Point x="1582" y="918"/>
+	<Point x="108" y="918"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Antilles possèdent encore un troisième
+chirurgien, facile à distinguer des deux autres,
+même par les formes, et qui se fait remarquer
+par sa belle couleur bleue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="152" y="924"/>
+	<Point x="1581" y="924"/>
+	<Point x="1575" y="1972"/>
+	<Point x="386" y="1973"/>
+	<Point x="352" y="1984"/>
+	<Point x="341" y="1987"/>
+	<Point x="150" y="1985"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est beaucoup plus élevé à proportion; sa hau‐
+teur n’est qu’une fois et un tiers dans sa longueur,
+en n’y comprenant pas la queue; sa nuque, sur‐
+tout, est très-élevée, en sorte que son æil est au
+milieu de la distance entre la dorsale et la bouche.
+Son proﬁl, après avoir été un peu convexe devant
+l’æil, devient légèrement concave un peu plus bas,
+et a ainsi un peu de la courbure d’un S italique;
+sa ligne latérale, pour suivre la courbure du dos,
+est obligée de s’inﬂéchir beaucoup en avant et en
+arrière. Les pointes de sa caudale, plus aiguës que
+dans la seconde espèce, le sont moins que dans la
+première; la supérieure dépasse l’inférieure, mais de
+très-peu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1401" y="176"/>
+	<Point x="1401" y="265"/>
+	<Point x="1552" y="265"/>
+	<Point x="1552" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>179</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="141" y="2058"/>
+	<Point x="1578" y="2058"/>
+	<Point x="1578" y="2714"/>
+	<Point x="141" y="2714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tel que nous l’avons reçu de la Martinique, de
+Porto-Rico et de Saint-Domingue, ce poisson paraît
+d’un brun foncé tirant au pourpre. Sur plusieurs
+individus des lignes étroites bleuâtres, peu régulières,
+au nombre de vingt-quatre à vingt-cinq, parcourent
+longitudinalement les côtés du corps. La dorsale et
+l’anale sont colorées par des lignes obliques, alterna‐
+tivement bleues et pourpres; les pectorales semblent</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="356" y="1988"/>
+	<Point x="1393" y="1983"/>
+	<Point x="1397" y="2053"/>
+	<Point x="354" y="2054"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/27; A. 3/25; C. 16; P. 15 ou 12; V. 1/5.</Unicode></TextEquiv></TextRegion></Page></PcGts>

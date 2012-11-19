@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668239">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T20:18:24</Created>
+	<LastChange>2012-02-10T09:52:46</LastChange></Metadata>
+	<Page imageFilename="00668239.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r73" index="0"/>
+	<RegionRefIndexed regionRef="r79" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/>
+	<RegionRefIndexed regionRef="r13" index="11"/>
+	<RegionRefIndexed regionRef="r14" index="12"/>
+	<RegionRefIndexed regionRef="r15" index="13"/>
+	<RegionRefIndexed regionRef="r16" index="14"/>
+	<RegionRefIndexed regionRef="r17" index="15"/>
+	<RegionRefIndexed regionRef="r18" index="16"/>
+	<RegionRefIndexed regionRef="r19" index="17"/>
+	<RegionRefIndexed regionRef="r20" index="18"/>
+	<RegionRefIndexed regionRef="r57" index="19"/>
+	<RegionRefIndexed regionRef="r63" index="20"/>
+	<RegionRefIndexed regionRef="r22" index="21"/>
+	<RegionRefIndexed regionRef="r23" index="22"/>
+	<RegionRefIndexed regionRef="r24" index="23"/>
+	<RegionRefIndexed regionRef="r25" index="24"/>
+	<RegionRefIndexed regionRef="r26" index="25"/>
+	<RegionRefIndexed regionRef="r27" index="26"/>
+	<RegionRefIndexed regionRef="r28" index="27"/>
+	<RegionRefIndexed regionRef="r29" index="28"/>
+	<RegionRefIndexed regionRef="r30" index="29"/>
+	<RegionRefIndexed regionRef="r31" index="30"/>
+	<RegionRefIndexed regionRef="r32" index="31"/>
+	<RegionRefIndexed regionRef="r33" index="32"/>
+	<RegionRefIndexed regionRef="r34" index="33"/>
+	<RegionRefIndexed regionRef="r35" index="34"/>
+	<RegionRefIndexed regionRef="r36" index="35"/>
+	<RegionRefIndexed regionRef="r37" index="36"/>
+	<RegionRefIndexed regionRef="r38" index="37"/>
+	<RegionRefIndexed regionRef="r65" index="38"/>
+	<RegionRefIndexed regionRef="r71" index="39"/>
+	<RegionRefIndexed regionRef="r40" index="40"/>
+	<RegionRefIndexed regionRef="r41" index="41"/>
+	<RegionRefIndexed regionRef="r42" index="42"/>
+	<RegionRefIndexed regionRef="r43" index="43"/>
+	<RegionRefIndexed regionRef="r44" index="44"/>
+	<RegionRefIndexed regionRef="r45" index="45"/>
+	<RegionRefIndexed regionRef="r46" index="46"/>
+	<RegionRefIndexed regionRef="r47" index="47"/>
+	<RegionRefIndexed regionRef="r48" index="48"/>
+	<RegionRefIndexed regionRef="r49" index="49"/>
+	<RegionRefIndexed regionRef="r50" index="50"/>
+	<RegionRefIndexed regionRef="r51" index="51"/>
+	<RegionRefIndexed regionRef="r52" index="52"/>
+	<RegionRefIndexed regionRef="r53" index="53"/>
+	<RegionRefIndexed regionRef="r54" index="54"/>
+	<RegionRefIndexed regionRef="r55" index="55"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="913" y="270"/>
+	<Point x="1331" y="270"/>
+	<Point x="1331" y="331"/>
+	<Point x="913" y="331"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>INDEX OF BIRDS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1948" y="271"/>
+	<Point x="2057" y="271"/>
+	<Point x="2057" y="344"/>
+	<Point x="1948" y="344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>215</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="186" y="434"/>
+	<Point x="782" y="434"/>
+	<Point x="782" y="469"/>
+	<Point x="186" y="469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Stonechat .. .. .. .. .. i 37</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="189" y="478"/>
+	<Point x="783" y="478"/>
+	<Point x="783" y="519"/>
+	<Point x="189" y="519"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sturnus vulgaris .. .. .. ii 139</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="185" y="523"/>
+	<Point x="783" y="523"/>
+	<Point x="783" y="560"/>
+	<Point x="185" y="560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Swallow .. .. .. .. .. ii 32</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="172" y="567"/>
+	<Point x="787" y="567"/>
+	<Point x="787" y="607"/>
+	<Point x="172" y="607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*Sykes’ Wagtail .. ..	.. ii 210</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="188" y="612"/>
+	<Point x="785" y="612"/>
+	<Point x="785" y="651"/>
+	<Point x="188" y="651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sylvia atricapilla .. .. .. i 69</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="189" y="655"/>
+	<Point x="782" y="655"/>
+	<Point x="782" y="695"/>
+	<Point x="189" y="695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sylvia cinerea .. .. .. .. i 62</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="188" y="701"/>
+	<Point x="783" y="701"/>
+	<Point x="783" y="742"/>
+	<Point x="188" y="742"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sylvia curruca .. .. .. i 65</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="187" y="747"/>
+	<Point x="780" y="747"/>
+	<Point x="780" y="784"/>
+	<Point x="187" y="784"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sylvia hortensis .. .. .. i 72</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="172" y="791"/>
+	<Point x="783" y="791"/>
+	<Point x="783" y="829"/>
+	<Point x="172" y="829"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*Sylvia melanocephala .. .. .. ii 205</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="187" y="836"/>
+	<Point x="783" y="836"/>
+	<Point x="783" y="873"/>
+	<Point x="187" y="873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sylvia nisoria .. .. .. .. i 77</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="180" y="879"/>
+	<Point x="786" y="879"/>
+	<Point x="786" y="920"/>
+	<Point x="180" y="920"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*Sylvia orphea .. .. .. .. i 68</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="185" y="927"/>
+	<Point x="782" y="927"/>
+	<Point x="782" y="963"/>
+	<Point x="185" y="963"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sylvia undata .. .. .. .. i 81</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="185" y="1014"/>
+	<Point x="783" y="1014"/>
+	<Point x="783" y="1051"/>
+	<Point x="185" y="1051"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tawny Pipit .. .. .. .. i 201</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="174" y="1057"/>
+	<Point x="786" y="1057"/>
+	<Point x="786" y="1095"/>
+	<Point x="174" y="1095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*Tichodroma muraria .. .. i 176</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="187" y="1104"/>
+	<Point x="786" y="1104"/>
+	<Point x="786" y="1142"/>
+	<Point x="187" y="1142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tree-Creeper .. .. .. .. i 173</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="183" y="1147"/>
+	<Point x="785" y="1147"/>
+	<Point x="785" y="1187"/>
+	<Point x="183" y="1187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tree-Pipit .. .. .. .. .. i 193</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="181" y="1192"/>
+	<Point x="784" y="1192"/>
+	<Point x="784" y="1235"/>
+	<Point x="181" y="1235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tree-Sparrow .. .. .. .. ii 93</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="838" y="432"/>
+	<Point x="1426" y="432"/>
+	<Point x="1426" y="470"/>
+	<Point x="838" y="470"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Troglodytes parvulus .. .. i 169</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="820" y="479"/>
+	<Point x="1429" y="478"/>
+	<Point x="1429" y="517"/>
+	<Point x="821" y="516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*Turdus atrigularis .. .. i 27</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="820" y="523"/>
+	<Point x="1423" y="523"/>
+	<Point x="1423" y="556"/>
+	<Point x="820" y="555"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*Turdus dubius .. .. .. ii 202</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="835" y="566"/>
+	<Point x="1426" y="566"/>
+	<Point x="1426" y="601"/>
+	<Point x="835" y="601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turdus iliacus .. .. .. i 11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="834" y="613"/>
+	<Point x="1431" y="613"/>
+	<Point x="1431" y="649"/>
+	<Point x="834" y="649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turdus merula .. .. .. i 19</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="817" y="657"/>
+	<Point x="1429" y="657"/>
+	<Point x="1429" y="693"/>
+	<Point x="817" y="693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*Turdus migratorius .. .. i 28</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="837" y="701"/>
+	<Point x="1425" y="701"/>
+	<Point x="1425" y="737"/>
+	<Point x="837" y="737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turdus musicus .. .. .. i 7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="840" y="744"/>
+	<Point x="1425" y="744"/>
+	<Point x="1425" y="782"/>
+	<Point x="840" y="782"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turdus pilaris .. .. .. i 14</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="816" y="790"/>
+	<Point x="1428" y="790"/>
+	<Point x="1428" y="821"/>
+	<Point x="816" y="821"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*Turdus sibiricus .. .. .. i 28</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="835" y="835"/>
+	<Point x="1427" y="835"/>
+	<Point x="1427" y="874"/>
+	<Point x="835" y="874"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turdus torquatus .. .. .. i 25</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="835" y="879"/>
+	<Point x="1426" y="879"/>
+	<Point x="1426" y="915"/>
+	<Point x="835" y="915"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turdus varius .. .. .. .. i 17</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="836" y="926"/>
+	<Point x="1431" y="926"/>
+	<Point x="1431" y="960"/>
+	<Point x="836" y="960"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turdus viscivorus .. .. .. i 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="827" y="968"/>
+	<Point x="1423" y="968"/>
+	<Point x="1423" y="1001"/>
+	<Point x="827" y="1001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Twite .. .. .. .. .. .. ii 81</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="829" y="1010"/>
+	<Point x="1426" y="1010"/>
+	<Point x="1426" y="1048"/>
+	<Point x="829" y="1051"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Two-Barred Crossbill .. .. ii 50</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="814" y="1098"/>
+	<Point x="1429" y="1098"/>
+	<Point x="1429" y="1142"/>
+	<Point x="814" y="1142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*Wall-Creeper .. .. .. .. i 176</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="816" y="1146"/>
+	<Point x="1427" y="1146"/>
+	<Point x="1427" y="1184"/>
+	<Point x="816" y="1184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*Water-Pipit .. .. .. .. i 207</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="833" y="1188"/>
+	<Point x="1427" y="1188"/>
+	<Point x="1427" y="1231"/>
+	<Point x="833" y="1231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Waxwing .. .. .. .. .. ii 18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="1476" y="433"/>
+	<Point x="2069" y="433"/>
+	<Point x="2069" y="469"/>
+	<Point x="1476" y="469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wheatear .. .. .. .. .. i 29</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="1472" y="475"/>
+	<Point x="2066" y="475"/>
+	<Point x="2066" y="514"/>
+	<Point x="1472" y="514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Whinchat .. .. .. .. .. i 33</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="1457" y="522"/>
+	<Point x="2069" y="522"/>
+	<Point x="2069" y="560"/>
+	<Point x="1457" y="560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*White-Spotted Bluethroat.. ii 204</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1476" y="568"/>
+	<Point x="2066" y="568"/>
+	<Point x="2066" y="604"/>
+	<Point x="1476" y="604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>White’s Thrush .. .. .. i 17</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="1475" y="610"/>
+	<Point x="2067" y="610"/>
+	<Point x="2067" y="644"/>
+	<Point x="1475" y="644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Whitethroat .. .. .. .. i 62</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="1474" y="655"/>
+	<Point x="2064" y="655"/>
+	<Point x="2064" y="692"/>
+	<Point x="1474" y="692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>White Wagtail .. .. .. i 181</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="1458" y="698"/>
+	<Point x="2073" y="698"/>
+	<Point x="2073" y="739"/>
+	<Point x="1458" y="739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*White-Winged Lark .. .. ii 194</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="1474" y="745"/>
+	<Point x="2073" y="745"/>
+	<Point x="2073" y="782"/>
+	<Point x="1474" y="782"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Willow Warbler .. .. .. i 99</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1476" y="789"/>
+	<Point x="2066" y="789"/>
+	<Point x="2066" y="826"/>
+	<Point x="1476" y="826"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Woodchat Shrike .. .. .. ii 13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="1476" y="833"/>
+	<Point x="2070" y="833"/>
+	<Point x="2070" y="869"/>
+	<Point x="1476" y="869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wood-Lark .. .. .. .. ii 188</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="1476" y="877"/>
+	<Point x="2070" y="877"/>
+	<Point x="2070" y="913"/>
+	<Point x="1476" y="913"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wood Warbler .. .. .. i 102</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="1474" y="922"/>
+	<Point x="2073" y="922"/>
+	<Point x="2073" y="965"/>
+	<Point x="1474" y="965"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wren .. .. .. .. .. .. i 169</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="1461" y="998"/>
+	<Point x="2073" y="998"/>
+	<Point x="2073" y="1038"/>
+	<Point x="1461" y="1038"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*Yellow-Breasted Bunting .. ii 117</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="1475" y="1044"/>
+	<Point x="2071" y="1044"/>
+	<Point x="2071" y="1082"/>
+	<Point x="1475" y="1082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Yellow-Browed Warbler .. i 92</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="1480" y="1088"/>
+	<Point x="2070" y="1088"/>
+	<Point x="2070" y="1127"/>
+	<Point x="1480" y="1127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Yellow-Bunting .. .. .. ii 112</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="1477" y="1132"/>
+	<Point x="2068" y="1132"/>
+	<Point x="2068" y="1176"/>
+	<Point x="1477" y="1176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Yellow Wagtail .. .. .. i 189</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords>
+	<Point x="1292" y="397"/>
+	<Point x="1351" y="397"/>
+	<Point x="1351" y="426"/>
+	<Point x="1292" y="426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vol.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords>
+	<Point x="1356" y="400"/>
+	<Point x="1425" y="400"/>
+	<Point x="1425" y="427"/>
+	<Point x="1356" y="427"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Page	</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="1928" y="398"/>
+	<Point x="1990" y="398"/>
+	<Point x="1990" y="425"/>
+	<Point x="1928" y="425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vol.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords>
+	<Point x="1995" y="399"/>
+	<Point x="2067" y="399"/>
+	<Point x="2067" y="426"/>
+	<Point x="1995" y="426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Page</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="paragraph">
+	<Coords>
+	<Point x="645" y="399"/>
+	<Point x="706" y="399"/>
+	<Point x="706" y="427"/>
+	<Point x="645" y="427"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vol.	</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r79" type="paragraph">
+	<Coords>
+	<Point x="713" y="400"/>
+	<Point x="781" y="400"/>
+	<Point x="781" y="430"/>
+	<Point x="713" y="430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>page</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r64">
+	<Coords>
+	<Point x="791" y="397"/>
+	<Point x="789" y="1244"/>
+	<Point x="809" y="1244"/>
+	<Point x="810" y="397"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r66">
+	<Coords>
+	<Point x="1434" y="396"/>
+	<Point x="1449" y="396"/>
+	<Point x="1450" y="464"/>
+	<Point x="1450" y="608"/>
+	<Point x="1453" y="1244"/>
+	<Point x="1438" y="1245"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r67">
+	<Coords>
+	<Point x="1014" y="1976"/>
+	<Point x="1014" y="2004"/>
+	<Point x="1235" y="2004"/>
+	<Point x="1235" y="1976"/></Coords></SeparatorRegion></Page></PcGts>

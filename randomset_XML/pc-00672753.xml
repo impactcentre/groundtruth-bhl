@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672753">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T17:06:11</Created>
+	<LastChange>2012-02-10T10:29:47</LastChange></Metadata>
+	<Page imageFilename="00672753.tif" imageWidth="2241" imageHeight="3208">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/>
+	<RegionRefIndexed regionRef="r12" index="9"/>
+	<RegionRefIndexed regionRef="r13" index="10"/>
+	<RegionRefIndexed regionRef="r14" index="11"/>
+	<RegionRefIndexed regionRef="r15" index="12"/>
+	<RegionRefIndexed regionRef="r16" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="222" y="188"/>
+	<Point x="322" y="188"/>
+	<Point x="322" y="237"/>
+	<Point x="222" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>126</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="674" y="179"/>
+	<Point x="1644" y="179"/>
+	<Point x="1644" y="257"/>
+	<Point x="674" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SAN DIEGO SOCIETY OF NATURAL HISTORY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="1866" y="196"/>
+	<Point x="2066" y="196"/>
+	<Point x="2066" y="246"/>
+	<Point x="1866" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>[ MEMOIRS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="209" y="294"/>
+	<Point x="2079" y="294"/>
+	<Point x="2079" y="481"/>
+	<Point x="209" y="481"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This strongly concentrically sculptured little species can be immediately recognized
+by its long, attenuated rostrum (posterior extension), which is squarely truncated at the
+end. The posterior, gently curved dorsal margin is much longer than the anterior.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="216" y="577"/>
+	<Point x="2075" y="577"/>
+	<Point x="2075" y="1301"/>
+	<Point x="216" y="1301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A number of species of “Leda” have been described from the earlier Tertiary of the
+Paciﬁc coast. Some of the Miocene ones are noted here, as they may be closely related to
+Pliocene species. “Yoldia” newcombi Anderson and Martin,1 from the “Lower Miocene
+of Clallam County, Washington,” is a Nuculana of the typical section, somewhat resem-
+bling N. conceptionis Dall, but is more attenuated. “Leda” ochsneri of the same authors,
+from the lower Miocene of Kern River, Kern County, California, is closely related to
+N. taphria, as suggested in the original description. “Leda” cahillensis Arnold2 likewise
+belongs to Sacella. “Leda” chehalisensis Weaver3 from the Chehalis formation of western
+Washington, and “Leda” furlongi Trask,4 of the Briones formation of California, appear
+to be closely related; they probably belong likewise to Sacella Woodring. “Leda” wil-
+lamettensis Shumard, from the Miocene of the Willamette Valley, Oregon, has not been
+ﬁgured, but as it is an early described species and might be recognized from topotype ma-
+terial, Shumard's description is reproduced below in full.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="800" y="1361"/>
+	<Point x="1481" y="1361"/>
+	<Point x="1481" y="1420"/>
+	<Point x="800" y="1420"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nuculana willamettensis (Shumard)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="214" y="1435"/>
+	<Point x="2064" y="1435"/>
+	<Point x="2064" y="1542"/>
+	<Point x="214" y="1542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Leda willamettensis Shumard, Trans Acad. of Sci. of St. Louis, Vol. 1, p. 121, 1858, no ﬁgure; Dall, U. S. Geol. Surv.,
+Prof. Paper 59, p. 104, 1909.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="214" y="1559"/>
+	<Point x="2062" y="1559"/>
+	<Point x="2062" y="1731"/>
+	<Point x="214" y="1731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“Shell small, oblong-ovate, convex, inequilateral; buccal margin gently arched, and forming with the cardinal
+margin nearly a right angle; anal side prolonged, rostrated, truncated at the extremity; basal margin slightly arched;
+cardinal border oblique in advance of the beak and slightly excavated behind; beaks sub-medial not very prominent.
+The surface markings are entirely obliterated on the only specimen we have obtained of this species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="218" y="1735"/>
+	<Point x="2062" y="1735"/>
+	<Point x="2062" y="1822"/>
+	<Point x="218" y="1822"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“Form. &amp; Loc.—Occurs with Lucina parilis in dark-gray silicious limestone at Brooks' Lime Quarry, Willamette
+Valley, ﬁve miles north of Salem, Oregon Territory.” (Shumard, 1858.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="311" y="1838"/>
+	<Point x="2061" y="1838"/>
+	<Point x="2061" y="1907"/>
+	<Point x="311" y="1907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Shumard gave no measurements nor ﬁgures, and according to Dall the type is lost.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="838" y="1957"/>
+	<Point x="1433" y="1957"/>
+	<Point x="1433" y="2011"/>
+	<Point x="838" y="2011"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Genus YOLDIA Möller, 1842</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="218" y="2031"/>
+	<Point x="2070" y="2031"/>
+	<Point x="2070" y="2220"/>
+	<Point x="218" y="2220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Yoldia H. P. C. Möller, Index Molluscorum Groenlandiæ, p. 18, 1842; Stoliczka, Mem. Geol. Surv. India, Palaeonto-
+logia Indica, Vol. 3, p. 320, 1871; Meek, U. S. Geol. Surv. Territories, Vol. 9, p. 107, 1876; Verrill and Bush,
+Amer. Jour. Sci., Ser. 4, Vol. 3, p. 55, 1897; Dall, Trans. Wagner Inst. Sci., Vol. 3, pp. 594, 595, 1898;
+Woodring, Carnegie Inst. Publ., No. 366, p. 21, 1925.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="225" y="2231"/>
+	<Point x="2061" y="2231"/>
+	<Point x="2061" y="2357"/>
+	<Point x="225" y="2357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Type (see below): Nucula arctica Gray, Supplement to the Appendix Parry's First
+Voyage, 1819-20, p. 241, 1824; circumboreal; ﬁgured herewith, plate 1, ﬁgures 10, 11.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="311" y="2364"/>
+	<Point x="1164" y="2364"/>
+	<Point x="1164" y="2431"/>
+	<Point x="311" y="2431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Geologic range: Carboniferous to Recent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="322" y="2438"/>
+	<Point x="862" y="2438"/>
+	<Point x="862" y="2494"/>
+	<Point x="322" y="2494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Distribution: World wide.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="211" y="2511"/>
+	<Point x="2062" y="2511"/>
+	<Point x="2062" y="2744"/>
+	<Point x="211" y="2744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Yoldia and Nuculana are closely related, but Yoldia can generally be diﬀerentiated
+by its strong keel on the posterior dorsal margin, by its gape at both ends, and by the
+somewhat thinner shell. Sacella Woodring is quite diﬀerent from Yoldia, s. s., but
+Nuculana, s. s., is a close approach to the Yoldia myalis Couthouy group. Yoldia has</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="footnote">
+	<Coords>
+	<Point x="277" y="2779"/>
+	<Point x="1113" y="2779"/>
+	<Point x="1113" y="2818"/>
+	<Point x="277" y="2818"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1 Proc. Calif. Acad. Sci., Ser. 4, Vol. 4, p. 54, pl. 3, ﬁg. 2, 1914.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r19">
+	<Coords>
+	<Point x="931" y="520"/>
+	<Point x="1357" y="520"/>
+	<Point x="1357" y="548"/>
+	<Point x="931" y="548"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r20">
+	<Coords>
+	<Point x="218" y="2750"/>
+	<Point x="2051" y="2750"/>
+	<Point x="2051" y="2768"/>
+	<Point x="218" y="2768"/></Coords></SeparatorRegion>
+	<TextRegion id="r27" type="footnote">
+	<Coords>
+	<Point x="1691" y="2821"/>
+	<Point x="1691" y="2858"/>
+	<Point x="1275" y="2858"/>
+	<Point x="1275" y="2857"/>
+	<Point x="769" y="2857"/>
+	<Point x="769" y="2856"/>
+	<Point x="276" y="2856"/>
+	<Point x="276" y="2821"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2 Proc. U. S. Nat. Mus., Vol. 34, p. 375, pl. 34, ﬁg. 9, 1908, lower Miocene of Santa Cruz Quadrangle, Calif.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="footnote">
+	<Coords>
+	<Point x="767" y="2858"/>
+	<Point x="767" y="2859"/>
+	<Point x="1273" y="2859"/>
+	<Point x="1273" y="2860"/>
+	<Point x="1691" y="2860"/>
+	<Point x="1691" y="2899"/>
+	<Point x="276" y="2899"/>
+	<Point x="276" y="2858"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3 Washington Geol. Surv., Bull. 15, p. 56, pl. 12, ﬁgs. 104, 105, 1912.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="footnote">
+	<Coords>
+	<Point x="1691" y="2901"/>
+	<Point x="1691" y="2945"/>
+	<Point x="276" y="2945"/>
+	<Point x="276" y="2901"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4 Univ. Calif. Publ. Geol., Vol. 13, p. 147, pl. 1, ﬁgs. 1a-b, 1922.</Unicode></TextEquiv></TextRegion></Page></PcGts>

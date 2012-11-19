@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669246">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T19:11:52</Created>
+	<LastChange>2012-03-12T14:33:51</LastChange></Metadata>
+	<Page imageFilename="00669246.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="317" y="310"/>
+	<Point x="1749" y="310"/>
+	<Point x="1749" y="1161"/>
+	<Point x="317" y="1161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eux et avec les descriptions des auteurs, et d’en
+établir les caractères et la synonymie. Nous
+avons pu surtout remarquer que les espèces se
+répartissent en deux groupes bien distincts. Les
+uns, auxquels nous laissons le nom de Trachyp-
+tères, donné par Gouan à une de leurs espèces,
+ont les nageoires ventrales composées de plu‐
+sieurs rayons, et les autres, que nous appelle‐
+rons Gymnètres, avec Bloch, n’y ont qu’un seul
+rayon fort alongé et dilaté à son �xtrémité.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="305" y="1162"/>
+	<Point x="1752" y="1162"/>
+	<Point x="1754" y="1742"/>
+	<Point x="1409" y="1742"/>
+	<Point x="1404" y="1754"/>
+	<Point x="305" y="1754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il nous a paru que les premiers avaient
+tous une caudale singulièrement située, non
+pas au bout de la queue, mais au-dessus de
+son extrémité, et dirigée vers le haut; que
+leur ligne latérale était garnie d’écailles, armées
+chacune d’un crochet aigu; et que leurs mâ‐
+choires avaient toujours des dents prononcées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="321" y="1756"/>
+	<Point x="1413" y="1756"/>
+	<Point x="1415" y="1749"/>
+	<Point x="1759" y="1749"/>
+	<Point x="1761" y="2701"/>
+	<Point x="321" y="2701"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette nageoire caudale ne s’est point trou‐
+vée dans les autres; leur ligne latérale n’a
+aucune armure, et les dents, quand elles
+existent, sont si petites qu’on peut à peine
+les sentir. Ces deux derniers caractères nous
+paraissent assurés : quant à la caudale, nous
+n’oserions aﬃrmer que son absence n’ait pas
+été quelquefois le produit de la mutilation.
+Cet état dans lequel on rencontre ces poissons,
+dépend de la mollesse et du peu de con‐
+sistance de leurs parties, qui sont telles que les</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="325" y="204"/>
+	<Point x="465" y="204"/>
+	<Point x="465" y="286"/>
+	<Point x="325" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>314</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="743" y="217"/>
+	<Point x="1327" y="217"/>
+	<Point x="1327" y="286"/>
+	<Point x="743" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

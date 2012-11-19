@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668178">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T23:10:50</Created>
+	<LastChange>2012-02-10T09:52:42</LastChange></Metadata>
+	<Page imageFilename="00668178.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="266" y="186"/>
+	<Point x="369" y="186"/>
+	<Point x="369" y="246"/>
+	<Point x="266" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>178</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1050" y="179"/>
+	<Point x="1336" y="179"/>
+	<Point x="1336" y="236"/>
+	<Point x="1050" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ROOK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="267" y="303"/>
+	<Point x="2128" y="297"/>
+	<Point x="2129" y="428"/>
+	<Point x="266" y="432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Many readers of his life have, doubtless, held similar views with regard to Jack
+Sheppard.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="266" y="435"/>
+	<Point x="2130" y="431"/>
+	<Point x="2130" y="1111"/>
+	<Point x="261" y="1120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>As a matter of fact there appears to be no redeeming point in the character
+of the Hoodie, he is a scourge when wild and when kept as a pet; not only
+useless, but dangerous so long as he is alive: when dead, however, Herr Gätke
+tells us that the Heligolanders esteem him as an article of food. Lord Lilford
+says that “the habits of the bird are always abominable, and although, from the
+accident of its not nesting in our county, we are not exposed to the detriment
+from this thief to which those dwelling on the other side of the Tweed are
+subject, we have no plea to urge in defence of the Grey Crow, and hold him as
+a sturdy vagrant to be summarily dealt with at all times and in all places. We
+should be sorry to exterminate any bird; but this one could be better spared than
+any other with which we are acquainted.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="245" y="1533"/>
+	<Point x="764" y="1533"/>
+	<Point x="764" y="1621"/>
+	<Point x="245" y="1621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—CORVIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="983" y="1788"/>
+	<Point x="1409" y="1788"/>
+	<Point x="1409" y="1897"/>
+	<Point x="983" y="1897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ROOK.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="902" y="1950"/>
+	<Point x="1483" y="1950"/>
+	<Point x="1483" y="2047"/>
+	<Point x="902" y="2047"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Corvus frugilegus, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="325" y="2111"/>
+	<Point x="2132" y="2115"/>
+	<Point x="2128" y="2546"/>
+	<Point x="974" y="2549"/>
+	<Point x="961" y="2552"/>
+	<Point x="952" y="2549"/>
+	<Point x="260" y="2551"/>
+	<Point x="261" y="2304"/>
+	<Point x="326" y="2306"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N Western Europe the Rook breeds as far to the north as the Arctic circle,
+but not so far in the East. It is also found in the summer throughout
+Central and Southern Europe, being resident in the more southern portion
+of its range, but migratory in the more northern countries, whence at the approach
+of winter it retires to Southern Europe, North-east Africa, the Mediterranean
+islands, and Asia Minor. Eastwards it breeds in Western Siberia and Turkestan,
+wintering in North Persia, Afghanistan, Cashmere, and N. W. India.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="260" y="2553"/>
+	<Point x="948" y="2552"/>
+	<Point x="962" y="2556"/>
+	<Point x="979" y="2552"/>
+	<Point x="2120" y="2549"/>
+	<Point x="2122" y="2677"/>
+	<Point x="260" y="2676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In England, Wales, and Ireland the Rook is pretty generally distributed in
+all suitable localities; in Scotland though rarer and more local, it is rapidly</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="278" y="2122"/>
+	<Point x="320" y="2122"/>
+	<Point x="320" y="2260"/>
+	<Point x="278" y="2260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="1095" y="1329"/>
+	<Point x="1304" y="1329"/>
+	<Point x="1304" y="1346"/>
+	<Point x="1095" y="1346"/></Coords></SeparatorRegion></Page></PcGts>

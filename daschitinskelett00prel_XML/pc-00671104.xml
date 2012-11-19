@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671104">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:48:13</Created>
+	<LastChange>2012-03-12T14:34:04</LastChange></Metadata>
+	<Page imageFilename="00671104.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1187" y="336"/>
+	<Point x="1446" y="336"/>
+	<Point x="1446" y="385"/>
+	<Point x="1187" y="385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 42 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="243" y="446"/>
+	<Point x="2370" y="446"/>
+	<Point x="2370" y="695"/>
+	<Point x="243" y="695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>und es ist nur nötig, für jede einzelne Gruppe ihren morphologischen Wert festzustellen. Es kann also
+beispielsweise der Name Episternum bei Eosentomiden und Blattiden in gleicher Weise verwandt
+werden, wenn man nur berücksichtigt, daß es bei den ersteren den vorderen Teil des Mesopleurits,
+bei letzteren aber ein Fusionsprodukt dieses Stückes mit Propleurit und Acropleurit bedeutet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="248" y="700"/>
+	<Point x="2375" y="700"/>
+	<Point x="2375" y="1317"/>
+	<Point x="248" y="1317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diese durch die Nomenklatur zum Ausdruck gebrachte auffällige Gleichartigkeit in der Unter-
+gliederung der Sterna, Pleurae, Sympleurae und Terga von Eosentomon scheint nun auch für die Beur-
+teilung der Segmentzusammensetzung von großer Bedeutung zu sein. Bei der Betrachtung des
+Thorax von Eosentomon drängt sich einem bald die Vermutung auf, daß nicht nur in der Richtung
+der Körperaxe die Sklerite gruppenweise zueinander in näherer Beziehung stehen, sondern daß auch
+zwischen den transversal in gleicher Höhe liegenden ein engerer Zusammenhang besteht. Während
+in der longitudinalen Richtung die Sklerite als Komponenten der Terga, Sterna, Pleurae und Sym-
+pleurae zusammengehören, sind sie in der transversalen als Komponenten von Subsegmenten
+aufzufassen. Man kann also ein Acro-, Pro-, Meso- und Meta-Subsegment unterscheiden, deren jedes
+aus einem Tergit und Sternit und zwei Pleuriten und Sympleuriten (mit dem gleichen Präfix) besteht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="248" y="1319"/>
+	<Point x="2370" y="1319"/>
+	<Point x="2370" y="1753"/>
+	<Point x="248" y="1753"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Für die Richtigkeit der Deutung, daß es sich bei dieser Subsegmentgliederung um keine Zu-
+fälligkeit handelt, sprechen verschiedene Gründe. Zunächst ist bei allen primären Abdominalseg-
+menten von Acerentomon (weniger bei Eosentomon) in gleicher Weise wie bei Blattiden (Berlese),
+die Subsegmentierung klar zu erkennen. Sodann ist es auffällig, daß dieselbe besonders deutlich
+an den sekundär anamorphotisch entwickelten Ringen des Abdomens hervortritt. Von diesen aber,
+als erst im späteren Leben auftretenden Segmenten, ist anzunehmen, daß sie den Urtypus reiner bei-
+behalten haben (Berlese).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="238" y="1758"/>
+	<Point x="2368" y="1758"/>
+	<Point x="2368" y="2872"/>
+	<Point x="238" y="2872"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zu entscheiden ist jetzt noch, ob man in diesen Subsegmenten die Rudimente alter Metamere
+erblicken will oder nur eine sekundäre Erscheinung. Die Embryologie hat stets, mit alleiniger Aus-
+nahme der Ergebnisse von Patten, eindeutig gezeigt, daß jedes Segment des späteren Körpers
+einheitlich und mit einem einfachen Ganglienpaar angelegt wird. Solange das nicht mit Sicherheit
+widerlegt wird, und die Wahrscheinlichkeit dafür ist recht gering, muß man daran festhalten, daß
+jedes Metamer ein ganzes Segment liefert. Für die Proturen ließ sich in embryologischer Hinsicht
+noch nichts feststellen. Es ist aber bemerkenswert, daß gerade bei ihnen und anderen tiefer stehenden
+Insekten die Richtung der Grenze zwischen etwa verschmolzenen Segmenten kaum hervortritt,
+während stark abgeleitete Formen, wie Larven (Lampyris, Raphidia) und hochspezialisierte Imagines
+(Dipteren), eine viel ausgesprochenere Pseudopolymetamerie aufweisen. Auf der anderen Seite darf
+vielleicht darauf hingewiesen werden, daß in analoger Weise auch bei anderen Annulaten eine gewisse
+Neigung zur Bildung sekundärer Glieder nicht zu verkennen ist, wie sie z. B. in der sekundären Ringe-
+lung bei Malacopoden, Chaetopoden und Hirudinen zu Tage tritt. Schließlich ist die Verwandtschaft
+der Hexapoden mit den Chilopoden vielleicht doch nicht so eng, wie manchmal angenommen wird,
+so daß es nicht unbedingt erforderlich ist, für die Zwischensegmente der letzteren bei den Insekten
+Homologa zu finden. Abgesehen von der Interkalarsegmenttheorie Kolbes und anderer kommt
+aber keine Hypothese mehr für die Polymetamerie in Frage und man darf deshalb zunächst an der
+Monometamerie des Insektensegmentes festhalten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="240" y="2879"/>
+	<Point x="2370" y="2879"/>
+	<Point x="2370" y="3131"/>
+	<Point x="240" y="3131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Jedes Thorakalsegment ist also ursprünglich einheitlich und entspricht, wie das Abdominal-
+segment, nur einem Metamer. Sekundär zerfiel es durch „Ringelung“ in vier Subsegmente. Die Undeut-
+lichkeit dieser Subsegmentgliederung besonders bei höheren Insekten verdankt ihr Entstehen schließ-
+lich einer tertiären Verschweißung und Reduktion.</Unicode></TextEquiv></TextRegion></Page></PcGts>

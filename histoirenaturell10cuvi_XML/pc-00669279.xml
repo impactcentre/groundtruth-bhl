@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669279">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:46:46</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669279.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="101" y="258"/>
+	<Point x="1502" y="258"/>
+	<Point x="1502" y="516"/>
+	<Point x="101" y="516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ses ventrales, tout le reste de ses caractères
+et l’ensemble de ses formes sont absolument
+ceux des autres espèces de ce genre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="103" y="520"/>
+	<Point x="1502" y="518"/>
+	<Point x="1500" y="762"/>
+	<Point x="103" y="762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voici un extrait de ces descriptions faites,
+de l’aveu des auteurs, sur des individus secs
+et fort mal conservés:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="157" y="821"/>
+	<Point x="1525" y="821"/>
+	<Point x="1525" y="2645"/>
+	<Point x="157" y="2645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>« La tête est comprimée, ainsi que le corps; le
+tronc alongé, argenté; ses écailles tombent; la tête
+est droite en dessus, oblique en dessous, large au
+droit des narines; le front se rétrécit en dessus pour
+former la carène de la nuque; la mâchoire supé‐
+rieure a six dents assez grandes, aiguës et dirigées
+vers le fond de la bouche; l’inférieure est un peu
+plus courte et a huit dents semblables aux supé‐
+rieures. Le palais et la gorge en manquent. Ces
+échantillons avaient perdu leur membrane branchios-
+tège; il y a de chaque côté quatre branchies cou‐
+vertes d’un grand opercule. Le tronc diminue petit
+à petit, et ﬁnit par une queue pointue; la ligne
+latérale, courbée, suit le ventre, et a des écailles ob-
+longues, striées en étoile, aiguës: vers la queue elles
+ont chacune un aiguillon recourbé. La dorsale est
+arquée, commence à la nuque, ﬁnit avant le bout
+de la queue, et a aux environs près de deux cents
+rayons. Selon Brünnich, la caudale a dix rayons;
+Olafsen n’y en compte que cinq. Le ventre est rendu
+âpre par une double série de petits nœuds; tout le
+corps est argenté. Il y a du noir à la nuque et entre
+les yeux, une tache noire au dos, et une au-dessus
+de l’anus. Les nageoires du dos et de la queue sont</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1352" y="160"/>
+	<Point x="1497" y="160"/>
+	<Point x="1497" y="231"/>
+	<Point x="1352" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>347</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="486" y="163"/>
+	<Point x="1112" y="163"/>
+	<Point x="1112" y="237"/>
+	<Point x="486" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

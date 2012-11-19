@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669308">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T00:50:11</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669308.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/>
+	<RegionRefIndexed regionRef="r24" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="319" y="275"/>
+	<Point x="1733" y="275"/>
+	<Point x="1733" y="778"/>
+	<Point x="319" y="778"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>seul rayon terminé en rame, ce qui est plus
+conforme à ce que nous oﬀrent tous les autres
+gymnètres. Il ne serait pas même impossible
+que ce ne fût encore qu’un gymnetrus remipes
+des mers du Nord, entraîné par les courans
+sur les côtes de Cornouailles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="319" y="787"/>
+	<Point x="1737" y="787"/>
+	<Point x="1737" y="1230"/>
+	<Point x="319" y="1230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il resterait alors à connaître le gymnètre ori‑
+ginaire de Goa, qui fut envoyé à Bloch par
+Hawkins avec le dessin dont nous venons de
+parler. J’ai malheureusement omis de décrire
+ce poisson pendant mon séjour à Berlin.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="550" y="1373"/>
+	<Point x="1516" y="1373"/>
+	<Point x="1516" y="1457"/>
+	<Point x="550" y="1457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES GYMNÈTRES ÉTRANGERS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="317" y="1499"/>
+	<Point x="1749" y="1499"/>
+	<Point x="1749" y="1858"/>
+	<Point x="317" y="1858"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces gymnètres, comme beaucoup d’autres
+poissons de la Méditerranée, se retrouvent
+presque sans changement au cap de Bonne-
+Espérance.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="316" y="2125"/>
+	<Point x="1742" y="2125"/>
+	<Point x="1742" y="2483"/>
+	<Point x="316" y="2483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Verreaux vient d’en rapporter un de
+cette colonie, très-semblable a notre gladius,
+mais qui malheureusement a perdu en arrière
+une grande partie de sa longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="391" y="2498"/>
+	<Point x="1737" y="2498"/>
+	<Point x="1737" y="2658"/>
+	<Point x="391" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tel qu’il est, nous croyons encore observer des
+diﬀérences assez notables pour le regarder comme</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="332" y="180"/>
+	<Point x="480" y="180"/>
+	<Point x="480" y="258"/>
+	<Point x="332" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>376</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="750" y="182"/>
+	<Point x="1324" y="182"/>
+	<Point x="1324" y="255"/>
+	<Point x="750" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="672" y="1901"/>
+	<Point x="1393" y="1901"/>
+	<Point x="1393" y="1987"/>
+	<Point x="672" y="1987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le GYMNÈTRE DU CAP.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="662" y="2008"/>
+	<Point x="1407" y="2008"/>
+	<Point x="1407" y="2098"/>
+	<Point x="662" y="2098"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Gymnetrus capensis, nob.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="950" y="1285"/>
+	<Point x="950" y="1316"/>
+	<Point x="1133" y="1316"/>
+	<Point x="1133" y="1285"/></Coords></SeparatorRegion></Page></PcGts>

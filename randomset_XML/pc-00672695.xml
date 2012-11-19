@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672695">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:31:20</Created>
+	<LastChange>2012-02-10T10:29:44</LastChange></Metadata>
+	<Page imageFilename="00672695.tif" imageWidth="2666" imageHeight="3436">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r14" index="13"/>
+	<RegionRefIndexed regionRef="r15" index="14"/>
+	<RegionRefIndexed regionRef="r16" index="15"/>
+	<RegionRefIndexed regionRef="r17" index="16"/>
+	<RegionRefIndexed regionRef="r18" index="17"/>
+	<RegionRefIndexed regionRef="r19" index="18"/>
+	<RegionRefIndexed regionRef="r20" index="19"/>
+	<RegionRefIndexed regionRef="r21" index="20"/>
+	<RegionRefIndexed regionRef="r22" index="21"/>
+	<RegionRefIndexed regionRef="r23" index="22"/>
+	<RegionRefIndexed regionRef="r24" index="23"/>
+	<RegionRefIndexed regionRef="r25" index="24"/>
+	<RegionRefIndexed regionRef="r26" index="25"/>
+	<RegionRefIndexed regionRef="r27" index="26"/>
+	<RegionRefIndexed regionRef="r28" index="27"/>
+	<RegionRefIndexed regionRef="r29" index="28"/>
+	<RegionRefIndexed regionRef="r30" index="29"/>
+	<RegionRefIndexed regionRef="r31" index="30"/>
+	<RegionRefIndexed regionRef="r32" index="31"/>
+	<RegionRefIndexed regionRef="r33" index="32"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1043" y="585"/>
+	<Point x="1654" y="585"/>
+	<Point x="1654" y="660"/>
+	<Point x="1043" y="660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIST OF SUBJECTS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="483" y="704"/>
+	<Point x="1417" y="704"/>
+	<Point x="1417" y="768"/>
+	<Point x="483" y="768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Cape Teal. Anas capensis (Gmelin).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="487" y="775"/>
+	<Point x="1836" y="775"/>
+	<Point x="1836" y="836"/>
+	<Point x="487" y="836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Spur-winged Goose. Plectropterus gambensis (Linnaeus).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="485" y="844"/>
+	<Point x="1683" y="844"/>
+	<Point x="1683" y="902"/>
+	<Point x="485" y="902"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. Secretary Bird. Sagittarius serpentarius (Miller).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="486" y="905"/>
+	<Point x="1875" y="905"/>
+	<Point x="1875" y="968"/>
+	<Point x="486" y="968"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4. White-necked Vulture. Pseudogyps africanus (Salvadori).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="481" y="975"/>
+	<Point x="1851" y="975"/>
+	<Point x="1851" y="1032"/>
+	<Point x="481" y="1032"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5. Lappet-faced Vulture. Torgos tracheliotus nubicus Smith.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="487" y="1040"/>
+	<Point x="1872" y="1040"/>
+	<Point x="1872" y="1100"/>
+	<Point x="487" y="1100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6. White-headed Vulture. Trigonoceps occipitalis (Burchell).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="487" y="1106"/>
+	<Point x="1794" y="1106"/>
+	<Point x="1794" y="1167"/>
+	<Point x="487" y="1167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7. Egyptian Vulture. Neophron percnopterus (Linnaeus).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="489" y="1172"/>
+	<Point x="1904" y="1172"/>
+	<Point x="1904" y="1231"/>
+	<Point x="489" y="1231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8. Abyssinian Lanner. Falco biarmicus abyssinicus Neumann.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="483" y="1237"/>
+	<Point x="2187" y="1237"/>
+	<Point x="2187" y="1298"/>
+	<Point x="483" y="1298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>9. African Swallow-tailed Kite. Chelictinea riocourii (Vieillot and Oudart).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="466" y="1304"/>
+	<Point x="1854" y="1304"/>
+	<Point x="1854" y="1364"/>
+	<Point x="466" y="1364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10. Black-shouldered Kite. Elanus caeruleus (Desfontaines).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="460" y="1372"/>
+	<Point x="1727" y="1372"/>
+	<Point x="1727" y="1431"/>
+	<Point x="460" y="1431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>11. African Tawny Eagle. Aquila rapax raptor Brehm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="467" y="1437"/>
+	<Point x="1683" y="1437"/>
+	<Point x="1683" y="1498"/>
+	<Point x="467" y="1498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>12. Bateleur Eagle. Terathopius ecaudatus (Daudin).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="459" y="1504"/>
+	<Point x="1683" y="1504"/>
+	<Point x="1683" y="1564"/>
+	<Point x="459" y="1564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>13. Bateleur Eagle. Terathopius ecaudatus (Daudin).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="454" y="1570"/>
+	<Point x="1590" y="1570"/>
+	<Point x="1590" y="1629"/>
+	<Point x="454" y="1629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>14. African Sea Eagle. Cuncuma vocifer Daudin.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="458" y="1635"/>
+	<Point x="1872" y="1635"/>
+	<Point x="1872" y="1697"/>
+	<Point x="458" y="1697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>15. African Sea Eagle (Immature). Cuncuma vocifer Daudin.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="466" y="1704"/>
+	<Point x="2091" y="1704"/>
+	<Point x="2091" y="1764"/>
+	<Point x="466" y="1764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16. Bearded Vulture. Gypaetus barbatus meridionalis (Keys, and Blas.).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="464" y="1768"/>
+	<Point x="1771" y="1768"/>
+	<Point x="1771" y="1829"/>
+	<Point x="464" y="1829"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>17. African Harrier Hawk. Gymnogenys typicus (Smith).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="460" y="1832"/>
+	<Point x="1827" y="1832"/>
+	<Point x="1827" y="1897"/>
+	<Point x="460" y="1897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>18. Black-bellied Bustard. Lissotis melanogaster (Rüppell).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="458" y="1904"/>
+	<Point x="1932" y="1904"/>
+	<Point x="1932" y="1963"/>
+	<Point x="458" y="1963"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>19. Lowe’s Sand-grouse. Eremialector quadricinctus lowei Grant.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="455" y="1968"/>
+	<Point x="1479" y="1968"/>
+	<Point x="1479" y="2027"/>
+	<Point x="455" y="2027"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20. Green Pigeon. Vinago waalia (Meyer).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="458" y="2033"/>
+	<Point x="1689" y="2033"/>
+	<Point x="1689" y="2093"/>
+	<Point x="458" y="2093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21. Gray Plantain-eater. Crinifer zonurus (Rüppell).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="460" y="2100"/>
+	<Point x="1644" y="2100"/>
+	<Point x="1644" y="2160"/>
+	<Point x="460" y="2160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>22. Pigmy Kingﬁsher. Corythornis cristata (Pallas).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="454" y="2167"/>
+	<Point x="1845" y="2167"/>
+	<Point x="1845" y="2228"/>
+	<Point x="454" y="2228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>23. Gray-headed Kingﬁsher. Halcyon leucocephala (Müller).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="455" y="2233"/>
+	<Point x="1687" y="2233"/>
+	<Point x="1687" y="2293"/>
+	<Point x="455" y="2293"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>24. Crested Hornbill. Bycanistes cristatus (Rüppell).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="455" y="2300"/>
+	<Point x="1793" y="2300"/>
+	<Point x="1793" y="2359"/>
+	<Point x="455" y="2359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>25. African Night Heron. Nycticorax leuconotus (Wagler).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="458" y="2365"/>
+	<Point x="1660" y="2365"/>
+	<Point x="1660" y="2428"/>
+	<Point x="458" y="2428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>26. Narina Trogon. Apaloderma narina (Stephens).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="457" y="2432"/>
+	<Point x="1750" y="2432"/>
+	<Point x="1750" y="2490"/>
+	<Point x="457" y="2490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>27. Nile Helmet-shrike. Prionops concinnata Sundevall.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="452" y="2497"/>
+	<Point x="1719" y="2497"/>
+	<Point x="1719" y="2554"/>
+	<Point x="452" y="2554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>28. Thick-billed Raven. Corvultur crassirostris Brehm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="457" y="2561"/>
+	<Point x="1543" y="2561"/>
+	<Point x="1543" y="2623"/>
+	<Point x="457" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>29. Abyssinian Wolf. Canis simensis Rüppell.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="461" y="2630"/>
+	<Point x="1632" y="2630"/>
+	<Point x="1632" y="2689"/>
+	<Point x="461" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>30. Gelada Baboon. Theropithecus gelada Rüppell.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="460" y="2695"/>
+	<Point x="1632" y="2695"/>
+	<Point x="1632" y="2754"/>
+	<Point x="460" y="2754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>31. Gelada Baboon. Theropithecus gelada Rüppell.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="454" y="2760"/>
+	<Point x="1750" y="2760"/>
+	<Point x="1750" y="2824"/>
+	<Point x="454" y="2824"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>32. Abyssinian Duiker. Sylvicapra abyssinicus Thomas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

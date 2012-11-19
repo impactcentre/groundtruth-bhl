@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667825">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T06:33:19</Created>
+	<LastChange>2012-02-10T09:52:10</LastChange></Metadata>
+	<Page imageFilename="00667825.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="805" y="202"/>
+	<Point x="1357" y="202"/>
+	<Point x="1357" y="251"/>
+	<Point x="805" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GOLDEN ORIOLE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1949" y="216"/>
+	<Point x="1976" y="216"/>
+	<Point x="1976" y="255"/>
+	<Point x="1949" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="150" y="330"/>
+	<Point x="2003" y="330"/>
+	<Point x="2003" y="443"/>
+	<Point x="150" y="443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>week. We visited the place in the hope of discovering a nest, but were unsuc‐
+cessful.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="149" y="452"/>
+	<Point x="2011" y="452"/>
+	<Point x="2014" y="818"/>
+	<Point x="1268" y="822"/>
+	<Point x="357" y="829"/>
+	<Point x="149" y="828"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Ireland it has chieﬂy occurred on the east coast, most of the examples
+being females, or immature males; a specimen was recorded as shot in the Faroe
+Islands, in May, 1893, by Col. H. W. Feilden. In June, 1906, one was killed
+by a cat on the Marine Parade at Brighton. Perhaps the nearest point to
+London at which it has been recognized, was noted in the “Zoologist” for 1892,
+an example having apparently been seen in Richmond Park.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="152" y="842"/>
+	<Point x="2003" y="829"/>
+	<Point x="2007" y="831"/>
+	<Point x="2010" y="1504"/>
+	<Point x="1428" y="1510"/>
+	<Point x="1161" y="1511"/>
+	<Point x="150" y="1517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The male of this species is bright gamboge-yellow, the lores, wings (excepting
+the terminal third of the primary-coverts) and a great part of the tail black; the
+primaries, excepting the two outermost, are edged externally, and the secondaries
+are tipped with yellowish-white; the two central tail-feathers are yellowish at the
+base, and yellow at the tip, and the other feathers have the terminal third of the
+outer webs, and borders of the inner webs yellow; bill reddish-ochreous; feet
+leaden-grey; iris bright red. The female is much duller than the male, greener,
+and with the black colouring replaced by deep brown; the throat, breast, and
+centre of belly whitish; the throat, breast, and ﬂanks streaked with greyish.
+Young birds are greener and browner than the female, but otherwise similar;
+nestlings have the upper parts olivaceous, spotted with yellow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="157" y="1528"/>
+	<Point x="2013" y="1515"/>
+	<Point x="2018" y="2350"/>
+	<Point x="2017" y="2516"/>
+	<Point x="712" y="2516"/>
+	<Point x="160" y="2509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Golden Oriole frequents gardens, groves, plantations, thickets, and the
+outskirts of large woods, especially in the neighbourhood of water; it seems to
+prefer the haunts of man, yet is so shy that it rarely remains in view for more
+than a minute as it ﬂies rapidly, in somewhat Thrush-like, though more undulating
+fashion, from cover to cover; choosing ever the densest foliage, as if aware of the
+perilous brilliance of its plumage: possibly it may slowly be acquiring a hereditary
+knowledge of the fact that, if but a glimpse is obtained of it, an attempt at least
+is made to put an end to its life; or if it fails to comprehend so much, it may
+inherit a dread of the thunder and lightning which, for generations, have heralded
+its appearance: birds are not naturally fearful of man ; for even those which have
+been taught by their parents to dread him, can be generally converted by gentleness
+and petting: moreover the fact that a grown man can tame a small bird, whereas
+even the tamest will always show the greatest fear of a little boy, certainly seems
+to prove that the instinctive dread of the monkey-nature in the latter is deeply
+implanted in all birds; just as is that of a cat, even though that animal may
+never have been seen by the bird previously.*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="173" y="2556"/>
+	<Point x="2010" y="2556"/>
+	<Point x="2010" y="2716"/>
+	<Point x="173" y="2716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* I found that Thrushes, Blackbirds, and Starlings, taken quite young from the nest, and hand-reared,
+showed the utmost alarm when they caught sight of a cat in my garden. I ﬁnd that all birds fear boys much
+more than girls, but especially when the children are quite young. These facts are entirely opposed to Charles
+Dixon's theory that everything has to be learned by each individual, nothing being instinctive or inherited.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672316">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:38:24</Created>
+	<LastChange>2012-02-10T09:54:28</LastChange></Metadata>
+	<Page imageFilename="00672316.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="308" y="292"/>
+	<Point x="2053" y="292"/>
+	<Point x="2053" y="653"/>
+	<Point x="308" y="653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tabelle der bisher in Kleinasien aufgefundenen Lepi-
+dopteren-Arten nach den einzelnen Lokalitäten und im
+Vergleich zu den Arten des europäischen Faunengebiets
+nach dem Catalog von Staudinger und Wocke 1871.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords>
+	<Point x="300" y="699"/>
+	<Point x="2036" y="699"/>
+	<Point x="2036" y="1542"/>
+	<Point x="300" y="1542"/></Coords></TableRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="298" y="1733"/>
+	<Point x="2037" y="1733"/>
+	<Point x="2037" y="1928"/>
+	<Point x="298" y="1928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tabelle der Genera in gleicher Weise. (Nur die hier
+neu aufgestellten sind in der I Colonne mitgezählt.)</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords>
+	<Point x="304" y="1978"/>
+	<Point x="2033" y="1978"/>
+	<Point x="2033" y="2782"/>
+	<Point x="304" y="2782"/></Coords></TableRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1008" y="107"/>
+	<Point x="1321" y="107"/>
+	<Point x="1321" y="171"/>
+	<Point x="1008" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 122 —</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="1005" y="2939"/>
+	<Point x="1326" y="2939"/>
+	<Point x="1326" y="2980"/>
+	<Point x="1005" y="2980"/></Coords></SeparatorRegion></Page></PcGts>

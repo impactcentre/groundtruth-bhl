@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672266">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T13:55:50</Created>
+	<LastChange>2012-02-10T09:54:16</LastChange></Metadata>
+	<Page imageFilename="00672266.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1004" y="119"/>
+	<Point x="1309" y="119"/>
+	<Point x="1309" y="197"/>
+	<Point x="1004" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 72 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="295" y="254"/>
+	<Point x="2023" y="254"/>
+	<Point x="2023" y="426"/>
+	<Point x="295" y="426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nudaria Mundana L. Von Mann im Juli auf hochge‑
+legenen Berglehnen bei Brussa gefunden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="301" y="432"/>
+	<Point x="2023" y="432"/>
+	<Point x="2023" y="588"/>
+	<Point x="301" y="588"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Psycha Lutea Stgr. Nach den Untersuchungen des Dr.
+Heylaerts ist dies eine gute von Febretta verschiedene Art.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="276" y="594"/>
+	<Point x="2032" y="594"/>
+	<Point x="2032" y="1167"/>
+	<Point x="276" y="1167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Agrotis Depuncta L. var. Johann sandte ein am 3 Octo-
+ber gefangenes abgeﬂogenes ♀ ein, das sich ziemlich wesent‑
+lich von allen mir vorliegenden europäischen Stücken unter‑
+scheidet. Es ist viel blasser, die sonst schwarzen Zeichnun‑
+gen der Vorderﬂügel sind bräunlich oder verloschen und die
+Hintcrﬂügel weiss mit dunklem Aussenrand. Typische De‑
+puncta ♀♀ haben stets ganz dunkle Hinterﬂügel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="277" y="1175"/>
+	<Point x="2027" y="1175"/>
+	<Point x="2026" y="1743"/>
+	<Point x="279" y="1743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Agr. Candelisequa Hb. (Sagittifera Hb.) und v. (ab.)
+Rana Ld. Johann sandte ein am rechten Vorderﬂügel ver‑
+krüppeltes, sonst anscheinend (am 15 Juli) gezogenes Stück
+ein, das mit östreichischen fast gleich ist. Ein zweites, oﬀen‑
+bar geﬂogenes Stück gehört der var. oder ab. Rana Ld. an,
+wo die schwarzen Zeichnungen sehr rudimentär werden, even‑
+tuell ganz verschwinden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="292" y="1750"/>
+	<Point x="2020" y="1750"/>
+	<Point x="2020" y="1988"/>
+	<Point x="292" y="1988"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Agr. Crassa Hb. Hiervon sandte Johann ein ♂ ein mit
+lichtgrauen Vorderﬂügeln, die einen fast schwarzen Vorder-
+randstheil haben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="264" y="2000"/>
+	<Point x="2020" y="2000"/>
+	<Point x="2020" y="2822"/>
+	<Point x="264" y="2822"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dianthoecia Luteago Hb. v. Argillacea Hb. Ich erhielt
+noch fünf sehr dunkle Argillacea von Johann, und glaube ich
+jetzt ziemlich sicher, dass die D. Barrettii aus Irland eine
+noch dunklere Form dieser Art ist. Mr. Meek schrieb mir
+neulich, dass die Raupe davon in den Wurzeln der Silene ma‑
+ritima entdeckt ist. Da die von Luteago durch meinen alten
+Freund de Graslin in den Wurzeln der Silene inﬂata ent‑
+deckt wurde, ist die Lebensweise beider Formen ganz dieselbe
+und ganz verschieden von denen anderer bekannter Dianthoe-
+cia-Raupen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="288" y="2829"/>
+	<Point x="2011" y="2829"/>
+	<Point x="2011" y="3086"/>
+	<Point x="288" y="3086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aporophyla Australis B. (ab.) v. Scriptura Frr. (ab.) v.
+Ingenua Frr. Von etwa zwanzig Stücken, die mir Johann
+noch sandte, gehörte fast die grössere Hälfte zur Ingenua Frr.,</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669092">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:53:59</Created>
+	<LastChange>2012-02-09T16:27:32</LastChange></Metadata>
+	<Page imageFilename="00669092.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r13" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="427" y="1383"/>
+	<Point x="1789" y="1368"/>
+	<Point x="1789" y="2590"/>
+	<Point x="422" y="2590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le duodénum revient le long de l’æsophage
+presque jusque sous le diaphragme; il diminue de
+diamètre, se roule six ou sept fois sur lui-même,
+augmente de grosseur, et débouche à l’anus par un
+rectum assez large. Le foie se compose de deux lobes,
+dont le gauche est trois fois plus gros que le droit;
+le premier lobe est quadrilatère, tandis que le second
+a la forme d’un triangle isocèle, dont le sommet est
+très-aigu. La vésicule du ﬁel est tout-à-fait ronde,
+de la grosseur d’un fort pois, elle est suspendue à
+un canal cholédoque si long qu’elle est placée au-
+delà de la crosse de l’æsophage; le canal en longe la
+face dorsale, se replie entre les deux lobes du foie,
+y reçoit un grand nombre de vaisseaux hépato-cys-
+tiques, descend ensuite en dessous de l’æsophage,
+et verse la bile dans l’intestin près de l’insertion d’un</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="349" y="110"/>
+	<Point x="485" y="110"/>
+	<Point x="485" y="180"/>
+	<Point x="349" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>160</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="794" y="112"/>
+	<Point x="1323" y="112"/>
+	<Point x="1323" y="180"/>
+	<Point x="794" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="355" y="204"/>
+	<Point x="1774" y="204"/>
+	<Point x="1774" y="547"/>
+	<Point x="355" y="547"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tion de M. Freycinet. Nous en avons trouvé
+une ﬁgure dans les dessins de poissons faits à
+Siam par le docteur Finlayson, et qui sont
+conservés à la compagnie des Indes à Londres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="397" y="550"/>
+	<Point x="1776" y="550"/>
+	<Point x="1774" y="1364"/>
+	<Point x="395" y="1380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cet amphacanthe a l’intestin roulé sur lui-même
+seulement dans l’hypocondre droit. L’estomac et
+l’æsophage se voient à l’ouverture de l’abdomen
+dans le côté gauche, ainsi que la rate. L’æsophage est
+très-grand à sa naissance, il descend tout droit en
+s’amincissant jusqu’aux trois quarts de la longueur
+de l’abdomen; il se courbe et remonte jusqu’à la
+moitié du canal æsophagien, où il s’élargit un peu
+et forme l’estomac. Il y a quatre appendices cæcales
+au pylore, dont deux ont leurs pointes dirigées
+vers le diaphragme.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669319">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:51:25</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669319.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="569" y="192"/>
+	<Point x="912" y="192"/>
+	<Point x="912" y="275"/>
+	<Point x="569" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1316" y="173"/>
+	<Point x="1462" y="173"/>
+	<Point x="1462" y="266"/>
+	<Point x="1316" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>387</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="433" y="382"/>
+	<Point x="1078" y="382"/>
+	<Point x="1078" y="467"/>
+	<Point x="433" y="467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SECONDE TRIBU.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="275" y="514"/>
+	<Point x="1266" y="514"/>
+	<Point x="1266" y="607"/>
+	<Point x="275" y="607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES TÆNIOÏDES A BOUCHE FENDUE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="46" y="624"/>
+	<Point x="1467" y="624"/>
+	<Point x="1467" y="1660"/>
+	<Point x="46" y="1660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette tribu ne comprend que deux genres
+et qu’un très-petit nombre d’espèces. Ces
+deux genres, les Cépoles et les Lophotes, dif‐
+fèrent beaucoup entre eux par la taille et
+par les crêtes, qui élèvent la tête de ce der‐
+nier, lequel est un poisson fort rare et qui
+n’a été observé que par un petit nombre de
+naturalistes, quoiqu’il soit originaire de la
+Méditerranée. Nous commencerons l’histoire
+de ces poissons par les Cépoles, qui sont mieux
+connues et qui appartiennent aux deux mers
+de nos côtes de France.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="658" y="1921"/>
+	<Point x="658" y="1962"/>
+	<Point x="858" y="1962"/>
+	<Point x="858" y="1921"/></Coords></SeparatorRegion></Page></PcGts>

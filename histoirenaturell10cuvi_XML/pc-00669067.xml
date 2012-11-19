@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669067">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:20:44</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669067.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="112" y="260"/>
+	<Point x="1538" y="260"/>
+	<Point x="1538" y="1987"/>
+	<Point x="1153" y="1984"/>
+	<Point x="783" y="1992"/>
+	<Point x="373" y="1997"/>
+	<Point x="361" y="1999"/>
+	<Point x="265" y="1997"/>
+	<Point x="223" y="2002"/>
+	<Point x="112" y="2002"/>
+	<Point x="111" y="1999"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons examiné avec détail les viscères de
+cette espèce. Le lobe gauche du foie est aplati, large
+et divisé en quatre digitations; le lobe droit est petit,
+trièdre et très-pointu, encore plus que celui de l’am-
+phacanthus doliatus. La vésicule du ﬁel est globuleuse
+et suspendue à un long canal cholédoque capillaire,
+qui reçoit du lobe gauche des vaisseaux hépato-
+cystiques plus gros que lui, et qui, devenant un peu
+plus fort, descend entre les replis de l’intestin le
+long du duodénum et va déboucher à la base de
+l’un des cæcums. La vésicule du ﬁel et le canal sont
+d’un beau blanc. L’æsophage est long, cylindrique;
+descendu jusqu’au fond de l’abdomen, il se replie
+et se continue en un estomac alongé, étroit et
+court, dont les parois ont l’apparence plus charnue
+que celles de l’æsophage. Il y a quatre cæcums au
+pylore; tous dirigés vers l’arrière de l’abdomen; le
+canal intestinal est entièrement sur le côté droit
+de l’æsophage et de l’estomac; il s’enroule en spirale
+de cinq à six tours, d’abord de droite à gauche,
+puis il revient de gauche à droite, de manière que
+le rectum débouche à l’anus près de la hauteur du
+pylore.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="110" y="2006"/>
+	<Point x="528" y="2003"/>
+	<Point x="687" y="1998"/>
+	<Point x="1170" y="1993"/>
+	<Point x="1535" y="1992"/>
+	<Point x="1525" y="2516"/>
+	<Point x="863" y="2522"/>
+	<Point x="98" y="2518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La rate est plus grande, plus aplatie et plus
+alongée que celle de l’amphacanthus doliatus; mais
+elle est placée au même endroit. La vessie aérienne
+est très-grande, un peu comprimée de droite à
+gauche, et ayant les empreintes très-fortes des côtes
+sur lesquelles elle s’appuie; ses parois sont ﬁbreuses
+et brillent d’un bel éclat argenté.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="192" y="2527"/>
+	<Point x="700" y="2526"/>
+	<Point x="866" y="2526"/>
+	<Point x="1510" y="2522"/>
+	<Point x="1505" y="2612"/>
+	<Point x="193" y="2612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les laitances sont très-petites et placées vers l’ar-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="468" y="152"/>
+	<Point x="1090" y="152"/>
+	<Point x="1090" y="250"/>
+	<Point x="468" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1343" y="152"/>
+	<Point x="1413" y="150"/>
+	<Point x="1502" y="152"/>
+	<Point x="1502" y="250"/>
+	<Point x="1343" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>135</Unicode></TextEquiv></TextRegion></Page></PcGts>

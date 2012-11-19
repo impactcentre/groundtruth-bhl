@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667949">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T06:46:02</Created>
+	<LastChange>2012-02-10T09:52:25</LastChange></Metadata>
+	<Page imageFilename="00667949.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r21" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r11" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="939" y="194"/>
+	<Point x="1266" y="194"/>
+	<Point x="1266" y="285"/>
+	<Point x="939" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SERIN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1957" y="230"/>
+	<Point x="2024" y="230"/>
+	<Point x="2024" y="280"/>
+	<Point x="1957" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>61</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="156" y="328"/>
+	<Point x="2033" y="328"/>
+	<Point x="2033" y="471"/>
+	<Point x="156" y="471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>may have escaped from some ship passing our shores, or (soon after importation)
+from an aviary.*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="156" y="476"/>
+	<Point x="2037" y="475"/>
+	<Point x="2033" y="718"/>
+	<Point x="154" y="727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This bird, sometimes called “Scarlet Grosbeak,” is, superﬁcially, in no respect
+like a Bullﬁnch; whereas in notes, form of beak, outline of body, and behaviour,
+it approaches the Serins. After its ﬁrst moult in captivity the male loses all its
+rosy colouring, just as the Crossbill does.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="883" y="1427"/>
+	<Point x="1304" y="1427"/>
+	<Point x="1304" y="1511"/>
+	<Point x="883" y="1511"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SERIN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="790" y="1591"/>
+	<Point x="1397" y="1591"/>
+	<Point x="1397" y="1669"/>
+	<Point x="790" y="1669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Serinus hortulanus, KOCH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="298" y="1901"/>
+	<Point x="298" y="1738"/>
+	<Point x="861" y="1731"/>
+	<Point x="2023" y="1727"/>
+	<Point x="2023" y="1979"/>
+	<Point x="147" y="1993"/>
+	<Point x="150" y="1904"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R. SHARPE gives the geographical distribution of this species as:—
+“Central and Southern Europe, ranging eastwards to Asia Minor, Palestine,
+and Egypt: and northwards to Northern Germany, Denmark, and occasion‐
+ally the British Islands.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="146" y="1997"/>
+	<Point x="2023" y="1992"/>
+	<Point x="2019" y="2502"/>
+	<Point x="143" y="2499"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Although there is no absolute proof that the few specimens of this species
+which have been obtained in Great Britain may not all have escaped from con‐
+ﬁnement, the Serin being a well-known and tolerably freely imported cage-bird;
+the fact that it breeds in the Netherlands, renders it quite possible, and even
+probable, that they may have been stragglers to our coasts. Seebohm observes:—
+“It is said that a Serin was caught near Portsmouth, in April, 1852, another at
+Taunton, in 1866, and a third at Worthing, in 1869; but by far the greater
+number are those brought by the Brighton bird-catchers to Mr. Swaysland. Rarely</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="155" y="2509"/>
+	<Point x="2019" y="2510"/>
+	<Point x="2021" y="2719"/>
+	<Point x="153" y="2726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Mr. Howard Saunders told me that he believed the two specimens recorded by him were genuine
+wanderers to our shores, because they were both in the dull plumage of young birds, and, therefore, were not
+likely to have been imported. But both hens and young birds are imported, whilst cocks soon lose their
+distinctive colouring in captivity. The idea that a captive must necessarily show evidence of having been in
+captivity is absurd, many captives being far more perfect in plumage than wild birds.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="156" y="1731"/>
+	<Point x="156" y="1895"/>
+	<Point x="293" y="1895"/>
+	<Point x="293" y="1731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="247" y="2735"/>
+	<Point x="247" y="2782"/>
+	<Point x="380" y="2782"/>
+	<Point x="380" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1689" y="2731"/>
+	<Point x="1689" y="2782"/>
+	<Point x="1750" y="2782"/>
+	<Point x="1750" y="2731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="803" y="1197"/>
+	<Point x="803" y="1217"/>
+	<Point x="802" y="1217"/>
+	<Point x="802" y="1239"/>
+	<Point x="801" y="1239"/>
+	<Point x="801" y="1261"/>
+	<Point x="800" y="1261"/>
+	<Point x="800" y="1264"/>
+	<Point x="150" y="1264"/>
+	<Point x="150" y="1197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="2034" y="1197"/>
+	<Point x="2034" y="1264"/>
+	<Point x="1329" y="1264"/>
+	<Point x="1329" y="1250"/>
+	<Point x="1328" y="1250"/>
+	<Point x="1328" y="1216"/>
+	<Point x="1327" y="1216"/>
+	<Point x="1327" y="1197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="957" y="947"/>
+	<Point x="957" y="1005"/>
+	<Point x="1225" y="1005"/>
+	<Point x="1225" y="947"/></Coords></SeparatorRegion></Page></PcGts>

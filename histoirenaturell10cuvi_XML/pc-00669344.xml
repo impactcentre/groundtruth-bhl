@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669344">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:54:23</Created>
+	<LastChange>2012-03-12T14:33:57</LastChange></Metadata>
+	<Page imageFilename="00669344.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="451" y="275"/>
+	<Point x="1837" y="275"/>
+	<Point x="1837" y="1267"/>
+	<Point x="451" y="1267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>niques sont très-charnues; l'intestin se porte en avant
+de six pouces, et rebrousse subitement pour se
+rendre droit à l'anus; il est fort mince, car son
+diamètre n'est presque partout que de quatre lignes.
+Les ovaires, longs et minces, s'étendaient sur une
+longueur de onze pouces; leur partie postérieure
+était plus épaisse et plus rouge que le reste. Une
+vessie aérienne suivait la direction des ovaires, et
+se divisait en deux bras qui, traversant un faisceau
+de muscles, se rattachaient à une autre vessie de
+même nature; mais à parois plus épaisses, qui se
+portaient en avant en se rétrécissant jusque vers les
+branchies.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords>
+	<Point x="1014" y="1691"/>
+	<Point x="1228" y="1691"/>
+	<Point x="1228" y="1726"/>
+	<Point x="1014" y="1726"/></Coords></SeparatorRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="552" y="174"/>
+	<Point x="552" y="255"/>
+	<Point x="403" y="255"/>
+	<Point x="403" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>412</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="1410" y="174"/>
+	<Point x="1410" y="255"/>
+	<Point x="817" y="255"/>
+	<Point x="817" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

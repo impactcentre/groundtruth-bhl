@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672186">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:12:20</Created>
+	<LastChange>2012-02-10T09:53:56</LastChange></Metadata>
+	<Page imageFilename="00672186.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1041" y="137"/>
+	<Point x="1334" y="137"/>
+	<Point x="1334" y="180"/>
+	<Point x="1041" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— XIV —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="346" y="272"/>
+	<Point x="2043" y="272"/>
+	<Point x="2043" y="533"/>
+	<Point x="346" y="533"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alsdann wurde mitgetheilt der Vorschlag von А. А. К use ha¬
+k e w i t s с h, seine von ihm im Ferganschen, Pamirsechen, Alaischen
+und Semiretschenschen Kreise gesammelten entomologischen Mate¬
+rialien zu bearbeiten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="347" y="559"/>
+	<Point x="2042" y="559"/>
+	<Point x="2042" y="685"/>
+	<Point x="347" y="685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N. A. Poletaiew machte Mittheilungen über die Flügelmus¬
+keln der Rhopaloceren.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="343" y="700"/>
+	<Point x="2046" y="700"/>
+	<Point x="2046" y="1532"/>
+	<Point x="343" y="1532"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es lassen sich die Flugmuskeln der Lepidoptera in drei Gruppen
+eintheilen: 1) ein medianer (natürlich paariger) Rückenmuskel, wel¬
+cher der Länge nach oben im Mesothorax verläuft und den Flügel
+senkt; 2) laterale dorsoventrale Muskeln des Meso- und Metathorax;
+sie liegen unmittelbar der seitlichen Körperwandung an, befestigen
+sich oben an &lt;Gelenkknöchelchen&gt; der Flügel, unten an die Seiten-
+theile des Skelettes und senken die Flügel; 3) mittlere dorsoventrale
+Muskeln, welche zwischen dem Rückenmuskel und den lateralen Mus¬
+keln gelegen sind, sich oben an die Rückenwandung und unten an
+das Skelet der Beine befestigen; sie heben die Flügel. Nur zwei Mus¬
+keln inseriren sich oben mittels Sehnen an den Flügeln. Die Rota¬
+tionsachsen der Flügel verlaufen parallel der Körperachse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="344" y="1547"/>
+	<Point x="2041" y="1547"/>
+	<Point x="2041" y="1743"/>
+	<Point x="344" y="1743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J. A. P о r t s с h i n s к y machte, nach offiziellen Angaben, Mit¬
+theilungen über diejenigen schädlichen Insekten, die den grössten
+Schaden im Jahre 1879 angerichtet haben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="343" y="1759"/>
+	<Point x="2043" y="1759"/>
+	<Point x="2043" y="2520"/>
+	<Point x="343" y="2520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Anzahl der schädlichen Insekten im Jahre 1879 war im All¬
+gemeinen sehr bedeutend. Anisoptia austriaca hat weniger Schaden
+angerichtet als im vorigen Jahre. Dagegen ist Cephus pygmaeus in
+einer grossen Menge aufgetreten. Ebenso erschienen massenhaft
+Cecidomyia destruetor und Athalia spinarum. Auf Raps waren ausser
+Athalia auch viele Raupen von Botys margaritalis. Dem Flachse ha¬
+ben Raupen von Conchylis epilinana und Raupen von Plusia gamma,
+die in grossen Mengen auftraten, viel geschadet. Dem Getreide waren
+Raupen von Agrotis segdum und Agrotis exclamatinis sehr schäd¬
+lich. Ausserdem sind noch als schädliche Insekten Dorcadion pigrum,
+Stauronotus und Gomphoceros aufgetreten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="680" y="2656"/>
+	<Point x="1707" y="2656"/>
+	<Point x="1707" y="2726"/>
+	<Point x="680" y="2726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Extra-Sitzung am 17 (29) December</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="552" y="2790"/>
+	<Point x="1839" y="2790"/>
+	<Point x="1839" y="2825"/>
+	<Point x="552" y="2825"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>unter dem Vorsitze des Viee-Präsidenten Ed. Brandt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="349" y="2894"/>
+	<Point x="2040" y="2894"/>
+	<Point x="2040" y="3098"/>
+	<Point x="349" y="3098"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nach der Bestätigung des Protocolls der vorigen Sitzung, fanden
+nach den Statuten der Russischen Entomologischen Gesellschaft Wahlen
+des Präsidenten und anderer Mitglieder des Conseils statt,</Unicode></TextEquiv></TextRegion></Page></PcGts>

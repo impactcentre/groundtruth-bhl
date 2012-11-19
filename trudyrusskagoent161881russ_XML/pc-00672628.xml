@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672628">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T04:08:06</Created>
+	<LastChange>2012-02-10T09:55:25</LastChange></Metadata>
+	<Page imageFilename="00672628.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r19" index="2"/>
+	<RegionRefIndexed regionRef="r23" index="3"/>
+	<RegionRefIndexed regionRef="r25" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/>
+	<RegionRefIndexed regionRef="r17" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/>
+	<RegionRefIndexed regionRef="r7" index="8"/>
+	<RegionRefIndexed regionRef="r8" index="9"/>
+	<RegionRefIndexed regionRef="r9" index="10"/>
+	<RegionRefIndexed regionRef="r10" index="11"/>
+	<RegionRefIndexed regionRef="r11" index="12"/>
+	<RegionRefIndexed regionRef="r12" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="983" y="152"/>
+	<Point x="1309" y="152"/>
+	<Point x="1309" y="233"/>
+	<Point x="983" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 432 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="264" y="285"/>
+	<Point x="2011" y="285"/>
+	<Point x="2011" y="571"/>
+	<Point x="264" y="571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Hesperia Thaumas Hufn. ayant été trouvée, par l'ex-
+pédition Fedschenko, dans le Turkestan, il est plus que pro-
+bable qu'elle habite aussi les localités que nous visitâmes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="776" y="621"/>
+	<Point x="1514" y="621"/>
+	<Point x="1514" y="719"/>
+	<Point x="776" y="719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>111. H. Sylvanus Esp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="266" y="1357"/>
+	<Point x="2016" y="1357"/>
+	<Point x="2016" y="1545"/>
+	<Point x="266" y="1545"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Var. major, supra obscurior: subtus viridior, maculis al-
+bis magnis, distinctissimis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="259" y="1590"/>
+	<Point x="2021" y="1590"/>
+	<Point x="2021" y="1850"/>
+	<Point x="259" y="1850"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Plus grande que le type Européen, avec la partie exté-
+rieure des ailes plus foncée, ressemblant en cela à certains
+individus de la var. Catena Stgr. de la Lapponie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="259" y="1859"/>
+	<Point x="2023" y="1859"/>
+	<Point x="2023" y="2185"/>
+	<Point x="259" y="2185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les deuxièmes ailes plus vertes, plus foncées, en dessous,
+avec les taches blanches grandes et nettes. Ces taches blanches
+ne sont pas limitées de noirâtre, comme c'est souvent le cas
+chez le type et les variétés, que nous connaissons déjà.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="273" y="2192"/>
+	<Point x="2023" y="2192"/>
+	<Point x="2023" y="2352"/>
+	<Point x="273" y="2352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je n'ai pris, à mon grand regret, que trois exemplaires
+de cette variété, sur le Jouldousse en Juillet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="264" y="2361"/>
+	<Point x="2038" y="2361"/>
+	<Point x="2038" y="2599"/>
+	<Point x="264" y="2599"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je ne doute pas que ces individus appartiennent à une va-
+riété, qui, outre la taille, présente un mélange de caractères
+propres aux autres variétés locales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="261" y="2607"/>
+	<Point x="2011" y="2607"/>
+	<Point x="2011" y="2783"/>
+	<Point x="261" y="2783"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est entre 8000 et 9000 pieds d'élévation, que je pris
+les trois individus de la var. Mixta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="400" y="2904"/>
+	<Point x="1050" y="2904"/>
+	<Point x="1050" y="2985"/>
+	<Point x="400" y="2985"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Taganrog, le 22 Mars 1881.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="973" y="3095"/>
+	<Point x="1285" y="3095"/>
+	<Point x="1285" y="3111"/>
+	<Point x="973" y="3111"/></Coords></SeparatorRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="1730" y="1092"/>
+	<Point x="1730" y="1199"/>
+	<Point x="566" y="1199"/>
+	<Point x="566" y="1092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>112. H. Соmmа L. var. Mixta Alph.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1730" y="1201"/>
+	<Point x="1730" y="1307"/>
+	<Point x="566" y="1307"/>
+	<Point x="566" y="1201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ 33; ♀♀ 36—36½ mill.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="2021" y="759"/>
+	<Point x="2021" y="853"/>
+	<Point x="361" y="853"/>
+	<Point x="361" y="759"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En Juin et Juillet, partout dans les montagnes, mais râre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="2021" y="855"/>
+	<Point x="2021" y="934"/>
+	<Point x="361" y="934"/>
+	<Point x="361" y="855"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je ne l'ai pas prise au dessus de 6500' d'altitude.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="2021" y="936"/>
+	<Point x="2021" y="1033"/>
+	<Point x="361" y="1033"/>
+	<Point x="361" y="936"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parfaitement pareils aux individus d'Europe.</Unicode></TextEquiv></TextRegion></Page></PcGts>

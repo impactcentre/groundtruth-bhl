@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672745">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:05:40</Created>
+	<LastChange>2012-02-10T10:29:46</LastChange></Metadata>
+	<Page imageFilename="00672745.tif" imageWidth="2159" imageHeight="3212">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<ImageRegion id="r2">
+	<Coords>
+	<Point x="145" y="1045"/>
+	<Point x="1783" y="1045"/>
+	<Point x="1783" y="1479"/>
+	<Point x="145" y="1479"/></Coords></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="158" y="1711"/>
+	<Point x="1771" y="1711"/>
+	<Point x="1771" y="1879"/>
+	<Point x="158" y="1879"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The hour stroke of the clock may be rendered by striking A-ﬂat
+after playing the above chime.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="139" y="733"/>
+	<Point x="1807" y="733"/>
+	<Point x="1807" y="831"/>
+	<Point x="139" y="831"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE HOUR STROKE OF THE WESTMINISTER CHIME</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="607" y="837"/>
+	<Point x="1320" y="837"/>
+	<Point x="1320" y="914"/>
+	<Point x="607" y="914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>By LILLIAN C. BOUTELLE</Unicode></TextEquiv></TextRegion></Page></PcGts>

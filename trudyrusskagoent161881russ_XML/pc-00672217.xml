@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672217">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:16:47</Created>
+	<LastChange>2012-02-10T09:54:04</LastChange></Metadata>
+	<Page imageFilename="00672217.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="780" y="169"/>
+	<Point x="1111" y="169"/>
+	<Point x="1111" y="254"/>
+	<Point x="780" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 23 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="66" y="304"/>
+	<Point x="1826" y="304"/>
+	<Point x="1826" y="1137"/>
+	<Point x="66" y="1137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iette tient, chez la larve, la direction des axes de rotation des
+hanches, ceux-ci produisant avec l’axe de la larve un angle à
+peu près droit. Ensuite la diﬀérence ultérieure entre le sque‐
+lette thoracique de la larve et de l’imago consiste dans le
+remplacement des ailes par les fourreaux et dans le dévelop‐
+pement progressif des pièces servant de points d’attache aux
+muscles alaires. Il va sans dire qu’il ne s’agit ici que de
+diﬀérences, qui ont plus ou moins d’importance relativement à
+ceux-ci. Ces diﬀérences seront notées lors de la description des
+muscles mêmes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="64" y="1145"/>
+	<Point x="1826" y="1145"/>
+	<Point x="1826" y="3151"/>
+	<Point x="64" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est indiqué plus haut, que les muscles alaires et les four‐
+reaux de la larve commencent à se former simultanément ou
+ceux-la immédiatement après ceux-ci. Chez la larve dont les
+fourreaux ont à peine paru (après la mue, avant laquelle ils
+n’existaient pas encore), on aperçoit à l’aide d’un grossissement
+considerable (de 40 fois par exemple), aux endroit, où devront
+passer les muscles alaires principaux, par conséquent les plus
+puissants, — des lignes extrêmement ﬁnes, qui sont les com‐
+mencements des muscles futurs des ailes (ﬁg. 40). Une larve
+un peu plus âgée est déjà dotée de tous les muscles alaires,
+mais ils ne sont encore que très ﬁns et ﬁliformes (ﬁg. 41). Les
+fourreaux de cette larve, bien que rudimentaires encore, sont
+déjà plus grands et plus rapprochés. Ainsi le commencement
+simultané de l’organisation des fourreaux et des muscles alaires
+doit, il me semble, être mis hors de doute. Histologiquement
+ces muscles alaires se distinguent essentiellement des autres
+muscles de la larve, par exemple de ceux de l’abdomen, des
+pattes etc. Ces derniers ont l’aspect des muscles ordinaires
+avec ﬁbres striées, comme le sont aussi les muscles des ailes
+chez l’insecte parfait, tandis que les premiers, c’est-à-dire les
+muscles alaires de la larve, ont un air tout-à-fait diﬀérent et
+sont composés des globules, semblables à ceux du tissu adi‐
+peux, et entrelacés des trachées. Celles-ci se multiplient ex‐
+trêmement chez les larves plus âgées et pénètrent entièrement</Unicode></TextEquiv></TextRegion></Page></PcGts>

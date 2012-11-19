@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669377">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T05:58:46</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669377.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="62" y="241"/>
+	<Point x="1476" y="241"/>
+	<Point x="1476" y="680"/>
+	<Point x="62" y="680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>particulier dans ses proportions. Il y en a
+qui forment un troisième type, où la première
+dorsale est plus reculée, et, enﬁn, un qua-
+trième, dont la forme est plus alongée et la
+bouche plus horizontale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="62" y="968"/>
+	<Point x="1484" y="968"/>
+	<Point x="1484" y="1406"/>
+	<Point x="62" y="1406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les eaux de la Caroline produisent une
+athérine de la première subdivision, et même
+tellement semblable à celle de nos côtes de
+l'Océan, que l'on pourrait d'abord hésiter à
+l'en distinguer:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="122" y="1420"/>
+	<Point x="1493" y="1420"/>
+	<Point x="1493" y="1810"/>
+	<Point x="122" y="1810"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ses nombres de rayons sont les mêmes, sa forme
+aussi. Je ne pourrais la diﬀérencier que par une tête
+un peu plus petite et le corps un peu plus grêle,
+car la hauteur est comprise six fois et trois quarts
+dans la longueur totale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="181" y="1816"/>
+	<Point x="1438" y="1816"/>
+	<Point x="1438" y="1892"/>
+	<Point x="181" y="1892"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 8—1/12 ou 13; A. 1/15 ou 16; C. 17; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="121" y="1897"/>
+	<Point x="1478" y="1897"/>
+	<Point x="1478" y="2064"/>
+	<Point x="121" y="2064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus rapportés par M. Bosc n'ont que
+quatre pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="346" y="2116"/>
+	<Point x="1196" y="2116"/>
+	<Point x="1196" y="2201"/>
+	<Point x="346" y="2201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le ROSÉRÉ A PETITE TÊTE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="404" y="2233"/>
+	<Point x="1132" y="2233"/>
+	<Point x="1132" y="2320"/>
+	<Point x="404" y="2320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina breviceps, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="78" y="2345"/>
+	<Point x="1490" y="2345"/>
+	<Point x="1490" y="2613"/>
+	<Point x="78" y="2613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Feu Delalande a aussi rapporté du Cap une
+athérine qui a les mêmes nombres de rayons
+mous que celle de nos côtes de l'Océan, et</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="1214" y="736"/>
+	<Point x="1214" y="837"/>
+	<Point x="325" y="837"/>
+	<Point x="325" y="736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le ROSÉRÉ DE LA CAROLINE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="1214" y="839"/>
+	<Point x="1214" y="938"/>
+	<Point x="325" y="938"/>
+	<Point x="325" y="839"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina Carolina, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="920" y="130"/>
+	<Point x="920" y="213"/>
+	<Point x="616" y="213"/>
+	<Point x="616" y="130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="page-number">
+	<Coords>
+	<Point x="1477" y="130"/>
+	<Point x="1477" y="213"/>
+	<Point x="1335" y="213"/>
+	<Point x="1335" y="130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>445</Unicode></TextEquiv></TextRegion></Page></PcGts>

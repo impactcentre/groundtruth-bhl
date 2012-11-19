@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669151">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:30:55</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669151.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="64" y="330"/>
+	<Point x="1476" y="330"/>
+	<Point x="1476" y="582"/>
+	<Point x="64" y="582"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dale, et dont notre individu qui, à la vérité,
+n’est pas très-bien conservé, n’oﬀre pas de
+traces bien marquées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="62" y="586"/>
+	<Point x="1483" y="586"/>
+	<Point x="1483" y="935"/>
+	<Point x="62" y="935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gmelin (p. 1269) nomme un Achilles parmi
+les chétodons dont Broussonnet devait don‐
+ner la description, et c’est probablement le
+même que celui de Shaw.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="449" y="1016"/>
+	<Point x="1108" y="1016"/>
+	<Point x="1108" y="1089"/>
+	<Point x="449" y="1089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE GAHM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="66" y="1119"/>
+	<Point x="1491" y="1119"/>
+	<Point x="1491" y="1205"/>
+	<Point x="66" y="1205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus gahm, nob.; Chætodon gahm, Forsk.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="58" y="1226"/>
+	<Point x="1492" y="1226"/>
+	<Point x="1492" y="1912"/>
+	<Point x="58" y="1912"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A ces acanthures à pointe de la dorsale
+prolongée appartient encore le Gahm, que
+Forskal1 regardait comme une variété de son
+nigro-fuscus, mais qui est d’une espèce bien
+distincte. M. Ehrenberg l’a rapporté de la mer
+Rouge, et nous le retrouvons parmi ceux que
+MM. Quoy et Gaimard2 ont pris à l’Isle-de-
+France.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="130" y="1944"/>
+	<Point x="1498" y="1944"/>
+	<Point x="1498" y="2489"/>
+	<Point x="130" y="2489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il approche un peu de la forme de l’hépate; sa
+hauteur est deux fois et deux tiers dans sa longueur.
+Sa tête est d’un cinquième plus haute que longue;
+son æil est au tiers supérieur; son proﬁl, assez con‐
+vexe vis-à-vis de l’æil, descend ensuite à peu près
+en ligne droite et en se rapprochant de la verticale.
+Les stries de son opercule et de son épaule sont faibles</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="76" y="2571"/>
+	<Point x="1494" y="2571"/>
+	<Point x="1494" y="2707"/>
+	<Point x="76" y="2707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Page 64, n.° 90. — 2. Quoy et Gaimard, Isle-de-France,
+n.° 17.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="476" y="237"/>
+	<Point x="1051" y="237"/>
+	<Point x="1051" y="296"/>
+	<Point x="476" y="296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1476" y="228"/>
+	<Point x="1476" y="296"/>
+	<Point x="1343" y="296"/>
+	<Point x="1343" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>219</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="73" y="2508"/>
+	<Point x="73" y="2548"/>
+	<Point x="1487" y="2548"/>
+	<Point x="1487" y="2508"/></Coords></SeparatorRegion></Page></PcGts>

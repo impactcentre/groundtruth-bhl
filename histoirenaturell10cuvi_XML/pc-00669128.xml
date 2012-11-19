@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669128">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:28:11</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669128.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="370" y="245"/>
+	<Point x="1752" y="245"/>
+	<Point x="1751" y="1004"/>
+	<Point x="369" y="1011"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>légèrement, en S; l’æil est au tiers supérieur; le
+museau saille un peu en groin de cochon; la dorsale
+et l’anale sont arrondies, et n’ont guère chacune que
+le quart de la hauteur du corps; la caudale a son
+bord terminal un peu concave. C’est une des espèces
+où la dentelure des dents est le mieux prononcée: il
+y en a douze à chaque mâchoire, ayant chacune sept
+dentelures, dont les trois mitoyennes plus grandes;
+du reste ses formes sont celles de tout le genre. Ses
+écailles sont petites.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="812" y="1017"/>
+	<Point x="1302" y="1017"/>
+	<Point x="1302" y="1086"/>
+	<Point x="812" y="1086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 8/27; A. 2/24, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="379" y="1092"/>
+	<Point x="1743" y="1092"/>
+	<Point x="1742" y="2283"/>
+	<Point x="585" y="2291"/>
+	<Point x="378" y="2292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est d’un brun verdâtre ou d’un jaune olive foncé,
+et sa dorsale, son anale et la moitié postérieure de son
+corps semées de petites gouttes rondes et blanchâ‐
+tres, assez serrées: en avant elles se rapetissent et se
+perdent dans la teinte du fond; mais sur la dorsale
+et sur l’anale elles se marquent mieux que sur le
+corps, parce que la teinte de ces nageoires est plus
+foncée. Une large bande verticale pâle occupe toute
+la hauteur du corps, depuis la troisième épine de la
+dorsale jusqu’à l’anus; un de nos individus en a
+même une autre sur l’opercule, et une troisième,
+mais peu marquée, sur le tiers postérieur du corps.
+Les pectorales et la caudale sont d’un vert noirâtre,
+surtout le bord postérieur de la caudale; les ven‐
+trales sont d’un beau jaune; il y a du blanchâtre à
+la gorge et au ventre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="391" y="2296"/>
+	<Point x="607" y="2295"/>
+	<Point x="1735" y="2290"/>
+	<Point x="1735" y="2421"/>
+	<Point x="699" y="2438"/>
+	<Point x="390" y="2438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans la liqueur le fond de la couleur est devenu
+brun foncé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="329" y="2443"/>
+	<Point x="1730" y="2441"/>
+	<Point x="1730" y="2630"/>
+	<Point x="1013" y="2624"/>
+	<Point x="328" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu de Broussonnet, qui paraît être
+celui-là même sur lequel le dessin a téé fait,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="329" y="145"/>
+	<Point x="466" y="145"/>
+	<Point x="466" y="228"/>
+	<Point x="329" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>196</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="777" y="148"/>
+	<Point x="1284" y="148"/>
+	<Point x="1284" y="232"/>
+	<Point x="777" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

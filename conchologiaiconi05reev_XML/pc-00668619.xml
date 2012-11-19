@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668619">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:11:12</Created>
+	<LastChange>2012-02-10T10:29:25</LastChange></Metadata>
+	<Page imageFilename="00668619.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r19" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r22" index="9"/>
+	<RegionRefIndexed regionRef="r24" index="10"/>
+	<RegionRefIndexed regionRef="r27" index="11"/>
+	<RegionRefIndexed regionRef="r31" index="12"/>
+	<RegionRefIndexed regionRef="r35" index="13"/>
+	<RegionRefIndexed regionRef="r39" index="14"/>
+	<RegionRefIndexed regionRef="r41" index="15"/>
+	<RegionRefIndexed regionRef="r14" index="16"/>
+	<RegionRefIndexed regionRef="r15" index="17"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="902" y="473"/>
+	<Point x="1333" y="473"/>
+	<Point x="1333" y="540"/>
+	<Point x="902" y="540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="969" y="576"/>
+	<Point x="1280" y="576"/>
+	<Point x="1280" y="623"/>
+	<Point x="969" y="623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PlATE LXXXIX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="413" y="1036"/>
+	<Point x="889" y="1036"/>
+	<Point x="889" y="1093"/>
+	<Point x="413" y="1093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 661. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="198" y="1098"/>
+	<Point x="1102" y="1098"/>
+	<Point x="1102" y="1486"/>
+	<Point x="198" y="1486"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS KELLETTII. Bul. testâ ovatâ, subventricosâ,
+anfractibus quinque, convexis, rugoso-striatis, ad suturas
+subplicato-crenulatis, anfractu ultimo multò Maximo,
+columellâ incrassatâ, peculiariter contortâ, aperturâ
+subeﬀusâ, labro incrassato, reﬂexo; cœrulescente-griseâ
+saturatè quadrifasciatâ, strigis angustis albis inter-
+ruptis et undatis longitudinaliter fulguratâ, columellâ
+et aperturœ fauce iridescente-purpureis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="198" y="1491"/>
+	<Point x="1095" y="1491"/>
+	<Point x="1095" y="1872"/>
+	<Point x="198" y="1872"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>KELLETT'S BULIMUS. Shell ovate, rather ventricose,
+whorls ﬁve in number, convex, roughly striated,
+somewhat plicately crenulated at the sutures, last
+whorl much the largest, columella thickened, pecu-
+liarly twisted, aperture rather eﬀused, lip thickened,
+reﬂected; bluish-grey, encircled with four bands of a
+darker colour, and longitudinally lightning-marked
+with narrow waved and interrupted white streaks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="197" y="1874"/>
+	<Point x="451" y="1874"/>
+	<Point x="451" y="1916"/>
+	<Point x="197" y="1916"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Ecuador?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1137" y="1781"/>
+	<Point x="2047" y="1781"/>
+	<Point x="2047" y="2124"/>
+	<Point x="1137" y="2124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The African species received from Dr. Gould, of Boston,
+United States, just at the close of this monograph, will
+probably be described, if not so already, in the Proceedings
+of the Natural History Society of that city. They are
+of an extremely interesting character, and were collected
+by Dr. George A. Perkins, a zealous American missionary,
+for many years resident at Cape Palmas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="975" y="2386"/>
+	<Point x="1243" y="2386"/>
+	<Point x="1243" y="2440"/>
+	<Point x="975" y="2440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>February, 1850.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="422" y="667"/>
+	<Point x="859" y="667"/>
+	<Point x="859" y="725"/>
+	<Point x="422" y="725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sp. 367. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="190" y="732"/>
+	<Point x="1101" y="732"/>
+	<Point x="1101" y="974"/>
+	<Point x="190" y="974"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS INTERSTINCTUS. Having been favoured
+with ﬁner specimens of this very interesting species, col-
+lected by Dr. Perkins at Cape Palmas, West Africa, I avail
+myself of the opportunity of ﬁguring two characteristic
+varieties.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20">
+	<Coords>
+	<Point x="425" y="987"/>
+	<Point x="887" y="987"/>
+	<Point x="887" y="1014"/>
+	<Point x="425" y="1014"/></Coords></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="195" y="1936"/>
+	<Point x="1095" y="1936"/>
+	<Point x="1095" y="2133"/>
+	<Point x="195" y="2133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I have much pleasure in naming this new and very
+beautiful species after the zealous naturalist, Capt. Kellett,
+of H. M. S. Herald, by whom it was procured in Central
+America, and is probably from Ecuador.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="heading">
+	<Coords>
+	<Point x="1371" y="666"/>
+	<Point x="1809" y="666"/>
+	<Point x="1809" y="734"/>
+	<Point x="1371" y="734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 212. (Mus. Miers.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1141" y="739"/>
+	<Point x="2045" y="739"/>
+	<Point x="2045" y="887"/>
+	<Point x="1141" y="887"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS OVATUS. An interesting white-lip dwarf
+variety, from Bahia, described by M. Sowerby in his ‘Con-
+chological Illustrations’ under the name B. auritus.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r25">
+	<Coords>
+	<Point x="1362" y="927"/>
+	<Point x="1831" y="927"/>
+	<Point x="1831" y="955"/>
+	<Point x="1362" y="955"/></Coords></SeparatorRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords>
+	<Point x="1255" y="977"/>
+	<Point x="1920" y="977"/>
+	<Point x="1920" y="1037"/>
+	<Point x="1255" y="1037"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 662. (Fig. a and b. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1139" y="1050"/>
+	<Point x="2045" y="1050"/>
+	<Point x="2045" y="1334"/>
+	<Point x="1139" y="1334"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS TORRIDUS. Bul. testâ oblongo-tumidâ, apice
+subpapillari, anfractibus septem, convexis, obliquè ele-
+vato-striatis, ad suturas subtiliter et creberrimè cre-
+nulatis, columellâ simplici, aperturâ ovatâ, labro
+parùm reﬂexo; ustulato-fuscâ, epidermide olivaceâ
+indutâ, aperturæ fauce intensè fuscâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="1142" y="1338"/>
+	<Point x="2053" y="1338"/>
+	<Point x="2053" y="1665"/>
+	<Point x="1142" y="1665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TORRID BULIMUS. Shell oblong-tumid, somewhat
+papillary at the apex, whorls seven in number, convex,
+obliquely elevately striated, ﬁnely and very closely
+crenulated at the sutures, columella simple, aperture
+ovate, lip but little reﬂected; scorched-brown, covered
+with an olive epidermis, interior of the aperture dark
+brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="1136" y="1668"/>
+	<Point x="1367" y="1668"/>
+	<Point x="1367" y="1713"/>
+	<Point x="1136" y="1713"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GOULD, MSS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="1136" y="1719"/>
+	<Point x="1564" y="1718"/>
+	<Point x="1564" y="1763"/>
+	<Point x="1136" y="1763"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Liberia, West Africa.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r42">
+	<Coords>
+	<Point x="882" y="2254"/>
+	<Point x="1347" y="2254"/>
+	<Point x="1347" y="2282"/>
+	<Point x="882" y="2282"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r43">
+	<Coords>
+	<Point x="1110" y="672"/>
+	<Point x="1110" y="2148"/>
+	<Point x="1128" y="2148"/>
+	<Point x="1128" y="672"/></Coords></SeparatorRegion></Page></PcGts>

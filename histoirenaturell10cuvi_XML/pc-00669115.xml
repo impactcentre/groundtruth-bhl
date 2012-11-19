@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669115">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:26:38</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669115.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="131" y="318"/>
+	<Point x="1554" y="318"/>
+	<Point x="1555" y="627"/>
+	<Point x="692" y="627"/>
+	<Point x="682" y="655"/>
+	<Point x="291" y="655"/>
+	<Point x="287" y="668"/>
+	<Point x="130" y="668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>un certain groupe se réduit à quatre ou cinq.
+Une division subordonnée pourra être prise
+des pointes de la caudale et de leur longueur
+proportionnelle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="152" y="670"/>
+	<Point x="290" y="670"/>
+	<Point x="293" y="662"/>
+	<Point x="708" y="663"/>
+	<Point x="715" y="643"/>
+	<Point x="1557" y="639"/>
+	<Point x="1553" y="900"/>
+	<Point x="151" y="904"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous commencerons par ceux dont la cau‐
+dale est tronquée ou légèrement coupée en
+croissant.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="497" y="1027"/>
+	<Point x="1191" y="1027"/>
+	<Point x="1191" y="1097"/>
+	<Point x="497" y="1097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE HÉPATE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="132" y="1136"/>
+	<Point x="1564" y="1136"/>
+	<Point x="1564" y="1386"/>
+	<Point x="132" y="1386"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus hepatus, Bloch, Syst. posth., p. 211;
+Teuthis hepatus, Linn.; Acanthure teuthis, Lacép.,
+t. IV, p. 548; Hepatus, Gronov., n.° 353.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="111" y="1415"/>
+	<Point x="1590" y="1415"/>
+	<Point x="1590" y="2719"/>
+	<Point x="111" y="2719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans le nombre de ceux qui sont le plus
+singulièrement colorés, doit se remarquer
+d’abord le deuxième hepatus de Gronovius,
+ou le teuthis hepatus de Linnæus, l’acanthure
+teuthis de M. de Lacépède. Si l’on s’en rap‐
+portait aux synonymes allégués par ces auteurs,
+cette espèce comprendrait des poissons des
+Indes et d’Amérique; mais en remontant aux
+sources, on voit bientôt que la ﬁgure de Seba,
+qui fait l’objet de leur citation principale,
+(tome III, pl. 33, ﬁg. 3), est, par le contour
+et par les couleurs, d’une espèce entièrement
+diﬀérente de celle de Catesby (t. II, pl. 10,
+ﬁg. 1), qui représente notre acanthure bleu,
+et qu’elles n’ont de commun que l’aiguillon</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1420" y="212"/>
+	<Point x="1543" y="212"/>
+	<Point x="1543" y="286"/>
+	<Point x="1420" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>183</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="550" y="224"/>
+	<Point x="1140" y="224"/>
+	<Point x="1140" y="291"/>
+	<Point x="550" y="291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

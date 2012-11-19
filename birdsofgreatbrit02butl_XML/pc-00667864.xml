@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667864">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T06:37:25</Created>
+	<LastChange>2012-02-10T09:52:16</LastChange></Metadata>
+	<Page imageFilename="00667864.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="804" y="300"/>
+	<Point x="1446" y="300"/>
+	<Point x="1446" y="343"/>
+	<Point x="804" y="343"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SPOTTED FLYCATCHER</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="203" y="424"/>
+	<Point x="2048" y="424"/>
+	<Point x="2048" y="539"/>
+	<Point x="203" y="539"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Persia, Turkestan, and Siberia as far as Irkutsk. In winter it visits India, Arabia,
+and Africa to the Cape of Good Hope.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="202" y="549"/>
+	<Point x="2053" y="549"/>
+	<Point x="2053" y="787"/>
+	<Point x="202" y="787"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Great Britain the Spotted Flycatcher breeds in suitable localities in every
+county, but in England and Wales it is far more abundant, and more generally
+distributed than in Scotland and Ireland: its distribution in the latter island is
+certainly local, and it is probable that some counties are unsuited to its requirements.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="203" y="799"/>
+	<Point x="2055" y="799"/>
+	<Point x="2055" y="1344"/>
+	<Point x="203" y="1344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The colouring of this bird is decidedly sombre, its upper surface being brown,
+slightly paler and with dark shaft-streaks on the crown; the wings and tail darker
+brown, with paler margins to the wing-coverts and secondaries: its under surface
+is greyish-white; the breast and ﬂanks slightly buﬀ-brownish, and streaked with
+brown, as also is the throat; bill dark brown; feet black; iris dark hazel. The
+female greatly resembles the male, but is somewhat browner and is more heavily
+streaked on the underparts. The young have buﬀ centres to the feathers of the
+upper surface, whilst the wing-coverts, secondaries, and tail-coverts are tipped with
+this colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="202" y="1362"/>
+	<Point x="2054" y="1362"/>
+	<Point x="2054" y="2656"/>
+	<Point x="202" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Spotted Flycatcher haunts the outskirts of woods, high hedges on the
+borders of parks and pleasure grounds, plantations of hazel, orchards, and gardens,
+and in such places it breeds, usually placing its nest either in a slight depression
+in the branch of a tree, frequently near the trunk, or on the branch of a fruit-tree
+trained against a wall; it has, however, been known to build in crevices of the
+bark of old trees, in trellis-work overgrown with creepers, and I have taken the
+nest from the hollow top of a tree stump, from a tall hawthorn hedge, and one in
+my collection was taken from a narrow hole in a wall.* The form of the nest
+varies in accordance with its surroundings; if placed upon a branch or in the top
+of a hedge it is circular, if on a fruit-branch trained against a wall, semicircular,
+and the nest which I obtained from a hole in a wall was of the exact shape of a small
+slipper; the materials of the nest also vary somewhat, but they generally consist
+of twigs and roots, or ﬁne grasses, mixed with a quantity of green moss interwoven
+with spiders’ webs, and lined with ﬁne grass, hair, and sometimes two or three
+feathers. The eggs vary in number from three to six, ﬁve being the most usual
+number, the ground colour being frequently pale pea-green, but sometimes bluish-
+white, blotched, zoned, mottled or spotted with various depths of ferruginous red-
+brown; when the mottling is very dense the egg, excepting in its inferior size
+and narrower shape, somewhat reminds one of that of the Robin, and when the
+markings are chieﬂy represented by a zone near the larger end, it vaguely suggests
+that of the Greenﬁnch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="212" y="2713"/>
+	<Point x="2049" y="2713"/>
+	<Point x="2049" y="2780"/>
+	<Point x="212" y="2780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* It is said also to have been found among roots overhanging water, and in metal gutters on roofs of
+houses.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="209" y="309"/>
+	<Point x="258" y="309"/>
+	<Point x="258" y="341"/>
+	<Point x="209" y="341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>22</Unicode></TextEquiv></TextRegion></Page></PcGts>

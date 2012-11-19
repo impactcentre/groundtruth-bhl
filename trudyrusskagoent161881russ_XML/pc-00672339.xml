@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672339">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:15:52</Created>
+	<LastChange>2012-02-10T09:54:31</LastChange></Metadata>
+	<Page imageFilename="00672339.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r14" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/>
+	<RegionRefIndexed regionRef="r22" index="5"/>
+	<RegionRefIndexed regionRef="r26" index="6"/>
+	<RegionRefIndexed regionRef="r30" index="7"/>
+	<RegionRefIndexed regionRef="r34" index="8"/>
+	<RegionRefIndexed regionRef="r38" index="9"/>
+	<RegionRefIndexed regionRef="r42" index="10"/>
+	<RegionRefIndexed regionRef="r46" index="11"/>
+	<RegionRefIndexed regionRef="r50" index="12"/>
+	<RegionRefIndexed regionRef="r54" index="13"/>
+	<RegionRefIndexed regionRef="r58" index="14"/>
+	<RegionRefIndexed regionRef="r60" index="15"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="789" y="132"/>
+	<Point x="1098" y="132"/>
+	<Point x="1098" y="201"/>
+	<Point x="789" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 145 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="458" y="932"/>
+	<Point x="1421" y="932"/>
+	<Point x="1421" y="1030"/>
+	<Point x="458" y="1030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Synonymiae dipterologicae addo:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="229" y="3098"/>
+	<Point x="536" y="3098"/>
+	<Point x="536" y="3147"/>
+	<Point x="229" y="3147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1587" y="3078"/>
+	<Point x="1669" y="3078"/>
+	<Point x="1669" y="3143"/>
+	<Point x="1587" y="3143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="789" y="832"/>
+	<Point x="1118" y="832"/>
+	<Point x="1118" y="861"/>
+	<Point x="789" y="861"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="792" y="2323"/>
+	<Point x="1100" y="2323"/>
+	<Point x="1100" y="2354"/>
+	<Point x="792" y="2354"/></Coords></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1821" y="261"/>
+	<Point x="1821" y="682"/>
+	<Point x="1313" y="682"/>
+	<Point x="1313" y="683"/>
+	<Point x="682" y="683"/>
+	<Point x="682" y="684"/>
+	<Point x="72" y="684"/>
+	<Point x="72" y="261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bus, basi et ad costam ﬂavidis; nervo transverso primo paullo
+infuscato, macula apicali magna, fusca; nervo tertio prope api-
+cem paullo intus incurvo et nervulo transverso ad nervum quar-
+tum emitente; nervo quinto paullo intus curvato et eum nervo
+quarto apice late divergentibus. Long. 31/4—4‴.
+Patria: Caucasus (Lagodechi).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1821" y="684"/>
+	<Point x="1821" y="767"/>
+	<Point x="72" y="767"/>
+	<Point x="72" y="686"/>
+	<Point x="684" y="686"/>
+	<Point x="684" y="685"/>
+	<Point x="1315" y="685"/>
+	<Point x="1315" y="684"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Caucasus (Lagodechi).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1814" y="1052"/>
+	<Point x="1814" y="1154"/>
+	<Point x="1014" y="1154"/>
+	<Point x="1014" y="1155"/>
+	<Point x="80" y="1155"/>
+	<Point x="80" y="1052"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cyrtonevra aculeata Egg. = Cyrt. curvipes Mcq.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1814" y="1156"/>
+	<Point x="1814" y="1236"/>
+	<Point x="991" y="1236"/>
+	<Point x="991" y="1237"/>
+	<Point x="80" y="1237"/>
+	<Point x="80" y="1157"/>
+	<Point x="1016" y="1157"/>
+	<Point x="1016" y="1156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cyrtonevra pilipes Rondani = Cyrt. hortorum W.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1814" y="1238"/>
+	<Point x="1814" y="1318"/>
+	<Point x="959" y="1318"/>
+	<Point x="959" y="1317"/>
+	<Point x="80" y="1317"/>
+	<Point x="80" y="1239"/>
+	<Point x="993" y="1239"/>
+	<Point x="993" y="1238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cyrtonevra hortorum Rondani = Cyrt. simplex Loew.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="957" y="1319"/>
+	<Point x="957" y="1320"/>
+	<Point x="1814" y="1320"/>
+	<Point x="1814" y="1403"/>
+	<Point x="1581" y="1403"/>
+	<Point x="1581" y="1402"/>
+	<Point x="1201" y="1402"/>
+	<Point x="1201" y="1401"/>
+	<Point x="821" y="1401"/>
+	<Point x="821" y="1400"/>
+	<Point x="441" y="1400"/>
+	<Point x="441" y="1399"/>
+	<Point x="80" y="1399"/>
+	<Point x="80" y="1319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cyrtonevra penicillata Egg. = Dasyphora versicolor Mg. Rond.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="439" y="1401"/>
+	<Point x="439" y="1402"/>
+	<Point x="819" y="1402"/>
+	<Point x="819" y="1403"/>
+	<Point x="1199" y="1403"/>
+	<Point x="1199" y="1404"/>
+	<Point x="1579" y="1404"/>
+	<Point x="1579" y="1405"/>
+	<Point x="1814" y="1405"/>
+	<Point x="1814" y="1483"/>
+	<Point x="1028" y="1483"/>
+	<Point x="1028" y="1482"/>
+	<Point x="80" y="1482"/>
+	<Point x="80" y="1401"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pyrellia suda Rоndani = Pyrellia aenea Zett.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="1026" y="1484"/>
+	<Point x="1026" y="1485"/>
+	<Point x="1814" y="1485"/>
+	<Point x="1814" y="1561"/>
+	<Point x="1284" y="1561"/>
+	<Point x="1284" y="1560"/>
+	<Point x="671" y="1560"/>
+	<Point x="671" y="1559"/>
+	<Point x="80" y="1559"/>
+	<Point x="80" y="1484"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pyrellia fasciata Gimmerthal = Pyrellia aenea Zett.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="669" y="1561"/>
+	<Point x="669" y="1562"/>
+	<Point x="1282" y="1562"/>
+	<Point x="1282" y="1563"/>
+	<Point x="1814" y="1563"/>
+	<Point x="1814" y="1647"/>
+	<Point x="1798" y="1647"/>
+	<Point x="1798" y="1646"/>
+	<Point x="1674" y="1646"/>
+	<Point x="1674" y="1645"/>
+	<Point x="1549" y="1645"/>
+	<Point x="1549" y="1644"/>
+	<Point x="1425" y="1644"/>
+	<Point x="1425" y="1643"/>
+	<Point x="1300" y="1643"/>
+	<Point x="1300" y="1642"/>
+	<Point x="1176" y="1642"/>
+	<Point x="1176" y="1641"/>
+	<Point x="1051" y="1641"/>
+	<Point x="1051" y="1640"/>
+	<Point x="926" y="1640"/>
+	<Point x="926" y="1639"/>
+	<Point x="802" y="1639"/>
+	<Point x="802" y="1638"/>
+	<Point x="677" y="1638"/>
+	<Point x="677" y="1637"/>
+	<Point x="553" y="1637"/>
+	<Point x="553" y="1636"/>
+	<Point x="428" y="1636"/>
+	<Point x="428" y="1635"/>
+	<Point x="304" y="1635"/>
+	<Point x="304" y="1634"/>
+	<Point x="179" y="1634"/>
+	<Point x="179" y="1633"/>
+	<Point x="80" y="1633"/>
+	<Point x="80" y="1561"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gonia viridescens Gimmerthal = Rhynchomyia speciosa Loew.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="177" y="1635"/>
+	<Point x="177" y="1636"/>
+	<Point x="302" y="1636"/>
+	<Point x="302" y="1637"/>
+	<Point x="426" y="1637"/>
+	<Point x="426" y="1638"/>
+	<Point x="551" y="1638"/>
+	<Point x="551" y="1639"/>
+	<Point x="675" y="1639"/>
+	<Point x="675" y="1640"/>
+	<Point x="800" y="1640"/>
+	<Point x="800" y="1641"/>
+	<Point x="924" y="1641"/>
+	<Point x="924" y="1642"/>
+	<Point x="1049" y="1642"/>
+	<Point x="1049" y="1643"/>
+	<Point x="1174" y="1643"/>
+	<Point x="1174" y="1644"/>
+	<Point x="1298" y="1644"/>
+	<Point x="1298" y="1645"/>
+	<Point x="1423" y="1645"/>
+	<Point x="1423" y="1646"/>
+	<Point x="1547" y="1646"/>
+	<Point x="1547" y="1647"/>
+	<Point x="1672" y="1647"/>
+	<Point x="1672" y="1648"/>
+	<Point x="1796" y="1648"/>
+	<Point x="1796" y="1649"/>
+	<Point x="1814" y="1649"/>
+	<Point x="1814" y="1725"/>
+	<Point x="954" y="1725"/>
+	<Point x="954" y="1726"/>
+	<Point x="80" y="1726"/>
+	<Point x="80" y="1635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dexia petiolata Bennrdorf = Dinera cristata Meig. Rond.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="1814" y="1727"/>
+	<Point x="1814" y="1808"/>
+	<Point x="80" y="1808"/>
+	<Point x="80" y="1728"/>
+	<Point x="956" y="1728"/>
+	<Point x="956" y="1727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dexia pellucens Egg. = Morphomyia tachinoides Fall. Rond.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="1814" y="1810"/>
+	<Point x="1814" y="1887"/>
+	<Point x="1019" y="1887"/>
+	<Point x="1019" y="1888"/>
+	<Point x="80" y="1888"/>
+	<Point x="80" y="1810"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dinera maritima Rondani = Synthomocera picta Mg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="1814" y="1889"/>
+	<Point x="1814" y="1969"/>
+	<Point x="1686" y="1969"/>
+	<Point x="1686" y="1970"/>
+	<Point x="1413" y="1970"/>
+	<Point x="1413" y="1971"/>
+	<Point x="1141" y="1971"/>
+	<Point x="1141" y="1972"/>
+	<Point x="868" y="1972"/>
+	<Point x="868" y="1973"/>
+	<Point x="596" y="1973"/>
+	<Point x="596" y="1974"/>
+	<Point x="323" y="1974"/>
+	<Point x="323" y="1975"/>
+	<Point x="80" y="1975"/>
+	<Point x="80" y="1890"/>
+	<Point x="1021" y="1890"/>
+	<Point x="1021" y="1889"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Limnophora scripta Nowicki = � Limnophora polystigma Mg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="1814" y="1971"/>
+	<Point x="1814" y="2052"/>
+	<Point x="989" y="2052"/>
+	<Point x="989" y="2053"/>
+	<Point x="80" y="2053"/>
+	<Point x="80" y="1977"/>
+	<Point x="325" y="1977"/>
+	<Point x="325" y="1976"/>
+	<Point x="598" y="1976"/>
+	<Point x="598" y="1975"/>
+	<Point x="870" y="1975"/>
+	<Point x="870" y="1974"/>
+	<Point x="1143" y="1974"/>
+	<Point x="1143" y="1973"/>
+	<Point x="1415" y="1973"/>
+	<Point x="1415" y="1972"/>
+	<Point x="1688" y="1972"/>
+	<Point x="1688" y="1971"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hydrotaea brevipennis Loew = Hydr. velutina Zett.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords>
+	<Point x="1814" y="2054"/>
+	<Point x="1814" y="2145"/>
+	<Point x="80" y="2145"/>
+	<Point x="80" y="2055"/>
+	<Point x="991" y="2055"/>
+	<Point x="991" y="2054"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lasiops armipes Rondani = Lasiops aculeipes Zett.</Unicode></TextEquiv></TextRegion></Page></PcGts>

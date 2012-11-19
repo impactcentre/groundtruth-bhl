@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672375">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:22:50</Created>
+	<LastChange>2012-02-10T09:54:36</LastChange></Metadata>
+	<Page imageFilename="00672375.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="353" y="339"/>
+	<Point x="1635" y="339"/>
+	<Point x="1635" y="433"/>
+	<Point x="353" y="433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pempelia rubedinella Z. Tab. XI, ﬁg. 12.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="137" y="467"/>
+	<Point x="1871" y="467"/>
+	<Point x="1871" y="799"/>
+	<Point x="137" y="799"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis erectis; alis ant. angustis osseis, postice rubescen-
+tibus, costa usque ante apicem straminea (♂), aut totis rufe-
+scentibus costa vittae instar straminea (♀), puncto venae trans-
+versae nigro (♂ ♀); post. albis hyalinis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="246" y="805"/>
+	<Point x="1421" y="805"/>
+	<Point x="1421" y="882"/>
+	<Point x="246" y="882"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Var. b., alis ant. non rubedine tinctis. ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="133" y="889"/>
+	<Point x="1871" y="889"/>
+	<Point x="1871" y="1044"/>
+	<Point x="133" y="1044"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Var. c., striga ante medium punctis venarum paucis indi-
+cata, altera distinctiore postica nigricante. ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="278" y="1085"/>
+	<Point x="1867" y="1085"/>
+	<Point x="1867" y="1150"/>
+	<Point x="278" y="1150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pemp. rubed. Isis 1848, p. 885. — Zool. bot. Ges. 1874, p. 430. (Sep. p. 8).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="130" y="1191"/>
+	<Point x="1871" y="1191"/>
+	<Point x="1871" y="1519"/>
+	<Point x="130" y="1519"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das ♂ hat Grösse und Gestalt des beschriebenen ♀ (das
+übrigens zu Var. c. gehört), von dem es sich auf den Vor-
+derﬂügeln durch hellere, nur hinterwärts geröthete Grundfarbe
+unterscheidet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="123" y="1533"/>
+	<Point x="1860" y="1533"/>
+	<Point x="1860" y="2435"/>
+	<Point x="123" y="2435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rückenschild und Kopf beingelb oder sehr bleich ocher-
+gelb. Stirn mit einem gerötheten Schuppenkegel. Taster dem
+Gesicht anliegend und über den Kegel wegreichend, fast grade
+ausser am ersten Gliede, mehr oder weniger dunkelröthlich;
+das Endglied 1/4 so lang wie das 2te Glied, gebräunt. Maxil-
+larpinsel hellblond, halb so lang wie das zweite Lippentaster-
+glied. Fühler etwas plump, bräunlich; die Biegung über dem
+gerötheten Wurzelglied mit einem mässig starken Schuppen-
+busch ausgefüllt. Beine sehr hell gelblichgrau; die vier vor-
+dern auf der Aussenseite blassgeröthet. Hinterleib schmal, heller
+als der Thorax; Analbusch dünn, ohne Auszeichnung.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="116" y="2441"/>
+	<Point x="1862" y="2441"/>
+	<Point x="1862" y="3108"/>
+	<Point x="116" y="3108"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel beingelb oder blass ochergelb, zwischen Vor-
+derrand und Costalzelle striemenartig heller; diese Strieme wird
+vor der Flügelspitze durch einen dunkelgrauen, röthlich ge-
+mischten Längswisch verengert. Die Grundfarbe ist gewöhnlich
+im Enddrittel auf den Adern und an der Endhälfte des Innen-
+randes rothsteinfarbig angelaufen. Bei der seltenen Varietät b
+fehlt diese Röthung gänzlich. Auf dem untern Ende der Quer-
+ader liegt ein ziemlich starker schwarzer Punkt, der nicht selten</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="833" y="139"/>
+	<Point x="1153" y="139"/>
+	<Point x="1153" y="216"/>
+	<Point x="833" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 181 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

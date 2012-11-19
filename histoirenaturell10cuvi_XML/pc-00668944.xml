@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668944">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T04:35:48</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668944.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="681" y="217"/>
+	<Point x="1329" y="217"/>
+	<Point x="1329" y="280"/>
+	<Point x="681" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="309" y="321"/>
+	<Point x="1708" y="321"/>
+	<Point x="1708" y="823"/>
+	<Point x="309" y="823"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>espèce; nous voyons aussi une ﬁgure qui res-
+semble beaucoup à notre dorée, dans le re-
+cueil des poissons imprimé au Japon que nous
+avons déjà cité plusieurs fois, et M. Tilésius en
+donne une pareille dans le Voyage de Krusen-
+stern, pl. LXII. Nous en parlerons séparément.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="314" y="826"/>
+	<Point x="1704" y="826"/>
+	<Point x="1704" y="1057"/>
+	<Point x="314" y="1057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a peu de poissons dans nos mers dont
+la conformation soit plus singulière que celle
+de la dorée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="358" y="1100"/>
+	<Point x="1712" y="1100"/>
+	<Point x="1712" y="2608"/>
+	<Point x="358" y="2608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son corps est comprimé; vu de côté, il a un
+contour ovale, au bout duquel est une queue courte
+et peu élevée; la tête est comprise dans la partie an-
+térieure de l'ovale, mais sous forme de rhomboïde,
+dont le proﬁl fait un côté et la mâchoire infé-
+rieure un autre. Le troisième s'étend de l'angle de
+cette mâchoire à celui de l'opercule, et le quatrième,
+de l'angle de l'opercule à l'occiput : la fente des ouïes
+se trouve ainsi à peu près parallèle au proﬁl, et la
+bouche lui est presque perpendiculaire. La hauteur
+de l'ovale, prise au milieu (au-dessus des ventrales),
+est des trois cinquièmes de sa longueur, sans la
+queue, qui a le treizième de cette longueur, et sans
+la caudale, qui en a presque le tiers. L'épaisseur au
+milieu est environ du cinquième de la hauteur. La
+longueur de la tête, depuis le bout de la mâchoire
+inférieure jusqu'à l'angle de l'opercule, fait un peu
+moins de moitié de la longueur de l'ovale, et sa hau-
+teur, prise obliquement depuis l'angle de la mâchoire
+inférieure jusqu'à l'occiput, est égale à sa longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="452" y="2610"/>
+	<Point x="1713" y="2610"/>
+	<Point x="1713" y="2690"/>
+	<Point x="452" y="2690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'œil est placé près de l'occiput et de forme ovale;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="315" y="206"/>
+	<Point x="408" y="206"/>
+	<Point x="408" y="280"/>
+	<Point x="315" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>12</Unicode></TextEquiv></TextRegion></Page></PcGts>

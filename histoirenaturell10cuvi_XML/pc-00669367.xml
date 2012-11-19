@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669367">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T18:57:20</Created>
+	<LastChange>2012-03-12T14:33:58</LastChange></Metadata>
+	<Page imageFilename="00669367.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r12" index="7"/>
+	<RegionRefIndexed regionRef="r14" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="46" y="245"/>
+	<Point x="1472" y="245"/>
+	<Point x="1472" y="584"/>
+	<Point x="46" y="584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Outre ces trois espèces déjà indiquées par
+MM. De Laroche et Risso, nous en avons reçu
+de la Méditerranée deux autres, bien certai-
+nement diﬀérentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="121" y="886"/>
+	<Point x="1229" y="886"/>
+	<Point x="1229" y="989"/>
+	<Point x="121" y="989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'une nous a été envoyée de Nice.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="105" y="1002"/>
+	<Point x="1476" y="1002"/>
+	<Point x="1476" y="1616"/>
+	<Point x="105" y="1616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa forme est celle du sauclet, elle a de même
+la tête étroite et un peu pointue, et onze ou douze
+rayons mous à l'anale; mais sa bande argentée est
+beaucoup plus tranchée, et elle n'a, comme le joël,
+que quarante-quatre vertèbres à l'épine du dos. Le
+cornet commence à la vingt-quatrième, et règne
+sous trois vertèbres; son opercule est argenté et
+sans points noirs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="284" y="1624"/>
+	<Point x="1281" y="1624"/>
+	<Point x="1281" y="1692"/>
+	<Point x="284" y="1692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D.7—1/10; A. 2/11; C. 17; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="48" y="1710"/>
+	<Point x="1476" y="1710"/>
+	<Point x="1476" y="1893"/>
+	<Point x="48" y="1893"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous l'aurions prise pour un sauclet, si
+nous n'en avions pas fait le squelette.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="52" y="2178"/>
+	<Point x="1474" y="2178"/>
+	<Point x="1474" y="2448"/>
+	<Point x="52" y="2448"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons reçu l'autre de M. Bonnelli.
+Elle a été prise dans les étangs salés de la
+Sardaigne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="118" y="2466"/>
+	<Point x="1472" y="2466"/>
+	<Point x="1472" y="2630"/>
+	<Point x="118" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle a la tête et les points noirs du sauclet, mais
+elle est un peu plus courte; son dos est un peu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="1194" y="1952"/>
+	<Point x="1194" y="2055"/>
+	<Point x="326" y="2055"/>
+	<Point x="326" y="1952"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'ATHÉRINE DE SARDAIGNE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="1194" y="2057"/>
+	<Point x="1194" y="2148"/>
+	<Point x="326" y="2148"/>
+	<Point x="326" y="2057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina sarda, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="1074" y="669"/>
+	<Point x="1074" y="764"/>
+	<Point x="405" y="764"/>
+	<Point x="405" y="669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'ATHÉRINE RISSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="1074" y="766"/>
+	<Point x="1074" y="861"/>
+	<Point x="405" y="861"/>
+	<Point x="405" y="766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina Risso, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="header">
+	<Coords>
+	<Point x="903" y="152"/>
+	<Point x="903" y="156"/>
+	<Point x="902" y="156"/>
+	<Point x="902" y="180"/>
+	<Point x="901" y="180"/>
+	<Point x="901" y="204"/>
+	<Point x="900" y="204"/>
+	<Point x="900" y="221"/>
+	<Point x="601" y="221"/>
+	<Point x="601" y="152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="page-number">
+	<Coords>
+	<Point x="1309" y="152"/>
+	<Point x="1461" y="152"/>
+	<Point x="1461" y="221"/>
+	<Point x="1309" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>435</Unicode></TextEquiv></TextRegion></Page></PcGts>

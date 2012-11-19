@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668026">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T20:24:11</Created>
+	<LastChange>2012-02-10T09:52:31</LastChange></Metadata>
+	<Page imageFilename="00668026.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="888" y="214"/>
+	<Point x="1277" y="214"/>
+	<Point x="1277" y="273"/>
+	<Point x="888" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BRAMBLING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="1339" y="333"/>
+	<Point x="2013" y="333"/>
+	<Point x="2013" y="414"/>
+	<Point x="1339" y="414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="804" y="582"/>
+	<Point x="1376" y="582"/>
+	<Point x="1376" y="660"/>
+	<Point x="804" y="660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BRAMBLING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="748" y="744"/>
+	<Point x="1445" y="744"/>
+	<Point x="1445" y="830"/>
+	<Point x="748" y="830"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fringilla nontifringilla, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="310" y="1082"/>
+	<Point x="309" y="905"/>
+	<Point x="2037" y="892"/>
+	<Point x="2039" y="1458"/>
+	<Point x="148" y="1462"/>
+	<Point x="153" y="1083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F the distribution of this species Howard Saunders says:—“To the Faroes
+the Brambling is only an exceptional visitor. On the mainland it breeds
+throughout the sub-Arctic pine and birch forests, from Norway to the
+valley of the Amur: while on migration it occurs in Japan, China, Northern
+India, Asia Minor, and the whole of Europe; but it is only in very severe winters
+that it pushes its wanderings to the African side of the Mediterranean. Immense
+ﬂocks sometimes visit Belgium, Holland, Germany, and Heligoland; but state‑
+ments that this species has nested in the Pyrenees, the Alps, or the Ardennes,
+are as yet unconﬁrmed.” (Manual of British Birds, p. 177).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="144" y="1470"/>
+	<Point x="2038" y="1470"/>
+	<Point x="2038" y="1889"/>
+	<Point x="144" y="1889"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>To Great Britain the Brambling is chieﬂy a winter migrant, although there
+is reason for believing that a few pairs have occasionally remained to breed with
+us. Although pretty generally distributed throughout our islands in winter, it
+appears to be rather more numerous in Scotland than in England, whilst in
+Cornwall, the west of England, and the south of Ireland, it is rarer than else‐
+where; and in very severe winters it is more abundant, but particularly near
+beech-woods.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="144" y="1906"/>
+	<Point x="2040" y="1906"/>
+	<Point x="2040" y="2720"/>
+	<Point x="144" y="2720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The adult male in breeding plumage has the upper parts blue-black, some of
+the feathers with tawny margins, the middle of the lower back and rump white;
+scapulars and lesser wing-coverts bright tawny; median coverts white; greater
+coverts black, tipped with white, so as to form a prominent bar; quills smoky
+black; the primaries with narrow yellowish white margins, the inner ones with
+white bases; secondaries with white margins towards their extremities; upper
+tail-coverts black, with ashy tips; tail black, the outer feathers with a little white
+at the base of the inner web, and about half the outer web broadly white; sides
+of head black; throat and breast reddish-tawny; belly white, the ﬂanks spotted
+with black, and the thighs black behind; under tail-coverts white, tawny on the
+vent; beak blue-black; feet reddish-brown; iris hazel. After the autumn moult
+the feathers of the head and back have broad tawny margins, as also have the
+tips of the greater wing-coverts and the innermost secondaries; the quills and</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="177" y="231"/>
+	<Point x="253" y="231"/>
+	<Point x="253" y="269"/>
+	<Point x="177" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>102</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="135" y="312"/>
+	<Point x="835" y="312"/>
+	<Point x="835" y="417"/>
+	<Point x="135" y="417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="172" y="912"/>
+	<Point x="305" y="912"/>
+	<Point x="305" y="1045"/>
+	<Point x="172" y="1045"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion></Page></PcGts>

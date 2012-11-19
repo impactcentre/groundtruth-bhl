@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668127">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T23:04:54</Created>
+	<LastChange>2012-02-10T09:52:38</LastChange></Metadata>
+	<Page imageFilename="00668127.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="914" y="223"/>
+	<Point x="1391" y="223"/>
+	<Point x="1391" y="314"/>
+	<Point x="914" y="314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE NUTCRACKER</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="192" y="346"/>
+	<Point x="748" y="346"/>
+	<Point x="748" y="444"/>
+	<Point x="192" y="444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—CORVIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="814" y="585"/>
+	<Point x="1466" y="585"/>
+	<Point x="1466" y="683"/>
+	<Point x="814" y="683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE NUTCRACKER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="810" y="760"/>
+	<Point x="1512" y="760"/>
+	<Point x="1512" y="844"/>
+	<Point x="810" y="844"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nucifraga caryocatactes, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="201" y="1107"/>
+	<Point x="398" y="1108"/>
+	<Point x="353" y="905"/>
+	<Point x="2088" y="915"/>
+	<Point x="2086" y="1352"/>
+	<Point x="198" y="1353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CCURS in pine-forests throughout the Palæarctic region; breeding in
+Europe, in South Norway, Sweden, some of the islands of the Baltic, the
+Black Forest, the Alps, Carpathians, and mountains of Hungary: it
+probably breeds also in the mountains of Southern Spain and Sardinia. Although
+apparently a resident bird in the countries of its birth, it occasionally wanders in
+winter, occurring in various other portions of Europe, as well as in Japan and
+North China.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="199" y="1354"/>
+	<Point x="2086" y="1355"/>
+	<Point x="2084" y="1727"/>
+	<Point x="201" y="1728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>To Great Britain the Nutcracker is an occasional straggler, about twenty-ﬁve
+tolerably well authenticated instances of its appearance in our islands having
+occurred, usually in autumn or at the commencement of winter; but in May,
+1899 one frequented a ﬁr-plantation near Thetford, Norfolk, one was shot at Ilkley,
+Yorkshire, in January 1901, and another at Benenden, Kent, in January 1905. In
+Scotland it has occurred, but not in Ireland.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="200" y="1731"/>
+	<Point x="2085" y="1728"/>
+	<Point x="2088" y="2097"/>
+	<Point x="204" y="2102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In colouring the Nutcracker is dull chocolate, freely spotted with white,
+excepting on the crown, wings, and tail: wings greenish-black, some of the
+secondaries tipped with white; the tail feathers black, tipped with white; bill
+brownish-black; feet black; iris brown. Female similar, but rather smaller and
+with the wings slightly browner. Young sordid brownish, with the spots greyish,
+but otherwise like adults.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="203" y="2104"/>
+	<Point x="2090" y="2100"/>
+	<Point x="2090" y="2606"/>
+	<Point x="202" y="2605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Stevenson (Birds of Norfolk, p. 284) commenting upon the diﬀerence in the
+form of the bill in various examples of this bird shot in Great Britain, suggests
+that it is a sexual character; the distinctions which he records are exactly such
+as one would expect to ﬁnd—the male with a stout straight bill, the female with
+a longer and decidedly narrower one.* I believe that all Passerine birds diﬀer
+sexually in this respect, and that the male birds recognize the females by their
+faces alone; indeed there is little diﬃculty in detecting the dissimilarity in the
+features of any of these birds, when the sexes are compared side by side. Using</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="202" y="2608"/>
+	<Point x="2092" y="2608"/>
+	<Point x="2093" y="2732"/>
+	<Point x="202" y="2738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* This diﬀerence is, however, frequently reversed and undoubtedly Stevenson sexed his birds incorrectly,
+inasmuch as an examination of the specimens in the Natural History Museum convinced me that the male
+has the longer and more slender bill, not the female.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1973" y="225"/>
+	<Point x="1973" y="316"/>
+	<Point x="2092" y="316"/>
+	<Point x="2092" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>151</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="201" y="909"/>
+	<Point x="201" y="1101"/>
+	<Point x="387" y="1097"/>
+	<Point x="345" y="910"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion></Page></PcGts>

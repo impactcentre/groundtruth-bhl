@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671108">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T23:19:10</Created>
+	<LastChange>2012-03-12T14:34:05</LastChange></Metadata>
+	<Page imageFilename="00671108.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1165" y="348"/>
+	<Point x="1429" y="348"/>
+	<Point x="1429" y="402"/>
+	<Point x="1165" y="402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 46 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="236" y="463"/>
+	<Point x="2351" y="463"/>
+	<Point x="2351" y="835"/>
+	<Point x="236" y="835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>unmöglich, da von dieser tertiären Verschweißung wenigstens Reste an den letzten Sterna erkennbar
+sein müßten. Zu denken wäre vielleicht auch daran, daß die Genitalöffnung primär in der präanalen
+Intersegmentalhaut gelegen habe und sekundär in die bei anderen Insekten gewöhnliche Lage gewandert
+sei, aber dagegen sprechen manche Daten der vergleichenden Anatomie und Entwicklungsgeschichte.
+Da eine andere Möglichkeit zur Zurückführung der Verhältnisse bei Insekten und Proturen aufeinander
+nicht vorzuliegen scheint, muß diese Frage einstweilen als noch nicht geklärt betrachtet werden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="229" y="836"/>
+	<Point x="2346" y="836"/>
+	<Point x="2346" y="1639"/>
+	<Point x="229" y="1639"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eine weitere Eigentümlichkeit des Geschlechtsapparates von Eosentomon ist das Vorhandensein
+von paarigen Mündungen der Ductus ejaculatorii. Paarige Ausführwege der
+männlichen Geschlechtsorgane kommen außer bei den Proturen noch in zwei Insektenordnungen vor,
+bei den Ephemeriden und bei gewissen Dermapteren (Protodermaptera s. lat., Zacher). Zwischen
+den Verhältnissen bei den Dermapteren und denen bei Eosentomon besteht insofern ein Unterschied,
+als bei den Dermapteren der Penis als Ganzes eingestülpt werden kann und daher einzelne Sklerite
+nicht ausgebildet (Meinert) sind. Eine gewisse äußere Ähnlichkeit mit dem Kopulationsapparat
+männlicher Ephemeriden läßt sich dagegen nicht verkennen. Aber hier besteht ein prinzipieller Unter-
+schied darin, daß die Ductus ejaculatorii der Ephemeriden mesodermal (Palmén) sind, während bei
+Eosentomon ihre kräftige Chitinauskleidung auf ektodermalen Ursprung hinweist. Diese letztere
+Erscheinung ist übrigens auch deshalb noch von wesentlicher Bedeutung, weil durch sie die von
+Heymons bezweifelte Annahme einer ursprünglichen Paarigkeit der ektodermalen Geschlechts-
+gänge eine neue Stütze erhält.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="236" y="1643"/>
+	<Point x="2346" y="1643"/>
+	<Point x="2346" y="1965"/>
+	<Point x="236" y="1965"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auf die weitgehende Homologie zwischen männlichem und weiblichem
+Geschlechtsapparate konnte schon des öfteren hingewiesen werden. Berlese hat
+bereits eine Zusammenstellung der homologen Teile für Acerentomon gegeben. Da aber die vorliegende
+Untersuchung ergeben hat, daß Eosentomon in mancher Hinsicht abweichend gebaute Geschlechts-
+anhänge besitzt, möchte ich auch für diese Gattung eine tabellarische Zusammenstellung geben.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r5">
+	<Coords>
+	<Point x="556" y="2007"/>
+	<Point x="2010" y="2007"/>
+	<Point x="2010" y="2694"/>
+	<Point x="556" y="2694"/></Coords></TableRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="229" y="2702"/>
+	<Point x="2343" y="2702"/>
+	<Point x="2343" y="3141"/>
+	<Point x="229" y="3141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hierbei ist ein Vergleich mit dem Sexualapparat höherer Insekten durch
+die angewandte Nomenklatur mit eingeschlossen. Derselbe ist zunächst bloß gültig für das männliche
+Geschlecht, da bei den Weibchen höherer Insekten durch die gleichzeitige Verwendung von Teilen
+der Abdominalsegmente zum Aufbau des Legeapparates die Verhältnisse zu sehr kompliziert werden.
+Aber auch für die Männchen darf nicht vergessen werden, daß nach dem, was über die Lage der
+Geschlechtsöffnungen gesagt wurde, es noch nicht entschieden werden kann, ob diese Übereinstimmung
+auf Homologie oder Homoplasie beruhen. Eine sichere Entscheidung darüber, ob die Geschlechts-</Unicode></TextEquiv></TextRegion></Page></PcGts>

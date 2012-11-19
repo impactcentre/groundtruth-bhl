@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667904">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:11:27</Created>
+	<LastChange>2012-02-10T09:52:20</LastChange></Metadata>
+	<Page imageFilename="00667904.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="245" y="250"/>
+	<Point x="328" y="250"/>
+	<Point x="328" y="300"/>
+	<Point x="245" y="300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>40</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="940" y="240"/>
+	<Point x="1428" y="240"/>
+	<Point x="1428" y="297"/>
+	<Point x="940" y="297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SAND-MARTIN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="240" y="364"/>
+	<Point x="2116" y="364"/>
+	<Point x="2116" y="919"/>
+	<Point x="240" y="919"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>neatly arranged, each feather lying on its face with the curved under surface
+upwards, and the base of the shaft in the centre of the nest: when carefully
+removed from the burrows, nests of this character are very pretty; the pinky-white
+eggs appearing to lie in a pure white ﬂower-like cup; unhappily a very slight
+puﬀ of wind disturbs their symmetry, whilst the removal of the eggs inevitably
+displaces the lining, so that one never sees a really perfect Sand-Martin's nest in
+any collection. One reason for the slovenliness of many cabinet nests probably
+may be, that where nests are abundant, the collector is satisﬁed with those most
+readily attainable, and thus fails to secure the best-formed specimens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="216" y="923"/>
+	<Point x="2123" y="923"/>
+	<Point x="2123" y="1109"/>
+	<Point x="216" y="1109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The eggs vary in number from four to six, and in form from a long to a
+short oval; in colour they are pure white, very slightly glossy, and when freshly
+laid show the yolk through the shell, which gives them a rosy appearance.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="226" y="1114"/>
+	<Point x="2123" y="1114"/>
+	<Point x="2123" y="1485"/>
+	<Point x="226" y="1485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The burrows of Sand-Martins, although an irresistible attraction to the birds'-
+nester, are often a source of considerable annoyance to railway companies; every
+year fresh tunnels are added, as those ﬁrst formed extend too far inwards to please
+the birds, one tunnel runs into another, is abandoned, and a new one excavated:
+thus the bank of the cutting becomes so much undermined, that frosts and thaws
+bring about a land-slip, and a temporary block to traﬃc is occasioned.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="221" y="1488"/>
+	<Point x="2126" y="1488"/>
+	<Point x="2126" y="1859"/>
+	<Point x="221" y="1859"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Of all nests which I have taken, I know of none which so swams with ﬂeas
+and ticks as that of the Sand-Martin; the young birds if taken out and examined,
+will frequently be found to have large ticks attached to their heads, usually either
+on the crown or nape; whilst, in old colonies, the ﬂeas skip about in myriads:
+how the poor birds exist under the incessant irritation of these lively vermin is a
+puzzle; but perhaps, like the African attacked by chigos, they enjoy the sensation.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="223" y="1866"/>
+	<Point x="391" y="1864"/>
+	<Point x="907" y="1864"/>
+	<Point x="2119" y="1866"/>
+	<Point x="2119" y="2107"/>
+	<Point x="223" y="2107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The call-note of this bird is thin and shrill—a sort of sweer: the only attempt
+at a song which I have heard is a short low twittering, somewhat vaguely resembling
+part of the song of the Reed-Warbler, and usually uttered when two birds meet
+in the air and ﬂutter a moment before continuing their onward ﬂight.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="235" y="2114"/>
+	<Point x="407" y="2113"/>
+	<Point x="489" y="2115"/>
+	<Point x="2142" y="2114"/>
+	<Point x="2142" y="2750"/>
+	<Point x="235" y="2750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Like the other Swallows, this bird is purely insectivorous; its food principally
+consisting of gnats and small ﬂies, which adhere to its viscid saliva, as with wide-
+open gape it pursues them in the air: it has been stated to feed its young occa-
+sionally with large dragon-ﬂies, but this seems rather improbable, the bodies of
+these insects being so long, that (if given entire) they could not be swallowed by
+such tiny birds: the only chance is, that the greed of these nestlings which, when
+fed, frequently try to swallow one another's heads, might possibly enable them to
+tear the body of the dragon-ﬂy in half. The Sand-Martin usually produces two
+broods in the year, the ﬁrst nest being rarely full before the beginning of June,
+and the second about the middle of July, or even later: the return migration</Unicode></TextEquiv></TextRegion></Page></PcGts>

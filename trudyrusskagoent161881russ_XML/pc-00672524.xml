@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672524">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:51:46</Created>
+	<LastChange>2012-02-10T09:55:06</LastChange></Metadata>
+	<Page imageFilename="00672524.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="930" y="128"/>
+	<Point x="1241" y="128"/>
+	<Point x="1241" y="194"/>
+	<Point x="930" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 328 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="224" y="269"/>
+	<Point x="1957" y="269"/>
+	<Point x="1957" y="441"/>
+	<Point x="224" y="441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die folgenden 4 Arten dieser Gattungen lassen sich in 2
+Abtheilungen trennen:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="323" y="453"/>
+	<Point x="1966" y="453"/>
+	<Point x="1966" y="1194"/>
+	<Point x="323" y="1194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a) Prosternum vor den Hüften mehr oder weniger längs
+eingedrückt, Postkoxalfortsatz auf demselben erhaben,
+erweitert, verkehrt herzförmig, an der breitesten
+Stelle so breit als die Entfernung der Mittelhüften,
+das Mesosternum nicht bedeckend, Augenlappen mehr
+oder weniger deutlich, Entfernung zwischen den Mit-
+tel- und Hinterhüften kaum so gross als der Durch-
+messer der Mittelhüften. Hierher Balassogloi, Signifer,
+Annulatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="321" y="1214"/>
+	<Point x="1964" y="1214"/>
+	<Point x="1964" y="1646"/>
+	<Point x="321" y="1646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>b) Prosternum vor den Hüften gewölbt, Postkoxalfortsatz
+auf demselben nicht erhaben, Augenlappen nicht vor-
+handen, Entfernung zwischen den Mittel- und Hinter-
+hüften mindestens doppelt so gross als der Durch-
+messer der Mittelhüften. Hierher Capucinus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="207" y="1723"/>
+	<Point x="1962" y="1723"/>
+	<Point x="1962" y="2998"/>
+	<Point x="207" y="2998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lissotarsus Balassogloi n. sp. Ellipticus, subconvexus,
+piceus, subtus squamis niveis, supra cervinis, umbrinis niveis-
+que maculatim undique tectus; rostro, antennis pedibusque ru-
+ﬁs; capite (?) rostri basique subsquamulato, rostro crasso,
+basi constricto, prothoracis longitundine breviore, grosse pro-
+funde punctato; prothorace elongato-quadrato antrorsum rotun-
+dato-angustato, basi evidenter bisinuato, lobo antescutellari pro-
+ducto, dorso carinato, vittis duabus abbreviatis basalibus et
+punctis duobus dorsalibus umbrinis; scutello triangulari; ely-
+tris thoracis basi haud latioribus, humeris obtuse angulato-di-
+latatis deinde ad apicem rotundato-angustatis, singulatim sub-
+rotundatis, striatis, interstitiis planis, tertio basi dilatato; epi-
+meris mesothoracis, humeris, plagis duabus suturalibus inter se
+connexis, anteriore elongata posteriore rotundata umbrino-squa-
+mulatis; prosterno apice evidenter emarginato.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="333" y="3008"/>
+	<Point x="1025" y="3008"/>
+	<Point x="1025" y="3082"/>
+	<Point x="333" y="3082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 4, lat. 2,25 Mm.</Unicode></TextEquiv></TextRegion></Page></PcGts>

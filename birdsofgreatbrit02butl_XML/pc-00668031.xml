@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668031">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T20:24:36</Created>
+	<LastChange>2012-02-10T09:52:32</LastChange></Metadata>
+	<Page imageFilename="00668031.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="844" y="205"/>
+	<Point x="1276" y="205"/>
+	<Point x="1276" y="280"/>
+	<Point x="844" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BRAMBLING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="112" y="334"/>
+	<Point x="1988" y="334"/>
+	<Point x="1988" y="584"/>
+	<Point x="112" y="584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tail-feathers have fairly broad yellow margins; the feathers of the sides of the
+neck have ashy edges; the sides and ﬂanks are washed with orange-tawny, the
+black spots on the ﬂanks are less prominent, and the beak becomes bright ochre-
+yellow, with brown tip.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="112" y="595"/>
+	<Point x="1989" y="595"/>
+	<Point x="1989" y="835"/>
+	<Point x="112" y="835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The female somewhat resembles the male in winter plumage but is altogether
+duller, the black of the upper parts being replaced by brown, and the bars on the
+wings are much less prominent. The young at ﬁrst are very like the female,
+but the males quickly develop their characteristic colouring.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="114" y="843"/>
+	<Point x="1989" y="843"/>
+	<Point x="1989" y="959"/>
+	<Point x="114" y="959"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The breeding plumage of the male is acquired without a moult, and it is said
+that the change is eﬀected by shedding the tips of the feathers.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="116" y="966"/>
+	<Point x="1992" y="966"/>
+	<Point x="1992" y="1523"/>
+	<Point x="116" y="1523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Although somewhat less active than the Chaﬃnch, this species is quite as
+quarrelsome in the breeding season (at any rate in conﬁnement); in winter, how‑
+ever, the ﬂocks which travel about through woods and over ﬁelds in search of
+food agree perfectly with one another and with Chaﬃnches. Speaking of them as
+observed near Sheﬃeld, Seebohm observes:—“They are remarkable noisy birds, and
+sit upon the tree-tops twittering to each other until dusk; they sometimes ﬂy up
+into the air in a compact mass, and after wheeling round several times again alight.
+They roost in the yew and holly trees, and a fair proportion of them seek quarters
+in the ivy.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="116" y="1527"/>
+	<Point x="1992" y="1527"/>
+	<Point x="1992" y="2337"/>
+	<Point x="116" y="2337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The site chosen by the Brambling for its nest is usually at a height of from
+ﬁfteen to twenty feet from the ground in a birch or ﬁr-tree, at the junction of a
+branch with the trunk; the nest has, however, been found in juniper bushes. In
+his “Catalogue of Birds of the Dyke Road Museum, at Brighton,” p. 126, the late
+Mr. E. T. Booth says:—“In the summer of 1866, while ﬁshing on the river Lyon,
+in Perthshire, I had occasion to climb a beech-tree to release the line which had
+become entangled in the branches, and while so engaged a female Brambling was
+disturbed from her nest, containing three eggs, which was placed close to the stem
+of the tree. As I was anxious to procure the young I left her, and on visiting
+the spot in about a fortnight the nest was empty, and, judging by its appearance,
+I should be of opinion that the young birds had been dragged out by a cat. This
+is the only instance I have ever known of the Brambling attempting to rear its
+young in Great Britain.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="117" y="2346"/>
+	<Point x="1991" y="2346"/>
+	<Point x="1991" y="2523"/>
+	<Point x="117" y="2523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In the “Field” for July 23rd, 1864, p. 52, the Rev. J. C. Atkinson recorded
+the fact of a nest with ﬁve or six eggs having been taken at Baldersby Park, near
+Thirsk, Yorks., by the Hon. Guy Dawnay.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="118" y="2535"/>
+	<Point x="1991" y="2535"/>
+	<Point x="1991" y="2714"/>
+	<Point x="118" y="2714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The nest is larger and more coarsely made than that of the Chaﬃnch, being
+formed of white and buﬀ birch-bark, moss, lichens, and spiders’ web, and lined
+with ﬁne grass and feathers. The eggs, ﬁve to seven, usually six, in number, are</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1896" y="208"/>
+	<Point x="2025" y="208"/>
+	<Point x="2025" y="294"/>
+	<Point x="1896" y="294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>103</Unicode></TextEquiv></TextRegion></Page></PcGts>

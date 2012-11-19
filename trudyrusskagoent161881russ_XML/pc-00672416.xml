@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672416">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:31:21</Created>
+	<LastChange>2012-02-10T09:54:48</LastChange></Metadata>
+	<Page imageFilename="00672416.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="978" y="126"/>
+	<Point x="1292" y="126"/>
+	<Point x="1292" y="192"/>
+	<Point x="978" y="192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 222 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="655" y="310"/>
+	<Point x="1637" y="310"/>
+	<Point x="1637" y="401"/>
+	<Point x="655" y="401"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. decolor Tab. XII, ﬁg. 33.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="257" y="433"/>
+	<Point x="2008" y="433"/>
+	<Point x="2008" y="855"/>
+	<Point x="257" y="855"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis subadscendentibus; alis ant. elongatis, cinereis, stri-
+gis duabus dilutis, obscurius marginatis (priore obliqua, dila-
+tata, angulata, posteriore subrecta), punctis venae transversae
+marginisque nigris, obsoletis; post. griseis, pellucidis, obscurius
+venosis. ♂ ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="267" y="883"/>
+	<Point x="2003" y="883"/>
+	<Point x="2003" y="2135"/>
+	<Point x="267" y="2135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eine sehr unscheinbare Art, die sich von Restrictella
+durch ihre gestrecktern Vorderﬂügel mit viel schrägerem, nur
+hinterwärts dunkel gerandetem ersten Querstreifen und die
+gleichfalls sehr in die Länge gezogenen Hinterﬂügel leicht
+unterscheidet. Am nächsten kommt sie den in der Grösse
+übereinstimmenden Myel. xanthotricha*) und Ceratoniae. Er-
+stere hat weissere, undurchsichtige Hinterﬂügel mit längerer
+und engerer Endgabel der Medianader, auf den Vorderﬂügeln
+den ersten Querstreifen viel senkrechter und den zweiten nä-
+her am Hinterrande; dabei hat sie kürzere, aufgebogene
+Taster. Ceratoniae, nur in den kleinsten Exemplaren von der
+Grösse der Decolor, zeigt auf den Hinterﬂügeln dieselben
+Unterschiede wie Xanthotricha; auf den Vorderﬂügeln ist der
+erste Querstreifen an der untern Hälfte verengt, und die
+Taster sind aufgebogen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="258" y="2144"/>
+	<Point x="2007" y="2144"/>
+	<Point x="2007" y="2808"/>
+	<Point x="258" y="2808"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Taster fast grade, wenig aufgerichtet, ziemlich schlank, in
+halber Kopﬂänge über den Kopf hervorstehend, grau, aussen
+schwarzbraun; Endglied kurz und zugespitzt, am Ende oft
+hell. Maxillartaster deutlich. Gesicht grau, mehr oder we-
+niger dunkel, Fühler grau, beim ♂ deutlich pubescirend
+gefranzt. Analbusch des ♂ zusammengedrückt, stumpf kegel-
+förmig. Beine grau, aussen dunkel bestäubt; Mittelschienen
+vor der weisslichen, schräg zugeschnittenen Spitze mit einem</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="248" y="2901"/>
+	<Point x="1994" y="2901"/>
+	<Point x="1994" y="3103"/>
+	<Point x="248" y="3103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Mein einzelnes, von Staudinger selbst erhaltenes ♂ zeigt auf der
+Unterseite keine Spur eines gelben Haarbusches, der doch die Veranlassung
+zum Namen gegeben bat.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="258" y="2851"/>
+	<Point x="860" y="2851"/>
+	<Point x="860" y="2876"/>
+	<Point x="258" y="2876"/></Coords></SeparatorRegion></Page></PcGts>

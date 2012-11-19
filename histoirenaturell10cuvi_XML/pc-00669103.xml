@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669103">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:55:17</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669103.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="184" y="289"/>
+	<Point x="1577" y="289"/>
+	<Point x="1572" y="1424"/>
+	<Point x="184" y="1430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gardant en hauteur un peu plus du quart de celle
+du corps; ses épines sont au nombre de neuf, dont
+la première très-courte, et ses rayons mous de vingt-
+trois et quelquefois de vingt-quatre, de vingt-cinq
+ou même de vingt-six; on ne voit point extérieure‐
+ment d’épine couchée au-devant de sa base, comme
+dans les amphacanthes, bien qu’il y en ait une petite
+dans le squelette. L’anale commence sous le milieu
+du corps et se conforme du reste à la dorsale pour
+la hauteur, l’égalité et la terminaison; elle a trois
+épines, dont la première est courte et presque cachée,
+et vingt-deux rayons mous. Un ruban de petites
+écailles, séparé de celles du corps par un sillon,
+marche le long de la base de ces deux nageoires;
+mais sur les nageoires mêmes il n’y en a point.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="212" y="1432"/>
+	<Point x="1565" y="1425"/>
+	<Point x="1569" y="2636"/>
+	<Point x="213" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Entre elle et la caudale est un espace du douzième
+à peu près de la longueur totale, et presque aussi
+haut que long; il a de chaque côté une forte épine
+comprimée et tranchante comme une lancette, dont
+la base a aussi une pointe plus petite. Cette épine
+est mobile sur une articulation de son tiers posté‐
+rieur, et lorsqu’elle est couchée contre le corps dans
+le sillon destiné à la recevoir, on dirait une simple
+lame tranchante, pointue aux deux bouts et légèrement
+saillante; mais elle peut se redresser de manière à for‐
+mer avec le corps un angle de quarante-cinq degrés;
+sa pointe antérieure, dirigée en avant, peut devenir
+alors une arme très-dangereuse. La longueur de cette
+épine varie beaucoup; on en trouve du dix-huitième
+environ de la longueur totale, et d'autres individus
+n’en ont que de moitié plus courtes. La caudale est</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="548" y="204"/>
+	<Point x="1128" y="204"/>
+	<Point x="1128" y="283"/>
+	<Point x="548" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1390" y="185"/>
+	<Point x="1519" y="185"/>
+	<Point x="1519" y="279"/>
+	<Point x="1390" y="279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>171</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669395">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:01:07</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669395.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="77" y="236"/>
+	<Point x="1483" y="236"/>
+	<Point x="1483" y="566"/>
+	<Point x="77" y="566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aux athérines que par la bande argentée de
+ses ﬂancs. C’est là l’origine du nom spéciﬁque
+de menidia, donné à cette athérine de la
+Caroline.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="73" y="573"/>
+	<Point x="1484" y="573"/>
+	<Point x="1484" y="1168"/>
+	<Point x="692" y="1169"/>
+	<Point x="72" y="1168"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Au reste, on a si peu remarqué l’erreur de
+Linné relativement à ces poissons, que c’est
+encore la ﬁgure de Brown que Bonnaterre a
+fait copier pour représenter l’atherina meni‑
+dia1, quoiquil eût été averti par Gronovius,
+qui met le poisson de Brown avec l’anchois,
+dans son genre argentina.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="71" y="1172"/>
+	<Point x="1483" y="1172"/>
+	<Point x="1483" y="1742"/>
+	<Point x="1221" y="1743"/>
+	<Point x="70" y="1743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mais M. de Lacépède est venu encore aug‑
+menter la confusion, en donnant pour le me-
+nidia de Linné3 la description d’un poisson
+faite d’après M. Bosc, et laquelle est d’une
+autre espèce, à corps plus court, et très-
+probablement la même que l’atherina notata
+de M. Mitchill.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="63" y="1759"/>
+	<Point x="1479" y="1759"/>
+	<Point x="1481" y="2014"/>
+	<Point x="890" y="2015"/>
+	<Point x="616" y="2013"/>
+	<Point x="577" y="2013"/>
+	<Point x="62" y="2014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons pour garant de cette assertion
+le dessin même de M. Bosc, qui a servi à
+faire la description de Lacépède.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="150" y="2017"/>
+	<Point x="1475" y="2019"/>
+	<Point x="1475" y="2101"/>
+	<Point x="150" y="2100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est d’ailleurs assez diﬃcile aujourd’hui</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="130" y="2175"/>
+	<Point x="1473" y="2178"/>
+	<Point x="1472" y="2246"/>
+	<Point x="1348" y="2245"/>
+	<Point x="1326" y="2246"/>
+	<Point x="1186" y="2245"/>
+	<Point x="1062" y="2242"/>
+	<Point x="588" y="2240"/>
+	<Point x="577" y="2241"/>
+	<Point x="572" y="2229"/>
+	<Point x="131" y="2230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Planches de l’Encyclopédie, Ichthyologie, pl. 73, ﬁg. 303.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="73" y="2241"/>
+	<Point x="553" y="2241"/>
+	<Point x="570" y="2244"/>
+	<Point x="704" y="2244"/>
+	<Point x="1090" y="2247"/>
+	<Point x="1184" y="2249"/>
+	<Point x="1480" y="2250"/>
+	<Point x="1480" y="2541"/>
+	<Point x="1310" y="2543"/>
+	<Point x="1301" y="2552"/>
+	<Point x="1229" y="2552"/>
+	<Point x="1178" y="2553"/>
+	<Point x="1161" y="2543"/>
+	<Point x="700" y="2543"/>
+	<Point x="693" y="2550"/>
+	<Point x="675" y="2550"/>
+	<Point x="661" y="2544"/>
+	<Point x="75" y="2544"/>
+	<Point x="73" y="2381"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Zoophyl., p. 112, n.° 350. Bonnaterre a lu avec si peu
+d’attention l’article cité de Gronovius, qu’il change ce que dit
+le naturaliste hollandais de la ressemblance du menidia avec
+l’anchois, en une ressemblance qu’il aurait avec le joël; et c’est
+sur de pareilles confusions qu’il faut étudier l’ichthyologie!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="133" y="2546"/>
+	<Point x="560" y="2546"/>
+	<Point x="560" y="2610"/>
+	<Point x="133" y="2610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. Tome V, p. 376.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="633" y="128"/>
+	<Point x="925" y="128"/>
+	<Point x="925" y="208"/>
+	<Point x="633" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="1336" y="129"/>
+	<Point x="1485" y="129"/>
+	<Point x="1485" y="201"/>
+	<Point x="1336" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>463</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r18">
+	<Coords>
+	<Point x="70" y="2129"/>
+	<Point x="70" y="2164"/>
+	<Point x="1489" y="2164"/>
+	<Point x="1489" y="2129"/></Coords></SeparatorRegion></Page></PcGts>

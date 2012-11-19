@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672323">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T19:10:09</Created>
+	<LastChange>2012-02-10T09:54:29</LastChange></Metadata>
+	<Page imageFilename="00672323.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="792" y="142"/>
+	<Point x="1101" y="142"/>
+	<Point x="1101" y="208"/>
+	<Point x="792" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 129 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="87" y="275"/>
+	<Point x="1819" y="275"/>
+	<Point x="1819" y="766"/>
+	<Point x="87" y="766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sehr auﬀallend ist das Vorkommen der Gattung Habryntis
+(in L.). Auf Cypern wurde nur Pericyma für Kleinasien ge-
+funden. Dahingegen hat P. 21 dort gefundene Noctuiden-Gat-
+tungen für die kleinasiatische Fauna allen, B. deren 8 (Tra-
+chea, Naenia, Xylocampa, Anophia, Boletobia, Simplicia, Pe-
+chipogon und Orectis?).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="76" y="773"/>
+	<Point x="1832" y="773"/>
+	<Point x="1832" y="1674"/>
+	<Point x="76" y="1674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auch an Geometriden überragt P. mit 181 Arten noch
+B. mit 171; die Zahl der Gattungen (52) ist für beide Lokalitä-
+ten gleich. Sehr reich ist die Gattung Acidalia mit 71 Ar-
+ten, und verhältnissmässig für die so südliche Lage auch Ci-
+daria mit 36 und Eupithecia mit 30 Arten. Letztere beson-
+ders in Bezug darauf, dass sie nicht eifrig gesammelt wurde.
+Endemisch für Kleinasien ist nur die von mir aufgestellte Gat-
+tung Dasycephala, während die auch für Kleinasien ziemlich
+charakteristischen Gattungen Problepsis, Orthostixis, Hetero-
+locha und Apocheima sich noch in einigen andern, meist an-
+grenzenden Ländern vorﬁnden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="76" y="1678"/>
+	<Point x="1839" y="1678"/>
+	<Point x="1839" y="3080"/>
+	<Point x="76" y="3080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sehr reich ist Kleinasien an Pyralidina. Davon geben die
+jetzt dort schon aufgefundenen 300 Arten (so viel als in Central-
+Europa und etwa 46% aller paläarktischen) den schlagend-
+sten Beweis. Die Gattung Botys mit 50 Arten steht hier oben
+an. Aber auch die 21 Arten der Gattung Crambus sind für
+ein so südlich gelegenes Gebiet sehr ehrenwerth. Wenn die
+Gattung Pempelia jetzt schon 20, und die (allerdings sehr
+negativ basirte) Gattung Myelois 29 Arten aufweist, so glaube
+ich, dass diese selbst für den Süden stattlichen Zahlen noch
+ziemlich vermehrt werden dürften. Pontus hat mit 197 Arten
+noch immer den Vorrang vor Brussa mit 170 Arten, aber
+letzteres überﬂügelt bereits mit 54 Gattungen, die bei Pontus
+nur hier 51 zählenden. Endemisch für Kleinasien sind nur Cy-
+balomia (in L.) und Maxillaria (in В.). Die Gattungen Noc-
+tuelia, Ephelis, Aeschremon, Ulotricha, Amaurophanes und
+Euclasta, die auch charakteristisch für Kleinasien genannt
+werden können, kommen noch in den nahe liegenden Ländern</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="248" y="3089"/>
+	<Point x="564" y="3089"/>
+	<Point x="564" y="3153"/>
+	<Point x="248" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1577" y="3089"/>
+	<Point x="1658" y="3089"/>
+	<Point x="1658" y="3153"/>
+	<Point x="1577" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>9</Unicode></TextEquiv></TextRegion></Page></PcGts>

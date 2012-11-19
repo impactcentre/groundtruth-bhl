@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669238">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:11:03</Created>
+	<LastChange>2012-03-12T14:33:51</LastChange></Metadata>
+	<Page imageFilename="00669238.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="403" y="258"/>
+	<Point x="1750" y="258"/>
+	<Point x="1750" y="630"/>
+	<Point x="403" y="630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son contour, en n’y comprenant pas la queue
+ni ses nageoires verticales, est presque arrondi; sa
+plus grande hauteur est aux ventrales, et entre deux
+fois dans sa longueur totale; son épaisseur est con‐
+tenue trois fois et demie dans cette hauteur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="416" y="635"/>
+	<Point x="1747" y="635"/>
+	<Point x="1750" y="784"/>
+	<Point x="500" y="792"/>
+	<Point x="417" y="791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le proﬁl descend par une courbe oblique de la
+nageoire dorsale à la mâchoire supérieure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="417" y="795"/>
+	<Point x="576" y="795"/>
+	<Point x="719" y="793"/>
+	<Point x="834" y="793"/>
+	<Point x="938" y="791"/>
+	<Point x="1749" y="787"/>
+	<Point x="1745" y="1000"/>
+	<Point x="416" y="1003"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ligne du proﬁl du ventre est beaucoup plus
+concave. La carène que fait le ventre est très-élevée,
+et son bord est hérissé et comme dentelé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="411" y="1013"/>
+	<Point x="1761" y="1013"/>
+	<Point x="1761" y="1613"/>
+	<Point x="1645" y="1614"/>
+	<Point x="1380" y="1613"/>
+	<Point x="860" y="1615"/>
+	<Point x="821" y="1616"/>
+	<Point x="411" y="1618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La tête est petite, sa longueur égale sa hauteur,
+et celle-ci ne fait guère que la moitié de celle du
+corps. L’œil est assez grand, son diamètre a la moi‐
+tié de la longueur de la tête. Le sous-orbitaire
+couvre presque toute la partie antérieure de la joue.
+Le préopercule est étroit et descend très-oblique‐
+ment de l’angle postérieur de l’œil jusques en avant
+de la ligne d’aplomb de l’angle antérieur de l’orbite.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="428" y="1621"/>
+	<Point x="1283" y="1617"/>
+	<Point x="1378" y="1615"/>
+	<Point x="1752" y="1619"/>
+	<Point x="1753" y="1830"/>
+	<Point x="428" y="1830"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’opercule est grand, il est étendu sur presque
+toute la joue et sillonné par d’assez fortes stries ver‐
+ticales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="435" y="1843"/>
+	<Point x="1353" y="1839"/>
+	<Point x="1754" y="1836"/>
+	<Point x="1749" y="2063"/>
+	<Point x="1548" y="2063"/>
+	<Point x="1387" y="2064"/>
+	<Point x="432" y="2068"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La bouche est très-petite, fendue horizontale‐
+ment; les deux mâchoires sont égales et dépassent
+un peu le contour du proﬁl du corps.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="433" y="2070"/>
+	<Point x="1544" y="2066"/>
+	<Point x="1601" y="2066"/>
+	<Point x="1754" y="2065"/>
+	<Point x="1754" y="2203"/>
+	<Point x="1756" y="2276"/>
+	<Point x="434" y="2278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sur chaque mâchoire il n’y a qu’une seule ran‐
+gée de dents pointues, égales et serrées l’une contre
+l’autre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="426" y="2286"/>
+	<Point x="1760" y="2286"/>
+	<Point x="1761" y="2506"/>
+	<Point x="1175" y="2507"/>
+	<Point x="1151" y="2516"/>
+	<Point x="426" y="2518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ouverture des ouïes est peu fendue, parce que
+la membrane branchiostège adhère à l’os de l’épaule
+dans presque toute sa longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="501" y="2521"/>
+	<Point x="1158" y="2521"/>
+	<Point x="1178" y="2512"/>
+	<Point x="1757" y="2510"/>
+	<Point x="1757" y="2592"/>
+	<Point x="1124" y="2591"/>
+	<Point x="501" y="2591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La dorsale s’élève un peu en arrière de l’aplomb</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="339" y="160"/>
+	<Point x="487" y="160"/>
+	<Point x="487" y="235"/>
+	<Point x="339" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>306</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="791" y="171"/>
+	<Point x="1287" y="171"/>
+	<Point x="1287" y="235"/>
+	<Point x="791" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

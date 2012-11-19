@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672730">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:34:28</Created>
+	<LastChange>2012-02-10T10:29:46</LastChange></Metadata>
+	<Page imageFilename="00672730.tif" imageWidth="2427" imageHeight="4098">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r5" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="903" y="741"/>
+	<Point x="1400" y="741"/>
+	<Point x="1400" y="829"/>
+	<Point x="903" y="829"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PREFACE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="226" y="1188"/>
+	<Point x="226" y="1038"/>
+	<Point x="2180" y="1035"/>
+	<Point x="2180" y="1735"/>
+	<Point x="119" y="1735"/>
+	<Point x="119" y="1188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HE present volume contains the Sphingidae, Notodontidae, Thyatiridae,
+Lymantriidae, Lasiocampidae, Bombycidae, Saturniidae, Drepanidae,
+Arctiidae, Noctuidae, Hylophilidae and Plusiidae. The total number of
+species in these Families pertaining to Kent is 438, of which 406 are
+accepted without reserve. Of these 406, 295 are natives or suspected
+natives, 52 are residents or residents reinforced by immigration, 52 are
+immigrants or suspected immigrants, and 6 are species that have become
+extinct. Of the remaining 31 species, 21 are placed within the reserva-
+tion of square brackets as of somewhat doubtful status, and 11 are treated
+as inadmissible.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="119" y="1748"/>
+	<Point x="2216" y="1748"/>
+	<Point x="2216" y="2216"/>
+	<Point x="119" y="2216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In the next volume there will be a departure from the system of
+nomenclature and classiﬁcation hitherto adopted. Thus, Volume 3 will
+contain the Geometridae, for the classiﬁcation of which, Mr. D. S. Fletcher
+(British Museum, Natural History), well-known as a leading specialist in
+this group, has kindly permitted me the use of his manuscript list of this
+portion of the new edition of Kloet and Hincks “Check List of British
+Insects”.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="112" y="2225"/>
+	<Point x="2209" y="2225"/>
+	<Point x="2209" y="2648"/>
+	<Point x="112" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Finally, I wish to express my deep appreciation and thanks to all those
+who have so liberally helped me in one way and another in this and the
+preceding volume. Owing to the nature of the work, however, and the
+fact that the number of its contributors is likely to increase, I propose
+awaiting its conclusion to give full acknowledgment of all help received,
+as I shall then know everyone whom I have to thank.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="1454" y="2680"/>
+	<Point x="2116" y="2680"/>
+	<Point x="2116" y="2770"/>
+	<Point x="1454" y="2770"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J. M. CHALMERS-HUNT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="161" y="2732"/>
+	<Point x="774" y="2732"/>
+	<Point x="774" y="2906"/>
+	<Point x="161" y="2906"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>West Wickham,
+10th February 1968.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="1009" y="916"/>
+	<Point x="1274" y="916"/>
+	<Point x="1274" y="980"/>
+	<Point x="1009" y="980"/></Coords></SeparatorRegion>
+	<TextRegion id="r8" type="drop-capital">
+	<Coords>
+	<Point x="133" y="1064"/>
+	<Point x="133" y="1172"/>
+	<Point x="224" y="1172"/>
+	<Point x="224" y="1064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion></Page></PcGts>

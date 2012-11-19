@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669165">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:32:41</Created>
+	<LastChange>2012-02-09T16:27:36</LastChange></Metadata>
+	<Page imageFilename="00669165.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="53" y="328"/>
+	<Point x="1506" y="328"/>
+	<Point x="1506" y="754"/>
+	<Point x="53" y="754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que présente l’acanthure dont une descrip‐
+tion s’est trouvée dans les papiers de Forster,
+avec cette phrase: coryphæna cauda lunata,
+macula oblonga aurantiaca supra pinnas
+pectorales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="41" y="757"/>
+	<Point x="1506" y="757"/>
+	<Point x="1506" y="1420"/>
+	<Point x="41" y="1420"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette description, insérée dans le Système
+de Bloch, p. 213, est fort exacte et ne peut
+laisser de doute sur la similitude absolue de
+ces acanthures. Schneider voudrait nommer
+celui de Forster acanthurus olivaceus; mais
+dans le doute, si cette teinte verdâtre est un
+caractère constant, j’ai préféré le nom d’acan-
+thurus humeralis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="42" y="1426"/>
+	<Point x="1501" y="1426"/>
+	<Point x="1503" y="1845"/>
+	<Point x="775" y="1844"/>
+	<Point x="768" y="1855"/>
+	<Point x="735" y="1856"/>
+	<Point x="721" y="1843"/>
+	<Point x="45" y="1842"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est aussi cette espèce, ou du moins une
+très-voisine, qu’ont voulu représenter Valen-
+tyn, n.° 199, et Renard, II.e part. pl. 12, n.° 55;
+mais ils l’ont enluminée de vert clair, et ont
+donné à la tache des épaules une teinte citron.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="66" y="1850"/>
+	<Point x="719" y="1850"/>
+	<Point x="730" y="1863"/>
+	<Point x="785" y="1862"/>
+	<Point x="789" y="1850"/>
+	<Point x="1477" y="1851"/>
+	<Point x="1476" y="2189"/>
+	<Point x="448" y="2190"/>
+	<Point x="66" y="2189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ne pouvons pas rectiﬁer ce qu’il peut
+y avoir d’inexact dans les ﬁgures, parce qu’elles
+ne sont pas de celles qu’on a tirées du Recueil
+de Vlaming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="51" y="2192"/>
+	<Point x="442" y="2193"/>
+	<Point x="1489" y="2196"/>
+	<Point x="1489" y="2707"/>
+	<Point x="48" y="2707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Renard dit que ce poisson prend une lon‐
+gueur de dix pieds, et qu’il est fort huileux
+et puant, il le nomme l’insulaire de Manipe.
+Valentyn, qui l’appelle ikan panglima ou le
+général, prétend au contraire que c’est un
+excellent poisson. Cette contradiction s’expli-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="477" y="218"/>
+	<Point x="1081" y="218"/>
+	<Point x="1081" y="316"/>
+	<Point x="477" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1348" y="218"/>
+	<Point x="1492" y="218"/>
+	<Point x="1492" y="316"/>
+	<Point x="1348" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>323</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669084">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:23:03</Created>
+	<LastChange>2012-02-09T16:27:32</LastChange></Metadata>
+	<Page imageFilename="00669084.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r17" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="642" y="338"/>
+	<Point x="1385" y="338"/>
+	<Point x="1385" y="410"/>
+	<Point x="642" y="410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE SIDJAN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="314" y="632"/>
+	<Point x="1732" y="632"/>
+	<Point x="1732" y="1234"/>
+	<Point x="314" y="1234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous placerons ici un amphacanthe voisin
+du précédent et encore plus commun dans
+la mer Rouge, que M. Geoﬀroy a rapporté
+de Suez, M. Ruppel de Tor et M. Ehrenberg
+de Massuah, et que ces deux derniers natu‐
+ralistes se sont accordés à considérer comme
+le véritable siganus ou rivulatus de Forskal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="381" y="1252"/>
+	<Point x="1736" y="1252"/>
+	<Point x="1736" y="2073"/>
+	<Point x="381" y="2073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est bien plus oblong que le luridus, et a les
+épines dorsales plus faibles et la tête moins obtuse.
+Sa hauteur est trois fois et demie et plus dans sa
+longueur, sa tête y est cinq fois et un tiers, et un
+peu moins haute que longue; son proﬁl est droit;
+le bout de son museau seulement est arrondi; son
+crâne et son front sont sillonnés de rides serrées et
+assez fortes; au limbe de son préopercule et à son
+opercule il y a des stries encore un peu moins mar‐
+quées qu’au luridus; ses épines sont plus grêles et
+non striées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="389" y="2085"/>
+	<Point x="1746" y="2085"/>
+	<Point x="1746" y="2240"/>
+	<Point x="389" y="2240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa caudale est échancrée d’un tiers, mais quand
+on l’étale, elle semble seulement coupée en croissant.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="392" y="2329"/>
+	<Point x="1745" y="2329"/>
+	<Point x="1745" y="2642"/>
+	<Point x="392" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il paraît varier beaucoup pour les couleurs; ceux
+où elles sont le moins eﬀacées, montrent un fond
+verdâtre en dessus, blanchâtre ou argenté en dessous,
+et semé de petites taches plus pâles que le fond.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="325" y="168"/>
+	<Point x="452" y="168"/>
+	<Point x="452" y="244"/>
+	<Point x="325" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>152</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="757" y="177"/>
+	<Point x="1280" y="177"/>
+	<Point x="1280" y="244"/>
+	<Point x="757" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="312" y="441"/>
+	<Point x="1729" y="441"/>
+	<Point x="1729" y="604"/>
+	<Point x="312" y="604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus siganus, Rupp.; Scarus rivulatus,
+Forskal?)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="804" y="2246"/>
+	<Point x="804" y="2317"/>
+	<Point x="1314" y="2317"/>
+	<Point x="1314" y="2246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/10; A. 7/9, etc.</Unicode></TextEquiv></TextRegion></Page></PcGts>

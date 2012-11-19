@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672220">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T21:47:12</Created>
+	<LastChange>2012-02-10T09:54:04</LastChange></Metadata>
+	<Page imageFilename="00672220.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1069" y="116"/>
+	<Point x="1382" y="116"/>
+	<Point x="1382" y="194"/>
+	<Point x="1069" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 26 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="344" y="251"/>
+	<Point x="2087" y="251"/>
+	<Point x="2087" y="1735"/>
+	<Point x="344" y="1735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de cette apophyse. Après, quand le muscle devient plus vo‐
+lumineux, l’apophyse perd la forme d’un ﬁlament et prend celle
+d’une lame en deux directions: verticale et horizontale, en af‐
+fectant en coupe transversale la lettre �. Le muscle envahit
+peu-à-peu la surface supérieure de l’apophyse jusqu’à ce qu’il
+la couvre entièrement. L’apophyse en question, n’étant liée à
+la partie inférieure de l’épimère que par sa base, se soude
+ensuite dans toute sa longueur avec le sternum, nommément
+par sa partie inférieure. La lame horizontale, qui se déve‐
+loppe au dessus de l’apophyse, se dilate à son extrémite en
+une aire triangulaire avec les pointes dirigées en avant et en
+arrière. Cette aire triangulaire produit, avec sa congénère de
+la moitié opposée de l’insecte, ce que nous avons connu plus
+haut sous le nom d’aire rhomboïdale (ﬁg. 14, 48, 49 et 59).
+L’organisation de cette aire tombe dans la dernière période
+de la vie aquatique. L’apophyse chez la larve est molle et
+blanche, mais elle change ensuite de couleur et de consistance
+et devient foncée et dure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="355" y="1749"/>
+	<Point x="2087" y="1749"/>
+	<Point x="2087" y="1994"/>
+	<Point x="355" y="1994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le muscle élévateur de l’aile s’attache par son bout in‐
+férieur à un tendon, situé près du bord antérieur des trous
+destinés aux hanches moyennes et postérieures (ﬁg. 14 et 59).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="353" y="2000"/>
+	<Point x="2080" y="2000"/>
+	<Point x="2080" y="3080"/>
+	<Point x="353" y="3080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les muscles additionnels des abaisseurs antérieurs des ailes
+se rattachent en haut tout près des tendons de ceux-ci, par
+consequent de la même manière que c’est le cas chez l’imago
+(ﬁg. 45 et 47). Le muscle de l’aile antérieure se ﬁxe sur
+un tendon très long et ﬁliforme; celui de l’aile postérieure est
+fourni de tendon plus court (ﬁg. 45). Au dessous ce muscle
+additionnel de l’aile antérieure est ajusté immédiatement près
+du stigmate antérieur thoracique et celui de l’aile postérieure
+s’attache au dessous par l’intermédiaire d’un tendon grêle près
+du second stigmate thoracique (ﬁg. 47 et 52). Au commen‐
+cement de développement de muscles alaires, quand ils sont
+très minces, les muscles additionnels décrits sont plus ou moins
+distants de leurs principaux et par là sont visibles, tandis que</Unicode></TextEquiv></TextRegion></Page></PcGts>

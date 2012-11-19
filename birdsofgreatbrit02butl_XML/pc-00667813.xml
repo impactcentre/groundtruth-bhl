@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667813">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T14:01:48</Created>
+	<LastChange>2012-02-10T09:52:08</LastChange></Metadata>
+	<Page imageFilename="00667813.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="827" y="212"/>
+	<Point x="1329" y="212"/>
+	<Point x="1329" y="414"/>
+	<Point x="827" y="414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BIRDS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1040" y="521"/>
+	<Point x="1123" y="521"/>
+	<Point x="1123" y="591"/>
+	<Point x="1040" y="591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OF</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="51" y="631"/>
+	<Point x="2119" y="631"/>
+	<Point x="2119" y="868"/>
+	<Point x="51" y="868"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GREAT BRITAIN AND IRELAND</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="354" y="1045"/>
+	<Point x="1795" y="1045"/>
+	<Point x="1795" y="1176"/>
+	<Point x="354" y="1176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ORDER PASSERES, COMPLETE IN TWO VOLUMES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="170" y="1398"/>
+	<Point x="2000" y="1398"/>
+	<Point x="2000" y="1469"/>
+	<Point x="170" y="1469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>By ARTHUR G. BUTLER, M.B.O.U., PH.D., F.L.S., F.Z.S., F.E.S.,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="580" y="1484"/>
+	<Point x="1591" y="1484"/>
+	<Point x="1599" y="1508"/>
+	<Point x="1591" y="1522"/>
+	<Point x="580" y="1522"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORRESPONDING MEMBER OF VARIOUS FOREIGN SOCIETIES,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="181" y="1531"/>
+	<Point x="1978" y="1531"/>
+	<Point x="1991" y="1572"/>
+	<Point x="1978" y="1682"/>
+	<Point x="181" y="1682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AUTHOR OF "BRITISH BIRDS' EGGS, A HANDBOOK OF BRITISH ÖOLOGY" (ILLUSTRATED BY THE AUTHOR).
+"FOREIGN BIRD KEEPING;" "HINTS ON CAGE BIRDS;" "HOW TO SEX CAGE BIRDS"
+AND NUMBEROUS SCIENTIFIC WORKS AND MEMOIRS DEALING WITH VARIOUS BRANCHES OF ZOOLOGY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="887" y="1920"/>
+	<Point x="1296" y="1920"/>
+	<Point x="1296" y="1963"/>
+	<Point x="887" y="1963"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ILLUSTRATED BY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="252" y="1989"/>
+	<Point x="1945" y="1989"/>
+	<Point x="1945" y="2076"/>
+	<Point x="252" y="2076"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. GRÖNVOLD AND F. W. FROHAWK, M.B.O.U., F.E.S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="893" y="2270"/>
+	<Point x="1278" y="2270"/>
+	<Point x="1278" y="2344"/>
+	<Point x="893" y="2344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOLUME II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="523" y="2565"/>
+	<Point x="1793" y="2565"/>
+	<Point x="1793" y="2715"/>
+	<Point x="523" y="2715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BRUMBY &amp; CLARKE, LIMITED, PUBLISHERS,
+HULL AND LONDON.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r12" type="handwritten-annotation">
+	<Coords>
+	<Point x="939" y="2744"/>
+	<Point x="1149" y="2744"/>
+	<Point x="1149" y="2814"/>
+	<Point x="939" y="2814"/></Coords></GraphicRegion></Page></PcGts>

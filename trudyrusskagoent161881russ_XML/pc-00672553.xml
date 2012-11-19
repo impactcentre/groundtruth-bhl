@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672553">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T22:26:13</Created>
+	<LastChange>2012-02-10T09:55:09</LastChange></Metadata>
+	<Page imageFilename="00672553.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r11" index="7"/>
+	<RegionRefIndexed regionRef="r13" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="776" y="173"/>
+	<Point x="1085" y="173"/>
+	<Point x="1085" y="241"/>
+	<Point x="776" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 357 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="73" y="310"/>
+	<Point x="1812" y="310"/>
+	<Point x="1812" y="807"/>
+	<Point x="73" y="807"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>questions, et pour se convaincre qu'eﬀectivement les espèces
+susmentionnées n'habitent pas quelques parties de cette chaîne
+gigantesque, et, si je les ai posées ici, ce n'est que pour y
+attirer l'attention des explorateurs futurs et pour constater
+simplement l'absence des espèces précitées dans les endroits
+par nous explorés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="591" y="883"/>
+	<Point x="1287" y="883"/>
+	<Point x="1287" y="991"/>
+	<Point x="591" y="991"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8. Aporia Crataegi L.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="76" y="1057"/>
+	<Point x="1810" y="1057"/>
+	<Point x="1810" y="1564"/>
+	<Point x="76" y="1564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous remarquâmes les premiers individus de cette espèce
+le 15 Mai, dans une gorge, près du village Tarantscha-Char-
+bougtschi, à 3000'; puis, le long du Kounguesse l'espèce
+n'était pas rare jusqu'à 5000' d'altitude. De petits individus
+volaient à cette hauteur, le moins grand mesurant à peîne
+37 mill.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="73" y="1587"/>
+	<Point x="1810" y="1587"/>
+	<Point x="1810" y="1998"/>
+	<Point x="73" y="1998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une espèce de Crataegus, à petites feuilles, croit abon-
+damment sur les pentes du Tian-Chian, et nourrit bien pro-
+bablement la chenille avec les nombreux pommiers sauvages.
+J'ai également reçu cette espèce du Mouzarte, dans le Tian-
+Chian.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="589" y="2089"/>
+	<Point x="1283" y="2089"/>
+	<Point x="1283" y="2173"/>
+	<Point x="589" y="2173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>9. Pieris Brassicae L.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="74" y="2255"/>
+	<Point x="1796" y="2255"/>
+	<Point x="1796" y="2421"/>
+	<Point x="74" y="2421"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vallée de l'Ili-Kounguesse, en Avril, Mai et Août. Très
+rare.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="74" y="2435"/>
+	<Point x="1801" y="2435"/>
+	<Point x="1801" y="2780"/>
+	<Point x="74" y="2780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les individus étaient de petite taille, mais ne se distin-
+guaient pas autrement de ceux d'Europe. A mon grand re-
+gret, les individus que je pris se perdirent, de sorte que je
+n'en ai rapporté qu'un seul exemplaire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="654" y="2861"/>
+	<Point x="1214" y="2861"/>
+	<Point x="1214" y="2959"/>
+	<Point x="654" y="2959"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10. P. Rapae L.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1794" y="2990"/>
+	<Point x="1794" y="3128"/>
+	<Point x="178" y="3128"/>
+	<Point x="178" y="2990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Partout, jusqu'à 7000' d'altitude, mais assez râre. Ne</Unicode></TextEquiv></TextRegion></Page></PcGts>

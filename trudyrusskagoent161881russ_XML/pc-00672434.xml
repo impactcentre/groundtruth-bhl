@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672434">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:04:59</Created>
+	<LastChange>2012-02-10T09:54:52</LastChange></Metadata>
+	<Page imageFilename="00672434.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="985" y="153"/>
+	<Point x="1319" y="153"/>
+	<Point x="1319" y="232"/>
+	<Point x="985" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 240 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="266" y="285"/>
+	<Point x="2024" y="285"/>
+	<Point x="2024" y="1051"/>
+	<Point x="266" y="1051"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>den Hinterrand des ersten bildet schwärzliche Bestäubung, in
+welcher auf der Medianader ein grosser, dunkler Längsﬂeck
+und senkrecht unter ihm auf der Subdorsalader ein solcher
+Strich hervortritt. Der Doppelpunkt der Querader ist ziemlich
+deutlich. Der hintere Querstreifen ist grade und dem Hinter-
+rande parallel. Auf dem Hinterrande liegen einige sehr schwache,
+dunkle Punkte. — Die Hinterﬂügel sind spitzer und trüber als
+bei Erronella, und ihr Hinterrand ist grösstentheils mit einer
+bräunlichen Linie umzogen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="248" y="1078"/>
+	<Point x="2010" y="1078"/>
+	<Point x="2010" y="2342"/>
+	<Point x="248" y="2342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung 2. Zwischen Ubacensis und Erronella steht
+der Grösse nach in der Mitte Homoeos. maturella (Tab. XII, ﬁg.
+44), von welcher Petersen ein ♂ am 17 Februar gefangen
+hat. Kopf und Taster sind wie bei Ubacensis, die Fühler
+heller. Auf den schmalen Vorderﬂügeln ist nur das Basalfeld
+weisslich, dagegen das Mittelfeld, besonders in der hintern
+Partie, dunkel bestäubt, so dass die zwei Queraderpunkte sehr
+undeutlich werden. Die hintere Einfassung der ersten Quer-
+linie deutet ein grosser, bis zur Subdorsalader reichender,
+schräger, schwärzlicher Fleck an, der durch einen schräg ein-
+wärts gerichteten Faden mit dem Vorderrand verbunden ist;
+er liegt also oﬀenbar viel schräger als die zwei Flecke der
+Ubacensis zusammengenommen. Der zweite Querstreifen ist
+sehr undeutlich und liegt vom unpunktirten Hinterrand weiter
+ab als bei Ubacensis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="248" y="2364"/>
+	<Point x="1994" y="2364"/>
+	<Point x="1994" y="2966"/>
+	<Point x="248" y="2966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung 3. Obgleich aber an den hier aufgestellten
+drei Arten die angegebenen Unterschiede vorhanden sind, so
+ist es für mich noch nicht ausgemacht, ob nicht Bindeglieder
+vorkommen, und ob nicht alle zu einer einzigen Art gehören,
+die ihre verschiedene Grösse, Färbung und Gestaltung nur
+der Verschiedenheit des Futters und climatischen Einﬂüssen
+verdankt.</Unicode></TextEquiv></TextRegion></Page></PcGts>

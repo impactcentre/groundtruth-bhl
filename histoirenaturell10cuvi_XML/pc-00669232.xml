@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669232">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:40:26</Created>
+	<LastChange>2012-03-12T14:33:50</LastChange></Metadata>
+	<Page imageFilename="00669232.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="376" y="291"/>
+	<Point x="1841" y="291"/>
+	<Point x="1841" y="471"/>
+	<Point x="378" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous tirons son nom de la forme de sa
+lame caudale (�����, hache). Une seule espèce</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="389" y="469"/>
+	<Point x="1835" y="479"/>
+	<Point x="1848" y="643"/>
+	<Point x="389" y="643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nous est connue jusqu’à ce jour, et nous l’ap‐
+pellerons Axinurus thynnoides.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="440" y="666"/>
+	<Point x="1835" y="666"/>
+	<Point x="1835" y="2657"/>
+	<Point x="440" y="2657"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur est trois fois et un tiers dans sa lon‐
+gueur; son épaisseur deux fois dans sa hauteur; sa
+queue est très-mince, et sa caudale coupée en crois‐
+sant et raide, comme dans les scombres en général.
+La courbe du dos se continue sur le proﬁl, qui ﬁnit
+par un museau un peu obtus. La longueur de la
+tête, de la bouche à l’ouïe, est d’un peu plus du cin‐
+quième du total, et la fente de la bouche n’entame
+pas le sixième de ce cinquième; un repli de la peau
+cache le maxillaire. Le front est un peu large et très-
+légèrement convexe en travers. L’œil est assez près
+de la ligne du proﬁl, et occupe le quart supérieur de
+la longueur de la tête, prise dans ce sens. Au-devant
+de l’œil est un léger enfoncement, où sont percés
+les très-petits oriﬁces de la narine, fort rapprochés
+l’un de l’autre: l’antérieur a un petit rebord charnu,
+et un peu plus bas un sillon oblique. La fente des
+ouïes ne commence qu’à la hauteur du bord infé‐
+rieur de l’œil, et à une distance en arrière égale
+à son diamètre; elle descend jusque vers la pectorale,
+et se courbe pour prendre ensuite une direction
+oblique et se terminer sous le bord antérieur de
+l’œil, mais presque à deux de ses diamètres au-dessous.
+L’isthme et la gorge forment une convexité arron‐
+die en travers sur une ligne qui se continue à celle
+du ventre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="555" y="178"/>
+	<Point x="555" y="192"/>
+	<Point x="554" y="192"/>
+	<Point x="554" y="218"/>
+	<Point x="553" y="218"/>
+	<Point x="553" y="244"/>
+	<Point x="552" y="244"/>
+	<Point x="552" y="270"/>
+	<Point x="551" y="270"/>
+	<Point x="551" y="281"/>
+	<Point x="391" y="281"/>
+	<Point x="391" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>300</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="1385" y="178"/>
+	<Point x="1385" y="281"/>
+	<Point x="847" y="281"/>
+	<Point x="847" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672606">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:34:41</Created>
+	<LastChange>2012-02-10T09:55:19</LastChange></Metadata>
+	<Page imageFilename="00672606.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r14" index="8"/>
+	<RegionRefIndexed regionRef="r16" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="954" y="342"/>
+	<Point x="1478" y="342"/>
+	<Point x="1478" y="450"/>
+	<Point x="954" y="450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>76. A. Ino Esp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="311" y="519"/>
+	<Point x="2069" y="519"/>
+	<Point x="2070" y="774"/>
+	<Point x="310" y="772"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je trouvai un ♂ dans la collection laissée par feu Go-
+licke, sans indication de localité, ni de date. Il est seule-
+ment certain que c'est du district de Kouldjà qu'il provient.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="447" y="783"/>
+	<Point x="1364" y="783"/>
+	<Point x="1364" y="869"/>
+	<Point x="447" y="869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pas diﬀérent du type Européen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="902" y="950"/>
+	<Point x="1521" y="950"/>
+	<Point x="1521" y="1038"/>
+	<Point x="902" y="1038"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>77. A. Lathonia L.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="330" y="1119"/>
+	<Point x="2078" y="1119"/>
+	<Point x="2078" y="1300"/>
+	<Point x="330" y="1300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Râre mais partout, depuis les sables (Avril) et jusqu'à
+9000 pieds d'altitude.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="307" y="1302"/>
+	<Point x="2071" y="1302"/>
+	<Point x="2071" y="1490"/>
+	<Point x="307" y="1490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les individus du Tian-Chian sont, peut-être, un peu plus
+pâles que ceux d'Europe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="938" y="1569"/>
+	<Point x="1473" y="1569"/>
+	<Point x="1473" y="1664"/>
+	<Point x="938" y="1664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>78. A. Aglaja L.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="321" y="1738"/>
+	<Point x="2071" y="1738"/>
+	<Point x="2071" y="2076"/>
+	<Point x="321" y="2076"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le long du Kounguesse, de 3 à 8000´, puis sur le Joul-
+dousse jusqu'à 10,000´ environ. Râre. Les individus du Tian-
+Chian s'approchent du type du Caucase, les ♀♀ foncées
+surtout.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="319" y="2480"/>
+	<Point x="2073" y="2480"/>
+	<Point x="2073" y="2914"/>
+	<Point x="319" y="2914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Par la taille, les individus du Tian-Chian tiennent le mi-
+lieu entre le type d'Europe et la magniﬁque var. Gigantea
+Stgr. de l'Hyrcanie. C'est à la forme Eris Meig. qu'ils se
+rapportent par l'absence des taches argentées sur le revers,
+qui est plus pâle que chez la v. Eris d'Europe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="319" y="2921"/>
+	<Point x="2050" y="2921"/>
+	<Point x="2050" y="3097"/>
+	<Point x="319" y="3097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une ♀, il est vrai, à les taches argentées assez nettes;
+mais c'est aussi le cas chez la Gigantea, dont le ♂ surtout</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1016" y="104"/>
+	<Point x="1380" y="104"/>
+	<Point x="1380" y="188"/>
+	<Point x="1016" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 410 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="1895" y="2173"/>
+	<Point x="1895" y="2295"/>
+	<Point x="1304" y="2295"/>
+	<Point x="1304" y="2296"/>
+	<Point x="528" y="2296"/>
+	<Point x="528" y="2173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>79. A. Niobe L. var. Orientalis Alph. nova.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1895" y="2297"/>
+	<Point x="1895" y="2411"/>
+	<Point x="528" y="2411"/>
+	<Point x="528" y="2298"/>
+	<Point x="1306" y="2298"/>
+	<Point x="1306" y="2297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂♂ 47—55; ♀ 62 mill.</Unicode></TextEquiv></TextRegion></Page></PcGts>

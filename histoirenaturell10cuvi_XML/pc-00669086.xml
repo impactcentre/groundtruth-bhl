@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669086">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:23:17</Created>
+	<LastChange>2012-02-09T16:27:32</LastChange></Metadata>
+	<Page imageFilename="00669086.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="281" y="269"/>
+	<Point x="1767" y="269"/>
+	<Point x="1767" y="622"/>
+	<Point x="281" y="622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rines; qu’elle vit en petites troupes dans le
+nord de la mer Rouge; et qu’elle lui fut indi‐
+quée par les pêcheurs de Tor sous le nom
+particulier de sideri.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="310" y="627"/>
+	<Point x="1773" y="625"/>
+	<Point x="1774" y="1381"/>
+	<Point x="926" y="1385"/>
+	<Point x="903" y="1386"/>
+	<Point x="890" y="1386"/>
+	<Point x="882" y="1389"/>
+	<Point x="875" y="1389"/>
+	<Point x="869" y="1388"/>
+	<Point x="861" y="1386"/>
+	<Point x="846" y="1383"/>
+	<Point x="579" y="1385"/>
+	<Point x="563" y="1387"/>
+	<Point x="555" y="1384"/>
+	<Point x="394" y="1385"/>
+	<Point x="307" y="1384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mais est-ce le siganus de Forskal, ou ce
+siganus ne serait-il pas plutôt, comme l’a cru
+M. Geoﬀroy, l’espèce précédente, le luridus?
+Il serait bien diﬃcile de le dire avec quelque
+assurance, car la description du voyageur da‐
+nois, outre les caractères applicables à tout le
+genre, n’ajoute que quelques mots assez vagues
+sur les couleurs : cærulescens, maculis nigris,
+rivulis ﬂavis longitudinalibus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="321" y="1388"/>
+	<Point x="853" y="1389"/>
+	<Point x="870" y="1393"/>
+	<Point x="898" y="1390"/>
+	<Point x="944" y="1390"/>
+	<Point x="1746" y="1387"/>
+	<Point x="1746" y="2050"/>
+	<Point x="320" y="2050"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Selon Forskal, son siganus prend à Lohaia
+un pied de longueur et à Bassora près de
+deux; les Arabes l’appellent djesavi et sidjan.
+Il ne se nourrit que d’algues marines, sur‐
+tout de drosera; on le mange, mais on lui
+attribue des qualités échauﬀantes. Les bles‐
+sures faites par ses épines causent de grandes
+douleurs.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="326" y="2062"/>
+	<Point x="1737" y="2062"/>
+	<Point x="1737" y="2323"/>
+	<Point x="326" y="2323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces indications, surtout celle de la taille,
+nous paraissent diﬃcilement s’accorder avec
+celles de M. Ruppel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="383" y="2336"/>
+	<Point x="1736" y="2336"/>
+	<Point x="1736" y="2490"/>
+	<Point x="383" y="2490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans cet amphacanthe, comme dans la plupart des
+autres, la cavité abdominale est très-étroite, mais elle</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="343" y="2574"/>
+	<Point x="1278" y="2574"/>
+	<Point x="1278" y="2672"/>
+	<Point x="343" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Forskal, Faune arab., p. 25 et 26.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="315" y="160"/>
+	<Point x="481" y="160"/>
+	<Point x="481" y="263"/>
+	<Point x="315" y="263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>154</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="777" y="160"/>
+	<Point x="1306" y="160"/>
+	<Point x="1306" y="263"/>
+	<Point x="777" y="263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="323" y="2527"/>
+	<Point x="323" y="2560"/>
+	<Point x="1721" y="2560"/>
+	<Point x="1721" y="2527"/></Coords></SeparatorRegion></Page></PcGts>

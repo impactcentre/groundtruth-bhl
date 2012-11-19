@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672349">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:17:28</Created>
+	<LastChange>2012-02-10T09:54:32</LastChange></Metadata>
+	<Page imageFilename="00672349.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="733" y="139"/>
+	<Point x="1042" y="139"/>
+	<Point x="1042" y="207"/>
+	<Point x="733" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 155 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="26" y="269"/>
+	<Point x="1748" y="269"/>
+	<Point x="1748" y="928"/>
+	<Point x="26" y="928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>jenigen, von welchen eine genügende Zahl von Exemplaren
+vorhanden ist. Auch Unica, selbst wenn sie bisweilen über die
+Artrechte in Zweifel lassen, aufzunehmen, trage ich wenig
+Bedenken, da ich durch die Geschicklichkeit des Herrn G.
+Schulz, des unübertrefﬂichen Insektenmalers, in den Stand
+gesetzt bin, wenigstens einzelne Flügel im Bilde vorzulegen,
+wodurch die Aufmerksamkeit des Bestimmenden sogleich richtig
+geleitet und die Bestimmung wesentlich erleichtert wird.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="14" y="935"/>
+	<Point x="1780" y="935"/>
+	<Point x="1780" y="2758"/>
+	<Point x="14" y="2758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ueber die Eintheilung der Phycideen in Gattungen hat
+man lebhafte Klage geführt. Eine theilweise Abhülfe ist durch
+Herrn v. Heinemann (in den Schmetterlingen von Deutsch-
+land und der Schweiz) und durch Grote (im North American
+Entomologist) versucht worden. Es lässt sich jedoch nicht
+leugnen, dass man noch sehr fern von einer richtigen Erkennt-
+niss der wahren Verwandtschaften und des Werthes der gene-
+rischen Merkmale steht, und dass die errichteten Gattungen
+zum Theil ganz unnatürlich und künstlich sind. Um nicht die
+Zahl der werthlosen Genera zu vermehren, habe ich mich in
+dieser Arbeit der Errichtung neuer ganz enthalten, zumal da
+sie bei der grossen Verwandtschaft und Aehnlichkeit der colum-
+bischen Arten mit europäischen leicht vermieden werden konnte.
+Wenn ich die so ausgezeichnete Gattung Pycnulia benannte
+und ihre Merkmale feststellte, so betrachte ich sie doch nicht
+als von mir errichtet, da Rogenhofer sie schon ihrem
+wahren Werthe nach erkannt und nur unter einem unberech-
+tigten Namen ohne Beifügung der Merkmale aufgestellt hat *).
+Ich beschränke mich auf Bemerkungen über den Werth der
+in der Abhandlung vorkommenden Gattungen und zeige bei
+den Arten die Merkmale an, welche bei künftiger Errichtung
+neuer Merkmale von Nutzen sein mögen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="23" y="2853"/>
+	<Point x="1758" y="2853"/>
+	<Point x="1758" y="3099"/>
+	<Point x="23" y="3099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Ebensowenig erkenne ich mich als den Autor der so gründlich schlech-
+ten Gattung Euzophera und der ganz unnatürlich von Anerastia abgerissenen
+Gattung Ematheudes. Nur die Namen habe ich gegeben, weil die dafür einge-
+führten als anderwärts verbraucht zu ändern waren.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="35" y="2798"/>
+	<Point x="628" y="2798"/>
+	<Point x="628" y="2825"/>
+	<Point x="35" y="2825"/></Coords></SeparatorRegion></Page></PcGts>

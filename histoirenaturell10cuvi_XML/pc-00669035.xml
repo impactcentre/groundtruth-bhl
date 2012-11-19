@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669035">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:16:45</Created>
+	<LastChange>2012-02-09T16:27:29</LastChange></Metadata>
+	<Page imageFilename="00669035.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="109" y="254"/>
+	<Point x="1528" y="254"/>
+	<Point x="1528" y="605"/>
+	<Point x="109" y="605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nomme au Bengale ectuntia chanda, mais
+comme il ne donne point de description, nous
+ne pouvons savoir duquel des trois poissons
+précédens il a entendu parler.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="668" y="818"/>
+	<Point x="964" y="818"/>
+	<Point x="964" y="901"/>
+	<Point x="668" y="901"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DU MÉNÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="105" y="945"/>
+	<Point x="1530" y="945"/>
+	<Point x="1530" y="2297"/>
+	<Point x="105" y="2297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Méné (����) est un des noms grecs de la
+lune. M. de Lacépède l’a donné à un poisson
+dont il avait trouvé la ﬁgure dans le recueil
+des peintures chinoises de la bibliothèque du
+Muséum, et qu’il a fait graver dans le tome V
+de son Histoire des poissons1. Peut-être était-
+ce agir un peu légèrement que de fonder un
+genre sur un simple dessin fait par un inconnu;
+mais cette conﬁance s’est trouvée bien placée,
+et même dès ce temps-là (en 1803) l’auteur
+aurait pu avoir la preuve de la ﬁdélité de
+l’artiste chinois, car le même poisson avait
+été envoyé de Tranquebar à Bloch, et il en
+avait laissé la ﬁgure et la description, qui
+ont paru en 1801 dans son Système posthume2
+sous le nom de zeus maculatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="190" y="2312"/>
+	<Point x="1533" y="2312"/>
+	<Point x="1533" y="2405"/>
+	<Point x="190" y="2405"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Russel l’a donné la même année que M. de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="573" y="153"/>
+	<Point x="1054" y="153"/>
+	<Point x="1054" y="230"/>
+	<Point x="573" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. MÉNÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1399" y="153"/>
+	<Point x="1522" y="153"/>
+	<Point x="1522" y="230"/>
+	<Point x="1399" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>103</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="725" y="698"/>
+	<Point x="725" y="722"/>
+	<Point x="905" y="722"/>
+	<Point x="905" y="698"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="116" y="2429"/>
+	<Point x="116" y="2464"/>
+	<Point x="1533" y="2464"/>
+	<Point x="1533" y="2429"/></Coords></SeparatorRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="117" y="2498"/>
+	<Point x="1529" y="2498"/>
+	<Point x="1529" y="2630"/>
+	<Point x="117" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. P. 95, n.° 6, et pl. 22. — 2. Pl. 14, ﬁg. 2, et p. 479
+et 480.</Unicode></TextEquiv></TextRegion></Page></PcGts>

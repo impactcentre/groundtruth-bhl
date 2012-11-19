@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668951">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:36:33</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668951.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="580" y="212"/>
+	<Point x="1012" y="212"/>
+	<Point x="1012" y="280"/>
+	<Point x="580" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. ZÉES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="135" y="298"/>
+	<Point x="1510" y="298"/>
+	<Point x="1510" y="2662"/>
+	<Point x="135" y="2662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Assez près du cardia, naît la branche qui va au
+pylore; les appendices cæcales sont extrêmement
+nombreuses, mais de longueur médiocre et attachées
+à l'intestin sur un espace court, en sorte qu'elles
+forment autour de lui, par leur réunion, un gros
+bourrelet arrondi. Elles sont pour la plupart four-
+chues et se réunissent en plusieurs groupes sur un
+tronc commun pour chacun des groupes, de façon
+qu'on ne voit au dedans de l'intestin que douze
+à quinze trous qui servent d'entrée à ces appendices
+dans le duodénum. L'intestin est de longueur mé-
+diocre et ne forme que deux replis. Il est large et
+égal dans toute sa longueur, ses parois n'ont pas
+beaucoup d'épaisseur. Il se rétrécit un peu vers le
+rectum, dont l'entrée se distingue par une valvule
+charnue. La rate est petite, tétraèdre, ovale et sus-
+pendue à côté de l'estomac. Le foie a deux lobes
+bien distincts, à peu près d'égale longueur, mais
+dont le droit est plus étroit et plus pointu, et le
+gauche plus large et plus obtus. La vésicule du ﬁel,
+suspendue entre eux, est ovale et fort grande. Le
+canal hépato-cistique est assez gros, il se porte vers
+le diaphragme le long du foie. Le diamètre du canal
+cholédoque est plus grand que celui du précédent;
+il se dirige d'abord un peu en avant, puis il se ﬂé-
+chit et s'ouvre, en avançant vers l'anus, dans le
+duodénum, au milieu des appendices, assez loin du
+pylore. L'ouverture du canal cholédoque est très-
+petite, et on la voit au fond d'un des grands trous
+qui donnent une entrée commune à un des groupes
+d'appendices cæcales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="1408" y="196"/>
+	<Point x="1508" y="196"/>
+	<Point x="1508" y="278"/>
+	<Point x="1408" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>19</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668967">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:08:27</Created>
+	<LastChange>2012-02-09T16:27:26</LastChange></Metadata>
+	<Page imageFilename="00668967.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="532" y="217"/>
+	<Point x="1057" y="217"/>
+	<Point x="1057" y="282"/>
+	<Point x="532" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. CAPROS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="146" y="303"/>
+	<Point x="1524" y="303"/>
+	<Point x="1524" y="2655"/>
+	<Point x="146" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>coup près si long; son œil est aussi beaucoup plus
+grand et a le tiers de la longueur de la tête en dia‐
+mètre. La bouche ainsi retirée est petite, un peu
+dirigée vers le haut, et sa mâchoire inférieure monte
+en avant de l’autre; mais elle peut se projeter en
+avant encore plus que dans la dorée et de manière
+à doubler la longueur de la tête, ce qui tient à l’ex‐
+trême longueur des pédicules montans des inter‐
+maxillaires; alors la mâchoire supérieure est le plus
+avancée. Quoi qu’en aient dit la plupart des auteurs,
+il y a à l’une et à l’autre une bande étroite de dents
+en ﬁnes cardes, et le vomer en porte quelques-unes
+de semblables à son extrémité antérieure, en sorte
+que l’on a eu grand tort de faire de l’absence des
+dents un caractère générique pour ce poisson. La
+langue est lisse, étroite et fort libre comme dans la
+dorée; les pharyngiens et les tubérosités des arcs bran‐
+chiaux sont garnis de dents en velours. Les narines
+ont, comme dans la dorée, un grand oriﬁce ovale
+voisin de l’æil, et un très-petit au bord antérieur
+de celui-ci. Le premier sous-orbitaire est triangulaire
+et a trois festons à son bord inférieur; les suivans
+sont étroits; le préopercule n’est pas oblique comme
+dans la dorée, mais rectangulaire; son bord mon‐
+tant est ﬁnement dentelé. L’opercule est deux fois
+plus haut que long et a son angle obtus; le sub‐
+opercule et l’interopercule sont petits et cachés sous
+les autres pièces. Toute la tête est très-âpre, et l’on
+observe en outre sur le crâne une ligne enfoncée,
+descendant longitudinalement de chaque côté, et sur
+le vertex une partie triangulaire, striée longitudina-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="1403" y="200"/>
+	<Point x="1403" y="280"/>
+	<Point x="1505" y="280"/>
+	<Point x="1505" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>35</Unicode></TextEquiv></TextRegion></Page></PcGts>

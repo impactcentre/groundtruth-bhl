@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672165">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T18:39:07</Created>
+	<LastChange>2012-02-10T09:53:53</LastChange></Metadata>
+	<Page imageFilename="00672165.tif" imageWidth="2201" imageHeight="3129">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r14" index="7"/>
+	<RegionRefIndexed regionRef="r22" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="742" y="335"/>
+	<Point x="1104" y="335"/>
+	<Point x="1104" y="445"/>
+	<Point x="742" y="445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HORAE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="64" y="711"/>
+	<Point x="1792" y="711"/>
+	<Point x="1792" y="871"/>
+	<Point x="64" y="871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOCIETATIS ENTOMOLOGICAE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="671" y="1147"/>
+	<Point x="1176" y="1147"/>
+	<Point x="1176" y="1247"/>
+	<Point x="671" y="1247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ROSSICAE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="704" y="1654"/>
+	<Point x="1154" y="1654"/>
+	<Point x="1154" y="1738"/>
+	<Point x="704" y="1738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="297" y="1869"/>
+	<Point x="1564" y="1869"/>
+	<Point x="1564" y="1938"/>
+	<Point x="297" y="1938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AVEC QUINZE PLANCHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="814" y="2038"/>
+	<Point x="1061" y="2038"/>
+	<Point x="1061" y="2171"/>
+	<Point x="814" y="2171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1881.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="680" y="2739"/>
+	<Point x="1176" y="2739"/>
+	<Point x="1176" y="2807"/>
+	<Point x="680" y="2807"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ST. PÉTERSBOURG.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="867" y="2976"/>
+	<Point x="1007" y="2976"/>
+	<Point x="1007" y="3027"/>
+	<Point x="867" y="3027"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1881.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="850" y="1421"/>
+	<Point x="850" y="1450"/>
+	<Point x="1007" y="1450"/>
+	<Point x="1007" y="1421"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="790" y="2440"/>
+	<Point x="790" y="2469"/>
+	<Point x="1083" y="2469"/>
+	<Point x="1083" y="2440"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="904" y="2940"/>
+	<Point x="973" y="2940"/>
+	<Point x="973" y="2960"/>
+	<Point x="904" y="2960"/></Coords></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="454" y="2820"/>
+	<Point x="1412" y="2820"/>
+	<Point x="1412" y="2871"/>
+	<Point x="454" y="2871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>IMPIMERIE DE V. ВESOBRASOFF &amp; COMP.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="665" y="2878"/>
+	<Point x="1204" y="2878"/>
+	<Point x="1204" y="2921"/>
+	<Point x="665" y="2921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wassili Ostr., 8 ligne, No 45.</Unicode></TextEquiv></TextRegion></Page></PcGts>

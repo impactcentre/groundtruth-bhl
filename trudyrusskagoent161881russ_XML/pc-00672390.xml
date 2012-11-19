@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672390">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:56:03</Created>
+	<LastChange>2012-02-10T09:54:38</LastChange></Metadata>
+	<Page imageFilename="00672390.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="953" y="135"/>
+	<Point x="1260" y="135"/>
+	<Point x="1260" y="203"/>
+	<Point x="953" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 196 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="221" y="260"/>
+	<Point x="1967" y="260"/>
+	<Point x="1967" y="528"/>
+	<Point x="221" y="528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quetscht ist, fehlt ein Analbusch gänzlich, dafür aber steht
+der Legestachel weit hervor. (Bei den sichern 3 Flavicans
+♀♀ ist das Analglied zugespitzt, und ohne Schuppenbusch).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="539" y="649"/>
+	<Point x="1637" y="649"/>
+	<Point x="1637" y="744"/>
+	<Point x="539" y="744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. semirufella Tab. XI, ﬁg. 19.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="219" y="782"/>
+	<Point x="1980" y="782"/>
+	<Point x="1980" y="1217"/>
+	<Point x="219" y="1217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis erectis, articulo terminali longiusculo, badio; alis
+ant. angustis, cinnamomeo-ruﬁs, costa late albida, strigis duabus
+dilutis valde distantibus, priore obsoletissima, posteriore margini
+vicina, subrecta, punctis duobus venae transversae fuscis sub-
+obsoletis; post. dilute griseis, pellucidis, obscure venosis. ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="214" y="1260"/>
+	<Point x="1983" y="1260"/>
+	<Point x="1983" y="1687"/>
+	<Point x="214" y="1687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Durch das verlängerte, lebhaft gefärbte Endglied der Tas-
+ter an Nyctegr. achatinella*) erinnernd, ist sie viel schmalﬂüg-
+liger als Rosella und kenntlich an den braunrôthlichen, auf der
+Costalseite breit weisslichen Vorderﬂügeln und deren weit ge-
+trennten Querlinien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="216" y="1699"/>
+	<Point x="1971" y="1699"/>
+	<Point x="1971" y="2626"/>
+	<Point x="216" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grösser als die zwei vorhergehenden Arten. Körper gelb-
+lichgrau. Taster weit über die Stirn heraufgekrümmt, innen
+und am Wurzelgliede sehr hell schmutzig weisslich; das 2te
+Glied aussen braunröthlich mit schmal weisslichem Ende; das
+dritte Glied etwas mehr als halb so lang, zugespitzt, dunkel
+braunroth, innen heller. Sauger gelbbräunlich, weisslich be-
+schuppt. Fühler stark, borstenförmig, gelbbräunlich. Beine
+weissgrau, an der Wurzel braunröthlich; die vordern vorn roth-
+bräunlich bestäubt; die Mittelschienen ﬂach mit rothbraunem
+Querstrich vor der Spitze; Hinterschienen auch ﬂach, vor der
+Spitze rothbräunlich; alle Füsse bräunlich, die mittleren am</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="210" y="2741"/>
+	<Point x="1964" y="2741"/>
+	<Point x="1964" y="3119"/>
+	<Point x="210" y="3119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Nyctegretis ist vielleicht ein haltbares Genus, weil ausser der Länge des
+Endgliedes der Taster noch beim ♂ der erste Ast der Medianader der Hinter-
+ﬂügel am Anfange einen langen Haarbusch trägt. So ist es wenigstens bei
+Achatinella. Den Haarbusch scheint auch mein sehr schlechtes Exemplar der
+Corsica zu tragen. Wie es damit bei den andern in Staudinger's Catalog
+aufgeführten Nyctegretiden steht, weiss ich nicht.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="228" y="2655"/>
+	<Point x="817" y="2655"/>
+	<Point x="817" y="2703"/>
+	<Point x="228" y="2703"/></Coords></SeparatorRegion></Page></PcGts>

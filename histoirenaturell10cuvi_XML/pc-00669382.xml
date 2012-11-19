@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669382">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:59:31</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669382.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="363" y="274"/>
+	<Point x="1795" y="274"/>
+	<Point x="1795" y="1878"/>
+	<Point x="363" y="1878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l’expression de l’animal; les sillons du vertex
+ont aussi été négligés sur cette copie. Nous de‐
+vons faire remarquer que sur la ﬁgure originale
+la dorsale est trop haute, et surtout que le
+nombre des rayons de l’anale est porté à dix-
+huit ou vingt; il nous paraît même que les deux
+ou trois derniers ont été ajoutés après coup.
+Cette remarque peut expliquer la diﬀérence
+qui existe dans le nombre de rayons que nous
+trouvons sur plus de vingt individus avec ceux
+indiqués par Commerson, qui aura peut-être
+terminé sa description sur le dessin. Malgré
+cette légère diﬀérence, ce que Commerson
+dit de ce vertex capitis non adeo planum
+est, foveolis ut superﬁciaris impressis ut in-
+scriptum sit, et plus bas, apices pinnarum
+pectoralium obfuscescentes, in disco lutes-
+centes, s’accorde parfaitement et avec son
+dessin et avec la nature.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="366" y="1886"/>
+	<Point x="1798" y="1886"/>
+	<Point x="1800" y="2130"/>
+	<Point x="1029" y="2128"/>
+	<Point x="1023" y="2143"/>
+	<Point x="366" y="2142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’espèce vit en troupes le long des côtes de
+l’Isle-de-France, où Commerson l’observa au
+mois de Janvier 1770.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="368" y="2146"/>
+	<Point x="1025" y="2146"/>
+	<Point x="1035" y="2134"/>
+	<Point x="1797" y="2134"/>
+	<Point x="1797" y="2317"/>
+	<Point x="367" y="2317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Suivant M. Dussumier, qui nous l’a rapporté
+des Séchelles où on les nomme prêtres,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="432" y="2345"/>
+	<Point x="1793" y="2345"/>
+	<Point x="1793" y="2667"/>
+	<Point x="432" y="2667"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>le dessus est verdâtre très-clair jusqu’à la ligne
+latérale; au-dessous est une ligne blanche qui sépare
+le vert du dos de la bande argentée des ﬂancs; le
+ventre et les côtés de la tête sont blancs, légèrement</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="371" y="172"/>
+	<Point x="519" y="172"/>
+	<Point x="519" y="252"/>
+	<Point x="371" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>450</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="851" y="175"/>
+	<Point x="1306" y="175"/>
+	<Point x="1306" y="251"/>
+	<Point x="851" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

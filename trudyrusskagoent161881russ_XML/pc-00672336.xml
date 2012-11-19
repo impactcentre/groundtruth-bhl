@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672336">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:14:24</Created>
+	<LastChange>2012-02-10T09:54:31</LastChange></Metadata>
+	<Page imageFilename="00672336.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1017" y="85"/>
+	<Point x="1332" y="85"/>
+	<Point x="1332" y="146"/>
+	<Point x="1017" y="146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 142 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="296" y="219"/>
+	<Point x="2060" y="219"/>
+	<Point x="2060" y="885"/>
+	<Point x="296" y="885"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bus basalibus fulvis, arista basi modice longe plumata; thorace
+trivittato, vittis lateralibus in medio interruptis; segmentis tri-
+bus basalibus abdiminis singulo maculis tribus ornato, macu-
+lis intermediis angustis, triangularibus, segmento ultimo subim-
+maculato; segmento secundo apice in medio bisetuloso; pedibus
+nigris, femoribus tibiisque posticis et intermediis maris intus
+subnudis, squamis albidis; alis hyalinis, nervo quarto longitu-
+dinali basi spinulis 8 praedito; spinula costae distincta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="298" y="907"/>
+	<Point x="2066" y="907"/>
+	<Point x="2066" y="1485"/>
+	<Point x="298" y="1485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sarcophilae Meigeni Schin, et S. Wohlfahrti Portsch.
+similis, sed ab ambabus distincta: magnitudine corporis paullo
+minore, oculis in mare minus late disjunctis; arista antennarum
+basi distinctius plumata; maculis intermediis abdominis angu-
+stioribus; femoribus tibiisque posticis et intermediis intus non
+villosis; uncis pulvillisque in mare longioribus et spinula alarum
+distincta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="621" y="1566"/>
+	<Point x="1758" y="1566"/>
+	<Point x="1758" y="1646"/>
+	<Point x="621" y="1646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sarcophila megacephala ♀ nov. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="319" y="1696"/>
+	<Point x="2062" y="1696"/>
+	<Point x="2062" y="2030"/>
+	<Point x="319" y="2030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sarcophilae latifronti Fall. similis, a qua distincta: colore
+corporis magis griseo, capite majore, fronte genisque argenteis
+et latioribus, vitta nigra frontali multo angustiore; fronte an-
+tice magis porrecta, antennis longioribus et arista subnuda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="426" y="2033"/>
+	<Point x="1389" y="2033"/>
+	<Point x="1389" y="2114"/>
+	<Point x="426" y="2114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Rossia orient. (Orenburg).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="605" y="2253"/>
+	<Point x="1774" y="2253"/>
+	<Point x="1774" y="2325"/>
+	<Point x="605" y="2325"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sarcophila Balassogloi ♂ et ♀ nov. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="312" y="2383"/>
+	<Point x="2080" y="2383"/>
+	<Point x="2080" y="3051"/>
+	<Point x="312" y="3051"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sarcophilae Meigeni et S. Wohlfahrti similis, sed a prima
+colore corporis magis griseo, articulis basalibus antennarum
+saepe plus minusve infuscatis, a secunda fronte angustiore,
+articulis basalibus antennarum (in faemina) saepe palpisque
+semper ﬂavis et ab ambabus magnitudine corporis minore et
+statura angustiore, antennis multo longioribus, arista basi dis-
+tinctius puberula, lateribus frontis genisque nudis, maculis ab-
+dominis omnibus minoribus, segmentis duobus intermediis ma-</Unicode></TextEquiv></TextRegion></Page></PcGts>

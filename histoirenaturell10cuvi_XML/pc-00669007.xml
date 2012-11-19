@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669007">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:13:08</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669007.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="126" y="330"/>
+	<Point x="1487" y="330"/>
+	<Point x="1484" y="550"/>
+	<Point x="588" y="550"/>
+	<Point x="588" y="563"/>
+	<Point x="550" y="563"/>
+	<Point x="541" y="552"/>
+	<Point x="464" y="552"/>
+	<Point x="460" y="561"/>
+	<Point x="435" y="561"/>
+	<Point x="423" y="550"/>
+	<Point x="188" y="549"/>
+	<Point x="185" y="560"/>
+	<Point x="126" y="560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>argentées. Il y a une tache noirâtre ou bleuâtre dans
+l’aisselle de la pectorale; le bout du museau est quel‐
+quefois un peu pointillé de brun.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="114" y="566"/>
+	<Point x="193" y="565"/>
+	<Point x="195" y="559"/>
+	<Point x="422" y="559"/>
+	<Point x="434" y="566"/>
+	<Point x="465" y="566"/>
+	<Point x="470" y="560"/>
+	<Point x="540" y="560"/>
+	<Point x="548" y="570"/>
+	<Point x="595" y="569"/>
+	<Point x="600" y="556"/>
+	<Point x="1473" y="554"/>
+	<Point x="1472" y="867"/>
+	<Point x="116" y="864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Selon M. Dussumier, le corps est argenté, le
+dessus de la tête brun, le devant de la dorsale et
+de l’anale et le bout du lobe inférieur de la caudale
+sont jaunes, le reste des nageoires est transparent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="58" y="905"/>
+	<Point x="1467" y="905"/>
+	<Point x="1466" y="1333"/>
+	<Point x="869" y="1329"/>
+	<Point x="852" y="1342"/>
+	<Point x="837" y="1337"/>
+	<Point x="766" y="1337"/>
+	<Point x="446" y="1322"/>
+	<Point x="438" y="1340"/>
+	<Point x="381" y="1341"/>
+	<Point x="348" y="1325"/>
+	<Point x="54" y="1325"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les uns ont été rapportés de la mer Rouge
+par M. Ehrenberg et par M. Ruppel; les autres
+de la côte de Malabar par M. Bélanger, et
+de Rombay par M. Dussumier; il y en a un
+de Guam, par MM. Quoy et Gaimard.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="29" y="1333"/>
+	<Point x="348" y="1333"/>
+	<Point x="375" y="1345"/>
+	<Point x="444" y="1344"/>
+	<Point x="449" y="1333"/>
+	<Point x="771" y="1342"/>
+	<Point x="833" y="1341"/>
+	<Point x="851" y="1349"/>
+	<Point x="871" y="1340"/>
+	<Point x="1468" y="1338"/>
+	<Point x="1466" y="2510"/>
+	<Point x="39" y="2510"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La taille de nos individus va jusqu’à sept
+pouces. Forskal donne la même taille à son
+scomber equula. Il dit que les Arabes appellent
+ce poisson abu-kurse, ce qu’il traduit par sella
+præditus, et M. de Lacépède cherche à l’ex‐
+pliquer en disant que l’on a comparé à une
+selle cette callosité concave et cette saillie
+aiguë que Forskal place ante pinnas, sup‐
+posant que c’est avant les nageoires pecto‐
+rales; mais le texte de Forskal, non moins
+que la nature, prouvent que cet appareil est
+placé au-devant des ventrales, et l’on ne com‐
+prend pas trop quel rapport il pourrait avoir
+avec une selle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="22" y="2517"/>
+	<Point x="1459" y="2517"/>
+	<Point x="1459" y="2714"/>
+	<Point x="22" y="2714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’espèce nous paraît parfaitement bien re‐
+présentée par Russel (ﬁg. 72) sous le nom de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="510" y="235"/>
+	<Point x="1060" y="235"/>
+	<Point x="1060" y="305"/>
+	<Point x="510" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1365" y="223"/>
+	<Point x="1473" y="223"/>
+	<Point x="1473" y="299"/>
+	<Point x="1365" y="299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>75</Unicode></TextEquiv></TextRegion></Page></PcGts>

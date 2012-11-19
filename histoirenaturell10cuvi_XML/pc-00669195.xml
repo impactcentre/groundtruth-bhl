@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669195">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:36:22</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669195.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="183" y="300"/>
+	<Point x="1548" y="300"/>
+	<Point x="1545" y="1879"/>
+	<Point x="861" y="1878"/>
+	<Point x="858" y="1888"/>
+	<Point x="829" y="1888"/>
+	<Point x="820" y="1879"/>
+	<Point x="450" y="1878"/>
+	<Point x="450" y="1885"/>
+	<Point x="422" y="1885"/>
+	<Point x="411" y="1881"/>
+	<Point x="185" y="1881"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>d’une seule rangée de petites dents coniques, au nom‐
+bre de quarante environ à la supérieure, et de trente
+ou trente-six à l’inférieure. Des lèvres courtes et mem‐
+braneuses couvrent à demi ces dents; mais on a peine à
+distinguer le maxillaire au travers des écailles rudes,
+petites et serrées qui épaississent la peau. Ces écailles
+cachent même les séparations des pièces operculaires
+et les rayons de la membrane branchiostège, qui sont au
+nombre de quatre. La fente des ouïes commence un
+peu plus bas que l’œil, et ﬁnit sur le côté de la gorge,
+de manière à laisser un isthme large et épais comme
+dans les acanthures. Le bord operculaire est une
+courbe peu convexe, placée obliquement et terminée
+presque parallèlement à la ligne du proﬁl. L’intervalle
+de ces deux lignes fait moitié de l’espace compris
+entre la nuque et la bouche. La pectorale, en demi-
+ovale, est attachée un peu au-dessus de la ligne hori‐
+zontale tirée par la fente de la bouche; sa longueur
+est près de trois fois dans sa hauteur; elle a dix-sept
+ou dix-huit rayons. L’épaule est couverte des mêmes
+écailles que la tête et l’opercule.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="187" y="1887"/>
+	<Point x="418" y="1887"/>
+	<Point x="421" y="1889"/>
+	<Point x="455" y="1889"/>
+	<Point x="458" y="1884"/>
+	<Point x="820" y="1884"/>
+	<Point x="826" y="1891"/>
+	<Point x="861" y="1891"/>
+	<Point x="865" y="1883"/>
+	<Point x="1552" y="1883"/>
+	<Point x="1555" y="2652"/>
+	<Point x="187" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ventrale s’attache vis-à-vis la base de la pectorale
+et. n’a que les trois quarts de la longueur de celle-ci.
+Son épine est forte et presque aussi longue que le
+premier rayon mou, le suivant est un peu plus court,
+et le troisième n’a que la moitié de la longueur du
+premier. La dorsale commence au-dessus de la lente
+des ouïes, et règne jusques assez près du bout
+de la queue, conservant une hauteur d’environ le
+tiers de celle du corps aux pectorales; elle a six
+rayons épineux, égaux en longueur, mais dont le</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="587" y="213"/>
+	<Point x="1066" y="213"/>
+	<Point x="1066" y="277"/>
+	<Point x="587" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. NASONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1381" y="194"/>
+	<Point x="1525" y="194"/>
+	<Point x="1525" y="279"/>
+	<Point x="1381" y="279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>263</Unicode></TextEquiv></TextRegion></Page></PcGts>

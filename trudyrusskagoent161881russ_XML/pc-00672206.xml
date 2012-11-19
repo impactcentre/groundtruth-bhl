@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672206">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T16:15:11</Created>
+	<LastChange>2012-02-10T09:54:01</LastChange></Metadata>
+	<Page imageFilename="00672206.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1037" y="119"/>
+	<Point x="1366" y="119"/>
+	<Point x="1366" y="198"/>
+	<Point x="1037" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 12 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="321" y="258"/>
+	<Point x="2078" y="258"/>
+	<Point x="2078" y="1594"/>
+	<Point x="321" y="1594"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ainsi le rôle de leviers dont les bras sont exposés, comme
+nous verrons plus loin, à l’action de muscles élévateurs et
+abaisseurs d’ailes. La ligne droite, qui unit les points d’attache
+des dilatations de nervures aux supports provenant de l’épi-
+mère, constitue l’axe de rotation des ailes. La position de
+celles-ci se déﬁnit ainsi que suit. Un plan, étant tracé par
+les axes de rotation des ailes antérieures, et un autre par
+les axes des postérieures, les angles formés par ces deux plans
+et l’axe de l’insecte se font voir, et celui des ailes antérieu‐
+res se trouve plus ouvert. Ainsi chez l’Aeschna grandis il
+est de 25° pour les ailes postérieures et de 28 — 30° pour les
+antérieures, chez l’Agrion najas de 35° et 50°, chez la Lestes
+sponsa de 40° et 55° etc. Des plans verticaux, passant par
+l’axe de l’insecte et par les axes de rotation des ailes, for‐
+ment deux angles et celui des ailes antérieures est aussi plus
+grand. Ainsi chez l’A. grandis leur grandeur est de 15° et 8°.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="330" y="1598"/>
+	<Point x="2082" y="1598"/>
+	<Point x="2082" y="2926"/>
+	<Point x="330" y="2926"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les élévations de l’épimère, dont il est fait mention plus
+haut, en constituant à sa partie supérieure les supports pour
+les ailes, par leur partie inférieure se dirigent vers le ster‐
+num, nommément vers les places d’insertion des hanches moyen‐
+nes et postérieures. Avant d’atteindre celles-ci les élévations
+se courbent en arrière et forment les limites postérieures de
+deux pièces semicirculaires ou quadrilatères, qui avec leurs
+bords inférieurs abontissent aux ouvertures distinnées aux
+hanches. Les limites latérales et supérieures de ces pièces
+ont la forme de bourrelets et c’est ici que se rattachent plu‐
+sieurs muscles. D’après leur position aux ﬂancs de l’insecte
+et près des hanches ces pièces sont analogues à celles du
+Hanneton, appellées par Straus-Dürkheim îles ou pièces
+iliaques (près des pattes moyennes) et ischions ou pièces
+ischiatiques (près de pattes postérieures) 1). Cette nomencla‐
+ture empruntée à l’anatomie des vertébrés facilitant l’exposi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="332" y="2973"/>
+	<Point x="2076" y="2973"/>
+	<Point x="2076" y="3105"/>
+	<Point x="332" y="3105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1) Straus-Dürkheim, Considération générales sur l’anatomie compa‐
+rée des animaux articulés, 1828, p. 93 et 100.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="353" y="2944"/>
+	<Point x="353" y="2964"/>
+	<Point x="931" y="2964"/>
+	<Point x="931" y="2944"/></Coords></SeparatorRegion></Page></PcGts>

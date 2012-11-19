@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669123">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:27:35</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669123.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="83" y="276"/>
+	<Point x="1507" y="276"/>
+	<Point x="1511" y="950"/>
+	<Point x="1020" y="950"/>
+	<Point x="991" y="965"/>
+	<Point x="646" y="967"/>
+	<Point x="82" y="967"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cueil de Corneille de Vlaming, n.° 17, sous
+le nom de philosophe, et la copie que Re‐
+nard en donne, n.° 63, sans être exacte, est
+encore assez reconnaissable; quoique on ne
+sache pourquoi il lui fait sortir de la bouche
+une espèce de langue fourchue. Cette partie qui
+n’est pas prise du dessin original, est peut-être
+un ver ou quelque autre proie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="81" y="971"/>
+	<Point x="603" y="971"/>
+	<Point x="1012" y="968"/>
+	<Point x="1022" y="954"/>
+	<Point x="1510" y="954"/>
+	<Point x="1509" y="1286"/>
+	<Point x="1367" y="1286"/>
+	<Point x="1367" y="1296"/>
+	<Point x="1330" y="1296"/>
+	<Point x="1312" y="1287"/>
+	<Point x="642" y="1292"/>
+	<Point x="636" y="1304"/>
+	<Point x="578" y="1304"/>
+	<Point x="372" y="1299"/>
+	<Point x="368" y="1307"/>
+	<Point x="81" y="1310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Valentyn donne sous son n.° 383 la même
+ﬁgure que Renard, et prétend que le poisson
+a des cornes dans son bec; mais c’est une
+illusion produite par cette addition du copiste.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="80" y="1313"/>
+	<Point x="371" y="1310"/>
+	<Point x="381" y="1306"/>
+	<Point x="642" y="1308"/>
+	<Point x="647" y="1299"/>
+	<Point x="1303" y="1293"/>
+	<Point x="1329" y="1299"/>
+	<Point x="1371" y="1299"/>
+	<Point x="1374" y="1293"/>
+	<Point x="1507" y="1293"/>
+	<Point x="1505" y="1569"/>
+	<Point x="78" y="1569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le n.° 410 de Valentyn, qu’il nomme ikan-
+badoe-badoeri ou le poisson de roche épineux,
+me paraît aussi appartenir à cette espèce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="153" y="1582"/>
+	<Point x="1519" y="1582"/>
+	<Point x="1519" y="2655"/>
+	<Point x="153" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le corps est ovale, et sa hauteur est un peu plus
+de deux fois dans sa longueur, en y comprenant la
+caudale, qui n’a pas de pointe saillante et est à peine
+un peu taillée en croissant. Sans la queue, la lon‐
+gueur de l’ovale ne comprend sa hauteur qu’une fois
+et deux tiers; la dorsale et l’anale ont les bords à
+peu près parallèles à ceux du corps, et le quart de
+sa hauteur. La tête est presque deux fois aussi haute
+que longue, et le proﬁl est légèrement courbé en
+S italique; l’œil est au quart supérieur de la hauteur;
+chaque mâchoire est bordée de huit ou dix dents,
+tronquées et divisées en cinq ou six crénelures; le
+bord antérieur de l’orbite est un peu saillant; il n’y
+a pas d’épine couchée en avant de la dorsale. Tout</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="499" y="185"/>
+	<Point x="1085" y="185"/>
+	<Point x="1085" y="255"/>
+	<Point x="499" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1362" y="174"/>
+	<Point x="1482" y="174"/>
+	<Point x="1482" y="255"/>
+	<Point x="1362" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>191</Unicode></TextEquiv></TextRegion></Page></PcGts>

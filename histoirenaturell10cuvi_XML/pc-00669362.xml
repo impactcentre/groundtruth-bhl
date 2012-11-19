@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669362">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:56:35</Created>
+	<LastChange>2012-03-12T14:33:58</LastChange></Metadata>
+	<Page imageFilename="00669362.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="348" y="251"/>
+	<Point x="1773" y="251"/>
+	<Point x="1773" y="928"/>
+	<Point x="348" y="928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cette côte avec des ﬁlets horizontaux, sur les-
+quels on répand des petits morceaux de pâte.
+Sonnini dit qu'il suﬃt, pour en attirer des
+quantités prodigieuses, de traîner dans l'eau,
+par un temps calme, une queue de cheval ou
+un morceau de drap noir; on les conduit
+ainsi dans quelque enfoncement étroit de
+rocher, où on les enferme avec un ﬁlet.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="353" y="937"/>
+	<Point x="1780" y="937"/>
+	<Point x="1780" y="1685"/>
+	<Point x="353" y="1685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette même espèce nous est venue de
+Malte par M. Leach; de Sicile, par M. Bibe-
+ron; de Naples, par M. Savigny; de Nice, par
+M. Risso; de Toulon, par M. Banon; de Mar-
+seille, par M. Delalande; d'Iviça, par M. De
+Laroche; d'Algésiras, par MM. Quoy et Gai-
+mard; de Malaga, par M. Baillon, et toujours
+semblable à elle-même, sauf la taille des in-
+dividus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="344" y="1687"/>
+	<Point x="1776" y="1687"/>
+	<Point x="1776" y="2285"/>
+	<Point x="344" y="2285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle s'avance même dans l'Atlantique jus-
+qu'aux Canaries, car MM. Webb et Berthelot
+nous en ont montré plusieurs individus pêchés
+sur une des petites îles près de Ténériﬀe. Elle
+y arrive en bandes nombreuses; on en fait
+des conserves semblables à celles que nous
+faisons avec nos anchois.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="358" y="2289"/>
+	<Point x="1783" y="2289"/>
+	<Point x="1783" y="2467"/>
+	<Point x="358" y="2467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons déjà vu qu'elle s'appelle sauclet
+en Languedoc: les Toulonnais la nomment</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="410" y="2553"/>
+	<Point x="1689" y="2553"/>
+	<Point x="1689" y="2624"/>
+	<Point x="410" y="2624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Sonnini, Voyage en Turquie et en Grèce, t. II, p. 209.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="364" y="2501"/>
+	<Point x="1773" y="2501"/>
+	<Point x="1773" y="2530"/>
+	<Point x="364" y="2530"/></Coords></SeparatorRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="505" y="148"/>
+	<Point x="505" y="228"/>
+	<Point x="351" y="228"/>
+	<Point x="351" y="148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>430</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="1292" y="148"/>
+	<Point x="1292" y="228"/>
+	<Point x="827" y="228"/>
+	<Point x="827" y="148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672599">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:33:31</Created>
+	<LastChange>2012-02-10T09:55:17</LastChange></Metadata>
+	<Page imageFilename="00672599.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="816" y="198"/>
+	<Point x="1132" y="198"/>
+	<Point x="1132" y="275"/>
+	<Point x="816" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 403 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="110" y="339"/>
+	<Point x="1849" y="339"/>
+	<Point x="1849" y="601"/>
+	<Point x="110" y="601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est une Меlitаеа qui ne parait habiter que la vallée
+proprement dite de l'Ili: elle semble manquer complêtement
+aux montagnes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="214" y="612"/>
+	<Point x="1044" y="612"/>
+	<Point x="1044" y="683"/>
+	<Point x="214" y="683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Dr. Staudinger m'ecrit:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="107" y="687"/>
+	<Point x="1858" y="687"/>
+	<Point x="1858" y="1035"/>
+	<Point x="107" y="1035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>„J'ai reçu un petit nombre d'exemplaires de la M. Sibina
+du Marghélane, qui sont absolument comme les vôtres, mais
+je ne suis pas sur, si c'est une espèce distincte, ou une va-
+riété de la Phoebe.“</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="358" y="1114"/>
+	<Point x="1637" y="1114"/>
+	<Point x="1637" y="1224"/>
+	<Point x="358" y="1224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>70. M. Didyma O. var. Dalmatina Stgr.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="114" y="1287"/>
+	<Point x="1846" y="1287"/>
+	<Point x="1846" y="1617"/>
+	<Point x="114" y="1617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quelques individus, tant ♂♂ que ♀♀, furent pris par nous
+en Mai, dans la vallée de l'Ili. C'est bien a la variété Dal-
+matina Stgr. qu'ils appartiennent, quoiqu'ils soient un peu
+diﬀérents des Dalmatina de la Russie méridionale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="103" y="1632"/>
+	<Point x="1846" y="1632"/>
+	<Point x="1846" y="1871"/>
+	<Point x="103" y="1871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est principalement la couleur fauve, très claire, jaunâtre,
+qui distingue la var. Dalmatina, du type. Mais il ne faut
+pas confondre cette variété, avec la Mel. Persea Koll.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="107" y="1882"/>
+	<Point x="1851" y="1882"/>
+	<Point x="1851" y="2210"/>
+	<Point x="107" y="2210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parmi cette forme de la Didyma, il y a plusieurs indivi-
+dus, qui sont intermédiaires entre le type et la Dalmatina
+par le dessus, mais qui se rapprochent de la dernière par le
+revers.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="378" y="2308"/>
+	<Point x="1566" y="2308"/>
+	<Point x="1566" y="2414"/>
+	<Point x="378" y="2414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>71. M. Didyma var. Ala Stgr. in litt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="103" y="2480"/>
+	<Point x="1849" y="2480"/>
+	<Point x="1849" y="2978"/>
+	<Point x="103" y="2978"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette nouvelle variété de la Didyma, est bien caractéris-
+tique et pourrait facilement être prise pour une espèce diﬀé-
+rente. Mr. Staudinger l'а reçue de l'Ala-Tau et je l'ai prise
+en quantité sufﬁsante dans le Tian-Chian entre 4 et 9000´
+d'altitude. Elle sera decrite sous le nom de v. Ala, par ce
+naturaliste.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="110" y="2987"/>
+	<Point x="1849" y="2987"/>
+	<Point x="1849" y="3160"/>
+	<Point x="110" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je dirai seulement que mes individus sont un peu diﬀé-
+rents de ceux de l'Ala-Tau pur le revers, et qu'en dessus, les</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="1589" y="3167"/>
+	<Point x="1682" y="3167"/>
+	<Point x="1682" y="3221"/>
+	<Point x="1589" y="3221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>26*</Unicode></TextEquiv></TextRegion></Page></PcGts>

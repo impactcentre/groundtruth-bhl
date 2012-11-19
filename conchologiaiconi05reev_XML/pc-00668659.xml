@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668659">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T13:18:21</Created>
+	<LastChange>2012-02-10T10:29:29</LastChange></Metadata>
+	<Page imageFilename="00668659.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r24" index="2"/>
+	<RegionRefIndexed regionRef="r26" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r31" index="12"/>
+	<RegionRefIndexed regionRef="r15" index="13"/>
+	<RegionRefIndexed regionRef="r16" index="14"/>
+	<RegionRefIndexed regionRef="r17" index="15"/>
+	<RegionRefIndexed regionRef="r18" index="16"/>
+	<RegionRefIndexed regionRef="r19" index="17"/>
+	<RegionRefIndexed regionRef="r20" index="18"/>
+	<RegionRefIndexed regionRef="r21" index="19"/>
+	<RegionRefIndexed regionRef="r22" index="20"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1050" y="407"/>
+	<Point x="1516" y="407"/>
+	<Point x="1516" y="476"/>
+	<Point x="1050" y="476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1174" y="503"/>
+	<Point x="1385" y="503"/>
+	<Point x="1385" y="547"/>
+	<Point x="1174" y="547"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE VII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="361" y="989"/>
+	<Point x="1262" y="990"/>
+	<Point x="1262" y="1376"/>
+	<Point x="361" y="1376"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PORCELAIN ACHATINA. Shell pyramidally conical,
+swollen at the apex, somewhat ﬂattened and angular
+at the base, whorls six in number, smooth, polished,
+very minutely marginated at the sutures, columella
+slightly truncated; pale yellow, very prettily tessellated
+with waved oblong-square blue-green spots, some-
+times bright yellow, unspotted, tinged with ﬂesh-pink
+at the apex.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="365" y="1378"/>
+	<Point x="574" y="1378"/>
+	<Point x="574" y="1419"/>
+	<Point x="365" y="1419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.―?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="398" y="1438"/>
+	<Point x="1245" y="1438"/>
+	<Point x="1245" y="1498"/>
+	<Point x="398" y="1498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A pretty species, clearly distinct from the A. fasciata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="580" y="1565"/>
+	<Point x="1052" y="1565"/>
+	<Point x="1052" y="1619"/>
+	<Point x="580" y="1619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 23. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="363" y="1630"/>
+	<Point x="1266" y="1630"/>
+	<Point x="1266" y="1872"/>
+	<Point x="363" y="1872"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA ZEBRA. Achat. testâ subelongato-oblongâ, cras-
+siusculâ, anfractibus octo, granoso-striatis, granis in
+anfractu ultimo evanidis, columellâ subcontortâ; intensè
+castaneâ, strigis angustis albis crebrè fulguratâ, aper-
+turæ fauce cærulescente-albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="361" y="1876"/>
+	<Point x="1271" y="1876"/>
+	<Point x="1271" y="2165"/>
+	<Point x="361" y="2165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ZEBRA ACHATINA. Shell elongately oblong, rather
+thick, whorls eight in number, granosely striated,
+grains disappearing on the last whorl, columella
+slightly twisted; very dark chesnut, marked with
+close narrow zigzag white streaks, interior of the
+aperture bluish-white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1296" y="594"/>
+	<Point x="2196" y="594"/>
+	<Point x="2196" y="645"/>
+	<Point x="1296" y="645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes' edit.) vol. viii. p. 295.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1301" y="892"/>
+	<Point x="2212" y="892"/>
+	<Point x="2212" y="1190"/>
+	<Point x="1301" y="1190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is curious to observe in this species, that the longitu-
+dinal streaks become gradually narrower and more frequent
+as the shell increases in growth. For a species commonly
+placed with this in collections, in which the stripes are
+broader and much fewer in number, and which diﬀers
+manifestly in form, see the preceding Plate, Sp. 18.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="1530" y="1265"/>
+	<Point x="1985" y="1265"/>
+	<Point x="1985" y="1316"/>
+	<Point x="1530" y="1316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 24. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1309" y="1329"/>
+	<Point x="2210" y="1329"/>
+	<Point x="2210" y="1569"/>
+	<Point x="1309" y="1569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA CARINATA. Achat. testâ pyramidali-conicâ,
+basi plano-angulatâ, anfractibus sex ad septem, plano-
+convexis, sub lente minutissimè decussatis, suturis sub-
+excavatis, columellâ vix truncatâ; pellucido-albâ, fasciâ
+opaco-albâ ad suturas et, in anfractu ultimo, ad angulum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1303" y="1572"/>
+	<Point x="2204" y="1572"/>
+	<Point x="2205" y="1903"/>
+	<Point x="1303" y="1903"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE KEELED ACHATINA. Shell pyramidally conical,
+ﬂatly angled at the base, whorls six to seven in
+number, ﬂatly convex, under the lens very minutely
+decussated, sutures somewhat hollowed, columella
+scarcely truncated; transparent white, encircled at
+the sutures with a band of opake white, continued
+round the angle of the last whorl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1309" y="1905"/>
+	<Point x="1870" y="1905"/>
+	<Point x="1870" y="1953"/>
+	<Point x="1309" y="1953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Symbolæ, vol. iii. p. 90.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1313" y="1956"/>
+	<Point x="1538" y="1956"/>
+	<Point x="1538" y="2003"/>
+	<Point x="1313" y="2003"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.―?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1314" y="2014"/>
+	<Point x="2212" y="2014"/>
+	<Point x="2212" y="2116"/>
+	<Point x="1314" y="2116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An interesting species, distinguished by its angular
+structure and delicate milk-white sutural band.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1147" y="2474"/>
+	<Point x="1436" y="2474"/>
+	<Point x="1436" y="2526"/>
+	<Point x="1147" y="2526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>February, 1849.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="468" y="581"/>
+	<Point x="1134" y="581"/>
+	<Point x="1134" y="645"/>
+	<Point x="468" y="645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 22. (Fig. a and b, Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="352" y="651"/>
+	<Point x="1258" y="650"/>
+	<Point x="1258" y="984"/>
+	<Point x="352" y="984"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA MURREA. Achat. testâ pyramidali-conicâ, apice
+tumidâ, basi subplanatâ et angulatâ, anfractibus sex,
+lævibus, politis, ad suturas minutissimè marginatis, co-
+lumellâ vix truncatâ; pallidè luteâ, maculis cæruleo-
+viridibus oblongo-quadratis undatis pulcherrimè tessel-
+latâ, interdum vividè luteâ, immaculatâ, apice roseo-
+incarnatâ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r27">
+	<Coords>
+	<Point x="576" y="1516"/>
+	<Point x="1065" y="1516"/>
+	<Point x="1065" y="1547"/>
+	<Point x="576" y="1547"/></Coords></SeparatorRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1305" y="838"/>
+	<Point x="1792" y="838"/>
+	<Point x="1792" y="883"/>
+	<Point x="1305" y="883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Caﬀraria, South Africa.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r32">
+	<Coords>
+	<Point x="1507" y="1216"/>
+	<Point x="2000" y="1216"/>
+	<Point x="2000" y="1243"/>
+	<Point x="1507" y="1243"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r33">
+	<Coords>
+	<Point x="1074" y="2316"/>
+	<Point x="1549" y="2316"/>
+	<Point x="1549" y="2347"/>
+	<Point x="1074" y="2347"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r34">
+	<Coords>
+	<Point x="1267" y="586"/>
+	<Point x="1275" y="1218"/>
+	<Point x="1275" y="1762"/>
+	<Point x="1278" y="1911"/>
+	<Point x="1278" y="2141"/>
+	<Point x="1296" y="2141"/>
+	<Point x="1296" y="2011"/>
+	<Point x="1294" y="1230"/>
+	<Point x="1294" y="1194"/>
+	<Point x="1285" y="894"/>
+	<Point x="1285" y="586"/></Coords></SeparatorRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1362" y="648"/>
+	<Point x="1889" y="648"/>
+	<Point x="1889" y="692"/>
+	<Point x="1807" y="692"/>
+	<Point x="1807" y="834"/>
+	<Point x="1296" y="834"/>
+	<Point x="1296" y="789"/>
+	<Point x="1361" y="789"/>
+	<Point x="1361" y="692"/>
+	<Point x="1362" y="692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum achatiua, pars, Muller.
+Bulla zebra, Chemnitz.
+Bulimus zebra, Bruguiére.
+Cochlitoma zebra, Férussac.</Unicode></TextEquiv></TextRegion></Page></PcGts>

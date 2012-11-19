@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668373">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:14:05</Created>
+	<LastChange>2012-02-10T09:52:58</LastChange></Metadata>
+	<Page imageFilename="00668373.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r22" index="2"/>
+	<RegionRefIndexed regionRef="r24" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r28" index="13"/>
+	<RegionRefIndexed regionRef="r39" index="14"/>
+	<RegionRefIndexed regionRef="r14" index="15"/>
+	<RegionRefIndexed regionRef="r15" index="16"/>
+	<RegionRefIndexed regionRef="r16" index="17"/>
+	<RegionRefIndexed regionRef="r17" index="18"/>
+	<RegionRefIndexed regionRef="r18" index="19"/>
+	<RegionRefIndexed regionRef="r19" index="20"/>
+	<RegionRefIndexed regionRef="r20" index="21"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="861" y="285"/>
+	<Point x="1271" y="285"/>
+	<Point x="1271" y="352"/>
+	<Point x="861" y="352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="923" y="388"/>
+	<Point x="1209" y="388"/>
+	<Point x="1209" y="445"/>
+	<Point x="923" y="445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XXVIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="360" y="908"/>
+	<Point x="820" y="908"/>
+	<Point x="820" y="956"/>
+	<Point x="360" y="956"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 169. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="142" y="964"/>
+	<Point x="1042" y="964"/>
+	<Point x="1041" y="1161"/>
+	<Point x="745" y="1160"/>
+	<Point x="745" y="1208"/>
+	<Point x="216" y="1208"/>
+	<Point x="217" y="1014"/>
+	<Point x="142" y="1013"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS MILLERI. Bul. testâ, ovato-oblongâ, spirâ sub-
+obtusâ, anfractibus quinque, tumidiusculis, obliquè con-
+volutis, aperturâ subcontractâ, labro reﬂexo; castaneo-
+fuscâ, epidermide sericeâ, transversim minutè granuloso-
+crispatâ, indutâ, peritremate roseo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="145" y="1212"/>
+	<Point x="1036" y="1214"/>
+	<Point x="1036" y="1495"/>
+	<Point x="219" y="1495"/>
+	<Point x="220" y="1249"/>
+	<Point x="144" y="1248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MILLER'S BULIMUS. Shell ovately oblong, spire rather
+obtuse, whorls ﬁve in number, rather swollen, ob-
+liquely convoluted, aperture somewhat contracted,
+lip reﬂected; chesnut-brown, covered with a silken
+epidermis, which is transversely minutely granulously
+crisped, peritreme rose-coloured.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="133" y="1497"/>
+	<Point x="619" y="1497"/>
+	<Point x="619" y="1541"/>
+	<Point x="134" y="1541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOWERBY, Conch. Illus. f. 94.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="144" y="1546"/>
+	<Point x="347" y="1546"/>
+	<Point x="347" y="1583"/>
+	<Point x="144" y="1583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="141" y="1608"/>
+	<Point x="1033" y="1608"/>
+	<Point x="1033" y="1754"/>
+	<Point x="515" y="1754"/>
+	<Point x="515" y="1796"/>
+	<Point x="141" y="1796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This beautiful species is mainly distinguished by its
+exquisite silken epidermis, which exhibits two or three
+bands towards the base, not of colour, but of light and
+shade, as in a shot-silk.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="340" y="1883"/>
+	<Point x="821" y="1883"/>
+	<Point x="821" y="1933"/>
+	<Point x="340" y="1933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 170. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="139" y="1950"/>
+	<Point x="1033" y="1950"/>
+	<Point x="1033" y="2242"/>
+	<Point x="321" y="2241"/>
+	<Point x="321" y="2276"/>
+	<Point x="208" y="2276"/>
+	<Point x="208" y="1990"/>
+	<Point x="139" y="1990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS AURIS-MIDÆ. Bul. testâ oblongo- vel elongato-
+ovatâ, subcompressâ, anfractibus sex, lœvibus aut irre-
+gulariter rugoso-striatis, ultimo valdè majore, columellâ
+callosâ plicœformi, interdum duabus, munitâ, aperturâ
+amplâ; fulvescente-albâ, epidermide olivaceo-castaneâ
+indutâ, aperturœ fauce rufescente-croceâ, peritremate
+lacteâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="132" y="2288"/>
+	<Point x="1027" y="2288"/>
+	<Point x="1028" y="2622"/>
+	<Point x="519" y="2621"/>
+	<Point x="519" y="2663"/>
+	<Point x="209" y="2663"/>
+	<Point x="209" y="2327"/>
+	<Point x="132" y="2328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MIDA'S EAR BULIMUS. Shell oblong or elongately
+ovate, a little compressed, whorls six in number,
+smooth or irregularly roughly striated, last whorl
+very much the larger, columella furnished with a
+plait-like callosity, sometimes two, aperture large;
+fulvous white, covered with an olive chesnut epider-
+mis, interior of the aperture reddish chesnut, peri-
+treme cream colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1071" y="680"/>
+	<Point x="1988" y="680"/>
+	<Point x="1988" y="1314"/>
+	<Point x="1071" y="1314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>We are informed by Chemnitz in the ninth volume of
+the Conchylien Cabinet, published in 1786, that this shell
+was known to Favanne as “a very rare Buccinum from
+New Holland bearing some resemblance to the false
+Midas' Ear,” meaning the Auricula Midœ, which Bru-
+guière referred to his genus Bulimus under the same
+speciﬁc title as that used by Chemnitz in reference to this.
+We also learn from the same source that it was known to
+English collectors upwards of half a century ago, as
+‘The Midas' Ear from New Caledonia.’ Lamarck,
+however, and his followers appear to have confounded
+it with the B. auris-bovina, from which, as described at
+Pl. XXX., it is amply distinguished.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1071" y="1318"/>
+	<Point x="1985" y="1318"/>
+	<Point x="1985" y="1754"/>
+	<Point x="1071" y="1754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The chief variation in the growth of the present species
+consists in some specimens being of an elongated form as
+represented in Chemnitz, and of which a specimen exactly
+agreeing with that ﬁgure is before me, and in others being
+of a compressed oblong tumid growth, as in the shell re-
+presented in the accompanying plate. Both varieties are
+distinguished by a plait-like callosity on the columella and
+the rich orange-red painting of the interior, but are equally
+distinct from the B. Shongi or auris-bovina.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="1280" y="1830"/>
+	<Point x="1771" y="1830"/>
+	<Point x="1771" y="1892"/>
+	<Point x="1280" y="1892"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 171. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1071" y="1906"/>
+	<Point x="1973" y="1907"/>
+	<Point x="1973" y="2192"/>
+	<Point x="1568" y="2192"/>
+	<Point x="1567" y="2237"/>
+	<Point x="1143" y="2237"/>
+	<Point x="1143" y="1950"/>
+	<Point x="1071" y="1950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS FUNCKII. Bul. testâ elongato-oblongâ, subcylin-
+draceâ, crassiusculâ, anfractibus quinque ad sex, longi-
+tudinaliter irregulariter rudè striatis, lœvibus, apicem
+versus subtilissimè corrugato-reticulatis, columellâ sub-
+arcuatâ, labro fortiter reﬂexo; rufo-castaneâ, epider-
+mide olivaceâ crassâ indutâ, aperturâ livido-fuscâ,
+peritremate fumeo-aurantio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1066" y="2242"/>
+	<Point x="1961" y="2241"/>
+	<Point x="1961" y="2576"/>
+	<Point x="1268" y="2576"/>
+	<Point x="1268" y="2618"/>
+	<Point x="1148" y="2618"/>
+	<Point x="1148" y="2280"/>
+	<Point x="1066" y="2280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FUNCK'S BULIMUS. Shell elongately oblong, somewhat
+cylindrical, rather thick, whorls ﬁve to six in number,
+longitudinally irregularly rudely striated, smooth,
+very ﬁnely corrugately reticulated towards the apex;
+columella slightly arched, lip strongly reﬂected;
+reddish chesnut, covered with a thick olive epidermis,
+interior of the aperture livid brown, peritreme smoky
+orange.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1071" y="2623"/>
+	<Point x="1742" y="2623"/>
+	<Point x="1742" y="2668"/>
+	<Point x="1071" y="2668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NYST, Mém. Société Royale de Liège, vol. i.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="949" y="2703"/>
+	<Point x="1138" y="2703"/>
+	<Point x="1138" y="2760"/>
+	<Point x="949" y="2760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>July, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="256" y="481"/>
+	<Point x="921" y="481"/>
+	<Point x="921" y="532"/>
+	<Point x="256" y="532"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 160. (Fig. 160 b. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="145" y="543"/>
+	<Point x="1040" y="543"/>
+	<Point x="1040" y="788"/>
+	<Point x="533" y="788"/>
+	<Point x="533" y="832"/>
+	<Point x="145" y="832"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS FULMINANS. The shell here represented is
+that in Mr. Cuming's collection, described by Dr. Pfeiﬀer
+under the name of B. Loveni, Pro. Zool. Soc., 1847, p. 229.
+It is without doubt identical with the B. fulminans de-
+scribed at Pl. XXIV., though lighter in structure and of
+less acuminated growth.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r25">
+	<Coords>
+	<Point x="366" y="861"/>
+	<Point x="800" y="861"/>
+	<Point x="800" y="888"/>
+	<Point x="366" y="888"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r26">
+	<Coords>
+	<Point x="335" y="1826"/>
+	<Point x="803" y="1825"/>
+	<Point x="803" y="1852"/>
+	<Point x="335" y="1852"/></Coords></SeparatorRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1087" y="477"/>
+	<Point x="1980" y="477"/>
+	<Point x="1980" y="573"/>
+	<Point x="1087" y="573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auris-Midœ terrœ australis, Chemnitz, Conch. Cab. vol. ix.
+p. 42. pl. 121. f. 1039, 1040.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r35">
+	<Coords>
+	<Point x="1311" y="1776"/>
+	<Point x="1750" y="1776"/>
+	<Point x="1750" y="1809"/>
+	<Point x="1311" y="1809"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r44">
+	<Coords>
+	<Point x="1055" y="473"/>
+	<Point x="1050" y="1194"/>
+	<Point x="1046" y="2050"/>
+	<Point x="1043" y="2341"/>
+	<Point x="1041" y="2662"/>
+	<Point x="1051" y="2662"/>
+	<Point x="1063" y="805"/>
+	<Point x="1070" y="473"/></Coords></SeparatorRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="1160" y="575"/>
+	<Point x="1519" y="575"/>
+	<Point x="1519" y="622"/>
+	<Point x="1417" y="622"/>
+	<Point x="1417" y="661"/>
+	<Point x="1084" y="661"/>
+	<Point x="1084" y="625"/>
+	<Point x="1160" y="625"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus ﬁbratus, Gray.
+Hab. New Caledonia.</Unicode></TextEquiv></TextRegion></Page></PcGts>

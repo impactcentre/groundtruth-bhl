@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668124">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T06:34:32</Created>
+	<LastChange>2012-02-10T09:52:38</LastChange></Metadata>
+	<Page imageFilename="00668124.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="83" y="200"/>
+	<Point x="2061" y="200"/>
+	<Point x="2061" y="2796"/>
+	<Point x="1093" y="2869"/>
+	<Point x="83" y="2796"/>
+	<Point x="64" y="1336"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="2140" y="1315"/>
+	<Point x="2140" y="1781"/>
+	<Point x="2200" y="1781"/>
+	<Point x="2200" y="1315"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NUTCRACKER � �.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="2220" y="1464"/>
+	<Point x="2263" y="1464"/>
+	<Point x="2263" y="1630"/>
+	<Point x="2220" y="1630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 95.</Unicode></TextEquiv></TextRegion></Page></PcGts>

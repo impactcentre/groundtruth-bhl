@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669226">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:39:46</Created>
+	<LastChange>2012-03-12T14:33:50</LastChange></Metadata>
+	<Page imageFilename="00669226.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="263" y="292"/>
+	<Point x="1710" y="292"/>
+	<Point x="1710" y="663"/>
+	<Point x="263" y="663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Piquot a rapportés ne montrant ces ﬁlets, je
+dois croire que l’espèce ne les a pas, et qu’ils
+peuvent être regardés comme un caractère
+propre et distinctif dans celle de Vlaming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="338" y="671"/>
+	<Point x="1731" y="671"/>
+	<Point x="1731" y="1443"/>
+	<Point x="338" y="1443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La loupe est un peu plus saillante encore dans
+cette espèce que dans les deux précédentes; le corps
+est enluminé d’un noir-violet très-foncé. Sur le dos
+et le long du ventre sont de petites taches rondes,
+d’un bleu clair; le long du ﬂanc les taches sont
+oblongues et verticales: il y a aussi des points bleus
+sur la joue, quelques raies bleues en avant de l’œil
+et sur l’opercule, et une ligne bleue le long de la
+base de la dorsale et de l’anale; les nageoires sont
+d’un gris pâle, et les aiguillons de la queue rouges.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="271" y="1450"/>
+	<Point x="1734" y="1450"/>
+	<Point x="1728" y="1705"/>
+	<Point x="1301" y="1712"/>
+	<Point x="273" y="1709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Renard a un peu altéré ces couleurs, car il a
+peint le fond du corps en gris brun, et les pec‐
+torales et les ventrales en orangé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="272" y="1711"/>
+	<Point x="1383" y="1716"/>
+	<Point x="1438" y="1714"/>
+	<Point x="1492" y="1712"/>
+	<Point x="1501" y="1713"/>
+	<Point x="1719" y="1711"/>
+	<Point x="1723" y="2326"/>
+	<Point x="271" y="2326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Selon Valentyn l’oema, n.° 119, atteint une
+longueur d’un pied, et lorsqu’il est bien cuit,
+il ne le cède à aucun autre; mais quand
+il le reprend, n.° 478, sous le nom de stomp-
+smoel, il lui donne deux pieds, en décrit
+un peu autrement les couleurs et ne parle
+plus de sa saveur.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="911" y="2435"/>
+	<Point x="911" y="2478"/>
+	<Point x="1108" y="2478"/>
+	<Point x="1108" y="2435"/></Coords></SeparatorRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="280" y="187"/>
+	<Point x="438" y="187"/>
+	<Point x="438" y="280"/>
+	<Point x="280" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>294</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="733" y="187"/>
+	<Point x="1252" y="187"/>
+	<Point x="1252" y="280"/>
+	<Point x="733" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

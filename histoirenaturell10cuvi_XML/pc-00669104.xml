@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669104">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T02:25:24</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669104.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r15" index="0"/>
+	<RegionRefIndexed regionRef="r27" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="360" y="659"/>
+	<Point x="1719" y="659"/>
+	<Point x="1729" y="1105"/>
+	<Point x="1717" y="1104"/>
+	<Point x="1711" y="1105"/>
+	<Point x="1347" y="1108"/>
+	<Point x="1344" y="1109"/>
+	<Point x="1321" y="1110"/>
+	<Point x="1303" y="1110"/>
+	<Point x="1300" y="1098"/>
+	<Point x="1211" y="1100"/>
+	<Point x="1204" y="1115"/>
+	<Point x="1187" y="1115"/>
+	<Point x="1184" y="1103"/>
+	<Point x="1183" y="1099"/>
+	<Point x="909" y="1098"/>
+	<Point x="913" y="1111"/>
+	<Point x="874" y="1111"/>
+	<Point x="867" y="1106"/>
+	<Point x="865" y="1104"/>
+	<Point x="362" y="1103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le devant du museau, le crâne, la tempe et tout
+le corps sont couverts d’innombrables petites écailles
+rondes, lisses, qui, vues à la loupe, montrent à leur
+bord externe une très-ﬁne dentelure. La ligne latérale
+demeure parallèle à la courbure du dos et à une dis‐
+tance qui est du cinquième de la plus grande hauteur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="341" y="1107"/>
+	<Point x="344" y="1111"/>
+	<Point x="503" y="1108"/>
+	<Point x="800" y="1107"/>
+	<Point x="861" y="1107"/>
+	<Point x="868" y="1115"/>
+	<Point x="916" y="1114"/>
+	<Point x="916" y="1103"/>
+	<Point x="1179" y="1104"/>
+	<Point x="1181" y="1118"/>
+	<Point x="1206" y="1118"/>
+	<Point x="1214" y="1105"/>
+	<Point x="1297" y="1102"/>
+	<Point x="1298" y="1107"/>
+	<Point x="1298" y="1114"/>
+	<Point x="1718" y="1111"/>
+	<Point x="1720" y="1116"/>
+	<Point x="1734" y="2085"/>
+	<Point x="341" y="2085"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tel qu’il nous a été envoyé dans la liqueur, ce
+poisson paraît d’un brun foncé tirant sur le jaune.
+Des lignes verticales noirâtres se montrent sur ses
+ﬂancs sans atteindre son dos ni son ventre; dans l’in‐
+dividu où elles sont le plus apparentes, on en compte
+douze ou treize, qui commencent derrière l’ouïe et
+ﬁnissent avant l’épine de la queue. Dans quelques
+individus, d’ailleurs entièrement semblables aux
+autres, on ne voit aucunes traces de ces bandes.
+Les ventrales paraissent noires, et les pectorales
+jaunâtres; des lignes noirâtres très-ﬁnes existent sur
+la dorsale, en travers de ses rayons; la caudale a un
+liséré pâle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="288" y="2097"/>
+	<Point x="1701" y="2097"/>
+	<Point x="1701" y="2629"/>
+	<Point x="288" y="2629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D’après le dessin de Plumier, tel que l’a
+rendu Bloch, pl. 208, il serait d’un jaune clair
+et avec un ventre blanc bleuâtre: des lignes
+obliques brunâtres se voient sur la dorsale,
+l’anale et la caudale; la dorsale a aussi quel‐
+ques taches irrégulières brunes, et il n’y a que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="320" y="154"/>
+	<Point x="470" y="154"/>
+	<Point x="470" y="241"/>
+	<Point x="320" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>172</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="745" y="169"/>
+	<Point x="1299" y="169"/>
+	<Point x="1299" y="242"/>
+	<Point x="745" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="367" y="254"/>
+	<Point x="1719" y="254"/>
+	<Point x="1722" y="572"/>
+	<Point x="366" y="571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>échancrée en croissant jusqu’au tiers à peu près de
+sa longueur; ses lobes sont aiguisés en pointe et le
+supérieur est plus long que l’inférieur; elle a seize
+rayons entiers et quelques petits sur les bords.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="463" y="581"/>
+	<Point x="1600" y="580"/>
+	<Point x="1600" y="653"/>
+	<Point x="463" y="642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 5; D. 9/23 à 26; A. 3/22; C. 16; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion></Page></PcGts>

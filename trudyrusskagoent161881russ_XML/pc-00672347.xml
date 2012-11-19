@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672347">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:17:12</Created>
+	<LastChange>2012-02-10T09:54:32</LastChange></Metadata>
+	<Page imageFilename="00672347.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="766" y="144"/>
+	<Point x="1082" y="144"/>
+	<Point x="1082" y="214"/>
+	<Point x="766" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 153 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="66" y="271"/>
+	<Point x="1787" y="271"/>
+	<Point x="1787" y="525"/>
+	<Point x="66" y="525"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>als hinten, oben gewölbt, auf der Scheibe grob unregelmässig
+längsrunzlig, in der Mitte mit einem wenig erhabenen, glatten,
+vorn und hinten abgekürzten Längskiel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="51" y="532"/>
+	<Point x="1789" y="532"/>
+	<Point x="1789" y="851"/>
+	<Point x="51" y="851"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Runzeln laufen nicht regelmässig von vorn nach hinten,
+sondern ganz unregelmässig, bald gerade, bald schief, sind bald
+länger, bald kürzer und man sieht deutlich, dass sie aus zu-
+sammengeﬂossenen Punkten entstanden sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="46" y="858"/>
+	<Point x="1791" y="858"/>
+	<Point x="1791" y="1833"/>
+	<Point x="46" y="1833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Flügeldecken kurz oval, wenig länger als breit, nicht ganz
+doppelt so breit als das Halsschild, seitlich stark gerundet und
+zwar in regelmässigem Bogen, in der Mitte am breitesten;
+hinten sind sie ganz schwach zugespitzt und an der Spitze
+selbst gemeinschaftlich abgerundet; oben mässig gewölbt, hinten
+senkrecht abfallend, mit feinen Punktreihen, die Zwischenräume
+eben, glatt, mit Punkten bestreut, die genau so stark sind
+als die der Punktreihen, so dass diese nur an der grössern
+Regelmässigkeit der Längsreihen erkennbar sind und daran,
+dass die Punkte in denselben etwas dichter stehen als die auf
+den Zwischenräumen; hinten sind die Zwischenräume fein ge-
+körnt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="53" y="1846"/>
+	<Point x="1798" y="1846"/>
+	<Point x="1798" y="2001"/>
+	<Point x="53" y="2001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite schwach glänzend und mit feinen Punkten nicht
+dicht besetzt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="51" y="2008"/>
+	<Point x="1785" y="2008"/>
+	<Point x="1785" y="2239"/>
+	<Point x="51" y="2239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beine mittelstark, die Schenkel mässig verdickt, ungezähnt,
+die Schienen gerade, an der Spitze stark verbreitert und an
+der Innenﬂäche ohne Erhabenheiten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="49" y="2258"/>
+	<Point x="1787" y="2258"/>
+	<Point x="1787" y="2423"/>
+	<Point x="49" y="2423"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aus Krasnojarsk in West-Sibirien. Von Hrn. Streblow
+gefunden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="158" y="2428"/>
+	<Point x="1412" y="2428"/>
+	<Point x="1412" y="2516"/>
+	<Point x="158" y="2516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Art ist neben O. rutilipennis zu stellen.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="758" y="2651"/>
+	<Point x="1071" y="2651"/>
+	<Point x="1071" y="2673"/>
+	<Point x="758" y="2673"/></Coords></SeparatorRegion></Page></PcGts>

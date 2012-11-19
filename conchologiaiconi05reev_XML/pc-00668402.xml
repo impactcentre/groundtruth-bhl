@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668402">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T13:20:39</Created>
+	<LastChange>2012-02-10T09:53:01</LastChange></Metadata>
+	<Page imageFilename="00668402.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r30" index="2"/>
+	<RegionRefIndexed regionRef="r38" index="3"/>
+	<RegionRefIndexed regionRef="r44" index="4"/>
+	<RegionRefIndexed regionRef="r4" index="5"/>
+	<RegionRefIndexed regionRef="r5" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/>
+	<RegionRefIndexed regionRef="r7" index="8"/>
+	<RegionRefIndexed regionRef="r8" index="9"/>
+	<RegionRefIndexed regionRef="r9" index="10"/>
+	<RegionRefIndexed regionRef="r10" index="11"/>
+	<RegionRefIndexed regionRef="r11" index="12"/>
+	<RegionRefIndexed regionRef="r12" index="13"/>
+	<RegionRefIndexed regionRef="r13" index="14"/>
+	<RegionRefIndexed regionRef="r14" index="15"/>
+	<RegionRefIndexed regionRef="r22" index="16"/>
+	<RegionRefIndexed regionRef="r28" index="17"/>
+	<RegionRefIndexed regionRef="r16" index="18"/>
+	<RegionRefIndexed regionRef="r17" index="19"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1000" y="104"/>
+	<Point x="1472" y="104"/>
+	<Point x="1472" y="158"/>
+	<Point x="1000" y="158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE XXXV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="326" y="196"/>
+	<Point x="1216" y="196"/>
+	<Point x="1216" y="534"/>
+	<Point x="564" y="534"/>
+	<Point x="564" y="583"/>
+	<Point x="402" y="583"/>
+	<Point x="402" y="248"/>
+	<Point x="326" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE RAVINE‐INHABITING BULIMUS. Shell oblong-ovate,
+whorls somewhat ventricose, longitudinally striated,
+and peculiarly very ﬁnely marked besides with short
+impressed striæ, minutely granulated and radiately
+ridged towards the apex, columella scarcely twisted,
+lip reﬂected; livid brown, longitudinally obscurely
+banded, covered with a rather thin horny epidermis,
+lip white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="548" y="1122"/>
+	<Point x="1010" y="1122"/>
+	<Point x="1010" y="1171"/>
+	<Point x="548" y="1171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 209. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="336" y="1195"/>
+	<Point x="1220" y="1190"/>
+	<Point x="1220" y="1478"/>
+	<Point x="561" y="1479"/>
+	<Point x="560" y="1515"/>
+	<Point x="408" y="1515"/>
+	<Point x="407" y="1237"/>
+	<Point x="337" y="1236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS GRANULOSUS. Bul. testâ oblongo-ovatâ, an-
+fractibus ventricosis, longitudinaliter rudè striatis, un-
+dique minutè granulatis, prope apicem subobscurè
+radiatim liratis, columellâ subcontortâ, labro reﬂexo;
+luteo-brunnescente, epidermide tenuiculâ indutâ, colu‐
+mellâ labroque pallidè roseis, aperturœ fauce cœruleo-
+albicante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="335" y="1524"/>
+	<Point x="1226" y="1524"/>
+	<Point x="1227" y="1809"/>
+	<Point x="758" y="1809"/>
+	<Point x="759" y="1859"/>
+	<Point x="417" y="1859"/>
+	<Point x="416" y="1567"/>
+	<Point x="335" y="1567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GRANULOUS BULIMUS. Shell oblong-ovate, whorls
+ventricose, longitudinally rudely striated, minutely
+granulated throughout, somewhat obscurely radiately
+ridged near the apex, columella somewhat twisted,
+lip reﬂected; yellowish brown, covered with a thin
+epidermis, lip and columella pale rose, interior of the
+aperture bluish white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="338" y="1862"/>
+	<Point x="1223" y="1861"/>
+	<Point x="1223" y="1907"/>
+	<Point x="551" y="1906"/>
+	<Point x="551" y="1955"/>
+	<Point x="339" y="1955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Helix granulosa, Rang, Descr. coquilles terrestres, p. 49.
+pl. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="346" y="1957"/>
+	<Point x="542" y="1957"/>
+	<Point x="542" y="1994"/>
+	<Point x="346" y="1994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="340" y="2020"/>
+	<Point x="1224" y="2020"/>
+	<Point x="1224" y="2308"/>
+	<Point x="340" y="2308"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is much to be feared whether this is not truly a
+variety of the B. ovatus. The typical diﬀerences are as
+ollows:—in form the B. granulosus is of a less shortened
+umid growth than the B. ovatus, and in sculpture, it is
+more prominently granulated throughout, whilst the ra‐
+diated ridges about the apex are more obscure; it is,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1257" y="185"/>
+	<Point x="2163" y="185"/>
+	<Point x="2160" y="334"/>
+	<Point x="1402" y="333"/>
+	<Point x="1402" y="382"/>
+	<Point x="1257" y="382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>moreover, of a lighter tint of colour, and varies considerably
+in the nature of the epidermis, which in this species is
+slight and ﬁbrous, but in the B. ovatus, is thick, horny, and
+shining.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="1476" y="462"/>
+	<Point x="1946" y="462"/>
+	<Point x="1946" y="510"/>
+	<Point x="1476" y="510"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 210. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1266" y="518"/>
+	<Point x="2162" y="518"/>
+	<Point x="2163" y="721"/>
+	<Point x="1838" y="720"/>
+	<Point x="1839" y="757"/>
+	<Point x="1336" y="758"/>
+	<Point x="1336" y="565"/>
+	<Point x="1266" y="565"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS OBLONGUS. Bul. testâ oblongo-ovatâ, vix umbi-
+licatâ, nunc subamplâ, tenuiculâ, ventricosâ, nunc par-
+viore, crassâ, ponderosâ, anfractibus convexis, plus
+minusve costulato-striatis, labro reﬂexo; fulvo-spadiceâ,
+columellâ labroque intensè roseis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1266" y="763"/>
+	<Point x="2164" y="763"/>
+	<Point x="2165" y="1001"/>
+	<Point x="1507" y="1001"/>
+	<Point x="1506" y="1047"/>
+	<Point x="1337" y="1047"/>
+	<Point x="1337" y="809"/>
+	<Point x="1266" y="808"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE OBLONG BULIMUS. Shell oblong-ovate, scarcely
+umbilicated, sometimes rather large, thin, and ven‐
+tricose, sometimes smaller, thick, and ponderous,
+whorls convex, more or less sculptured with rib-like
+striæ, lip reﬂected; fulvous-bay, lip and columella
+deep rose.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1268" y="1051"/>
+	<Point x="1924" y="1051"/>
+	<Point x="1924" y="1095"/>
+	<Point x="1268" y="1095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Helix oblonga, Muller, Verm. vol. ii. p. 86.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1265" y="1204"/>
+	<Point x="2166" y="1204"/>
+	<Point x="2166" y="1496"/>
+	<Point x="1455" y="1497"/>
+	<Point x="1455" y="1536"/>
+	<Point x="1265" y="1536"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This well-known species inhabits a wide range of
+country, and varies greatly in size and substance according
+to the local conditions of climate and vegetation, at one
+time large and ventricose like the specimen selected for
+illustration, at another smaller, thick, and ponderous, with
+the lip not unfrequently thickened to an extent truly
+remarkable.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1266" y="1541"/>
+	<Point x="2170" y="1541"/>
+	<Point x="2167" y="2270"/>
+	<Point x="1433" y="2270"/>
+	<Point x="1432" y="2312"/>
+	<Point x="1266" y="2312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. D’Orbigny has some curious remarks on the habits
+and age of this species. “The Bulimus oblongus,” says
+this intelligent traveller and naturalist, “buries itself
+deeply in the earth during the dry season, and comes forth
+at the time of the rains. Towards the close of the rainy
+season, it deposits its cretaceous eggs in the earth, and
+the young escape from them during the ﬁrst rains which
+follow.” The author then goes on to describe that about
+two or three years is occupied in the formation of the
+shell, when, having arrived at the age of maturity, the lip
+is reﬂected, and at a more advanced stage becomes more
+or less thickened according to circumstances. After an
+examination of what he considers to be annual marks of
+increase of growth, Mr. D’Orbigny arrives at the conclu‐
+sion that the Bulimus oblongus lives for a period of about
+ten years.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r18">
+	<Coords>
+	<Point x="1228" y="196"/>
+	<Point x="1238" y="2303"/>
+	<Point x="1257" y="2303"/>
+	<Point x="1248" y="196"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r19">
+	<Coords>
+	<Point x="548" y="1083"/>
+	<Point x="548" y="1110"/>
+	<Point x="1005" y="1110"/>
+	<Point x="1005" y="1083"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r20">
+	<Coords>
+	<Point x="1487" y="410"/>
+	<Point x="1487" y="440"/>
+	<Point x="1944" y="440"/>
+	<Point x="1944" y="410"/></Coords></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1342" y="1098"/>
+	<Point x="1943" y="1098"/>
+	<Point x="1943" y="1142"/>
+	<Point x="1342" y="1142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus hœmastoma, Scopoli, Lamarck.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1263" y="1148"/>
+	<Point x="1858" y="1148"/>
+	<Point x="1858" y="1188"/>
+	<Point x="1263" y="1188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Eastern coast of South America.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="336" y="589"/>
+	<Point x="1129" y="582"/>
+	<Point x="1129" y="623"/>
+	<Point x="600" y="623"/>
+	<Point x="595" y="628"/>
+	<Point x="577" y="628"/>
+	<Point x="568" y="625"/>
+	<Point x="523" y="626"/>
+	<Point x="336" y="625"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D’ORBIGNY, Voy. dans l’Amér. Mérid. Moll. p. 302.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="339" y="636"/>
+	<Point x="1223" y="627"/>
+	<Point x="1223" y="721"/>
+	<Point x="567" y="726"/>
+	<Point x="339" y="724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Cochabamba, Bolivia (in deep ravines at the base of
+the snowy peaks of the Cordilleras); D’Orbigny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="325" y="736"/>
+	<Point x="1225" y="736"/>
+	<Point x="1225" y="1027"/>
+	<Point x="476" y="1028"/>
+	<Point x="476" y="1070"/>
+	<Point x="325" y="1070"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Intermediate, in a manner, between the B. maximus and
+ovatus, of smaller size, and apparently distinct. In the
+specimen here ﬁgured from Mr. Cuming’s collection, the
+surface is curiously marked by numerous rows of short
+longitudinal hollowed striæ; it is also encircled by a couple
+of scratched grooves, but these are evidently the result of
+accident.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r45">
+	<Coords>
+	<Point x="999" y="2410"/>
+	<Point x="999" y="2428"/>
+	<Point x="1466" y="2428"/>
+	<Point x="1466" y="2410"/></Coords></SeparatorRegion></Page></PcGts>

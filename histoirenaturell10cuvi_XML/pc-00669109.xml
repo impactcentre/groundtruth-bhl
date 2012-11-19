@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669109">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:25:57</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669109.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="158" y="288"/>
+	<Point x="1548" y="288"/>
+	<Point x="1548" y="603"/>
+	<Point x="158" y="603"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quelques individus, des bandes sur les ﬂancs. Je ne
+vois pas de lignes sur les nageoires, et la caudale
+n’a pas de liséré, du moins sur ceux qui nous sont
+venus des côtes d’Amérique.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="92" y="624"/>
+	<Point x="1571" y="624"/>
+	<Point x="1571" y="1321"/>
+	<Point x="92" y="1321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons des individus de cette espèce,
+originaires de la Martinique et longs de sept
+pouces et de onze pouces, un autre du Brésil,
+qui n’en a que quatre, et un troisième de la
+Havane qui n’en a que trois. M. L’Herminier
+l’a rapporté de la Guadeloupe et M. Ricord de
+Saint-Domingue. M. Milbert nous en a aussi
+envoyé un de New-York, mais très-petit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="143" y="1328"/>
+	<Point x="1544" y="1328"/>
+	<Point x="1544" y="2487"/>
+	<Point x="143" y="2487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson est du petit nombre de ceux que
+nous observons sur les côtes opposées de l’Atlan‐
+tique, et qui paraissent traverser cet océan. En eﬀet,
+nous en avons reçu un individu long de quatre
+pouces et demi de la rade de Gorée parmi les pois‐
+sons dus aux recherches de M. Rang, et dans le dessin
+colorié qu’il a bien voulu nous remettre, il le peint
+de couleur brune, rayée longitudinalement de petits
+traits bleuâtres; la pectorale a du jaune; la caudale
+un très-ﬁn liséré de cette dernière teinte; la portion
+antérieure de la dorsale et de l’anale a des traits
+blanchâtres ou bleuâtres très-clairs. Ses intestins
+n’oﬀrent que cinq appendices cæcales, et l’estomac
+est très-renﬂé, arrondi, à cause de l’épaisseur de ses
+parois.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1386" y="176"/>
+	<Point x="1539" y="176"/>
+	<Point x="1539" y="281"/>
+	<Point x="1386" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>177</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="492" y="176"/>
+	<Point x="1124" y="176"/>
+	<Point x="1124" y="281"/>
+	<Point x="492" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="89" y="2493"/>
+	<Point x="1554" y="2493"/>
+	<Point x="1554" y="2685"/>
+	<Point x="89" y="2685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est aussi à cette seconde espèce que nous
+paraît devoir se rapporter l’acarauna de Mar-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="signature-mark">
+	<Coords>
+	<Point x="230" y="2693"/>
+	<Point x="337" y="2693"/>
+	<Point x="337" y="2748"/>
+	<Point x="230" y="2748"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="signature-mark">
+	<Coords>
+	<Point x="1194" y="2693"/>
+	<Point x="1284" y="2693"/>
+	<Point x="1284" y="2746"/>
+	<Point x="1194" y="2746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>12</Unicode></TextEquiv></TextRegion></Page></PcGts>

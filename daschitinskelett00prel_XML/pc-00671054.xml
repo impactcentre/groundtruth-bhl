@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671054">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T06:37:24</Created>
+	<LastChange>2012-03-12T14:34:01</LastChange></Metadata>
+	<Page imageFilename="00671054.tif" imageWidth="2579" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r24" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r25" index="6"/>
+	<RegionRefIndexed regionRef="r29" index="7"/>
+	<RegionRefIndexed regionRef="r31" index="8"/>
+	<RegionRefIndexed regionRef="r32" index="9"/>
+	<RegionRefIndexed regionRef="r9" index="10"/>
+	<RegionRefIndexed regionRef="r10" index="11"/>
+	<RegionRefIndexed regionRef="r11" index="12"/>
+	<RegionRefIndexed regionRef="r12" index="13"/>
+	<RegionRefIndexed regionRef="r13" index="14"/>
+	<RegionRefIndexed regionRef="r14" index="15"/>
+	<RegionRefIndexed regionRef="r15" index="16"/>
+	<RegionRefIndexed regionRef="r16" index="17"/>
+	<RegionRefIndexed regionRef="r17" index="18"/>
+	<RegionRefIndexed regionRef="r33" index="19"/>
+	<RegionRefIndexed regionRef="r18" index="20"/>
+	<RegionRefIndexed regionRef="r34" index="21"/>
+	<RegionRefIndexed regionRef="r19" index="22"/>
+	<RegionRefIndexed regionRef="r20" index="23"/>
+	<RegionRefIndexed regionRef="r35" index="24"/>
+	<RegionRefIndexed regionRef="r21" index="25"/>
+	<RegionRefIndexed regionRef="r45" index="26"/>
+	<RegionRefIndexed regionRef="r47" index="27"/>
+	<RegionRefIndexed regionRef="r23" index="28"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="407" y="332"/>
+	<Point x="2295" y="332"/>
+	<Point x="2295" y="402"/>
+	<Point x="407" y="402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E. Schweizerbart'sche Verlagsbuchhandlung, Nägele &amp; Dr. Sproesser, Stuttgart.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="290" y="457"/>
+	<Point x="2437" y="457"/>
+	<Point x="2437" y="847"/>
+	<Point x="290" y="847"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grundzüge der
+Paläobiologie der Wirbeltiere</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="890" y="852"/>
+	<Point x="1810" y="852"/>
+	<Point x="1810" y="932"/>
+	<Point x="890" y="932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>von Prof. Dr. O. Abel, Wien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="627" y="954"/>
+	<Point x="2077" y="957"/>
+	<Point x="2077" y="1020"/>
+	<Point x="627" y="1020"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gr. 8°. 724 Seiten und 470 Textfiguren. — Preis geb. Mk. 18.—.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="352" y="1472"/>
+	<Point x="352" y="1391"/>
+	<Point x="2413" y="1390"/>
+	<Point x="2413" y="1605"/>
+	<Point x="282" y="1605"/>
+	<Point x="282" y="1471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>um Schluß möchte ich noch betonen, daß unter ABEL's Händen das tote fossile Material durch die Vergleichung
+mit dem lebenden in wahrem Sinne sich belebt hat, daß das paläontologische Material lebendig geworden ist. Eine
+große Anzahl schöner Rekonstruktionen in vortrefflichen Abbildungen veranschaulicht diese Wiederbelebungsversuche.
+Auch auf die zahlreichen vortrefflichen Abbildungen des schön ausgestatteten Werkes möchte ich schließlich noch
+besonders hinweisen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="288" y="1610"/>
+	<Point x="2413" y="1615"/>
+	<Point x="2413" y="1700"/>
+	<Point x="289" y="1698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kein Morphologe, kein Anthropologe wird ABEL's Buch studieren können, ohne wesentliche Bereicherungen seiner
+Wissenschaft, Aufklärung schwieriger Probleme, neue Fragestellungen, Anregung zu neuen Arbeiten daraus zu entnehmen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1521" y="1704"/>
+	<Point x="2410" y="1704"/>
+	<Point x="2410" y="1739"/>
+	<Point x="1521" y="1739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prof. Dr. G. SCHWALBE, Zeitschr. f. Morphologie. Bd XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="277" y="1790"/>
+	<Point x="2435" y="1790"/>
+	<Point x="2435" y="2092"/>
+	<Point x="276" y="2092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lehrbuch der
+Vergleichenden Anatomie der Wirbeltiere</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="892" y="2107"/>
+	<Point x="1812" y="2107"/>
+	<Point x="1812" y="2175"/>
+	<Point x="892" y="2175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>von Prof. Dr. W. Schimkewitsch,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="845" y="2182"/>
+	<Point x="1850" y="2182"/>
+	<Point x="1850" y="2230"/>
+	<Point x="845" y="2230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Direktor des Zoologischen Instituts in St. Petersburg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="285" y="2232"/>
+	<Point x="2417" y="2232"/>
+	<Point x="2417" y="2312"/>
+	<Point x="285" y="2312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ins Deutsche übertragen und bearbeitet von Dr. H. N. Maier, München und B. W. Sukatschoff, Dorpat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="395" y="2330"/>
+	<Point x="2312" y="2330"/>
+	<Point x="2312" y="2405"/>
+	<Point x="395" y="2405"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gr. 8°. 650 Seiten mit 635 zum grossen Teil farbigen Textabbildungen in 971 Einzeldarstellungen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="880" y="2409"/>
+	<Point x="1815" y="2409"/>
+	<Point x="1815" y="2460"/>
+	<Point x="880" y="2460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Preis brosch. Mk. 18.—, geb. Mk. 19.50.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="363" y="2481"/>
+	<Point x="2412" y="2477"/>
+	<Point x="2412" y="2570"/>
+	<Point x="370" y="2570"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ieses nach Inhalt und Ausführung hochbedeutsame Werk wird sich für jeden Zoologen, Vergleichenden
+Anatom etc. als unentbehrlich erweisen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="369" y="2675"/>
+	<Point x="369" y="2595"/>
+	<Point x="2422" y="2595"/>
+	<Point x="2422" y="2771"/>
+	<Point x="2273" y="2771"/>
+	<Point x="285" y="2769"/>
+	<Point x="285" y="2676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>m so freudiger ist das vorliegende Werk zu begrüßen, welches den gewaltigen Stoff der vergleichenden Anatomie
+der Wirbeltiere in sehr anschaulicher und zugleich fesselnder Weise behandelt. Es besitzt drei große Vorzüge:
+Beschränkung des Stoffs auf die Haupttatsachen unter Vermeidung alles nebensächlichen Details, beständiges Zurück-
+greifen auf die Ontogenie und gründliche Betonung der theoretischen Gesichtspunkte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1640" y="2773"/>
+	<Point x="2400" y="2775"/>
+	<Point x="2400" y="2811"/>
+	<Point x="1640" y="2811"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L. PLATE, Archiv f. Rassen- u. Gesellschaftsbiologie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="365" y="2824"/>
+	<Point x="2417" y="2824"/>
+	<Point x="2417" y="2947"/>
+	<Point x="1021" y="2954"/>
+	<Point x="282" y="2954"/>
+	<Point x="282" y="2907"/>
+	<Point x="365" y="2907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>s soll die Art und Weise der Behandlung gleichsam ein Mittelweg sein zwischen derjenigen von GEGENBAUR und
+WIEDERSHEIM einerseits und HUXLEY, PARKER und HASWELL anderseits. Das ist ein glücklicher Ge-
+danke und im allgemeinen wohl gelungen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1485" y="3175"/>
+	<Point x="1853" y="3176"/>
+	<Point x="1878" y="3181"/>
+	<Point x="1904" y="3175"/>
+	<Point x="2430" y="3175"/>
+	<Point x="2430" y="3225"/>
+	<Point x="1485" y="3225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. FUCHS, Straßburg i. E., Morphol. Jahrbuch. 40. Bd., 1910.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="drop-capital">
+	<Coords>
+	<Point x="290" y="1035"/>
+	<Point x="360" y="1035"/>
+	<Point x="360" y="1127"/>
+	<Point x="290" y="1127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="369" y="1035"/>
+	<Point x="2416" y="1035"/>
+	<Point x="2416" y="1208"/>
+	<Point x="287" y="1220"/>
+	<Point x="287" y="1135"/>
+	<Point x="369" y="1135"/>
+	<Point x="362" y="1063"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>as Werk behandelt: I. Die Geschichte und Entwicklung der Paläontologie. II. Die Überreste der fossilen
+Wirbeltiere. III. Die Wirbeltiere im Kampf mit der Außenwelt. IV. Die Paläobiologie und Phylogenie —
+und legt die strenge GesetzmäBigkeit dar, nach der sich seit den ältesten Zeiten organischen Lebens die Anpassung
+auf der Erde vollzieht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="drop-capital">
+	<Coords>
+	<Point x="292" y="1240"/>
+	<Point x="383" y="1239"/>
+	<Point x="383" y="1322"/>
+	<Point x="292" y="1322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>W</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="385" y="1239"/>
+	<Point x="2415" y="1239"/>
+	<Point x="2415" y="1328"/>
+	<Point x="1504" y="1328"/>
+	<Point x="1504" y="1371"/>
+	<Point x="293" y="1370"/>
+	<Point x="293" y="1326"/>
+	<Point x="385" y="1326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ir haben in der hier dargestellten und meisterhaft begründeten Methode etwas ganz Neues vor uns. —
+. . . . . Auf die üppige Ausstattung mit Bildern sei nur kurz hingewiesen. Das ist ein Buch, das jeder Biologe
+anschaffen und eifrigst studieren sollte!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1509" y="1337"/>
+	<Point x="2387" y="1337"/>
+	<Point x="2387" y="1375"/>
+	<Point x="1509" y="1375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Professor Dr. BARDELEBEN in „Anatomischer Anzeiger“.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="drop-capital">
+	<Coords>
+	<Point x="284" y="1395"/>
+	<Point x="350" y="1395"/>
+	<Point x="350" y="1469"/>
+	<Point x="284" y="1469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Z</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="drop-capital">
+	<Coords>
+	<Point x="295" y="2485"/>
+	<Point x="295" y="2569"/>
+	<Point x="362" y="2569"/>
+	<Point x="362" y="2485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="drop-capital">
+	<Coords>
+	<Point x="296" y="2595"/>
+	<Point x="296" y="2671"/>
+	<Point x="365" y="2671"/>
+	<Point x="365" y="2595"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>U</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="drop-capital">
+	<Coords>
+	<Point x="294" y="2823"/>
+	<Point x="294" y="2901"/>
+	<Point x="361" y="2901"/>
+	<Point x="361" y="2823"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r36" type="other">
+	<Coords>
+	<Point x="275" y="970"/>
+	<Point x="275" y="1008"/>
+	<Point x="616" y="1008"/>
+	<Point x="616" y="970"/></Coords></GraphicRegion>
+	<GraphicRegion id="r37" type="other">
+	<Coords>
+	<Point x="2091" y="967"/>
+	<Point x="2091" y="1013"/>
+	<Point x="2421" y="1013"/>
+	<Point x="2421" y="967"/></Coords></GraphicRegion>
+	<SeparatorRegion id="r38">
+	<Coords>
+	<Point x="287" y="1225"/>
+	<Point x="287" y="1233"/>
+	<Point x="2411" y="1233"/>
+	<Point x="2411" y="1225"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r39">
+	<Coords>
+	<Point x="277" y="1375"/>
+	<Point x="277" y="1383"/>
+	<Point x="2406" y="1383"/>
+	<Point x="2404" y="1378"/>
+	<Point x="2045" y="1380"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r40">
+	<Coords>
+	<Point x="2414" y="2581"/>
+	<Point x="2414" y="2588"/>
+	<Point x="297" y="2588"/>
+	<Point x="297" y="2581"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r41">
+	<Coords>
+	<Point x="288" y="2808"/>
+	<Point x="288" y="2820"/>
+	<Point x="2401" y="2820"/>
+	<Point x="2400" y="2815"/></Coords></SeparatorRegion>
+	<GraphicRegion id="r42" type="other">
+	<Coords>
+	<Point x="1830" y="2415"/>
+	<Point x="1830" y="2457"/>
+	<Point x="2157" y="2457"/>
+	<Point x="2157" y="2415"/></Coords></GraphicRegion>
+	<GraphicRegion id="r43" type="other">
+	<Coords>
+	<Point x="533" y="2415"/>
+	<Point x="533" y="2460"/>
+	<Point x="878" y="2460"/>
+	<Point x="878" y="2415"/></Coords></GraphicRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="2417" y="3089"/>
+	<Point x="2251" y="3089"/>
+	<Point x="2251" y="3088"/>
+	<Point x="2052" y="3088"/>
+	<Point x="2052" y="3087"/>
+	<Point x="1853" y="3087"/>
+	<Point x="1853" y="3086"/>
+	<Point x="1653" y="3086"/>
+	<Point x="1653" y="3085"/>
+	<Point x="1454" y="3085"/>
+	<Point x="1454" y="3084"/>
+	<Point x="1255" y="3084"/>
+	<Point x="1255" y="3083"/>
+	<Point x="1056" y="3083"/>
+	<Point x="1056" y="3082"/>
+	<Point x="856" y="3082"/>
+	<Point x="856" y="3081"/>
+	<Point x="657" y="3081"/>
+	<Point x="657" y="3080"/>
+	<Point x="458" y="3080"/>
+	<Point x="458" y="3079"/>
+	<Point x="281" y="3079"/>
+	<Point x="281" y="2957"/>
+	<Point x="1349" y="2957"/>
+	<Point x="1349" y="2956"/>
+	<Point x="2417" y="2956"/>
+	<Point x="2417" y="2955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ein besonderer Vorzug liegt darin, daß vielfach möglichst voraussetzungslos, d. h. ohne besondere Kenntnisse, be-
+sonders systematischer Natur, vorauszusetzen, verfahren und ferner mancher Punkt in den Bereich der Betrachtung
+gezogen wird, der in der Regel, namentlich in den kürzeren Lehrbüchern, übergangen wird.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="456" y="3081"/>
+	<Point x="456" y="3082"/>
+	<Point x="655" y="3082"/>
+	<Point x="655" y="3083"/>
+	<Point x="854" y="3083"/>
+	<Point x="854" y="3084"/>
+	<Point x="1054" y="3084"/>
+	<Point x="1054" y="3085"/>
+	<Point x="1253" y="3085"/>
+	<Point x="1253" y="3086"/>
+	<Point x="1452" y="3086"/>
+	<Point x="1452" y="3087"/>
+	<Point x="1651" y="3087"/>
+	<Point x="1651" y="3088"/>
+	<Point x="1851" y="3088"/>
+	<Point x="1851" y="3089"/>
+	<Point x="2050" y="3089"/>
+	<Point x="2050" y="3090"/>
+	<Point x="2249" y="3090"/>
+	<Point x="2249" y="3091"/>
+	<Point x="2417" y="3091"/>
+	<Point x="2417" y="3172"/>
+	<Point x="1888" y="3172"/>
+	<Point x="1888" y="3173"/>
+	<Point x="1885" y="3173"/>
+	<Point x="1885" y="3174"/>
+	<Point x="1882" y="3174"/>
+	<Point x="1882" y="3175"/>
+	<Point x="1879" y="3175"/>
+	<Point x="1879" y="3176"/>
+	<Point x="1876" y="3176"/>
+	<Point x="1876" y="3177"/>
+	<Point x="1876" y="3176"/>
+	<Point x="1870" y="3176"/>
+	<Point x="1870" y="3175"/>
+	<Point x="1865" y="3175"/>
+	<Point x="1865" y="3174"/>
+	<Point x="1860" y="3174"/>
+	<Point x="1860" y="3173"/>
+	<Point x="1855" y="3173"/>
+	<Point x="1855" y="3172"/>
+	<Point x="281" y="3172"/>
+	<Point x="281" y="3173"/>
+	<Point x="281" y="3081"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alles in allem genommen, liegt ein schönes, sehr lesenswertes, gut geschriebenes und sehr gut ausgestattetes Werk
+vor, das jedem Studierenden, der Interesse für die vergleichende Anatomie hat, empfohlen werden kann.</Unicode></TextEquiv></TextRegion></Page></PcGts>

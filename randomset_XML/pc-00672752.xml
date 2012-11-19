@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672752">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:36:13</Created>
+	<LastChange>2012-03-12T14:34:25</LastChange></Metadata>
+	<Page imageFilename="00672752.tif" imageWidth="2164" imageHeight="2986">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r31" index="1"/>
+	<RegionRefIndexed regionRef="r27" index="2"/>
+	<RegionRefIndexed regionRef="r33" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="415" y="254"/>
+	<Point x="527" y="254"/>
+	<Point x="527" y="315"/>
+	<Point x="415" y="315"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>132</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="928" y="261"/>
+	<Point x="1450" y="261"/>
+	<Point x="1450" y="327"/>
+	<Point x="928" y="327"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ANNÉLIDES CHÊTOPODES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="410" y="336"/>
+	<Point x="1423" y="336"/>
+	<Point x="1423" y="387"/>
+	<Point x="1078" y="385"/>
+	<Point x="409" y="379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Terebella nebulosa Grube, Archiv für Naturg., 1855, XXI, p. 115.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="1045" y="539"/>
+	<Point x="1346" y="539"/>
+	<Point x="1346" y="600"/>
+	<Point x="1045" y="600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pl. XXVIII, ﬁg. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="396" y="611"/>
+	<Point x="1975" y="611"/>
+	<Point x="1975" y="820"/>
+	<Point x="396" y="820"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Corpus longitudinc 4-5cent, latitudine antrorsum usque ad 1cent, rufo-brunneum, punctis
+albis undique sparsis, tentaculis ruﬁs. Pharetrarum dorsualium paria 17. Uncinorum se‐
+ries unica progressiva a segmento tertio usque ad octavum; a segmento nono usque ad
+18mum séries utrinque binœ, anterior progressiva, posterior retrogressiva.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="403" y="846"/>
+	<Point x="1981" y="846"/>
+	<Point x="1981" y="1267"/>
+	<Point x="403" y="1267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les autours n’ont pas réussi jusqu’à présent à identiﬁer l’Amphitrite Meckelii Delle
+Chiaje. Cependant, pour quiconque étudie les Annélides du golfe de Naples à l’état
+vivant, l’hésitation n’est pas possible une seconde. La multitude de petites perles blan‐
+ches semées sur le fond rouge brun, que Delle Chiaje a déjà décrite est trop caracté‐
+ristique pour que l’incertitude trouve encore de la place. Il est vrai que ce caractère
+de coloration disparaît dans l’alcool. Les taches blanches s’étendent même aux bran‐
+chies qui en sont toutes piquetées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="397" y="1270"/>
+	<Point x="1982" y="1270"/>
+	<Point x="1982" y="1671"/>
+	<Point x="397" y="1671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est incontestable que la T. Meckelii est voisine de la T. nebulosa Montagu de la
+Manche (T. tuberculata Dalyell), cependant il est à peine douteux qu’elle doive en être
+distinguée, comme M. Grube et M. de Quatrefages l’ont du reste supposé. La T. ne‐
+bulosa atteint une taille de six à sept pouces, c’est donc un géant, comparativement à
+la T. Meckelii. En outre ses tentacules sont blancs2, tandis que ceux de la T. Meckelii
+sont toujours d’un rouge de brique tirant sur l’orangé, quelquefois piqueté de blanc.
+Je ne doute pas qu’une étude plus approfondie ne révèle encore d’autres diﬀérences.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="410" y="1674"/>
+	<Point x="1979" y="1674"/>
+	<Point x="1979" y="2029"/>
+	<Point x="410" y="2029"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les soies subulées sont des soies de Térébelles normales, à limbe entier. Les pla-
+ques onciales (3 A) sont aviculaires, avec deux dentelures au vertex. Les six premiers
+tores uncinigères n’en portent qu’une rangée, mais les suivants en portent deux, en‐
+grenées l’une dans l’autre, jusqu’à l’extrémité du thorax. Dès le 19me segment, c’est-
+à-dire le premier abdominal, les tores se transforment en palettes ou pinnules qui ne
+portent plus qu’une seule rangée de crochets.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="403" y="426"/>
+	<Point x="1812" y="435"/>
+	<Point x="1812" y="475"/>
+	<Point x="402" y="473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pallonia rapax Ach. Costa, Annuario zool d. r. univ di Napoli, anno 1°, 1862, p. 89.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="403" y="383"/>
+	<Point x="1809" y="391"/>
+	<Point x="1810" y="433"/>
+	<Point x="402" y="425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Amphitritoides rapax Ach. Costa, Annuario zool. d. r. univ. di Napoli, anno 1°, 1862, p. 32.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="398" y="474"/>
+	<Point x="1542" y="477"/>
+	<Point x="1544" y="531"/>
+	<Point x="398" y="531"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Terebella nebulosa Qtrfg. (pro parte), Histoire natur. des Annelés, 11, p. 389.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="460" y="2073"/>
+	<Point x="1970" y="2073"/>
+	<Point x="1970" y="2123"/>
+	<Point x="1981" y="2123"/>
+	<Point x="1981" y="2473"/>
+	<Point x="1982" y="2473"/>
+	<Point x="420" y="2473"/>
+	<Point x="420" y="2122"/>
+	<Point x="419" y="2122"/>
+	<Point x="419" y="2121"/>
+	<Point x="460" y="2121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1 M. Costa indique une taille supérieure, mais je suppose qu’il comprend les tentacules dans sa mesure.
+2 Telle est au moins la description de M. de Quatrefages. Montagu (Description of ﬁve british species
+of the Genus Terebella of Linné. Transact. of the Linnean Society, vol. XII, 1818, p 343) indique, il est
+vrai, les tentacules comme d’un orangé pâle piqueté de blanc. Cette coloration doit être dans tous les
+cas bien plus pâle que chez la T. Meckelii, car Dalyell (The powers of the Creator, etc., vol. Il, p. XXIX)
+représente les tentacules de la T. tuberculata (identique avec la T. nebulosa) complètement incolores,
+comme M. de Quatrefages. Il s’agit dans tous les cas de deux espèces représentatives, jouissant toutes
+deux d’une mobilité extrême, quittant leurs tubes coquilliers pour y rentrer ou les échanger contre
+d’autres, etc.</Unicode></TextEquiv></TextRegion></Page></PcGts>

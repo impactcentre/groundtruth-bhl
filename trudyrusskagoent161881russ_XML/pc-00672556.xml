@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672556">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:56:45</Created>
+	<LastChange>2012-02-10T09:55:10</LastChange></Metadata>
+	<Page imageFilename="00672556.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="976" y="100"/>
+	<Point x="1309" y="100"/>
+	<Point x="1309" y="185"/>
+	<Point x="976" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 360 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="250" y="233"/>
+	<Point x="2019" y="233"/>
+	<Point x="2019" y="509"/>
+	<Point x="250" y="509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>с. à d. entre 8 et 13,000, dans tout le Tian-Chian. Son vol
+rapide, les endroits qu'elle habite, et sa rareté, ﬁrent que je
+n'en rapportai que peu d'individus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="804" y="578"/>
+	<Point x="1466" y="578"/>
+	<Point x="1466" y="666"/>
+	<Point x="804" y="666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>13. P. Leucodice Ev.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="259" y="745"/>
+	<Point x="2026" y="745"/>
+	<Point x="2026" y="1271"/>
+	<Point x="259" y="1271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Espèce fort localisée, mais fort commune dans les endroits
+qu'elle habite. Elle volait en Avril, dans le déﬁlé de Talki,
+puis en Mai et Juin le long du Kounguesse. Cette espèce
+semble habiter entre 3000 et 6000' d'élévation. En moyenne,
+les individus du Tian-Chian le cèdent en grandeur à ceux de
+l'Hyrcanie; mais, n'en sont pas autrement distincts.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="535" y="1350"/>
+	<Point x="1728" y="1350"/>
+	<Point x="1728" y="1464"/>
+	<Point x="535" y="1464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>14. P. Daplidice L. et v. Bellidice O.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="250" y="1521"/>
+	<Point x="2016" y="1521"/>
+	<Point x="2016" y="2383"/>
+	<Point x="250" y="2383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En Mars dans les sables à l'ouest de Kouldjà, et jusqu'à
+10.000' d'altitude durant tout notre voyage; mais, assez râre.
+De la vraie v. Bellidice je n'ai trouvé que deux individus,
+dans les sables. A Kouldjà, en Avril, volait déjà la vraie
+Daplidice: cette forme habite aussi les montagnes. Le P. Da-
+plidice du Tian-Chian, du reste, ne diﬀère en rien du type
+Européen. Il est fort possible que dans les sables, où j'ai
+pris la v. Bellidice, la II génération puisse être la forme
+Baphani Esp., comme c'est le cas dans le Turkestan, selon
+Mr. Erschoff.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="704" y="2454"/>
+	<Point x="1530" y="2454"/>
+	<Point x="1530" y="2554"/>
+	<Point x="704" y="2554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>15. Anthocharis Belia Cr.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="361" y="2630"/>
+	<Point x="2002" y="2630"/>
+	<Point x="2002" y="2726"/>
+	<Point x="361" y="2726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fin Mars, Avril. Sables à l'ouest de Kouldjà. Commune.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="247" y="2738"/>
+	<Point x="2004" y="2738"/>
+	<Point x="2004" y="3061"/>
+	<Point x="247" y="3061"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les individus rapportés ne se distinguent presque pas de
+ceux de la France, si ce n'est que les ♀♀ ont plus d'écailles
+noires sur le dessus; mais ils sont en général plus petits que
+les individus de la Russie méridionale.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668985">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:10:30</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668985.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="94" y="320"/>
+	<Point x="1544" y="320"/>
+	<Point x="1544" y="575"/>
+	<Point x="94" y="575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sion un peu précieuse, que le lampris semble
+un seigneur de la cour de Neptune en habit
+de gala.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="101" y="579"/>
+	<Point x="1526" y="579"/>
+	<Point x="1526" y="1084"/>
+	<Point x="101" y="1084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le lampris est un de nos grands poissons:
+l’individu de Mortimer pesait quatre-vingt-
+deux livres; celui de Harrison soixante-dix-
+huit; celui qui fut pris à Torbay en 1772
+pesait cent quarante livres et était long de
+quatre pieds et demi, mesure anglaise.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="99" y="1088"/>
+	<Point x="1519" y="1088"/>
+	<Point x="1519" y="1852"/>
+	<Point x="99" y="1852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Notre description a été faite sur un indi‐
+vidu long de trois pieds, et qui nous a été
+envoyé de Toulon par M. le professeur Lau‐
+rent. Nous en avons reçu un autre individu
+un peu plus petit, car il n’a que deux pieds
+et demi, lequel a été pêché à Marseille, et
+que nous devons au zèle de l’infortuné M. Po-
+lydore Roux, et enﬁn nous en avons un sque‐
+lette de trois pieds et demi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="155" y="1859"/>
+	<Point x="1515" y="1859"/>
+	<Point x="1517" y="2313"/>
+	<Point x="1241" y="2314"/>
+	<Point x="1221" y="2310"/>
+	<Point x="1160" y="2309"/>
+	<Point x="157" y="2310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La cavité intérieure du lampris n’est pas aussi
+haute que le devrait faire croire la saillie de la poi‐
+trine, attendu qu’une grande portion des os de
+l’épaule sont recouverts de muscles très-épais. L’ab‐
+domen est encore cependant fort élevé; sa longueur
+fait un peu plus que le tiers de celle du corps entier.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="168" y="2314"/>
+	<Point x="1223" y="2316"/>
+	<Point x="1250" y="2325"/>
+	<Point x="1269" y="2318"/>
+	<Point x="1519" y="2317"/>
+	<Point x="1517" y="2692"/>
+	<Point x="168" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En l’ouvrant, on voit le foie qui se divise en
+deux lobes étroits, longs de dix pouces et embras‐
+sant dans leur chevron la masse des appendices
+cæcales, qui sont très-nombreuses et qui se présen‐
+tent sous cette apparence glanduliforme qui carac-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1425" y="225"/>
+	<Point x="1521" y="225"/>
+	<Point x="1521" y="295"/>
+	<Point x="1425" y="295"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>53</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="531" y="235"/>
+	<Point x="1101" y="235"/>
+	<Point x="1101" y="291"/>
+	<Point x="531" y="291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. LAMPRIS.</Unicode></TextEquiv></TextRegion></Page></PcGts>

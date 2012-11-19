@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672504">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:47:02</Created>
+	<LastChange>2012-02-10T09:55:03</LastChange></Metadata>
+	<Page imageFilename="00672504.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1008" y="133"/>
+	<Point x="1319" y="133"/>
+	<Point x="1319" y="208"/>
+	<Point x="1008" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 308 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="303" y="267"/>
+	<Point x="2033" y="267"/>
+	<Point x="2033" y="783"/>
+	<Point x="303" y="783"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>an der Spitze, 2 mittlere mit 7 bis 8 scharfen Zähnen, Tar-
+sen schlank, die vorderen so lang, die hintern kürzer als die
+Schienen, mit 3 an Länge ab an Breite nicht zunehmenden,
+behaarten und beborsteten Gliedern, 3 sehr kurz, schmal herz-
+förmig, Klauenglied das längste mit 2 einfachen, gebogenen,
+gespreizten Klauen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="314" y="798"/>
+	<Point x="2035" y="798"/>
+	<Point x="2035" y="966"/>
+	<Point x="314" y="966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eine der schönen Entdeckungen des Herrn Kapitain Ba-
+lasoglo bei Kasalinsk. (Ста���� ����������).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="301" y="1100"/>
+	<Point x="2048" y="1100"/>
+	<Point x="2048" y="1612"/>
+	<Point x="301" y="1612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Perieges bardus Вoh. Sсh. ist im System an die Spitze
+der Rythiriniden und zwar neben Synthocus zu stellen, von
+dem er sich hauptsächlich durch die an der Basis nicht brei-
+ten Decken, nicht tuberkulirte Mittelbrust, durch den etwas
+gebuchteten Hinterrand des ersten Abdominalsegmentes und
+das zweite Segment ebenso lang als 3+4, unterscheidet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="308" y="1635"/>
+	<Point x="2055" y="1635"/>
+	<Point x="2055" y="2648"/>
+	<Point x="308" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Allerdings sieht das Thier einem Strophosomus coryli ♂
+ähnlich, aber noch ähnlicher einem grösseren Bagous (lang 4—
+5, breit 2—3 Mm.). Augen oval, nach unten zugespitzt,
+Fühlerfurchen der ganzen Länge nach von oben sichtbar.
+Reine Stücke sind oben mit graubraunen, im Grunde etwas
+metallisch glänzenden Schuppen bedeckt, dieselben auf der
+Mitte und den Seiten des Thorax, sowie auf den abwechselnd
+etwas erhabenen Zwischenräumen, an der Basis und hinteren
+Hälfte weisslich; Zwischenräume, Stirne, Rüssel, Beine und
+die weissgrau beschuppte Unterseite mit weissen geneigten
+Börstchen. Vorder- und Hinterbeine schlank, läuger als die
+mittleren, alle Schienen innen zweimal gebuchtet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="437" y="2662"/>
+	<Point x="2057" y="2662"/>
+	<Point x="2057" y="2835"/>
+	<Point x="437" y="2835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ Spitzen aller Schienen mit deutlichem Enddorn, Schie-
+nen und Tarsen länger, namentlich das Klauenglied.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="437" y="2851"/>
+	<Point x="2064" y="2851"/>
+	<Point x="2064" y="3023"/>
+	<Point x="437" y="3023"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♀ Vorderschienen und Tarsen kürzer, Hinterschienen nicht
+gezähnt.</Unicode></TextEquiv></TextRegion></Page></PcGts>

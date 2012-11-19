@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672530">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:52:54</Created>
+	<LastChange>2012-02-10T09:55:07</LastChange></Metadata>
+	<Page imageFilename="00672530.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="287" y="1139"/>
+	<Point x="2039" y="1139"/>
+	<Point x="2039" y="1394"/>
+	<Point x="287" y="1394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lépidoptères du district de Kouldjà et des
+montagnes environnantes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="1119" y="1455"/>
+	<Point x="1223" y="1455"/>
+	<Point x="1223" y="1514"/>
+	<Point x="1119" y="1514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Par</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="928" y="1587"/>
+	<Point x="1405" y="1587"/>
+	<Point x="1405" y="1655"/>
+	<Point x="928" y="1655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Serge Alphéraky.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="958" y="2330"/>
+	<Point x="1394" y="2330"/>
+	<Point x="1394" y="2430"/>
+	<Point x="958" y="2430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PRÉFACE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="299" y="2516"/>
+	<Point x="2046" y="2516"/>
+	<Point x="2046" y="3114"/>
+	<Point x="299" y="3114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mon voyage de 1879 en Asie Centrale avait pour but
+principal l'étude des Lépidoptères. La possibilité de la red-
+dition du district de Kouldjà aux Chinois, dont il était déjà
+question alors, me ﬁt choisir cette localité pour premier ter-
+rain d'investigations. Le choix était heureux, puisqu'il est dé-
+cidé aujourd'hui que Kouldjà sera rendue, et par conséquent
+fermée, pour longtemps sous doute, à toute recherche scienti-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="1087" y="1789"/>
+	<Point x="1260" y="1789"/>
+	<Point x="1260" y="1819"/>
+	<Point x="1087" y="1819"/></Coords></SeparatorRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="1491" y="1928"/>
+	<Point x="1491" y="2052"/>
+	<Point x="844" y="2052"/>
+	<Point x="844" y="1928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1ère Partie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="1491" y="2054"/>
+	<Point x="1491" y="2200"/>
+	<Point x="844" y="2200"/>
+	<Point x="844" y="2054"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rhopalocera.</Unicode></TextEquiv></TextRegion></Page></PcGts>

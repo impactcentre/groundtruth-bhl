@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672391">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:56:12</Created>
+	<LastChange>2012-02-10T09:54:38</LastChange></Metadata>
+	<Page imageFilename="00672391.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="869" y="153"/>
+	<Point x="1175" y="153"/>
+	<Point x="1175" y="212"/>
+	<Point x="869" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 197 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="162" y="282"/>
+	<Point x="1883" y="282"/>
+	<Point x="1883" y="446"/>
+	<Point x="162" y="446"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dunkelsten; alle Glieder an der Spitze punktartig weisslich.
+Legestachel wenig hervorstehend.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="141" y="453"/>
+	<Point x="1898" y="453"/>
+	<Point x="1898" y="1769"/>
+	<Point x="141" y="1769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 31/2‴ lang, schmal, nach hinten erweitert,
+mit rechtwinkliger Spitze und schwach convexem Hinterrand,
+zimmtbräunlichroth, mit etwas Olivengrün gegen den Innenrand
+gemischt, hinten am dunkelsten, aber längs des Vorderrandes,
+und zwar an dessen Mitte am breitsten, bis zur zweiten Quer-
+linie weisslich, ohne scharfe Begrenzung nach innen, mit zimmt-
+farbenen Schuppen bestreut. Der erste helle Querstreifen liegt
+bei 1/4 der Länge und ist nur in der Costalhälfte durch seine
+dunklere Einfassung kenntlich. Die dunkelbraunen Querader-
+punkte sind innerhalb der zimmtfarbenen Bestäubung; ihnen
+gegenüber ist die Costa in einer feinen Linie zimmtbraun. Der
+zweite Querstreifen ist dem Hinterrande nahe, ziemlich grade,
+nur oben ein wenig gekrümmt, hell, doch ziemlich verloschen,
+beiderseits ziemlich breit dunkel braunroth gerandet. Die
+schwarzen Hinterrandpunkte sind verﬂossen und undeutlich; die
+Franzen röthlich grau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="141" y="1780"/>
+	<Point x="1892" y="1780"/>
+	<Point x="1892" y="2024"/>
+	<Point x="141" y="2024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel spitz, hellgrau, durchsichtig, am Vorder- und
+Hinterrand bräunlich grau. Franzen weisslich mit gelblicher,
+auswärts schwach graugesäumter Wurzellinie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="130" y="2028"/>
+	<Point x="1887" y="2028"/>
+	<Point x="1887" y="2605"/>
+	<Point x="130" y="2605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel braungrau. Ast 1 der Median-
+ader entspringt hinter der Flügelhälfte, 2 nicht weit von ihm
+und nahe den an ihrem Anfange zusammentreﬀenden Aesten 3
+und 4. — Hinterﬂügel wie oben, am Hinterrand schmäler bräun-
+lich. Ast 1 der Medianader noch diesseits des ersten Viertels
+derselben, 2 nicht weit von 1 bei der Querader, 3 und 4 bil-
+den eine Gabel, die kürzer ist als ihr Stiel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="119" y="2610"/>
+	<Point x="1880" y="2610"/>
+	<Point x="1880" y="3105"/>
+	<Point x="119" y="3105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zwei Exemplare aus Columbien. Das eine ist etwas klei-
+ner mit etwas kürzern Tastern als das andere, auf den
+Vorderﬂügeln mit etwas weiter von der Basis abgerückter er-
+ster Querlinie, einem einfachen Queraderpunkt und vor dem
+Hinterrande weiss bestäubt, auch ohne die zimmtfarbene Costal-
+linie; die Hinterﬂügel sind weisslicher. Da aber die zweite</Unicode></TextEquiv></TextRegion></Page></PcGts>

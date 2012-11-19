@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668191">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:12:53</Created>
+	<LastChange>2012-02-10T09:52:43</LastChange></Metadata>
+	<Page imageFilename="00668191.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="923" y="250"/>
+	<Point x="1319" y="250"/>
+	<Point x="1319" y="311"/>
+	<Point x="923" y="311"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SKY-LARK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1957" y="259"/>
+	<Point x="2052" y="259"/>
+	<Point x="2052" y="316"/>
+	<Point x="1957" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>183</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="180" y="364"/>
+	<Point x="2069" y="364"/>
+	<Point x="2069" y="566"/>
+	<Point x="180" y="566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Practically the Alaudidæ constitute an Old World family, one species only
+occurring in North America, whilst, as Jerdon observes, “They are very sparingly
+represented in Malayana and Australia.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="185" y="978"/>
+	<Point x="766" y="978"/>
+	<Point x="766" y="1045"/>
+	<Point x="185" y="1045"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—ALAUDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="845" y="1238"/>
+	<Point x="1400" y="1238"/>
+	<Point x="1400" y="1319"/>
+	<Point x="845" y="1319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SKY-LARK.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="859" y="1414"/>
+	<Point x="1400" y="1414"/>
+	<Point x="1400" y="1478"/>
+	<Point x="859" y="1478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alauda arvensis, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="302" y="1737"/>
+	<Point x="302" y="1558"/>
+	<Point x="2057" y="1559"/>
+	<Point x="2057" y="2052"/>
+	<Point x="183" y="2052"/>
+	<Point x="182" y="1737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OUND during the summer months throughout the whole of Europe; nesting
+in Scandinavia as far north as lat. 70°, whilst in North Africa it breeds
+sparingly as far south as the slopes of the Atlas Mountains, and in the
+east, in Russia and Siberia, and at high elevations in Japan, the valley of the
+Amoor, South-east Mongolia, Turkestan and Persia. In winter it visits China,
+North-west India, Afghanistan, Persia, Asia Minor, Palestine and Egypt. It has
+been met with at Madeira, and is reputed to have occurred on Greenland. It has
+also been introduced into the United States,* New Zealand and Australia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="188" y="2061"/>
+	<Point x="2058" y="2064"/>
+	<Point x="2058" y="2182"/>
+	<Point x="188" y="2183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Throughout Great Britain and Ireland, the Sky-Lark is widely distributed,
+abundant, and (excepting in the extreme north) resident.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="185" y="2190"/>
+	<Point x="2066" y="2190"/>
+	<Point x="2066" y="2492"/>
+	<Point x="184" y="2494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The climatic variations of the Sky-Lark have been separated under several
+distinctive names, such as A. dulcivox, A. japonica, A. cantarella, A. liopus, A. blak-
+istoni, A. gulgula, A. australis, A. cœlivox, A. wattersi, and A. sala; but so many
+intergrades exist that Ornithologists generally are now content to regard them as
+one variable species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="180" y="2504"/>
+	<Point x="2061" y="2500"/>
+	<Point x="2069" y="2690"/>
+	<Point x="180" y="2690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Our Sky-Lark in breeding-plumage has the upper parts golden brown, with
+blackish centres to the feathers; edges of greater wing-coverts paler; the outer-
+most tail-feather white, with the exception of a blackish streak on the inner web;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="footnote">
+	<Coords>
+	<Point x="295" y="2695"/>
+	<Point x="1245" y="2695"/>
+	<Point x="1245" y="2745"/>
+	<Point x="295" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* One example was also shot in the Bermudas, in 1850.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="1018" y="752"/>
+	<Point x="1228" y="752"/>
+	<Point x="1228" y="787"/>
+	<Point x="1018" y="787"/></Coords></SeparatorRegion>
+	<TextRegion id="r13" type="drop-capital">
+	<Coords>
+	<Point x="298" y="1561"/>
+	<Point x="298" y="1721"/>
+	<Point x="197" y="1721"/>
+	<Point x="197" y="1561"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F</Unicode></TextEquiv></TextRegion></Page></PcGts>

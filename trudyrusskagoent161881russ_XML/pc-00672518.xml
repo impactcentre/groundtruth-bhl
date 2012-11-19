@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672518">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:50:11</Created>
+	<LastChange>2012-02-10T09:55:05</LastChange></Metadata>
+	<Page imageFilename="00672518.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="953" y="117"/>
+	<Point x="1264" y="117"/>
+	<Point x="1264" y="189"/>
+	<Point x="953" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 322 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="226" y="249"/>
+	<Point x="1992" y="249"/>
+	<Point x="1992" y="1442"/>
+	<Point x="226" y="1442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rüssel deutlich länger als Kopf und Thorax mit dem Kopf
+in einer Linie gewölbt, die dichte Beschuppung des Kopfes
+erstreckt sich bis zur Fühlereinlenkung, wenn auch schwächer
+werdend, der übrige Theil des Rüssels fein und sehr dicht
+punktirt, matt; Fühlerschaft länger als die Geissel; Thorax
+und Decken viel breiter als bei Volgensis, letztere auch ﬂacher
+auf dem Rücken und mit stumpfwinkligen, seitlich etwas vor-
+gepressten Schultern. Die ganze Oberseite ist grauer und
+gleichfarbiger beschuppt, alle Schuppen matt, die hellen Zeich-
+nungen treten weniger scharf hervor, die weissen Punkte vor
+der Spitze fehlen ganz und die Rückenmakel ist nahe an die
+Mitte gerückt und nimmt einen Zwischenraum mehr ein.
+Analsegment mit einer grossen runden Grube. Die dichte Be-
+schuppung lässt die Punktirung nicht erkennen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="339" y="1449"/>
+	<Point x="1285" y="1449"/>
+	<Point x="1285" y="1541"/>
+	<Point x="339" y="1541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ein ♂ bei Taganrog gekötschert.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="216" y="1642"/>
+	<Point x="1987" y="1642"/>
+	<Point x="1987" y="2155"/>
+	<Point x="216" y="2155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Poophagus robustus n. sp. Elongato-ovatus, minus de-
+pressus, niger, undique cinereo vel cinereo-brunneo-squamosus;
+antennis tibiisque basi piceis; funiculi articulis 1, 2, 3 elon-
+gatis, 1 et 3 brevioribus longitudine aequalibus; prothorace
+transverso, canaliculato, angulis posticis obtusis; elytris evidenter
+striatis; tarsis brevibus robustis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="333" y="2171"/>
+	<Point x="1335" y="2171"/>
+	<Point x="1335" y="2255"/>
+	<Point x="333" y="2255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 4,5—5, lat. 2,5—2,75 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="208" y="2276"/>
+	<Point x="1976" y="2276"/>
+	<Point x="1976" y="2451"/>
+	<Point x="208" y="2451"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Var. antennis, tibiis, tarsis ex parte prothoracisque mar-
+gine antico ferrugineis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="214" y="2544"/>
+	<Point x="1973" y="2544"/>
+	<Point x="1973" y="3073"/>
+	<Point x="214" y="3073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Doppelt so gross als Sisymbrii F. mit kürzerem Thorax
+und Tarsen, aber längeren Fühlern. Rüssel gröber und dich-
+ter punktirt, Geisselglied, mindestens 1½ mal so lang, als die
+gleichlangen 1 und 3, letzteres etwas länger als 4, die 3
+letzten kaum kürzer als breit; Thorax vorne an den Seiten
+tief halsförmig abgeschnürt, Vorderrand leicht aufgebogen,</Unicode></TextEquiv></TextRegion></Page></PcGts>

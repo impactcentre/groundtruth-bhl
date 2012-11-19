@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672474">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:41:16</Created>
+	<LastChange>2012-02-10T09:54:58</LastChange></Metadata>
+	<Page imageFilename="00672474.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="946" y="101"/>
+	<Point x="1258" y="101"/>
+	<Point x="1258" y="178"/>
+	<Point x="946" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 278 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="223" y="244"/>
+	<Point x="1973" y="244"/>
+	<Point x="1973" y="496"/>
+	<Point x="223" y="496"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rum; singula macrocheta puncto nigro distincto inserta; ano
+nigro nitido; articulo primo ani apice multisetoso; alis hyalinis;
+pedibus nigris. Long. 4½‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="333" y="505"/>
+	<Point x="1319" y="505"/>
+	<Point x="1319" y="594"/>
+	<Point x="333" y="594"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Rossia merid. (Charkow).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="799" y="716"/>
+	<Point x="1401" y="716"/>
+	<Point x="1401" y="808"/>
+	<Point x="799" y="808"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pachycheta nv. gen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="853" y="842"/>
+	<Point x="1349" y="842"/>
+	<Point x="1349" y="914"/>
+	<Point x="853" y="914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Thryptocerae afﬁnis).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="230" y="949"/>
+	<Point x="1982" y="949"/>
+	<Point x="1982" y="2476"/>
+	<Point x="230" y="2476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Antennae angustae epistomate paullo breviores, supra me-
+dium oculorum insertae; articulus ultimus fere trilongior se-
+cundo; arista nuda fere ad apicem crassiuscula, in medio sub-
+geniculata; articuli aristae primus et secundus longi; frons
+porrecta in faemina latissima et quadrifariam setulosa; genae
+nudae, latae, tantum superne parcissime pilosulae: epistoma
+paullo inclinata, inferne distincte reﬂexa et vibrissis duabus
+brevibus decussatis instructa; setae frontales et ocellares par-
+vae; palpi breves; oculi nudi, parvi; scutellum setis apicalibus
+decussatis nullis instructum; abdomen ovatum, convexum, par-
+cissime setosum; segmento primo breve et apice in medio
+profunde emarginato; segmentis duobus ultimis subaeque
+longis; alae angustae, inermes; cellula prima postica occlusa
+ante apicem alae, non petiolata; nervus longitudinalis quintus
+angulatim cubitatus; angulo longe appendiculato; nervus se-
+cundus transversus magis distans a primo, quam a curvatura
+quinti longitudinalis; pedes simplices; uncis pulvillisque tarsorum
+in faemina parvis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="546" y="2610"/>
+	<Point x="1657" y="2610"/>
+	<Point x="1657" y="2707"/>
+	<Point x="546" y="2707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pachycheta Jaroschewsky ♀ nv. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="232" y="2753"/>
+	<Point x="1980" y="2753"/>
+	<Point x="1980" y="3094"/>
+	<Point x="232" y="3094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oblongo-ovata, grisea v. cinerea, opaca; capite albo, vitta
+frontali angusta atra; antennis nigris, articulis basa-
+libus obscure ruﬁs; palpis ﬂavis; thorace quadrilineato; li-
+neis intermediis angustissimis, subindistinctis; abdomine fusco mi-</Unicode></TextEquiv></TextRegion></Page></PcGts>

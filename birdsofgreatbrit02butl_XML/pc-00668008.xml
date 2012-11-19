@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668008">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:22:13</Created>
+	<LastChange>2012-02-10T09:52:30</LastChange></Metadata>
+	<Page imageFilename="00668008.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="253" y="217"/>
+	<Point x="371" y="217"/>
+	<Point x="371" y="289"/>
+	<Point x="253" y="289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>92</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="926" y="207"/>
+	<Point x="1480" y="207"/>
+	<Point x="1480" y="276"/>
+	<Point x="926" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE HOUSE‐SPARROW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="239" y="314"/>
+	<Point x="2155" y="310"/>
+	<Point x="2164" y="1017"/>
+	<Point x="240" y="1020"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>simply gigantic specimen in a large pail hanging on the branch of a tree, the
+depth of this nest was at least 16-inches, and the width close upon a foot: it
+was too bulky to carry away and was hardly suitable for a collection, so I left it
+where it was. But the most marvellous Sparrow’s nest I ever saw is one in my
+collection obtained from the forking branches of a large hawthorn, at Kemsley,
+near Sheppy; it is roughly circular, saucer-shaped, and altogether has more the
+character of a Duck’s than a Sparrow’s nest; the four eggs in it also all diﬀer,
+the darkest egg being similar in character to the most richly coloured eggs of
+the Tree-Sparrow, whilst the lightest is white with smoky-grey spots and dots
+crowded chieﬂy at the larger end, so that it has quite a Shrike-like character.
+(ﬁgs. 142 and 143 are from this nest.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="240" y="1023"/>
+	<Point x="2167" y="1020"/>
+	<Point x="2168" y="1400"/>
+	<Point x="243" y="1398"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The number of eggs ranges from four to seven, but rarely exceeds six: the
+colouring both of ground-tint and marking varies more than in most birds, and
+as I have selected all the best-marked modiﬁcations for illustration on our plate,
+it would be only a waste of space to describe them; but it may perhaps be as
+well to call attention to the fact that the whitest and least boldly marked varieties
+are found in places to which light has had little access.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="239" y="1402"/>
+	<Point x="2165" y="1402"/>
+	<Point x="2169" y="2270"/>
+	<Point x="241" y="2272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In 1877 I had clear proof of the unthinking obstinacy of the Sparrow, a pair
+having built in the roller-box of a sun-blind during dull weather, the pulling down
+of the blind with the ﬁrst hot day destroyed the nest; no sooner, however, was
+the blind pulled up than the Sparrows set to work and replaced it. This went
+on so continually and repeatedly that I wrote to the late Charles Darwin, asking
+him whether he did not think it would be interesting to publish the fact, as
+evidence of the feeble reasoning powers of this species: his reply dated May 9th,
+1877, I still have, with other letters from him.—“My dear Sir, I have been
+always inclined to think that Sparrows were acute and crafty birds, but you
+certainly show that they are fools, and if they go on behaving in so idiotic a
+manner, you will do quite right to expose their conduct in some public journal!
+—Yours sincerely, Ch. Darwin.” As this unreﬂecting perseverance under diﬃculties
+continued altogether for nearly a month, I sent an account to the “Zoologist,”
+1877, pp. 299-300.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="247" y="2274"/>
+	<Point x="2142" y="2275"/>
+	<Point x="2148" y="2713"/>
+	<Point x="248" y="2723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The House-Sparrow can hardly be said to have a song, its best performance
+being little more than a chirrup interspersed with sharp chirps, but often early
+in the morning you will hear several apparently engaged in conversation
+chow, chow, chivi, chivi, chow, chivi, to which the reply is whit! perhaps followed
+by two or three rapid harsh chirps: chivi is the cry of the young for food,
+and the adult bird when caught in a trap expresses his rage by indignant
+chows. I never heard the Sparrow utter any sound like tell, but think the</Unicode></TextEquiv></TextRegion></Page></PcGts>

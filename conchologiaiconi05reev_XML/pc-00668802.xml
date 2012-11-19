@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668802">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T01:12:28</Created>
+	<LastChange>2012-02-10T10:29:37</LastChange></Metadata>
+	<Page imageFilename="00668802.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r37" index="3"/>
+	<RegionRefIndexed regionRef="r31" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r50" index="6"/>
+	<RegionRefIndexed regionRef="r48" index="7"/>
+	<RegionRefIndexed regionRef="r15" index="8"/>
+	<RegionRefIndexed regionRef="r18" index="9"/>
+	<RegionRefIndexed regionRef="r19" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="468" y="178"/>
+	<Point x="1293" y="178"/>
+	<Point x="1292" y="267"/>
+	<Point x="468" y="279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>with ﬁve bands of unequal oblong-square chesnut-red
+spots.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="402" y="283"/>
+	<Point x="1146" y="277"/>
+	<Point x="1146" y="326"/>
+	<Point x="402" y="326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. China and Japan (on the sands); Siebold.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="395" y="339"/>
+	<Point x="1295" y="339"/>
+	<Point x="1295" y="535"/>
+	<Point x="395" y="535"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A beautiful species strongly characterized by its close
+grooving and deeply excavated trench behind the varices;
+it is moreover distinguished by its light purple tinge of
+colouring and by the oblique disposition of the spots.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="403" y="983"/>
+	<Point x="1292" y="983"/>
+	<Point x="1292" y="1025"/>
+	<Point x="403" y="1025"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE DRAUGHT-BOARD HELMET. Shell ovate, spire acu‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1334" y="831"/>
+	<Point x="2231" y="831"/>
+	<Point x="2231" y="1023"/>
+	<Point x="1334" y="1023"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The tessellated painting of this well-known species is so
+peculiar, that little need be added to the characters above
+detailed. In form it is mainly distinguished by its
+elevated gibbous growth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1139" y="96"/>
+	<Point x="1480" y="96"/>
+	<Point x="1480" y="135"/>
+	<Point x="1139" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS—PLATE IX.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20">
+	<Coords>
+	<Point x="1303" y="179"/>
+	<Point x="1303" y="1030"/>
+	<Point x="1324" y="1030"/>
+	<Point x="1324" y="179"/></Coords></SeparatorRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="400" y="644"/>
+	<Point x="1294" y="644"/>
+	<Point x="1294" y="980"/>
+	<Point x="400" y="980"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS AREOLA. Cass. testâ ovatâ, spirâ acuminatâ, apice
+acutâ; anfractibus univaricosis, supernè concaviusculis,
+infrâ gibbosis, lœvibus, nitidis, apicem versus decussatis;
+columellâ plicatâ et interruptè rugatâ, labro acutè den-
+tato-lirato, medio tumidiusculo; cœruleo-albicante, ma-
+culis grandibus quadratis fulvescente-fuscis quinque-
+fasciatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords>
+	<Point x="1054" y="587"/>
+	<Point x="1054" y="605"/>
+	<Point x="1055" y="605"/>
+	<Point x="1055" y="626"/>
+	<Point x="992" y="626"/>
+	<Point x="992" y="625"/>
+	<Point x="691" y="625"/>
+	<Point x="691" y="624"/>
+	<Point x="625" y="624"/>
+	<Point x="625" y="587"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 24. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r40">
+	<Coords>
+	<Point x="611" y="552"/>
+	<Point x="611" y="567"/>
+	<Point x="1071" y="567"/>
+	<Point x="1071" y="552"/></Coords></SeparatorRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1332" y="516"/>
+	<Point x="2230" y="516"/>
+	<Point x="2230" y="561"/>
+	<Point x="1332" y="561"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.) vol. x. pl. 27.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="1398" y="177"/>
+	<Point x="2234" y="177"/>
+	<Point x="2234" y="512"/>
+	<Point x="1398" y="512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>minated, sharp at the apex; whorls one-varicose,
+rather concave round the upper part, gibbous
+beneath, smooth, shining, decussated towards the
+apex; columella painted and interruptedly wrinkled,
+lip sharply dentately ridged, rather swollen in the
+middle; bluish white, encircled by ﬁve bands of
+large square fulvous-brown spots.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1338" y="707"/>
+	<Point x="2228" y="707"/>
+	<Point x="2228" y="800"/>
+	<Point x="1338" y="800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Island of Negros, Philippines (on mud banks);
+Cuming.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r69">
+	<Coords>
+	<Point x="1111" y="1396"/>
+	<Point x="1111" y="1413"/>
+	<Point x="1578" y="1413"/>
+	<Point x="1578" y="1396"/></Coords></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1415" y="564"/>
+	<Point x="1900" y="564"/>
+	<Point x="1900" y="703"/>
+	<Point x="1415" y="703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum areola, Linnæus.
+Cassidea areola, Bruguière.
+Bezoardica areola, Schumacher.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668662">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:18:31</Created>
+	<LastChange>2012-02-10T10:29:29</LastChange></Metadata>
+	<Page imageFilename="00668662.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1767" y="128"/>
+	<Point x="2178" y="128"/>
+	<Point x="2178" y="183"/>
+	<Point x="1767" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Achatina, Pl. VIII.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords>
+	<Point x="936" y="260"/>
+	<Point x="936" y="1292"/>
+	<Point x="1406" y="1292"/>
+	<Point x="1406" y="260"/></Coords></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords>
+	<Point x="889" y="1624"/>
+	<Point x="889" y="2767"/>
+	<Point x="1386" y="2767"/>
+	<Point x="1386" y="1624"/></Coords></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords>
+	<Point x="1659" y="983"/>
+	<Point x="1659" y="2124"/>
+	<Point x="2213" y="2124"/>
+	<Point x="2213" y="983"/></Coords></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords>
+	<Point x="151" y="1018"/>
+	<Point x="151" y="2129"/>
+	<Point x="735" y="2129"/>
+	<Point x="735" y="1018"/></Coords></ImageRegion>
+	<TextRegion id="r7" type="caption">
+	<Coords>
+	<Point x="1140" y="1298"/>
+	<Point x="1140" y="1337"/>
+	<Point x="1203" y="1337"/>
+	<Point x="1203" y="1298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>25.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="caption">
+	<Coords>
+	<Point x="1109" y="2775"/>
+	<Point x="1109" y="2817"/>
+	<Point x="1176" y="2817"/>
+	<Point x="1176" y="2775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>27.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="265" y="2897"/>
+	<Point x="265" y="2946"/>
+	<Point x="512" y="2946"/>
+	<Point x="512" y="2897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G. B. S. del et lith</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1963" y="2894"/>
+	<Point x="1963" y="2948"/>
+	<Point x="2187" y="2948"/>
+	<Point x="2187" y="2894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R. B. &amp; R. imp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="caption">
+	<Coords>
+	<Point x="1838" y="2134"/>
+	<Point x="1838" y="2170"/>
+	<Point x="1933" y="2170"/>
+	<Point x="1933" y="2134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>26. b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="caption">
+	<Coords>
+	<Point x="454" y="2134"/>
+	<Point x="454" y="2173"/>
+	<Point x="562" y="2173"/>
+	<Point x="562" y="2134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>26. a.</Unicode></TextEquiv></TextRegion></Page></PcGts>

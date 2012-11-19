@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669351">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:55:14</Created>
+	<LastChange>2012-03-12T14:33:57</LastChange></Metadata>
+	<Page imageFilename="00669351.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="52" y="245"/>
+	<Point x="1460" y="245"/>
+	<Point x="1460" y="418"/>
+	<Point x="52" y="418"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rome on a seulement un peu altéré ce nom
+et on le prononce lattarina.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="52" y="420"/>
+	<Point x="1470" y="420"/>
+	<Point x="1470" y="1082"/>
+	<Point x="52" y="1082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On varie au sujet de son étymologie: les
+uns le croient dérivé d'���� (un épi), ce qu'ils
+expliquent à cause de ses arêtes, les autres le
+tirent d'��������� (mépriser), parce que ce pois-
+son est petit et commun. C'est la première in-
+terprétation qui est reçue le plus générale-
+ment, et en latin Gaza rend ������� par arista
+ou aristula.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="44" y="1086"/>
+	<Point x="1478" y="1086"/>
+	<Point x="1478" y="1770"/>
+	<Point x="44" y="1770"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ailleurs, hepsetus (������) est encore repré-
+senté comme une espèce particulière d'aphie2;
+mais on le prend aussi pour toute espèce de
+poisson lorsqu'elle est très-petite, et c'est alors
+à peu près un synonyme d'aphie. Des muges,
+des gobies, des anchois, et jusqu'à de petits
+crabes et de petits calmars, sont dans leur
+premier âge des hepsetus.3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="45" y="1773"/>
+	<Point x="1482" y="1773"/>
+	<Point x="1482" y="2370"/>
+	<Point x="45" y="2370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Grecs de Naucratis nommaient hepse-
+tus tout le petit fretin que le Nil laissait sur
+les terres en se retirant4. C'est en général
+tout ce qu'il y a de plus petit en poisson, et
+dans cette acception il est entré dans plusieurs
+proverbes et a fourni matière à de nombreuses
+plaisanteries dans les poètes comiques.5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="109" y="2424"/>
+	<Point x="1024" y="2424"/>
+	<Point x="1024" y="2487"/>
+	<Point x="109" y="2487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Rond., De pisc, 1. VII, c. 2, p. 216.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="57" y="2490"/>
+	<Point x="1034" y="2490"/>
+	<Point x="1057" y="2476"/>
+	<Point x="1465" y="2475"/>
+	<Point x="1465" y="2614"/>
+	<Point x="57" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Athénée, 1. VIII, p. 356 C. — 3. Idem, I. VII, p. 300 F
+et 301 A. — 4. Idem, ib. — 5. Idem, ib.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="42" y="2386"/>
+	<Point x="1449" y="2386"/>
+	<Point x="1449" y="2408"/>
+	<Point x="42" y="2408"/></Coords></SeparatorRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="913" y="145"/>
+	<Point x="913" y="215"/>
+	<Point x="614" y="215"/>
+	<Point x="614" y="145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1458" y="145"/>
+	<Point x="1458" y="215"/>
+	<Point x="1325" y="215"/>
+	<Point x="1325" y="145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>419</Unicode></TextEquiv></TextRegion></Page></PcGts>

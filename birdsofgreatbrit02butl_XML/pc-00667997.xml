@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667997">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:21:00</Created>
+	<LastChange>2012-02-10T09:52:29</LastChange></Metadata>
+	<Page imageFilename="00667997.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r13" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r20" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="973" y="233"/>
+	<Point x="1321" y="233"/>
+	<Point x="1321" y="338"/>
+	<Point x="973" y="338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LINNET</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1980" y="230"/>
+	<Point x="2121" y="230"/>
+	<Point x="2121" y="330"/>
+	<Point x="1980" y="330"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>85</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="904" y="621"/>
+	<Point x="1383" y="621"/>
+	<Point x="1383" y="723"/>
+	<Point x="904" y="723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LINNET.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="835" y="783"/>
+	<Point x="1442" y="783"/>
+	<Point x="1442" y="873"/>
+	<Point x="835" y="873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Acanthis cannabina, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="203" y="1123"/>
+	<Point x="312" y="1112"/>
+	<Point x="329" y="1111"/>
+	<Point x="331" y="1105"/>
+	<Point x="332" y="1059"/>
+	<Point x="329" y="1041"/>
+	<Point x="331" y="1019"/>
+	<Point x="330" y="1003"/>
+	<Point x="329" y="994"/>
+	<Point x="330" y="931"/>
+	<Point x="2082" y="936"/>
+	<Point x="2085" y="1261"/>
+	<Point x="201" y="1255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>REEDS throughout Europe south of lat. 64° in Scaudinavia, and of lat. 59°
+in East Russia; it is also resident in North-west Africa, the Canaries, and
+Madeira; eastward it extends to Turkestan. In Persia and North India
+a representative race replaces it, in which the general plumage is more ashy, and
+the breast of the male more scarlet in colouring.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="203" y="1264"/>
+	<Point x="2087" y="1269"/>
+	<Point x="2086" y="1443"/>
+	<Point x="203" y="1449"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Excepting in the mountainous parts of Scotland, where it appears to be replaced
+by the Twite, the Linnet is pretty generally distributed throughout Great Britain;
+it has, however, been rarely seen in the Shetland Isles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="203" y="1454"/>
+	<Point x="2087" y="1448"/>
+	<Point x="2088" y="2446"/>
+	<Point x="199" y="2450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The male Linnet in breeding plumage has a glossy crimson patch from the
+base of the upper mandible to the centre of the crown; remainder of head, nape,
+and sides of neck brown, with an ashy suﬀusion and darker mottling; back and
+wing-coverts ruddy golden-brown, broadly centred with dark brown; upper tail-
+coverts dark brown, with broad buﬃsh-white borders; tail-feathers black, the outer
+web narrowly, and the inner web broadly bordered with white; ﬂight feathers
+blackish, the primaries with a conspicuous white stripe on the outer webs, and
+with a broad whitish-ash border along a great part of the inner webs; secondaries
+bordered, especially along the outer webs, with ruddy golden-brown; lores, a streak
+above and another below the eye, buﬃsh; ear-coverts and sides of face greyish;
+chin and throat buﬃsh-white, with small brown streaks; throat and breast crimson,
+somewhat suﬀused with chestnut in youngish birds; belly buﬃsh-white; ﬂanks
+tawny brown, with darker centres to the feathers, and sometimes slightly tinted
+with rose-reddish; beak greyish horn-brown, paler at the base of the lower man‐
+dible; feet brown; iris hazel. In captivity all crimson disappears from the plumage,
+and both beak and feet become paler and ﬂesh-tinted.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="200" y="2453"/>
+	<Point x="2088" y="2453"/>
+	<Point x="2088" y="2768"/>
+	<Point x="200" y="2768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The female diﬀers in the absence of all crimson colouring; the entire upper
+surface browner, with blackish centres to the feathers, the much more prominent
+streaking of the under surface, the decidedly broader crown and base of beak, and
+the considerably narrower white outer margins to the primaries and tail feathers.
+It also diﬀers remarkably in the form of the wings the distinctions being precisely</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1752" y="2777"/>
+	<Point x="1835" y="2777"/>
+	<Point x="1835" y="2820"/>
+	<Point x="1752" y="2820"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Z</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="310" y="2780"/>
+	<Point x="436" y="2780"/>
+	<Point x="436" y="2824"/>
+	<Point x="310" y="2824"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="209" y="364"/>
+	<Point x="856" y="364"/>
+	<Point x="856" y="471"/>
+	<Point x="209" y="471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1372" y="364"/>
+	<Point x="2070" y="364"/>
+	<Point x="2070" y="471"/>
+	<Point x="1372" y="471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="drop-capital">
+	<Coords>
+	<Point x="210" y="954"/>
+	<Point x="325" y="954"/>
+	<Point x="325" y="1100"/>
+	<Point x="210" y="1100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B</Unicode></TextEquiv></TextRegion></Page></PcGts>

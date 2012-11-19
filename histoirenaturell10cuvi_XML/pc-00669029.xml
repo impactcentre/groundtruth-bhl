@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669029">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:15:55</Created>
+	<LastChange>2012-02-09T16:27:29</LastChange></Metadata>
+	<Page imageFilename="00669029.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="71" y="278"/>
+	<Point x="1486" y="278"/>
+	<Point x="1486" y="1031"/>
+	<Point x="71" y="1031"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ces noms de halec et de clupeo, a établi sur
+cette description son espèce du clupea fas-
+ciata; mais il ne paraît pas en avoir rapproché
+la ﬁgure, qui l’aurait sans doute mieux instruit
+sur le véritable genre du poisson. Elle ne peut
+laisser aucun doute que ce nom n’appartienne à
+l’espèce dont nous parlons maintenant, et c’est
+ce que la description conﬁrme dans tous ses
+détails.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="139" y="1064"/>
+	<Point x="1489" y="1064"/>
+	<Point x="1489" y="2049"/>
+	<Point x="139" y="2049"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ses formes sont les mêmes que celles des espèces
+précédentes; mais d’après la ﬁgure, sa seconde
+épine, soit de la dorsale soit de l’anale, serait dé‐
+liée; leur prolongement serait ﬁn comme un cheveu
+et ne pourrait même atteindre au-delà du milieu
+de la nageoire à laquelle chacun appartient: d’après
+la description, ce rayon ne s’élève que du double
+au-dessus des autres. Le fond de la couleur brille
+du plus bel éclat d’argent; des lignes ondulées,
+brunes, descendent depuis la dorsale jusqu’à la ligne
+latérale; au-dessus de cette ligne sont des taches
+rondes, irrégulièrement semées jusqu’à la hauteur
+de la pectorale. Tout le reste est argenté.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="144" y="2053"/>
+	<Point x="1490" y="2053"/>
+	<Point x="1490" y="2370"/>
+	<Point x="144" y="2370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les nombres des rayons sont marqués sur la ﬁgure,
+D. 8/15; A. 3/19;
+mais la description écrite les donne comme il suit;
+D. 7/17; A. 2/14; C. 16; P. 18; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="71" y="2382"/>
+	<Point x="1502" y="2382"/>
+	<Point x="1502" y="2654"/>
+	<Point x="71" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sur quoi il faut remarquer que Commerson
+n’avait pas compté le premier et petit rayon
+ni de la dorsale ni de l’anale, et prenait le</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="520" y="181"/>
+	<Point x="1035" y="181"/>
+	<Point x="1035" y="256"/>
+	<Point x="520" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1388" y="181"/>
+	<Point x="1474" y="181"/>
+	<Point x="1474" y="256"/>
+	<Point x="1388" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>97</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="209" y="2660"/>
+	<Point x="209" y="2722"/>
+	<Point x="317" y="2722"/>
+	<Point x="317" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="1190" y="2664"/>
+	<Point x="1190" y="2736"/>
+	<Point x="1274" y="2736"/>
+	<Point x="1274" y="2664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7</Unicode></TextEquiv></TextRegion></Page></PcGts>

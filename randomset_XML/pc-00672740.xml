@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672740">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T17:05:12</Created>
+	<LastChange>2012-02-10T10:29:46</LastChange></Metadata>
+	<Page imageFilename="00672740.tif" imageWidth="2106" imageHeight="3387">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="325" y="300"/>
+	<Point x="1745" y="300"/>
+	<Point x="1745" y="496"/>
+	<Point x="325" y="496"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AGENTS WANTED</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="532" y="629"/>
+	<Point x="1519" y="629"/>
+	<Point x="1519" y="732"/>
+	<Point x="532" y="732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>To introduce and sell this work,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="151" y="825"/>
+	<Point x="1880" y="825"/>
+	<Point x="1880" y="1170"/>
+	<Point x="151" y="1170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“The Horse's Rescue,”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="470" y="1248"/>
+	<Point x="1583" y="1248"/>
+	<Point x="1583" y="1387"/>
+	<Point x="470" y="1387"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Throughout this (or should be), our</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="258" y="1477"/>
+	<Point x="1787" y="1477"/>
+	<Point x="1787" y="1625"/>
+	<Point x="258" y="1625"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GREAT REPUBLIC.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="180" y="1919"/>
+	<Point x="1858" y="1919"/>
+	<Point x="1858" y="2161"/>
+	<Point x="180" y="2161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I will set oﬀ territory, towns, counties, and sup-
+ply agents with books, and give them an</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="245" y="2238"/>
+	<Point x="1777" y="2238"/>
+	<Point x="1777" y="2377"/>
+	<Point x="245" y="2377"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EQUAL CHANCE WITH MYSELF.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="154" y="2470"/>
+	<Point x="1845" y="2470"/>
+	<Point x="1845" y="2912"/>
+	<Point x="154" y="2912"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This will be a rare chance to make some money.
+That is the only inducement that I can hold out. The
+retail price of this work will be $1.50. For further
+particulars address</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="987" y="2919"/>
+	<Point x="1690" y="2919"/>
+	<Point x="1690" y="3000"/>
+	<Point x="987" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GERARD DOAN,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="912" y="3012"/>
+	<Point x="1761" y="3012"/>
+	<Point x="1761" y="3109"/>
+	<Point x="912" y="3109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fleming, Cayuga Co., N. Y.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="516" y="1751"/>
+	<Point x="516" y="1841"/>
+	<Point x="1522" y="1841"/>
+	<Point x="1522" y="1751"/></Coords></SeparatorRegion></Page></PcGts>

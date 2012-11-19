@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668845">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:50:22</Created>
+	<LastChange>2012-02-10T10:29:40</LastChange></Metadata>
+	<Page imageFilename="00668845.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r25" index="8"/>
+	<RegionRefIndexed regionRef="r33" index="9"/>
+	<RegionRefIndexed regionRef="r49" index="10"/>
+	<RegionRefIndexed regionRef="r53" index="11"/>
+	<RegionRefIndexed regionRef="r59" index="12"/>
+	<RegionRefIndexed regionRef="r77" index="13"/>
+	<RegionRefIndexed regionRef="r81" index="14"/>
+	<RegionRefIndexed regionRef="r89" index="15"/>
+	<RegionRefIndexed regionRef="r97" index="16"/>
+	<RegionRefIndexed regionRef="r14" index="17"/>
+	<RegionRefIndexed regionRef="r15" index="18"/>
+	<RegionRefIndexed regionRef="r16" index="19"/>
+	<RegionRefIndexed regionRef="r17" index="20"/>
+	<RegionRefIndexed regionRef="r18" index="21"/>
+	<RegionRefIndexed regionRef="r19" index="22"/>
+	<RegionRefIndexed regionRef="r115" index="23"/>
+	<RegionRefIndexed regionRef="r109" index="24"/>
+	<RegionRefIndexed regionRef="r11" index="25"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="511" y="422"/>
+	<Point x="967" y="422"/>
+	<Point x="967" y="482"/>
+	<Point x="511" y="482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 29. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="283" y="501"/>
+	<Point x="1189" y="501"/>
+	<Point x="1189" y="741"/>
+	<Point x="283" y="741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA COCHLEA. Turr. testâ subulato-turritâ, cras-
+siusculâ, anfractibus quindecim, spiraliter striatis,
+supernè depresso-excavatis, medio bicarinatis, carinis an-
+gustis, elevatis, acutis, distantibus, interstitio excavato,
+aperturâ parvâ; albidâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="278" y="745"/>
+	<Point x="1189" y="745"/>
+	<Point x="1189" y="1032"/>
+	<Point x="278" y="1032"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SCREW TURRITELLA. Shell subulately turreted,
+rather thick, whorls ﬁfteen in number, spirally
+striated, depressly excavated round the upper part,
+two-keeled in the middle, keels narrow, elevated,
+sharp, distant, with the interstices between them ex‐
+cavated, aperture small; white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="287" y="1046"/>
+	<Point x="497" y="1046"/>
+	<Point x="497" y="1091"/>
+	<Point x="287" y="1091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.—?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="285" y="1108"/>
+	<Point x="1188" y="1108"/>
+	<Point x="1188" y="1402"/>
+	<Point x="285" y="1402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The form of this species is remarkably characterized by
+its very prominent bicarinate structure, resembling the
+thread of a large ﬂattened press-screw. The specimen
+here represented from Mr. Cuming’s collection is the only
+one I have seen; and he possesses no information as to its
+locality. It exhibits no indication of colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="522" y="1468"/>
+	<Point x="970" y="1468"/>
+	<Point x="970" y="1520"/>
+	<Point x="522" y="1520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 30. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1222" y="1275"/>
+	<Point x="2129" y="1275"/>
+	<Point x="2129" y="1419"/>
+	<Point x="1222" y="1419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A very slender sharply lanceolate shell, fully distinguished
+by the peculiarities of sculpture above described from any-
+other species of this monograph.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="1451" y="1496"/>
+	<Point x="1897" y="1496"/>
+	<Point x="1897" y="1547"/>
+	<Point x="1451" y="1547"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 32. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1228" y="1556"/>
+	<Point x="2122" y="1556"/>
+	<Point x="2122" y="1846"/>
+	<Point x="1228" y="1846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA FERRUGINEA. Turr. testâ subelongato-tur-
+ritâ, ad basin angulatâ et subcarinatâ, anfractibus se-
+decim, convexis, spiraliter subtiliter liratis, primis bica-
+rinatis, carinis gradatim evanidis, lirarum interstitiis
+striis minutis longitudinalibus sub lente creberrimè de-
+cussatis; albidâ, basin versus ferrugineo-castaneo tinctâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1223" y="1849"/>
+	<Point x="2129" y="1849"/>
+	<Point x="2129" y="2221"/>
+	<Point x="1223" y="2221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE RUSTY TURRITELLA. Shell somewhat elongately
+turreted, angulated and slightly keeled at the base,
+whorls sixteen in number, convex, spirally ﬁnely
+ridged, the ﬁrst whorls two-keeled, keels gradually
+fading, interstices between the ridges very closely
+decussated beneath the lens with minute longitudinal
+striæ; whitish, stained towards the base with rusty
+chestnut.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1229" y="2226"/>
+	<Point x="1425" y="2226"/>
+	<Point x="1425" y="2272"/>
+	<Point x="1229" y="2272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.—?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1226" y="2288"/>
+	<Point x="2124" y="2288"/>
+	<Point x="2124" y="2386"/>
+	<Point x="1226" y="2386"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The whorls of this species have a peculiar angular
+carinate structure at the base, in the place of the suture.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="935" y="236"/>
+	<Point x="1487" y="236"/>
+	<Point x="1487" y="301"/>
+	<Point x="935" y="301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="1101" y="339"/>
+	<Point x="1322" y="339"/>
+	<Point x="1322" y="386"/>
+	<Point x="1101" y="386"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE VII.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r22">
+	<Coords>
+	<Point x="1198" y="434"/>
+	<Point x="1196" y="2613"/>
+	<Point x="1215" y="2612"/>
+	<Point x="1215" y="435"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r23">
+	<Coords>
+	<Point x="539" y="1423"/>
+	<Point x="975" y="1423"/>
+	<Point x="975" y="1442"/>
+	<Point x="539" y="1442"/></Coords></SeparatorRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="287" y="1532"/>
+	<Point x="1188" y="1532"/>
+	<Point x="1188" y="1821"/>
+	<Point x="287" y="1821"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA RADULA. Turr. testâ lanceolato-acuminatâ,
+gracili, anfractibus ad duobus et viginti, suprà infràque
+biliratis, medio concavis, liris, nisi inﬁmâ, granoso-cre-
+natis, anfractu ultimo lamellis septiformibus interdum
+imbricato, granulis subobsoletis; violascente-albidâ,
+rufo-fuscescente ﬂammatâ et variegatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="281" y="1823"/>
+	<Point x="1188" y="1823"/>
+	<Point x="1191" y="2149"/>
+	<Point x="544" y="2148"/>
+	<Point x="544" y="2154"/>
+	<Point x="281" y="2154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GRATER TURRITELLA. Shell lanceolately acuminated,
+slender, whorls about two and twenty in number,
+double-ridged above and below, concave in the
+middle, ridges, excepting the lowest, granosely cre-
+nated, last whorl sometimes imbricated with septiform
+lamellæ, granules rather obsolete; violet-white, ﬂamed
+and variegated with reddish-brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="288" y="2157"/>
+	<Point x="554" y="2157"/>
+	<Point x="557" y="2153"/>
+	<Point x="925" y="2153"/>
+	<Point x="925" y="2201"/>
+	<Point x="288" y="2201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>KIENER, Icon. coq. viv. p. 13. pl. 2. f. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="296" y="2205"/>
+	<Point x="1188" y="2205"/>
+	<Point x="1188" y="2302"/>
+	<Point x="296" y="2302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Isle of Muerte, Bay of Guayaquil (found at the depth
+of eleven fathoms in sandy mud); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords>
+	<Point x="291" y="2309"/>
+	<Point x="1189" y="2309"/>
+	<Point x="1189" y="2552"/>
+	<Point x="291" y="2552"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The form of the whorls of this elongated lanceolate
+species is very similar to that of T. exoleta; the middle is
+however less concave and the upper and lower ribs are re‐
+presented each by two smaller ridges which are granosely
+crenulated.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r60">
+	<Coords>
+	<Point x="506" y="2577"/>
+	<Point x="961" y="2577"/>
+	<Point x="961" y="2597"/>
+	<Point x="506" y="2597"/></Coords></SeparatorRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1103" y="2632"/>
+	<Point x="1307" y="2632"/>
+	<Point x="1307" y="2684"/>
+	<Point x="1103" y="2684"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>May, 1849.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="heading">
+	<Coords>
+	<Point x="1444" y="429"/>
+	<Point x="1909" y="429"/>
+	<Point x="1909" y="483"/>
+	<Point x="1444" y="483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 31. (Mus. Metcalfe.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords>
+	<Point x="1228" y="492"/>
+	<Point x="2132" y="492"/>
+	<Point x="2132" y="829"/>
+	<Point x="1228" y="829"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA HASTULA. Turr. testâ acutè lanceolatâ,
+gracili, anfractibus duobus vel tribus et viginti, con-
+vexiusculis, concentricè plicato-corrugatis, ulterioribus
+planatis, basi tumidiusculis, rugis evanidis, anfractibus
+omnibus spiraliter inciso-striatis, liris intermediis ob‑
+soletè granulatis; cinereo-albicante, purpureo-brunneo
+arcuatim strigatâ et variegatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r89" type="paragraph">
+	<Coords>
+	<Point x="1227" y="832"/>
+	<Point x="2123" y="832"/>
+	<Point x="2123" y="1211"/>
+	<Point x="1227" y="1211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LITTLE LANCE TURRITELLA. Shell sharply lan‑
+ceolate, slender, whorls two or three and twenty in
+number, rather convex, concentrically plicately
+wrinkled, the latter ﬂattened, rather swollen at the
+base, the wrinkles faded away, all the whorls spirally
+impressly striated, the intermediate ridges being
+obsoletely granulated; ash-white, arcuately streaked
+and variegated with purple-brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r97" type="paragraph">
+	<Coords>
+	<Point x="1222" y="1214"/>
+	<Point x="1425" y="1214"/>
+	<Point x="1425" y="1251"/>
+	<Point x="1222" y="1251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.—?</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r100">
+	<Coords>
+	<Point x="1445" y="1448"/>
+	<Point x="1889" y="1448"/>
+	<Point x="1889" y="1467"/>
+	<Point x="1445" y="1467"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r101">
+	<Coords>
+	<Point x="1438" y="2414"/>
+	<Point x="1899" y="2414"/>
+	<Point x="1899" y="2432"/>
+	<Point x="1438" y="2432"/></Coords></SeparatorRegion>
+	<TextRegion id="r109" type="paragraph">
+	<Coords>
+	<Point x="1228" y="2520"/>
+	<Point x="2130" y="2520"/>
+	<Point x="2130" y="2623"/>
+	<Point x="1228" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA MACULATA. Turr. testâ acuminato-turritâ, basi
+concavâ et nitidè striatâ, anfractibus octodecim spira-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r115" type="heading">
+	<Coords>
+	<Point x="1465" y="2459"/>
+	<Point x="1905" y="2459"/>
+	<Point x="1905" y="2513"/>
+	<Point x="1465" y="2513"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 33. (Mus. Belcher.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671115">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T23:20:48</Created>
+	<LastChange>2012-03-12T14:34:05</LastChange></Metadata>
+	<Page imageFilename="00671115.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r33" index="0"/>
+	<RegionRefIndexed regionRef="r35" index="1"/>
+	<RegionRefIndexed regionRef="r39" index="2"/>
+	<RegionRefIndexed regionRef="r43" index="3"/>
+	<RegionRefIndexed regionRef="r47" index="4"/>
+	<RegionRefIndexed regionRef="r51" index="5"/>
+	<RegionRefIndexed regionRef="r57" index="6"/>
+	<RegionRefIndexed regionRef="r59" index="7"/>
+	<RegionRefIndexed regionRef="r61" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r13" index="10"/>
+	<RegionRefIndexed regionRef="r15" index="11"/>
+	<RegionRefIndexed regionRef="r71" index="12"/>
+	<RegionRefIndexed regionRef="r19" index="13"/>
+	<RegionRefIndexed regionRef="r20" index="14"/>
+	<RegionRefIndexed regionRef="r21" index="15"/>
+	<RegionRefIndexed regionRef="r22" index="16"/>
+	<RegionRefIndexed regionRef="r23" index="17"/>
+	<RegionRefIndexed regionRef="r24" index="18"/>
+	<RegionRefIndexed regionRef="r25" index="19"/>
+	<RegionRefIndexed regionRef="r26" index="20"/>
+	<RegionRefIndexed regionRef="r27" index="21"/>
+	<RegionRefIndexed regionRef="r28" index="22"/>
+	<RegionRefIndexed regionRef="r29" index="23"/>
+	<RegionRefIndexed regionRef="r30" index="24"/>
+	<RegionRefIndexed regionRef="r31" index="25"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1174" y="383"/>
+	<Point x="1448" y="383"/>
+	<Point x="1448" y="429"/>
+	<Point x="1174" y="429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 53 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="270" y="2041"/>
+	<Point x="1619" y="2041"/>
+	<Point x="1619" y="2086"/>
+	<Point x="1217" y="2089"/>
+	<Point x="1194" y="2093"/>
+	<Point x="1181" y="2089"/>
+	<Point x="693" y="2089"/>
+	<Point x="665" y="2086"/>
+	<Point x="644" y="2089"/>
+	<Point x="270" y="2089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Packard, A. S., A Textbook of Entomology. New York 1898.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="251" y="2093"/>
+	<Point x="668" y="2090"/>
+	<Point x="701" y="2090"/>
+	<Point x="1173" y="2091"/>
+	<Point x="1193" y="2099"/>
+	<Point x="1219" y="2091"/>
+	<Point x="2374" y="2089"/>
+	<Point x="2374" y="2194"/>
+	<Point x="526" y="2198"/>
+	<Point x="503" y="2198"/>
+	<Point x="253" y="2199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palmén, J. A., Über paarige Ausführungsgänge der Geschlechtsorgane bei Insekten. Helsingfors, 1884,
+p. 1—107.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="254" y="2202"/>
+	<Point x="2378" y="2197"/>
+	<Point x="2380" y="2301"/>
+	<Point x="504" y="2303"/>
+	<Point x="254" y="2301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patten, W., Studies on the Eyes of Arthropods. II. Eyes of Acilius. — Journ. Morphol., Vol. II, 1889,
+p. 97—190.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="253" y="2304"/>
+	<Point x="2383" y="2303"/>
+	<Point x="2387" y="2407"/>
+	<Point x="665" y="2411"/>
+	<Point x="519" y="2408"/>
+	<Point x="254" y="2412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patten, W., On the Origin of Vertebrates from Arachnids. — Quart. Journ. Mikr. Science, Vol. XXXI,
+3, 1890, p. 317. 378.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="254" y="2414"/>
+	<Point x="2369" y="2411"/>
+	<Point x="2367" y="2513"/>
+	<Point x="953" y="2516"/>
+	<Point x="566" y="2514"/>
+	<Point x="553" y="2518"/>
+	<Point x="549" y="2514"/>
+	<Point x="254" y="2513"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Riley, W. A., The Embryological Development of the Skeleton of the Head of Blatta. — American Natura-
+list, XXXVIII, 1904, p. 777—810.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="252" y="2521"/>
+	<Point x="2194" y="2518"/>
+	<Point x="2317" y="2516"/>
+	<Point x="2351" y="2518"/>
+	<Point x="2370" y="2516"/>
+	<Point x="2372" y="2575"/>
+	<Point x="2363" y="2582"/>
+	<Point x="1840" y="2622"/>
+	<Point x="918" y="2623"/>
+	<Point x="568" y="2623"/>
+	<Point x="555" y="2627"/>
+	<Point x="550" y="2623"/>
+	<Point x="252" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Smith, J. B., An Essay on the development of the mouth parts of certain insects. — Am. Phil. Soc., Phila-
+delphia, XIX, 1898, p. 175—198.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="247" y="2625"/>
+	<Point x="545" y="2625"/>
+	<Point x="556" y="2630"/>
+	<Point x="580" y="2625"/>
+	<Point x="1939" y="2625"/>
+	<Point x="2354" y="2610"/>
+	<Point x="2360" y="2616"/>
+	<Point x="2365" y="2625"/>
+	<Point x="2379" y="2627"/>
+	<Point x="2380" y="2684"/>
+	<Point x="2364" y="2694"/>
+	<Point x="1935" y="2728"/>
+	<Point x="818" y="2730"/>
+	<Point x="245" y="2727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Snodgraß, R. E., The thorax of Insects and the articulation of the wings. — Proc. U. S. National Mus.,
+XXXVI, 1909, p. 511—595.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="258" y="2734"/>
+	<Point x="2379" y="2729"/>
+	<Point x="2383" y="2781"/>
+	<Point x="1096" y="2782"/>
+	<Point x="1080" y="2784"/>
+	<Point x="1072" y="2782"/>
+	<Point x="456" y="2783"/>
+	<Point x="429" y="2785"/>
+	<Point x="417" y="2783"/>
+	<Point x="256" y="2784"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Snodgraß, R. E., The Thorax of the Hymenoptera. — Proc. U. S. National-Mus. XXXIX. 1911, p. 37—91.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="261" y="2788"/>
+	<Point x="2016" y="2783"/>
+	<Point x="2298" y="2786"/>
+	<Point x="2382" y="2783"/>
+	<Point x="2383" y="2832"/>
+	<Point x="2123" y="2836"/>
+	<Point x="742" y="2837"/>
+	<Point x="722" y="2831"/>
+	<Point x="695" y="2837"/>
+	<Point x="550" y="2837"/>
+	<Point x="258" y="2838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Stellwaag, Fr., Bau und Mechanik des Flugapparates der Biene. — Zeitschr. wiss. Zool., XCV, p. 518—550.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="258" y="2839"/>
+	<Point x="708" y="2838"/>
+	<Point x="722" y="2834"/>
+	<Point x="734" y="2838"/>
+	<Point x="2387" y="2839"/>
+	<Point x="2387" y="2940"/>
+	<Point x="1228" y="2941"/>
+	<Point x="1212" y="2948"/>
+	<Point x="1202" y="2941"/>
+	<Point x="942" y="2942"/>
+	<Point x="923" y="2945"/>
+	<Point x="919" y="2942"/>
+	<Point x="753" y="2942"/>
+	<Point x="731" y="2937"/>
+	<Point x="704" y="2942"/>
+	<Point x="688" y="2942"/>
+	<Point x="676" y="2945"/>
+	<Point x="668" y="2942"/>
+	<Point x="618" y="2942"/>
+	<Point x="607" y="2946"/>
+	<Point x="598" y="2942"/>
+	<Point x="258" y="2940"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Verhoeff, K. W., Über vergleichende Morphologie des Kopfes niederer Insekten mit besonderer Berück-
+sichtigung der Dermapteren und Thysannuren. — Nova Acta, LXXXIV, 1, 1904, p. 1—126.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="251" y="2945"/>
+	<Point x="596" y="2944"/>
+	<Point x="608" y="2950"/>
+	<Point x="622" y="2944"/>
+	<Point x="663" y="2944"/>
+	<Point x="676" y="2950"/>
+	<Point x="688" y="2944"/>
+	<Point x="707" y="2944"/>
+	<Point x="712" y="2942"/>
+	<Point x="725" y="2940"/>
+	<Point x="734" y="2941"/>
+	<Point x="741" y="2944"/>
+	<Point x="915" y="2944"/>
+	<Point x="921" y="2949"/>
+	<Point x="935" y="2948"/>
+	<Point x="942" y="2944"/>
+	<Point x="1188" y="2944"/>
+	<Point x="1212" y="2952"/>
+	<Point x="1240" y="2944"/>
+	<Point x="2377" y="2945"/>
+	<Point x="2377" y="3000"/>
+	<Point x="2362" y="3020"/>
+	<Point x="1917" y="3047"/>
+	<Point x="990" y="3049"/>
+	<Point x="967" y="3051"/>
+	<Point x="951" y="3049"/>
+	<Point x="942" y="3049"/>
+	<Point x="617" y="3048"/>
+	<Point x="606" y="3051"/>
+	<Point x="592" y="3048"/>
+	<Point x="251" y="3046"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Verhoeff, K. W., Über die Endsegmente des Körpers der Chilopoden, Dermapteren und Japygiden und
+zur Systematik von Japyx. — Nova Acta, LXXXI, 1903, p. 259—297.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="251" y="3055"/>
+	<Point x="1988" y="3051"/>
+	<Point x="2371" y="3035"/>
+	<Point x="2374" y="3151"/>
+	<Point x="1832" y="3158"/>
+	<Point x="251" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Verhoeff, K. W., Zur vergleichenden Morphologie und Systematik der Japygiden, zugleich 2. Aufsatz
+über den Thorax der Insekten. — Arch. Nat. Gesch. LXX, 1, 1904, p. 63—114.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="261" y="487"/>
+	<Point x="2343" y="487"/>
+	<Point x="2347" y="531"/>
+	<Point x="2343" y="538"/>
+	<Point x="2162" y="538"/>
+	<Point x="2149" y="544"/>
+	<Point x="2141" y="538"/>
+	<Point x="1735" y="538"/>
+	<Point x="1718" y="543"/>
+	<Point x="1704" y="538"/>
+	<Point x="1395" y="538"/>
+	<Point x="1389" y="541"/>
+	<Point x="1383" y="541"/>
+	<Point x="1376" y="538"/>
+	<Point x="1012" y="538"/>
+	<Point x="997" y="544"/>
+	<Point x="971" y="544"/>
+	<Point x="951" y="541"/>
+	<Point x="943" y="538"/>
+	<Point x="794" y="538"/>
+	<Point x="770" y="533"/>
+	<Point x="741" y="539"/>
+	<Point x="705" y="541"/>
+	<Point x="642" y="540"/>
+	<Point x="261" y="541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Heymons, R., Die Entwicklungsgeschichte der Scolopender. — Zoologica, XIII, 33, 1901, p. 1—244.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords>
+	<Point x="245" y="1130"/>
+	<Point x="1743" y="1132"/>
+	<Point x="1741" y="1180"/>
+	<Point x="1519" y="1180"/>
+	<Point x="1452" y="1181"/>
+	<Point x="1069" y="1180"/>
+	<Point x="666" y="1182"/>
+	<Point x="576" y="1182"/>
+	<Point x="549" y="1181"/>
+	<Point x="245" y="1182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Janet, Ch., Sur la morphologie de l'Insecte. — Limoges, 1909.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords>
+	<Point x="261" y="1184"/>
+	<Point x="581" y="1186"/>
+	<Point x="1061" y="1185"/>
+	<Point x="1479" y="1185"/>
+	<Point x="1494" y="1182"/>
+	<Point x="1501" y="1182"/>
+	<Point x="1516" y="1185"/>
+	<Point x="1737" y="1184"/>
+	<Point x="1737" y="1234"/>
+	<Point x="261" y="1234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kolbe, H. J., Einführung in die Kenntnis der Insekten, Berlin 1893.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="260" y="543"/>
+	<Point x="627" y="542"/>
+	<Point x="710" y="542"/>
+	<Point x="751" y="541"/>
+	<Point x="764" y="536"/>
+	<Point x="786" y="541"/>
+	<Point x="940" y="541"/>
+	<Point x="956" y="546"/>
+	<Point x="980" y="547"/>
+	<Point x="997" y="547"/>
+	<Point x="1017" y="541"/>
+	<Point x="1370" y="541"/>
+	<Point x="1382" y="545"/>
+	<Point x="1397" y="541"/>
+	<Point x="1700" y="541"/>
+	<Point x="1719" y="545"/>
+	<Point x="1740" y="541"/>
+	<Point x="2137" y="541"/>
+	<Point x="2151" y="547"/>
+	<Point x="2169" y="541"/>
+	<Point x="2370" y="541"/>
+	<Point x="2370" y="640"/>
+	<Point x="1521" y="643"/>
+	<Point x="1513" y="644"/>
+	<Point x="1500" y="647"/>
+	<Point x="1492" y="645"/>
+	<Point x="1489" y="643"/>
+	<Point x="1359" y="643"/>
+	<Point x="1346" y="646"/>
+	<Point x="1343" y="643"/>
+	<Point x="1164" y="643"/>
+	<Point x="1153" y="644"/>
+	<Point x="1145" y="643"/>
+	<Point x="708" y="644"/>
+	<Point x="704" y="648"/>
+	<Point x="697" y="648"/>
+	<Point x="691" y="644"/>
+	<Point x="511" y="644"/>
+	<Point x="508" y="648"/>
+	<Point x="496" y="649"/>
+	<Point x="490" y="644"/>
+	<Point x="260" y="644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hoffmann, R. W., Über den Ventraltubus von Tomocerus plumbeus L. und seine Beziehungen zu den
+großen Kopfdrüsen. — Zool. Anz., XXVIII, 1905, p. 87—116.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="253" y="646"/>
+	<Point x="482" y="647"/>
+	<Point x="494" y="654"/>
+	<Point x="518" y="647"/>
+	<Point x="522" y="647"/>
+	<Point x="688" y="646"/>
+	<Point x="698" y="652"/>
+	<Point x="712" y="646"/>
+	<Point x="1158" y="646"/>
+	<Point x="1335" y="645"/>
+	<Point x="1345" y="651"/>
+	<Point x="1373" y="645"/>
+	<Point x="1489" y="645"/>
+	<Point x="1496" y="650"/>
+	<Point x="1526" y="645"/>
+	<Point x="2370" y="642"/>
+	<Point x="2370" y="747"/>
+	<Point x="1350" y="752"/>
+	<Point x="769" y="753"/>
+	<Point x="753" y="746"/>
+	<Point x="736" y="753"/>
+	<Point x="253" y="753"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hoffmann, R. W., Über die Morphologie und die Funktion der Kauwerkzeuge von Tomocerus plumbeus L.
+(II). — Zeit. Wiss. Zool., LXXXIII, 1905, p. 638—663.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="258" y="756"/>
+	<Point x="740" y="755"/>
+	<Point x="753" y="749"/>
+	<Point x="765" y="755"/>
+	<Point x="1345" y="754"/>
+	<Point x="1796" y="753"/>
+	<Point x="2042" y="754"/>
+	<Point x="2371" y="752"/>
+	<Point x="2372" y="903"/>
+	<Point x="1442" y="906"/>
+	<Point x="863" y="912"/>
+	<Point x="848" y="916"/>
+	<Point x="833" y="912"/>
+	<Point x="258" y="914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hoffmann, R. W., Über die Morphologie und die Funktion der Kauwerkzeuge und über das Kopfnerven-
+system von Tomocerus plumbeus (III. Beitrag zur Kenntnis der Collembolen). — Zeit. wiss. Zool.,
+LXXXIX, 1908, p. 598—689.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="255" y="919"/>
+	<Point x="828" y="914"/>
+	<Point x="846" y="919"/>
+	<Point x="869" y="914"/>
+	<Point x="1459" y="910"/>
+	<Point x="2382" y="911"/>
+	<Point x="2384" y="1022"/>
+	<Point x="780" y="1020"/>
+	<Point x="767" y="1023"/>
+	<Point x="747" y="1020"/>
+	<Point x="254" y="1020"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hoffmann, R. W., Zur Kenntnis der Entwickelungsgeschichte der Collembolen. Die Entwicklung der
+Mundwerkzeuge von Tomocerus plumbeus L. — Zool. Anz., XXXVII, 1911, p. 353—377.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="250" y="1023"/>
+	<Point x="743" y="1023"/>
+	<Point x="771" y="1027"/>
+	<Point x="795" y="1023"/>
+	<Point x="2373" y="1025"/>
+	<Point x="2374" y="1131"/>
+	<Point x="1745" y="1126"/>
+	<Point x="1255" y="1125"/>
+	<Point x="1236" y="1129"/>
+	<Point x="1225" y="1125"/>
+	<Point x="1090" y="1124"/>
+	<Point x="1080" y="1127"/>
+	<Point x="1075" y="1124"/>
+	<Point x="910" y="1124"/>
+	<Point x="899" y="1127"/>
+	<Point x="895" y="1124"/>
+	<Point x="250" y="1123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Holmgren, N., Zur Morphologie des Insektenkopfes III. Das „Endolabialmetamer“ der Phalacrocera-
+Larve. — Zool. Anz., XXXII, 1907, p. 73—97.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords>
+	<Point x="245" y="1239"/>
+	<Point x="1767" y="1239"/>
+	<Point x="1882" y="1232"/>
+	<Point x="2381" y="1227"/>
+	<Point x="2374" y="1334"/>
+	<Point x="998" y="1342"/>
+	<Point x="244" y="1340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Korschelt, E., Zur Embryonalentwicklung des Dytiscus marginalis L. — Zool. Jahrb., Suppl. XV,
+Bd. 2 (Festschr. für Spengel), 1912, p. 499—532.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="248" y="1344"/>
+	<Point x="1000" y="1345"/>
+	<Point x="2379" y="1337"/>
+	<Point x="2381" y="1500"/>
+	<Point x="1774" y="1500"/>
+	<Point x="1757" y="1505"/>
+	<Point x="1745" y="1500"/>
+	<Point x="1162" y="1500"/>
+	<Point x="1149" y="1505"/>
+	<Point x="1136" y="1500"/>
+	<Point x="248" y="1499"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lacaze-Duthiers, M., Recherches sur l'armure génitale des insectes. Ann. Sci. Nat., Zoologie, XIIIe
+sér., Paris. — Vol. XII, 1849, p. 353—374; Vol. XIV, 1850, p. 17—52; Vol. XVII, 1852, p.
+207—251 (!); Vol. XVIII, 1852, p. 337—390; Vol. XIX, 1853, p. 25—88, 203—237.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="252" y="1502"/>
+	<Point x="1129" y="1503"/>
+	<Point x="1147" y="1508"/>
+	<Point x="1173" y="1503"/>
+	<Point x="1739" y="1503"/>
+	<Point x="1760" y="1511"/>
+	<Point x="1781" y="1503"/>
+	<Point x="2390" y="1503"/>
+	<Point x="2390" y="1659"/>
+	<Point x="250" y="1664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lankester, E. R., On the Use of the Term „Homology“ in Modern Zoology and the Distinction
+between Homogenetic and Homoplastic Agreements. — Ann. Mag. Nat. Hist., 4. Ser. IV, 1870,
+p. 34—43.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="254" y="1667"/>
+	<Point x="2377" y="1665"/>
+	<Point x="2377" y="1815"/>
+	<Point x="1041" y="1822"/>
+	<Point x="254" y="1822"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mac. Leay, W. S., Exposition de l'Anatomie comparée du Thorax dans les insectes ailés, suivie d'une
+Revue de l'état actuel de la nomenclature de cette partie. Accompagnée de Notes par M. Audouin.
+— Ann. Sci. Nat., XXV, 1832, p. 95—151.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords>
+	<Point x="248" y="1825"/>
+	<Point x="1040" y="1825"/>
+	<Point x="2390" y="1817"/>
+	<Point x="2390" y="1922"/>
+	<Point x="1227" y="1926"/>
+	<Point x="1209" y="1932"/>
+	<Point x="1200" y="1926"/>
+	<Point x="1075" y="1928"/>
+	<Point x="248" y="1930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Meinert, F., Om dobbelte Saedgange hos Insekter, fortsatte Bidrag til Forficulernes Anatomi. — Natur-
+hist. Tidskr., R. III., B. V., 1868, p. 278—294.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="261" y="1934"/>
+	<Point x="1192" y="1930"/>
+	<Point x="1211" y="1936"/>
+	<Point x="1235" y="1930"/>
+	<Point x="2370" y="1926"/>
+	<Point x="2370" y="2034"/>
+	<Point x="261" y="2037"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Newport, G., Insecta. — In Todd. The Cyclopedia of Anatomy and Physiology. Vol. II, 1836—1839,
+p. 853—994.</Unicode></TextEquiv></TextRegion></Page></PcGts>

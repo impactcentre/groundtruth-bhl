@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667840">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T12:04:58</Created>
+	<LastChange>2012-02-10T09:52:13</LastChange></Metadata>
+	<Page imageFilename="00667840.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="202" y="316"/>
+	<Point x="254" y="316"/>
+	<Point x="254" y="351"/>
+	<Point x="202" y="351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="804" y="305"/>
+	<Point x="1441" y="305"/>
+	<Point x="1441" y="348"/>
+	<Point x="804" y="348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE RED-BACKED SHRIKE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="198" y="428"/>
+	<Point x="2045" y="428"/>
+	<Point x="2045" y="669"/>
+	<Point x="198" y="669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>on migration. A few winter in the valley of the Indus; but the great stream of
+migration appears to follow the valley of the Nile to South Africa, where it is
+abundant during our winter in Natal, Damara Land, the Transvaal, Angola, and
+the Cape Colony.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="193" y="680"/>
+	<Point x="2042" y="680"/>
+	<Point x="2042" y="1167"/>
+	<Point x="193" y="1167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Great Britain this bird is common but local; though most abundant in the
+southern counties, it has rarely been met with in Cornwall; in Wales, and the central
+counties it is not uncommon, yet it is becoming rarer in Norfolk, and in Lincoln‐
+shire is almost unknown; in the northern counties it is rare, probably increasingly
+so; to Scotland it is only a chance straggler, though it has been recorded as
+breeding in the south-east; late in May and early in June 1906 several were
+observed during migration at Fair Isle (Shetlands). In Ireland a specimen was
+shot in 1878, and others were said to have been seen at the same time.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="191" y="1177"/>
+	<Point x="2041" y="1177"/>
+	<Point x="2041" y="1858"/>
+	<Point x="191" y="1858"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The upper parts of the male are grey, excepting the scapulars and back which
+are chestnut-brown; the wing-coverts black, margined with chestnut; wings dark
+brown, the feathers edged with chestnut; the two middle tail-feathers black, the
+rest white on the basal half, black, edged with white on the terminal half; frontal
+band, lores, and ear-coverts black; under parts rosy buﬃsh, whiter on the chin
+and under tail-coverts; bill and feet black; iris dark brown. The female is usually
+quite unlike the male, her upper parts being reddish-brown, slightly barred on the
+mantle, her under parts buﬃsh-white, barred (excepting in the centre) with brown;
+there is no black on the head, but a pale buﬀ streak above the eye. Young birds
+are somewhat similar to the female, but whiter on the forehead, with ill-deﬁned
+eye-streak, their upper parts barred, and their feet greyer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="186" y="1865"/>
+	<Point x="2039" y="1865"/>
+	<Point x="2039" y="2355"/>
+	<Point x="186" y="2355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The common Butcher-bird reaches us early in May, and usually leaves us
+again in August or September, although a late straggler has been reported as
+captured in November; it is, therefore, probable that only one brood is reared. I
+have taken fresh eggs as late as the 8th June, in Kent, but not later than the
+29th May, in Norfolk; in the latter county, however, I only met with the nest
+twice; it is, therefore, possible that later nests may occur; the ﬁrst week in June
+appears from my dates to be the earliest laying-time in the north of Kent; perhaps
+a few nests may be occupied earlier.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="186" y="2362"/>
+	<Point x="2039" y="2362"/>
+	<Point x="2039" y="2796"/>
+	<Point x="186" y="2796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The nest of this species is most frequently placed in a hawthorn bush, or
+hedge, but sometimes in the fork of a stunted tree, seldom more than ﬁve feet
+from the ground, and frequently less: the number of eggs is usually ﬁve, but
+sometimes six. Although there is a good deal of diﬀerence in the form and tinting
+of the eggs, the general character of the markings is very characteristic in most
+specimens laid by this bird: the ground-tint varies from greenish white to creamy
+buﬀ, and from the latter colour to salmon-pink; the spots vary from olive to red-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669116">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:56:45</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669116.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="279" y="280"/>
+	<Point x="1691" y="280"/>
+	<Point x="1691" y="454"/>
+	<Point x="279" y="454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>au côté de la queue, signe caractéristique du
+genre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="275" y="458"/>
+	<Point x="1696" y="459"/>
+	<Point x="1698" y="1380"/>
+	<Point x="1417" y="1380"/>
+	<Point x="945" y="1381"/>
+	<Point x="406" y="1382"/>
+	<Point x="266" y="1384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La description de Gronovius lui-même,
+ne désignant pas les couleurs, est tellement
+restreinte aux traits génériques, qu’il n’est pas
+facile de décider à quelle espèce elle se rap‐
+porte précisément; mais comme il dit que la
+ﬁgure de Seba est excellente, et qu’un indi‐
+vidu desséché de l’espèce que nous décrivons,
+et qui vient de l’ancien cabinet du Stadhouder,
+nous paraît celui-là même qui a servi d’original
+à Seba, nous croyons bien pouvoir aﬃrmer
+que c’est le véritable teuthis hepatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="283" y="1387"/>
+	<Point x="991" y="1387"/>
+	<Point x="1430" y="1385"/>
+	<Point x="1701" y="1382"/>
+	<Point x="1698" y="1781"/>
+	<Point x="281" y="1792"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est un poisson de la mer des Indes : Gro-
+novius ne le dit aussi de la Méditerranée que
+parce qu’il l’a soupçonné d’être le seserinus
+de Rondelet; conjecture qui n’est nullement
+fondée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="277" y="1805"/>
+	<Point x="1690" y="1805"/>
+	<Point x="1690" y="2145"/>
+	<Point x="955" y="2144"/>
+	<Point x="275" y="2141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Linné et Lacépède le placent à la Caroline,
+aussi bien qu’à Amboine; parce qu’ils ont cru,
+à l’exemple de Gronovius, que le poisson de
+Seba était le même que celui de Catesby.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="271" y="2145"/>
+	<Point x="811" y="2149"/>
+	<Point x="1321" y="2150"/>
+	<Point x="1698" y="2149"/>
+	<Point x="1697" y="2658"/>
+	<Point x="271" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bloch, dans son Système posthume, sépare
+ce dernier de l’autre et le nomme acanthurus
+cæruleus; quoiqu’il n’en laisse pas moins à
+l’article de l’hepatus l’assertion qu’on le trouve
+aux îles de Bahama. Il ajoute qu’il est aussi
+au Japon; mais il ne nous dit pas sur quelle</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="290" y="165"/>
+	<Point x="436" y="165"/>
+	<Point x="436" y="251"/>
+	<Point x="290" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>184</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="712" y="179"/>
+	<Point x="1257" y="179"/>
+	<Point x="1257" y="258"/>
+	<Point x="712" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

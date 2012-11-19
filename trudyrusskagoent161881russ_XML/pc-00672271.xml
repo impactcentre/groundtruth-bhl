@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672271">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T21:56:50</Created>
+	<LastChange>2012-02-10T09:54:17</LastChange></Metadata>
+	<Page imageFilename="00672271.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="13" y="287"/>
+	<Point x="1763" y="287"/>
+	<Point x="1763" y="2030"/>
+	<Point x="13" y="2030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>linie, welche besonders bei einigen Stücken durch wurzelwärts
+schwarze Begrenzung (schwarze Fleckchen) hervorgehoben wird.
+Dies ist ganz ähnlich wie bei Consueta HS., aber da auch
+keine Spur von den bei dieser Art so deutlichen weissen Flecken
+bei allen 9 Stücken sich vorﬁndet, kann Gratiosa nicht Con‐
+sueta sein. Die Limballinie ist schwach schwarz punktirt; von
+den schwarzen Punkten vor derselben, wie sie Humilis hat,
+ﬁndet sich aber keine Spur. Die Fransen führen zwei deut‐
+liche dunkle Theilungslinien (auf den Hinterﬂügeln nur eine),
+weit deutlicher doppelt als bei Humilis. Die Unterseite ist
+glänzend röthlich grau mit dunklerem Discus, der dunklere
+Mondﬂecken und die äussere Querbinde treten kaum hervor.
+Die Hinterﬂügel sind mattgrau mit röthlichen Fransen; auf
+der Unterseite weissgrau, grob dunkel bestreut mit kaum sicht‐
+barem Mittelpunkt. Die Fühler des ♂ sind dünn fadenförmig,
+sehr kurz bewimpert, während sie bei Laevis und Humilis
+weit dicker, bei letzterer Art fast sägeförmig und weit län‐
+ger bewimpert sind. Gratiosa ist von beiden letzteren Arten,
+so wie auch von der mir in Natur unbekannten Insueta (re‐
+spektive Consueta) durch die in der Beschreibung angegebe‐
+nen Unterschiede genügend getrennt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="16" y="2036"/>
+	<Point x="1749" y="2036"/>
+	<Point x="1749" y="2608"/>
+	<Point x="16" y="2608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Orth. Kindermanni F. R. Jоhann sandte mir noch ein
+kleineres, schon am 4 October gefangenes ♀ ein. Bei diesem
+Stück sind die weissen Punkte, wie bei Consueta H S., sehr
+deutlich. Doch glaube ich kaum, dass letztere eine Varietät
+der Kindermanni sein kann, da sie gar keine dunkel ausge‐
+füllte Nierenmakel zeigt, und Kindermanni wiederum nie die
+nach innen schwarz begrenzte Aussenlinie hat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="18" y="2614"/>
+	<Point x="1747" y="2614"/>
+	<Point x="1743" y="2852"/>
+	<Point x="19" y="2859"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Orrhodia Veronicae Hb. Johann sandte mir hiervon
+noch ein ganz frisches, obwohl überwintertes, am 1 April ge‐
+fangenes Stück aus Amasia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="18" y="2870"/>
+	<Point x="1754" y="2860"/>
+	<Point x="1752" y="3107"/>
+	<Point x="14" y="3107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Coloph. Freyeri Frr. Johann sandte mir ein bei Ama‐
+sia am 21 Mai gefangenes frisches ♀ ein, das aber leider auf
+der linken Flügelseite ziemlich stark beschädigt ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="737" y="160"/>
+	<Point x="737" y="228"/>
+	<Point x="1041" y="228"/>
+	<Point x="1041" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 77 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

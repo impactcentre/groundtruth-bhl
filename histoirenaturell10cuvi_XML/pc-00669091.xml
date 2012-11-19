@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669091">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:53:52</Created>
+	<LastChange>2012-02-09T16:27:32</LastChange></Metadata>
+	<Page imageFilename="00669091.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r17" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r19" index="3"/>
+	<RegionRefIndexed regionRef="r31" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="458" y="146"/>
+	<Point x="1083" y="146"/>
+	<Point x="1083" y="207"/>
+	<Point x="458" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1342" y="126"/>
+	<Point x="1473" y="126"/>
+	<Point x="1473" y="210"/>
+	<Point x="1342" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>159</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="60" y="560"/>
+	<Point x="1482" y="560"/>
+	<Point x="1482" y="912"/>
+	<Point x="60" y="912"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une espèce non moins oblongue que la
+précédente, et dont la hauteur est près de
+trois fois et demie dans sa longueur, se fait
+remarquer par</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="112" y="1400"/>
+	<Point x="1475" y="1400"/>
+	<Point x="1475" y="2157"/>
+	<Point x="112" y="2157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa couleur paraît un brun tirant sur le pourpre,
+qui se change par degrés sur le ventre en un gris
+argenté; ce fond est semé partout de très-petites
+taches rondes serrées, de couleur blanchâtre ou
+bleuâtre; il y en a même sur les rayons de la dor‐
+sale et de l’anale. La caudale est brune, les pectorales
+jaunâtres, les ventrales variées de brun et de blan‐
+châtre. Dans certains individus on voit sur le corps
+quelques taches brunes, en petit nombre, éparses
+irrégulièrement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="186" y="2160"/>
+	<Point x="1285" y="2160"/>
+	<Point x="1285" y="2234"/>
+	<Point x="186" y="2234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De très-jeunes individus n’en ont aucunes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="187" y="2236"/>
+	<Point x="1468" y="2236"/>
+	<Point x="1468" y="2313"/>
+	<Point x="187" y="2313"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La taille de nos plus grands n’est que de six pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="59" y="2352"/>
+	<Point x="1470" y="2352"/>
+	<Point x="1470" y="2615"/>
+	<Point x="59" y="2615"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Péron avait rapporté cette espèce, et plus
+récemment elle nous est venue de la baie des
+Chiens-Marins par les naturalistes de l’expédi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="1274" y="317"/>
+	<Point x="1274" y="397"/>
+	<Point x="271" y="397"/>
+	<Point x="271" y="317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE A FRONT BOMBÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="294" y="435"/>
+	<Point x="1237" y="435"/>
+	<Point x="1237" y="525"/>
+	<Point x="294" y="525"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus tumifrons, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="119" y="930"/>
+	<Point x="1485" y="930"/>
+	<Point x="1485" y="1314"/>
+	<Point x="119" y="1314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la partie du museau située au-devant des yeux, un
+peu plus large, plus alongée et plus convexe dans
+les deux sens. Son préopercule et son opercule
+sont à peu près lisses; ses rayons dorsaux sont mé‐
+diocres; sa caudale est échancrée jusqu’au quart.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="291" y="1319"/>
+	<Point x="1294" y="1319"/>
+	<Point x="1294" y="1392"/>
+	<Point x="291" y="1392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 5; D. 13/10; A. 7/9; C. 17; P. 17; V. 2/3.</Unicode></TextEquiv></TextRegion></Page></PcGts>

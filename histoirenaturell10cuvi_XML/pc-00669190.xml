@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669190">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:35:48</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669190.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="325" y="269"/>
+	<Point x="1746" y="269"/>
+	<Point x="1746" y="777"/>
+	<Point x="498" y="784"/>
+	<Point x="324" y="784"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y a de ces poissons qui, avec tous les autres
+caractères du genre, et qui ne pourraient
+en être séparés sans rompre les rapports na‐
+turels, n’ont point cette corne, ou montrent
+tout au plus une légère tubérosité soit au
+front, soit sur le museau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="316" y="792"/>
+	<Point x="1741" y="784"/>
+	<Point x="1741" y="1624"/>
+	<Point x="313" y="1624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parmi ceux de ces naseus à corne saillante,
+et que l’on a confondus jusqu’à présent sous
+les noms de chœtodon unicornis, de nason
+licornet et de monoceros biaculeatus, nous
+avons reconnu des diﬀérences qui obligent
+de les distinguer et de constituer au moins
+trois espèces, auxquelles, à en juger par les
+descriptions et les ﬁgures des auteurs, on
+sera peut-être dans le cas d’en ajouter par la
+suite encore deux ou trois.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="331" y="1631"/>
+	<Point x="1747" y="1631"/>
+	<Point x="1750" y="2465"/>
+	<Point x="506" y="2487"/>
+	<Point x="333" y="2487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forskal, qui en a décrit une, l’a laissée parmi
+les chétodons sous le nom d’unicornis, et
+Gmelin a suivi cette classiﬁcation, bien que
+cette espèce ni aucune autre n’ait le caractère
+de dents en cheveux. Forster en avait mieux
+saisi les rapports naturels, en transportant
+celles qu’il a connues dans ses harpurus, où
+il les place avec nos acanthures; mais il est
+inﬁniment plus convenable d’en faire un genre
+séparé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="349" y="2491"/>
+	<Point x="451" y="2490"/>
+	<Point x="455" y="2490"/>
+	<Point x="739" y="2485"/>
+	<Point x="1075" y="2481"/>
+	<Point x="1177" y="2478"/>
+	<Point x="1745" y="2476"/>
+	<Point x="1747" y="2646"/>
+	<Point x="350" y="2653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Outre la forme simple de ses dents et ses
+deux boucliers ﬁxes, ce genre se distinguera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="332" y="176"/>
+	<Point x="469" y="176"/>
+	<Point x="469" y="253"/>
+	<Point x="332" y="253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>258</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="766" y="179"/>
+	<Point x="1291" y="179"/>
+	<Point x="1291" y="249"/>
+	<Point x="766" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

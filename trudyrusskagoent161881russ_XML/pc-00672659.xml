@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672659">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T20:10:52</Created>
+	<LastChange>2012-02-10T09:55:31</LastChange></Metadata>
+	<Page imageFilename="00672659.tif" imageWidth="2109" imageHeight="3276">
+	<ImageRegion id="r2">
+	<Coords>
+	<Point x="241" y="288"/>
+	<Point x="2050" y="293"/>
+	<Point x="2045" y="1222"/>
+	<Point x="2043" y="1812"/>
+	<Point x="2032" y="2909"/>
+	<Point x="1713" y="2912"/>
+	<Point x="949" y="2913"/>
+	<Point x="242" y="2916"/></Coords></ImageRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="246" y="2920"/>
+	<Point x="258" y="2920"/>
+	<Point x="265" y="2919"/>
+	<Point x="274" y="2920"/>
+	<Point x="466" y="2923"/>
+	<Point x="465" y="2957"/>
+	<Point x="324" y="2958"/>
+	<Point x="317" y="2959"/>
+	<Point x="309" y="2958"/>
+	<Point x="246" y="2958"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G. Schulz del.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="234" y="208"/>
+	<Point x="475" y="208"/>
+	<Point x="475" y="247"/>
+	<Point x="234" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H.S.E.R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1950" y="212"/>
+	<Point x="2065" y="212"/>
+	<Point x="2065" y="251"/>
+	<Point x="1950" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T.XII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="1794" y="2916"/>
+	<Point x="1811" y="2913"/>
+	<Point x="1821" y="2916"/>
+	<Point x="1843" y="2915"/>
+	<Point x="1887" y="2915"/>
+	<Point x="1930" y="2916"/>
+	<Point x="2026" y="2918"/>
+	<Point x="2029" y="2944"/>
+	<Point x="1791" y="2946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C. de Castelli sc.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669414">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:03:18</Created>
+	<LastChange>2012-03-12T14:34:01</LastChange></Metadata>
+	<Page imageFilename="00669414.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="434" y="305"/>
+	<Point x="1805" y="305"/>
+	<Point x="1804" y="547"/>
+	<Point x="1067" y="548"/>
+	<Point x="435" y="540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La pectorale nous paraît plus courte, et surtout
+plus arrondie, et le dessus du crâne est un peu
+moins large entre les yeux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="452" y="546"/>
+	<Point x="1128" y="551"/>
+	<Point x="1263" y="550"/>
+	<Point x="1800" y="553"/>
+	<Point x="1800" y="832"/>
+	<Point x="452" y="832"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ligne latérale paraît aussi un peu plus droite.
+mais elle est marquée de même. La couleur du
+corps et le brillant argenté de la bandelette laté‐
+rale ne diﬀèrent nullement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="386" y="875"/>
+	<Point x="1804" y="875"/>
+	<Point x="1804" y="1390"/>
+	<Point x="386" y="1390"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu, aussi déposé dans le Musée de
+Berlin, est long de huit pouces. Les natura‐
+listes qui voudraient le considérer comme
+une simple variété du précédent, seraient du
+moins forcés de convenir qu’il en serait une
+variété bien remarquable.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="751" y="1725"/>
+	<Point x="1446" y="1725"/>
+	<Point x="1446" y="1796"/>
+	<Point x="751" y="1796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIN DU TOME DIXIÉME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="386" y="196"/>
+	<Point x="529" y="196"/>
+	<Point x="529" y="297"/>
+	<Point x="386" y="297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>482</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="807" y="200"/>
+	<Point x="1382" y="200"/>
+	<Point x="1382" y="286"/>
+	<Point x="807" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XII. ATHÉRINES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672204">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T16:14:52</Created>
+	<LastChange>2012-02-10T09:54:01</LastChange></Metadata>
+	<Page imageFilename="00672204.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="335" y="961"/>
+	<Point x="2095" y="961"/>
+	<Point x="2095" y="1214"/>
+	<Point x="335" y="1214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Du développement des muscles d’ailes chez
+les Odonates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="326" y="1485"/>
+	<Point x="2102" y="1485"/>
+	<Point x="2102" y="2414"/>
+	<Point x="326" y="2414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les larves des Odonates, ainsi que les larves de tous les
+autres insectes, durant la première période après l’éclosion,
+n’ont pas d’ailes. Celles-ci ne se développent que dans la
+suite, souvent au bout de l’étât de larve, quelquefois bientôt
+depuis l’éclosion. Les larves des Odonates sont dans ce der‐
+nier cas: leurs fourreaux d’ailes apparaissent à un âge très
+jeune, nommément après la seconde au troisième mue, quand l’in‐
+secte n’a que quelques millimètres de longueur. Avec la forma‐
+tion de fourreaux à l’intérieur de ceux-ci commence l’organisation
+d’ailes et dans la cavité du thorax — l’organisation de muscles
+alaires.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="330" y="2426"/>
+	<Point x="2097" y="2426"/>
+	<Point x="2097" y="3097"/>
+	<Point x="330" y="3097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’article présent à pour but la description de ceux-ci.
+Pour gagner plus de clarté dans la matière je commencerai
+par la ﬁn, c’est-à-dire par la description de muscles chez
+l’insecte adulte et ensuite je passerai aux larves. Mais en
+abordant l’étude des muscles je regarde comme necessaire de
+faire quelques notes sur les pièces du squelette, lesquelles de‐
+vront servir à expliquer la position et l’attache des muscles.
+Les pièces susdites sont: le thorax et la base d’ailes.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords>
+	<Point x="1123" y="1323"/>
+	<Point x="1300" y="1323"/>
+	<Point x="1300" y="1376"/>
+	<Point x="1123" y="1376"/></Coords></SeparatorRegion></Page></PcGts>

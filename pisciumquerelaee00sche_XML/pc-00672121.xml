@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672121">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-06T13:38:53</Created>
+	<LastChange>2012-03-12T14:34:08</LastChange></Metadata>
+	<Page imageFilename="00672121.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/>
+	<RegionRefIndexed regionRef="r15" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="877" y="108"/>
+	<Point x="940" y="108"/>
+	<Point x="940" y="162"/>
+	<Point x="877" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="144" y="166"/>
+	<Point x="645" y="166"/>
+	<Point x="661" y="181"/>
+	<Point x="1688" y="181"/>
+	<Point x="1688" y="316"/>
+	<Point x="1195" y="316"/>
+	<Point x="1167" y="321"/>
+	<Point x="1114" y="317"/>
+	<Point x="665" y="317"/>
+	<Point x="644" y="323"/>
+	<Point x="606" y="323"/>
+	<Point x="584" y="319"/>
+	<Point x="144" y="319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode> ejusdem nt ﬁguræ cum toto, utpote novi tenelli-
+que dentes, ex ipſa ba renaſcentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="139" y="324"/>
+	<Point x="588" y="324"/>
+	<Point x="633" y="327"/>
+	<Point x="671" y="326"/>
+	<Point x="1688" y="326"/>
+	<Point x="1688" y="627"/>
+	<Point x="581" y="627"/>
+	<Point x="548" y="659"/>
+	<Point x="522" y="664"/>
+	<Point x="508" y="671"/>
+	<Point x="499" y="667"/>
+	<Point x="139" y="668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dens Piſcis falcatus &amp; ſerratus Hilde-
+ens. Gracirhynchus falcatus vulgaris, cujus ſpe-
+cimina vel dextrorſum, vel nirorſum falcantur. Luid.
+n. 1264. 1265.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="124" y="672"/>
+	<Point x="490" y="672"/>
+	<Point x="507" y="675"/>
+	<Point x="521" y="669"/>
+	<Point x="544" y="669"/>
+	<Point x="555" y="667"/>
+	<Point x="1693" y="667"/>
+	<Point x="1689" y="1813"/>
+	<Point x="707" y="1813"/>
+	<Point x="699" y="1812"/>
+	<Point x="124" y="1812"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dens Piſcis recurvus teretior Sheppeia-
+nus. Synonyma hujus ſunt. Gloopetra pic linguam
+referens , ﬁve Ornithogloum ſele vulgare , Gloopetra
+minor. Luid. n. 1266. Gloopetra minor , ve Ophio-
+gloum petrum. Lingua ſerpentum eu natricum. Roﬂra
+avium. Ein klein ſchwarzes Naterziinglein Wagner.
+p. 310. Gloopetra Pruca cinerea Lingu piciavis
+milis. Kentmann. fol. 31. b. Gloopetra avis alicu-
+jus Merul ferè rori ſuperiorem partem prſe ferens.
+Gener. ﬁg. Lap. 163. C. 1. Monrare poumus, -
+quis dubitat,de Gloopetrarum harum conformitate
+cum analogis Piſcium dentibus, Mandibulam Piſcis
+marini,nobis quoad nomen ignoti , quatuor ſeriebus
+dentium armatam,quæ miles ita ſunt huicGloope-
+trarum ſpeciei, ut vix ovum ovo pot ee milius.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r10" type="other">
+	<Coords>
+	<Point x="679" y="94"/>
+	<Point x="868" y="94"/>
+	<Point x="868" y="170"/>
+	<Point x="679" y="170"/></Coords></GraphicRegion>
+	<GraphicRegion id="r11" type="other">
+	<Coords>
+	<Point x="955" y="98"/>
+	<Point x="1133" y="98"/>
+	<Point x="1133" y="169"/>
+	<Point x="955" y="169"/></Coords></GraphicRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="1671" y="2575"/>
+	<Point x="1671" y="2652"/>
+	<Point x="1473" y="2652"/>
+	<Point x="1473" y="2575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dens</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="signature-mark">
+	<Coords>
+	<Point x="1150" y="2574"/>
+	<Point x="1150" y="2658"/>
+	<Point x="967" y="2658"/>
+	<Point x="967" y="2573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1683" y="1818"/>
+	<Point x="1683" y="1905"/>
+	<Point x="1682" y="1905"/>
+	<Point x="1682" y="2570"/>
+	<Point x="948" y="2570"/>
+	<Point x="948" y="2571"/>
+	<Point x="933" y="2571"/>
+	<Point x="933" y="2572"/>
+	<Point x="919" y="2572"/>
+	<Point x="919" y="2573"/>
+	<Point x="904" y="2573"/>
+	<Point x="904" y="2574"/>
+	<Point x="890" y="2574"/>
+	<Point x="890" y="2575"/>
+	<Point x="128" y="2575"/>
+	<Point x="128" y="1910"/>
+	<Point x="127" y="1819"/>
+	<Point x="1683" y="1819"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dens Piſcis tricuſpidatusFaring donens.
+Gloopetra tricuſpris mucronata, ſeu nigricans ſubviri-
+dis, Tridentula dia, minimis adnumeranda. Luid. n.
+1280. Gloopetra Acanthina radice ſeli. Id.1297. qua-
+cum conferri etiam pote Gloopetra Acanthina radice
+ſeli crenata, ve minimam femoralium ﬁbulam referens,
+inradicem ſelis. id. n. 1278. quæ coloris, ut in noro
+quoque ſpecimine, e aliquando raminei, ſeu ex
+eburneo ſublutei,aliquando cornei,vel atro rubentis.
+Gloopetra Laet. de Lapid. p. 104. ﬁg. 1.</Unicode></TextEquiv></TextRegion></Page></PcGts>

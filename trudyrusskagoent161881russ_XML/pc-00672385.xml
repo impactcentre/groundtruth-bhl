@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672385">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:24:51</Created>
+	<LastChange>2012-02-10T09:54:37</LastChange></Metadata>
+	<Page imageFilename="00672385.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="832" y="157"/>
+	<Point x="1133" y="157"/>
+	<Point x="1133" y="219"/>
+	<Point x="832" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 191 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="112" y="298"/>
+	<Point x="1844" y="298"/>
+	<Point x="1844" y="460"/>
+	<Point x="112" y="460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zen sind hinter einer lehmbräunlichen Linie weisslich, etwas
+dunkel gescheckt, um die Flügelspitze verdunkelt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="110" y="466"/>
+	<Point x="1855" y="466"/>
+	<Point x="1855" y="1041"/>
+	<Point x="110" y="1041"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel schärfer dreieckig und kürzer als bei Ministra,
+schmutzig hell gelbgrau und fast durchscheinend, längs des
+Innenrandes ochergelblich, am Vorderrand und an der Apical-
+hälfte des Hinterrandes braungrau, vom Vorderrand aus nicht
+weit von der Spitze mit einer verloschenen hellen Querlinie,
+die schon bei den Medianaderästen aufhört. Franzen kurz,
+weisslich mit blass ochergelber Wurzellinie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="89" y="1044"/>
+	<Point x="1860" y="1044"/>
+	<Point x="1860" y="1619"/>
+	<Point x="89" y="1619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel auf der Dorsalhälfte gelbweiss-
+lich, übrigens röthlich, am Vorderrand heller, in der Mittel-
+zelle von der Wurzel aus und bis zur Querlinie schwarz. Die
+Querlinie ist breiter als auf der Oberseite, aber sehr undeutlich
+und besonders an ihrer basalen schwärzlichen Einfassung
+kenntlich; sie fängt mit einem gelblichweissen Costalﬂeck-
+chen an.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="101" y="1628"/>
+	<Point x="1858" y="1628"/>
+	<Point x="1858" y="2287"/>
+	<Point x="101" y="2287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel bleichgelb, am Vorderrand und in der Spitze
+hellroth. Ein aus tiefschwarzen, erst langen, weiterhin klei-
+neren Schuppen gebildeter Fleck fängt nicht weit von der
+Basis an und füllt den Raum zwischen dem zweiten Median-
+aderast und der Ader 1 c, auf welcher letztern sich die schwarze
+Beschuppung bis zum Hinterrand hin erstreckt. Solche Schuppen
+ﬁnden sich auch zerstreut am Hinterrande vom 4ten Median-
+aderast bis zur Ader 1 b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="108" y="2300"/>
+	<Point x="1851" y="2300"/>
+	<Point x="1851" y="2542"/>
+	<Point x="108" y="2542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5 unverﬂogene Männchen wurden von Petersen Ende
+April und Anfang Mai bei Honda am Guarino im Urwaldge-
+biet gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="99" y="2551"/>
+	<Point x="1858" y="2551"/>
+	<Point x="1858" y="3146"/>
+	<Point x="99" y="3146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung. Rogenhofer's Scopipes Novara t. 136,
+ﬁg. 39 — von Bogotá — schien mir anfangs ein sehr verblasstes
+Exemplar meiner Pycn. ministra zu sein. Allein der von der
+Basis selbst aus, sich verengernd bis zur Flügelspitze ziehende
+Costalstreifen ist auf Ministra durchaus nicht anzuwenden; dass
+der Busch an den Hinterschienen hell rostgelb, statt dunkel
+zimmtroth gefärbt ist, würde leichter zu erklären sein. Rogen-</Unicode></TextEquiv></TextRegion></Page></PcGts>

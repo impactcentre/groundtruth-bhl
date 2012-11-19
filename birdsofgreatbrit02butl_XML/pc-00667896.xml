@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667896">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T03:40:36</Created>
+	<LastChange>2012-02-10T09:52:19</LastChange></Metadata>
+	<Page imageFilename="00667896.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="213" y="299"/>
+	<Point x="272" y="299"/>
+	<Point x="272" y="346"/>
+	<Point x="213" y="346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>36</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="976" y="292"/>
+	<Point x="1304" y="292"/>
+	<Point x="1304" y="346"/>
+	<Point x="976" y="346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MARTIN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="211" y="414"/>
+	<Point x="2080" y="414"/>
+	<Point x="2080" y="720"/>
+	<Point x="211" y="720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>black, slightly tinted with green; bill black; feet horn-yellowish, but densely
+covered with ﬁne white feathering; iris hazel. Female similar to the male;
+perhaps a triﬂe smaller. Young birds are smoky-brown above, the rump and
+under parts sordid white; the innermost secondaries tipped, and most of the quills
+edged with white; the tail shorter and less forked.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="205" y="727"/>
+	<Point x="2085" y="727"/>
+	<Point x="2085" y="910"/>
+	<Point x="1263" y="912"/>
+	<Point x="205" y="910"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Apart from its colouring, this species is easily distinguished on the wing from
+the Swallow by the absence of the long tapering points to the outside tail feathers;
+but the white rump is also usually very conspicuous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="197" y="915"/>
+	<Point x="2102" y="915"/>
+	<Point x="2102" y="1162"/>
+	<Point x="1410" y="1162"/>
+	<Point x="1388" y="1166"/>
+	<Point x="1373" y="1162"/>
+	<Point x="197" y="1162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Martin arrives in this country about a week later than the Swallow; that
+is to say between the middle and end of April, according to the nature of the
+season; it usually leaves again between the end of September and beginning of
+October, though stragglers have been known to linger even to December.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="192" y="1165"/>
+	<Point x="1364" y="1165"/>
+	<Point x="1389" y="1170"/>
+	<Point x="1421" y="1165"/>
+	<Point x="2092" y="1165"/>
+	<Point x="2092" y="1538"/>
+	<Point x="1932" y="1538"/>
+	<Point x="1910" y="1540"/>
+	<Point x="1890" y="1538"/>
+	<Point x="1393" y="1538"/>
+	<Point x="1376" y="1540"/>
+	<Point x="1362" y="1538"/>
+	<Point x="192" y="1538"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In its habits and haunts this species much resembles the Swallow: why
+Seebohm went out of his way to assert that “its legs are too short to allow it to
+walk” I do not understand; for it certainly can not only walk, but run nimbly
+for short distances, without erecting its wings; though, if in a hurry, it uses its
+wings to assist it in taking surprising leaps. The call-note of the Martin is a
+thin whistled sound, something like szeet; the song a modulated twittering.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="195" y="1542"/>
+	<Point x="2102" y="1542"/>
+	<Point x="2102" y="1851"/>
+	<Point x="1143" y="1851"/>
+	<Point x="1130" y="1854"/>
+	<Point x="1121" y="1854"/>
+	<Point x="1116" y="1851"/>
+	<Point x="195" y="1852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The House-Martin builds its nest against a wall, and immediately below and
+up to a projecting ledge; rectangular eaves of houses are preferred, but sometimes
+projecting bricks on railway-and other arches are used, or ledges of rock; the
+nest being completely closed in with the exception of a semi-circular or demi-
+semi-circular hole at the top, and usually in the centre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="193" y="1856"/>
+	<Point x="317" y="1856"/>
+	<Point x="338" y="1854"/>
+	<Point x="360" y="1856"/>
+	<Point x="2090" y="1856"/>
+	<Point x="2090" y="2477"/>
+	<Point x="192" y="2477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The nest is formed of mud without, and with hardly any admixture of grass
+or hair; it is consequently so much more brittle than that of the Swallow, that,
+with the greatest care, using a long sharp table-knife, I never succeeded in obtain-
+ing a perfect specimen; indeed most nests fall into fragments at the ﬁrst attempt
+to detach them, leaving nothing but the lining with the eggs in the hand held
+below as a support: this lining consists of dry grass, and sometimes, but not
+invariably, a few feathers. The eggs number from four to six; in form they are
+generally elongated ovals, pure white, and immaculate, but appearing rosy when
+fresh-laid; they are smooth and thin shelled, moderately glossy, but not exactly
+shiny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="197" y="2482"/>
+	<Point x="2087" y="2482"/>
+	<Point x="2087" y="2797"/>
+	<Point x="197" y="2797"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>When attempting in vain to secure a perfect nest of this species, it has often
+surprised me that the mere weight of the nestlings does not burst the fragile mud
+shell; the glutinous saliva of the bird is supposed to assist in uniting the mud pellets
+in the ﬁrst instance, but one would expect a driving rain to be more than suﬃcient
+to counteract that slight advantage: why this species so rarely uses hay and hair</Unicode></TextEquiv></TextRegion></Page></PcGts>

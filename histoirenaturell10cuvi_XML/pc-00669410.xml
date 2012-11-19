@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669410">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:02:52</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669410.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="461" y="239"/>
+	<Point x="1835" y="239"/>
+	<Point x="1835" y="479"/>
+	<Point x="461" y="479"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>anale, étendue environ du sixième de la longueur
+entière du poisson. La caudale est fourchue, et ses
+lobes sont arrondis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="586" y="488"/>
+	<Point x="1706" y="488"/>
+	<Point x="1706" y="561"/>
+	<Point x="586" y="561"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 6; D. 5 — 1/10; A. 1/19; C. 17; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="475" y="565"/>
+	<Point x="1829" y="565"/>
+	<Point x="1829" y="719"/>
+	<Point x="953" y="715"/>
+	<Point x="946" y="715"/>
+	<Point x="914" y="716"/>
+	<Point x="846" y="716"/>
+	<Point x="479" y="715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les écailles sont minces et très-grandes. C’est à
+peine si l’on aperçoit des traces de lignes latérales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="448" y="717"/>
+	<Point x="1827" y="721"/>
+	<Point x="1827" y="1319"/>
+	<Point x="447" y="1325"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Outre les particularités de la forme du corps,
+cette espèce a dans ses couleurs un caractère bien
+remarquable: elle n’a pas de bandes argentées sur
+les ﬂancs; on aperçoit par reﬂets sur les côtes dix
+à douze lignes eﬀacées; mais qui paraissent avoir
+été plus brillantes que le fond de la teinte générale;
+quelques points noirâtres et rares sont épars sur le
+corps.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="389" y="1339"/>
+	<Point x="1838" y="1339"/>
+	<Point x="1838" y="1602"/>
+	<Point x="1064" y="1605"/>
+	<Point x="389" y="1606"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce beau poisson, long de dix-neuf pouces,
+a été envoyé de Montévidéo au cabinet de
+Berlin, où il est déposé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="389" y="1609"/>
+	<Point x="1816" y="1607"/>
+	<Point x="1816" y="2634"/>
+	<Point x="388" y="2634"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons décrit avec détail cette grande
+espèce, aﬁn de mieux faire apprécier ses ca‐
+ractères aux naturalistes qui pourront la re‐
+trouver; et, malgré les diﬀérences assez grandes
+qu’elle présente parmi nos petites athérines,
+nous ne croyons pas qu’on doive la séparer
+du genre; car on est conduit insensiblement
+de celle-ci par les espèces précédentes amé‐
+ricaines au menidia: cette dernière ne peut
+être séparée du jacksonia, lequel a tous les
+caractères de nos sauclets, sauf ceux qui de‐
+viennent spéciﬁques.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="403" y="125"/>
+	<Point x="557" y="125"/>
+	<Point x="557" y="227"/>
+	<Point x="403" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>478</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="893" y="125"/>
+	<Point x="1094" y="124"/>
+	<Point x="1344" y="125"/>
+	<Point x="1344" y="227"/>
+	<Point x="893" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

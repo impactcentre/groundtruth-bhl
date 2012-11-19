@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672340">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:16:02</Created>
+	<LastChange>2012-02-10T09:54:31</LastChange></Metadata>
+	<Page imageFilename="00672340.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="493" y="954"/>
+	<Point x="1764" y="954"/>
+	<Point x="1764" y="1081"/>
+	<Point x="493" y="1081"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Paxylloma Cremieri, Brebisson.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="241" y="1219"/>
+	<Point x="2018" y="1219"/>
+	<Point x="2018" y="2064"/>
+	<Point x="241" y="2064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hoc insectum rarum hactenus imperfecte cognitum a d.
+Brebisson (Annales de la soc. Entomolog. de France. T. 7,
+1838, p. 434, Tab. 12) primum descriptum et a me in pro-
+vinciâ Mohileviensi inventum fusiorem et accuratius expositam
+descriptionem requirit, quare longam et amplam hujus insecti
+descriptionem secundum individua musei mei factam et obser-
+vationes nonnullas de ejus habitatione ad usum entomologorum
+denuo in lucem edere meditatus sum. Qualis labor si ne qui-
+dem approbationem meretur, tamen in culpam mihi non ver-
+tatur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="257" y="2066"/>
+	<Point x="2011" y="2066"/>
+	<Point x="2011" y="2648"/>
+	<Point x="257" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Antennis nigris, articulis eorum primis, clypeo, ore testa-
+ceis, thorace nigro vel fusco ﬂavo variegato; scutello ﬂavo; ab-
+domine dilute aurantiaco, apice nigro; pedibus posticis longio-
+ribus; corum femoribus, tibiis tarsisque compressis; tarsorum
+posticorum articulo primo elongato; pedibus anterioribus testa-
+ceis, posticis rufescentibus; tibiis praesertim apice infuscatis;
+aculeo brevi abscondito; 4 — 5 linearum longa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="251" y="2653"/>
+	<Point x="2025" y="2653"/>
+	<Point x="2025" y="2898"/>
+	<Point x="251" y="2898"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Magnitudine, colore pedumque posticorum structurâ a Pax.
+buccatâ Breb. mox dignoscitur; habitu speciebus Anomalonis
+cognata esse videtur,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="259" y="2901"/>
+	<Point x="1996" y="2901"/>
+	<Point x="1996" y="3064"/>
+	<Point x="259" y="3064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Caput transversum, fuscum vel fusco testaceum; clypeo ca-
+rinato et ore testaceis; oculi magni, nigri; ocelli tres lutescen-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="1045" y="1135"/>
+	<Point x="1235" y="1135"/>
+	<Point x="1235" y="1177"/>
+	<Point x="1045" y="1177"/></Coords></SeparatorRegion></Page></PcGts>

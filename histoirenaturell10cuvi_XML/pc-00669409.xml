@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669409">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:02:46</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669409.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="87" y="255"/>
+	<Point x="1441" y="255"/>
+	<Point x="1441" y="932"/>
+	<Point x="87" y="932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>est très-comprimé vers l’arrière. Aux pectorales
+l’épaisseur est les deux tiers de la hauteur, et près des
+nageoires verticales elle n’en est plus que le quart. Le
+museau est très-comprimé; les maxillaires sont fort
+élargis sur le bout du museau: ils sont courbés
+pour embrasser le contour de la tête, et se terminent
+en pointe. On voit bien dans cette grande espèce
+la singulière conformation qui donne à ces os l’ap‑
+parence d’être retournés sens dessus dessous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="96" y="935"/>
+	<Point x="1451" y="935"/>
+	<Point x="1451" y="2286"/>
+	<Point x="96" y="2286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’œil, éloigné du bout du museau de deux fois
+et demie son diamètre, a une largeur contenue sept
+fois dans la longueur de la tête. Le sous-orbitaire
+est grand et comme caverneux; les narines sont per‑
+cées sur le dessus du crâne: l’ouverture antérieure
+est petite et au-devant de l’œil. La seconde est une
+large fente oblique, pratiquée sur le bord de l’or‑
+bite. Toutes les pièces operculaires sont cachées
+sous les grandes écailles qui les revêtent. Les deux
+mâchoires sont garnies d’une bande étroite de dents
+courtes et en carde: il n’y en a aucune sur le pa‑
+lais, soit au vomer, soit aux palatins. La pectorale
+est grande et forte, sa longueur égale à peu près
+les deux tiers de celle de la tête; les ventrales sont
+insérées sous l’aplomb de la pointe des nageoires
+de la poitrine. Étalées, elles sont fort larges: la lon‑
+gueur du plus grand de leurs rayons ne surpasse
+que de très-peu la moitié de la pectorale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="98" y="2288"/>
+	<Point x="1455" y="2288"/>
+	<Point x="1455" y="2598"/>
+	<Point x="98" y="2598"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La première dorsale s’élève sur la seconde partie
+de la longueur totale: elle mesure près de la moitié
+de la hauteur du corps sous elle. La seconde dor‑
+sale correspond aux derniers rayons de la nageoire</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="578" y="160"/>
+	<Point x="880" y="160"/>
+	<Point x="880" y="223"/>
+	<Point x="578" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1314" y="153"/>
+	<Point x="1437" y="153"/>
+	<Point x="1437" y="223"/>
+	<Point x="1314" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>477</Unicode></TextEquiv></TextRegion></Page></PcGts>

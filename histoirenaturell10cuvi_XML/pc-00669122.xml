@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669122">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:27:28</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669122.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="337" y="126"/>
+	<Point x="487" y="126"/>
+	<Point x="487" y="206"/>
+	<Point x="337" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>190</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="779" y="147"/>
+	<Point x="1297" y="147"/>
+	<Point x="1297" y="215"/>
+	<Point x="779" y="215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="312" y="523"/>
+	<Point x="1744" y="523"/>
+	<Point x="1744" y="1959"/>
+	<Point x="312" y="1959"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forster a laissé parmi ses dessins, conservés
+à la bibliothèque de Banks, une ﬁgure éti‐
+quetée harpurus glaucopareius, et qui re‐
+présente un acanthure déjà publié dans Seba,
+tome III, pl. 25, n.° 3. La description que
+Forster en avait faite, est insérée dans le Sys‐
+tème posthume de Bloch, p. 212, et il y est
+dit qu’il l’avait observé près de l’île d’Otaïti,
+où on le nomme Maïto, et qu’il l’a reconnu
+pour le véritable chætodon nigricans de
+Linné, ce qui est vrai dans ce sens que l’au‐
+teur du Systema naturæ cite la ﬁgure n.° 3
+de Seba parmi les synonymes de son chæto‐
+don nigricans; mais cette épithète de nigri-
+cans ayant donné lieu à toute sorte de con‐
+fusions, nous avons cru devoir la supprimer
+tout-à-fait.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="311" y="1965"/>
+	<Point x="1747" y="1965"/>
+	<Point x="1746" y="2297"/>
+	<Point x="1207" y="2297"/>
+	<Point x="1205" y="2316"/>
+	<Point x="1173" y="2316"/>
+	<Point x="1158" y="2302"/>
+	<Point x="311" y="2301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MM. Lesson et Garnot ont rapporté l’espèce
+décrite par Forster, de l’île d’Oualan, où on le
+désigne par le nom d’Ik-ali-ala; l’espèce se
+trouve aussi dans les Moluques.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="388" y="2305"/>
+	<Point x="1159" y="2308"/>
+	<Point x="1172" y="2323"/>
+	<Point x="1214" y="2323"/>
+	<Point x="1215" y="2305"/>
+	<Point x="1745" y="2305"/>
+	<Point x="1750" y="2313"/>
+	<Point x="1750" y="2401"/>
+	<Point x="387" y="2401"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle est fort bien représentée dans le Re-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="318" y="2477"/>
+	<Point x="1748" y="2477"/>
+	<Point x="1748" y="2622"/>
+	<Point x="318" y="2622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Voyez ci-dessous l’article de l’acanthure de Bloch, et la dis‐
+cussion qui s’y trouve jointe concernant l’acanthurus nigricans.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="550" y="298"/>
+	<Point x="1525" y="298"/>
+	<Point x="1525" y="388"/>
+	<Point x="550" y="388"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE A JOUE BLANCHE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="499" y="403"/>
+	<Point x="1575" y="403"/>
+	<Point x="1575" y="501"/>
+	<Point x="499" y="501"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus glaucopareius, Forster.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="305" y="2415"/>
+	<Point x="305" y="2459"/>
+	<Point x="1730" y="2459"/>
+	<Point x="1730" y="2415"/></Coords></SeparatorRegion></Page></PcGts>

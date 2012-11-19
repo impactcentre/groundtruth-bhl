@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669171">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:33:25</Created>
+	<LastChange>2012-02-09T16:27:36</LastChange></Metadata>
+	<Page imageFilename="00669171.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="150" y="291"/>
+	<Point x="1508" y="291"/>
+	<Point x="1508" y="1201"/>
+	<Point x="150" y="1201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et au-devant de l’æil jusqu’au museau. Des taches noi‐
+râtres assez grandes sont irrégulièrement distribuées
+sur deux rangs; le premier près de la dorsale, le second
+jusque sur la ligne latérale. Une très-large bande
+dorée, où l’æil est compris, descend depuis le crâne,
+couvrant la moitié de la joue et tout l’opercule, et
+va jusqu’aux ventrales; une autre bande, non moins
+large, mais argentée, est étendue sous la pectorale
+jusqu’aux nageoires paires inférieures. La couleur
+prend une teinte noirâtre sur le crâne, sur la lèvre
+supérieure et sur la base de la caudale. Les nageoires
+sont jaunâtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="87" y="1217"/>
+	<Point x="1512" y="1217"/>
+	<Point x="1512" y="1406"/>
+	<Point x="87" y="1406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Notre plus grand individu n’a que deux
+pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="440" y="1443"/>
+	<Point x="1183" y="1443"/>
+	<Point x="1183" y="1522"/>
+	<Point x="440" y="1522"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE ARGENTÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="228" y="1548"/>
+	<Point x="1381" y="1548"/>
+	<Point x="1381" y="1643"/>
+	<Point x="228" y="1643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus argenteus, Quoy et Gaim.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="94" y="1664"/>
+	<Point x="1518" y="1664"/>
+	<Point x="1518" y="2194"/>
+	<Point x="94" y="2194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un autre petit acanthure, à corps vertica‐
+lement strié, a été rapporté des îles Sand‐
+wich et des Mariannes par MM. Quoy et
+Gaimard; il a été décrit et représenté par eux,
+pl. 63, ﬁg. 3, sous le nom d’acanthure ar‐
+genté.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="164" y="2205"/>
+	<Point x="1531" y="2205"/>
+	<Point x="1531" y="2674"/>
+	<Point x="164" y="2674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il se rapproche beaucoup de l’orbiculaire pour les
+couleurs, mais sa conﬁguration n’est pas du tout la
+même; sa plus grande hauteur est aux pectorales, et
+entre deux fois dans la longueur sans la caudale; le
+proﬁl est légèrement convexe; la tête est aussi longue
+que haute, en ne comprenant point la gorge ni la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1349" y="185"/>
+	<Point x="1495" y="185"/>
+	<Point x="1495" y="270"/>
+	<Point x="1349" y="270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>239</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="498" y="202"/>
+	<Point x="1090" y="202"/>
+	<Point x="1090" y="275"/>
+	<Point x="498" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

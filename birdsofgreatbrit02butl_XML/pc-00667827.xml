@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667827">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:03:34</Created>
+	<LastChange>2012-02-10T09:52:11</LastChange></Metadata>
+	<Page imageFilename="00667827.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="871" y="185"/>
+	<Point x="1295" y="185"/>
+	<Point x="1295" y="236"/>
+	<Point x="871" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY LANIIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1950" y="195"/>
+	<Point x="1991" y="195"/>
+	<Point x="1991" y="236"/>
+	<Point x="1950" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="154" y="308"/>
+	<Point x="2014" y="308"/>
+	<Point x="2014" y="488"/>
+	<Point x="154" y="488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>and most apathetic bird I ever kept; once or twice I heard its clear bright whistle,
+but as a rule it might as well have been stuﬀed for all the interest it seemed to
+take in life.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="156" y="498"/>
+	<Point x="2011" y="498"/>
+	<Point x="2011" y="687"/>
+	<Point x="156" y="687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Orioles in conﬁnement do not diﬀer from other insectivors in their pas‐
+sionate love of both mealworms and spiders, and a few of either every day are not
+only wholesome, but tend to tame them if they need it.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="154" y="1753"/>
+	<Point x="2015" y="1753"/>
+	<Point x="2015" y="2249"/>
+	<Point x="154" y="2249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dr. Hans Gadow greatly extends the family, to include many types, observing
+that the diagnosis of the Laniidœ * * as given by Mr. Sharpe * * is applicable to
+Lanius only: he, however, admits that the family, as deﬁned by himself, contains
+some very aberrant forms, and I think all naturalists will agree that this should
+not be the case if there is any way of avoiding it. Families, Subfamilies, and
+genera are conveniences, and the more sharply they can be deﬁned, the more
+convenient they are; it is far better to have a small and compact family, than a
+large and heterogeneous one.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="156" y="2254"/>
+	<Point x="2010" y="2254"/>
+	<Point x="2010" y="2438"/>
+	<Point x="156" y="2438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dr. Gadow observes in his Catalogue that “The Laniidœ, as described in this
+volume, form neither a group complete in itself, nor are the lines of distinction
+always drawn closely enough.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="157" y="2444"/>
+	<Point x="2010" y="2444"/>
+	<Point x="2010" y="2689"/>
+	<Point x="157" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Most of the Shrikes are inhabitants of the Old World: in Great Britain they
+are represented by the typical genus Lanius alone—a group which contains alto‐
+gether about forty species, four of which have been obtained on our shores, though
+only two of these appear to breed with us.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="826" y="1103"/>
+	<Point x="1345" y="1103"/>
+	<Point x="1345" y="1148"/>
+	<Point x="826" y="1148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY LANIIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="drop-capital">
+	<Coords>
+	<Point x="156" y="1258"/>
+	<Point x="271" y="1258"/>
+	<Point x="271" y="1391"/>
+	<Point x="156" y="1391"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="274" y="1256"/>
+	<Point x="667" y="1257"/>
+	<Point x="726" y="1257"/>
+	<Point x="1252" y="1254"/>
+	<Point x="1432" y="1253"/>
+	<Point x="1492" y="1253"/>
+	<Point x="2014" y="1251"/>
+	<Point x="2014" y="1332"/>
+	<Point x="2013" y="1528"/>
+	<Point x="2011" y="1728"/>
+	<Point x="445" y="1747"/>
+	<Point x="440" y="1748"/>
+	<Point x="153" y="1748"/>
+	<Point x="155" y="1459"/>
+	<Point x="157" y="1397"/>
+	<Point x="274" y="1395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HE Shrikes or Butcher-birds form a large and well-deﬁned group of birds of
+somewhat predaceous habits, strong in their bills, but comparatively weak
+in their claws, which, nevertheless, they use for striking at and grasping
+their prey. The mandibles are short and thick, the upper one with curved culmen
+always with a tolerable well-deﬁned terminal hook, preceded, on the inferior or
+cutting edge, by a slight sinus, behind which is a prominent wedge-shaped tooth;
+the nostrils are oval, lateral, and basal, and there are well-deﬁned rictal bristles,
+as in the Flycatchers.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="255" y="2713"/>
+	<Point x="365" y="2713"/>
+	<Point x="365" y="2736"/>
+	<Point x="255" y="2736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="signature-mark">
+	<Coords>
+	<Point x="1705" y="2706"/>
+	<Point x="1733" y="2706"/>
+	<Point x="1733" y="2735"/>
+	<Point x="1705" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="964" y="876"/>
+	<Point x="1192" y="876"/>
+	<Point x="1192" y="911"/>
+	<Point x="964" y="911"/></Coords></SeparatorRegion></Page></PcGts>

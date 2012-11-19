@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672584">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T04:01:17</Created>
+	<LastChange>2012-02-10T09:55:14</LastChange></Metadata>
+	<Page imageFilename="00672584.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1014" y="133"/>
+	<Point x="1330" y="133"/>
+	<Point x="1330" y="216"/>
+	<Point x="1014" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 388 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="297" y="278"/>
+	<Point x="2038" y="278"/>
+	<Point x="2038" y="464"/>
+	<Point x="297" y="464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subtus alae ♂ et ♀ ut in L. Escheri Hb. signatae, ma-
+cula discocellulari subtriangulari alba.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="278" y="500"/>
+	<Point x="2052" y="500"/>
+	<Point x="2052" y="1092"/>
+	<Point x="278" y="1092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce, dont je n'avais pris qu'un ♂, le 7 Juin, à
+5000' d'altitude, fut retrouvée dans le Ferganah, par les
+chasseurs du Dr. Staudinger. Je dois à l'obligeance habi-
+tuelle de ce savant un ♂ et une ♀ de cette localité, ce qui
+me permet de décrire les deux séxes. Je regrette bien de
+ne les avoir pas reçus plus tôt, car, alors, j'aurais pu faire
+ﬁgurer aussi la ♀ dans mes dessins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="269" y="1102"/>
+	<Point x="2057" y="1102"/>
+	<Point x="2057" y="1588"/>
+	<Point x="269" y="1588"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le ♂ est d'un bleu qui tient le milieu entre celui de
+l'Isaurica Ld. et de l'Escheri Hb. La largeur relative du
+limbe noirâtre extérieur est la même que chez l'Escheri ♂.
+Quand aux ailes postérieures, avec la série des points noirs
+terminaux, au dessus, je les comparerai volontiers à celles de
+l'Isaurica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="271" y="1600"/>
+	<Point x="2050" y="1600"/>
+	<Point x="2050" y="1933"/>
+	<Point x="271" y="1933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ♀ est à peu près du noir brunâtre de la Lycaena Eu-
+medon ♀, et a la frange tâchetée de gris brunâtre, tandisque
+la frange est blanche extérieurement et grise-brunâtre à sa
+base, chez la Sarta ♂, comme chez les ♂♂ Escheri.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="283" y="1940"/>
+	<Point x="2054" y="1940"/>
+	<Point x="2054" y="2683"/>
+	<Point x="283" y="2683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chez la ♀, le point discocellulaire des premières ailes
+ainsi que les points terminaux des secondes, étant plus fon-
+cés que ne l'est le fond des ailes, sont très apparents. Au
+dessus de ces points terminaux on aperçoit des traces de tâ-
+ches fauves. Au dessous, les deux sèxes sont presque pareils
+et ressemblent tellement par le dessin à certains individus de
+la L. Escheri, que je trouve inutile d'en donner une descrip-
+tion détaillée: aussi je me borne à en indiquer simplement
+les diﬀérences.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="285" y="2690"/>
+	<Point x="2052" y="2690"/>
+	<Point x="2052" y="3121"/>
+	<Point x="285" y="3121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ailes postérieures: la couleur du fond est la même. La
+bande fauve, (points fauves plutôt), est comparativement moins
+large dans la Sarta; et, le point discocellulaire est blanc non
+pupillé de noir, chez mes trois exemplaires; ce point disco-
+cellulaire est formé comme chez l'Escheri. J'ai un ♂ de</Unicode></TextEquiv></TextRegion></Page></PcGts>

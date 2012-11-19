@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668962">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T04:37:47</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668962.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="380" y="289"/>
+	<Point x="1801" y="289"/>
+	<Point x="1801" y="1742"/>
+	<Point x="380" y="1742"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce n'était pas encore mentionnée
+sur aucun catalogue des poissons d'Angleterre,
+à moins que ce ne soit celui que M. Couch
+a cru devoir rapporter au pagrus totus ar-
+genteus de Sloane1. Nous avons bien déter-
+miné l'espèce du poisson ﬁguré à la Jamaïque
+par Sloane; mais la ressemblance avec le ca-
+pros, surtout quant à la protractilité du mu-
+seau, est assez grande pour qu'on puisse s'y
+méprendre. L'opinion des naturalistes de la
+société zoologique de Londres peut acquérir
+de la consistance depuis l'observation de M. H.
+Boase. A l'époque où nous avons publié notre
+travail sur les gerres, nous n'avons pu nous
+en rapporter qu'à la citation de M. Couch,
+aussi nous avons cité ses observations à la suite
+de nos premières espèces de ce genre.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="516" y="1964"/>
+	<Point x="1650" y="1964"/>
+	<Point x="1650" y="2073"/>
+	<Point x="516" y="2073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Zeus aper, Linn.; Capros aper, Lacèp.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="384" y="2096"/>
+	<Point x="1789" y="2096"/>
+	<Point x="1789" y="2437"/>
+	<Point x="384" y="2437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson, qui se rapproche le plus des
+dorées, est une petite espèce que Rondelet a
+décrite et passablement représentée sous les
+noms anciens de ������, et d'aper, c'est-à-dire</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="382" y="2531"/>
+	<Point x="1779" y="2531"/>
+	<Point x="1779" y="2661"/>
+	<Point x="382" y="2661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Jam., tab. 253, ﬁg. 1. — 2. Hist. natur. des poissons,
+t. VI, p. 461.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="395" y="177"/>
+	<Point x="486" y="177"/>
+	<Point x="486" y="254"/>
+	<Point x="395" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>30</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="777" y="190"/>
+	<Point x="1405" y="190"/>
+	<Point x="1405" y="254"/>
+	<Point x="777" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="866" y="1864"/>
+	<Point x="1296" y="1864"/>
+	<Point x="1296" y="1939"/>
+	<Point x="866" y="1939"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le SANGLIER.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="393" y="2484"/>
+	<Point x="1771" y="2484"/>
+	<Point x="1771" y="2499"/>
+	<Point x="393" y="2499"/></Coords></SeparatorRegion></Page></PcGts>

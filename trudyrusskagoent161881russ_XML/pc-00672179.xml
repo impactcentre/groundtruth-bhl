@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672179">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T16:10:43</Created>
+	<LastChange>2012-02-10T09:53:55</LastChange></Metadata>
+	<Page imageFilename="00672179.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="797" y="126"/>
+	<Point x="1091" y="126"/>
+	<Point x="1091" y="183"/>
+	<Point x="797" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— VII —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="76" y="257"/>
+	<Point x="1826" y="257"/>
+	<Point x="1826" y="688"/>
+	<Point x="76" y="688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bei den letzteren, ebenso wie auch bei den Pupiparen in einem ge‐
+wissen Stadium der Metamorphose auch so ein Zustand existirt und
+später dieser Fortsatz an der Brustganglienmasse allmählig bedeu‐
+tend kürzer wird. In dem Brustknoten sind 4 Paar Heerde vorhan‐
+den, von denen das letzte Paar bedeutend kleiner ist als die übri‐
+gen und im Fortsatze dieses Nervenknotens liegt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="73" y="700"/>
+	<Point x="1828" y="700"/>
+	<Point x="1828" y="1135"/>
+	<Point x="73" y="1135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J. A. Portschinsky zeigte der Gesellschaft Dipterenlarven aus
+dem Darmkanal des Menschen, die ihm von Dybowski aus Irkutsk
+zugeschickt waren. Es waren vollkommen ausgewachsene Larven von
+Gastrophilus equi, die wahrscheinlich zufällig mit dem im rohen Zu‐
+stande genossenen Pferdeﬂeische, in sehr jungem Zustande, in den
+Magen gelangten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="571" y="1259"/>
+	<Point x="1326" y="1259"/>
+	<Point x="1326" y="1354"/>
+	<Point x="571" y="1354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sitzung am 5 (17) März</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="263" y="1400"/>
+	<Point x="1627" y="1400"/>
+	<Point x="1627" y="1454"/>
+	<Point x="263" y="1454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>unter dem Vorsitze des Präsidenten O. Radoczkowsky.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="78" y="1518"/>
+	<Point x="1814" y="1518"/>
+	<Point x="1814" y="1665"/>
+	<Point x="78" y="1665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der Secretair legte der Versammlung das Protokoll der vorigen
+Sitzung zur Bestätigung vor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="70" y="1676"/>
+	<Point x="1812" y="1676"/>
+	<Point x="1812" y="2030"/>
+	<Point x="70" y="2030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Darauf meldete er der Gesellschaft über den Tod des Ehrenmit‐
+gliedes S. M. Solsky, der am 12 Februar nach einer anhaltenden
+und schweren Krankheit erfolgte. Hierbei folgten auch einige kurze
+Bemerkungen über die Verdienste des Verstorbenen für die Entomo‐
+logie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="72" y="2035"/>
+	<Point x="1812" y="2035"/>
+	<Point x="1812" y="2181"/>
+	<Point x="72" y="2181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Versammlung beschloss in den Schriften der Gesellschaft ei‐
+nen Necrolog von S. M. Solsky zu veröﬀentlichen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="570" y="2320"/>
+	<Point x="1312" y="2320"/>
+	<Point x="1312" y="2409"/>
+	<Point x="570" y="2409"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sitzung am 9 (21) April</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="253" y="2462"/>
+	<Point x="1624" y="2462"/>
+	<Point x="1624" y="2525"/>
+	<Point x="253" y="2525"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>unter dem Vorsitze des Präsidenten O. Radoezkowsky.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="68" y="2583"/>
+	<Point x="1816" y="2583"/>
+	<Point x="1816" y="2870"/>
+	<Point x="68" y="2870"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nach der Bestätigung des Protokolls der vorigen Sitzung legte
+der Secretair der Gesellschaft eine Anfrage des Departements des
+Ackerbaues und der Landwirthschaft über neue Untersuchungen, die
+Doryphora betreﬀend.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="64" y="2883"/>
+	<Point x="1814" y="2883"/>
+	<Point x="1814" y="3101"/>
+	<Point x="64" y="3101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das correspondirende Mitglied der Gesellschaft N. A. Cholod-
+koﬀsky machte Mittheilungen über die Speicheldrüsen der Blatta
+germanica und Periplaneta orientalis.</Unicode></TextEquiv></TextRegion></Page></PcGts>

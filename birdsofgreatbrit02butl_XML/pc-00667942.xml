@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667942">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T06:45:22</Created>
+	<LastChange>2012-02-10T09:52:25</LastChange></Metadata>
+	<Page imageFilename="00667942.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="256" y="281"/>
+	<Point x="337" y="281"/>
+	<Point x="337" y="352"/>
+	<Point x="256" y="352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>58</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="995" y="274"/>
+	<Point x="1404" y="274"/>
+	<Point x="1404" y="339"/>
+	<Point x="995" y="339"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BULLFINCH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="250" y="394"/>
+	<Point x="2141" y="394"/>
+	<Point x="2141" y="527"/>
+	<Point x="250" y="527"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cause of the melanism, which may have been due to keeping the birds in a
+moist warm atmosphere.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="251" y="530"/>
+	<Point x="2151" y="530"/>
+	<Point x="2151" y="964"/>
+	<Point x="251" y="964"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>During the summer months the Bullﬁnch chieﬂy haunts the outskirts of woods,
+plantations, dense shrubberies, private pleasure grounds, where clumps of conifers
+with tangled undergrowth of brambles have been left, to vary the landscape or to
+form cover for game, or clearings covered with two or three year’s growth; less
+frequently lanes skirted by tall hedges; but never far from woods. In such places
+it builds its shallow nest, and once I found one in a loose wayside hazel-hedge,
+about three feet high and quite at the top, barely concealed by a leaf.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="241" y="968"/>
+	<Point x="2150" y="968"/>
+	<Point x="2150" y="2024"/>
+	<Point x="241" y="2024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The favourite site for the nest is on the upper surface of a horizontal branch
+of a spruce-ﬁr, or yew; but I have also met with it in dwarf hawthorns tangled
+with blackberry vines, and in the side of a hawthorn, half buried by elm-foliage,
+on the edge of a wood: sometimes a small box-tree is selected, or very rarely a
+slight gap in a tall hedge. The outer framework of the nest consists of a tangled
+platform of slender twigs or roots, surrounding a neat, and sometimes stoutly
+built, but usually somewhat frail looking cup of plaited rootlets and bents, with
+a lining of root-ﬁbre and black horse-hairs. According to Seebohm “in some
+nests a little wool or a feather or two are found,” but I never found either,
+though occasionally a dead leaf drifts into the cup and is left there. The eggs
+number from four to six, but rarely exceed ﬁve; in colour they are pale blue,
+sometimes almost white; spotted with blackish-brown, mixed with spots or blotches
+of purplish, red-brown, and now and then lavender; most eggs are chieﬂy spotted
+at or near the larger end; sometimes there are one or two Bunting markings
+among the spots; rarely the zone of markings occurs near the smaller end of the
+egg; and lastly, in the very aberrant, almost white variety, the whole of the
+spots are chocolate-brown diﬀused at the edges.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="245" y="2029"/>
+	<Point x="2145" y="2029"/>
+	<Point x="2145" y="2216"/>
+	<Point x="245" y="2216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>There is no doubt that, when feeding its young, the Bullﬁnch eats aphides,
+small green caterpillars, seeds, and leaves of weeds; so that, in a measure, it
+atones for the mischief which it does to the fruit-grower in autumn and spring.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="244" y="2220"/>
+	<Point x="2141" y="2220"/>
+	<Point x="2141" y="2786"/>
+	<Point x="244" y="2786"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is said that the Bullﬁnch frequently rears two broods in the season; its
+ﬁrst eggs being laid towards the end of April; the young would, therefore, be
+hatched early in May, and perhaps be able to look after themselves by the end
+of that month; the second nest, if built in the last week of May, would again
+have eggs by the end of the ﬁrst week in June. My own experience is that, in
+Kent, nidiﬁcation is later; the ﬁrst nest having eggs in the early part of May,
+and the second early in July, so that the old birds must be close upon, or in
+their moult by the time that the young leave the nest. Is it certain that these
+birds would be reared? I am inclined to doubt it. In 1890 a pair of Bullﬁnches</Unicode></TextEquiv></TextRegion></Page></PcGts>

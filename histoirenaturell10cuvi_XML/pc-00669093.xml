@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669093">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T23:54:06</Created>
+	<LastChange>2012-02-09T16:27:32</LastChange></Metadata>
+	<Page imageFilename="00669093.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r29" index="1"/>
+	<RegionRefIndexed regionRef="r23" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="154" y="258"/>
+	<Point x="1498" y="258"/>
+	<Point x="1498" y="494"/>
+	<Point x="154" y="494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>des cæcums, qui a sa pointe tournée vers le dia‐
+phragme. La rate est assez grosse, trièdre et située
+dans l’anse du repli de l’æsophage.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="93" y="806"/>
+	<Point x="1510" y="806"/>
+	<Point x="1510" y="1410"/>
+	<Point x="93" y="1410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MM. Quoy et Gaimard, naturalistes des
+expéditions commandées par M. Freycinet et
+Dumont d’Urville, ont rapporté des Mariannes
+et représenté dans l’Atlas de l’Uranie1, un très-
+petit amphacanthe d’une belle couleur d’argent,
+teint de roussâtre sur le dos, qui se caracté‐
+rise bien par ses proportions;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="154" y="1420"/>
+	<Point x="1516" y="1420"/>
+	<Point x="1516" y="2026"/>
+	<Point x="154" y="2026"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>c’est le plus alongé, sa hauteur est quatre fois dans
+sa longueur ; sa tête est d’un quart plus longue que
+haute, et son proﬁl entièrement rectiligne; il n’a
+presque pas de rebord saillant au-devant de l’orbite.
+Sa dorsale a des taches nuageuses brunâtres; ses
+autres caractères et les nombres de ses rayons sont
+les mêmes que dans tout le genre. Nos plus grands
+individus n’ont que deux pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="90" y="2040"/>
+	<Point x="1514" y="2040"/>
+	<Point x="1514" y="2464"/>
+	<Point x="90" y="2464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les pêcheurs avaient donné ces petits pois‐
+sons comme les jeunes de l’amphacanthe mar‐
+bré, mais les formes de leur tête ni les pro‐
+portions du corps ne permettent d’adopter
+cette assertion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="153" y="2552"/>
+	<Point x="1284" y="2552"/>
+	<Point x="1284" y="2624"/>
+	<Point x="153" y="2624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Zoologie du Voyage de Freycinet, pl. 62, ﬁg. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="485" y="176"/>
+	<Point x="1104" y="176"/>
+	<Point x="1104" y="236"/>
+	<Point x="485" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1367" y="162"/>
+	<Point x="1485" y="162"/>
+	<Point x="1485" y="236"/>
+	<Point x="1367" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>161</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="134" y="686"/>
+	<Point x="1468" y="686"/>
+	<Point x="1468" y="768"/>
+	<Point x="134" y="768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus argenteus; Magnahac, Q. et G.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="heading">
+	<Coords>
+	<Point x="398" y="582"/>
+	<Point x="1196" y="582"/>
+	<Point x="1196" y="652"/>
+	<Point x="398" y="652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'AMPHACANTHE ARGENTÉ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r32">
+	<Coords>
+	<Point x="104" y="2493"/>
+	<Point x="104" y="2529"/>
+	<Point x="1505" y="2529"/>
+	<Point x="1505" y="2493"/></Coords></SeparatorRegion>
+	<TextRegion id="r33" type="signature-mark">
+	<Coords>
+	<Point x="230" y="2638"/>
+	<Point x="230" y="2694"/>
+	<Point x="322" y="2694"/>
+	<Point x="322" y="2638"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="signature-mark">
+	<Coords>
+	<Point x="1196" y="2632"/>
+	<Point x="1196" y="2684"/>
+	<Point x="1273" y="2684"/>
+	<Point x="1273" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>11</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672496">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:45:22</Created>
+	<LastChange>2012-02-10T09:55:01</LastChange></Metadata>
+	<Page imageFilename="00672496.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="971" y="149"/>
+	<Point x="1287" y="149"/>
+	<Point x="1287" y="214"/>
+	<Point x="971" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 300 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="257" y="283"/>
+	<Point x="1999" y="283"/>
+	<Point x="1999" y="714"/>
+	<Point x="257" y="714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rüssels und dass die typische Zeichnung des Variegatus „ely-
+tris medio interrupto cervineo-fasciatus“ Hochh. loc. c. bei
+beiden Geschlechtern an Stücken vom Jenisei gereicht, selten
+auftritt. Abdominalfortsatz fast so breit als Segment 2 lang,
+vorne ﬂach gerundet, Segment 1 hinten schwach gebuchtet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="257" y="717"/>
+	<Point x="2001" y="717"/>
+	<Point x="2001" y="967"/>
+	<Point x="257" y="967"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die bereits von Seidlitz monirte irrthümliche Vereinigung
+des Strigirostris mit Porcellus hat sich auch in den Münchener
+Katalog verirrt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="249" y="1039"/>
+	<Point x="2007" y="1039"/>
+	<Point x="2007" y="1980"/>
+	<Point x="249" y="1980"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ptochus impressicollis n. sp. Oblongus, niger, squa-
+mulis incanis, nonnunquam argenteo-micantibus unicoloribus
+aut incanis, fumatis et umbrinis variegatim tectus; antennis
+pedibusque rufescentibus; oculis prominulis; fronte lato, puncto
+impresso, rostro antrorsum angustato, antice subsulcato, tenuiter
+carinato; scrobis supernis; antennarum scapo subrecto; thorace
+transverso, disperse punctato, lateribus mox pone medium im-
+pressis; elytris parum convexis, humeris prominulis, rotunda-
+tis; processu intercoxali latitudine coxarum multo angustiore,
+parallelo, apice truncato; segmento primo postice late suban-
+gulato-emarginato; unguiculis liberis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="357" y="1998"/>
+	<Point x="1283" y="1998"/>
+	<Point x="1283" y="2075"/>
+	<Point x="357" y="2075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 4—5, lat. 1,5 — 2,2 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="246" y="2157"/>
+	<Point x="1996" y="2157"/>
+	<Point x="1996" y="2919"/>
+	<Point x="246" y="2919"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der hervorragenden Schultern wegen nur mit Desertus
+Motsch, zu vergleichen, von ihm durch den breiten Kopf, die
+an der Spitze ziemlich tiefe zur Stirne hin verschwindende
+Furche, (in dieser mit feiner erhabener Linie), durch die Füh-
+ler, deren Geisselglied 1 nur um die Hälfte länger als 2 und
+durch die seitlichen Halsschildgrübchen verschieden. Mit La-
+tifrons Hochh. hat er die Art der Zeichnung gemein, unter-
+scheidet sich aber durch Grösse, hervorragende Schultern, den
+vertieften Stirnpunkt und den geraden Fühlerschaft.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="253" y="2932"/>
+	<Point x="1987" y="2932"/>
+	<Point x="1987" y="3096"/>
+	<Point x="253" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ gestreckter, Decken schwach birnförmig, Geissel schlank,
+Glied 3 deutlich länger als 4.</Unicode></TextEquiv></TextRegion></Page></PcGts>

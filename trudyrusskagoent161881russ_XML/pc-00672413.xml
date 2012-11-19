@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672413">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:30:47</Created>
+	<LastChange>2012-02-10T09:54:48</LastChange></Metadata>
+	<Page imageFilename="00672413.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="819" y="171"/>
+	<Point x="1137" y="171"/>
+	<Point x="1137" y="249"/>
+	<Point x="819" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 219 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="116" y="305"/>
+	<Point x="1842" y="305"/>
+	<Point x="1842" y="492"/>
+	<Point x="116" y="492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>natis, punctis duobus venae transversae punctisque marginalibus
+nigris obsoletis; post. albido-hyalinis, venis albidis. ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="105" y="516"/>
+	<Point x="1851" y="516"/>
+	<Point x="1851" y="1107"/>
+	<Point x="105" y="1107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sie ist vielen Arten der europäischen Fauna ähnlich durch
+die unscheinbare Färbung und Zeichnung der Vorderﬂügel
+(grau mit zwei hellen, dunkler gerandeten Querlinien); in
+ihrem Genus kommt sie den Europäerinnen Ceratoniae, Xan-
+thotricha, Chrysorrhoea nahe, unterscheidet sich aber durch
+ihre mehr gleichbreiten, weniger gestreckten Vorderﬂügel und
+vorzüglich durch ihre weisslichen, glasartigen Hinterﬂügel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="116" y="1125"/>
+	<Point x="1867" y="1125"/>
+	<Point x="1867" y="2285"/>
+	<Point x="116" y="2285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grösse einer mittlern Ceratoniae. Rückenschild grau. Kopf
+etwas heller mit stumpf hervorragender Stirn. Taster um die
+halbe Kopﬂänge hervorstehend, grade, wenig aufgerichtet, zu-
+sammengedrückt, grauweiss; das 2te Glied mit dickem, schwar-
+zem Längsstrich und scharf hervorstehender, durch Schuppen
+gebildeter oberer Endecke; das 3te Glied halb so lang wie das
+zweite, etwas stumpf. Maxillartaster weiss, weiter als bis ans
+Ende des 2ten Lippentastergliedes reichend. Sauger grau-
+schuppig. Fühler grau. Hinterleib gelbgrau. Brust weisslich,
+vorn an der Seite mit einem weissen Schuppenpinsel. Beine
+hellgrau, aussen dunkler bestäubt; die ﬂachen Mittelschienen
+hinter der Mitte mit schwärzlichem Bändchen; Hinterschienen
+auf dem Rücken an der Wurzel mit abstehendem Haar-
+pinsel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="112" y="2296"/>
+	<Point x="1862" y="2296"/>
+	<Point x="1862" y="3128"/>
+	<Point x="112" y="3128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 41/3‴ lang, ziemlich schmal, von der Basis
+aus schnell erweitert, am Vorderrande schwach convex, an
+der Spitze abgerundet, mit ziemlich senkrecht herabgehendem,
+convexem Hinterrande, weissgrau, reichlich, aber ungleichmässig
+dunkelgrau bestäubt, mit zwei gezackten, rein hellgrauen
+Querstreifen. Der erste ist bei 1/3, sehr schräg, oben basal-
+wärts geneigt, in der Falte einen scharf ausspringenden, auf
+der Dorsalader einen einspringenden Winkel bildend, hinter-
+wärts mit dünnem, schwärzlichem, am Vorderrande verbrei-
+tertem Rande. Die 2 schwärzlichen Queraderpunkte undeutlich.</Unicode></TextEquiv></TextRegion></Page></PcGts>

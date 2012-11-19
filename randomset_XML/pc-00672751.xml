@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672751">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:36:01</Created>
+	<LastChange>2012-02-10T10:29:47</LastChange></Metadata>
+	<Page imageFilename="00672751.tif" imageWidth="1912" imageHeight="3226">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="748" y="261"/>
+	<Point x="1001" y="261"/>
+	<Point x="1001" y="305"/>
+	<Point x="748" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FRACTURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1555" y="250"/>
+	<Point x="1656" y="250"/>
+	<Point x="1656" y="305"/>
+	<Point x="1555" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>217</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="76" y="359"/>
+	<Point x="1662" y="359"/>
+	<Point x="1662" y="1209"/>
+	<Point x="76" y="1209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>by the organ of hearing, it can scarcely be called a sound, for the
+grating of the parts, as the rubbing takes place, is often more felt
+than heard, but there is no mistaking its import in cases favorable
+for the application of the test. The conditions in which it is not
+available are those of incomplete fracture, in which the mobility
+of the parts is lacking; and those in which the whole array of
+phenomena are usually obscure. To obtain the beneﬁt of this
+pathognomonic sign requires deliberate, careful, and gentle man-
+ipulation. Sometimes the slightest movements will be suﬃcient
+for its development, after much rougher handling has failed to
+discover it. Perhaps the failure in the latter case is due to a sort
+of defensive spasmodic rigidity caused by the pain resulting from
+the rude interference.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="86" y="1215"/>
+	<Point x="1661" y="1215"/>
+	<Point x="1661" y="1473"/>
+	<Point x="86" y="1473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>More or less reactive fever is a usual accompaniment of a frac-
+ture, and an ecchymosis of the parts is but a natural occurrence,
+more easily discovered in animals possessing a light-colored and
+delicate skin than in those of the opposite character.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="79" y="1477"/>
+	<Point x="1663" y="1477"/>
+	<Point x="1663" y="2512"/>
+	<Point x="79" y="2512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>There are diﬃculties in the way of the diagnosis of an incom-
+plete fracture, even sometimes when there is a degree of impair-
+ment in the function of locomotion, with evidences of pain and
+swelling at the seat of lesion. There should then be a careful
+examination for the evidences of a blow or other violence suﬃcient
+to account for the fracture, though very often a suspicion of its
+existence can only be converted into a certainty by a minute his-
+tory of the patient if it can be obtained up to the moment of the
+occurrence of the injury. A diagnosis ought not to be hastily
+pronounced, and where good ground for suspicion exists it ought
+not to be rejected upon any evidence less than the best. Serious
+and fatal complications are too often recorded of the results fol-
+lowing careless conclusions in similar cases, among which we may
+refer to one instance of a complete fracture manifesting itself in
+an animal during the act of rising up in his stall after a decision
+had been pronouuced that he had no fracture at all.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="90" y="2515"/>
+	<Point x="1662" y="2515"/>
+	<Point x="1662" y="2969"/>
+	<Point x="90" y="2969"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fractures are of course liable to complications, those especial-
+ly, from the nature of the case, which are of a traumatic
+character, such as extensive lacerations, tearing of tissues, punc-
+tures, contusions, etc. But unless these are in communication
+with the fracture itself, the indication is to treat them simply
+as independent lesions upon the other parts of the body. A
+traumatic emphysema will at times cause trouble, and abscesses,</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668959">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:37:27</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668959.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r65" index="0"/>
+	<RegionRefIndexed regionRef="r63" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="128" y="980"/>
+	<Point x="1462" y="980"/>
+	<Point x="1462" y="1494"/>
+	<Point x="128" y="1494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces caractères ne tiennent point au sexe, car l'in-
+dividu dont nous les avons tirés est une femelle,
+que nous avons comparée à des femelles de l'espèce
+ordinaire de la même taille. Nous nous sommes
+assurés en outre que les mâles de l'espèce com-
+mune ne sont pas plus fortement armés que les
+femelles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="128" y="1507"/>
+	<Point x="1467" y="1507"/>
+	<Point x="1468" y="2016"/>
+	<Point x="1468" y="2031"/>
+	<Point x="949" y="2032"/>
+	<Point x="604" y="2038"/>
+	<Point x="572" y="2039"/>
+	<Point x="244" y="2039"/>
+	<Point x="224" y="2040"/>
+	<Point x="128" y="2040"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson a été rapporté des eaux de la Corse par
+M. Peraudeau. Sa longueur est de dix-sept pouces;
+sa teinte paraît d'un brun noirâtre et l'on n'y voit
+point de tache, mais c'est peut-être une altération
+due à son séjour dans la liqueur, bien qu'elle ne
+soit pas eﬀacée dans la dorée commune, conservée
+depuis long-temps dans l'eau-de-vie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="133" y="2049"/>
+	<Point x="197" y="2049"/>
+	<Point x="202" y="2048"/>
+	<Point x="275" y="2048"/>
+	<Point x="528" y="2042"/>
+	<Point x="537" y="2042"/>
+	<Point x="901" y="2039"/>
+	<Point x="948" y="2039"/>
+	<Point x="1202" y="2037"/>
+	<Point x="1258" y="2037"/>
+	<Point x="1265" y="2038"/>
+	<Point x="1309" y="2039"/>
+	<Point x="1461" y="2038"/>
+	<Point x="1466" y="2038"/>
+	<Point x="1467" y="2338"/>
+	<Point x="536" y="2340"/>
+	<Point x="135" y="2338"/>
+	<Point x="135" y="2288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons d'autres individus de la Méditerranée
+qui lui ressemblent pour la grosseur et le petit
+nombre des écussons aux côtés de la deuxième dor-
+sale, mais non par l'épine du scapulaire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="137" y="2340"/>
+	<Point x="534" y="2343"/>
+	<Point x="1468" y="2340"/>
+	<Point x="1468" y="2489"/>
+	<Point x="442" y="2490"/>
+	<Point x="137" y="2489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La splanchnologie de cette dorée à épaule armée,
+diﬀère très-peu de celle de la commune.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="140" y="2491"/>
+	<Point x="441" y="2492"/>
+	<Point x="1322" y="2491"/>
+	<Point x="1474" y="2491"/>
+	<Point x="1474" y="2722"/>
+	<Point x="140" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous lui avons trouvé le foie de même forme.
+mais plus mince; la vésicule du ﬁel plus petite et
+le canal hépato-cystique plus court. Il débouche de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="page-number">
+	<Coords>
+	<Point x="1361" y="238"/>
+	<Point x="1451" y="238"/>
+	<Point x="1451" y="303"/>
+	<Point x="1361" y="303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>27</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="header">
+	<Coords>
+	<Point x="549" y="243"/>
+	<Point x="975" y="243"/>
+	<Point x="975" y="307"/>
+	<Point x="549" y="307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. ZÉES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords>
+	<Point x="383" y="883"/>
+	<Point x="1272" y="883"/>
+	<Point x="1272" y="953"/>
+	<Point x="383" y="953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 10 — 24; A. 4 — 22; C. 13, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="125" y="342"/>
+	<Point x="1460" y="342"/>
+	<Point x="1460" y="870"/>
+	<Point x="125" y="870"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pointu à son extrémité, et portant à sa base une
+autre épine dirigée horizontalement vers le côté,
+aplatie, tranchante et aiguë comme un poignard.
+La pointe que l'os huméral donne au-dessus de
+la pectorale, est aussi plus forte et plus acérée que
+dans la plupart des sujets de l'espèce commune.
+Les nombres sont les mêmes ou à peu près.</Unicode></TextEquiv></TextRegion></Page></PcGts>

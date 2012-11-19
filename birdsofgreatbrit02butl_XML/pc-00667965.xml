@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667965">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:47:46</Created>
+	<LastChange>2012-02-10T09:52:27</LastChange></Metadata>
+	<Page imageFilename="00667965.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r17" index="1"/>
+	<RegionRefIndexed regionRef="r23" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r12" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r10" index="6"/>
+	<RegionRefIndexed regionRef="r11" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="922" y="214"/>
+	<Point x="1362" y="214"/>
+	<Point x="1362" y="291"/>
+	<Point x="922" y="291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GOLDFINCH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1997" y="230"/>
+	<Point x="2066" y="230"/>
+	<Point x="2066" y="291"/>
+	<Point x="1997" y="291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>69</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="185" y="345"/>
+	<Point x="844" y="345"/>
+	<Point x="844" y="425"/>
+	<Point x="185" y="425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="845" y="760"/>
+	<Point x="1439" y="760"/>
+	<Point x="1439" y="841"/>
+	<Point x="845" y="841"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Carduelis elegans, STEPH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="204" y="1173"/>
+	<Point x="2080" y="1173"/>
+	<Point x="2080" y="1716"/>
+	<Point x="204" y="1716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Great Britain the Goldﬁnch is pretty generally distributed throughout
+England, and in suitable localites in Scotland and Ireland, though the wholesale
+destruction of woods, plantations and so-called waste land has rendered the species
+comparatively rare and local in many parts of Great Britain. In the north of
+Kent, where the nest might be obtained fairly commonly, year after year, about
+thirty-ﬁve years ago, it is now hardly ever met with, excepting perhaps in
+strictly private gardens, pleasure-grounds, and orchards: indeed, I believe it is
+fully twenty-three years since I last saw a wild Kentish Goldﬁnch in the summer‐
+time.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="203" y="1730"/>
+	<Point x="2082" y="1730"/>
+	<Point x="2082" y="2726"/>
+	<Point x="203" y="2726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This is the most beautiful of our British Finches: the adult male has the
+forehead broadly satiny-crimson, extending at the sides as a superciliary streak
+which sometimes passes behind the eye and unites with a broad patch of the same
+colour on the front of the face below the lores, and on the throat; the lores, feathers
+at base of beak and chin black: crown and feathers behind the cheeks black;
+cheeks snow-white (slightly stained in the centre with buﬀish-brown, especially
+in young birds) continuous with a white belt encircling the back of the throat:
+back greyish copper-brown, with a transverse white spot on the nape; wings blue-
+black, occasionally slightly glossed with Prussian-green on the lesser coverts;
+greater coverts golden-yellow; the basal two-thirds of the primaries, excepting the
+ﬁrst, with the outer webs bright golden-yellow, the secondaries also with broad
+yellow bases, so that the wing appears to be broadly belted with yellow; inner
+primaries and outer secondaries tipped with white, inner secondaries with buﬃsh-
+brown; upper tail-coverts whitish, washed with buﬃsh-brown, in Continental birds
+sometimes white, varied with sienna or reddish-buﬀ; tail feathers blue-black, the
+central ones tipped with white, the two outer ones with a large oval white patch</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="211" y="924"/>
+	<Point x="342" y="924"/>
+	<Point x="342" y="1064"/>
+	<Point x="211" y="1064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="348" y="1095"/>
+	<Point x="348" y="916"/>
+	<Point x="2079" y="916"/>
+	<Point x="2079" y="1162"/>
+	<Point x="216" y="1162"/>
+	<Point x="215" y="1095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R. SHARPE states that this bird inhabits Europe generally, except the
+extreme north; the Canary Islands, Madeira, and the countries bordering
+the Mediterranean: it is a winter visitant to Egypt and Palestine. In
+Siberia it extends to Omsk and Krasnoyarsk, and winters in Turkestan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1755" y="2734"/>
+	<Point x="1793" y="2734"/>
+	<Point x="1793" y="2771"/>
+	<Point x="1755" y="2771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="315" y="2744"/>
+	<Point x="430" y="2744"/>
+	<Point x="430" y="2780"/>
+	<Point x="315" y="2780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1381" y="340"/>
+	<Point x="2071" y="340"/>
+	<Point x="2071" y="419"/>
+	<Point x="1381" y="419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="841" y="598"/>
+	<Point x="1429" y="598"/>
+	<Point x="1429" y="689"/>
+	<Point x="841" y="689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GOLDFINCH.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668285">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T15:25:13</Created>
+	<LastChange>2012-02-10T09:52:50</LastChange></Metadata>
+	<Page imageFilename="00668285.tif" imageWidth="2526" imageHeight="3172">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r27" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/>
+	<RegionRefIndexed regionRef="r29" index="14"/>
+	<RegionRefIndexed regionRef="r31" index="15"/>
+	<RegionRefIndexed regionRef="r15" index="16"/>
+	<RegionRefIndexed regionRef="r16" index="17"/>
+	<RegionRefIndexed regionRef="r17" index="18"/>
+	<RegionRefIndexed regionRef="r18" index="19"/>
+	<RegionRefIndexed regionRef="r19" index="20"/>
+	<RegionRefIndexed regionRef="r20" index="21"/>
+	<RegionRefIndexed regionRef="r21" index="22"/>
+	<RegionRefIndexed regionRef="r22" index="23"/>
+	<RegionRefIndexed regionRef="r23" index="24"/>
+	<RegionRefIndexed regionRef="r24" index="25"/>
+	<RegionRefIndexed regionRef="r25" index="26"/>
+	<RegionRefIndexed regionRef="r26" index="27"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1045" y="270"/>
+	<Point x="1440" y="270"/>
+	<Point x="1440" y="337"/>
+	<Point x="1045" y="337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="439" y="461"/>
+	<Point x="1110" y="461"/>
+	<Point x="1110" y="513"/>
+	<Point x="439" y="513"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 24. (Fig. a and b. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="330" y="525"/>
+	<Point x="1219" y="525"/>
+	<Point x="1219" y="717"/>
+	<Point x="330" y="717"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS GUIMARASENSIS. Bul. testâ subacuminato-
+oblongâ, anfractibus quinis, convexis; albâ, glabrâ, an-
+fractibus fasciâ fuscâ conspicuâ supra infraque cingu-
+latis, epidermide tenui nitidâ luteo-olivaceâ indutâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="322" y="721"/>
+	<Point x="1220" y="721"/>
+	<Point x="1220" y="957"/>
+	<Point x="322" y="957"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GUIMARAS BULIMUS. Shell somewhat acuminately
+oblong, whorls ﬁve in number, convex; white, smooth,
+whorls encircled above and below by a conspicuous
+brown band, and covered by a thin shining yellowish
+olive epidermis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="322" y="960"/>
+	<Point x="969" y="960"/>
+	<Point x="969" y="1005"/>
+	<Point x="322" y="1005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BRODERIP, Pro. Zool. Soc., 1840, p. 156.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="320" y="1008"/>
+	<Point x="1211" y="1008"/>
+	<Point x="1211" y="1103"/>
+	<Point x="320" y="1103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Island of Guimaras, Philippines (on the trees);
+Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="319" y="1114"/>
+	<Point x="1213" y="1114"/>
+	<Point x="1213" y="1357"/>
+	<Point x="319" y="1357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A well-deﬁned though not a particularly striking shell,
+partaking of the character of B. ovoideus and citrinus.
+Fig. 24 a is the ordinary state of the species; the variety
+represented at Fig. 24 b is one of rare occurrence, in
+which the bands are unusually broad and dark coloured.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="539" y="1429"/>
+	<Point x="983" y="1429"/>
+	<Point x="983" y="1482"/>
+	<Point x="539" y="1482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 25. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="325" y="1495"/>
+	<Point x="1212" y="1495"/>
+	<Point x="1212" y="1684"/>
+	<Point x="325" y="1684"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS FRATER. Bul. testâ subacuminato-oblongâ, an‐
+fractibus quinis, convexis; rosaceo-albidâ, anfractuum
+parte inferiori zonulâ angustâ rufescente cingulatâ,
+epidermide tenui nitidâ rufescente-luteâ indutâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="321" y="1688"/>
+	<Point x="1212" y="1688"/>
+	<Point x="1212" y="1924"/>
+	<Point x="321" y="1924"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BROTHER BULIMUS. Shell somewhat acuminately
+oblong, whorls ﬁve in number, convex; pinkish-
+white, lower part of the whorls encircled by a narrow
+reddish zone, covered by a thin shining reddish-yellow
+epidermis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="323" y="1928"/>
+	<Point x="1211" y="1928"/>
+	<Point x="1211" y="2014"/>
+	<Point x="323" y="2014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE FERUSSAC, Hist. Nat. Moll. terr. et ﬂuv. pl. 112.
+f. 3 and 4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="317" y="2021"/>
+	<Point x="1208" y="2021"/>
+	<Point x="1208" y="2116"/>
+	<Point x="317" y="2116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Island of Leyte, Philippines (on the leaves of trees);
+Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="314" y="2126"/>
+	<Point x="1208" y="2126"/>
+	<Point x="1208" y="2316"/>
+	<Point x="314" y="2316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dr. Pfeiﬀer is of opinion that this shell is the B. frater
+of De Férussac, which is highly probable, although his
+ﬁgure of that species represents one of larger dimensions
+and devoid of the delicate rose colouring.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1336" y="463"/>
+	<Point x="2157" y="463"/>
+	<Point x="2157" y="600"/>
+	<Point x="1336" y="600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>immaculatâ, lineâ roseâ longitudinali hic illic ornatâ,
+suturis albidis, peritremate albâ, apice nitidè opaco-
+albo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1260" y="609"/>
+	<Point x="2154" y="609"/>
+	<Point x="2154" y="944"/>
+	<Point x="1260" y="944"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BLOTCHED BULIMUS. Shell acuminately oblong,
+mostly sinistral, whorls six in number, concentrically
+striated, last whorl rather long; yellowish fawn
+colour, sometimes blotched and clouded with brown,
+sometimes unspotted, ornamented here and there
+with a pink longitudinal line, sutures whitish, peri-
+treme white, apex shining opake white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1256" y="947"/>
+	<Point x="1882" y="947"/>
+	<Point x="1882" y="992"/>
+	<Point x="1256" y="992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BRODERIP, Pro. Zool. Soc., 1841, p. 14.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1254" y="995"/>
+	<Point x="2151" y="995"/>
+	<Point x="2151" y="1090"/>
+	<Point x="1254" y="1090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Province of Misamis, Philippines (on the trunks of
+trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1251" y="1108"/>
+	<Point x="2152" y="1108"/>
+	<Point x="2152" y="1497"/>
+	<Point x="1251" y="1497"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dr. Pfeiﬀer has intimated his opinion that the B. macu-
+liferus is a variety of the B. citrinus. I cannot, however,
+agree with him in this; the species are very nearly allied
+but always distinct. The present is of a more elongated
+growth, and in all its varieties is characterized by the
+same pale ferruginous fawn colouring. The variety repre‐
+sented at Fig. 26 b is prettily distinguished by three or
+four narrow longitudinal zones of a delicate rose colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords>
+	<Point x="1373" y="1564"/>
+	<Point x="2026" y="1564"/>
+	<Point x="2026" y="1614"/>
+	<Point x="1373" y="1614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 27. (Fig. a and b. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1252" y="1629"/>
+	<Point x="2147" y="1629"/>
+	<Point x="2147" y="1962"/>
+	<Point x="1252" y="1962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS SMARAGDINUS. Bul. testâ oblongo-ovatâ, plus
+minusve ventricosâ, anfractibus convexis, subtilissimè
+obliquè striatis, suturis superﬁcialiter canaliculatis;
+albâ, epidermide tenui corneâ nitidâ infra suturas
+indutâ; in anfractu ultimo smaragdinâ vel olivaceo-
+virescente, purpureo apicem versus evanescente; peri‐
+tremate interdum albâ, interdum pallidè, rosaceâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1252" y="1967"/>
+	<Point x="2145" y="1967"/>
+	<Point x="2145" y="2296"/>
+	<Point x="1252" y="2296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE EMERALD‐GREEN BULIMUS. Shell oblong ovate,
+more or less ventricose, whorls convex, very ﬁnely
+obliquely striated, sutures superﬁcially channelled,
+white, covered beneath the sutures with a thin shining
+horny epidermis; bright emerald-green or olive-green
+on the last whorl, fading into purple towards the apex,
+peritreme sometimes white, sometimes light pink.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1247" y="2299"/>
+	<Point x="2136" y="2299"/>
+	<Point x="2136" y="2391"/>
+	<Point x="1247" y="2391"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>REEVE, Pro. Zool. Soc., 1842, p. 49. Conch. Syst. vol. ii.
+pl. 173. f. 6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1249" y="2393"/>
+	<Point x="2136" y="2393"/>
+	<Point x="2136" y="2486"/>
+	<Point x="1249" y="2486"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Surigao, Island of Mindanao, Philippines (on the
+leaves of trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1247" y="2506"/>
+	<Point x="2143" y="2506"/>
+	<Point x="2143" y="2649"/>
+	<Point x="1247" y="2649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The accompanying ﬁgures of this bright coloured and
+delicate species represent extreme states of it, one being
+much more ventricose and of a lighter colour than the</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1131" y="2685"/>
+	<Point x="1335" y="2685"/>
+	<Point x="1335" y="2729"/>
+	<Point x="1131" y="2729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>April, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords>
+	<Point x="1155" y="375"/>
+	<Point x="1339" y="375"/>
+	<Point x="1339" y="418"/>
+	<Point x="1155" y="418"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="heading">
+	<Coords>
+	<Point x="430" y="2391"/>
+	<Point x="1088" y="2391"/>
+	<Point x="1088" y="2453"/>
+	<Point x="430" y="2453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 26. (Fig. a and b. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="316" y="2461"/>
+	<Point x="1210" y="2461"/>
+	<Point x="1210" y="2653"/>
+	<Point x="316" y="2653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS MACULIFERUS. Bul. testâ acuminato-oblongâ,
+plerumque sinistrorsâ, anfractibus senis, convexis, con-
+centricè striatic, ultimo longiusculo; ﬂavescente-spa-
+diceâ, interdum brunneo maculatâ et nebulatâ, interdum</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r32">
+	<Coords>
+	<Point x="542" y="1385"/>
+	<Point x="542" y="1407"/>
+	<Point x="994" y="1407"/>
+	<Point x="994" y="1385"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r33">
+	<Coords>
+	<Point x="531" y="2351"/>
+	<Point x="531" y="2370"/>
+	<Point x="998" y="2370"/>
+	<Point x="998" y="2351"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r34">
+	<Coords>
+	<Point x="1250" y="448"/>
+	<Point x="1244" y="1217"/>
+	<Point x="1239" y="2660"/>
+	<Point x="1222" y="2661"/>
+	<Point x="1220" y="2330"/>
+	<Point x="1221" y="2113"/>
+	<Point x="1227" y="448"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r35">
+	<Coords>
+	<Point x="1475" y="1522"/>
+	<Point x="1475" y="1542"/>
+	<Point x="1933" y="1542"/>
+	<Point x="1933" y="1522"/></Coords></SeparatorRegion></Page></PcGts>

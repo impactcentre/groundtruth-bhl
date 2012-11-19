@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672632">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T04:08:36</Created>
+	<LastChange>2012-02-10T09:55:26</LastChange></Metadata>
+	<Page imageFilename="00672632.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="357" y="861"/>
+	<Point x="1971" y="861"/>
+	<Point x="1971" y="1142"/>
+	<Point x="357" y="1142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Des muscles d'aile chez les Lépidoptères
+Rhopalocères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="292" y="1409"/>
+	<Point x="2042" y="1409"/>
+	<Point x="2042" y="3033"/>
+	<Point x="292" y="3033"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chez les papillons Rhopalocères de même que chez la plu-
+part des autres insectes on distingue trois groupes de muscles
+alaires: 1) les dorsaux, 2) les sternali-dorsaux et 3) les
+sternali-alaires. Ceux du premier groupe ne se trouvent que
+dans le mésothorax, qui porte les plus fortes ailes antérieures.
+Ces muscles sont contenus à l'interieur de la partie dorsale
+du squelette corné de l'insecte parallèlement à l'axe de ce-
+lui-ci et se rattachent à celle-là par ses bouts. On les regarde
+comme un seul muscle fort et pair. Les muscles du second
+groupe partent des parties latérales du squelette dorsal et vont
+se ﬁxer en dedans des hanches. Ces muscles, au nombre de
+six dans le mésothorax et de cinq dans le métathorax, étant
+très rapprochés l'un de l'autre, ont l'air d'un seul muscle plat.
+Les muscles du troisième groupe sont attachés d'une part aux
+osselets d'articulation d'aile ou aux pièces cornées qui en sont
+les dependances, d'autre part aux parties du squelette sternal.
+De ces osselets, diﬀerents d'après les ordres des insectes quant
+à la position, à la forme et au nombre, chez les Rhopalocères
+il y a cinq: le cornu, présentant un corps et des dents; le</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords>
+	<Point x="992" y="1233"/>
+	<Point x="1319" y="1233"/>
+	<Point x="1319" y="1290"/>
+	<Point x="992" y="1290"/></Coords></SeparatorRegion></Page></PcGts>

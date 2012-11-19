@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669376">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T00:28:37</Created>
+	<LastChange>2012-03-12T14:33:58</LastChange></Metadata>
+	<Page imageFilename="00669376.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="392" y="310"/>
+	<Point x="1807" y="310"/>
+	<Point x="1807" y="571"/>
+	<Point x="392" y="571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>n'était pas mutilé, ce ne pouvait être notre
+espèce actuelle, car il ne lui compte que dix
+rayons à l'anale.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="387" y="573"/>
+	<Point x="1816" y="573"/>
+	<Point x="1816" y="1010"/>
+	<Point x="387" y="1010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il ne paraît pas qu'il se porte plus loin au
+nord. Müller ne cite point d'athérine parmi
+les poissons de Danemarck, ni Linné ou
+Retzius parmi ceux de Suède. Aucun auteur
+n'en place dans la Baltique.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="608" y="1205"/>
+	<Point x="1598" y="1205"/>
+	<Point x="1598" y="1289"/>
+	<Point x="608" y="1289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES ATHÉRINES ÉTRANGÈRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="396" y="1342"/>
+	<Point x="1816" y="1342"/>
+	<Point x="1816" y="1853"/>
+	<Point x="396" y="1853"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Linné et Bloch, qui réduisaient toutes les
+athérines de l'Europe à une seule espèce, n'en
+ont connu qu'une étrangère, l'atherina mæ-
+nidia de l'Amérique septentrionale; mais il en
+existe un beaucoup plus grand nombre et dans
+les deux Océans.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="389" y="1855"/>
+	<Point x="1828" y="1855"/>
+	<Point x="1828" y="2546"/>
+	<Point x="389" y="2546"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Déjà Forster en avait ajouté une, et il s'en
+trouvait deux dans les papiers laissés par Com-
+merson. Nous en possédons aujourd'hui plus
+d'une douzaine. Les unes se rapprochent par
+leur museau un peu pointu de notre sauclet
+ou de notre roséré; les autres, par leur tête
+large et leur museau court, représentent plu-
+tôt notre joël, excèdent même ce qu'il a de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="460" y="2628"/>
+	<Point x="1030" y="2628"/>
+	<Point x="1030" y="2703"/>
+	<Point x="460" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Mus. ichthyol., p. 23.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="998" y="1087"/>
+	<Point x="1214" y="1087"/>
+	<Point x="1214" y="1123"/>
+	<Point x="998" y="1123"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="400" y="2569"/>
+	<Point x="1823" y="2569"/>
+	<Point x="1823" y="2596"/>
+	<Point x="400" y="2596"/></Coords></SeparatorRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="550" y="203"/>
+	<Point x="550" y="282"/>
+	<Point x="401" y="282"/>
+	<Point x="401" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>444</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="1333" y="203"/>
+	<Point x="1333" y="282"/>
+	<Point x="867" y="282"/>
+	<Point x="867" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

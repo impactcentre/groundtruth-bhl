@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672536">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T22:23:47</Created>
+	<LastChange>2012-02-10T09:55:08</LastChange></Metadata>
+	<Page imageFilename="00672536.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="998" y="114"/>
+	<Point x="1307" y="114"/>
+	<Point x="1307" y="185"/>
+	<Point x="998" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 340 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="283" y="251"/>
+	<Point x="2048" y="251"/>
+	<Point x="2048" y="1591"/>
+	<Point x="283" y="1591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>son dit-on n'habite l'eau saumâtre de ce lac, autour duquel
+l'herbe commençait à peine à se montrer. Des marmottes
+(Arctomys sp.), des Spermoﬁlus Eversmanni?, un renard (Ca-
+nis alpinus?) et quelques canards sur les endroits dégelés
+du lac, voilà à peu près tout ce que nous y vîmes. Au mo-
+ment, où de mon ﬁlet je couvrais le seul exemplaire que je
+vis d'un lépidoptère nouveau, Ala Picteti Stgr., une caille
+partit de dessous mes pieds. Peu après j'y fus pris d'un fort
+accès de ﬁèvre et j'ai dû rejoindre à pied, trop faible pour
+monter à cheval, notre caravane qui se trouvait à mi chemin
+du déﬁlé. Un Kirghise nous y vendit un coq de bruyère (Te-
+trao tetrix ♂) qu'il venait de prendre. C'est ici aussi que
+nous vîmes et tuâmes les premiers Choucas alpins (Fregilus
+graculus). Le 26 Avril nous étions rentrés à Kouldjà, satis-
+faits de notre excursion, et le 9 Mai tout était prêt pour notre
+voyage.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="283" y="1601"/>
+	<Point x="2051" y="1601"/>
+	<Point x="2051" y="2764"/>
+	<Point x="283" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voici le personnel de l'expédition: Mrs. Scaramanga et
+Alphéraky—chefs de l'expédition, Mistchenko—préparateur,
+Kourduk et Jakovlef—chasseurs, Tokhta-Akhoune—guide
+principal, Mandjà—interprête, brave jeune garçon Kalmouk de
+20 ans, qui nous a été d'une grande utilité durant notre
+voyage; quatre indigènes pour garder nos chevaux, chameaux
+etc. 10 chameaux, 11 chevaux, armes à feu de toutes sortes, en
+quantité sufﬁsante, et comme projectiles 60 livres de poudre, 12
+pouds de plomb, 4000 cartouches pour fusils à feu central,
+3000 cartouches à carabines Berdane (balles simples et ex-
+plosibles). Des cartouches à balles pour nos carabines de chasse
+calibre 12, cartouches pour pistolets Smith &amp; Wesson etc.
+Notre bagage entier pesait environ 110 pouds, poids respec-
+table, mais indispensable pour le voyage que nous allions faire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="280" y="2771"/>
+	<Point x="2048" y="2771"/>
+	<Point x="2048" y="3107"/>
+	<Point x="280" y="3107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le 10 Mai à midi nous quittions Kouldjà par une pluie
+ﬁne mêlée de neige et de grêle. Arrivés au bord de l'Ili,
+nous dûmes décharger nos chameaux pour traverser ce ﬂeuve
+sur des radeaux fort curieux, ce qui ne nous prit que quelques</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672282">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:59:08</Created>
+	<LastChange>2012-02-10T09:54:20</LastChange></Metadata>
+	<Page imageFilename="00672282.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="964" y="35"/>
+	<Point x="1297" y="35"/>
+	<Point x="1297" y="114"/>
+	<Point x="964" y="114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 88 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="235" y="154"/>
+	<Point x="2004" y="154"/>
+	<Point x="2004" y="340"/>
+	<Point x="235" y="340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>demann habe, und andere von Barcelona, die mir Zeller als
+solche bestimmte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="207" y="350"/>
+	<Point x="2016" y="350"/>
+	<Point x="2014" y="1343"/>
+	<Point x="207" y="1340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Acrob. Fallouella Peyerimh. Die von mir als Conso‐
+ciella aufgeführten Stücke sind Fallouella Peyerimh., einer
+der Consociella sehr ähnlichen, aber besonders viel lichteren
+Art. Ich hatte in meiner Sammlung auch Fallouella aus Dal‐
+matien und Griechenland unter Consociella stecken, was mich
+besonders zu diesem Irrthum veranlasste. Die weit blassere
+(lichtere) Färbung und ein ziemlich grosser dreieckiger Vorder-
+randsﬂeck hinter der ersten Querbinde unterscheiden Fallouella
+leicht von typischen Consociella. Die Stücke aus Amasia und
+von der Balkan-Halbinsel sind jedoch dunkler (mehr grau) als
+die weissgrauen aus dem Elsass; aber die rothbraune Färbung
+der Consociella fehlt ihnen ganz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="205" y="1345"/>
+	<Point x="2014" y="1347"/>
+	<Point x="2017" y="1598"/>
+	<Point x="206" y="1591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myelois Suavella Zk. Johann sandte zwei ♂♂ ein, das
+eine ziemlich frische am 9 Juli gefangen, die nicht ganz so
+dunkel als deutsche (gezogene!) Stücke sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="201" y="1597"/>
+	<Point x="2010" y="1603"/>
+	<Point x="2009" y="1757"/>
+	<Point x="197" y="1757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. Advenella Zk. Auch hiervon sandte Johann ein
+sicheres ♂ ohne Datum aus Amasia ein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="223" y="1764"/>
+	<Point x="2019" y="1764"/>
+	<Point x="2019" y="2514"/>
+	<Point x="223" y="2514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. Epelydella v. Lugens Stgr. Da îch von Johann
+noch eine weitere kleine Anzahl ganz dunkler Stücke dieser
+Art erhielt, die auf den ersten Anblick durch den fast gänz‐
+lichen Mangel der schönen rothbraunen Färbung typischer Epe-
+lydella von diesen sehr verschieden aussehn, so gebe ich die‐
+ser Lokalvarietät den Namen v. Lugens. Vor dem Aussen-
+rande fehlt das Rothbraun allen Stücken, und nur einige zei‐
+gen schwache Spuren davon auf der dunklen Basis. Sonst ist
+die Zeichnung genau dieselbe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="214" y="2519"/>
+	<Point x="2016" y="2519"/>
+	<Point x="2016" y="3042"/>
+	<Point x="214" y="3042"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Euzophera Parasitella Stgr.? Johann sandte ein am
+10 Juni bei Amasia gefangenes ganz frisches ♀ ein, das ich
+durchaus nicht von meinen spanischen Parasitella unterschei‐
+den kann. Es kommt allerdings dem als Ephest. Unicolorella
+beschriebenen ♀ von Amasia sehr nahe. Doch verläuft die
+vordere dunkle Querbinde bei Parasitella grader und ist unge-</Unicode></TextEquiv></TextRegion></Page></PcGts>

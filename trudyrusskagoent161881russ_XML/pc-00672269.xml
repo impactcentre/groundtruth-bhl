@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672269">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:56:25</Created>
+	<LastChange>2012-02-10T09:54:16</LastChange></Metadata>
+	<Page imageFilename="00672269.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="727" y="151"/>
+	<Point x="1024" y="151"/>
+	<Point x="1024" y="231"/>
+	<Point x="727" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 75 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="9" y="288"/>
+	<Point x="1748" y="288"/>
+	<Point x="1748" y="537"/>
+	<Point x="9" y="537"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Taeniocampa Miniosa F. Johann sandte ein am 18 April
+gefangenes, mit deutschen Exemplaren ganz übereinstimmendes
+Stück aus Amasia ein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="16" y="548"/>
+	<Point x="1742" y="548"/>
+	<Point x="1742" y="787"/>
+	<Point x="16" y="787"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Taenioc. Pulverulenta Esp. Gleichfalls von Johann am
+10 April bei Amasia gefunden in einem den deutschen Stücken
+gleichen ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="11" y="794"/>
+	<Point x="1750" y="794"/>
+	<Point x="1750" y="950"/>
+	<Point x="11" y="950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cirroëdia Ambusta F. Johann sandte ein sehr blasses
+am 1 October gefangenes ♂ aus Amasia ein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="11" y="956"/>
+	<Point x="1751" y="956"/>
+	<Point x="1751" y="1616"/>
+	<Point x="11" y="1616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cirr. Xerampelina (ab.) v. Unicolor Stgr. Auch hier‑
+von sandte Johann eine Anzahl, Anfang October gefangener,
+meist ziemlich abgeﬂogener Stücke ein, die alle zu der ganz
+einfarbigen Varietät gehören. Fast alle Stücke scheinen auch
+frisch bedeutend lichter als die europäischen gewesen zu sein,
+so dass ich auf den ersten Anblick die Art kaum als solche
+erkannte. Ein ♀ jedoch ist den französischen Unicolor ganz
+gleich gefärbt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="18" y="1625"/>
+	<Point x="1748" y="1625"/>
+	<Point x="1748" y="1855"/>
+	<Point x="18" y="1855"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Orthosia Ruticilla Esp. Johann sandte mir noch mehrere
+blasse, am 1 April gefangene Stücke ein, so dass diese Art
+also bei Amasia überwintert.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="18" y="1872"/>
+	<Point x="1762" y="1872"/>
+	<Point x="1762" y="2947"/>
+	<Point x="18" y="2947"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Orth. Nitida F. var. Hiervon sandte Johann zwei fri‑
+sche, in den ersten Tagen des October gefangene ♀♀ und ein
+ziemlich schlechtes ♂ ein. Die ♀♀ haben fast eintönig roth‑
+braune Vorderﬂügel, wie bei der ab. Rubetra (von Pistacina)
+gefärbt. Die Zeichnungen darauf sind sehr verloschen, kaum
+sichtbar, so dass ich die Stücke zuerst nicht als Nitida var.
+erkannte. Sollte dies konstant sein, so müsste diese Form,
+analog den Varietäten bei Pistacina u. a., eigens bezeichnet
+werden, und könnte var. Deleta heissen. Das schlechte ♂
+scheint fast ebenso gefärbt gewesen zu sein. Bei demselben
+tritt die Zeichnung, namentlich die äussere dunkle Punkt-
+Querlinie deutlicher auf, doch kann dies eine Folge der feh‑
+lenden (abgeﬂogenen) Oberschuppen sein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="31" y="2955"/>
+	<Point x="1750" y="2953"/>
+	<Point x="1750" y="3111"/>
+	<Point x="31" y="3111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Orth. Insueta Frr. kann dies nicht sein, wie ich zu‑
+erst vermuthete, denn dieselbe hat eine weisse Punktreihe hin-</Unicode></TextEquiv></TextRegion></Page></PcGts>

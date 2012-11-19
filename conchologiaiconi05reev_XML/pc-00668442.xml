@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668442">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:00:19</Created>
+	<LastChange>2012-02-10T09:53:10</LastChange></Metadata>
+	<Page imageFilename="00668442.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r13" index="8"/>
+	<RegionRefIndexed regionRef="r14" index="9"/>
+	<RegionRefIndexed regionRef="r15" index="10"/>
+	<RegionRefIndexed regionRef="r16" index="11"/>
+	<RegionRefIndexed regionRef="r17" index="12"/>
+	<RegionRefIndexed regionRef="r18" index="13"/>
+	<RegionRefIndexed regionRef="r19" index="14"/>
+	<RegionRefIndexed regionRef="r46" index="15"/>
+	<RegionRefIndexed regionRef="r40" index="16"/>
+	<RegionRefIndexed regionRef="r21" index="17"/>
+	<RegionRefIndexed regionRef="r22" index="18"/>
+	<RegionRefIndexed regionRef="r23" index="19"/>
+	<RegionRefIndexed regionRef="r24" index="20"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1039" y="157"/>
+	<Point x="1483" y="157"/>
+	<Point x="1483" y="218"/>
+	<Point x="1039" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE XLV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="350" y="253"/>
+	<Point x="1243" y="253"/>
+	<Point x="1243" y="364"/>
+	<Point x="350" y="364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A very characteristic delicately coloured species, of
+roughly plicated growth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="564" y="429"/>
+	<Point x="1031" y="429"/>
+	<Point x="1031" y="482"/>
+	<Point x="564" y="482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 287. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="357" y="490"/>
+	<Point x="1247" y="490"/>
+	<Point x="1247" y="726"/>
+	<Point x="357" y="726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS LILIACEUS. Bul. testâ acuminato-ovatâ, tenui,
+diaphanâ, anfractibus sex, convexis, Iœvibus, vel sub
+lente minutissimè impresso-striatis; columellâ angustè
+reﬂexâ, labro tenui, acuto; pallidè crocato-aurantiâ,
+roseo basin versus tinctâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="356" y="731"/>
+	<Point x="1250" y="731"/>
+	<Point x="1250" y="1016"/>
+	<Point x="356" y="1016"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LILY‐COLOURED BULIMUS. Shell acuminately ovate,
+thin, diaphanous, whorls six in number, convex,
+smooth, or very minutely impressly striated beneath
+the lens; columella narrowly reﬂected, lip thin,
+sharp; pale saﬀron-orange, tinged towards the base
+with rose.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="365" y="1025"/>
+	<Point x="651" y="1025"/>
+	<Point x="651" y="1069"/>
+	<Point x="365" y="1069"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUILDING, MSS. ?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="365" y="1073"/>
+	<Point x="866" y="1073"/>
+	<Point x="866" y="1114"/>
+	<Point x="365" y="1114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. St. Vincents, West Indies?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="583" y="1455"/>
+	<Point x="1043" y="1455"/>
+	<Point x="1043" y="1502"/>
+	<Point x="583" y="1502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 288. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="374" y="1521"/>
+	<Point x="1261" y="1521"/>
+	<Point x="1261" y="1710"/>
+	<Point x="374" y="1710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS TENUISSIMUS. Bul. testâ ovatâ, tenui, vix um-
+bilicatâ, anfractibus quinque ad sex, obscurè rugoso-
+striatis; columellâ subdepresso-reﬂexâ, labro tenui,
+acuto; undique sordidè fuscescente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="378" y="1713"/>
+	<Point x="1263" y="1713"/>
+	<Point x="1263" y="1758"/>
+	<Point x="378" y="1758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE VERY THIN BULIMUS. Shell ovate, thin, scarcely</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1361" y="249"/>
+	<Point x="2186" y="249"/>
+	<Point x="2186" y="394"/>
+	<Point x="1361" y="394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>umbilicated, whorls ﬁve to six in number, obscurely
+roughly striated; columella somewhat depressly re‐
+ﬂected, lip thin, sharp; pale dirty brown throughout.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1291" y="398"/>
+	<Point x="1863" y="398"/>
+	<Point x="1863" y="438"/>
+	<Point x="1291" y="438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Helix tenuissima, De Férussac, MSS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1291" y="448"/>
+	<Point x="1488" y="448"/>
+	<Point x="1488" y="484"/>
+	<Point x="1291" y="484"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1293" y="507"/>
+	<Point x="2184" y="507"/>
+	<Point x="2184" y="601"/>
+	<Point x="1293" y="601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>One of the most common species, says M. Moricand,
+on the walls, in Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1295" y="1026"/>
+	<Point x="2196" y="1026"/>
+	<Point x="2196" y="1360"/>
+	<Point x="1295" y="1360"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BENGAL BULIMUS. Shell conically ovate, rather
+thin, umbilicated, whorls six in number, smooth,
+slightly angularly produced towards the base; colu‐
+mella broadly reﬂected, lip thin, sharp; whitish,
+with a sutural chesnut line, last whorl encircled
+round the lower part with two chesnut lines, colu‐
+mella tinged with pink, apex black.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1304" y="1362"/>
+	<Point x="2199" y="1362"/>
+	<Point x="2199" y="1457"/>
+	<Point x="1304" y="1457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.), vol. viii.
+p. 233.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1308" y="1459"/>
+	<Point x="1518" y="1459"/>
+	<Point x="1518" y="1503"/>
+	<Point x="1308" y="1503"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Bengal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1305" y="1519"/>
+	<Point x="2202" y="1519"/>
+	<Point x="2202" y="1755"/>
+	<Point x="1305" y="1755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Easily recognised by its black apex and characteristic
+linear painting, the lower part of the whorls being en‐
+circled by two chesnut lines, one of which is concealed in
+all but the last by the superposition of one whorl upon
+the other.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r25">
+	<Coords>
+	<Point x="1256" y="263"/>
+	<Point x="1278" y="1767"/>
+	<Point x="1296" y="1768"/>
+	<Point x="1287" y="1279"/>
+	<Point x="1274" y="264"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r26">
+	<Coords>
+	<Point x="1026" y="1879"/>
+	<Point x="1026" y="1911"/>
+	<Point x="1509" y="1911"/>
+	<Point x="1509" y="1879"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r27">
+	<Coords>
+	<Point x="573" y="1402"/>
+	<Point x="573" y="1431"/>
+	<Point x="1062" y="1431"/>
+	<Point x="1062" y="1402"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r28">
+	<Coords>
+	<Point x="1505" y="623"/>
+	<Point x="1991" y="623"/>
+	<Point x="1991" y="655"/>
+	<Point x="1505" y="655"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r29">
+	<Coords>
+	<Point x="561" y="379"/>
+	<Point x="1045" y="379"/>
+	<Point x="1045" y="409"/>
+	<Point x="561" y="409"/></Coords></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="361" y="1132"/>
+	<Point x="1256" y="1132"/>
+	<Point x="1256" y="1375"/>
+	<Point x="361" y="1375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mr. Cuming possesses this shell as an inhabitant of
+St. Vincents, accompanied with the above name, as having
+been given to it by the Rev. Lansdowne Guilding. It is
+but right, however, to add that the authenticity of this
+name and locality requires conﬁrmation.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="1295" y="735"/>
+	<Point x="2198" y="735"/>
+	<Point x="2198" y="1022"/>
+	<Point x="1295" y="1022"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS BENGALENSIS. Bul. testâ conico-ovatâ, tenuiculâ,
+umbilicatâ, anfractibus sex, lœvibus, basin versus sub-
+angulato-productis; columellâ latè reﬂexâ, labro tenui,
+acuto; albidâ, lineâ castaneâ suturali, anfractu ultimo
+lineis duabus cingulato, columellâ pallidè rosaceâ, apice
+nigro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="heading">
+	<Coords>
+	<Point x="1496" y="676"/>
+	<Point x="1984" y="676"/>
+	<Point x="1984" y="721"/>
+	<Point x="1496" y="721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 289. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668842">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T03:49:42</Created>
+	<LastChange>2012-02-10T10:29:40</LastChange></Metadata>
+	<Page imageFilename="00668842.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r33" index="9"/>
+	<RegionRefIndexed regionRef="r35" index="10"/>
+	<RegionRefIndexed regionRef="r43" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/>
+	<RegionRefIndexed regionRef="r14" index="14"/>
+	<RegionRefIndexed regionRef="r15" index="15"/>
+	<RegionRefIndexed regionRef="r16" index="16"/>
+	<RegionRefIndexed regionRef="r17" index="17"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1022" y="111"/>
+	<Point x="1527" y="111"/>
+	<Point x="1527" y="161"/>
+	<Point x="1022" y="161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA.—PLATE VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="348" y="210"/>
+	<Point x="1262" y="210"/>
+	<Point x="1262" y="508"/>
+	<Point x="348" y="508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The characters by which this species diﬀers from
+T. bacillum are apparently of trivial importance, but they
+are constant in several specimens that have come under
+my observation. The whorls are more swollen round the
+lower part, and the keels are ﬁner, more numerous, and
+not distinguished by any darker colouring.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="583" y="600"/>
+	<Point x="1035" y="600"/>
+	<Point x="1035" y="651"/>
+	<Point x="583" y="651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 26. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="345" y="669"/>
+	<Point x="1261" y="669"/>
+	<Point x="1261" y="910"/>
+	<Point x="345" y="910"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA CROCEA. Turr. testâ pyramidali-turritâ,
+solidiusculâ, anfractibus viginti ant pluribus, convexo-
+planulatis, spiraliter quinque-ad decem-carinatis, carinis
+subtilibus, inæquidistantibus; croceo-brunneâ, anfrac-
+tuum parte superiori saturatiore; suturis pallidioribus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="354" y="914"/>
+	<Point x="1262" y="914"/>
+	<Point x="1260" y="1149"/>
+	<Point x="356" y="1151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SAFFRON-TINGED TURRITELLA. Shell pyramidally
+turreted, rather solid, whorls twenty or more in
+number, convexly ﬂattened, spirally ﬁve to ten-
+keeled, keels ﬁne, inequidistant; saﬀron-brown, upper
+part of the whorls darker, sutures paler.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="353" y="1154"/>
+	<Point x="1030" y="1154"/>
+	<Point x="1030" y="1200"/>
+	<Point x="353" y="1200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>KIENER, Icon. coq. viv. p. 24. pl. 11. f. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="356" y="1203"/>
+	<Point x="570" y="1203"/>
+	<Point x="570" y="1246"/>
+	<Point x="356" y="1246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. China.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="360" y="1269"/>
+	<Point x="1262" y="1269"/>
+	<Point x="1262" y="1516"/>
+	<Point x="360" y="1516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The ﬂattened surface of the whorls and light colouring
+of the sutures constitute the characteristic features of this
+species. The spiral keels are unusually numerous, but
+the alternate ones are sometimes only faintly developed,
+leaving ﬁve only of a prominent character.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="590" y="1610"/>
+	<Point x="1037" y="1610"/>
+	<Point x="1037" y="1658"/>
+	<Point x="590" y="1658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 27. (Mus. Belcher.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="369" y="1673"/>
+	<Point x="1267" y="1673"/>
+	<Point x="1267" y="1823"/>
+	<Point x="369" y="1823"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA SANGUINEA. Turr. testâ subelongato-turritâ,
+anfractibus octodecim ad viginti, convexis, spiraliter
+impresso-sulcatis, sulcis irregularibus, liris intermediis</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1301" y="650"/>
+	<Point x="2207" y="650"/>
+	<Point x="2207" y="803"/>
+	<Point x="1301" y="803"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A very characteristic species in which the entire surface
+is closely painted with transverse oblong-square dull blood‐
+stained spots.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="1523" y="869"/>
+	<Point x="1981" y="869"/>
+	<Point x="1981" y="920"/>
+	<Point x="1523" y="920"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 28. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1300" y="933"/>
+	<Point x="2211" y="933"/>
+	<Point x="2211" y="1175"/>
+	<Point x="1300" y="1175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA GEMMATA. Turr. testâ pyramidali-turritâ,
+crassiusculâ, ad basin angulatâ, anfractibus ad quindecim,
+supernè bicostatis, medio concavis, infernè unicostatis,
+costis superioribus granatis, inferiori lævi; albâ, rufes-
+cente-fusco hic illic pallidè tinctâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1303" y="1179"/>
+	<Point x="2215" y="1179"/>
+	<Point x="2215" y="1465"/>
+	<Point x="1303" y="1465"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GEMMED TURRITELLA. Shell pyramidally turreted,
+rather thick, angled at the base, whorls about ﬁfteen
+in number, encircled with two granulated ribs round
+the upper part, and one smooth one round the lower,
+concave in the middle; white, faintly stained here
+and there with light orange brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1302" y="1469"/>
+	<Point x="1512" y="1469"/>
+	<Point x="1512" y="1508"/>
+	<Point x="1302" y="1508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.—?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1303" y="1526"/>
+	<Point x="2212" y="1526"/>
+	<Point x="2212" y="1816"/>
+	<Point x="1303" y="1816"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The structure of this species approaches somewhat in
+pattern to that of the T. radula, though it will be found
+to diﬀer on comparison in the lower spiral rib being smooth
+except on the last whorl. The species diﬀer materially in
+form, the T. gemmata being shorter and composed of much
+fewer whorls.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r18">
+	<Coords>
+	<Point x="1267" y="220"/>
+	<Point x="1276" y="1807"/>
+	<Point x="1296" y="1804"/>
+	<Point x="1296" y="1376"/>
+	<Point x="1289" y="732"/>
+	<Point x="1291" y="609"/>
+	<Point x="1283" y="219"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r19">
+	<Coords>
+	<Point x="576" y="542"/>
+	<Point x="1031" y="542"/>
+	<Point x="1031" y="562"/>
+	<Point x="576" y="562"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r20">
+	<Coords>
+	<Point x="585" y="1556"/>
+	<Point x="1036" y="1556"/>
+	<Point x="1036" y="1576"/>
+	<Point x="585" y="1576"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r21">
+	<Coords>
+	<Point x="1087" y="2022"/>
+	<Point x="1532" y="2022"/>
+	<Point x="1532" y="2042"/>
+	<Point x="1087" y="2042"/></Coords></SeparatorRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="1362" y="208"/>
+	<Point x="2206" y="208"/>
+	<Point x="2206" y="306"/>
+	<Point x="1362" y="306"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>planiusculis; fulvo-albicante, liris maculis sanguineis
+transversis, oblongo-quadratis, profusè pictis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="1296" y="308"/>
+	<Point x="2227" y="308"/>
+	<Point x="2227" y="593"/>
+	<Point x="1296" y="593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BLOOD-STAINED TURRITELLA. Shell somewhat
+elongately turreted, whorls eighteen to twenty in
+number, convex, spirally impressly grooved, grooves
+irregular, intermediate ridges rather ﬂattened; fulvous
+white, ridges profusely painted with transverse ob‐
+long-square blood-stained spots.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1296" y="596"/>
+	<Point x="1571" y="596"/>
+	<Point x="1571" y="637"/>
+	<Point x="1296" y="637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. California.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r46">
+	<Coords>
+	<Point x="1535" y="825"/>
+	<Point x="1990" y="825"/>
+	<Point x="1990" y="841"/>
+	<Point x="1535" y="841"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668406">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:21:28</Created>
+	<LastChange>2012-02-10T09:53:02</LastChange></Metadata>
+	<Page imageFilename="00668406.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1017" y="127"/>
+	<Point x="1518" y="127"/>
+	<Point x="1518" y="172"/>
+	<Point x="1017" y="172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE XXXVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="442" y="216"/>
+	<Point x="1248" y="214"/>
+	<Point x="1246" y="359"/>
+	<Point x="613" y="359"/>
+	<Point x="613" y="398"/>
+	<Point x="440" y="398"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>septem, longitudinaliter rugoso-striatis; columellâ
+latâ, subrecedente, labro latè plano-reﬂexo; albidâ,
+cœruleo-nigricante quinquefasciatâ et maculatâ, labro
+nitidè albo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="364" y="404"/>
+	<Point x="1247" y="404"/>
+	<Point x="1247" y="592"/>
+	<Point x="447" y="592"/>
+	<Point x="447" y="447"/>
+	<Point x="364" y="447"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE DAMP‐WOODS BULIMUS. Shell somewhat pyrami‐
+dally oblong. Partula-shaped, largely umbilicated,
+whorls seven in number, longitudinally roughly
+striated; columella broad, slightly receding, lip</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="1287" y="405"/>
+	<Point x="2186" y="405"/>
+	<Point x="2186" y="502"/>
+	<Point x="1287" y="502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Province of Santa Cruz, Bolivia (in damp forests);
+D’Orbigny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1290" y="512"/>
+	<Point x="2185" y="512"/>
+	<Point x="2185" y="621"/>
+	<Point x="1290" y="621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A very characteristic species readily distinguished from
+the preceding by the Partula-like growth of the aperture.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="2185" y="206"/>
+	<Point x="2185" y="308"/>
+	<Point x="1364" y="305"/>
+	<Point x="1363" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>broadly and ﬂatly reﬂected; whitish, encircled by
+ﬁve bands of bluish-black blotches, lip shining white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="2185" y="310"/>
+	<Point x="2185" y="397"/>
+	<Point x="1289" y="397"/>
+	<Point x="1290" y="312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D’ORBIGNY, Voy. dans l’Amér. Mérid. Moll. p. 311. pl.
+40. f. 3—5.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="1255" y="211"/>
+	<Point x="1255" y="620"/>
+	<Point x="1280" y="620"/>
+	<Point x="1280" y="211"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="1036" y="1112"/>
+	<Point x="1501" y="1112"/>
+	<Point x="1501" y="1132"/>
+	<Point x="1036" y="1132"/></Coords></SeparatorRegion></Page></PcGts>

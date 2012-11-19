@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669126">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:57:56</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669126.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="307" y="268"/>
+	<Point x="1712" y="268"/>
+	<Point x="1712" y="489"/>
+	<Point x="307" y="489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>blanc. Les pectorales sont orangées, et l’anale et les
+ventrales d’un lilas clair, bordées tout autour d’un
+trait blanc fort étroit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="358" y="497"/>
+	<Point x="1734" y="497"/>
+	<Point x="1734" y="733"/>
+	<Point x="358" y="733"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce beau poisson prend dans la liqueur des teintes
+un peu moins vives: son bleu devient cendré, son
+jaune, gris; mais le noir et le blanc se conservent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="296" y="741"/>
+	<Point x="1731" y="741"/>
+	<Point x="1728" y="901"/>
+	<Point x="885" y="905"/>
+	<Point x="731" y="907"/>
+	<Point x="722" y="906"/>
+	<Point x="592" y="906"/>
+	<Point x="581" y="919"/>
+	<Point x="295" y="919"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu, envoyé dans la liqueur, est long
+de six pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="286" y="925"/>
+	<Point x="594" y="923"/>
+	<Point x="599" y="914"/>
+	<Point x="1745" y="912"/>
+	<Point x="1744" y="1287"/>
+	<Point x="772" y="1288"/>
+	<Point x="760" y="1339"/>
+	<Point x="288" y="1345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons communiqué à M. Guérin le
+beau dessin de M. Delise, pour qu’il pût en
+orner l’Iconographie du règne animal; et la
+ﬁgure y est parfaitement copiée, pl. 35 des
+poissons, n.° 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="286" y="1348"/>
+	<Point x="769" y="1345"/>
+	<Point x="780" y="1298"/>
+	<Point x="1743" y="1301"/>
+	<Point x="1748" y="2452"/>
+	<Point x="290" y="2450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce n’est pas conﬁnée sur les côtes
+de l’Isle-de-France; et elle paraît répandue
+dans la mer des Indes. M. Bennett l’a reçue
+de Ceilan, et l’a indiquée par une descrip‐
+tion courte, mais très-reconnaissable, dans la
+séance du 3 Novembre 1832, de la société
+zoologique de Londres. Cette notice est pu‐
+bliée dans les procès-verbaux de cette société
+savante, partie 2, p. 183. M. Bennett, ne
+connaissant pas nos travaux préparatoires, a
+regardé avec raison l’espèce comme nouvelle,
+et lui a donné le nom d’acanthurus leuco-
+sternon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="443" y="152"/>
+	<Point x="443" y="169"/>
+	<Point x="442" y="169"/>
+	<Point x="442" y="199"/>
+	<Point x="441" y="199"/>
+	<Point x="441" y="229"/>
+	<Point x="440" y="229"/>
+	<Point x="440" y="246"/>
+	<Point x="301" y="246"/>
+	<Point x="301" y="152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>194</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="751" y="152"/>
+	<Point x="1267" y="152"/>
+	<Point x="1267" y="246"/>
+	<Point x="751" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

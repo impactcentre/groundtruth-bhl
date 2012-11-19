@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668713">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:58:10</Created>
+	<LastChange>2012-02-10T10:29:32</LastChange></Metadata>
+	<Page imageFilename="00668713.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r37" index="2"/>
+	<RegionRefIndexed regionRef="r39" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/>
+	<RegionRefIndexed regionRef="r41" index="14"/>
+	<RegionRefIndexed regionRef="r43" index="15"/>
+	<RegionRefIndexed regionRef="r16" index="16"/>
+	<RegionRefIndexed regionRef="r18" index="17"/>
+	<RegionRefIndexed regionRef="r19" index="18"/>
+	<RegionRefIndexed regionRef="r47" index="19"/>
+	<RegionRefIndexed regionRef="r26" index="20"/>
+	<RegionRefIndexed regionRef="r49" index="21"/>
+	<RegionRefIndexed regionRef="r53" index="22"/>
+	<RegionRefIndexed regionRef="r61" index="23"/>
+	<RegionRefIndexed regionRef="r63" index="24"/>
+	<RegionRefIndexed regionRef="r57" index="25"/>
+	<RegionRefIndexed regionRef="r59" index="26"/>
+	<RegionRefIndexed regionRef="r29" index="27"/>
+	<RegionRefIndexed regionRef="r30" index="28"/>
+	<RegionRefIndexed regionRef="r65" index="29"/>
+	<RegionRefIndexed regionRef="r67" index="30"/>
+	<RegionRefIndexed regionRef="r32" index="31"/>
+	<RegionRefIndexed regionRef="r33" index="32"/>
+	<RegionRefIndexed regionRef="r34" index="33"/>
+	<RegionRefIndexed regionRef="r17" index="34"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="858" y="293"/>
+	<Point x="1308" y="293"/>
+	<Point x="1308" y="349"/>
+	<Point x="858" y="349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="982" y="395"/>
+	<Point x="1168" y="395"/>
+	<Point x="1168" y="432"/>
+	<Point x="982" y="432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="159" y="732"/>
+	<Point x="1051" y="732"/>
+	<Point x="1051" y="924"/>
+	<Point x="159" y="924"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BARNACLE ACHATINA. Shell cylindrically oblong,
+somewhat fusiform, whorls four in number, smooth,
+shining, apex obtuse, columella arched, truncated,
+aperture small; dull white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="156" y="926"/>
+	<Point x="398" y="926"/>
+	<Point x="398" y="965"/>
+	<Point x="156" y="965"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BENSON, MSS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="157" y="971"/>
+	<Point x="673" y="971"/>
+	<Point x="673" y="1017"/>
+	<Point x="157" y="1017"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Banks of the Jumna, India.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="148" y="1046"/>
+	<Point x="1052" y="1046"/>
+	<Point x="1052" y="1383"/>
+	<Point x="148" y="1383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A very minute species, allied to the following, but com‐
+posed of fewer whorls. First collected by Mr. Benson in
+1825 on the banks of the river Jumna near Hameerpore,
+Bundelkhund, among the roots of a large fallen tree;
+subsequently on a porphyritic hill on the border of the
+desert south of Hawee. It occurs also at Agra, on the
+right bank of the Jumna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="367" y="1456"/>
+	<Point x="829" y="1456"/>
+	<Point x="829" y="1505"/>
+	<Point x="367" y="1505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 110. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="144" y="1523"/>
+	<Point x="1047" y="1525"/>
+	<Point x="1047" y="1711"/>
+	<Point x="145" y="1711"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA ABERRANS. Achat. testâ subulatâ, tenui, an-
+fractibus sex, longitudinaliter impresso-striatis, colu‐
+mellâ tortuosâ, calloso-marginatâ, aperturâ parvâ;
+pellucidâ, vitreâ, strigis rufulis angustis obliquè pictâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="140" y="1714"/>
+	<Point x="1050" y="1714"/>
+	<Point x="1050" y="1943"/>
+	<Point x="140" y="1943"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ABERRANT ACHATINA. Shell subulate, thin, whorls
+six in number, longitudinally impressly striated,
+columella twisted, callous at the edge, aperture
+small; transparent, glassy, obliquely painted with
+narrow reddish streaks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="152" y="1951"/>
+	<Point x="783" y="1951"/>
+	<Point x="783" y="2001"/>
+	<Point x="152" y="2001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc. 1845, p. 138.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="149" y="2003"/>
+	<Point x="504" y="2003"/>
+	<Point x="504" y="2043"/>
+	<Point x="149" y="2043"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Jamaica; Gosse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="148" y="2493"/>
+	<Point x="1046" y="2489"/>
+	<Point x="1046" y="2682"/>
+	<Point x="146" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LITTLE NEEDLE ACHATINA. Shell cylindrically
+subulate, somewhat fusiform, whorls six in number,
+smooth, polished, apex obtuse, columella arched,
+narrowly truncated; white, diaphanous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1099" y="486"/>
+	<Point x="1989" y="486"/>
+	<Point x="1989" y="530"/>
+	<Point x="1898" y="533"/>
+	<Point x="1099" y="530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.) vol. ix. p. 304</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1093" y="932"/>
+	<Point x="1986" y="932"/>
+	<Point x="1986" y="982"/>
+	<Point x="1284" y="977"/>
+	<Point x="1285" y="1013"/>
+	<Point x="1094" y="1015"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A light, shining, glassy shell, with a distinctly truncated
+columella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1092" y="1728"/>
+	<Point x="1980" y="1728"/>
+	<Point x="1980" y="1820"/>
+	<Point x="1092" y="1820"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A ﬁnely ribbed, truncated shell, of a brownish horn-
+colour, streaked irregularly with darker brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="heading">
+	<Coords>
+	<Point x="1333" y="1893"/>
+	<Point x="1736" y="1893"/>
+	<Point x="1736" y="1944"/>
+	<Point x="1333" y="1944"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 113. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="heading">
+	<Coords>
+	<Point x="1302" y="2135"/>
+	<Point x="1761" y="2135"/>
+	<Point x="1761" y="2186"/>
+	<Point x="1302" y="2186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 114. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="1090" y="2200"/>
+	<Point x="1988" y="2200"/>
+	<Point x="1988" y="2432"/>
+	<Point x="1090" y="2432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA GOSSEI. Achat. testâ subulatâ, aciculari, an‐
+fractibus decem, subremotè costatis, costis basin versus
+gradatim evanidis, juxta suturas fortioribus, columellâ
+obliquè arcuatâ, vix truncatâ, aperturâ minutâ, subdi-
+latatâ; sordidè albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="1094" y="2437"/>
+	<Point x="1991" y="2437"/>
+	<Point x="1991" y="2672"/>
+	<Point x="1265" y="2674"/>
+	<Point x="1094" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GOSSE’S ACHATINA. Shell subulate, ﬁnely pointed, whorls
+ten in number, somewhat remotely ribbed, ribs gra‐
+dually fading towards the base, stronger next the
+sutures, columella obliquely arched, scarcely trunca‐
+ted, aperture very small, rather dilated; dead white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords>
+	<Point x="385" y="483"/>
+	<Point x="835" y="483"/>
+	<Point x="835" y="528"/>
+	<Point x="385" y="528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 109. (Mus. Benson.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="163" y="540"/>
+	<Point x="1053" y="540"/>
+	<Point x="1053" y="728"/>
+	<Point x="163" y="728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA BALANUS. Achat. testâ cylindraceo-oblongâ,
+subfusiformi, anfractibus quatuor, lœvibus, nitidis, apice
+obtuso, columellâ arcuatâ, truncatâ, aperturâ parvâ;
+sordidè albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="145" y="2066"/>
+	<Point x="1046" y="2066"/>
+	<Point x="1046" y="2156"/>
+	<Point x="145" y="2156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A pretty little glassy shell, striped at rather distant
+intervals with red-brown lines.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="heading">
+	<Coords>
+	<Point x="368" y="2234"/>
+	<Point x="832" y="2234"/>
+	<Point x="832" y="2281"/>
+	<Point x="368" y="2281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 111. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="143" y="2290"/>
+	<Point x="1049" y="2290"/>
+	<Point x="1051" y="2482"/>
+	<Point x="831" y="2483"/>
+	<Point x="296" y="2489"/>
+	<Point x="143" y="2488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA ACICULA. Achat. testâ cylindraceo-subulatâ,
+subfusiformi, anfractibus sex, lœvibus, politis, apice
+obtuso, columellâ arcuatâ, angustè truncatâ; albâ,
+diaphanâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="1096" y="862"/>
+	<Point x="1742" y="866"/>
+	<Point x="1741" y="914"/>
+	<Point x="1096" y="914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Europe, including the British Isles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="heading">
+	<Coords>
+	<Point x="1304" y="1078"/>
+	<Point x="1769" y="1078"/>
+	<Point x="1769" y="1128"/>
+	<Point x="1304" y="1128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 112. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="1093" y="1138"/>
+	<Point x="1996" y="1138"/>
+	<Point x="1996" y="1332"/>
+	<Point x="1093" y="1332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA COSTULATA. Achat. testâ turritâ, anfractibus
+octo, rotundatis, longitudinaliter costulatis, columellâ
+subrectâ, truncatâ, aperturâ parvâ; pellucido-corneâ,
+strigis rufo-fuscis irregulariter pictâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords>
+	<Point x="1173" y="1622"/>
+	<Point x="1579" y="1625"/>
+	<Point x="1577" y="1662"/>
+	<Point x="1171" y="1662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Achatina Adamsi, Pfeiﬀer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords>
+	<Point x="1091" y="1668"/>
+	<Point x="1327" y="1668"/>
+	<Point x="1327" y="1709"/>
+	<Point x="1091" y="1709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Jamaica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords>
+	<Point x="1094" y="1336"/>
+	<Point x="1989" y="1336"/>
+	<Point x="1989" y="1564"/>
+	<Point x="1094" y="1564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE DELICATELY‐RIBBED ACHATINA. Shell turreted,
+whorls eight in number, rounded, longitudinally ﬁnely
+ribbed, columella nearly straight, truncated, aperture
+small; transparent horny, irregularly painted with
+red-brown streaks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords>
+	<Point x="1094" y="1568"/>
+	<Point x="1869" y="1568"/>
+	<Point x="1869" y="1619"/>
+	<Point x="1094" y="1619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ADAMS, Pro. Nat. Hist. Soc. Boston, 1845, p. 13.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="1129" y="1960"/>
+	<Point x="1973" y="1960"/>
+	<Point x="1976" y="2004"/>
+	<Point x="1189" y="2007"/>
+	<Point x="1126" y="2006"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>For description of this species, see Bulimus, Pl. LXX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords>
+	<Point x="1091" y="2009"/>
+	<Point x="1651" y="2009"/>
+	<Point x="1651" y="2053"/>
+	<Point x="1091" y="2053"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>For Achatina, Sp. 113, see Pl. XXI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="978" y="2693"/>
+	<Point x="1192" y="2693"/>
+	<Point x="1192" y="2735"/>
+	<Point x="978" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>March, 1850.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r68">
+	<Coords>
+	<Point x="375" y="1405"/>
+	<Point x="834" y="1405"/>
+	<Point x="834" y="1428"/>
+	<Point x="375" y="1428"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r69">
+	<Coords>
+	<Point x="381" y="2188"/>
+	<Point x="836" y="2188"/>
+	<Point x="836" y="2206"/>
+	<Point x="381" y="2206"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r71">
+	<Coords>
+	<Point x="1066" y="480"/>
+	<Point x="1086" y="484"/>
+	<Point x="1082" y="1368"/>
+	<Point x="1086" y="1762"/>
+	<Point x="1086" y="2675"/>
+	<Point x="1061" y="2674"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r72">
+	<Coords>
+	<Point x="1320" y="1022"/>
+	<Point x="1733" y="1022"/>
+	<Point x="1733" y="1054"/>
+	<Point x="1320" y="1054"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r73">
+	<Coords>
+	<Point x="1309" y="1851"/>
+	<Point x="1760" y="1851"/>
+	<Point x="1760" y="1872"/>
+	<Point x="1309" y="1872"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r74">
+	<Coords>
+	<Point x="1305" y="2081"/>
+	<Point x="1765" y="2081"/>
+	<Point x="1765" y="2104"/>
+	<Point x="1304" y="2103"/></Coords></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1171" y="534"/>
+	<Point x="1793" y="534"/>
+	<Point x="1793" y="861"/>
+	<Point x="1171" y="861"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum acicula, Müller.
+Buccinum terrestre, Montagu.
+Helix (Cochlicopa) acicula, De Férussac.
+Bulimus acicula, Bruguière.
+Achatina alba, Brown.
+Cionella acicula, Jeﬀreys.
+Acicula eburnea, Risso.</Unicode></TextEquiv></TextRegion></Page></PcGts>

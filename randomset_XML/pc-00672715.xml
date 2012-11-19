@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672715">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:32:55</Created>
+	<LastChange>2012-02-10T10:29:45</LastChange></Metadata>
+	<Page imageFilename="00672715.tif" imageWidth="1691" imageHeight="2328">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="151" y="113"/>
+	<Point x="1591" y="113"/>
+	<Point x="1591" y="514"/>
+	<Point x="151" y="514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>base in the species respectively) but are anatomically members of the group. A
+seventh species, B. loveridgii, may belong to the B. kerstenii group but it is excluded
+here because of its short barbels and slightly higher range of lateral-line scale counts.
+The latter character is, however, paralleled within the group by B. neumayeri. Rela-
+tively short barbels would also seem to exclude B. nyanzae Whitehead, a species
+known only from aﬄuent rivers in the Lake Victoria basin. But in this case the
+diﬀerence is less trenchant and the species is therefore included. When a more
+comprehensive deﬁnition of B. loveridgii is available it too may have to be added to
+the B. kerstenii group.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="159" y="517"/>
+	<Point x="1591" y="517"/>
+	<Point x="1591" y="910"/>
+	<Point x="159" y="910"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Barbus kerstenii appears to be polytypic, with at least one well-deﬁned subspecies in
+Lake Luhondo (see p. 172) and possibly two others representing the northern and
+southern populations of its range in East Africa. The ranges of B. neumayeri,
+B. pellegrini and B. kerstenii overlap in several regions (Kenya, Uganda, and in Lake
+Tanganyika) but that of B. eutaenia is distinct except for ﬁshes in Ruanda Urundi
+(see p. 176). Barbus tangandensis also has a distinct range (Rhodesia), but the species
+may be considered as the regional representative of the B. kerstenii stock (see p. 175).
+Within its restricted range, the distribution of B. nyanzae overlaps that of B. neumayeri
+and B. kerstenii.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="148" y="913"/>
+	<Point x="1597" y="913"/>
+	<Point x="1597" y="1267"/>
+	<Point x="148" y="1267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The third group (scales small to moderate [lateral line with 28-30 scales] dorsal
+and pelvic ﬁn origins in the same perpendicular line, last unbranched dorsal ray
+spinous and serrated, snout strongly decurved, broad preorbital face and barbels
+well-developed) comprises two rather poorly known species, Barbus sexradiatus
+(endemic to Lake Victoria) and B. laticeps (only recorded from the Wami River
+system of Tanganyika). The broad head and strongly decurved snout are the most
+obvious characteristics of the group. Until more specimens are available, particularly
+of B. sexradiatus, little more can be said.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="155" y="1271"/>
+	<Point x="1598" y="1271"/>
+	<Point x="1598" y="1624"/>
+	<Point x="156" y="1625"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The fourth and last group also comprises two species, Barbus trimaculatus and
+B. jacksonii; it is characterized by small scales (30–39 in the lateral line, modal
+ranges for the species 32–33 and 37–38 respectively), enlarged, spinous but non-
+serrate last unbranched dorsal ray, and well-developed barbels. In addition, both
+species have three distinct midlateral spots on the ﬂanks, but this is not necessarily
+to be considered a group character. There is a clear gap in the distribution of these
+species, and each could be considered the geographical representative of the other
+(see p. 185).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="150" y="1628"/>
+	<Point x="1597" y="1627"/>
+	<Point x="1597" y="1755"/>
+	<Point x="150" y="1755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>There remain three species, B. zanzibaricus, B. magdalenae and B. apleurogramma
+which cannot be placed in any group within the broad geographical region of East,
+Central, and southern Africa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="154" y="1758"/>
+	<Point x="1601" y="1758"/>
+	<Point x="1601" y="1935"/>
+	<Point x="154" y="1935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Barbus zanzibaricus, a species of relatively restricted distribution, shows certain
+aﬃnities with the B. kerstenii group, but is perhaps more closely allied to B. argenteus
+of Angola. Its group relationship must await further analysis, particularly of the West
+African species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="154" y="1937"/>
+	<Point x="1604" y="1937"/>
+	<Point x="1604" y="2066"/>
+	<Point x="154" y="2066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Barbus magdalenae, a Lake Victoria endemic, is unlikely to be grouped with any
+described species of eastern or western Africa; consequently its phyletic relationships
+also remain obscure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="191" y="2068"/>
+	<Point x="1594" y="2068"/>
+	<Point x="1594" y="2120"/>
+	<Point x="191" y="2120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The third species, B. apleurogramma, diﬀers from the other two in having a much</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="154" y="52"/>
+	<Point x="222" y="52"/>
+	<Point x="222" y="95"/>
+	<Point x="154" y="95"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>204</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="251" y="50"/>
+	<Point x="1498" y="50"/>
+	<Point x="1498" y="90"/>
+	<Point x="251" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A REVISION OF CERTAIN BARBUS SPECIES FROM AFRICA</Unicode></TextEquiv></TextRegion></Page></PcGts>

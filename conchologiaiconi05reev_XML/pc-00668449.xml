@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668449">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T18:31:46</Created>
+	<LastChange>2012-02-10T09:53:11</LastChange></Metadata>
+	<Page imageFilename="00668449.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r39" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r47" index="6"/>
+	<RegionRefIndexed regionRef="r53" index="7"/>
+	<RegionRefIndexed regionRef="r55" index="8"/>
+	<RegionRefIndexed regionRef="r61" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/>
+	<RegionRefIndexed regionRef="r63" index="14"/>
+	<RegionRefIndexed regionRef="r69" index="15"/>
+	<RegionRefIndexed regionRef="r15" index="16"/>
+	<RegionRefIndexed regionRef="r16" index="17"/>
+	<RegionRefIndexed regionRef="r17" index="18"/>
+	<RegionRefIndexed regionRef="r71" index="19"/>
+	<RegionRefIndexed regionRef="r19" index="20"/>
+	<RegionRefIndexed regionRef="r21" index="21"/>
+	<RegionRefIndexed regionRef="r22" index="22"/>
+	<RegionRefIndexed regionRef="r23" index="23"/>
+	<RegionRefIndexed regionRef="r24" index="24"/>
+	<RegionRefIndexed regionRef="r25" index="25"/>
+	<RegionRefIndexed regionRef="r26" index="26"/>
+	<RegionRefIndexed regionRef="r27" index="27"/>
+	<RegionRefIndexed regionRef="r28" index="28"/>
+	<RegionRefIndexed regionRef="r29" index="29"/>
+	<RegionRefIndexed regionRef="r30" index="30"/>
+	<RegionRefIndexed regionRef="r31" index="31"/>
+	<RegionRefIndexed regionRef="r32" index="32"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="816" y="263"/>
+	<Point x="1212" y="263"/>
+	<Point x="1212" y="326"/>
+	<Point x="816" y="326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="894" y="367"/>
+	<Point x="1136" y="367"/>
+	<Point x="1136" y="409"/>
+	<Point x="894" y="409"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XLVII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="103" y="770"/>
+	<Point x="1000" y="770"/>
+	<Point x="1000" y="1061"/>
+	<Point x="103" y="1061"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE STRIPED BULIMUS. Shell cylindrically turreted,
+sinistral, somewhat Pupa-shaped, diaphanous, umbi-
+licated, whorls nine in number, convex, obliquely
+striated, aperture small, rounded, lip ﬂatly reﬂected;
+light transparent brown, obliquely marked with opake
+white stripes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="105" y="1063"/>
+	<Point x="776" y="1063"/>
+	<Point x="776" y="1108"/>
+	<Point x="105" y="1108"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HUTTON, MS., Pfeiﬀer, Monog. Bul. p. 118.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="100" y="1684"/>
+	<Point x="993" y="1684"/>
+	<Point x="993" y="1926"/>
+	<Point x="100" y="1926"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PLAYTHING BULIMUS. Shell somewhat pyramidally
+ovate, thin, diaphanous, umbilicated, whorls seven in
+number, very ﬁnely roughly striated, columella re‐
+ﬂected, lip simple; transparent horny, obliquely
+marked here and there with opake white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="100" y="1928"/>
+	<Point x="992" y="1928"/>
+	<Point x="992" y="2013"/>
+	<Point x="100" y="2013"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D’ORBIGNY, Voy. dans l’Amér. Mérid. p. 275. pl. 33. f. 18,
+19.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="101" y="2023"/>
+	<Point x="484" y="2023"/>
+	<Point x="484" y="2071"/>
+	<Point x="101" y="2071"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Chiquitos, Bolivia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="102" y="2087"/>
+	<Point x="995" y="2087"/>
+	<Point x="995" y="2184"/>
+	<Point x="102" y="2184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is probably not without some doubt that Dr. Pfeiﬀer
+assigns this shell to the B. crepundia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="104" y="2555"/>
+	<Point x="999" y="2555"/>
+	<Point x="999" y="2652"/>
+	<Point x="104" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BACHELOR BULIMUS. Shell cylindrical, Pupa
+shaped, thin, diaphanous, broadly umbilicated, whorls</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1112" y="446"/>
+	<Point x="1931" y="446"/>
+	<Point x="1931" y="601"/>
+	<Point x="1112" y="601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eight in number, obliquely striated, columella broadly
+reﬂected, lip expanded, not reﬂected, transparent
+horny, obliquely marked with opake-white streaks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1044" y="604"/>
+	<Point x="1725" y="604"/>
+	<Point x="1725" y="647"/>
+	<Point x="1044" y="647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BENSON, MS., Pfeiﬀer, Monog. Bul. p. 119.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="heading">
+	<Coords>
+	<Point x="1268" y="987"/>
+	<Point x="1710" y="987"/>
+	<Point x="1710" y="1034"/>
+	<Point x="1268" y="1034"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 302. (Mus. Benson.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1038" y="1049"/>
+	<Point x="1937" y="1049"/>
+	<Point x="1937" y="1287"/>
+	<Point x="1038" y="1287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS GRIFFITHSII. Bul. testâ elongatâ, subcylindra-
+ceâ, umbilicatâ, anfractibus octo, subplanulatis, lœvibus,
+columella latè reﬂexâ, aperturâ subobliquè productâ,
+labro expanso, non reﬂexo; peculiariter calcareo-albâ,
+aperturœ fauce pallidè aurantio-fuscescente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1038" y="1289"/>
+	<Point x="1938" y="1289"/>
+	<Point x="1938" y="1579"/>
+	<Point x="1038" y="1579"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GRIFFITH’S BULIMUS. Shell elongated, somewhat cylin‐
+drical, umbilicated, whorls eight in number, rather
+ﬂattened, smooth, columella reﬂected, aperture some-
+what obliquely produced, lip expanded, not reﬂected;
+of a peculiar chalk-white, tinged in the interior with
+pale orange-brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1041" y="1582"/>
+	<Point x="1262" y="1582"/>
+	<Point x="1262" y="1620"/>
+	<Point x="1041" y="1620"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BENSON, MS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1042" y="1627"/>
+	<Point x="1582" y="1627"/>
+	<Point x="1582" y="1674"/>
+	<Point x="1042" y="1674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Afghanistan, India; Griﬃth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1041" y="1691"/>
+	<Point x="1932" y="1691"/>
+	<Point x="1932" y="1829"/>
+	<Point x="1041" y="1829"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Named by Mr. Benson after the lamented botanist
+Dr. Griﬃth, by whom the specimen here ﬁgured was col‐
+lected.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords>
+	<Point x="1253" y="1902"/>
+	<Point x="1713" y="1902"/>
+	<Point x="1713" y="1961"/>
+	<Point x="1253" y="1961"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 303. (Mus. Benson.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1043" y="1973"/>
+	<Point x="1939" y="1973"/>
+	<Point x="1941" y="2208"/>
+	<Point x="1042" y="2209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS SINDICUS. Bul. testâ cylindraceo-elongatâ, latè
+umbilicatâ, anfractibus novem, plano-convexis, lœvibus
+aut concentricè striatis, aperturâ parvâ, columellâ la-
+broque expansis, vix reﬂexis; griseo-albâ, strigis pel-
+lucidis hic illic obliquè notatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1043" y="2214"/>
+	<Point x="1942" y="2214"/>
+	<Point x="1942" y="2502"/>
+	<Point x="1043" y="2502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SINDE BULIMUS. Shell cylindrically elongated,
+broadly umbilicated, whorls nine in number, ﬂatly
+convex, smooth or concentrically striated, aperture
+small, lip and columella expanded, but slightly re‐
+ﬂected; greyish white, here and there obliquely
+marked with pellucid streaks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1044" y="2505"/>
+	<Point x="1262" y="2505"/>
+	<Point x="1262" y="2544"/>
+	<Point x="1044" y="2544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BENSON, MS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1042" y="2550"/>
+	<Point x="1936" y="2550"/>
+	<Point x="1936" y="2636"/>
+	<Point x="1042" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Near the head waters of the river Sinde, India; Ben‐
+son.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="886" y="2680"/>
+	<Point x="1158" y="2680"/>
+	<Point x="1158" y="2723"/>
+	<Point x="886" y="2723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>November, 1848.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r33">
+	<Coords>
+	<Point x="1011" y="465"/>
+	<Point x="1011" y="2647"/>
+	<Point x="1031" y="2647"/>
+	<Point x="1031" y="465"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r34">
+	<Coords>
+	<Point x="1286" y="927"/>
+	<Point x="1286" y="962"/>
+	<Point x="1716" y="962"/>
+	<Point x="1716" y="927"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r35">
+	<Coords>
+	<Point x="1247" y="1855"/>
+	<Point x="1247" y="1884"/>
+	<Point x="1731" y="1884"/>
+	<Point x="1731" y="1855"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r36">
+	<Coords>
+	<Point x="319" y="2212"/>
+	<Point x="319" y="2241"/>
+	<Point x="790" y="2241"/>
+	<Point x="790" y="2212"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r37">
+	<Coords>
+	<Point x="315" y="1329"/>
+	<Point x="315" y="1355"/>
+	<Point x="783" y="1355"/>
+	<Point x="783" y="1329"/></Coords></SeparatorRegion>
+	<TextRegion id="r39" type="heading">
+	<Coords>
+	<Point x="326" y="461"/>
+	<Point x="788" y="461"/>
+	<Point x="788" y="511"/>
+	<Point x="578" y="509"/>
+	<Point x="326" y="511"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 299. (Mus. Benson.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="105" y="524"/>
+	<Point x="999" y="524"/>
+	<Point x="999" y="768"/>
+	<Point x="105" y="768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS VIBEX. Bul. testâ cylindraceo-turritâ, sinistrali,
+sub-Pupiformi, diaphanâ, umbilicatâ, anfractibus no-
+vem, convexis, obliquè striatis, aperturâ parvâ, rotun-
+datâ, labro plano-reﬂexo; pellucido-fuscescente, strigis
+opaco-albis obliquè notatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="103" y="1111"/>
+	<Point x="990" y="1111"/>
+	<Point x="990" y="1209"/>
+	<Point x="103" y="1209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Simla and Landour, Western Himalaya, India
+(among moss); Benson.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="98" y="1218"/>
+	<Point x="995" y="1218"/>
+	<Point x="995" y="1322"/>
+	<Point x="98" y="1322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A reversed cylindrical shell partaking very much of the
+character of Pupa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="heading">
+	<Coords>
+	<Point x="319" y="1381"/>
+	<Point x="785" y="1381"/>
+	<Point x="785" y="1437"/>
+	<Point x="319" y="1437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 300. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords>
+	<Point x="105" y="1445"/>
+	<Point x="994" y="1445"/>
+	<Point x="994" y="1679"/>
+	<Point x="105" y="1679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS CREPUNDIA. Bul. testâ subpyramidali-ovatâ,
+tenui, diaphanâ, umbilicatâ, anfractibus septem, sub-
+tilissimè rugoso-striatis, columellâ reﬂexâ, labro sim-
+plici; pellucido-corneâ, opaco-albo hic illic obliquè
+notatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="heading">
+	<Coords>
+	<Point x="327" y="2247"/>
+	<Point x="775" y="2247"/>
+	<Point x="775" y="2302"/>
+	<Point x="327" y="2302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 301. (Mus. Benson.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords>
+	<Point x="98" y="2312"/>
+	<Point x="1000" y="2312"/>
+	<Point x="1000" y="2547"/>
+	<Point x="98" y="2547"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS CŒLEBS. Bul. testâ cylindraceâ, Pupiformi,
+tenui, diaphanâ, latè umbilicatâ, anfractibus octo, obliquè
+striatis, columellâ latè reﬂexâ, labro expanso non re-
+ﬂexo; pellucido-corneâ, strigis opaco-albis obliquè
+notatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords>
+	<Point x="1042" y="650"/>
+	<Point x="1753" y="650"/>
+	<Point x="1935" y="649"/>
+	<Point x="1934" y="742"/>
+	<Point x="1040" y="743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Landour and Keamaon, Western Himalaya, India,
+(on dead stems of the wild Indigo); Benson.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1040" y="758"/>
+	<Point x="1933" y="758"/>
+	<Point x="1933" y="907"/>
+	<Point x="1040" y="907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This and the two preceding species are of the same
+texture, a transparent horny substance, obliquely marked
+with opake white streaks.</Unicode></TextEquiv></TextRegion></Page></PcGts>

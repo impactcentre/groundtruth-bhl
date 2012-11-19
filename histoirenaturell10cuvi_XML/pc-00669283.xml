@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669283">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:47:14</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669283.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="71" y="263"/>
+	<Point x="1501" y="263"/>
+	<Point x="1501" y="1356"/>
+	<Point x="71" y="1356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Nilson1 compte aussi le gymnogastre
+dans son prodrome de l’ichthyologie scan‐
+dinave. Ce poisson n’est, suivant lui, et ce qui
+est conforme à ce que l’on observe sur les bords
+de la Méditerranée, presque jamais pris dans
+les ﬁlets des pécheurs; mais il est jeté sur
+la grève par la tempête. Il serait moins rare
+en Islande que sur les côtes de Norwége, car
+M. Nilson s’exprime ainsi: raro in Islandiœ,
+rarissime in Norwegiœ borealis littora. Le
+seul individu qu’il sache avoir été pris sur les
+côtes de Norwége, est conservé dans le Mu‐
+sée de Stockholm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="68" y="1365"/>
+	<Point x="1129" y="1365"/>
+	<Point x="1503" y="1362"/>
+	<Point x="1505" y="2476"/>
+	<Point x="69" y="2476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est à regretter que ces deux savans zoo‐
+logistes n’aient pas vériﬁé les nombres des
+rayons de la dorsale de leur individu; car
+nous devons faire remarquer la diﬀérence
+assez grande qui existe entre les nombres
+de rayons notés par Brünnich, à la vérité,
+avec un point de doute (200?), et ceux que
+nous comptons. Si les nombres de Brünnich
+étaient à très-peu de chose près exacts, on
+ne pourrait expliquer cette diﬀérence de
+vingt-cinq rayons entre les deux dorsales,
+que par une variété qui serait peut-être même
+spéciﬁque.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="138" y="2564"/>
+	<Point x="892" y="2564"/>
+	<Point x="892" y="2641"/>
+	<Point x="138" y="2641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Prod. ichthyol. Scand., p. 106.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1326" y="158"/>
+	<Point x="1494" y="158"/>
+	<Point x="1494" y="232"/>
+	<Point x="1326" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>351</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="474" y="166"/>
+	<Point x="1100" y="166"/>
+	<Point x="1100" y="235"/>
+	<Point x="474" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="97" y="2494"/>
+	<Point x="95" y="2541"/>
+	<Point x="1510" y="2541"/>
+	<Point x="1507" y="2497"/></Coords></SeparatorRegion></Page></PcGts>

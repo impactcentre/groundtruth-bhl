@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668434">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T21:28:40</Created>
+	<LastChange>2012-02-10T09:53:05</LastChange></Metadata>
+	<Page imageFilename="00668434.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/>
+	<RegionRefIndexed regionRef="r12" index="9"/>
+	<RegionRefIndexed regionRef="r13" index="10"/>
+	<RegionRefIndexed regionRef="r14" index="11"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="502" y="250"/>
+	<Point x="1204" y="250"/>
+	<Point x="1204" y="308"/>
+	<Point x="502" y="308"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 273. (Fig. a and b, Mus. Dennison.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="401" y="315"/>
+	<Point x="1300" y="315"/>
+	<Point x="1300" y="647"/>
+	<Point x="401" y="647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS MURRINUS. Bul. testâ fusiformi-ovatâ, vix umbi-
+licatâ, anfractibus sex, convexis, lœvibus, politis, ultimo
+basi subproductâ et attenuatâ; aperturâ suboblongâ,
+infernè leviter sinuatâ, labro expanso, vix reﬂexo;
+albidâ, livido-olivaceo aut cœruleo-nigro longitudinaliter
+strigatâ et transversim fasciatâ, aperturœ fauce vividè
+purpureâ, labro albo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="404" y="651"/>
+	<Point x="1303" y="651"/>
+	<Point x="1304" y="1037"/>
+	<Point x="836" y="1037"/>
+	<Point x="822" y="1030"/>
+	<Point x="404" y="1030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PORCELAIN BULIMUS. Shell fusiformly ovate,
+scarcely umbilicated, whorls six in number, convex,
+smooth, polished, last whorl somewhat produced and
+attenuated at the base; aperture rather oblong,
+slightly sinuated at the lower part, lip expanded,
+scarcely reﬂected; whitish, longitudinally streaked
+and transversely banded with livid olive or blue-black,
+interior of the aperture rich purple, lip white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="406" y="1032"/>
+	<Point x="813" y="1032"/>
+	<Point x="813" y="1077"/>
+	<Point x="406" y="1077"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Santa Fé di Bogota.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="441" y="1088"/>
+	<Point x="1306" y="1088"/>
+	<Point x="1306" y="1142"/>
+	<Point x="441" y="1142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A beautifully painted species from the collection of</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1342" y="253"/>
+	<Point x="2253" y="253"/>
+	<Point x="2253" y="356"/>
+	<Point x="1342" y="356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J. Dennison, Esq., nearest allied to the B. linostoma of
+D’Orbigny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="1555" y="430"/>
+	<Point x="2042" y="430"/>
+	<Point x="2042" y="484"/>
+	<Point x="1555" y="484"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 274. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1346" y="500"/>
+	<Point x="2253" y="500"/>
+	<Point x="2253" y="740"/>
+	<Point x="1346" y="740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS CEYLANICUS. Bul. testâ conico-ovatâ, solidius-
+culâ, spirœ suturis impressis; anfractibus sex, plano-
+convexis, obliquè striatis, columellâ latè reﬂexâ, aper‐
+turâ parvâ, labro expanso, vix reﬂexo; intus extusque
+albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1344" y="745"/>
+	<Point x="2252" y="745"/>
+	<Point x="2252" y="984"/>
+	<Point x="1344" y="984"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CEYLON BULIMUS. Shell conically ovate, rather
+solid, sutures of the spire impressed; whorls six in
+number, ﬂatly convex, obliquely striated, columella
+broadly reﬂected, aperture small, lip expanded, but
+slightly reﬂected; white within and distant.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1345" y="986"/>
+	<Point x="2011" y="986"/>
+	<Point x="2011" y="1030"/>
+	<Point x="1345" y="1030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Monog. Hel. viv., vol. ii. p. 59.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1344" y="1034"/>
+	<Point x="1561" y="1034"/>
+	<Point x="1561" y="1080"/>
+	<Point x="1344" y="1080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Ceylon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1383" y="1098"/>
+	<Point x="2104" y="1098"/>
+	<Point x="2104" y="1145"/>
+	<Point x="1383" y="1145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A rather stout shell of a peculiar conical form.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="1566" y="383"/>
+	<Point x="2036" y="383"/>
+	<Point x="2036" y="414"/>
+	<Point x="1566" y="414"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="1112" y="1436"/>
+	<Point x="1583" y="1436"/>
+	<Point x="1583" y="1471"/>
+	<Point x="1112" y="1471"/></Coords></SeparatorRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1078" y="167"/>
+	<Point x="1558" y="167"/>
+	<Point x="1558" y="218"/>
+	<Point x="1078" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE XLIII.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r18">
+	<Coords>
+	<Point x="1310" y="260"/>
+	<Point x="1310" y="1136"/>
+	<Point x="1333" y="1136"/>
+	<Point x="1333" y="260"/></Coords></SeparatorRegion></Page></PcGts>

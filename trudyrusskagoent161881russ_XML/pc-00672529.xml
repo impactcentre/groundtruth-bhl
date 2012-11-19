@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672529">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T22:22:49</Created>
+	<LastChange>2012-02-10T09:55:07</LastChange></Metadata>
+	<Page imageFilename="00672529.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="751" y="182"/>
+	<Point x="1062" y="182"/>
+	<Point x="1062" y="251"/>
+	<Point x="751" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 333 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="49" y="316"/>
+	<Point x="1771" y="316"/>
+	<Point x="1771" y="487"/>
+	<Point x="49" y="487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von der Gestalt des Bagous Frivaldszkyi Tourn., aber
+kürzer, hinten mehr gerundet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="46" y="491"/>
+	<Point x="1801" y="491"/>
+	<Point x="1801" y="1976"/>
+	<Point x="46" y="1976"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rüssel gebogen, wie der Kopf glatt, glänzend, sehr fein
+und sparsam punktirt, in den Kopf eingepﬂanzt, aber an der
+Basis nicht abgeschnürt, dennoch hier niedriger als an der
+Spitze, so lang als Kopf und Halsschild; Fühler schlanker als
+bei den 3 vorhergehenden Arten. Geisselglied 1=2+3+4,
+von ihnen 2 fast so lang als breit, nur wenig länger als die
+übrigen gleichlangen, zur Keule hin nur wenig breitern, letz-
+tere länglich weiss seidenschimmernd. Halsschild mit paral-
+lelen Seiten vorne plötzlich verengt, hinten die Ecken etwas
+eingezogen, beiderseits am Grunde mit einem ﬂachen Längs-
+eindruck; Schildchen punktförmig; Decken kaum breiter als
+der Thorax in der Mitte, aber doppelt so lang, Seiten pa-
+rallel, Schultern ﬂach, Spitze stumpf gerundet, innerhalb der
+Schultern ﬂach niedergedrückt, fein punktirt gestreift mit ﬂa-
+chen Zwischenräumen. Prosternum vorne gerade abgeschnitten,
+der Interkoxalfortsatz hinter den Hüften nicht erhaben, nicht
+erweitert; Tarsen gestreckt, die 3 ersten Glieder kaum an
+Länge und Breite verschieden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="46" y="1982"/>
+	<Point x="1791" y="1982"/>
+	<Point x="1791" y="2564"/>
+	<Point x="46" y="2564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der ganze Körper ist mit aneinanderliegenden runden, auf
+dem Thorax etwas gewölbten, gelbgrauen Schuppen dicht be-
+deckt, 2 Längsbinden auf diesem, je 1 viereckige Makel an
+der Basis des 3 und 7 und zwei undeutliche Punkte hinten
+auf 4 und 5. Zwischenraum weisslich beschuppt, jeder Punkt
+in den Deckenstreifen trägt eine weissliche, längliche, anlie-
+gende Schuppe gleich einer dicken Borste.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="160" y="2576"/>
+	<Point x="1373" y="2576"/>
+	<Point x="1373" y="2666"/>
+	<Point x="160" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ein ♀(?) von mir bei Astrachan gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="207" y="2778"/>
+	<Point x="1017" y="2778"/>
+	<Point x="1017" y="2849"/>
+	<Point x="207" y="2849"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gouvernement Minsk, Februar 1881.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="785" y="3000"/>
+	<Point x="1078" y="3000"/>
+	<Point x="1078" y="3028"/>
+	<Point x="785" y="3028"/></Coords></SeparatorRegion></Page></PcGts>

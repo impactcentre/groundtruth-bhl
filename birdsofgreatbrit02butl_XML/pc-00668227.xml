@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668227">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T20:16:33</Created>
+	<LastChange>2012-02-10T09:52:45</LastChange></Metadata>
+	<Page imageFilename="00668227.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r17" index="4"/>
+	<RegionRefIndexed regionRef="r23" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r39" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r27" index="11"/>
+	<RegionRefIndexed regionRef="r33" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/>
+	<RegionRefIndexed regionRef="r35" index="14"/>
+	<RegionRefIndexed regionRef="r38" index="15"/>
+	<RegionRefIndexed regionRef="r37" index="16"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="995" y="250"/>
+	<Point x="1240" y="250"/>
+	<Point x="1240" y="307"/>
+	<Point x="995" y="307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>APPENDIX</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1938" y="264"/>
+	<Point x="2035" y="264"/>
+	<Point x="2035" y="311"/>
+	<Point x="1938" y="311"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>203</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="178" y="364"/>
+	<Point x="2030" y="364"/>
+	<Point x="2030" y="495"/>
+	<Point x="178" y="495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Missel Thrush is supposed to have bred on Stornoway, Outer Hebrides,
+since 1902, and is believed to be increasing in Ireland.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="173" y="500"/>
+	<Point x="2047" y="500"/>
+	<Point x="2047" y="619"/>
+	<Point x="173" y="619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>White's Thrush was again shot in Yorkshire (near Halifax), December 18th,
+1902.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="273" y="623"/>
+	<Point x="1623" y="623"/>
+	<Point x="1623" y="678"/>
+	<Point x="273" y="678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Blackbird now breeds in the extreme west of Ireland.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="269" y="687"/>
+	<Point x="2040" y="687"/>
+	<Point x="2040" y="754"/>
+	<Point x="269" y="754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Ring-Ouzel is said to have nested near Osborne, Isle of Wight, in 1906.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="583" y="1109"/>
+	<Point x="1645" y="1109"/>
+	<Point x="1645" y="1178"/>
+	<Point x="583" y="1178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BLACK-EARED WHEATEAR.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="823" y="1245"/>
+	<Point x="1392" y="1245"/>
+	<Point x="1392" y="1314"/>
+	<Point x="823" y="1314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Saxicola stapazina, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="314" y="1546"/>
+	<Point x="314" y="1357"/>
+	<Point x="2057" y="1357"/>
+	<Point x="2057" y="1738"/>
+	<Point x="159" y="1738"/>
+	<Point x="159" y="1546"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>male was shot near Polegate, Sussex, on May 28th, 1902, and on May 24th
+1905, another was shot near Hoo, Sussex; on the 9th September of the
+same year, a third was shot near Pett, Sussex; a male was shot at
+Winchelsea on May 2nd, 1907. The name stapazina was given in error, by Mr.
+Howard Saunders, to the Black-throated species, which should now stand as
+Saxicola occidentalis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="164" y="1840"/>
+	<Point x="2059" y="1840"/>
+	<Point x="2059" y="1969"/>
+	<Point x="164" y="1969"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A male of the Desert Wheatear Saxicola deserti was captured at the lighthouse
+(Pentland Skerries), on June 2nd, 1906.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="650" y="2323"/>
+	<Point x="1580" y="2323"/>
+	<Point x="1580" y="2400"/>
+	<Point x="650" y="2400"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SIBERIAN STONECHAT.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="992" y="854"/>
+	<Point x="1226" y="854"/>
+	<Point x="1226" y="885"/>
+	<Point x="992" y="885"/></Coords></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="173" y="969"/>
+	<Point x="694" y="969"/>
+	<Point x="694" y="1031"/>
+	<Point x="173" y="1031"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—TURDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1445" y="978"/>
+	<Point x="2047" y="978"/>
+	<Point x="2047" y="1035"/>
+	<Point x="1445" y="1035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—TURDINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="997" y="1759"/>
+	<Point x="1230" y="1759"/>
+	<Point x="1230" y="1788"/>
+	<Point x="997" y="1788"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r25">
+	<Coords>
+	<Point x="997" y="2073"/>
+	<Point x="1240" y="2073"/>
+	<Point x="1240" y="2100"/>
+	<Point x="997" y="2100"/></Coords></SeparatorRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="183" y="2195"/>
+	<Point x="715" y="2195"/>
+	<Point x="715" y="2254"/>
+	<Point x="183" y="2254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—TURDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="1450" y="2192"/>
+	<Point x="2050" y="2192"/>
+	<Point x="2050" y="2250"/>
+	<Point x="1450" y="2250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—TURDINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="heading">
+	<Coords>
+	<Point x="821" y="2461"/>
+	<Point x="1409" y="2461"/>
+	<Point x="1409" y="2545"/>
+	<Point x="821" y="2545"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pratincola maura, PALL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="326" y="2591"/>
+	<Point x="1714" y="2591"/>
+	<Point x="1714" y="2661"/>
+	<Point x="326" y="2661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>male was shot near Cley, Norfolk, on September 2nd, 1904.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="drop-capital">
+	<Coords>
+	<Point x="192" y="2593"/>
+	<Point x="309" y="2593"/>
+	<Point x="309" y="2757"/>
+	<Point x="192" y="2757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="drop-capital">
+	<Coords>
+	<Point x="179" y="1367"/>
+	<Point x="179" y="1524"/>
+	<Point x="306" y="1524"/>
+	<Point x="306" y="1367"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion></Page></PcGts>

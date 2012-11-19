@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672566">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:58:35</Created>
+	<LastChange>2012-02-10T09:55:11</LastChange></Metadata>
+	<Page imageFilename="00672566.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1019" y="100"/>
+	<Point x="1342" y="100"/>
+	<Point x="1342" y="176"/>
+	<Point x="1019" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 370 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="311" y="235"/>
+	<Point x="2057" y="235"/>
+	<Point x="2057" y="511"/>
+	<Point x="311" y="511"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La costa est d'un jaune-soufre, ou bien, d'un jaune-ver-
+dâtre dans son parcours de la base à la moitié de la lon-
+gueur de l'aile antérieure, ou à peu-près.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="314" y="521"/>
+	<Point x="2069" y="521"/>
+	<Point x="2069" y="1285"/>
+	<Point x="314" y="1285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le fond des premières ailes, à la base, ainsi que devant
+le limbe extérieur, est plus ou moins entremêlé d'écailles noires.
+Le limbe lui-même est étroit et évasé dans la plus grande
+partie de son parcours; mais il s'élargit à l'apex de l'aile et
+quelquefois aussi avant d'atteindre le bord interne. Ce limbe,
+plus ou moins saupoudré d'atomes verdâtres, est généralement
+traversé par quelques nervures jaunes, ou jaunâtres, dans
+l'apex, qui s'élargissent parfois intérieurement en taches
+jaunes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="314" y="1295"/>
+	<Point x="2076" y="1295"/>
+	<Point x="2076" y="1966"/>
+	<Point x="314" y="1966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le point discocellulaire brun-noir, est souvent écaillé de
+fauve, dans son milieu, et varie beaucoup, quant à la forme.
+Les bords, antérieur et anal, des secondes ailes sont d'un
+jaune verdâtre et plus ou moins richement sablés de noir. Le
+limbe extérieur noir, plus étroit qu'aux premières ailes, s'ar-
+rète généralement à la moitié de la marge extérieure des se-
+condes ailes: souvent il est traversé par les nervures jaunes,
+plus ou moins larges.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="307" y="1990"/>
+	<Point x="2071" y="1990"/>
+	<Point x="2071" y="2592"/>
+	<Point x="307" y="2592"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La frange, qui est large, d'un rose-indécis aux ailes
+antérieures, est plus ou moins nettement séparée du limbe, par
+un liseré jaune. Aux secondes ailes, la frange est rosâtre ou
+jaune sur le bord extérieur; mais toujours d'un rose-carmin
+vers l'angle anal et le long du bord intérieur. La tache em-
+pesée, à la base des secondes ailes, comme l'ont plusieurs
+autres Coliades, manque complêtement à la Staudingeri.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="307" y="2604"/>
+	<Point x="2073" y="2604"/>
+	<Point x="2073" y="3047"/>
+	<Point x="307" y="3047"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La tâche discocellulaire, d'un fauve rougeâtre, est à peîne
+perceptible. Le ♂ ﬁguré est le seul que j'ai pris dont le
+fond des ailes antérieures ne soit pas mêlé d'écailles noires,
+mais il a, en compensation, un reﬂet lilacé des plus intenses
+et du plus charmant eﬀet.</Unicode></TextEquiv></TextRegion></Page></PcGts>

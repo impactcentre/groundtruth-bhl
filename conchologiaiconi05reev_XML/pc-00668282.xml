@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668282">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T01:54:39</Created>
+	<LastChange>2012-02-10T09:52:50</LastChange></Metadata>
+	<Page imageFilename="00668282.tif" imageWidth="2526" imageHeight="3172">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r14" index="5"/>
+	<RegionRefIndexed regionRef="r16" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="321" y="241"/>
+	<Point x="1205" y="241"/>
+	<Point x="1205" y="339"/>
+	<Point x="321" y="339"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sciously intercepted in the present instance by Mr. Lea of
+Philadelphia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="414" y="387"/>
+	<Point x="1115" y="387"/>
+	<Point x="1115" y="439"/>
+	<Point x="414" y="439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 23. (Fig. a, b, and c. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="325" y="448"/>
+	<Point x="1207" y="448"/>
+	<Point x="1207" y="686"/>
+	<Point x="325" y="686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS FULGETRUM. Bul. testâ oblongo-ovatâ, subven-
+tricosâ, anfractibus quinis, ultimo majusculo, columellâ
+vix arcuatâ; ustulato-fuscâ et ﬂavicante, epidermide
+in strigis albis opacis variè undatis, subdistantibus,
+peritremate albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="321" y="690"/>
+	<Point x="1205" y="690"/>
+	<Point x="1205" y="836"/>
+	<Point x="321" y="836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LIGHTNING‐MARKED BULIMUS. Shell oblong-ovate,
+somewhat ventricose, whorls ﬁve in number, last
+whorl rather large, columella slightly curved; burnt-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1245" y="507"/>
+	<Point x="2139" y="507"/>
+	<Point x="2139" y="841"/>
+	<Point x="1245" y="841"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Of all the species collected by Mr. Cuming at the
+Philippine Islands, this has, perhaps, most excited the
+admiration of amateurs. The electrical ﬂashes, so to
+speak, of light satiny epidermis which descend from the
+sutures are peculiarly striking, and unlike anything that
+had been seen before. The ground colour of the shell
+varies from a rich burnt-brown to a pale lemon colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1314" y="250"/>
+	<Point x="2143" y="250"/>
+	<Point x="2143" y="389"/>
+	<Point x="1314" y="389"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>brown or yellowish, with the epidermis in rather
+distant variously waved opake white streaks, peri-
+treme white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1248" y="391"/>
+	<Point x="1910" y="391"/>
+	<Point x="1910" y="439"/>
+	<Point x="1248" y="439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BRODERIP, Pro. Zool. Soc., 1840., p. 119.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1245" y="442"/>
+	<Point x="2139" y="442"/>
+	<Point x="2139" y="489"/>
+	<Point x="1245" y="489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Island of Negros, Philippines (on the trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="550" y="351"/>
+	<Point x="550" y="371"/>
+	<Point x="980" y="371"/>
+	<Point x="980" y="351"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r18">
+	<Coords>
+	<Point x="1212" y="248"/>
+	<Point x="1233" y="248"/>
+	<Point x="1233" y="859"/>
+	<Point x="1212" y="859"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r19">
+	<Coords>
+	<Point x="971" y="1110"/>
+	<Point x="971" y="1143"/>
+	<Point x="1433" y="1143"/>
+	<Point x="1433" y="1110"/></Coords></SeparatorRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1035" y="153"/>
+	<Point x="1421" y="153"/>
+	<Point x="1421" y="199"/>
+	<Point x="1035" y="199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

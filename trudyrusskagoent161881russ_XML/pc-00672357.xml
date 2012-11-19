@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672357">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:18:52</Created>
+	<LastChange>2012-02-10T09:54:34</LastChange></Metadata>
+	<Page imageFilename="00672357.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="792" y="99"/>
+	<Point x="1103" y="99"/>
+	<Point x="1103" y="171"/>
+	<Point x="792" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 163 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="74" y="235"/>
+	<Point x="1816" y="235"/>
+	<Point x="1816" y="403"/>
+	<Point x="74" y="403"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>unter diesem Namen in der Entom. Zeitung 1872 besprochen
+habe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="198" y="483"/>
+	<Point x="1674" y="483"/>
+	<Point x="1674" y="585"/>
+	<Point x="198" y="585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diatr. obliteratella Z. Tab. XI, ﬁg. 5. а ♂, b ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="242" y="612"/>
+	<Point x="1092" y="612"/>
+	<Point x="1092" y="682"/>
+	<Point x="242" y="682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chilo obliteratellus Exot. Micr. p. 14.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="71" y="733"/>
+	<Point x="1821" y="733"/>
+	<Point x="1821" y="2310"/>
+	<Point x="71" y="2310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Petersen brachte an 40 Exemplare mit, die er zum Theil
+in unverﬂogenem Zustande nach beiden Geschlechtern bei Honda
+den August und September hindurch, nur 1 ♀ am 14 Februar,
+Nachts gesammelt hatte. Es zeigt sich, dass beide Geschlechter
+in der Grösse veränderlich sind, indem die ♂♂ 5—6‴, die ♀♀
+61/2—8‴ Vorderﬂügellänge haben. Die Grundfarbe ist beim ♂
+nur ausnahmsweise, nämlich bei dem von Baron v. Nolcken
+mitgebrachten Exemplar (Ent. Ztg. 1872, p. 465), so hell
+wie beim ♀, sonst etwas tiefer ocherfarben und mit reichlicher
+bräunlichgrauer Bestäubung oder einer solchen Beimischung.
+Die sehr schräge hinter dem tiefschwarzen Queraderpunkt
+herabziehende graubraune Punktreihe ist immer deutlich, aber
+gewöhnlich zu einem Querstreifen zusammengeﬂossen, in seinem
+mittlern Theil oft stark verbreitert, im obersten, nämlich hinter
+dem Queraderpunkt, aus blossen Aderpunkten bestehend. Die
+damit parallel laufende Punktreihe besteht manchmal aus gros-
+sen, etwas zerﬂossenen und dadurch fast ﬂeckartigen Punkten.
+Die Hinterﬂügel sind immer trüber und unreiner weisslich als
+beim ♀, bisweilen fast grau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="64" y="2314"/>
+	<Point x="1805" y="2314"/>
+	<Point x="1805" y="3058"/>
+	<Point x="64" y="3058"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auch das ♀ ist in der Grundfarbe der Vorderﬂügel ver-
+änderlich, jedoch nur wenig; bei den hellsten Exemplaren sind
+sie auch gestreckter als gewöhnlich. Der Queraderpunkt ist
+kleiner als beim ♂ und fehlt sogar bisweilen, ohne abgewischt
+zu sein. Die erste Querreihe von Punkten ist weniger dunkel
+und unvollständiger, zuweilen bloss aus längsstrichförmigen Ver-
+dunkelungen der mittlern Adern zusammengesetzt. Die zweite
+Querreihe wechselt in der Tiefe der Farbe und enthält immer
+kleine Punkte. Dasselbe gilt von den Marginalpunkten, die</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1558" y="3076"/>
+	<Point x="1653" y="3076"/>
+	<Point x="1653" y="3124"/>
+	<Point x="1558" y="3124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>11*</Unicode></TextEquiv></TextRegion></Page></PcGts>

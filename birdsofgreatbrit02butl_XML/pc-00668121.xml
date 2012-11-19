@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668121">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T07:04:17</Created>
+	<LastChange>2012-02-10T09:52:38</LastChange></Metadata>
+	<Page imageFilename="00668121.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="957" y="230"/>
+	<Point x="1308" y="230"/>
+	<Point x="1308" y="298"/>
+	<Point x="957" y="298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CHOUGH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1962" y="237"/>
+	<Point x="2082" y="237"/>
+	<Point x="2082" y="319"/>
+	<Point x="1962" y="319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>149</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="189" y="363"/>
+	<Point x="2056" y="363"/>
+	<Point x="2056" y="612"/>
+	<Point x="189" y="612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In colouring the Chough is shining black, glossed with blue and purple; the
+wings slightly greenish; the bill and feet are orange-vermilion; iris brown. The
+female is a little smaller than the male. Young birds have the bill and feet dull
+orange.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="186" y="621"/>
+	<Point x="2058" y="621"/>
+	<Point x="2058" y="1112"/>
+	<Point x="186" y="1112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The haunts of the Chough are chieﬂy sea-side cliﬀs and rugged mountain
+sides, and Dixon mentions that he observed a colony in Algeria “in a low ridge
+of rocks, on the side of one of the barren stony valleys near the snow-capped
+summit” of Djebel Mahmel. It is gregarious in its habits and appears to pair
+for life. Its ﬂight is somewhat characteristic; consisting largely, as Howard
+Saunders says, of “a series of curves in the air, alternately rising with a scream,
+and then suddenly dropping with almost closed wings”; its red bill is distinguish‐
+able at a considerable distance: on the earth it both walks and runs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="186" y="1115"/>
+	<Point x="2059" y="1114"/>
+	<Point x="2055" y="1358"/>
+	<Point x="186" y="1364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seebohm renders the cry of the Chough as Khéé’-o, khéé’-o; but Howard
+Saunders says—“The usual cry is a clear metallic ‘Kling,’ but in autumn I have
+heard ﬂocks uttering ‘chough-chough’ very plainly.” The food consists of insects
+and their larvæ, worms, probably mollusca, berries and grain.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="187" y="1365"/>
+	<Point x="2054" y="1364"/>
+	<Point x="2062" y="1987"/>
+	<Point x="180" y="1990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The nest is usually situated in some wholly inaccessible hole or crevice, often
+at some distance from the opening, in the face of an overhanging cliﬀ or near
+the roof of a cave; but sometimes in old castles, church-towers, or disused lime‐
+kilns; it is constructed of dry plant-stems, frequently of heather, and lined with
+dead grass, rootlets, wool, and hair, or with some of these materials only. The
+eggs, three to six in number, vary from dull creamy to greenish-white in ground‐
+colour, and are more or less boldly spotted and streaked with various shades of
+brown and grey, some specimens having the markings pretty evenly distributed
+over the entire surface, whilst others have them chieﬂy massed towards the larger
+extremity.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="290" y="1994"/>
+	<Point x="1744" y="1993"/>
+	<Point x="1744" y="2051"/>
+	<Point x="290" y="2049"/>
+	<Point x="288" y="2043"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nidiﬁcation generally commences late in April or early in May.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="188" y="2055"/>
+	<Point x="2046" y="2055"/>
+	<Point x="2046" y="2238"/>
+	<Point x="188" y="2238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Many local names have been given to this bird, amongst which those of
+Cornish Crow and Red-legged Crow are somewhat freely used; one of the names
+Hermit Crow is hardly applicable to a bird which lives and breeds in colonies.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="183" y="2243"/>
+	<Point x="2045" y="2243"/>
+	<Point x="2045" y="2551"/>
+	<Point x="183" y="2551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seebohm says that the “Chough, like the Rook, leaves its roosting-place early
+in the morning, and repairs to the neighbouring pastures in search of food, some‐
+times even being seen to follow the plough to pick up worms and grubs. It is
+always a restless and a wary bird, never remaining long in one spot, but shifting
+its ground in short uncertain ﬂights.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="183" y="2560"/>
+	<Point x="2045" y="2560"/>
+	<Point x="2045" y="2744"/>
+	<Point x="183" y="2744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It may be questioned whether this species ever attains a great age in conﬁne‐
+ment, but it is very diﬃcult to form any deﬁnite opinion, because of the apparent
+carelessness with which exhibitors note the ages of birds: thus a Chough for many</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="1754" y="2754"/>
+	<Point x="1754" y="2802"/>
+	<Point x="1675" y="2802"/>
+	<Point x="1675" y="2797"/>
+	<Point x="1674" y="2797"/>
+	<Point x="1674" y="2772"/>
+	<Point x="1673" y="2772"/>
+	<Point x="1673" y="2754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="signature-mark">
+	<Coords>
+	<Point x="409" y="2754"/>
+	<Point x="409" y="2802"/>
+	<Point x="282" y="2802"/>
+	<Point x="282" y="2754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion></Page></PcGts>

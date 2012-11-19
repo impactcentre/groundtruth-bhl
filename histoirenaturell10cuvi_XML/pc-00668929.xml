@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668929">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T23:03:48</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668929.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r34" index="0"/>
+	<RegionRefIndexed regionRef="r32" index="1"/>
+	<RegionRefIndexed regionRef="r36" index="2"/>
+	<RegionRefIndexed regionRef="r40" index="3"/>
+	<RegionRefIndexed regionRef="r29" index="4"/>
+	<RegionRefIndexed regionRef="r44" index="5"/>
+	<RegionRefIndexed regionRef="r48" index="6"/>
+	<RegionRefIndexed regionRef="r30" index="7"/>
+	<RegionRefIndexed regionRef="r52" index="8"/>
+	<RegionRefIndexed regionRef="r54" index="9"/>
+	<RegionRefIndexed regionRef="r31" index="10"/>
+	<RegionRefIndexed regionRef="r24" index="11"/>
+	<RegionRefIndexed regionRef="r9" index="12"/>
+	<RegionRefIndexed regionRef="r10" index="13"/>
+	<RegionRefIndexed regionRef="r11" index="14"/>
+	<RegionRefIndexed regionRef="r12" index="15"/>
+	<RegionRefIndexed regionRef="r56" index="16"/>
+	<RegionRefIndexed regionRef="r60" index="17"/>
+	<RegionRefIndexed regionRef="r64" index="18"/>
+	<RegionRefIndexed regionRef="r27" index="19"/>
+	<RegionRefIndexed regionRef="r68" index="20"/>
+	<RegionRefIndexed regionRef="r72" index="21"/>
+	<RegionRefIndexed regionRef="r76" index="22"/>
+	<RegionRefIndexed regionRef="r28" index="23"/>
+	<RegionRefIndexed regionRef="r80" index="24"/>
+	<RegionRefIndexed regionRef="r82" index="25"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="TOC-entry">
+	<Coords>
+	<Point x="76" y="1183"/>
+	<Point x="1336" y="1183"/>
+	<Point x="1336" y="1240"/>
+	<Point x="76" y="1240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA FAMILLE DES TÆNIOÏDES......... 309</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="492" y="1304"/>
+	<Point x="1055" y="1304"/>
+	<Point x="1055" y="1364"/>
+	<Point x="492" y="1364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PREMIÈRE TRIBU.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="TOC-entry">
+	<Coords>
+	<Point x="80" y="1419"/>
+	<Point x="1332" y="1419"/>
+	<Point x="1332" y="1466"/>
+	<Point x="80" y="1466"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TÆNIOÏDES A BOUCHE PEU FENDUE.......... 312</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="468" y="1547"/>
+	<Point x="1109" y="1547"/>
+	<Point x="1109" y="1597"/>
+	<Point x="468" y="1597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE PREMIER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="header">
+	<Coords>
+	<Point x="677" y="235"/>
+	<Point x="838" y="235"/>
+	<Point x="838" y="275"/>
+	<Point x="677" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TABLE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="page-number">
+	<Coords>
+	<Point x="1371" y="205"/>
+	<Point x="1460" y="205"/>
+	<Point x="1460" y="287"/>
+	<Point x="1371" y="287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xxj</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="463" y="1048"/>
+	<Point x="1082" y="1048"/>
+	<Point x="1082" y="1120"/>
+	<Point x="463" y="1120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE ONZIÈME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1366" y="2076"/>
+	<Point x="1470" y="2076"/>
+	<Point x="1470" y="2149"/>
+	<Point x="1366" y="2149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>296</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1372" y="2386"/>
+	<Point x="1470" y="2386"/>
+	<Point x="1470" y="2444"/>
+	<Point x="1372" y="2444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>297</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1358" y="448"/>
+	<Point x="1460" y="448"/>
+	<Point x="1460" y="516"/>
+	<Point x="1358" y="516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>293</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1360" y="678"/>
+	<Point x="1465" y="678"/>
+	<Point x="1465" y="727"/>
+	<Point x="1360" y="727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>294</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1366" y="880"/>
+	<Point x="1457" y="880"/>
+	<Point x="1457" y="942"/>
+	<Point x="1366" y="942"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>295</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1230" y="302"/>
+	<Point x="1324" y="302"/>
+	<Point x="1324" y="345"/>
+	<Point x="1230" y="345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pages.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="1346" y="298"/>
+	<Point x="1462" y="298"/>
+	<Point x="1462" y="345"/>
+	<Point x="1346" y="345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Planch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="TOC-entry">
+	<Coords>
+	<Point x="74" y="353"/>
+	<Point x="1331" y="357"/>
+	<Point x="1331" y="429"/>
+	<Point x="74" y="429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES AXINURES........................ 299</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="TOC-entry">
+	<Coords>
+	<Point x="75" y="443"/>
+	<Point x="1334" y="445"/>
+	<Point x="1331" y="524"/>
+	<Point x="74" y="524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Axinure thynnoïde(Axinurus thynnoides, nob.). Ibid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="TOC-entry">
+	<Coords>
+	<Point x="74" y="540"/>
+	<Point x="1331" y="540"/>
+	<Point x="1331" y="631"/>
+	<Point x="78" y="627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES PRIODONS....................... 302</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="TOC-entry">
+	<Coords>
+	<Point x="71" y="648"/>
+	<Point x="1333" y="648"/>
+	<Point x="1333" y="747"/>
+	<Point x="71" y="745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Priodon annulaire (Priodon annularis, nob.). Ibid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="TOC-entry">
+	<Coords>
+	<Point x="69" y="760"/>
+	<Point x="1334" y="760"/>
+	<Point x="1334" y="850"/>
+	<Point x="69" y="850"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES KÉRIS........................... 304</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="TOC-entry">
+	<Coords>
+	<Point x="68" y="866"/>
+	<Point x="1330" y="868"/>
+	<Point x="1331" y="949"/>
+	<Point x="69" y="948"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Kéris à goître (Keris anginosus, nob.).... Ibid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="TOC-entry">
+	<Coords>
+	<Point x="78" y="1658"/>
+	<Point x="1339" y="1658"/>
+	<Point x="1339" y="1874"/>
+	<Point x="78" y="1874"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES TRACHYPTÈRES, appelés autrement BOGMARES
+ou GYMNOGASTRES, ET DES GYMNÈTRES, ap-
+pelés aussi RÉGALECS................ 313</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="TOC-entry">
+	<Coords>
+	<Point x="78" y="1896"/>
+	<Point x="1336" y="1896"/>
+	<Point x="1336" y="1979"/>
+	<Point x="78" y="1979"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES TRACHYPTÈRES................... 328</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="TOC-entry">
+	<Coords>
+	<Point x="77" y="1995"/>
+	<Point x="1339" y="1995"/>
+	<Point x="1339" y="2148"/>
+	<Point x="77" y="2148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Trachyptère de Spinola (Trachypterus Spi-
+nolæ, nob.)...................... Ibid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r68" type="TOC-entry">
+	<Coords>
+	<Point x="69" y="2156"/>
+	<Point x="1339" y="2156"/>
+	<Point x="1339" y="2298"/>
+	<Point x="69" y="2298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Trachyptère de Bonnelli (Trachypterus Bon-
+nellii, nob.; Trachypterus cristatus, Bonn.). 331</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r72" type="TOC-entry">
+	<Coords>
+	<Point x="75" y="2308"/>
+	<Point x="1337" y="2306"/>
+	<Point x="1334" y="2372"/>
+	<Point x="75" y="2372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Trachyptère faux (Trachypterus falx, nob.). 333</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="TOC-entry">
+	<Coords>
+	<Point x="81" y="2377"/>
+	<Point x="1336" y="2379"/>
+	<Point x="1336" y="2447"/>
+	<Point x="79" y="2452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Trachyptère iris (Trachypterus iris, nob.).. 341</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r80" type="TOC-entry">
+	<Coords>
+	<Point x="76" y="2459"/>
+	<Point x="137" y="2458"/>
+	<Point x="1340" y="2461"/>
+	<Point x="1341" y="2594"/>
+	<Point x="75" y="2604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Trachyptère à rayons lisses (Trachypterus
+leiopterus, nob.).................. 342</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r82" type="TOC-entry">
+	<Coords>
+	<Point x="80" y="2612"/>
+	<Point x="1333" y="2611"/>
+	<Point x="1336" y="2679"/>
+	<Point x="78" y="2679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Trachyptère Bogmare (Trachypterus Bog-</Unicode></TextEquiv></TextRegion></Page></PcGts>

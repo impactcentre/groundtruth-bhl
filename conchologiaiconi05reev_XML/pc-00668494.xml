@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668494">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T21:41:52</Created>
+	<LastChange>2012-02-10T09:53:19</LastChange></Metadata>
+	<Page imageFilename="00668494.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/>
+	<RegionRefIndexed regionRef="r48" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r23" index="5"/>
+	<RegionRefIndexed regionRef="r31" index="6"/>
+	<RegionRefIndexed regionRef="r52" index="7"/>
+	<RegionRefIndexed regionRef="r6" index="8"/>
+	<RegionRefIndexed regionRef="r60" index="9"/>
+	<RegionRefIndexed regionRef="r46" index="10"/>
+	<RegionRefIndexed regionRef="r8" index="11"/>
+	<RegionRefIndexed regionRef="r9" index="12"/>
+	<RegionRefIndexed regionRef="r10" index="13"/>
+	<RegionRefIndexed regionRef="r11" index="14"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1004" y="138"/>
+	<Point x="1466" y="138"/>
+	<Point x="1466" y="188"/>
+	<Point x="1004" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE LVIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="358" y="449"/>
+	<Point x="1190" y="449"/>
+	<Point x="1190" y="501"/>
+	<Point x="358" y="501"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Of a uniform horn colour with a peculiarly erect spire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="552" y="569"/>
+	<Point x="987" y="569"/>
+	<Point x="987" y="618"/>
+	<Point x="552" y="618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 393. (Mus. Dyson.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1251" y="210"/>
+	<Point x="2158" y="210"/>
+	<Point x="2158" y="320"/>
+	<Point x="1251" y="320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Very similar to the last in colour and substance, but
+suﬃciently distinguished in form.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1268" y="673"/>
+	<Point x="2169" y="673"/>
+	<Point x="2169" y="914"/>
+	<Point x="1268" y="914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE OPAL BULIMUS. Shell pyramidal, angulated and
+slightly ﬂattened at the base, scarcely umbilicated,
+whorls eight in number, ﬂatly convex, very minutely
+decussately striated, columella reﬂected, lip a little
+reﬂected; opal white, unspotted.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1278" y="916"/>
+	<Point x="2053" y="916"/>
+	<Point x="2053" y="961"/>
+	<Point x="1278" y="961"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOWERBY, Beechey’s Voyage, p. 144. pl. 138. f. 8.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1278" y="963"/>
+	<Point x="1487" y="963"/>
+	<Point x="1487" y="1003"/>
+	<Point x="1278" y="1003"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Brazil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1281" y="1016"/>
+	<Point x="2187" y="1016"/>
+	<Point x="2187" y="1127"/>
+	<Point x="1281" y="1127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Distinguished by its acuminated Trochiform growth and
+pure opal white substance.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="1221" y="221"/>
+	<Point x="1250" y="1157"/>
+	<Point x="1270" y="1157"/>
+	<Point x="1263" y="947"/>
+	<Point x="1253" y="744"/>
+	<Point x="1252" y="737"/>
+	<Point x="1238" y="221"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="538" y="518"/>
+	<Point x="993" y="518"/>
+	<Point x="993" y="545"/>
+	<Point x="538" y="545"/></Coords></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="382" y="224"/>
+	<Point x="1210" y="224"/>
+	<Point x="1210" y="362"/>
+	<Point x="691" y="363"/>
+	<Point x="674" y="378"/>
+	<Point x="383" y="379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>whorls somewhat rounded, longitudinally rudely
+striated, columella broadly reﬂected, lip thin, simple;
+transparent horny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="324" y="642"/>
+	<Point x="1225" y="642"/>
+	<Point x="1225" y="832"/>
+	<Point x="324" y="832"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS CACTICOLUS. Bul. testâ acuminato-oblongâ, sub-
+ventricosâ, tenuissimâ, umbilicatâ, anfractibus septem,
+subrotundis, obscurè decussatim striatis, columellâ
+reﬂexâ, labro tenui, simplici; pellucido-corneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="329" y="834"/>
+	<Point x="1231" y="835"/>
+	<Point x="1229" y="1076"/>
+	<Point x="1061" y="1073"/>
+	<Point x="325" y="1073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CACTUS-INHABITING BULIMUS. Shell acuminately
+oblong, somewhat ventricose, very thin, umbilicated,
+whorls seven in number, somewhat rounded, obscurely
+decussately striated, columella reﬂected, lip thin,
+simple; transparent horny.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r38">
+	<Coords>
+	<Point x="1490" y="334"/>
+	<Point x="1490" y="358"/>
+	<Point x="1913" y="358"/>
+	<Point x="1913" y="334"/></Coords></SeparatorRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="1258" y="432"/>
+	<Point x="2166" y="432"/>
+	<Point x="2166" y="666"/>
+	<Point x="1258" y="666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS OPALINUS. Bul. testâ pyramidali, basi angulatâ
+et subplanatâ, vix umbilicatâ, anfractibus octo, plano-
+convexis, minutissimè decussatim striatis, columellâ
+reﬂexâ, labro paululum reﬂexo; opalino-albâ, immacu-
+latâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="321" y="384"/>
+	<Point x="683" y="381"/>
+	<Point x="695" y="374"/>
+	<Point x="1009" y="374"/>
+	<Point x="1008" y="423"/>
+	<Point x="321" y="423"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Curiana, Venezuela (on Cacti); Dyson.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="1050" y="1077"/>
+	<Point x="1050" y="1119"/>
+	<Point x="335" y="1119"/>
+	<Point x="335" y="1077"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Curiana, Venezuela (on Cacti); Dyson.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="heading">
+	<Coords>
+	<Point x="1463" y="367"/>
+	<Point x="1942" y="367"/>
+	<Point x="1942" y="420"/>
+	<Point x="1463" y="420"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 394. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="1130" y="1455"/>
+	<Point x="1130" y="1478"/>
+	<Point x="1592" y="1478"/>
+	<Point x="1592" y="1455"/></Coords></SeparatorRegion></Page></PcGts>

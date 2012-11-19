@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668813">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T03:44:31</Created>
+	<LastChange>2012-02-10T10:29:38</LastChange></Metadata>
+	<Page imageFilename="00668813.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r14" index="13"/>
+	<RegionRefIndexed regionRef="r15" index="14"/>
+	<RegionRefIndexed regionRef="r16" index="15"/>
+	<RegionRefIndexed regionRef="r17" index="16"/>
+	<RegionRefIndexed regionRef="r27" index="17"/>
+	<RegionRefIndexed regionRef="r58" index="18"/>
+	<RegionRefIndexed regionRef="r19" index="19"/>
+	<RegionRefIndexed regionRef="r20" index="20"/>
+	<RegionRefIndexed regionRef="r21" index="21"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1059" y="120"/>
+	<Point x="1362" y="120"/>
+	<Point x="1362" y="180"/>
+	<Point x="1059" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1112" y="222"/>
+	<Point x="1310" y="222"/>
+	<Point x="1310" y="263"/>
+	<Point x="1112" y="263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="527" y="310"/>
+	<Point x="961" y="310"/>
+	<Point x="961" y="355"/>
+	<Point x="527" y="355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 31. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="299" y="369"/>
+	<Point x="1193" y="369"/>
+	<Point x="1193" y="894"/>
+	<Point x="299" y="894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS CORONULATA. Cass. testâ suboblongo-ovatâ, spirâ
+subacuminatâ, apice acutâ; anfractibus lœvigatis, niti‐
+dis, apicem versus decussatis, supernè depresso-concavis,
+ad angulum tenuè muricato-nodosis, anfractu ultimo
+univaricoso; columellâ expansâ, undulatim plicato-
+rugatâ, labro externo acutè dentato-lirato, basi obso‐
+letè tri-spinoso; livido-albicante, fasciis transversis
+quinque latiusculis pallidè fuscescentibus, fasciis palli-
+dioribus longitudinalibus undatis decussatis, nitidè
+pictâ, fasciis saturatioribus pone varices, labro citrino-
+fulvescente tessellato.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="297" y="896"/>
+	<Point x="1194" y="896"/>
+	<Point x="1194" y="1459"/>
+	<Point x="297" y="1459"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CORONATED HELMET. Shell somewhat oblong-ovate,
+spire somewhat acuminated, sharp at the apex;
+whorls smooth, shining, decussated towards the
+apex, depressly concave round the upper part, ﬁnely
+prickly noduled at the angle, last whorl one-varicose;
+columella expanded, undulately plicately wrinkled,
+outer lip sharply dentately ridged, obsoletely tri-
+spinose at the base; livid white, neatly painted with
+ﬁve rather broad transverse pale fulvous bands, de‐
+cussated with paler longitudinal waved bands, bands
+darker behind the varices, lip tessellated with citron
+fulvous brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="300" y="1470"/>
+	<Point x="1004" y="1470"/>
+	<Point x="1004" y="1513"/>
+	<Point x="300" y="1513"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOWERBY, Tankerville Catalogue, App. p. xx.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="302" y="1518"/>
+	<Point x="846" y="1518"/>
+	<Point x="846" y="1563"/>
+	<Point x="302" y="1563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Philippine Islands; Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="294" y="1589"/>
+	<Point x="1192" y="1589"/>
+	<Point x="1192" y="2166"/>
+	<Point x="294" y="2166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This is certainly not the young of Cassis glauca, as
+stated by M. Kiener; whether it should be regarded as a
+variety of that species may remain a matter of opinion,
+but I believe it to be distinct. Though not of very common
+occurrence it is not rare, and there appears to be no nearer
+approximation between the species than is represented by
+the accompanying ﬁgures. The C. coronulata is of a more
+oblong-oval form and perfectly smooth, without the least
+indication of those curious ﬂattened indentations which
+characterize the C. glauca; the tessellated painting is
+peculiar and constant, and the spinous processes at the
+base of the lip are but three in number and very obscure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="530" y="2262"/>
+	<Point x="979" y="2262"/>
+	<Point x="979" y="2307"/>
+	<Point x="530" y="2307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 32. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="310" y="2326"/>
+	<Point x="1197" y="2326"/>
+	<Point x="1197" y="2565"/>
+	<Point x="310" y="2565"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS EXARATA. Cass. testâ ovatâ, spirâ subacuminatâ,
+apice acutâ; anfractibus univaricosis, lœvibus, trans-
+versim regulariter acutè sulcatis, supernè declivibus,
+spiraliter costatis, costis crebrrimè nodoso-gemmatis;
+columellâ latè concavo-expansâ, profusè et subtiliter</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1304" y="306"/>
+	<Point x="2123" y="306"/>
+	<Point x="2123" y="438"/>
+	<Point x="1304" y="438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>plicato-rugatâ, labro externo fortiter dentato-lirato;
+eburneâ, maculis quadratis distantibus pallidè fulves-
+centibus tessellatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1232" y="446"/>
+	<Point x="2125" y="446"/>
+	<Point x="2125" y="828"/>
+	<Point x="1232" y="828"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PLOUGHED HELMET. Shell ovate, spire somewhat
+acuminated, sharp at the apex, whorls one-varicose,
+smooth, transversely regularly sharply grooved, slant‐
+ing at the upper part, spirally ribbed, ribs very
+closely beaded; columella broadly concavely ex‐
+panded, profusely and very ﬁnely plicately wrinkled,
+outer lip strongly dentately ridged; ivory white,
+tessellated with distant pale fulvous square spots.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1235" y="832"/>
+	<Point x="1434" y="832"/>
+	<Point x="1434" y="865"/>
+	<Point x="1235" y="865"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.—?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1233" y="893"/>
+	<Point x="2125" y="893"/>
+	<Point x="2125" y="1176"/>
+	<Point x="1233" y="1176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A new and very distinct species allied in form to the
+C. glauca and coronulata. Its chief peculiarities consist
+in the surface being encircled with narrow equi-distant
+grooves, and in the spire being strongly beaded. The
+columella is very widely expanded, and profusely sculp‐
+tured with ﬁne divaricating wrinkles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="1460" y="1253"/>
+	<Point x="1895" y="1253"/>
+	<Point x="1895" y="1296"/>
+	<Point x="1460" y="1296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 33. (Mus. Hudson.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1238" y="1314"/>
+	<Point x="2125" y="1314"/>
+	<Point x="2125" y="1739"/>
+	<Point x="1238" y="1739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS GLAUCA. Cass. testâ ovatâ, turgidâ, spirâ sub-
+acuminatâ, apice acutâ; anfractibus lœvigatis, undique
+peculiariter indentatis, basi superﬁcialiter sulcatis, su‐
+pernè angulatis, ad angulum acutè muricato-nodulosis,
+apicem versus decussatis, anfractu ultimo univaricoso;
+columellâ expansâ, exiliter plicato-rugatâ, labro externo
+dentato-lirato, basi quadrispinoso; livido-glaucâ, in-
+distinctè fasciatâ, labris vividè fulvescente-citrinis, aper‐
+turœ fauce purpureo-castaneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1237" y="1741"/>
+	<Point x="2124" y="1741"/>
+	<Point x="2128" y="2216"/>
+	<Point x="1237" y="2212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GLAUCOUS HELMET. Shell ovate, swollen, spire
+somewhat acuminated, sharp at the apex, whorls
+smooth, everywhere peculiarly indented, superﬁcially
+grooved at the base, angulated round the upper
+part, sharply prickly noduled at the angle, decussated
+towards the apex, last whorl one-varicose; columella
+expanded, faintly plicately wrinkled, outer lip den-
+tately ridged, four-spined at the base; livid glaucous
+colour, indistinctly ba�ded, lips bright fulvous citron
+colour, interior of the aperture purple-chesnut.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1243" y="2407"/>
+	<Point x="1771" y="2407"/>
+	<Point x="1771" y="2454"/>
+	<Point x="1243" y="2454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Philippine Islands; Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1241" y="2470"/>
+	<Point x="2125" y="2470"/>
+	<Point x="2125" y="2568"/>
+	<Point x="1241" y="2568"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A species of common occurrence, exhibiting little varia‐
+tion of colour or sculpture.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1073" y="2641"/>
+	<Point x="1351" y="2641"/>
+	<Point x="1351" y="2688"/>
+	<Point x="1073" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>September, 1848.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r22">
+	<Coords>
+	<Point x="1205" y="308"/>
+	<Point x="1201" y="811"/>
+	<Point x="1209" y="2552"/>
+	<Point x="1229" y="2552"/>
+	<Point x="1225" y="309"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r23">
+	<Coords>
+	<Point x="526" y="2203"/>
+	<Point x="526" y="2221"/>
+	<Point x="990" y="2221"/>
+	<Point x="990" y="2203"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="986" y="2591"/>
+	<Point x="986" y="2614"/>
+	<Point x="1442" y="2614"/>
+	<Point x="1442" y="2591"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r25">
+	<Coords>
+	<Point x="1451" y="1202"/>
+	<Point x="1451" y="1223"/>
+	<Point x="1915" y="1223"/>
+	<Point x="1915" y="1202"/></Coords></SeparatorRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1238" y="2219"/>
+	<Point x="2118" y="2219"/>
+	<Point x="2118" y="2263"/>
+	<Point x="1238" y="2263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.) vol. x. p. 24.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="1315" y="2267"/>
+	<Point x="1819" y="2267"/>
+	<Point x="1819" y="2404"/>
+	<Point x="1315" y="2404"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum glaucum, Linnæus.
+Cassidea glauca, Bruguière.
+Bezoardica vulgaris, Schumacher.</Unicode></TextEquiv></TextRegion></Page></PcGts>

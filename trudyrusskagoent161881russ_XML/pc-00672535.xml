@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672535">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:53:39</Created>
+	<LastChange>2012-02-10T09:55:07</LastChange></Metadata>
+	<Page imageFilename="00672535.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="762" y="149"/>
+	<Point x="1066" y="149"/>
+	<Point x="1066" y="221"/>
+	<Point x="762" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 339 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="46" y="275"/>
+	<Point x="1783" y="275"/>
+	<Point x="1783" y="798"/>
+	<Point x="46" y="798"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tents d'avoir enl�vé deux de nos chevaux, enhardis par le
+succès ils rôdaient autour de nous et nous approchaient de
+plus en plus. Un soir un tigre qui était en embuscade près
+d'un sentier, que nous avions l'habitude de suivre pour revenir
+à notre campement, faillit nous surprendre, sans notre chien,
+qui nous avertit à temps de sa présence.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="44" y="808"/>
+	<Point x="1774" y="808"/>
+	<Point x="1774" y="2808"/>
+	<Point x="44" y="2808"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Notre plan de voyage tracé d'avance ne nous permettait
+pas un plus long séjour dans les sables: nous devions rentrer
+à Kouldjà pour faire nos préparatifs pour l'expédition dans
+les montagnes du Tian-Chian, préparatifs qui devaient être
+faits avec soin, et qui demandaient du temps. Nous quittâmes
+donc non sans regret notre camp de Khorgosse et les sables,
+qu'un lépidoptériste n'aurait jamais voulu quitter, et le 11
+Avril au matin nous étions rentrés à Kouldjà. Notre premier
+soin en arrivant fut d'emballer les collections rapportées, et
+de mettre nos notes en ordre. Ensuite il fallut s'occuper de
+l'achat des chameaux, chevaux, provisions de bouche et du
+renouvellement de nos munitions. Malgré tout le temps que
+reclamaient ces préparatifs, nous partîmes le 22 Avril pour
+une excursion au lac Saïram-Noor *). Le 23 Avril nous étions
+dans le déﬁlé de Talki, où nous trouvions un piquet de co-
+saques, chargés d'empêcher l'exportation en Chine du blé de
+la vallée de l'Ili. Nous longeâmes la rivière qui suit le dé-
+ﬁlé pittoresque jusqu'à une élévation de 7000 pieds environ.
+Nous y prîmes quelques Lépidoptères remarquables, entre au-
+tres: Leucanitis Rada Ev., Pieris Leucodice, Psecadia Py-
+rausta Pall., Ps. Nigripedella Ersch. etc., que nous ne vi-
+mes nulle part ailleurs. Arrivés au sommet du déﬁlé, nous
+aperçûmes enﬁn à un millier de pieds au dessous de nous, le
+beau lac alpin Saïram-Noor, encore à demi gelé. Aucun pois-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="37" y="2941"/>
+	<Point x="1766" y="2941"/>
+	<Point x="1766" y="3089"/>
+	<Point x="37" y="3089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Situé d'après nos calculs entre 6200—6400 pieds d'altitude dans la chaîne
+de l'Altyne-Imel, au nord de Kouldjà.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1528" y="3094"/>
+	<Point x="1616" y="3094"/>
+	<Point x="1616" y="3149"/>
+	<Point x="1528" y="3149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>22*</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="44" y="2869"/>
+	<Point x="614" y="2869"/>
+	<Point x="614" y="2898"/>
+	<Point x="44" y="2898"/></Coords></SeparatorRegion></Page></PcGts>

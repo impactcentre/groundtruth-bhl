@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669329">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:52:48</Created>
+	<LastChange>2012-03-12T14:33:56</LastChange></Metadata>
+	<Page imageFilename="00669329.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="159" y="246"/>
+	<Point x="1523" y="246"/>
+	<Point x="1523" y="1542"/>
+	<Point x="159" y="1542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quelle sa membrane s’unit un peu. La hauteur de sa
+portion antérieure est des deux tiers de celle du tronc,
+et elle ne diminue pas autant que le corps en arrière.
+Nous y avons compté soixante-sept rayons; il y en a
+quelquefois soixante-huit ou soixante-neuf: les deux
+ou trois premiers sont les seuls où nous n’ayons
+aperçu ni branches ni articulation; mais ils ne sont
+pas moins grêles ni moins ﬂexibles que ceux qui
+les suivent. L’anus est sous le huitième rayon de
+la dorsale, et l’anale commence sous le neuvième;
+sa hauteur, la nature de ses rayons, sont comme dans
+la dorsale, et elle s’unit de même par sa membrane
+à la base de la caudale. Nous y avons trouvé soixante
+rayons, la caudale en a onze, dont ceux du milieu
+sont les plus longs, ce qui lui donne une forme
+pointue, et quand elle est contractée elle semble ter‐
+miner le corps par un ﬁlet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="346" y="1547"/>
+	<Point x="1299" y="1547"/>
+	<Point x="1299" y="1623"/>
+	<Point x="346" y="1623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 6; D. 67; A. 60; C. 11; P. 18; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="156" y="1643"/>
+	<Point x="1519" y="1643"/>
+	<Point x="1519" y="2170"/>
+	<Point x="414" y="2171"/>
+	<Point x="154" y="2169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les écailles de la cépole sont extrêmement petites,
+ovales, lisses, entières, insensibles au tact, ne s’im‐
+briquent point et se présentent à la loupe comme
+autant de petits pores enfoncés et disposés en quin‐
+conce serré; ce n’est qu’en raclant la peau qu’on en
+détache et qu’on peut les voir séparément: la tête
+et les nageoires n’en ont aucunes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="173" y="2174"/>
+	<Point x="615" y="2175"/>
+	<Point x="749" y="2174"/>
+	<Point x="871" y="2173"/>
+	<Point x="1508" y="2177"/>
+	<Point x="1509" y="2630"/>
+	<Point x="175" y="2640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les poissons desséchés dans les cabinets, ou con‐
+servés dans la liqueur, oﬀrent ordinairement des
+teintes rougeâtres qui ne donnent qu’une faible idée
+de leur état frais; mais ils y conservent une tache
+noire, placée à un endroit singulier, sur la mem‐
+brane qui unit la pointe externe de l’intermaxillaire</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="540" y="163"/>
+	<Point x="1049" y="163"/>
+	<Point x="1049" y="230"/>
+	<Point x="540" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. CÉPOLES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1368" y="151"/>
+	<Point x="1498" y="151"/>
+	<Point x="1498" y="230"/>
+	<Point x="1368" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>397</Unicode></TextEquiv></TextRegion></Page></PcGts>

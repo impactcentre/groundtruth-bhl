@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669359">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:26:13</Created>
+	<LastChange>2012-03-12T14:33:58</LastChange></Metadata>
+	<Page imageFilename="00669359.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="106" y="270"/>
+	<Point x="1461" y="270"/>
+	<Point x="1461" y="668"/>
+	<Point x="106" y="668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la longueur totale; la caudale même n'a que le sep-
+tième de cette longueur. A sa base la queue n'a que
+le tiers de la hauteur du corps; elle est fourchue
+jusqu'à moitié: ses rayons sont au nombre de dix-
+sept.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="222" y="674"/>
+	<Point x="1353" y="674"/>
+	<Point x="1353" y="741"/>
+	<Point x="222" y="741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 6; D. 9 —1/11; A. 1/12; C. 17; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="105" y="757"/>
+	<Point x="1475" y="757"/>
+	<Point x="1475" y="1505"/>
+	<Point x="105" y="1505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les écailles de cette athérine sont disposées très-
+régulièrement. Il y en a soixante et quelques sur
+une ligne, entre l'ouïe et la caudale, et treize ou
+quatorze sur une ligne verticale au-dessus des ven-
+trales; elles sont d'un tiers plus larges que longues:
+la partie antérieure est arrondie, lisse et séparée
+de la partie radicale par un arc rentrant: la partie
+cachée est ﬁnement striée en travers, et son bord
+postérieur est entier et a au milieu une petite pointe
+obtuse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="113" y="1510"/>
+	<Point x="1480" y="1510"/>
+	<Point x="1480" y="2501"/>
+	<Point x="113" y="2501"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le corps de ce poisson, à l'état de vie, est demi-
+transparent: toute sa partie supérieure est teinte
+d'un fauve clair, pointillé de noir, de manière à
+former autant de petits groupes de points qu'il y a
+d'écailles. Le haut de l'opercule a des points sem-
+blables et serrés. Sur le crâne et les mâchoires il y en
+a de plus petits. Les trois rangées longitudinales
+d'écailles qui répondent à la hauteur de la pecto-
+rale, sont d'une belle couleur pleine et vive d'ar-
+gent poli; la plus haute des trois est cependant teinte
+de bleuâtre. Tout ce qui est au-dessous de cette bande
+argentée, est d'un blanc roussâtre, à reﬂets argentés.
+Les nageoires sont transparentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="117" y="2505"/>
+	<Point x="1486" y="2505"/>
+	<Point x="1486" y="2669"/>
+	<Point x="117" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parmi nos nombreux individus nous n'en trouvons
+pas de plus de quatre à cinq pouces de longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="915" y="172"/>
+	<Point x="915" y="257"/>
+	<Point x="604" y="257"/>
+	<Point x="604" y="172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1456" y="172"/>
+	<Point x="1456" y="257"/>
+	<Point x="1313" y="257"/>
+	<Point x="1313" y="172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>427</Unicode></TextEquiv></TextRegion></Page></PcGts>

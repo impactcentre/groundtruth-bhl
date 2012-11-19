@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671089">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T02:44:28</Created>
+	<LastChange>2012-03-12T14:34:03</LastChange></Metadata>
+	<Page imageFilename="00671089.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1152" y="357"/>
+	<Point x="1428" y="357"/>
+	<Point x="1428" y="419"/>
+	<Point x="1152" y="419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 29 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="226" y="454"/>
+	<Point x="2338" y="454"/>
+	<Point x="2338" y="597"/>
+	<Point x="226" y="597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kopfsomiten, die partiell postorale Lage des Acron1) und die Homodynamie der Tentoriumäste mit
+Pleuralleisten.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r3">
+	<Coords>
+	<Point x="211" y="614"/>
+	<Point x="2352" y="614"/>
+	<Point x="2352" y="1573"/>
+	<Point x="211" y="1573"/></Coords></TableRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="221" y="1597"/>
+	<Point x="2352" y="1597"/>
+	<Point x="2352" y="1722"/>
+	<Point x="219" y="1728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An diese Erörterungen über den Aufbau der Kopfkapsel seien noch einige Bemerkungen über
+die Mundteile angeschlossen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="221" y="1732"/>
+	<Point x="1176" y="1731"/>
+	<Point x="1904" y="1730"/>
+	<Point x="2353" y="1729"/>
+	<Point x="2353" y="1852"/>
+	<Point x="2245" y="1854"/>
+	<Point x="2228" y="1845"/>
+	<Point x="1825" y="1843"/>
+	<Point x="1819" y="1850"/>
+	<Point x="857" y="1851"/>
+	<Point x="838" y="1845"/>
+	<Point x="510" y="1846"/>
+	<Point x="499" y="1851"/>
+	<Point x="223" y="1850"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Was die morphologische Deutung der Mandibel anbelangt, so ist man ganz auf Analogie‑
+schlüsse angewiesen, da embryologische Daten darüber für Eosentomon bis jetzt noch nicht vorliegen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="220" y="1855"/>
+	<Point x="891" y="1856"/>
+	<Point x="1544" y="1856"/>
+	<Point x="2227" y="1851"/>
+	<Point x="2244" y="1859"/>
+	<Point x="2354" y="1860"/>
+	<Point x="2354" y="2220"/>
+	<Point x="219" y="2225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Untersuchungen von Hoffmann haben gezeigt, daß bei Tomocerus die Mandibel primär
+aus drei Gliedern besteht, aus deren basalem der Grundabschnitt etwa bis zu den Rotatorsehnen
+entsteht, während das distale den ,,Fuß“ und das mittlere den dazwischen gelegenen Teil der Mandibel
+aus sich hervorgehen läßt. Ich glaube daher nicht fehl zu gehen, wenn ich in dem nicht geschlossenen
+Basalstück der Proturenmandibel, ebenso wie bei Tomocerus, ein Homologon der Subcoxa, in dem
+röhrenförmigen die Coxa und in dem Endstück eine Lade (vermutlich die Galea) erblicke.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="214" y="2227"/>
+	<Point x="1204" y="2226"/>
+	<Point x="1874" y="2230"/>
+	<Point x="2037" y="2226"/>
+	<Point x="2350" y="2226"/>
+	<Point x="2352" y="2342"/>
+	<Point x="1271" y="2340"/>
+	<Point x="919" y="2341"/>
+	<Point x="904" y="2348"/>
+	<Point x="883" y="2350"/>
+	<Point x="860" y="2341"/>
+	<Point x="214" y="2341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mit dieser Deutung schließe ich mich im wesentlichen an Berlese an; einer Begründung
+bedarf nur noch die Auffassung des Endstückes als Außenlade.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="212" y="2347"/>
+	<Point x="863" y="2346"/>
+	<Point x="876" y="2354"/>
+	<Point x="907" y="2354"/>
+	<Point x="925" y="2347"/>
+	<Point x="1241" y="2348"/>
+	<Point x="2346" y="2350"/>
+	<Point x="2350" y="2652"/>
+	<Point x="2010" y="2659"/>
+	<Point x="1994" y="2656"/>
+	<Point x="1831" y="2655"/>
+	<Point x="1821" y="2659"/>
+	<Point x="1731" y="2656"/>
+	<Point x="1620" y="2648"/>
+	<Point x="1614" y="2659"/>
+	<Point x="1583" y="2659"/>
+	<Point x="1580" y="2652"/>
+	<Point x="1214" y="2652"/>
+	<Point x="928" y="2651"/>
+	<Point x="916" y="2659"/>
+	<Point x="894" y="2659"/>
+	<Point x="877" y="2651"/>
+	<Point x="215" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auf Grund embryologischer Befunde glaubte man (Heymons) die einfache Anlage der
+Mandibel pterygoter Insekten den äußerlich ähnlichen Anlagen der Maxillarladen gleichsetzen zu
+müssen. Die Mandibel des fertigen Insektes war demnach als Verschmelzungsprodukt von Coxo-
+merit und Coxa (Heymons, Börner) zu betrachten, während die Subcoxa nur gelegentlich nach‑
+weisbar war. Dabei mußte angenommen werden, daß der Telopodit (Palpus) völlig reduziert sei.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="212" y="2658"/>
+	<Point x="869" y="2658"/>
+	<Point x="892" y="2663"/>
+	<Point x="1139" y="2660"/>
+	<Point x="1573" y="2660"/>
+	<Point x="1580" y="2666"/>
+	<Point x="1619" y="2668"/>
+	<Point x="1623" y="2658"/>
+	<Point x="1823" y="2663"/>
+	<Point x="1835" y="2659"/>
+	<Point x="2066" y="2663"/>
+	<Point x="2351" y="2657"/>
+	<Point x="2345" y="2783"/>
+	<Point x="212" y="2789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Morphologische Untersuchungen (Hansenu. a.) bestätigen diese Auffassung in weitgehendem
+Maße. Vergleicht man nun die Mandibel eines Diplopoden mit der Maxille eines Collembolen, so findet</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="209" y="2811"/>
+	<Point x="2350" y="2811"/>
+	<Point x="2350" y="3176"/>
+	<Point x="209" y="3176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1) Bei Insekten wird in der Regel angegeben, daß der vor dem Antennensegment gelegene Teil des Kopfes, das
+Acron s. lat. einfach angelegt wird. Bei Chilopoden gelang Heymons der Nachweis eines postoralen Präantennalsegmentes
+hinter dem präoralen Acron s. str. Da er mit Recht das Acron der Insekten dem vereinigten Acron und Praantennal-
+segment der Chilopoden gleichsetzt, muß also ein Teil des ursprünglich als prӑoral betrachteten Insekten-Acron postoral
+sein. Da nun von jedem postoralen Segmente der ventrale Bogen hinter der Mundöffnung zu suchen ist, müssen auch
+von den Segmenten des Procephalon ursprünglich Teile hinter dem Munde bezw. im Bezirke der Hypopharynx (Dorsal‑
+partie) gelegen haben, ehe sie völliger Reduktion anheim fielen.</Unicode></TextEquiv></TextRegion></Page></PcGts>

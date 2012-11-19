@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672383">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T13:54:32</Created>
+	<LastChange>2012-02-10T09:54:37</LastChange></Metadata>
+	<Page imageFilename="00672383.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="794" y="160"/>
+	<Point x="1112" y="160"/>
+	<Point x="1112" y="237"/>
+	<Point x="794" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 189 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="83" y="291"/>
+	<Point x="1837" y="291"/>
+	<Point x="1837" y="1544"/>
+	<Point x="83" y="1544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der Vorderrand trägt einen weissen, glanzlosen, scharf begrenzten
+Längsstreifen, welcher bei 1/5 sehr fein anfängt, sich sanft er-
+weitert und am Ende, das am breitsten ist, eine feine Spitze
+bis in den Apicalwinkel aussendet. Die erste, helle Querlinie
+reicht von dem weissen Costalstreifen, in der Falte eine Ecke
+bildend, und den Basaltheil der ﬂeischfarbenen Stelle durch-
+schneidend bis zum Innenrand; sie ist sehr undeutlich, wird
+aber auswärts von einer schwärzlichen Linie begrenzt. Ihr nahe,
+diesseits der Flügelhälfte, ist am weissen Costalstreifen ein
+schwarzer, auf der Querader liegender Punkt. Die zweite helle
+Querlinie ist viel deutlicher als die erste; sie kommt vom Ende
+des Costalstreifens und ist gezähnelt und auf den Enden der
+Zähne basalwärts schwärzlich beschattet. Der Hinterrand trägt
+eine in tiefschwarze Striche zerschnittene Linie; Franzen ziemlich
+kurz, hell, gegen die Flügelspitze verdunkelt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="78" y="1548"/>
+	<Point x="1823" y="1548"/>
+	<Point x="1823" y="1791"/>
+	<Point x="78" y="1791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel dreieckig, dunkel braungrau, im Abdominal-
+felde blondhaarig. Franzen hellgrau, gegen die Flügelspitze
+dunkelﬂeckig.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="73" y="1798"/>
+	<Point x="1837" y="1798"/>
+	<Point x="1837" y="2291"/>
+	<Point x="73" y="2291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel unterhalb der gerötheten oder
+gelblichen Costalzelle mit einem schmalen, schwärzlichen, in
+der Mitte schwarz- und grobschuppigen Längsdreieck; Hinter-
+rand braunröthlich, Innenrand hellgrau. Von den 4 Aesten der
+Medianader kommt der erste von der Flügelhälfte; die Endgabel
+ist so lang wie 1/3 der Flügellänge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="191" y="2301"/>
+	<Point x="1816" y="2301"/>
+	<Point x="1816" y="2376"/>
+	<Point x="191" y="2376"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel hell braungrau, in der Spitze blass ﬂeischroth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="85" y="2380"/>
+	<Point x="1821" y="2380"/>
+	<Point x="1821" y="2632"/>
+	<Point x="85" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die zwei unverﬂogenen Männchen ﬁng Petersen bei Honda
+(in der tierra muy caliente) am Guarino, dem Nebenﬂuss des
+Magdalenenstromes, zwischen dem 8. und 15. Mai.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="405" y="2749"/>
+	<Point x="1503" y="2749"/>
+	<Point x="1503" y="2841"/>
+	<Point x="405" y="2841"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pycn. abrupta Tab. XI, ﬁg. 16. a. b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="78" y="2887"/>
+	<Point x="1826" y="2887"/>
+	<Point x="1826" y="3135"/>
+	<Point x="78" y="3135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alis ant. in dorso dilute carneis, linea costali utrimque
+abbreviata nitide nivea, trabe media lata obscure virescenti-fusca;
+post. pallide griseis, in apice obscuratis. ♂.</Unicode></TextEquiv></TextRegion></Page></PcGts>

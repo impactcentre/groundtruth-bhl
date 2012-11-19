@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668233">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:47:16</Created>
+	<LastChange>2012-02-10T09:52:46</LastChange></Metadata>
+	<Page imageFilename="00668233.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/>
+	<RegionRefIndexed regionRef="r23" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="941" y="255"/>
+	<Point x="1201" y="255"/>
+	<Point x="1201" y="341"/>
+	<Point x="941" y="341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>APPENDIX</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1901" y="276"/>
+	<Point x="2023" y="276"/>
+	<Point x="2023" y="344"/>
+	<Point x="1901" y="344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>209</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="139" y="383"/>
+	<Point x="1995" y="383"/>
+	<Point x="1995" y="760"/>
+	<Point x="139" y="760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An example of the Great Reed-Warbler was shot near St. Leonards, in
+September, 1903; a male at Bexhill, in May, 1905; one at Christchurch, Hants,
+in May, 1900; one seen at Horning, Norfolk, in May, 1906; there is also an
+example in the Charterhouse collection shot at Godalming (Surrey), in 1858, which
+had been overlooked by Ornithologists, and a specimen believed to be this species
+was shot at Tresco (Scilly), but escaped.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="139" y="770"/>
+	<Point x="1996" y="770"/>
+	<Point x="1996" y="883"/>
+	<Point x="139" y="883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Specimens (ten), of the Aquatic Warbler have been secured in Hampshire,
+Sussex, Norfolk, and Ireland, in addition to others seen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="138" y="887"/>
+	<Point x="1999" y="886"/>
+	<Point x="1999" y="1013"/>
+	<Point x="139" y="1013"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Additional records have been published of the shooting of the Alpine Accentor
+in Hampshire, Surrey, Norfolk, and Cornwall.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="138" y="1017"/>
+	<Point x="1999" y="1016"/>
+	<Point x="2000" y="1262"/>
+	<Point x="137" y="1265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Bearded Reedling has been obtained in Rutland, January, 1905, and ﬁve
+were seen near Godalming (Surrey), in 1902; one in Hertfordshire, in January,
+1905, and it is now believed to be on the increase in Norfolk; it has once
+occurred in Scilly.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="137" y="1268"/>
+	<Point x="2000" y="1265"/>
+	<Point x="1998" y="1503"/>
+	<Point x="138" y="1503"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A company of Long-tailed Tits was observed in 1903 in Lewis (Outer
+Hebrides), to which islands it was new. The Great Tit has also been recorded
+from Scotland, and the Shetlands. The Crested Tit was seen near Yarmouth in
+the autumn of 1888.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="144" y="1520"/>
+	<Point x="2000" y="1519"/>
+	<Point x="2004" y="1706"/>
+	<Point x="137" y="1707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Creeper was obtained in Shetland, in December, 1906; a Wall-Creeper
+was shot near Hastings, in December, 1905, and one in Alderney (Channel Islands),
+in December, 1899.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="138" y="2012"/>
+	<Point x="794" y="2012"/>
+	<Point x="794" y="2106"/>
+	<Point x="138" y="2106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—MOTACILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="566" y="2170"/>
+	<Point x="1584" y="2170"/>
+	<Point x="1584" y="2266"/>
+	<Point x="566" y="2266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GREY‐HEADED WAGTAIL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="804" y="2320"/>
+	<Point x="1361" y="2320"/>
+	<Point x="1361" y="2390"/>
+	<Point x="804" y="2390"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Motacilla borealis, SUND.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="275" y="2454"/>
+	<Point x="2006" y="2445"/>
+	<Point x="2005" y="2762"/>
+	<Point x="153" y="2768"/>
+	<Point x="151" y="2606"/>
+	<Point x="276" y="2605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HIS race of the Blue-headed Wagtail was obtained originally near Penzance.
+In 1901 one was caught near Halifax, and in 1903 two were shot near
+Willingdon, Sussex. A pair with nest and eggs were obtained in June,
+1906, in a marsh between Rye and Lydd. A male was shot at Winchelsea, in
+May, 1907.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="signature-mark">
+	<Coords>
+	<Point x="1656" y="2767"/>
+	<Point x="1725" y="2767"/>
+	<Point x="1725" y="2810"/>
+	<Point x="1656" y="2810"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="signature-mark">
+	<Coords>
+	<Point x="252" y="2782"/>
+	<Point x="372" y="2781"/>
+	<Point x="372" y="2813"/>
+	<Point x="253" y="2815"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="drop-capital">
+	<Coords>
+	<Point x="145" y="2453"/>
+	<Point x="145" y="2602"/>
+	<Point x="272" y="2602"/>
+	<Point x="272" y="2453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="950" y="1832"/>
+	<Point x="950" y="1864"/>
+	<Point x="1187" y="1864"/>
+	<Point x="1187" y="1832"/></Coords></SeparatorRegion></Page></PcGts>

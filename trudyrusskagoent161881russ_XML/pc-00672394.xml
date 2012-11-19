@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672394">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:26:54</Created>
+	<LastChange>2012-02-10T09:54:40</LastChange></Metadata>
+	<Page imageFilename="00672394.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="951" y="116"/>
+	<Point x="1258" y="116"/>
+	<Point x="1258" y="178"/>
+	<Point x="951" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 200 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="621" y="296"/>
+	<Point x="1612" y="296"/>
+	<Point x="1612" y="396"/>
+	<Point x="621" y="396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. bigrana Tab. XI, ﬁg. 21.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="235" y="432"/>
+	<Point x="1991" y="432"/>
+	<Point x="1991" y="866"/>
+	<Point x="235" y="866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Robusta, palpis lividis, nigro-unimaculatis; alis ant. sub-
+angustis, dilute luteo-griseis, strigis duabus pallidis, priore ob-
+soleta, posteriore interius punctis atris marginata, punctis duo-
+bus venae transversae magnis serieque punctorum marginali
+atris; post. cinerascentibus, pellucidis. ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="230" y="907"/>
+	<Point x="1992" y="907"/>
+	<Point x="1992" y="1573"/>
+	<Point x="230" y="1573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es ist mir wenig zweifelhaft, ob diese ziemlich grosse
+Art zu Myelois gehöre. Sie hat durchscheinende Hinterﬂügel
+und auf den bleich lehmgelbgrauen Vorderﬂügeln zwei grosse
+tiefschwarze Queraderpunkte und eine Hinterrandreihe scharfer
+tiefschwarzer Punkte. Von Exoleta, welche ebensolche Rand-
+punkte besitzt, unterscheidet sie sich ausser durch ihre zwei
+Queraderpunkte auch durch die zwei hellen, auf ihren zuge-
+wendeten Seiten schwarz gerandeten Querlinien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="226" y="1576"/>
+	<Point x="2014" y="1576"/>
+	<Point x="2014" y="2571"/>
+	<Point x="226" y="2571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sehr kräftig gebaut und wohlbeleibt. Körper bleich lehm-
+farbig. Taster bis über die etwas wulstig gerundete Stirn
+heraufreichend, stark, bleich, am Ende des zweiten Gliedes mit
+schwarzem Fleck; Endglied halb so lang wie dieses, zugespitzt.
+Maxillartaster deutlich. Sauger stark, dicht beschuppt. Füh-
+ler borstenförmig, mit starkem Wurzelgliede. Brust vor den
+Vorderhüften mit tiefschwarzer, quer übergezogener Bogenlinie.
+Beine bleich, nur die Tarsenglieder an der Wurzel braun;
+Mittel- und Hinterschienen auf dem Rücken an der Wurzel
+mit einem Haarbusch; die Hinterschienen am Ende durch Schup-
+pen erweitert. Der Legestachel steht aus dem abgestutzten
+Analgliede kaum hervor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="228" y="2576"/>
+	<Point x="1996" y="2576"/>
+	<Point x="1996" y="3094"/>
+	<Point x="228" y="3094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 6‴ lang, nicht sonderlich schmal, allmählich
+erweitert, mit deutlicher Spitze, schmutzig graubraungelblich.
+Der erste helle Querstreifen ist etwas gebogen und von der
+Basis doppelt so weit entfernt wie von den Queraderpunkten;
+er ist nur auswärts auf den Längsadern durch je ein tief-
+schwarzes Fleckchen begrenzt. Von den zwei tiefschwarzen.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669153">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:31:09</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669153.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r25" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r39" index="5"/>
+	<RegionRefIndexed regionRef="r45" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r59" index="9"/>
+	<RegionRefIndexed regionRef="r53" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="133" y="296"/>
+	<Point x="1493" y="296"/>
+	<Point x="1493" y="454"/>
+	<Point x="133" y="454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>contour, les inférieures arrondies et crénelées au bout,
+et les nombres comme il suit:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="145" y="728"/>
+	<Point x="1409" y="728"/>
+	<Point x="1409" y="819"/>
+	<Point x="145" y="819"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Notre individu est long de huit pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="54" y="821"/>
+	<Point x="1493" y="821"/>
+	<Point x="1493" y="1079"/>
+	<Point x="51" y="1079"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La grande diﬀérence du nombre des rayons
+mous de son anale et de sa dorsale est tout-
+à-fait caractéristique de son espèce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="59" y="1383"/>
+	<Point x="1494" y="1383"/>
+	<Point x="1494" y="1565"/>
+	<Point x="59" y="1565"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une ﬁgure de M. de Ketlitz nous oﬀre un
+acanthure voisin du doreensis,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="121" y="1574"/>
+	<Point x="1493" y="1574"/>
+	<Point x="1493" y="2187"/>
+	<Point x="121" y="2187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ayant de même les pointes de la caudale prolongées,
+la dorsale et l’anale un peu anguleuses en arrière, le
+proﬁl en arc de cercle vers le haut, presque droit
+au-dessous de l’æil, le museau légèrement saillant, et
+qui a tout le corps d’un brun de chocolat, avec des
+points bleus sur la tête, l’épaule et la poitrine, et
+les nageoires noirâtres, avec un liséré bleu à la dor‐
+sale et à l’anale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="120" y="550"/>
+	<Point x="1477" y="550"/>
+	<Point x="1483" y="717"/>
+	<Point x="124" y="717"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La moitié postérieure de sa pectorale est jaunâtre et
+le bord terminal de sa caudale a un liséré blanchâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="346" y="464"/>
+	<Point x="1246" y="464"/>
+	<Point x="1246" y="536"/>
+	<Point x="345" y="540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/28; A. 3/20; C. 16; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="heading">
+	<Coords>
+	<Point x="312" y="1162"/>
+	<Point x="1239" y="1162"/>
+	<Point x="1239" y="1256"/>
+	<Point x="312" y="1256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE BORDÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="312" y="1278"/>
+	<Point x="1239" y="1278"/>
+	<Point x="1239" y="1376"/>
+	<Point x="312" y="1376"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus marginatus, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="126" y="2280"/>
+	<Point x="1309" y="2280"/>
+	<Point x="1309" y="2394"/>
+	<Point x="126" y="2394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ﬁgure a quatre pouces et demi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords>
+	<Point x="564" y="2199"/>
+	<Point x="1064" y="2199"/>
+	<Point x="1064" y="2269"/>
+	<Point x="564" y="2269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 926; A. 3/23, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="header">
+	<Coords>
+	<Point x="466" y="190"/>
+	<Point x="1071" y="190"/>
+	<Point x="1071" y="282"/>
+	<Point x="466" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="page-number">
+	<Coords>
+	<Point x="1328" y="190"/>
+	<Point x="1462" y="190"/>
+	<Point x="1462" y="282"/>
+	<Point x="1328" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>221</Unicode></TextEquiv></TextRegion></Page></PcGts>

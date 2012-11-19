@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672513">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:49:04</Created>
+	<LastChange>2012-02-10T09:55:04</LastChange></Metadata>
+	<Page imageFilename="00672513.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="733" y="187"/>
+	<Point x="1053" y="187"/>
+	<Point x="1053" y="267"/>
+	<Point x="733" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 317 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="30" y="312"/>
+	<Point x="1758" y="312"/>
+	<Point x="1758" y="996"/>
+	<Point x="30" y="996"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die schmale in der Mitte abgekürzte Mittellinie des Tho-
+rax und 2 kleine Punkte an der Basis, auf den Decken, 2
+runde Flecke auf den Schultern, 2 längliche auf der Basis des
+Zwischenraumes 3, eine quere Binde hinter der Mitte, jeder-
+seits die 3 ersten Zwischenräume einnehmend, mehrere quer ge-
+stellte Makeln vor der Spitze und die Schenkel auf der Un-
+terseite weiss; letztere mit einem deutlichen Zahn; Klauen-
+glied so lang als die 2 ersten Tarsenglieder.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="155" y="1008"/>
+	<Point x="1476" y="1008"/>
+	<Point x="1476" y="1089"/>
+	<Point x="155" y="1089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1 Stück aus der Kirgisensteppe (Eversmann).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="41" y="1108"/>
+	<Point x="1785" y="1108"/>
+	<Point x="1785" y="2364"/>
+	<Point x="41" y="2364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die gezähnten Schenkel sind bei den Smicronyx Arten
+eine gewöhnliche Erscheinung, obgleich dieselben bisher nir-
+gend erwähnt werden; namentlich deutlich sind die Schenkel-
+zähne bei ♂, schwächer oder schwer sichtbar bei ♀. Wahr-
+scheinlich werden die Schenkelzähne generischen Werth erlan-
+gen, wenn ihr Vorhandensein bei allen bekannten Arten kon-
+statirt sein wird, wie bei den von mir untersuchten Cyaneus
+Sch., Politus Sch., Variegatus Gyll., Jungermanniae Reiche,
+Cretaceus Tourn., Reichei Gyll., Ruﬁpes Kiesw., Kiesen-
+wetteri Tourn., Ruﬁpennis Tourn., Albosignatus Suffr., Fas-
+ciatus Motsch., 2 Expl. indet. Amerika. Bei einem allerdings
+nicht ganz reinen Stück aus Marocco, welches ich auf Fune-
+bris Tourn. deute und welches mit seinem längeren Rüssel
+ein ♀ zu sein scheint, war es mir nicht möglich den Schen-
+kelzahn aufzuﬁnden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="353" y="2469"/>
+	<Point x="1467" y="2469"/>
+	<Point x="1467" y="2567"/>
+	<Point x="353" y="2567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bagoopsis n. gen. Erirrhinarum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="173" y="2685"/>
+	<Point x="758" y="2685"/>
+	<Point x="758" y="2762"/>
+	<Point x="173" y="2762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Corpus squamulatum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="169" y="2769"/>
+	<Point x="833" y="2769"/>
+	<Point x="833" y="2846"/>
+	<Point x="169" y="2846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oculi laterales, oblongi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="158" y="2851"/>
+	<Point x="1201" y="2851"/>
+	<Point x="1201" y="2932"/>
+	<Point x="158" y="2932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mentum breve, labrum haud obtegens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="157" y="2935"/>
+	<Point x="1141" y="2935"/>
+	<Point x="1141" y="3010"/>
+	<Point x="157" y="3010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rostrum cylindricum, minus tenue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="162" y="3016"/>
+	<Point x="1175" y="3016"/>
+	<Point x="1175" y="3099"/>
+	<Point x="162" y="3099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Scrobes ad basin rostri convergentes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

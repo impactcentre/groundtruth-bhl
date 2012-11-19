@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669033">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:46:29</Created>
+	<LastChange>2012-02-09T16:27:29</LastChange></Metadata>
+	<Page imageFilename="00669033.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="85" y="274"/>
+	<Point x="1500" y="274"/>
+	<Point x="1500" y="541"/>
+	<Point x="85" y="541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pouvoir conclure ce nombre d’après celui de
+la dorée; ses autres nombres reviennent à peu
+près aux nôtres, si ce n’est pour l’anale:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="432" y="548"/>
+	<Point x="1157" y="548"/>
+	<Point x="1157" y="616"/>
+	<Point x="432" y="616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 7/17; A. 3/17; C. 18; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="80" y="625"/>
+	<Point x="1513" y="625"/>
+	<Point x="1513" y="1392"/>
+	<Point x="80" y="1392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. de Lacépède, dans son article sur le
+zée rusé (t. IV, p. 575), parle d’une variété
+de cette espèce qu’il aurait vue dans un recueil
+de peintures chinoises, mais nous nous sommes
+assurés que c’est la même ﬁgure qu’il a déjà
+confondue avec le lampris, et sur laquelle il
+a établi ensuite son genre Méné et son espèce
+du méné Anne-Caroline. Nous serons bientôt
+dans le cas d’en reparler.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="76" y="1394"/>
+	<Point x="1513" y="1394"/>
+	<Point x="1513" y="1643"/>
+	<Point x="76" y="1643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le zeus insidiator envoyé par Kænig re‐
+monte dans les eaux douces des environs de
+Surate; sa chair y est estimée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="74" y="1647"/>
+	<Point x="1513" y="1647"/>
+	<Point x="1514" y="1888"/>
+	<Point x="1031" y="1885"/>
+	<Point x="988" y="1899"/>
+	<Point x="74" y="1899"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Leschenault dit aussi que son olé-karé
+est bon à manger, mais il ne parle point des
+lieux où on le prend.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="75" y="1903"/>
+	<Point x="992" y="1903"/>
+	<Point x="1033" y="1892"/>
+	<Point x="1511" y="1895"/>
+	<Point x="1512" y="2325"/>
+	<Point x="80" y="2325"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Dussumier nous assure qu’à la côte de
+Malabar l’espèce est si abondante que les na‐
+turels en font sécher des quantités considé‐
+rables qui deviennent une ressource pour eux
+dans la mauvaise saison.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="1048" y="169"/>
+	<Point x="1048" y="250"/>
+	<Point x="520" y="250"/>
+	<Point x="520" y="169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1486" y="169"/>
+	<Point x="1486" y="250"/>
+	<Point x="1357" y="250"/>
+	<Point x="1357" y="169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>101</Unicode></TextEquiv></TextRegion></Page></PcGts>

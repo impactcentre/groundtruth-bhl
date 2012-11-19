@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669205">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:37:22</Created>
+	<LastChange>2012-03-12T14:33:49</LastChange></Metadata>
+	<Page imageFilename="00669205.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r13" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="98" y="298"/>
+	<Point x="1537" y="298"/>
+	<Point x="1534" y="559"/>
+	<Point x="100" y="562"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Selon MM. Lesson et Garnot, son nom, à
+Waigiou, est inécare, et dans les Carolines,
+mossa. Les Malais l’appellent kooulipassère.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="177" y="566"/>
+	<Point x="973" y="563"/>
+	<Point x="976" y="641"/>
+	<Point x="176" y="641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces naturalistes le disent</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="124" y="656"/>
+	<Point x="1569" y="656"/>
+	<Point x="1569" y="1107"/>
+	<Point x="124" y="1107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gris foncé sur le dos, presque noir sur la corne,
+roussâtre au ventre; ses nageoires dorsale et anale
+ont les rayons rougeâtres, des traits obliques oli‐
+vâtres et un liséré noirâtre. La caudale a ses bords
+supérieur et inférieur noirâtres, et un liséré vert à
+son bord terminal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="196" y="1114"/>
+	<Point x="1118" y="1114"/>
+	<Point x="1118" y="1186"/>
+	<Point x="196" y="1186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ils donnent les nombres suivans:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="362" y="1200"/>
+	<Point x="1281" y="1200"/>
+	<Point x="1281" y="1285"/>
+	<Point x="362" y="1285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 6/28; A. 2/28; C. 20; P. 16; V. 1/3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="223" y="1292"/>
+	<Point x="1259" y="1292"/>
+	<Point x="1259" y="1372"/>
+	<Point x="223" y="1372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Leur individu était long de trois pieds.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="63" y="1380"/>
+	<Point x="1529" y="1380"/>
+	<Point x="1529" y="1636"/>
+	<Point x="63" y="1636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il nous paraît probable que leurs notes
+n’ont pas été prises sur un poisson récemment
+tiré de l’eau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="64" y="1643"/>
+	<Point x="1520" y="1643"/>
+	<Point x="1520" y="1975"/>
+	<Point x="64" y="1975"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MM. Quoy et Gaimard l’ont de nouveau
+observé et dessiné à Guam, et les couleurs
+sont semblables à celles qu’ont trouvées tous
+les autres observateurs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="52" y="1982"/>
+	<Point x="1524" y="1982"/>
+	<Point x="1520" y="2394"/>
+	<Point x="476" y="2410"/>
+	<Point x="244" y="2411"/>
+	<Point x="50" y="2412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Webber, peintre du troisième voyage de
+Cook, en a laissé une ﬁgure, faite aux îles
+Sandwich, où on le nomme Ecar-vah. Les
+nageoires dorsale et anale ont des lignes obli‐
+ques jaunes et un liséré bleu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="68" y="2415"/>
+	<Point x="311" y="2415"/>
+	<Point x="691" y="2411"/>
+	<Point x="692" y="2413"/>
+	<Point x="734" y="2410"/>
+	<Point x="1505" y="2398"/>
+	<Point x="1503" y="2669"/>
+	<Point x="1300" y="2669"/>
+	<Point x="1295" y="2649"/>
+	<Point x="645" y="2650"/>
+	<Point x="641" y="2667"/>
+	<Point x="69" y="2667"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forskal et M. Ehrenberg l’ont pris dans la
+mer Rouge : le premier nous apprend que
+les Arabes de Djedda le nomment abu-garn</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="signature-mark">
+	<Coords>
+	<Point x="1142" y="2658"/>
+	<Point x="1257" y="2658"/>
+	<Point x="1257" y="2730"/>
+	<Point x="1142" y="2730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="signature-mark">
+	<Coords>
+	<Point x="192" y="2682"/>
+	<Point x="297" y="2682"/>
+	<Point x="297" y="2736"/>
+	<Point x="192" y="2736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="header">
+	<Coords>
+	<Point x="537" y="184"/>
+	<Point x="1057" y="184"/>
+	<Point x="1057" y="285"/>
+	<Point x="537" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. NASONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="page-number">
+	<Coords>
+	<Point x="1372" y="184"/>
+	<Point x="1536" y="184"/>
+	<Point x="1536" y="285"/>
+	<Point x="1372" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>273</Unicode></TextEquiv></TextRegion></Page></PcGts>

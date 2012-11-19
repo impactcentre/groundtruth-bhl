@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669264">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:44:57</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669264.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="362" y="289"/>
+	<Point x="1732" y="289"/>
+	<Point x="1730" y="523"/>
+	<Point x="814" y="530"/>
+	<Point x="592" y="531"/>
+	<Point x="362" y="531"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la ﬁgure) tous les petits rayons du lobe inférieur de
+la caudale, et que le dernier de ces ﬁlets est un peu
+plus alongé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="367" y="535"/>
+	<Point x="616" y="535"/>
+	<Point x="1720" y="528"/>
+	<Point x="1720" y="1361"/>
+	<Point x="370" y="1361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’abdomen paraît pendant et lobé comme une es‐
+pèce de fanon, et la queue au contraire a sa partie
+inférieure au-dessous de la ligne latérale, très-peu
+élevée, en sorte que le tranchant de l’abdomen y
+est tout rapproché de la ligne latérale; mais je ne
+sais si dans une espèce si molle, si peu consistante,
+de pareils changemens de forme n’ont pas pu arri‐
+ver par accident: nous sommes d’autant plus dis‐
+posés à le croire, que nous observons quelque chose
+d’approchant dans l’individu de Nice, dont nous
+avons parlé en cinquième lieu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="291" y="1367"/>
+	<Point x="1737" y="1367"/>
+	<Point x="1737" y="2293"/>
+	<Point x="291" y="2293"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Bonnelli n’a compté que cent vingt
+rayons à la dorsale, y compris les six qu’il
+trouve dans le panache; mais il faudrait sa‐
+voir s’il n’en a pas négligé quelques-uns, ce
+qui est extrêmement facile, surtout en arrière.
+Dans le cas où son calcul serait juste, une
+diﬀérence de vingt-quatre ou vingt-six rayons
+ne pourrait guère s’expliquer autrement que
+par une diﬀérence d’espèce. A l’appui de cette
+opinion viendrait aussi la diﬀérente disposi‐
+tion des taches.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="343" y="2299"/>
+	<Point x="1719" y="2299"/>
+	<Point x="1719" y="2700"/>
+	<Point x="343" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y en a deux noirâtres sur le panache de la nuque,
+et l’on en voit cinq sur la dernière moitié de la dor‐
+sale. La caudale a son milieu et la moitié voisine du
+bord colorés en noir; le fond de toutes ces na‐
+geoires est d’un beau rouge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="307" y="188"/>
+	<Point x="450" y="188"/>
+	<Point x="450" y="279"/>
+	<Point x="307" y="279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>332</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="728" y="188"/>
+	<Point x="1312" y="188"/>
+	<Point x="1312" y="279"/>
+	<Point x="728" y="279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

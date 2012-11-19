@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669353">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:55:32</Created>
+	<LastChange>2012-03-12T14:33:57</LastChange></Metadata>
+	<Page imageFilename="00669353.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="63" y="263"/>
+	<Point x="1471" y="263"/>
+	<Point x="1471" y="522"/>
+	<Point x="63" y="522"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et qui y en a joint une troisième (le mocho
+ou mochone de la même île), ne les a regar-
+dées toutes que comme des variétés.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="45" y="524"/>
+	<Point x="1478" y="524"/>
+	<Point x="1478" y="1031"/>
+	<Point x="45" y="1031"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est M. Risso qui a le premier reproduit
+le joël ou le cabasuda comme une espèce
+distincte, sous le nom d'Athérine Boyer, mais
+sans s'apercevoir ou se rappeler que cette
+espèce avait déjà été indiquée et représentée
+par Rondelet.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="45" y="1032"/>
+	<Point x="1487" y="1032"/>
+	<Point x="1487" y="1708"/>
+	<Point x="45" y="1708"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une observation attentive nous a convaincus
+que le mochone d'Iviça est aussi une espèce
+particulière; mais ce qui nous a le plus étonnés,
+c'est d'avoir découvert que l'athérine la plus
+commune sur les côtes de l'Océan, le roséré
+ou le prêtre, n'est ni le sauclet, ni aucune
+de ces trois espèces de la Méditerranée, et
+qu'elle a ses caractères propres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="56" y="1712"/>
+	<Point x="1486" y="1712"/>
+	<Point x="1486" y="2118"/>
+	<Point x="56" y="2118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voilà donc quatre athérines de nos côtes
+dont nous pourrons donner la description
+d'après nature sur un grand nombre d'indivi-
+dus, et qui seront parfaitement constatées par
+des caractères intérieurs et extérieurs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="54" y="2122"/>
+	<Point x="1497" y="2122"/>
+	<Point x="1497" y="2397"/>
+	<Point x="54" y="2397"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y en existe quelques autres plus obscures
+ou plus rares, que nous décrirons à leur suite,
+avant de passer aux espèces étrangères. On</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="68" y="2502"/>
+	<Point x="1504" y="2502"/>
+	<Point x="1504" y="2648"/>
+	<Point x="68" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Laroche, Annales du Muséum, t. XIII, p. 358. — 2. Pre-
+mière édition, p. 337 et 338; deuxième édition, p. 469 et 470.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="71" y="2440"/>
+	<Point x="1478" y="2440"/>
+	<Point x="1478" y="2464"/>
+	<Point x="71" y="2464"/></Coords></SeparatorRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="929" y="158"/>
+	<Point x="929" y="236"/>
+	<Point x="609" y="236"/>
+	<Point x="609" y="158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1311" y="158"/>
+	<Point x="1456" y="158"/>
+	<Point x="1456" y="236"/>
+	<Point x="1311" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>421</Unicode></TextEquiv></TextRegion></Page></PcGts>

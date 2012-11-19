@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669372">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:58:03</Created>
+	<LastChange>2012-03-12T14:33:58</LastChange></Metadata>
+	<Page imageFilename="00669372.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="359" y="259"/>
+	<Point x="1771" y="259"/>
+	<Point x="1771" y="431"/>
+	<Point x="359" y="431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l'œil moins gros, la bouche moins approchant
+de la verticale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="411" y="478"/>
+	<Point x="1778" y="478"/>
+	<Point x="1778" y="775"/>
+	<Point x="1423" y="774"/>
+	<Point x="1400" y="786"/>
+	<Point x="411" y="786"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur est cinq fois et un quart dans sa lon-
+gueur, et la distance du bout du museau à l'angle
+de l'opercule y est comprise cinq fois. Le diamètre
+de son œil fait plus du tiers de la longueur de sa tête.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="404" y="790"/>
+	<Point x="1424" y="790"/>
+	<Point x="1462" y="779"/>
+	<Point x="1783" y="779"/>
+	<Point x="1783" y="1395"/>
+	<Point x="404" y="1395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son museau est un peu plus court qu'au sauclet
+et moins qu'au joël. La fente de sa bouche est obli-
+que, à peu près comme dans le sauclet, et ses dents
+ressemblent aussi à celles de cette espèce. J'en ai vu
+cependant plus distinctement à son vomer, toutefois
+cela varie selon les individus. Son anale a quinze et
+jusqu'à seize rayons mous. Sa deuxième dorsale en a
+douze. On ne compte que huit épines à la première.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="524" y="1406"/>
+	<Point x="1687" y="1406"/>
+	<Point x="1687" y="1489"/>
+	<Point x="524" y="1489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 8—1/12; A. 1/15 ou 16; C. 17; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="420" y="1498"/>
+	<Point x="1785" y="1498"/>
+	<Point x="1785" y="1946"/>
+	<Point x="1194" y="1947"/>
+	<Point x="1168" y="1957"/>
+	<Point x="420" y="1958"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ses couleurs sont plus claires. Le fond de celle
+du dos est jaunâtre ou mieux verdâtre; les petits
+points noirâtres des écailles du dos sont moins ser-
+rés. Il n'y en a que de très-petits et en petit nom-
+bre sur l'opercule. On en voit quelques-uns irrégu-
+lièrement épars sur les ﬂancs et le ventre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="417" y="1960"/>
+	<Point x="1210" y="1960"/>
+	<Point x="1235" y="1950"/>
+	<Point x="1796" y="1950"/>
+	<Point x="1797" y="2107"/>
+	<Point x="417" y="2107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ses viscères ressemblent à ceux du sauclet. Le foie
+est un peu plus grand, l'estomac un peu plus petit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="422" y="2109"/>
+	<Point x="1793" y="2109"/>
+	<Point x="1793" y="2254"/>
+	<Point x="750" y="2254"/>
+	<Point x="732" y="2261"/>
+	<Point x="422" y="2260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'éclat argenté de la surface externe du péritoine
+est encore plus vif; la vessie natatoire est plus petite.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="431" y="2265"/>
+	<Point x="739" y="2265"/>
+	<Point x="763" y="2256"/>
+	<Point x="1786" y="2256"/>
+	<Point x="1786" y="2656"/>
+	<Point x="431" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son squelette a cinquante vertèbres. De la vingt-
+cinquième à la trentième, les apophyses transverses
+se dilatent et s'unissent pour former un cornet plus
+solide que ceux des espèces précédentes, dans lequel
+s'enfonce la pointe de la vessie natatoire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="500" y="166"/>
+	<Point x="500" y="240"/>
+	<Point x="362" y="240"/>
+	<Point x="362" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>440</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="1289" y="166"/>
+	<Point x="1289" y="240"/>
+	<Point x="840" y="240"/>
+	<Point x="840" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

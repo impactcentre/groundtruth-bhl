@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668873">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:55:44</Created>
+	<LastChange>2012-02-10T10:29:42</LastChange></Metadata>
+	<Page imageFilename="00668873.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="897" y="938"/>
+	<Point x="1578" y="938"/>
+	<Point x="1578" y="1059"/>
+	<Point x="897" y="1059"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MONOGRAPH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1033" y="1152"/>
+	<Point x="1419" y="1152"/>
+	<Point x="1419" y="1233"/>
+	<Point x="1033" y="1233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OF THE GENUS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="569" y="1330"/>
+	<Point x="1869" y="1330"/>
+	<Point x="1869" y="1473"/>
+	<Point x="569" y="1473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIDARIA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="878" y="1650"/>
+	<Point x="1723" y="1650"/>
+	<Point x="1723" y="1923"/>
+	<Point x="878" y="1923"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Not lost the time in sea-side ramble spent;
+Braced is the frame, and mental health is gained;
+Knowledge is gained of Him who made the deep,
+And blissful love acquired of Nature’s works.
+Each rock-pool has its treasure, every tide
+Strews on the yellow sand from Ocean’s lap.—Landsborough.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="other">
+	<Coords>
+	<Point x="936" y="1581"/>
+	<Point x="936" y="1614"/>
+	<Point x="1502" y="1614"/>
+	<Point x="1502" y="1581"/></Coords></GraphicRegion>
+	<GraphicRegion id="r13" type="other">
+	<Coords>
+	<Point x="931" y="1972"/>
+	<Point x="931" y="2007"/>
+	<Point x="1484" y="2007"/>
+	<Point x="1484" y="1972"/></Coords></GraphicRegion></Page></PcGts>

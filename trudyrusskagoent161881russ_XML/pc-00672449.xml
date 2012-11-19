@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672449">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:37:30</Created>
+	<LastChange>2012-02-10T09:54:55</LastChange></Metadata>
+	<Page imageFilename="00672449.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="349" y="437"/>
+	<Point x="1583" y="437"/>
+	<Point x="1583" y="544"/>
+	<Point x="349" y="544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Namen der abgebildeten Arten.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords>
+	<Point x="86" y="669"/>
+	<Point x="1820" y="669"/>
+	<Point x="1820" y="2642"/>
+	<Point x="86" y="2642"/></Coords></TableRegion>
+	<SeparatorRegion id="r4">
+	<Coords>
+	<Point x="785" y="2973"/>
+	<Point x="785" y="3021"/>
+	<Point x="1094" y="3021"/>
+	<Point x="1094" y="2973"/></Coords></SeparatorRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="817" y="167"/>
+	<Point x="817" y="253"/>
+	<Point x="1166" y="253"/>
+	<Point x="1166" y="167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 255 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

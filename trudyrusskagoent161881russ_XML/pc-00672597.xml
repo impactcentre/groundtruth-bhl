@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672597">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:33:14</Created>
+	<LastChange>2012-02-10T09:55:16</LastChange></Metadata>
+	<Page imageFilename="00672597.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="803" y="173"/>
+	<Point x="1125" y="173"/>
+	<Point x="1125" y="253"/>
+	<Point x="803" y="253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 401 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="92" y="294"/>
+	<Point x="1835" y="294"/>
+	<Point x="1835" y="810"/>
+	<Point x="92" y="810"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette nouvelle forme a un habitus tellement diﬀérent de
+toutes les variétés de la Phoebe, connues jusqu'ici, qu'on la
+prendrait volontiers pour une espèce distincte. Mais après un
+examen attentif, je me suis presque convaincu, que la Sibina
+n'est qu'une variété très tranchée de la Phoebe; et je la de-
+cris comme telle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="87" y="821"/>
+	<Point x="1839" y="821"/>
+	<Point x="1839" y="1249"/>
+	<Point x="87" y="1249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je dois ajouter que l'opinion des Naturalistes aux-quels
+j'ai soumis la Sibina, se partage, et qu'il ne sera pas possible
+de résoudre la question, avant qu'on ait un grand nombre
+d'individus de cette Melitaea à examiner; malheureusement je
+n'en possède que quelques ♂♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="89" y="1258"/>
+	<Point x="1824" y="1258"/>
+	<Point x="1824" y="1426"/>
+	<Point x="89" y="1426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle est de la taille de la Phoebe typique; mais elle s'en
+distingue par son facies qui est diﬀérent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="89" y="1435"/>
+	<Point x="1833" y="1435"/>
+	<Point x="1833" y="1935"/>
+	<Point x="89" y="1935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je trouve que le bord antérieur des premières ailes est
+plus arqué que chez les Phoebe (typiques et variétés) de ma
+collection. En outre les ailes postérieures sont plus profon-
+dément dentelées. Voilà pour l'habitus. Le fond des ailes,
+qui est généralement d'un fauve-rougeâtre chaud, semble su-
+jet à varier. L'un de mes ♂♂ est d'un rouge-brique.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="92" y="1946"/>
+	<Point x="1839" y="1946"/>
+	<Point x="1839" y="2198"/>
+	<Point x="92" y="2198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pour le dessin du dessus, la Sibina est comparable à la
+var. Aetherea de la Russie orientale; cependant il est plus ﬁn
+et en même temps plus net que chez celle-ci.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="91" y="2208"/>
+	<Point x="1839" y="2208"/>
+	<Point x="1839" y="2710"/>
+	<Point x="91" y="2710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les points noirs sont plus petits et ne s'attouchent que
+sur quelques individus. L'espace compris entre le limbe exté-
+rieur et la série de points médiane est presque immaculé, sauf
+qu'il se trouve sous la côte et devant le bord interne des tra-
+ces de la raie extérieure, qu'ont les Phoebe et ses variétés,
+et qui est déjà bien oblitérée chez la v. Aetherea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="91" y="2719"/>
+	<Point x="1821" y="2719"/>
+	<Point x="1821" y="3049"/>
+	<Point x="91" y="3049"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le limbe est double, comme chez l'Aetherea, c. à d. que
+la raie subterminale, unie à la marge extérieure sur les ner-
+vures, encadre des lunules marginales fauves, généralement
+beaucoup plus claires que le fond.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="226" y="3098"/>
+	<Point x="542" y="3098"/>
+	<Point x="542" y="3157"/>
+	<Point x="226" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1603" y="3099"/>
+	<Point x="1674" y="3099"/>
+	<Point x="1674" y="3164"/>
+	<Point x="1603" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>26</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669335">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:53:28</Created>
+	<LastChange>2012-03-12T14:33:56</LastChange></Metadata>
+	<Page imageFilename="00669335.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r19" index="6"/>
+	<RegionRefIndexed regionRef="r21" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="138" y="238"/>
+	<Point x="1506" y="238"/>
+	<Point x="1506" y="723"/>
+	<Point x="138" y="723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>noirs; les joues et les nageoires verticales rose; ces
+dernières bordées d’un rouge de brique semblable
+à celui du corps; les nageoires paires jaunes. Elle
+a une tache noire oblongue vers le devant de la
+dorsale; mais elle est beaucoup plus petite que celle
+de la cépole précédente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="86" y="737"/>
+	<Point x="1512" y="737"/>
+	<Point x="1512" y="1262"/>
+	<Point x="86" y="1262"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ﬁgures représentent dans ces deux es‐
+pèces la nageoire de la queue complétement
+continue avec celle du dos et de l’anus, comme
+dans les anguilles; mais je ne sais pas jusqu’à
+quel point elles sont exactes: sous ce rapport
+il est aisé de se tromper.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="405" y="1356"/>
+	<Point x="1184" y="1356"/>
+	<Point x="1184" y="1441"/>
+	<Point x="405" y="1441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La CÉPOLE RACCOURCIE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="520" y="1469"/>
+	<Point x="1073" y="1469"/>
+	<Point x="1073" y="1556"/>
+	<Point x="520" y="1556"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Cepola abreviata.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="84" y="1576"/>
+	<Point x="1509" y="1576"/>
+	<Point x="1509" y="2106"/>
+	<Point x="84" y="2106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ferons la même observation à l’égard
+d’un poisson que nous ne connaissons que
+par les dessins trouvés dans les papiers de
+MM. Kuhl, Van-Hasselt et Mertens. Ce der‐
+nier naturaliste l’avait pris dans l’archipel des
+Moluques.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="151" y="2120"/>
+	<Point x="1504" y="2120"/>
+	<Point x="1504" y="2354"/>
+	<Point x="151" y="2354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La tête est semblable à celle de nos cépoles; le
+corps est beaucoup plus court qu’aucun des autres.
+La dorsale et l’anale sont réunies à la caudale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="220" y="2530"/>
+	<Point x="1504" y="2530"/>
+	<Point x="1504" y="2633"/>
+	<Point x="220" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le corps est rose, avec des bandes ou des taches</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="531" y="154"/>
+	<Point x="1049" y="154"/>
+	<Point x="1049" y="223"/>
+	<Point x="531" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. CÉPOLES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1345" y="136"/>
+	<Point x="1494" y="136"/>
+	<Point x="1494" y="222"/>
+	<Point x="1345" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>403</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="212" y="2361"/>
+	<Point x="1455" y="2361"/>
+	<Point x="1455" y="2443"/>
+	<Point x="212" y="2443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voici les nombres comptés par M. de Mertens:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="390" y="2450"/>
+	<Point x="1272" y="2450"/>
+	<Point x="1272" y="2523"/>
+	<Point x="390" y="2523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 156; A. 76; C. . . .; P. 18; V. 1/5.</Unicode></TextEquiv></TextRegion></Page></PcGts>

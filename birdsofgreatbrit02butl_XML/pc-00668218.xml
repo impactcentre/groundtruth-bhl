@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668218">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T20:15:39</Created>
+	<LastChange>2012-02-10T09:52:45</LastChange></Metadata>
+	<Page imageFilename="00668218.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="240" y="216"/>
+	<Point x="338" y="216"/>
+	<Point x="338" y="264"/>
+	<Point x="240" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>198</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="871" y="207"/>
+	<Point x="1473" y="207"/>
+	<Point x="1473" y="266"/>
+	<Point x="871" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SHORT-TOED LARK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="226" y="326"/>
+	<Point x="2114" y="326"/>
+	<Point x="2114" y="1133"/>
+	<Point x="226" y="1133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>April in the north of India, diﬀerent ﬂocks often unite into vast troops, containing
+many thousand birds, and quite darkening the air, so close do they keep together,
+even when ﬂying. Great numbers are netted in some parts of the country, or
+taken by bird-lime, or shot; for when feeding, they keep close to each other.
+On one occasion, on the cavalry parade ground, at Kamptee, I bagged twelve
+dozen birds after discharging both barrels, and many wounded birds escaped.
+They get quite fat about this time, and are really very excellent eating, and they
+are always called Ortolan by Europeans in India. They leave the north of India
+about the end of April, or beginning of May, and they breed in the steppes of
+Central Asia, Eastern Russia, and also in Northern Africa, placing their nest on
+the ground at the edge of a scrub or bush, and laying four to six eggs, usually
+marked with grey and rufous spots, but sometimes, it is said, unspotted yellow-
+brown.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="242" y="1140"/>
+	<Point x="2119" y="1140"/>
+	<Point x="2119" y="1261"/>
+	<Point x="242" y="1261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is probable that, as with all the Larks, insects form a large proportion of
+this bird's food in summer and seed in winter.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="238" y="1269"/>
+	<Point x="2128" y="1269"/>
+	<Point x="2128" y="1455"/>
+	<Point x="238" y="1455"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Herr Gätke says (“The Birds of Heligoland,” pp. 359-360):—“Formerly,
+hardly a year passed without this pretty little Lark being observed here at the
+end of May or June, even though only in very solitary instances.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="233" y="1461"/>
+	<Point x="2133" y="1461"/>
+	<Point x="2133" y="1766"/>
+	<Point x="233" y="1766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In former years, when more favourable conditions of weather prevailed, the
+bird was seen pretty frequently in autumn, sometimes even as late as November.
+During the time I have been collecting, it has passed through my hands about
+thirty times; and besides that, it has been seen and heard, without being killed,
+on an equal number of occasions.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="235" y="1773"/>
+	<Point x="2130" y="1773"/>
+	<Point x="2130" y="2338"/>
+	<Point x="235" y="2338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I kept one of these pretty little birds over a year in a cage; it had been
+momentarily stunned by a very light shot which had grazed the back of its head,
+but recovered very soon, and became extraordinarily tame. It underwent a
+complete moult in the autumn, managed to get safely through the winter, and
+sang heartily during the spring; but died, much to my regret, at the beginning
+of the summer. Its song was much more like that of a Bunting than a Sky-
+Lark. I fed it on Canary-seed, which, like a Lapland Bunting in a cage hanging
+by its side, it used to peel* before consuming; a Shore-Lark on the other hand,
+which I had had for over ten years in a cage, never did this.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="350" y="2652"/>
+	<Point x="1438" y="2652"/>
+	<Point x="1438" y="2721"/>
+	<Point x="350" y="2721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* This should have been translated “husk” (not peel).—A.G.B.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="1066" y="2485"/>
+	<Point x="1314" y="2485"/>
+	<Point x="1314" y="2509"/>
+	<Point x="1066" y="2509"/></Coords></SeparatorRegion></Page></PcGts>

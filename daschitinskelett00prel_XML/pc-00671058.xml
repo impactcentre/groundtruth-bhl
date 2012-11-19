@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671058">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T17:37:43</Created>
+	<LastChange>2012-03-12T14:34:02</LastChange></Metadata>
+	<Page imageFilename="00671058.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="998" y="1566"/>
+	<Point x="1650" y="1566"/>
+	<Point x="1650" y="1615"/>
+	<Point x="998" y="1615"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— Nachdruck verboten —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="926" y="2921"/>
+	<Point x="1702" y="2921"/>
+	<Point x="1702" y="3004"/>
+	<Point x="926" y="3004"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chr. Belser'sche Buchdruckerei, Stuttgart.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="other">
+	<Coords>
+	<Point x="999" y="1520"/>
+	<Point x="999" y="1554"/>
+	<Point x="1649" y="1554"/>
+	<Point x="1649" y="1520"/></Coords></GraphicRegion>
+	<GraphicRegion id="r5" type="other">
+	<Coords>
+	<Point x="995" y="1633"/>
+	<Point x="995" y="1660"/>
+	<Point x="1650" y="1660"/>
+	<Point x="1650" y="1633"/></Coords></GraphicRegion></Page></PcGts>

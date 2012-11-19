@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669154">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:31:15</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669154.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r44" index="4"/>
+	<RegionRefIndexed regionRef="r36" index="5"/>
+	<RegionRefIndexed regionRef="r28" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r46" index="10"/>
+	<RegionRefIndexed regionRef="r52" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="379" y="149"/>
+	<Point x="523" y="149"/>
+	<Point x="523" y="246"/>
+	<Point x="379" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>222</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="819" y="184"/>
+	<Point x="1356" y="184"/>
+	<Point x="1356" y="245"/>
+	<Point x="819" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="663" y="317"/>
+	<Point x="1508" y="317"/>
+	<Point x="1508" y="407"/>
+	<Point x="663" y="407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE DE KETLITZ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="686" y="424"/>
+	<Point x="1500" y="424"/>
+	<Point x="1500" y="519"/>
+	<Point x="686" y="519"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus Ketlitzii, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="371" y="543"/>
+	<Point x="1816" y="543"/>
+	<Point x="1816" y="813"/>
+	<Point x="371" y="813"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une deuxième ﬁgure du même naturaliste,
+longue de cinq pouces, représente un acan-
+thure à peu près de la forme du précédent,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="429" y="818"/>
+	<Point x="1813" y="818"/>
+	<Point x="1813" y="1128"/>
+	<Point x="429" y="1128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais tout entier d’un olivâtre foncé, avec une dou‐
+zaine de lignes longitudinales jaunes, et des points
+jaunes sur la tête, la poitrine et les nageoires verti‐
+ticales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="345" y="1404"/>
+	<Point x="1803" y="1403"/>
+	<Point x="1803" y="1748"/>
+	<Point x="347" y="1748"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J’en dis autant de ceux d’une troisième
+ﬁgure, toujours de l’expédition russe, et en‐
+core de la forme des précédentes; mais un
+peu plus haute, où l’on a mis:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="874" y="1751"/>
+	<Point x="1313" y="1751"/>
+	<Point x="1313" y="1821"/>
+	<Point x="874" y="1821"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 11/21; A. 2/27.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="439" y="1833"/>
+	<Point x="1795" y="1833"/>
+	<Point x="1795" y="2075"/>
+	<Point x="439" y="2075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’acanthure qu’elle représente est tout entier d’un
+brun fauve, avec de ﬁnes stries longitudinales noi‐
+râtres; sa longueur est de cinq pouces et demi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="378" y="2380"/>
+	<Point x="1780" y="2378"/>
+	<Point x="1796" y="2379"/>
+	<Point x="1796" y="2654"/>
+	<Point x="376" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est ici qu’il convient de placer l’espèce que
+M. Ruppel a représentée dans l’Atlas zool.,
+pl. 15, ﬁg. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="358" y="1312"/>
+	<Point x="1801" y="1312"/>
+	<Point x="1801" y="1401"/>
+	<Point x="358" y="1401"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais je crois qu’ils ont besoin d’être vériﬁés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="846" y="1243"/>
+	<Point x="1357" y="1243"/>
+	<Point x="1357" y="1305"/>
+	<Point x="846" y="1305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 12/18 et A. 2/23;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="456" y="1136"/>
+	<Point x="1394" y="1136"/>
+	<Point x="1394" y="1236"/>
+	<Point x="456" y="1236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les nombres y sont marqués</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="heading">
+	<Coords>
+	<Point x="520" y="2148"/>
+	<Point x="1661" y="2148"/>
+	<Point x="1661" y="2236"/>
+	<Point x="520" y="2236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE A POINTS ROUGES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="520" y="2264"/>
+	<Point x="1661" y="2264"/>
+	<Point x="1661" y="2372"/>
+	<Point x="520" y="2372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus rubro-punctatus, Ruppel.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

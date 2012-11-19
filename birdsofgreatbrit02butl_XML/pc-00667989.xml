@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667989">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T06:50:12</Created>
+	<LastChange>2012-02-10T09:52:29</LastChange></Metadata>
+	<Page imageFilename="00667989.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r17" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="988" y="218"/>
+	<Point x="1301" y="218"/>
+	<Point x="1301" y="286"/>
+	<Point x="988" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWITE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="2005" y="233"/>
+	<Point x="2079" y="233"/>
+	<Point x="2079" y="283"/>
+	<Point x="2005" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>81</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="934" y="554"/>
+	<Point x="1363" y="554"/>
+	<Point x="1363" y="631"/>
+	<Point x="934" y="631"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWITE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="843" y="702"/>
+	<Point x="1458" y="702"/>
+	<Point x="1458" y="781"/>
+	<Point x="843" y="781"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Acanthis ﬂavirostris, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="366" y="1040"/>
+	<Point x="366" y="841"/>
+	<Point x="2097" y="838"/>
+	<Point x="2097" y="1409"/>
+	<Point x="211" y="1409"/>
+	<Point x="211" y="1041"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N the Continent the Twite, according to Dr. Sharpe, is generally distributed
+throughout Europe, west of Russia, and south of the Baltic, breeding in
+Scandinavia. Howard Saunders observes that it “is found in summer
+among the islands and along the coast of Norway up to about 70° N. lat., but
+in Sweden it is scarce even in the sub-alpine districts, and it is somewhat doubtful
+if it nests in Northern Russia. On migration it visits Denmark and Northern
+Germany—sometimes passing in large numbers over Heligoland—Holland, Belgium,
+and France; but it seldom goes far south, and its occurrences in Spain, Italy,
+and Southern Russia, are few and far between.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="201" y="1415"/>
+	<Point x="2104" y="1415"/>
+	<Point x="2104" y="1786"/>
+	<Point x="201" y="1786"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In England during the breeding-season the Twite occurs locally in suitable
+localities from the midlands northwards; in Wales, according to J. H. Salter, it
+is almost unknown as a breeding species. A nest was taken at Westward Ho!
+in 1904, and a supposed nest of this species in Surrey in 1894; in Scotland
+and Ireland it is pretty generally distributed, being especially abundant in the
+west of Scotland, the Hebrides, Orkneys, and Shetlands.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="202" y="1791"/>
+	<Point x="2098" y="1791"/>
+	<Point x="2098" y="2725"/>
+	<Point x="202" y="2725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The adult male in breeding plumage has the feathers of the crown, nape, and
+back ruddy olive-brown, with blackish centres and paler edges; the rump rose-
+red; wings dark brown; the median and greater coverts with paler edges, whitish
+towards the tips; the quills with pale edges; the inner primaries margined, and
+the secondaries tipped with white; tail-feathers blackish-brown, the three outer
+pairs with whitish edges. A superciliary streak, the lores, ear-coverts, and cheeks
+rufous-brown, the ear-coverts with dusky streaks; under parts mostly pale tawny-
+brown, clearest on the throat; centre of breast and abdomen sordid white, as are
+the under tail-coverts; sides of breast and ﬂanks streaked with blackish; beak
+pale ochre-yellow; feet dark brown; iris hazel. The female has no rose-red on
+the rump; and in width of crown and beak diﬀers as does the Linnet. After the
+autumn moult this species shows less of the dark centres to the feathers, and
+the beak becomes paler. Young birds nearly resemble the female, but have some‐
+what more dusky beaks; the males, however, show a tinge of rose-reddish on the
+rump.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="195" y="345"/>
+	<Point x="858" y="345"/>
+	<Point x="858" y="415"/>
+	<Point x="195" y="415"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1374" y="345"/>
+	<Point x="2080" y="345"/>
+	<Point x="2080" y="415"/>
+	<Point x="1374" y="415"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="drop-capital">
+	<Coords>
+	<Point x="214" y="853"/>
+	<Point x="214" y="1007"/>
+	<Point x="363" y="1007"/>
+	<Point x="363" y="853"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="signature-mark">
+	<Coords>
+	<Point x="325" y="2737"/>
+	<Point x="325" y="2782"/>
+	<Point x="446" y="2782"/>
+	<Point x="446" y="2737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="signature-mark">
+	<Coords>
+	<Point x="1781" y="2735"/>
+	<Point x="1781" y="2771"/>
+	<Point x="1826" y="2771"/>
+	<Point x="1826" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion></Page></PcGts>

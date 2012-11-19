@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672481">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T22:12:15</Created>
+	<LastChange>2012-02-10T09:54:59</LastChange></Metadata>
+	<Page imageFilename="00672481.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r5" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/>
+	<RegionRefIndexed regionRef="r7" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="723" y="1026"/>
+	<Point x="1090" y="1026"/>
+	<Point x="1090" y="1150"/>
+	<Point x="723" y="1150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beiträge</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="35" y="1309"/>
+	<Point x="1802" y="1309"/>
+	<Point x="1802" y="1652"/>
+	<Point x="35" y="1652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kenntniss der Käfer des Europäischen und
+Asiatischen Russlands mit Einschluss der
+Küsten des Kaspischen Meeres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="335" y="1678"/>
+	<Point x="1483" y="1678"/>
+	<Point x="1483" y="1776"/>
+	<Point x="335" y="1776"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Horae Soc. Ent. Ross. XI, XII, XIV).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="752" y="2038"/>
+	<Point x="1071" y="2038"/>
+	<Point x="1071" y="2095"/>
+	<Point x="752" y="2095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(3. Fortsetzung).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="642" y="2321"/>
+	<Point x="1195" y="2321"/>
+	<Point x="1195" y="2411"/>
+	<Point x="642" y="2411"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Curculionidae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="45" y="2471"/>
+	<Point x="1800" y="2471"/>
+	<Point x="1800" y="3152"/>
+	<Point x="45" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ophryastes? globosus Mots. Bull. Ac. Petr. XVII, 1859,
+p. 572. Jakutsk, auch als Cneorrhinus globosus in Russischen
+Sammlungen verbreitet, ist mit unter die Augen gebogener
+Fühlerfurche kein Otiorhynchide, sondern ohne Augenlappen
+und Wimpern, mit oﬀenen Körbchen und verwachsenen Klauen
+zu den Cyclophthalmen, Brachydoriden, Blosyriden gehörig
+und ist bis auf die Vorderschienen, welche in ihrer Form
+zwischen Blosyrus und Dactylotus stehen, ein reiner Blosyrus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="842" y="1209"/>
+	<Point x="959" y="1209"/>
+	<Point x="959" y="1264"/>
+	<Point x="842" y="1264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zur</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="828" y="2204"/>
+	<Point x="828" y="2223"/>
+	<Point x="985" y="2223"/>
+	<Point x="985" y="2204"/></Coords></SeparatorRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1064" y="1814"/>
+	<Point x="1064" y="1915"/>
+	<Point x="766" y="1915"/>
+	<Point x="766" y="1814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1064" y="1917"/>
+	<Point x="1064" y="2007"/>
+	<Point x="766" y="2007"/>
+	<Point x="766" y="1917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J. Faust.</Unicode></TextEquiv></TextRegion></Page></PcGts>

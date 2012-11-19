@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669112">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:26:16</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669112.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="317" y="247"/>
+	<Point x="1728" y="247"/>
+	<Point x="1725" y="467"/>
+	<Point x="946" y="472"/>
+	<Point x="864" y="480"/>
+	<Point x="322" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>avoir eu une teinte orangée, et les ventrales une
+d’un bleu foncé et noirâtre; la caudale paraît de la
+couleur du corps, avec un liséré d’un bleu noirâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="339" y="485"/>
+	<Point x="905" y="483"/>
+	<Point x="992" y="477"/>
+	<Point x="1734" y="472"/>
+	<Point x="1744" y="1217"/>
+	<Point x="1044" y="1218"/>
+	<Point x="1042" y="1226"/>
+	<Point x="337" y="1226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Poey, qui nous en a donné un dessin fait à la
+Havanne, avec la description des couleurs prises du
+poisson frais, dit aussi que le corps et la caudale
+sont d’un bleu clair mat; la dorsale et l’anale ont
+des raies alternatives, de bleu plus clair et plus foncé.
+Nous l’avons également reçu du Brésil. M. Plée nous
+apprend que pendant la vie sa véritable couleur
+est un beau bleu, que ses nageoires sont d’un bleu
+plus foncé tirant au violet, et que son épine est
+entourée de membranes jaunes à sa base.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="376" y="1230"/>
+	<Point x="1048" y="1228"/>
+	<Point x="1051" y="1224"/>
+	<Point x="1730" y="1222"/>
+	<Point x="1729" y="1358"/>
+	<Point x="1007" y="1371"/>
+	<Point x="926" y="1379"/>
+	<Point x="377" y="1380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons des individus depuis quatre jusqu’à
+huit pouces de longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="335" y="1384"/>
+	<Point x="963" y="1382"/>
+	<Point x="1016" y="1376"/>
+	<Point x="1741" y="1368"/>
+	<Point x="1739" y="2330"/>
+	<Point x="731" y="2345"/>
+	<Point x="661" y="2348"/>
+	<Point x="337" y="2353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son foie est plus grand que celui du chirurgien : le
+lobe gauche est découpé, et une des laciniures se pro‐
+longe en pointe assez aiguë. La vésicule du ﬁel est
+globuleuse, et cachée sous le lobe droit : elle est
+blanchâtre; le canal cholédoque débouche à la pointe
+du premier cæcum, qui a sa base dirigée vers le
+diaphragme; l’estomac est contourné en une sorte de
+fer à cheval ou en U; il n’y a que cinq cæcums au
+pylore; le reste de l’intestin ressemble en tout à celui
+du chirurgien : cetintestin, déroulé et alongé, devient
+trois fois aussi long que le corps. La vessie natatoire
+est grande et fourchue en arrière, comme dans le
+précédent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="367" y="2357"/>
+	<Point x="708" y="2351"/>
+	<Point x="1249" y="2345"/>
+	<Point x="1744" y="2341"/>
+	<Point x="1742" y="2588"/>
+	<Point x="831" y="2600"/>
+	<Point x="367" y="2600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son squelette diﬀère par les proportions, comme
+son corps lui-même; la crête mitoyenne de son
+occiput s’élève davantage, la pointe couchée du</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="303" y="136"/>
+	<Point x="441" y="136"/>
+	<Point x="441" y="226"/>
+	<Point x="303" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>180</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="747" y="152"/>
+	<Point x="1302" y="152"/>
+	<Point x="1302" y="236"/>
+	<Point x="747" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

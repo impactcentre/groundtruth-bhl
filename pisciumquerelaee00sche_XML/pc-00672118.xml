@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672118">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T00:38:12</Created>
+	<LastChange>2012-03-12T14:34:08</LastChange></Metadata>
+	<Page imageFilename="00672118.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="594" y="181"/>
+	<Point x="1160" y="183"/>
+	<Point x="1597" y="186"/>
+	<Point x="1641" y="178"/>
+	<Point x="2156" y="178"/>
+	<Point x="2144" y="2644"/>
+	<Point x="1883" y="2645"/>
+	<Point x="1563" y="2645"/>
+	<Point x="1563" y="2664"/>
+	<Point x="587" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſopetr Proſapiæ nt mineralis, vel animalis? Deﬁci-
+ente Lunâ cœlo decidere memoravit Plinius Hi. Nat.
+Lib. XXXVII. c. 10. A non magis ﬁdem invenit hæc
+à cœlo origo, quàm meretur Formarum è cœlo de-
+duio in Philoſophia Ariotelico Scholaica,vel In-
+ﬂuxuum commendata adeò apud Aromantas ab
+uno mundi extremo ad alterum traio violenta. Pro-
+feſsâ liteinter ſe depugnârunt ab una parte Andr. C-
+ſalpinus, Poterius, Fab. Columna, Nic. Steno, Caſp. Bar-
+tholinus, Paulus Boccone, ab altera Conr. Generus, B. à
+Boot, Rob: Hookius, Ambronus,Joh. Reiskius, qui in ſua
+de Gloopetris LuneburgenbusCommentatione totum for-
+mationis horumLapidum negotium refert adprinci-
+pium quoddam ����������������, vel,  hocnon arri-
+deat vocabulum, �����������������, utrumque licet,
+modò caveatis, ne ad oppotam de animalium parte Hy-
+pothen relabamini. Libri integri pro &amp; contra in au-
+ram projei communem fubieruntaleam, patienter
+ſuulimus injurias nobis, &amp; ſpeciatim illuri Piſcium
+cartilagineorum longorum familiæ illatas, quamdiu
+dubio Marte fuit pugnatum. Nunc autem quoni-
+am fugæ dederunt terga hoes, &amp;veritas in numeris
+obſervationibus in lucem protraa nativo fulgore
+radiat, triumphum canimus, atque Trophæa Mine-
+ralibus erepta erigimus,publicè de clarantes,ee Gloſ-
+ſopetras ipſos Carcbariarum, aliorumve Piſcium, qui in
+Diluvio periêre, Dentes foﬃles, ſuadentes iis, qui
+in fugam ai veritati palmam tradere recuſant, ne
+Oceano ſe committant, ubinon deglutiendi tantùm,
+ut Jon��,ſed devorandià Carnivoris Carchariis dignas
+pertinaciæ ſuæ luerent pœnas. Non vacatnunc, in-
+tegram texere Gloopetrarum Hioriam, imò ne qui-
+dem argumentorum ponderare momenta, quæ ut
+cognita præſupponimus, atque in Tabula hac III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1951" y="2649"/>
+	<Point x="2123" y="2649"/>
+	<Point x="2123" y="2718"/>
+	<Point x="1951" y="2718"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gloſ-</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r5" type="other">
+	<Coords>
+	<Point x="1323" y="102"/>
+	<Point x="1323" y="178"/>
+	<Point x="1161" y="178"/>
+	<Point x="1161" y="102"/></Coords></GraphicRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1407" y="102"/>
+	<Point x="1407" y="178"/>
+	<Point x="1350" y="178"/>
+	<Point x="1350" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>18</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r19" type="other">
+	<Coords>
+	<Point x="1601" y="102"/>
+	<Point x="1601" y="178"/>
+	<Point x="1434" y="178"/>
+	<Point x="1434" y="102"/></Coords></GraphicRegion></Page></PcGts>

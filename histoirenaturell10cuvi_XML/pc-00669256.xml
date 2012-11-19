@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669256">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:43:55</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669256.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="309" y="291"/>
+	<Point x="1744" y="291"/>
+	<Point x="1744" y="872"/>
+	<Point x="309" y="872"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vidu qu’il a fait graver dans les Mémoires de
+l’académie de Turin, t. XXIV, pl. 9, et qu’il
+a décrit, p. 494, sous Ie nom de trachy-
+pterus cristatus, était presque entier dans
+toutes ses parties, et il ne manque à sa ﬁgure
+que quelques petits ﬁlets au-dessous de la
+caudale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="320" y="883"/>
+	<Point x="1750" y="883"/>
+	<Point x="1750" y="2660"/>
+	<Point x="320" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A la vérité, je prévois bien que beau‐
+coup de naturalistes regarderont comme un
+étrange paradoxe de ma part, l’assertion que
+le trachypterus cristatus ne diﬀère pas géné-
+riquement de l’epidesmus maculatus, du ce-
+pola trachyptera, de l’argyctius quadrima-
+culatus, du gymnètre cépédien, du gymno-
+gaster arcticus, et qu’il était seulement mieux
+conservé que les individus qui ont reçu tous
+ces noms; mais ce paradoxe apparent est
+fondé sur une série d’individus que j’ai sous
+les yeux, depuis trois pouces jusqu’à quatre
+pieds de longueur, et dont il m’est impos‐
+sible de ne pas reconnaître la ressemblance
+fondamentale au travers de tous les déguise-
+mens que leurs diverses mutilations semblent
+leur imprimer. J’étends même ce rapproche‐
+ment, mais avec quelques restrictions au rega-
+lecus glesne d’Ascanius (gymnetrus remipes
+de Bloch), au gymnetrus Gryllii de Lind-
+roth, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="325" y="190"/>
+	<Point x="462" y="190"/>
+	<Point x="462" y="266"/>
+	<Point x="325" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>324</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="737" y="193"/>
+	<Point x="1309" y="193"/>
+	<Point x="1309" y="263"/>
+	<Point x="737" y="263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

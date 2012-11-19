@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668878">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T03:56:27</Created>
+	<LastChange>2012-02-10T10:29:42</LastChange></Metadata>
+	<Page imageFilename="00668878.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="924" y="147"/>
+	<Point x="1381" y="147"/>
+	<Point x="1381" y="195"/>
+	<Point x="924" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIDARIA.—PLATE I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="1254" y="241"/>
+	<Point x="2075" y="241"/>
+	<Point x="2075" y="435"/>
+	<Point x="1254" y="435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dinal engraved striæ, sutures of the spire excavated,
+lips thickened, strongly crenately ridged within, but
+little eﬀused: white, sometimes brownish, marked
+with faint brownish squares above the columella,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="1179" y="438"/>
+	<Point x="2076" y="438"/>
+	<Point x="2077" y="484"/>
+	<Point x="1180" y="483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.) vol. x. p. 10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="1180" y="486"/>
+	<Point x="1366" y="486"/>
+	<Point x="1366" y="520"/>
+	<Point x="1180" y="520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.—?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1176" y="559"/>
+	<Point x="2083" y="559"/>
+	<Point x="2083" y="656"/>
+	<Point x="1176" y="656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An extremely rare shell, concerning the habitat of
+which I am unable to procure any information.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="306" y="244"/>
+	<Point x="1128" y="244"/>
+	<Point x="1128" y="528"/>
+	<Point x="306" y="528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>basin versus præcipuè attenuatâ, vix recurvâ, trans-
+versim creberrimè elevato-striatâ, striis longitudinalibus
+incisis versus apicem decussatis, spiræ suturis excavatis,
+labris incrassatis, intus fortiter crenato-liratis, parum
+eﬀusis; albâ, interdum fulvescente, supra columellam
+pallidè fulvescente areolatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="236" y="530"/>
+	<Point x="1130" y="530"/>
+	<Point x="1130" y="722"/>
+	<Point x="236" y="722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE STRIATED CASSIDARIA. Sheel somewhat pyriformly
+ovate, particularly attenuated towards the base,
+scarcely recurved, transversely very closely elevately
+striated, decussated towards the apex with longitu‐</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="1140" y="247"/>
+	<Point x="1162" y="247"/>
+	<Point x="1162" y="721"/>
+	<Point x="1140" y="721"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="1389" y="687"/>
+	<Point x="1862" y="687"/>
+	<Point x="1862" y="714"/>
+	<Point x="1389" y="714"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="896" y="1000"/>
+	<Point x="896" y="1037"/>
+	<Point x="1371" y="1037"/>
+	<Point x="1371" y="1000"/></Coords></SeparatorRegion></Page></PcGts>

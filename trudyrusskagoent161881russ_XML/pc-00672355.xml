@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672355">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:18:30</Created>
+	<LastChange>2012-02-10T09:54:34</LastChange></Metadata>
+	<Page imageFilename="00672355.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="758" y="105"/>
+	<Point x="1083" y="105"/>
+	<Point x="1083" y="174"/>
+	<Point x="758" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 161 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="58" y="241"/>
+	<Point x="1796" y="241"/>
+	<Point x="1796" y="417"/>
+	<Point x="58" y="417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Flugzeit und Ort des unverﬂogenen columbischen Exem-
+plars sind nicht besonders angemerkt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="573" y="546"/>
+	<Point x="1273" y="546"/>
+	<Point x="1273" y="641"/>
+	<Point x="573" y="641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diatraea Guilding.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="423" y="685"/>
+	<Point x="1433" y="685"/>
+	<Point x="1433" y="771"/>
+	<Point x="423" y="771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Proceras Boyer. Borer Guenée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="51" y="812"/>
+	<Point x="1794" y="812"/>
+	<Point x="1794" y="1060"/>
+	<Point x="51" y="1060"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In der Ungewissheit, in welchen Jahren die Benennungen
+Proceras und Borer *) für dieses Genus erschienen sind, wähle
+ich die wahrscheinlich älteste, Diatraea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="46" y="1066"/>
+	<Point x="1798" y="1066"/>
+	<Point x="1798" y="2719"/>
+	<Point x="46" y="2719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es leidet keinen Zweifel, dass die Gattung mit Chilo, wozu
+ich sie bisher stellte, sehr nahe verwandt ist und sich wesent-
+lich fast nur durch den Mangel der Осellen davon unter-
+scheidet. Für weniger bedeutend halte ich die Verschiedenheit
+im Geäder der Vorderﬂügel: der starke, erste Ast der Sub-
+costalader (also Ader 11) vereinigt sich mit der Infracostal-
+ader vor der Mitte derselben, statt wie bei Chilo (und Do-
+nacoscaptes und Calamotropha) frei zu bleiben und hinter
+dem Ende derselben in den, Vorderrand auszulaufen. Der
+wesentliche Unterschied von unserer Calam. paludella ist der,
+dass die Endgabel der Subcostalader bei dieser die Flügel-
+spitze umfasst, d. h. mit dem obern Arm in den Vorder-,
+mit dem untern in den Hinterrand geht, während bei Diatraea
+wie bei Chilo und Donacoscaptes beide vom Vorderrand auf-
+genommen werden. Wegen der oﬀenen Mittelzelle der Hinter-
+ﬂügel stellt Heinemann Calamotropha in eine andere Familie
+als die der Chiloniden; Diatraea sollte also wohl auch von
+diesen abgesondert werden. Ich sehe aber bei Paludella, At-
+kinsoni und einer zweiten ostindischen Art über dem Anfang
+der Endgabel der Medianader einen sehr schräg einwärts gehen-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="55" y="2821"/>
+	<Point x="1796" y="2821"/>
+	<Point x="1796" y="2939"/>
+	<Point x="55" y="2939"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Ich besitze nur die Abschrift von ‹Notes sur l'île de la Réunion par
+L. Maillard. Lépidopt. par M. A. Guenée› p. 67—72.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="55" y="2944"/>
+	<Point x="1776" y="2944"/>
+	<Point x="1776" y="3064"/>
+	<Point x="55" y="3064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Namen Diatraea sacchari und Proceras saccharophagus werden im
+Ent. Monthly Mag. XVI (1879) p. 166 erwähnt.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="66" y="2751"/>
+	<Point x="650" y="2751"/>
+	<Point x="650" y="2785"/>
+	<Point x="66" y="2785"/></Coords></SeparatorRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="518" y="3073"/>
+	<Point x="518" y="3135"/>
+	<Point x="199" y="3135"/>
+	<Point x="199" y="3073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="signature-mark">
+	<Coords>
+	<Point x="1633" y="3073"/>
+	<Point x="1633" y="3135"/>
+	<Point x="1556" y="3135"/>
+	<Point x="1556" y="3073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>11</Unicode></TextEquiv></TextRegion></Page></PcGts>

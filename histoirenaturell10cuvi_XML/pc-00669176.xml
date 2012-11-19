@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669176">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:34:06</Created>
+	<LastChange>2012-03-12T14:33:47</LastChange></Metadata>
+	<Page imageFilename="00669176.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="356" y="253"/>
+	<Point x="1694" y="253"/>
+	<Point x="1694" y="344"/>
+	<Point x="1488" y="344"/>
+	<Point x="1482" y="355"/>
+	<Point x="1453" y="355"/>
+	<Point x="1442" y="348"/>
+	<Point x="1400" y="347"/>
+	<Point x="1391" y="356"/>
+	<Point x="1091" y="346"/>
+	<Point x="1089" y="358"/>
+	<Point x="1058" y="358"/>
+	<Point x="1048" y="346"/>
+	<Point x="953" y="346"/>
+	<Point x="946" y="356"/>
+	<Point x="910" y="356"/>
+	<Point x="900" y="350"/>
+	<Point x="356" y="350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu est long de près de sept pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="255" y="354"/>
+	<Point x="957" y="359"/>
+	<Point x="960" y="354"/>
+	<Point x="1046" y="354"/>
+	<Point x="1049" y="365"/>
+	<Point x="1094" y="365"/>
+	<Point x="1103" y="355"/>
+	<Point x="1345" y="360"/>
+	<Point x="1402" y="360"/>
+	<Point x="1406" y="353"/>
+	<Point x="1442" y="353"/>
+	<Point x="1452" y="358"/>
+	<Point x="1490" y="358"/>
+	<Point x="1498" y="350"/>
+	<Point x="1697" y="350"/>
+	<Point x="1701" y="1202"/>
+	<Point x="253" y="1202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le dessin que M. Valenciennes a fait dans
+le cabinet de la société zoologique de Londres,
+nous a servi à constater l’identité de notre
+poisson avec celui que M. Benneta décrit dans
+le treizième cahier, p. 41 du zoological jour-
+nal. Quoique M. Bennet ne compte que sept
+épines à la dorsale, et deux seulement à l’anale,
+nous ne pouvons douter de l’identité spéci‐
+ﬁque des deux poissons. Celui du cabinet de
+Londres vient des îles Sandwich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="231" y="1342"/>
+	<Point x="1699" y="1342"/>
+	<Point x="1700" y="1864"/>
+	<Point x="1091" y="1869"/>
+	<Point x="231" y="1875"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On peut encore réunir en un petit groupe
+particulier ceux des acanthures qui n’ont que
+quatre ou cinq épines à la dorsale. Ces es‐
+pèces oﬀrent encore un autre caractère de
+famille, qui consiste dans la hauteur de leurs
+nageoires dorsale et anale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="1091" y="1873"/>
+	<Point x="1691" y="1868"/>
+	<Point x="1691" y="2568"/>
+	<Point x="253" y="2568"/>
+	<Point x="252" y="1878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous mettons en tète de cette petite tribu
+l’espèce qui nous oﬀre une particularité que
+nous ne reverrons plus que dans les balistes
+du genre des monacanthes. On peut remar‐
+quer déjà qu’il y a une certaine analogie dans
+la nature de la peau du dernier de ces poissons,
+qui appartiennent cependant à des ordres si
+diﬀérens, par conséquent si éloignés.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="896" y="1272"/>
+	<Point x="896" y="1295"/>
+	<Point x="1073" y="1295"/>
+	<Point x="1073" y="1272"/></Coords></SeparatorRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="278" y="148"/>
+	<Point x="436" y="148"/>
+	<Point x="436" y="241"/>
+	<Point x="278" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>244</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="724" y="148"/>
+	<Point x="1248" y="148"/>
+	<Point x="1248" y="241"/>
+	<Point x="724" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

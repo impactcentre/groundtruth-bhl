@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672523">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:51:18</Created>
+	<LastChange>2012-02-10T09:55:06</LastChange></Metadata>
+	<Page imageFilename="00672523.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/>
+	<RegionRefIndexed regionRef="r19" index="2"/>
+	<RegionRefIndexed regionRef="r23" index="3"/>
+	<RegionRefIndexed regionRef="r27" index="4"/>
+	<RegionRefIndexed regionRef="r29" index="5"/>
+	<RegionRefIndexed regionRef="r3" index="6"/>
+	<RegionRefIndexed regionRef="r31" index="7"/>
+	<RegionRefIndexed regionRef="r35" index="8"/>
+	<RegionRefIndexed regionRef="r37" index="9"/>
+	<RegionRefIndexed regionRef="r5" index="10"/>
+	<RegionRefIndexed regionRef="r6" index="11"/>
+	<RegionRefIndexed regionRef="r7" index="12"/>
+	<RegionRefIndexed regionRef="r8" index="13"/>
+	<RegionRefIndexed regionRef="r9" index="14"/>
+	<RegionRefIndexed regionRef="r10" index="15"/>
+	<RegionRefIndexed regionRef="r11" index="16"/>
+	<RegionRefIndexed regionRef="r12" index="17"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="407" y="407"/>
+	<Point x="1567" y="407"/>
+	<Point x="1567" y="499"/>
+	<Point x="407" y="499"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lissotarsus nov. gen. Baridiinarum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="126" y="999"/>
+	<Point x="1846" y="999"/>
+	<Point x="1848" y="1162"/>
+	<Point x="123" y="1162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Antennae tenues, medianae, articulo primo funiculi elon-
+gato, clava subarticulata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="130" y="1410"/>
+	<Point x="1862" y="1410"/>
+	<Point x="1862" y="1574"/>
+	<Point x="130" y="1574"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tarsi angusti, nес dilatati nес spongiosi, unguiculis li-
+beris.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="119" y="1582"/>
+	<Point x="1851" y="1582"/>
+	<Point x="1851" y="1739"/>
+	<Point x="117" y="1739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prosternum inter coxas haud excavatum, coxis distan-
+tibus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="233" y="1749"/>
+	<Point x="1117" y="1749"/>
+	<Point x="1117" y="1835"/>
+	<Point x="233" y="1835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Epimera mesosterni ascendentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="126" y="1837"/>
+	<Point x="1858" y="1837"/>
+	<Point x="1858" y="2001"/>
+	<Point x="126" y="2001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Episterna metathoracis lata, apice et postice dilatata, seg-
+mentis 2 primis simul sumptis aeque longa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="239" y="2005"/>
+	<Point x="1457" y="2005"/>
+	<Point x="1457" y="2082"/>
+	<Point x="239" y="2082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Coxae posticae et intermediae late distantes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="235" y="2091"/>
+	<Point x="1787" y="2091"/>
+	<Point x="1787" y="2167"/>
+	<Point x="235" y="2167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Processus abdominalis apice subrotundatus vel truncatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="124" y="2169"/>
+	<Point x="1858" y="2169"/>
+	<Point x="1858" y="2326"/>
+	<Point x="124" y="2326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Abdomen apicem versus assurgente, segmentis ventralibus
+2—4 lateribus dentato-productis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="130" y="2416"/>
+	<Point x="1855" y="2416"/>
+	<Point x="1855" y="3091"/>
+	<Point x="130" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Curculionides apostasimerides werden bei Lacordaire
+mit Berücksichtigung der Fühlerkeule und Tarsenbildung in 2
+Phalanges gespalten. Lissotarsus hat die Fühlerkeule der er-
+sten und die Tarsen der zweiten Phalange, unterscheidet sich
+von Baris besonders durch das dritte, nicht gespaltene, mit 2
+gleichbreite Tarsenglied, sowie den dicht beschuppten Körper
+und mag einstweilen zwischen Baris und Apotomorhinus ein-
+gereiht werden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="814" y="157"/>
+	<Point x="1166" y="157"/>
+	<Point x="1166" y="250"/>
+	<Point x="814" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 327 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1358" y="578"/>
+	<Point x="1358" y="671"/>
+	<Point x="1025" y="671"/>
+	<Point x="1025" y="672"/>
+	<Point x="230" y="672"/>
+	<Point x="230" y="578"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Corpus omnino squamosum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1358" y="673"/>
+	<Point x="1358" y="750"/>
+	<Point x="794" y="750"/>
+	<Point x="794" y="749"/>
+	<Point x="230" y="749"/>
+	<Point x="230" y="674"/>
+	<Point x="1027" y="674"/>
+	<Point x="1027" y="673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oculi verticales, ovati, laterales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="792" y="751"/>
+	<Point x="792" y="752"/>
+	<Point x="1358" y="752"/>
+	<Point x="1358" y="833"/>
+	<Point x="788" y="833"/>
+	<Point x="788" y="834"/>
+	<Point x="230" y="834"/>
+	<Point x="230" y="751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mentum maxillas haud obtegens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1358" y="835"/>
+	<Point x="1358" y="912"/>
+	<Point x="1138" y="912"/>
+	<Point x="1138" y="911"/>
+	<Point x="828" y="911"/>
+	<Point x="828" y="910"/>
+	<Point x="518" y="910"/>
+	<Point x="518" y="909"/>
+	<Point x="230" y="909"/>
+	<Point x="230" y="836"/>
+	<Point x="790" y="836"/>
+	<Point x="790" y="835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rostrum teres, arcuatum, capiti insitum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="516" y="911"/>
+	<Point x="516" y="912"/>
+	<Point x="826" y="912"/>
+	<Point x="826" y="913"/>
+	<Point x="1136" y="913"/>
+	<Point x="1136" y="914"/>
+	<Point x="1358" y="914"/>
+	<Point x="1358" y="994"/>
+	<Point x="230" y="994"/>
+	<Point x="230" y="911"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Scrobes subtus convergentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1666" y="1166"/>
+	<Point x="1666" y="1255"/>
+	<Point x="955" y="1255"/>
+	<Point x="955" y="1256"/>
+	<Point x="226" y="1256"/>
+	<Point x="226" y="1166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elytra pygidium haud tegentia; pygidium verticale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="1666" y="1257"/>
+	<Point x="1666" y="1324"/>
+	<Point x="226" y="1324"/>
+	<Point x="226" y="1258"/>
+	<Point x="957" y="1258"/>
+	<Point x="957" y="1257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Femora haud elavata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="1666" y="1326"/>
+	<Point x="1666" y="1401"/>
+	<Point x="226" y="1401"/>
+	<Point x="226" y="1326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tibiae unco valido armatae.</Unicode></TextEquiv></TextRegion></Page></PcGts>

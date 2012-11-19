@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668919">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T10:02:03</Created>
+	<LastChange>2012-02-09T16:27:23</LastChange></Metadata>
+	<Page imageFilename="00668919.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="585" y="251"/>
+	<Point x="1008" y="251"/>
+	<Point x="1008" y="316"/>
+	<Point x="585" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AVERTISSEMENT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="57" y="354"/>
+	<Point x="1499" y="354"/>
+	<Point x="1499" y="1566"/>
+	<Point x="57" y="1566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Enﬁn, au moment de mettre sous presse,
+M. Dussumier, toujours plein de zèle, revient de
+l'Inde avec une nouvelle collection, non moins
+riche que les précédentes. Il a, dans ce voyage,
+porté ses recherches sur les poissons d'eau douce
+de la côte malabare, et il a encore acquis à
+l'ichthyologie plusieurs genres nouveaux, qui
+seront établis sur des combinaisons de carac-
+tères jusqu'à présent inconnues dans les pois-
+sons de l'Inde, mais qui ont le plus d'aﬃnité
+avec ceux que nous avons observés sur des pois-
+sons d'eau douce d'Amérique, entre autres nos
+pomotis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="80" y="1572"/>
+	<Point x="1508" y="1572"/>
+	<Point x="1508" y="2399"/>
+	<Point x="80" y="2399"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'ose espérer que l'exactitude avec laquelle
+paraîtront les livraisons suivantes de cet ou-
+vrage, témoignera aux savans des diﬀérens pays
+de mon assiduité pour ﬁnir le grand ouvrage
+qui me reste à publier, et qu'ils voudront bien
+continuer à m'aider de leurs conseils et de leurs
+communications oﬃcieuses. Je m'empresserai
+toujours de leur donner des preuves publiques
+de ma reconnaissance.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="164" y="2430"/>
+	<Point x="1225" y="2430"/>
+	<Point x="1225" y="2507"/>
+	<Point x="164" y="2507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Au Jardin des Plantes, Juin 1835.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1423" y="235"/>
+	<Point x="1498" y="235"/>
+	<Point x="1498" y="320"/>
+	<Point x="1423" y="320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xj</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="710" y="2627"/>
+	<Point x="907" y="2627"/>
+	<Point x="907" y="2656"/>
+	<Point x="710" y="2656"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669075">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:21:52</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669075.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r20" index="7"/>
+	<RegionRefIndexed regionRef="r26" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="51" y="248"/>
+	<Point x="1466" y="248"/>
+	<Point x="1466" y="439"/>
+	<Point x="51" y="439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu était long de six pouces et avait
+été pris à Samarang.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="42" y="745"/>
+	<Point x="1470" y="745"/>
+	<Point x="1470" y="1019"/>
+	<Point x="42" y="1019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MM. Kuhl et Van-Hasselt en ont dessiné
+un autre à Batavia, un peu plus oblong que
+celui de M. Mertens,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="81" y="1030"/>
+	<Point x="1472" y="1030"/>
+	<Point x="1474" y="1406"/>
+	<Point x="575" y="1406"/>
+	<Point x="79" y="1416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>à front un peu moins convexe, et qui n’a de taches
+que sur le dos et le ﬂanc; ces taches sont blanchâtres
+sur un fond gris-roussâtre. Le ventre est blanc, nué
+de verdâtre; les nageoires sont pâles; il n’y a pas de
+lignes sur la joue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="521" y="1412"/>
+	<Point x="1026" y="1412"/>
+	<Point x="1026" y="1483"/>
+	<Point x="521" y="1483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/10; A. 7/9, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="102" y="1485"/>
+	<Point x="1046" y="1491"/>
+	<Point x="1063" y="1485"/>
+	<Point x="1063" y="1584"/>
+	<Point x="102" y="1584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ﬁgure est longue de sept pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="22" y="1889"/>
+	<Point x="1461" y="1889"/>
+	<Point x="1464" y="2166"/>
+	<Point x="25" y="2164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons reçu de l’Isle-de-France par
+M. Julien Desjardins un amphacanthe diﬀé‐
+rent des précédens</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="84" y="2175"/>
+	<Point x="1471" y="2175"/>
+	<Point x="1471" y="2649"/>
+	<Point x="84" y="2649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>par l’abaissement de la bosse frontale en avant des
+yeux, ce qui rend le proﬁl plus rectiligne. Sa hau‐
+teur fait le tiers de sa longueur; la tête n’est con‐
+tenue que cinq fois dans celle du corps; le dia‐
+mètre de l’æil est du tiers de celle de la tête; les rides
+du front et les opercules sont presque eﬀacés; les</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="259" y="520"/>
+	<Point x="1251" y="520"/>
+	<Point x="1251" y="607"/>
+	<Point x="259" y="607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE A DOS TACHETÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="313" y="628"/>
+	<Point x="1201" y="628"/>
+	<Point x="1201" y="734"/>
+	<Point x="313" y="734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus dorsalis, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords>
+	<Point x="238" y="1661"/>
+	<Point x="1247" y="1661"/>
+	<Point x="1247" y="1754"/>
+	<Point x="238" y="1754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE DE DESJARDINS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="267" y="1771"/>
+	<Point x="1216" y="1771"/>
+	<Point x="1216" y="1861"/>
+	<Point x="267" y="1861"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus Abhortani, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="header">
+	<Coords>
+	<Point x="448" y="158"/>
+	<Point x="1069" y="158"/>
+	<Point x="1069" y="231"/>
+	<Point x="448" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="page-number">
+	<Coords>
+	<Point x="1329" y="146"/>
+	<Point x="1467" y="146"/>
+	<Point x="1467" y="232"/>
+	<Point x="1329" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>143</Unicode></TextEquiv></TextRegion></Page></PcGts>

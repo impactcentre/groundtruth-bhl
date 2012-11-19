@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669252">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:42:55</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669252.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="283" y="226"/>
+	<Point x="1777" y="226"/>
+	<Point x="1777" y="657"/>
+	<Point x="283" y="657"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que Bloch a établi son genre Bogmarus et
+son espèce de Bogmarus islandicus; mais
+la copie qu’il a donnée, pl. 101, de la ﬁgure
+du naturaliste danois, est entièrement altérée
+dans la partie du museau.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="311" y="661"/>
+	<Point x="1745" y="661"/>
+	<Point x="1745" y="2184"/>
+	<Point x="311" y="2184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Risso, ayant eu lors de sa première édi‐
+tion un trachyptère qui conservait ses ven‐
+trales et n’avait perdu que sa haute nageoire
+de la nuque, en ﬁt un gymnètre, et le nomma
+gymnètre cépédien ( 146); mais indépendam-
+ment de cette mutilation, la ﬁgure, pl. 5, ﬁg.
+17, quoique bien supérieure aux précédentes
+pour la forme générale et pour les ventrales,
+n’est point exacte quant à la caudale. Dans sa
+deuxième édition le même auteur ajoute une
+seconde espèce, qu’il nomme longiradiatus,
+et dont nous parlerons parmi nos gymnètres:
+il place à la suite de ces gymnètres, p. 295,
+un bogmare, p. 297, qu’il appelle bogmare
+d’Aristote, et qui ne me paraît, comme celui
+des naturalistes du Nord, qu’un trachyptère
+privé de ses ventrales en même temps que
+de sa nageoire de la nuque.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="320" y="2278"/>
+	<Point x="1746" y="2278"/>
+	<Point x="1746" y="2417"/>
+	<Point x="320" y="2417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Bloch ne s’est pas aperçu des rapports des Bogmares avec
+les Trachyptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="304" y="2418"/>
+	<Point x="1750" y="2419"/>
+	<Point x="1751" y="2615"/>
+	<Point x="302" y="2615"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Je ne puis m’empêcher de faire quelques remarques sur cet
+article du bogmare de M. Risso. Il cite Johnston, pl. 6, ﬁg. 2 in f.,
+qui n’est qu’une copie du falx Venetorum de Bélon; mais il cite</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="324" y="2217"/>
+	<Point x="324" y="2258"/>
+	<Point x="1741" y="2258"/>
+	<Point x="1741" y="2217"/></Coords></SeparatorRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="329" y="120"/>
+	<Point x="481" y="120"/>
+	<Point x="481" y="213"/>
+	<Point x="329" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>320</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="727" y="120"/>
+	<Point x="1327" y="120"/>
+	<Point x="1327" y="213"/>
+	<Point x="727" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

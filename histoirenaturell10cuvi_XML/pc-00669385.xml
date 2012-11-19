@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669385">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:59:54</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669385.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="71" y="263"/>
+	<Point x="1497" y="263"/>
+	<Point x="1496" y="433"/>
+	<Point x="1012" y="433"/>
+	<Point x="1001" y="446"/>
+	<Point x="970" y="446"/>
+	<Point x="958" y="439"/>
+	<Point x="70" y="440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est un poisson d’un goût exquis, que les
+marins recherchent beaucoup.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="69" y="442"/>
+	<Point x="957" y="443"/>
+	<Point x="969" y="451"/>
+	<Point x="1005" y="451"/>
+	<Point x="1017" y="438"/>
+	<Point x="1496" y="438"/>
+	<Point x="1497" y="2052"/>
+	<Point x="67" y="2052"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voilà un extrait ﬁdèle de ce qu’il y a de
+caractéristique dans la note très-incomplète
+laissée par Commerson. M. de Lacépède1 ajoute
+que les pectorales sont ornées d’une bande
+transversale, large, transparente et argentée;
+mais c’est dans la ﬁgure qu’il a cru voir
+cette circonstance. Il traduit ces termes de
+Commerson: os pellucido album (bouche d’un
+blanc transparent), par ceux-ci: la bouche
+est d’un blanc ÉCLATANT et diaphane. Ce mot
+éclatant est, comme on voit, déjà de trop;
+mais Shaw ne s’en est pas contenté, et il tra‐
+duit la phrase de M. de Lacépède par celle-ci:
+Inside of the mouth, ofa bright silver colour2;
+en sorte que, pour avoir passé par deux au‐
+teurs seulement, voilà une transparence telle
+que l’ont toutes les athérines, changée en une
+couleur brillante d’argent, qui serait néces‐
+sairement opaque.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="61" y="2295"/>
+	<Point x="1479" y="2295"/>
+	<Point x="1479" y="2478"/>
+	<Point x="61" y="2478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une seconde athérine de l’Inde, voisine de
+notre joël, s’en distingue</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="119" y="2519"/>
+	<Point x="873" y="2519"/>
+	<Point x="873" y="2591"/>
+	<Point x="483" y="2588"/>
+	<Point x="118" y="2582"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Lacépède, t. V, p. 376 et 377.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="114" y="2586"/>
+	<Point x="139" y="2586"/>
+	<Point x="539" y="2592"/>
+	<Point x="643" y="2592"/>
+	<Point x="903" y="2594"/>
+	<Point x="1157" y="2592"/>
+	<Point x="1157" y="2658"/>
+	<Point x="112" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Shaw, Gener. Zool., t. V, 1.re part., p. 133.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="352" y="2093"/>
+	<Point x="1184" y="2093"/>
+	<Point x="1184" y="2184"/>
+	<Point x="352" y="2184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ATHÉRINE CYLINDRIQUE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="391" y="2190"/>
+	<Point x="1148" y="2190"/>
+	<Point x="1148" y="2284"/>
+	<Point x="391" y="2284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina cylindrica, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="641" y="173"/>
+	<Point x="943" y="173"/>
+	<Point x="943" y="243"/>
+	<Point x="641" y="243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="1359" y="169"/>
+	<Point x="1498" y="169"/>
+	<Point x="1498" y="242"/>
+	<Point x="1359" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>453</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r21">
+	<Coords>
+	<Point x="54" y="2482"/>
+	<Point x="54" y="2512"/>
+	<Point x="1477" y="2512"/>
+	<Point x="1477" y="2482"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672395">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:27:06</Created>
+	<LastChange>2012-02-10T09:54:40</LastChange></Metadata>
+	<Page imageFilename="00672395.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="814" y="157"/>
+	<Point x="1144" y="157"/>
+	<Point x="1144" y="230"/>
+	<Point x="814" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 201 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="112" y="289"/>
+	<Point x="1857" y="289"/>
+	<Point x="1857" y="962"/>
+	<Point x="112" y="962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Queraderpunkten ist der untere besonders gross und von dem
+obern weit abgerückt. Der hintere Querstreifen ist sanft nach
+aussen gebogen, dem Hinterrande näher als den Queraderpunkten,
+einwärts durch eine Reihe tiefschwarzer Punkte, auswärts durch
+einen bräunlichen, nur auf dem Vorderrande ﬂeckartigen Schatten-
+streifen gesäumt. Der Hinterrand trägt eine Reihe von 7 weit
+getrennten, tiefschwarzen Punkten. Franzen wie die Grund-
+farbe, auswärts etwas dunkler.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="116" y="967"/>
+	<Point x="1864" y="967"/>
+	<Point x="1864" y="1537"/>
+	<Point x="116" y="1537"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel ziemlich spitz, hell staubgrau, durchscheinend,
+am Hinterrand schmal gebräunt, am Vorderrand vor der Spitze
+mit dem ganz verloschenen kurzen Anfang eines hellen, ein-
+wärts dunkel beschatteten Querstreifens. Die Adern sind nur
+an ihren Enden verdunkelt. Die hellen Franzen sind hinter
+der feinen, gelblichen Wurzellinie von einer bräunlichen Schat-
+tenlinie durchzogen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="114" y="1546"/>
+	<Point x="1878" y="1546"/>
+	<Point x="1878" y="2541"/>
+	<Point x="114" y="2541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel braungrau; der helle hintere
+Querstreifen nur auf der Costa deutlich; die schwarzen Punkte
+davor kaum kenntlich; die Hinterrandpunkte zu schwärzlichen
+Fleckchen zusammengeﬂossen. Der erste Ast der Medianader
+kommt von der Flügelhälfte; der Abstand des 2ten vom ersten
+ist wenig kürzer als der Stiel der 1/3 der Flügellänge betra-
+genden Endgabel, welche 3 und 4 bilden. — Hinterﬂügel wie
+oben, aber am Hinterrande weniger gebräunt, im Costalfelde
+verdunkelt und mit deutlicherem hellen Costalﬂeck. Der erste
+Ast der Medianader kommt aus ihr bei 2/5, der zweite aus
+ihrer Hälfte, sehr nahe hinter der Querader; die Endgabel aus
+dem Anfange des Endfünftels.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="114" y="2544"/>
+	<Point x="1862" y="2544"/>
+	<Point x="1862" y="2707"/>
+	<Point x="114" y="2707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die zwei Weibchen meiner Sammlung ﬁng Petersen in
+der Gegend von Honda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="505" y="2819"/>
+	<Point x="1458" y="2819"/>
+	<Point x="1458" y="2907"/>
+	<Point x="505" y="2907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. exoleta Tab. XI, ﬁg. 22.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="110" y="2946"/>
+	<Point x="1867" y="2946"/>
+	<Point x="1867" y="3137"/>
+	<Point x="110" y="3137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alis ant. subangustis, fusco-griseis, strigis duabus subden-
+tatis, dilutis, opposite fuscescenti-marginatis, litura interjecta</Unicode></TextEquiv></TextRegion></Page></PcGts>

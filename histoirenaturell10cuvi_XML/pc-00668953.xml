@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668953">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:36:46</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668953.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="155" y="367"/>
+	<Point x="1499" y="367"/>
+	<Point x="1499" y="1126"/>
+	<Point x="155" y="1126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>face est ridée ou chagrinée par un grand nombre de
+petits mamelons aplatis. Chaque rein a son uretère, qui
+est large, court et ridé longitudinalement en dedans.
+Ils s'ouvrent tous deux l'un auprès de l'autre (leur ou-
+verture n'étant séparée que par une simple cloison)
+dans la vessie urinaire, qui est une espèce de boyau
+assez long, suivant dans toute sa longueur le bord
+postérieur des organes de la génération. Elle dé-
+bouche dans un trou à part et percé en arrière de
+celui des organes sexuels.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="97" y="1156"/>
+	<Point x="1492" y="1156"/>
+	<Point x="1492" y="1331"/>
+	<Point x="97" y="1331"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les parties cachées du squelette de la dorée
+oﬀrent plusieurs particularités intéressantes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="151" y="1349"/>
+	<Point x="1494" y="1349"/>
+	<Point x="1495" y="1951"/>
+	<Point x="500" y="1953"/>
+	<Point x="151" y="1950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La longueur des apophyses montantes de ses inter-
+maxillaires est proportionnée à la protractilité de la
+bouche; elle est presque double de celle du corps
+de l'os avec lequel cette apophyse fait un angle droit,
+et dans cet angle il y a encore deux apophyses plates,
+l'une adhérente à la partie montante, l'autre au
+corps de l'os, lequel, sur son extrémité externe porte
+encore une épine aiguë.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="152" y="1954"/>
+	<Point x="1492" y="1954"/>
+	<Point x="1492" y="2314"/>
+	<Point x="152" y="2314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le long ethmoïde et une fosse de la partie infé-
+rieure du frontal donnent l'espace nécessaire au mou-
+vement d'arrière en avant et d'avant en arrière des
+intermaxillaires, qui détermine la protractilité de
+toute la bouche.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="153" y="2330"/>
+	<Point x="1485" y="2330"/>
+	<Point x="1485" y="2485"/>
+	<Point x="153" y="2485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le crâne est fort petit relativement à la face; l'os
+scapulaire, en forme d'une petite équerre, s'attache</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="87" y="2550"/>
+	<Point x="1490" y="2550"/>
+	<Point x="1490" y="2743"/>
+	<Point x="87" y="2743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. M. Fischer a représenté assez exactement l'inlermaxillaire
+de la dorée, dans son Traité sur cet os dans les diﬀérens animaux.
+Leipzig, 1800, in-8.°, pl. III, ﬁg. 12.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1392" y="268"/>
+	<Point x="1493" y="268"/>
+	<Point x="1493" y="330"/>
+	<Point x="1392" y="330"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="590" y="268"/>
+	<Point x="998" y="268"/>
+	<Point x="998" y="335"/>
+	<Point x="590" y="335"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. ZÉES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="96" y="2501"/>
+	<Point x="1483" y="2501"/>
+	<Point x="1483" y="2532"/>
+	<Point x="96" y="2532"/></Coords></SeparatorRegion></Page></PcGts>

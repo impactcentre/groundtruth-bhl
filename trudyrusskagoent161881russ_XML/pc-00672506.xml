@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672506">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:47:28</Created>
+	<LastChange>2012-02-10T09:55:03</LastChange></Metadata>
+	<Page imageFilename="00672506.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="976" y="160"/>
+	<Point x="1287" y="160"/>
+	<Point x="1287" y="223"/>
+	<Point x="976" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 310 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="248" y="291"/>
+	<Point x="2005" y="291"/>
+	<Point x="2005" y="637"/>
+	<Point x="248" y="637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das mir vorliegende einzige Stück ♂ in meiner Sammlung
+hat ﬂaches, dicht punktirtes Abdomen, eine Längsvertiefung
+auf dem letzten Segment und ist von Haberhauer am Ala
+Tau gefunden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="266" y="719"/>
+	<Point x="2007" y="719"/>
+	<Point x="2007" y="1323"/>
+	<Point x="266" y="1323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alophus quadrifasciatus n. sp. Elongato-ovatus, an-
+gustior, nigro-piceus, punctatus, supra brunneo subtus luteo-
+pubescens; antennis pedibusque ferrugineis; rostro depresso, ca-
+naliculato; prothorace elongato-quadrato, carinato; elytris basi
+emarginatis, apice obtuse-acuminatis, sutura postice paulo ele-
+vata; rostro, prothoracis lateribus, scutello, elytrorum humeris
+fasciisque 4 obliquis albidiore pubescentibus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="392" y="1335"/>
+	<Point x="1416" y="1335"/>
+	<Point x="1416" y="1416"/>
+	<Point x="392" y="1416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 10,5—12, lat. 3,5—4,5 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="275" y="1499"/>
+	<Point x="2012" y="1499"/>
+	<Point x="2012" y="1751"/>
+	<Point x="275" y="1751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Grösse, Grundfärbung und Punktirung dem Lituratus
+gleich, aber schmäler, hinten mehr zugespitzt und der Rüssel
+gefurcht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="275" y="1760"/>
+	<Point x="2021" y="1760"/>
+	<Point x="2021" y="2939"/>
+	<Point x="275" y="2939"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Halsschild etwas länger als breit, nach hinten kaum ver-
+engt, hinter dem nur wenig schmäleren Vorderrande gerundet,
+der ganzen Länge nach mit erhabener Mittellinie. Decken an
+der Basis ausgerundet, die Schultern weniger ﬂach gerundet,
+in der Mitte am breitesten, hinten verengt, lang zugespitzt,
+Spitze etwas stumpf; die vordere kurze, schmale, schräge Binde
+etwas vor der Mitte, zwischen Marginalsaum und der wenig-
+stens auf der hinteren Hälfte hellen Sutur auf dem 4, 5, 6,
+7ten Zwischenraume, zuweilen mit der hellen Schulter und
+mit der zweiten Binde dicht hinter der Mitte durch einen
+Streif auf dem 5ten Zwischenraume zusammenhängend; letz-
+tere nimmt den 4, 5, 6ten Zwischenraum ein, steht weniger
+schräg, ist gerundeter und nicht zuweilen hinten ausgerundet.
+Punktirung wie bei Lituratus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="394" y="2948"/>
+	<Point x="2012" y="2948"/>
+	<Point x="2012" y="3112"/>
+	<Point x="394" y="3112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ längerer Thorax, Decken hinten stumpfer, Abdomen
+ﬂach mit einer Längsvertiefung auf dem Analsegment.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668167">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T07:09:16</Created>
+	<LastChange>2012-02-10T09:52:41</LastChange></Metadata>
+	<Page imageFilename="00668167.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r9" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="876" y="219"/>
+	<Point x="1410" y="219"/>
+	<Point x="1410" y="305"/>
+	<Point x="876" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CARRION-CROW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1955" y="241"/>
+	<Point x="2078" y="241"/>
+	<Point x="2078" y="310"/>
+	<Point x="1955" y="310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>171</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="185" y="350"/>
+	<Point x="2080" y="353"/>
+	<Point x="2081" y="663"/>
+	<Point x="185" y="663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>and primaries. Hitherto I have kept the birds together in the hope that the
+Buzzard might recover his lost courage, but I have now arranged to separate
+them, as I am afraid of the Buzzard being permanently injured.” The remainder
+of Mr. Comyns’ notes are more in accordance with general experience, and there‐
+fore, of less interest.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="183" y="665"/>
+	<Point x="2080" y="667"/>
+	<Point x="2080" y="864"/>
+	<Point x="183" y="860"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mr. Frohawk saw seven examples of this species at the mouth of the Avon
+(S. Devon) at the end of September, 1895; they all kept together and may
+perhaps have been the old and young of the same family.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="181" y="1272"/>
+	<Point x="708" y="1272"/>
+	<Point x="708" y="1365"/>
+	<Point x="181" y="1365"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—CORVIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="769" y="1525"/>
+	<Point x="1473" y="1525"/>
+	<Point x="1473" y="1623"/>
+	<Point x="769" y="1623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CARRION-CROW.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="888" y="1697"/>
+	<Point x="1391" y="1697"/>
+	<Point x="1391" y="1777"/>
+	<Point x="888" y="1777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Corvus corone, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="259" y="2043"/>
+	<Point x="259" y="1847"/>
+	<Point x="2095" y="1834"/>
+	<Point x="2093" y="2748"/>
+	<Point x="180" y="2745"/>
+	<Point x="180" y="2043"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N Siberia, according to Seebohm, this species occupies the forest country
+lying between Yenesay and the Paciﬁc coast, extending northwards in
+summer almost to the limits of forest growth and south-eastwards to Japan.
+Westwards he is of opinion that, following the mountain-ranges of southern
+Siberia into Turkestan, it crossed the Caspian, passed through an equally large
+colony of Hooded Crows by way of the Caucasus, the northern shores of the
+Black Sea and the valley of the Danube and keeping to the north of the Alps
+spread over Germany, the Netherlands, the British Isles, France and Spain. He
+was able also to prove that this species interbreeds with the Hooded Crow in the
+valleys of the Elbe and Yenesay (as it is known to do in Scotland) producing
+many intergrades between the two species, examples of which he presented to
+the Trustees of the British Museum; these have been carefully mounted, and
+form one of the most instructive and attractive cases in the entrance-hall of the
+Natural History branch of that Museum at South Kensington.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="197" y="1847"/>
+	<Point x="197" y="2035"/>
+	<Point x="254" y="2035"/>
+	<Point x="254" y="1847"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="1020" y="1072"/>
+	<Point x="1020" y="1088"/>
+	<Point x="1230" y="1088"/>
+	<Point x="1230" y="1072"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672458">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:38:56</Created>
+	<LastChange>2012-02-10T09:54:56</LastChange></Metadata>
+	<Page imageFilename="00672458.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="928" y="112"/>
+	<Point x="1233" y="112"/>
+	<Point x="1233" y="182"/>
+	<Point x="928" y="182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 248 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="255" y="239"/>
+	<Point x="1951" y="239"/>
+	<Point x="1951" y="498"/>
+	<Point x="255" y="498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>stellt; seinem Beispiele ist Herr Oberthür in seinen Lép.
+etc. gefolgt, wo auf pl. IV, ﬁg. 11 eine sehr schöne Ab-
+bildung geliefert ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="246" y="1360"/>
+	<Point x="1974" y="1360"/>
+	<Point x="1974" y="2185"/>
+	<Point x="246" y="2185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kopf, Fühler, Thorax und Leib grau. Palpen dunkel-
+braun, unten rauh behaart, überragen den Kopf um den
+Durchmesser der Augen. Die stark entwickelte Rollzunge
+ist hellbraun; die Fühler äusserst fein gewimpert. Die
+Schulterdecken sind lang behaart, an der Wurzel grau, ge-
+gen die Spitze zu heller. Der Leib lang und schmal, er-
+reicht den Innenwinkel der Hinterﬂügel. Die Afterklappen
+des ♂ stark entwickelt, reichen bis über die Mitte des
+langen, hellgrauen Afterbusches. Bauch und Beine dunkel-
+grau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="249" y="2196"/>
+	<Point x="1969" y="2196"/>
+	<Point x="1969" y="2439"/>
+	<Point x="249" y="2439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der Vorderrand der Vorderﬂügel an der Wurzel und
+vor der Spitze stark geschwungen; der Aussenrand schräg,
+schwach gewellt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="271" y="2448"/>
+	<Point x="1960" y="2448"/>
+	<Point x="1960" y="3049"/>
+	<Point x="271" y="3049"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Grundfarbe ist ein stark seidenglänzendes Dunkel-
+grau. Die dieser Gruppe eigenthümlichen Wellenlinien der
+Vorderﬂügel sind nur in der Vorderrandhälfte durch scharf
+markirte, gezähnte, glänzend schwarze, nach Innen sich ver-
+schmälernde Flecke angedeutet, welche man sich durch die
+schwarzen Punkte auf den Rippen bis zum Innenrand fort-
+gesetzt vorstellen kann. Auf beiden Flügelpaaren ﬁndet sich</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1962" y="508"/>
+	<Point x="1962" y="1012"/>
+	<Point x="1139" y="1012"/>
+	<Point x="1139" y="1013"/>
+	<Point x="205" y="1013"/>
+	<Point x="205" y="508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bella ist aber keine ächte Cidaria, sondern muss eine
+eigene Gattung in der Nähe von Lobophora bilden, von dem
+sie sich durch den Umschlag am Rande der männlichen
+Hinterﬂügel, die nur 5 Rippen haben, unterscheidet. Herr
+Christoph benennt das Thier Eburneata und stellt für
+dasselbe das Genus Tyloptera auf.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1962" y="1014"/>
+	<Point x="1962" y="1353"/>
+	<Point x="205" y="1353"/>
+	<Point x="205" y="1015"/>
+	<Point x="1141" y="1015"/>
+	<Point x="1141" y="1014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Thriphosa Oberthüri nov. sp. Tab. XIII, ﬁg. 5. Ich besitze
+zwei ♂♂ dieser schönen Art aus dem Chingan-Gebirge. Sie
+gehört in die Verwandtschaft der Dubitata L., weicht aber
+von allen mir bekannten, verwandten Arten ab.</Unicode></TextEquiv></TextRegion></Page></PcGts>

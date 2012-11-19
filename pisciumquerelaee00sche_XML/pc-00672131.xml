@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672131">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T06:11:04</Created>
+	<LastChange>2012-03-12T14:34:09</LastChange></Metadata>
+	<Page imageFilename="00672131.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="867" y="79"/>
+	<Point x="927" y="79"/>
+	<Point x="927" y="143"/>
+	<Point x="867" y="143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>31</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="100" y="861"/>
+	<Point x="785" y="861"/>
+	<Point x="1648" y="862"/>
+	<Point x="1648" y="1270"/>
+	<Point x="304" y="1272"/>
+	<Point x="99" y="1272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tubulus folis marinus craor &amp; pro-
+duior, Belgarum videtur Zandpyp , &amp; Oe-
+darm apud Rumphii Commentatorem Amboin. p.126.
+Tab XLI. D. Niveæ e albedinis, ex Italia quoque
+allatus,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1656" y="148"/>
+	<Point x="1656" y="509"/>
+	<Point x="953" y="509"/>
+	<Point x="942" y="516"/>
+	<Point x="919" y="516"/>
+	<Point x="892" y="505"/>
+	<Point x="650" y="505"/>
+	<Point x="632" y="521"/>
+	<Point x="612" y="521"/>
+	<Point x="605" y="516"/>
+	<Point x="593" y="506"/>
+	<Point x="316" y="506"/>
+	<Point x="310" y="516"/>
+	<Point x="286" y="516"/>
+	<Point x="284" y="511"/>
+	<Point x="105" y="511"/>
+	<Point x="105" y="147"/>
+	<Point x="805" y="149"/>
+	<Point x="1075" y="148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xat,nec aliud à nobis proponi, &amp; urgeri quàm Verita-
+tis udium, quod per tot Secula vidimus in Demo-
+criti puteo demerſum, nunc autem in tantâ Scientia-
+rum luce emergit. Lacertæ jungemus alia, ſcenam
+hanc quintam trigâ Piſcium poea clauſuri.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1652" y="517"/>
+	<Point x="1652" y="594"/>
+	<Point x="1653" y="605"/>
+	<Point x="1653" y="850"/>
+	<Point x="100" y="855"/>
+	<Point x="100" y="513"/>
+	<Point x="251" y="513"/>
+	<Point x="256" y="517"/>
+	<Point x="349" y="517"/>
+	<Point x="366" y="514"/>
+	<Point x="505" y="514"/>
+	<Point x="530" y="518"/>
+	<Point x="596" y="518"/>
+	<Point x="620" y="528"/>
+	<Point x="654" y="516"/>
+	<Point x="744" y="516"/>
+	<Point x="792" y="515"/>
+	<Point x="880" y="515"/>
+	<Point x="901" y="517"/>
+	<Point x="919" y="519"/>
+	<Point x="946" y="519"/>
+	<Point x="953" y="517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ex univalvium coniformium marinorum clae -
+unt ſe Entalium fole maximum , medi-
+um, &amp; minus, Hoornslangeties dia Belgis, ex Ita-
+licâ Terrâ eruta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="96" y="1276"/>
+	<Point x="1643" y="1276"/>
+	<Point x="1643" y="1571"/>
+	<Point x="882" y="1571"/>
+	<Point x="861" y="1598"/>
+	<Point x="501" y="1598"/>
+	<Point x="490" y="1610"/>
+	<Point x="473" y="1610"/>
+	<Point x="466" y="1596"/>
+	<Point x="96" y="1596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ex Familia Cochlearum Turbinatarum , quarum
+apertura inrimam formatur , quorúmve ſpiræ intùs
+latent, Veneris Concha Lapidea , cujus locus
+natalis nos equidem latet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="95" y="1599"/>
+	<Point x="459" y="1599"/>
+	<Point x="473" y="1613"/>
+	<Point x="497" y="1613"/>
+	<Point x="509" y="1602"/>
+	<Point x="1647" y="1602"/>
+	<Point x="1647" y="2540"/>
+	<Point x="95" y="2540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Condonabunt Lithophili,  in conſortium Tabulæ
+quintæ trahamus vegetabile marinum,vel, maluut,
+Lithophyton ex remotis Maribus in medias Terras
+Europæas non aliâ certè quàm Diluvii occaone de-
+latum, ex ſemilapideâ ſubantia , in ſaxeam prorſus
+commutatum. Condonabunt , inquam , nobis Aqua-
+rum incolis,  Aquarum produa à præſenti Traa-
+tione non excludimus. Idem Lapidibus his Vege-
+tabilibus e Elementum, ac nobis , alimentum
+idem , idem locus natalis. Conferat , qui volet ,
+Aroitam norum Diluvianum ellis Tubu-
+lisve majoribus in Agro Balien inventum,</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r13" type="other">
+	<Coords>
+	<Point x="672" y="63"/>
+	<Point x="854" y="63"/>
+	<Point x="854" y="143"/>
+	<Point x="672" y="143"/></Coords></GraphicRegion>
+	<GraphicRegion id="r14" type="other">
+	<Coords>
+	<Point x="950" y="67"/>
+	<Point x="1125" y="67"/>
+	<Point x="1125" y="144"/>
+	<Point x="950" y="144"/></Coords></GraphicRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="1568" y="2550"/>
+	<Point x="1568" y="2613"/>
+	<Point x="1643" y="2613"/>
+	<Point x="1643" y="2550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>&amp;</Unicode></TextEquiv></TextRegion></Page></PcGts>

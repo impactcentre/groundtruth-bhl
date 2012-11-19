@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672101">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T17:04:56</Created>
+	<LastChange>2012-03-12T14:34:07</LastChange></Metadata>
+	<Page imageFilename="00672101.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r20" index="2"/>
+	<RegionRefIndexed regionRef="r22" index="3"/>
+	<RegionRefIndexed regionRef="r28" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r14" index="6"/>
+	<RegionRefIndexed regionRef="r15" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="478" y="60"/>
+	<Point x="1341" y="60"/>
+	<Point x="1341" y="156"/>
+	<Point x="478" y="156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VIRO ILLUSTRI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="683" y="2168"/>
+	<Point x="1161" y="2168"/>
+	<Point x="1161" y="2242"/>
+	<Point x="683" y="2242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUM VOTO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords>
+	<Point x="810" y="535"/>
+	<Point x="1007" y="535"/>
+	<Point x="1007" y="619"/>
+	<Point x="810" y="619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AD</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="103" y="196"/>
+	<Point x="1666" y="196"/>
+	<Point x="1666" y="492"/>
+	<Point x="103" y="492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DN. PETRO VALKENIER
+SERENlSSIMÆ AC POTENTIS-
+SIMÆ REIPUBLICÆ BELGICÆ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="heading">
+	<Coords>
+	<Point x="618" y="1157"/>
+	<Point x="1166" y="1157"/>
+	<Point x="1166" y="1246"/>
+	<Point x="618" y="1246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DEHINC AD</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="heading">
+	<Coords>
+	<Point x="101" y="657"/>
+	<Point x="1672" y="657"/>
+	<Point x="1672" y="1127"/>
+	<Point x="101" y="1127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SACRAM CÆSAREAM MAJESTA-
+TEM SERENISS. REGEM ROMANORUM.
+SACRI ROMANI IMPERII COMITIA. PLE-
+ROSQUE ELECTORES• QUAM
+PLURIMOS
+IMPERII PRINCIPES ETSTATUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="111" y="1268"/>
+	<Point x="1668" y="1268"/>
+	<Point x="1668" y="2124"/>
+	<Point x="111" y="2124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>RESPUBLICAS HELVETICASET
+RHÆTICAS
+PER
+VI. FERE ANNORUM LUSTRA AB-
+LEGATO EXTRAORDINARIO
+EXCELLEN TISSIMO MERITISSIMO.
+DOMINO AC MECOENATI HONORATISSIMO
+PISCIUM HAS
+RELIQUIAS DILUVIANAS
+IN GRATITUDINIS DEBITÆ SIGNUM</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="129" y="2292"/>
+	<Point x="1677" y="2292"/>
+	<Point x="1677" y="2614"/>
+	<Point x="129" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LONGÆVÆ QUA ANIMI QUA COR-
+PORIS PROSPERITATIS
+CLIENS DEVOTUS
+DICO, CONSECRO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

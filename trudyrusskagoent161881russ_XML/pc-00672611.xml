@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672611">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:35:27</Created>
+	<LastChange>2012-02-10T09:55:20</LastChange></Metadata>
+	<Page imageFilename="00672611.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="741" y="187"/>
+	<Point x="1053" y="187"/>
+	<Point x="1053" y="258"/>
+	<Point x="741" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 415 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="44" y="324"/>
+	<Point x="1778" y="324"/>
+	<Point x="1778" y="999"/>
+	<Point x="44" y="999"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les deuxiêmes ailes du ♂, en dessous, sont complêtemen.
+recouvertes d'écaillés grisâtres-argentées, et ont une apparence
+farineuse, tandisque ces mêmes ailes chez la ♀ sont d'un brun-
+grisâtre faiblement atomé de blanc. Chez les ♀♀ très fraîches
+on remarque que les écailles blanches sont plus serrées près
+des nervures. Les antennes grisâtres, en dessus, sont blan-
+châtres en dessous, avec la massue couleur d'ocre en bas,
+ainsi que l'est parfois le bout de la massue en dessus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="42" y="1016"/>
+	<Point x="1774" y="1016"/>
+	<Point x="1774" y="1521"/>
+	<Point x="42" y="1521"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La description que je donne du revers de la Kalmuka
+est faite d'après des individus d'une grande fraicheur; je dois
+dire cependant que les écailles blanches (argentées) s'en vont
+facilement, et que même chez les individus, qui paraissent
+encore très beaux sur le dessus, mais qui ont déjà volé, on
+remarque l'absence d'une grande partie de ces écailles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="35" y="1541"/>
+	<Point x="1794" y="1541"/>
+	<Point x="1794" y="2217"/>
+	<Point x="35" y="2217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ♀♀ sont généralement plus petites, que les ♂♂, et
+mesurent ordinaîrement de 38 à 41 mill. Une seule ♀, très
+grande, fait exception, et égale les plus grands mâles (45
+mill.). L'eﬀet tout particulier et charmant que produit le
+dessous argenté des ♂♂, alternant continuellement avec la cou-
+leur sombre du dessus pendant le vol de la Kalmuka, qui
+est plus saccadé que celui de toutes les autres espèces que
+je connais, permet de distinguer cette Erebia de bien loin.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="28" y="2232"/>
+	<Point x="1791" y="2232"/>
+	<Point x="1791" y="2571"/>
+	<Point x="28" y="2571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les hommes qui m'accompagnaient remarquèrent de suite
+cette particularité de la Kalmuka et lui donnèrent même un
+surnom russe (Týkolka), qui caractérise très bien ce vol
+saccadé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="33" y="2582"/>
+	<Point x="1796" y="2582"/>
+	<Point x="1796" y="3096"/>
+	<Point x="33" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est vers la ﬁn Juin, que nous rencontrâmes pour la pre-
+mière fois cette espèce, volant avec la suivante, à une élé-
+vation d'au moins 9000´, et ﬁnissant à l'endroit où cesse toute
+végétation. Nous la vîmes ensuite partout, une fois ces hau-
+teurs atteintes; elle était comparativement plus râre sur les
+montagnes qui entourent le Jouldousse.</Unicode></TextEquiv></TextRegion></Page></PcGts>

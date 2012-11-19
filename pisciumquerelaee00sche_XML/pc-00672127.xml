@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672127">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-06T19:10:15</Created>
+	<LastChange>2012-03-12T14:34:09</LastChange></Metadata>
+	<Page imageFilename="00672127.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="122" y="169"/>
+	<Point x="361" y="168"/>
+	<Point x="988" y="170"/>
+	<Point x="1130" y="177"/>
+	<Point x="1146" y="165"/>
+	<Point x="1177" y="159"/>
+	<Point x="1235" y="168"/>
+	<Point x="1302" y="161"/>
+	<Point x="1327" y="160"/>
+	<Point x="1343" y="163"/>
+	<Point x="1373" y="160"/>
+	<Point x="1427" y="162"/>
+	<Point x="1450" y="159"/>
+	<Point x="1476" y="166"/>
+	<Point x="1689" y="164"/>
+	<Point x="1687" y="1838"/>
+	<Point x="342" y="1846"/>
+	<Point x="331" y="1897"/>
+	<Point x="117" y="1894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Francobergæ, ut putamus, erutus hic piſcis, ibi enim
+Ichtyitas reperiri ſcribit Valentinus Prodr.Hior. Nat.
+Ha p. 17. Rhombus hic, uti &amp; ſequens, omninò ad
+Rhombum, ad rem præſentem, ad originem noram,
+&amp; Diluvii illurationem,plurimùm quadrat ; Ex ﬁ-
+gura hujus Piſcis, &amp; reduis pinnis utique judicare
+licet, veluti ����� ������ ������ ��������, ita Piſcem ali-
+quem planum ſpinoſum eorum, qui inlatus projei na-
+tant, &amp; ex ﬁgura rhomboidali Rhombum , ſpeciatim
+ex collatione ﬁguræ,quæ extat in Ill.Wiougbii Ichtyolo-
+gia Tab.F. 2. Rhombum maximum aſperum non ſquamqſum,
+qui Anglis Meridionalibus dicitur à Turbot,ſeptentrio-
+nalibus à Bret, idemque forte e cum Rhombo aculea-
+to Rondeletii Gen. 778. Aldrov. Lib. II. cap. 48. qui Ve-
+netiis Rhombo dicitur. Sed quomodo Piſcis hic
+Oceani Anglici, Germanici, &amp; Mediterranei Maris
+incola, in Montes Haæ ex Patria in alienas Terras
+fuit ejeus, non exilio duntaxat, ſed ad metalla, imò
+mortem damnatus,qua quæſumus,occaone,ni illâ,
+quam prætendimus, Illuviei univerſalis ? Faceant
+hinc, imò procul faceant omnes aliæ , quæ pam
+jaantur, de Terrigeneitate (patianturBarbariem vo-
+cabuli,qui ſanæ rationi abſurda obtrudunt) Hypo-
+theſes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="116" y="1902"/>
+	<Point x="1667" y="1902"/>
+	<Point x="1666" y="2600"/>
+	<Point x="1547" y="2601"/>
+	<Point x="1310" y="2601"/>
+	<Point x="1302" y="2619"/>
+	<Point x="1247" y="2619"/>
+	<Point x="1227" y="2602"/>
+	<Point x="1198" y="2608"/>
+	<Point x="1105" y="2608"/>
+	<Point x="1093" y="2601"/>
+	<Point x="1030" y="2605"/>
+	<Point x="1010" y="2622"/>
+	<Point x="116" y="2622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Minor priori ratione molis, non vis demonrativæ
+e Rhombus minor Diluvianus in Lapide
+ﬁli Landgraviatus Haæ,eodem haud dubiè
+cum priori loco eﬀous, quò ﬁlius forte genitorem
+Magnetiſmo velut naturali fuit ſecutus , iisdem
+cum hoc ratis ſepultus , perenne , quidem ﬁlius
+Rhombi t,nec Paer, amoris ﬁlialis monumentum,
+imò &amp;originisAnimalis authenticus teis,non ſolùm
+intuitu ﬁguræ totius, &amp; Pinnarum, ſed ſpeciatim line</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="other">
+	<Coords>
+	<Point x="695" y="86"/>
+	<Point x="876" y="86"/>
+	<Point x="876" y="163"/>
+	<Point x="695" y="163"/></Coords></GraphicRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="896" y="100"/>
+	<Point x="972" y="100"/>
+	<Point x="972" y="160"/>
+	<Point x="896" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>27</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r6" type="other">
+	<Coords>
+	<Point x="1040" y="86"/>
+	<Point x="1023" y="86"/>
+	<Point x="990" y="91"/>
+	<Point x="986" y="159"/>
+	<Point x="1033" y="163"/>
+	<Point x="1040" y="163"/>
+	<Point x="1153" y="158"/>
+	<Point x="1155" y="84"/></Coords></GraphicRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1036" y="2613"/>
+	<Point x="1091" y="2613"/>
+	<Point x="1100" y="2623"/>
+	<Point x="1166" y="2623"/>
+	<Point x="1166" y="2679"/>
+	<Point x="1036" y="2678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1463" y="2604"/>
+	<Point x="1498" y="2604"/>
+	<Point x="1504" y="2610"/>
+	<Point x="1652" y="2609"/>
+	<Point x="1651" y="2684"/>
+	<Point x="1462" y="2683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>latera-</Unicode></TextEquiv></TextRegion></Page></PcGts>

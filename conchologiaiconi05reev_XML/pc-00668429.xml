@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668429">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T13:27:34</Created>
+	<LastChange>2012-02-10T09:53:04</LastChange></Metadata>
+	<Page imageFilename="00668429.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r47" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r25" index="8"/>
+	<RegionRefIndexed regionRef="r27" index="9"/>
+	<RegionRefIndexed regionRef="r9" index="10"/>
+	<RegionRefIndexed regionRef="r10" index="11"/>
+	<RegionRefIndexed regionRef="r11" index="12"/>
+	<RegionRefIndexed regionRef="r12" index="13"/>
+	<RegionRefIndexed regionRef="r29" index="14"/>
+	<RegionRefIndexed regionRef="r31" index="15"/>
+	<RegionRefIndexed regionRef="r16" index="16"/>
+	<RegionRefIndexed regionRef="r17" index="17"/>
+	<RegionRefIndexed regionRef="r18" index="18"/>
+	<RegionRefIndexed regionRef="r19" index="19"/>
+	<RegionRefIndexed regionRef="r20" index="20"/>
+	<RegionRefIndexed regionRef="r33" index="21"/>
+	<RegionRefIndexed regionRef="r37" index="22"/>
+	<RegionRefIndexed regionRef="r41" index="23"/>
+	<RegionRefIndexed regionRef="r43" index="24"/>
+	<RegionRefIndexed regionRef="r22" index="25"/>
+	<RegionRefIndexed regionRef="r23" index="26"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="841" y="314"/>
+	<Point x="1251" y="314"/>
+	<Point x="1251" y="390"/>
+	<Point x="841" y="390"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="337" y="495"/>
+	<Point x="807" y="495"/>
+	<Point x="807" y="560"/>
+	<Point x="337" y="560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 262. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="117" y="565"/>
+	<Point x="1019" y="565"/>
+	<Point x="1019" y="805"/>
+	<Point x="117" y="805"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS VERANYI. Bul. testâ conico-globosâ, spirâ brevi,
+anfractibus quatuor ad quinque, ventricosis, creberrimè
+minutè granulatis; columellâ subplicatâ, labro reﬂexo;
+fulvâ, fusco subindistinctè punctatâ, strigis albidis ful‐
+guratâ epidermide tenui indutâ, labro corneo-albido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="116" y="809"/>
+	<Point x="1015" y="809"/>
+	<Point x="1015" y="1137"/>
+	<Point x="116" y="1137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VERANY’S BULIMUS. Shell conically globose, spire short,
+whorls four to ﬁve in number, ventricose, very closely
+minutely granulated; columella slightly plaited, lip
+reﬂected; yellowish, somewhat indistinctly dotted
+with brown, marked with white lightning-like streaks,
+and covered with a thin epidermis, lip ﬂesh-tinted
+white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="108" y="1142"/>
+	<Point x="767" y="1142"/>
+	<Point x="764" y="1187"/>
+	<Point x="662" y="1188"/>
+	<Point x="654" y="1192"/>
+	<Point x="628" y="1192"/>
+	<Point x="610" y="1187"/>
+	<Point x="108" y="1187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc., 1847, p. 230.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="107" y="1191"/>
+	<Point x="611" y="1191"/>
+	<Point x="623" y="1195"/>
+	<Point x="658" y="1196"/>
+	<Point x="667" y="1193"/>
+	<Point x="904" y="1191"/>
+	<Point x="904" y="1241"/>
+	<Point x="104" y="1241"/>
+	<Point x="104" y="1195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Chacopo, Province of Merida, New Granada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="98" y="1252"/>
+	<Point x="1009" y="1252"/>
+	<Point x="1009" y="1353"/>
+	<Point x="98" y="1353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In some specimens the white zigzag streaks are not
+present.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="93" y="1882"/>
+	<Point x="994" y="1883"/>
+	<Point x="990" y="2310"/>
+	<Point x="93" y="2309"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE FOUR-COLOURED BULIMUS. Shell somewhat de-
+pressly ovate, Succinea-shaped, spire short, whorls
+four in number, obliquely elevately striated; columella
+twisted, aperture large, lip thinly reﬂected; trans‐
+parent-horny, yellow, sometimes waved, sometimes
+dotted with brown, covered with a thin yellow-dotted
+epidermis, with a second light silken epidermis in
+longitudinal streaks peculiarly serrated along the
+anterior edge, lip purple-rose.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="76" y="2313"/>
+	<Point x="740" y="2313"/>
+	<Point x="740" y="2359"/>
+	<Point x="76" y="2359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc., 1847, p. 229.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="78" y="2362"/>
+	<Point x="881" y="2362"/>
+	<Point x="881" y="2409"/>
+	<Point x="78" y="2409"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Chacopo, Province of Merida, New Granada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1121" y="512"/>
+	<Point x="1968" y="512"/>
+	<Point x="1968" y="846"/>
+	<Point x="1121" y="846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cineœformi, spirâ. brevissimâ, anfractibus quatuor,
+obliquè striatis et creberrimè minutè granulatis; colu‐
+mellâ tortuosâ, aperturâ peramplâ, labro reﬂexo; sub-
+corneâ, lutescente, fasciâ suturali castaneâ, epidermide
+olivaceo-fuscâ indutâ, epidermide secundâ sericeâ in
+strigis brevibus obtiquis e suturis descendentibus, labro
+albido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1054" y="853"/>
+	<Point x="1964" y="853"/>
+	<Point x="1962" y="1239"/>
+	<Point x="1054" y="1236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SUCCINEA-LIKE BULIMUS. Shell depressly ovate,
+Succinea-shaped, spire very short, whorls four in
+number, obliquely striated and very closely minutely
+granulated; columella tortuous, aperture very large,
+lip reﬂected; somewhat horny, yellowish, with a dark
+chesnut sutural band, covered with an olive brown
+epidermis, and a second silken one descending from
+the sutures in short oblique streaks, lip whitish,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1049" y="1238"/>
+	<Point x="1816" y="1240"/>
+	<Point x="1817" y="1284"/>
+	<Point x="1726" y="1285"/>
+	<Point x="1712" y="1288"/>
+	<Point x="1702" y="1285"/>
+	<Point x="1045" y="1284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PETIT, Magasin de Zoologie, 1841, Moll. pl. 31.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1049" y="1286"/>
+	<Point x="1457" y="1286"/>
+	<Point x="1457" y="1335"/>
+	<Point x="1049" y="1335"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Santa Fé di Bogota.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1045" y="1345"/>
+	<Point x="1962" y="1345"/>
+	<Point x="1962" y="1443"/>
+	<Point x="1045" y="1443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The form of this species, contrasted with that of B. Lyon-
+netianus and navicula, is remarkable.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1021" y="2419"/>
+	<Point x="1929" y="2419"/>
+	<Point x="1929" y="2716"/>
+	<Point x="1021" y="2716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In addition to the beautiful association of form and
+colour in this species, it is further distinguished by a
+remarkable conﬁguration of the outer membrane of the
+epidermis, which is variously disposed in diﬀerent speci‐
+mens. The B. Cathcartiœ resembles in some degree the
+B. pintadinus, D’Orbigny, Moll. Voy. dans l’Amér. Mérid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="861" y="2739"/>
+	<Point x="1120" y="2739"/>
+	<Point x="1120" y="2791"/>
+	<Point x="861" y="2791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>October, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="heading">
+	<Coords>
+	<Point x="319" y="1433"/>
+	<Point x="789" y="1433"/>
+	<Point x="789" y="1492"/>
+	<Point x="319" y="1492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 263. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="100" y="1497"/>
+	<Point x="1002" y="1497"/>
+	<Point x="1002" y="1879"/>
+	<Point x="100" y="1879"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS QUADRICOLOR. Bul. testâ tenui, sub-depresso-
+ovatâ, Succineœformi, spirâ brevi, anfractibus quatuor,
+obliquè elevato-striatis; columellâ tortuosâ, aperturâ
+amplâ, labro tenuiter reﬂexo; pellucido-corneâ, luteâ,
+fusco nunc undulatâ, nunc punctatâ, epidermide tenui
+luteo-punctatâ indutâ, epidermide sericeâ secundâ in
+strigis longitudinalibus antrorsum peculiariter serratis,
+labro purpureo-roseo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="80" y="2419"/>
+	<Point x="986" y="2419"/>
+	<Point x="986" y="2524"/>
+	<Point x="80" y="2524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A delicate and beautiful species collected in the same
+locality with the preceding by M M. Funck and Linden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="heading">
+	<Coords>
+	<Point x="284" y="2600"/>
+	<Point x="751" y="2600"/>
+	<Point x="751" y="2656"/>
+	<Point x="284" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 264. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="73" y="2662"/>
+	<Point x="978" y="2662"/>
+	<Point x="978" y="2711"/>
+	<Point x="73" y="2711"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS SUCCINOIDES. Bul. testâ depresso-ovatâ, Suc-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="heading">
+	<Coords>
+	<Point x="1107" y="1522"/>
+	<Point x="1890" y="1522"/>
+	<Point x="1890" y="1629"/>
+	<Point x="1107" y="1629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 265. (Fig. a and b, Mus. Sowerby; Fig. c,
+Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="1040" y="1638"/>
+	<Point x="1953" y="1638"/>
+	<Point x="1953" y="1971"/>
+	<Point x="1040" y="1971"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS CATHCARTIÆ. Bul. testâ ovatâ, ventricosâ, spirâ
+brevi, anfractibus quinque, obliquè subtilissimè striatis,
+anfractu ultimo maximo, aperturâ patulâ, labro sublatè
+reﬂexo; albidâ vel purpurascente-castaneâ, epidermide
+luteo-olivaceâ indutâ, epidermide sericeâ secundâ, plus
+minusve pulcherrimè et variè conﬁguratâ, intus purpu-
+rascente-castaneâ, labro roseo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="1034" y="1976"/>
+	<Point x="1944" y="1975"/>
+	<Point x="1945" y="2356"/>
+	<Point x="1035" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATHCART’S BULIMUS. Shell ovate, ventricose, spire
+short, whorls ﬁve in number, obliquely very ﬁnely
+striated, last whorl very large, aperture wide open,
+lip somewhat broadly reﬂected; whitish, or purplish
+chesnut, covered with a yellowish-olive epidermis,
+and a second silken one which is more or less
+beautifully and variously conﬁgured, interior purple-
+chesnut, lip pink.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1029" y="2358"/>
+	<Point x="1817" y="2358"/>
+	<Point x="1817" y="2407"/>
+	<Point x="1029" y="2407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Province of Merida, New Granada; Linden.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r44">
+	<Coords>
+	<Point x="316" y="1374"/>
+	<Point x="787" y="1374"/>
+	<Point x="787" y="1420"/>
+	<Point x="316" y="1420"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r45">
+	<Coords>
+	<Point x="308" y="2545"/>
+	<Point x="760" y="2545"/>
+	<Point x="760" y="2577"/>
+	<Point x="308" y="2577"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r46">
+	<Coords>
+	<Point x="1267" y="1467"/>
+	<Point x="1718" y="1467"/>
+	<Point x="1718" y="1506"/>
+	<Point x="1267" y="1506"/></Coords></SeparatorRegion>
+	<TextRegion id="r47" type="heading">
+	<Coords>
+	<Point x="931" y="420"/>
+	<Point x="931" y="478"/>
+	<Point x="1152" y="478"/>
+	<Point x="1152" y="420"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XLII.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r48">
+	<Coords>
+	<Point x="1055" y="512"/>
+	<Point x="1011" y="2703"/>
+	<Point x="990" y="2702"/>
+	<Point x="1007" y="1832"/>
+	<Point x="1019" y="1151"/>
+	<Point x="1027" y="513"/></Coords></SeparatorRegion></Page></PcGts>

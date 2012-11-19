@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669290">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:48:01</Created>
+	<LastChange>2012-03-12T14:33:54</LastChange></Metadata>
+	<Page imageFilename="00669290.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r13" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="423" y="1973"/>
+	<Point x="1783" y="1973"/>
+	<Point x="1783" y="2660"/>
+	<Point x="423" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le duodénum se courbe et remonte sous l’œso‐
+phage jusque dans la fourche du foie, et dans cette
+longueur d’environ six pouces il est entouré d’un
+nombre si considérable de cœcums qu’on ne peut les
+compter. Ils sont tous simples, d’environ quatre à
+six lignes de longueur, et d’une demi-ligne environ
+de diamètre. Près du bord postérieur du lobe droit
+du foie l’intestin se plie, et se rend directement à
+l’anus. Cette portion, longue d’environ deux pieds,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="366" y="171"/>
+	<Point x="504" y="171"/>
+	<Point x="504" y="258"/>
+	<Point x="366" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>358</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="773" y="168"/>
+	<Point x="1351" y="168"/>
+	<Point x="1351" y="256"/>
+	<Point x="773" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="332" y="276"/>
+	<Point x="1766" y="276"/>
+	<Point x="1771" y="600"/>
+	<Point x="332" y="605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>du même parage, n’était long que de cinq
+pieds deux pouces. C’est d’après l’individu long
+de huit pieds trois pouces que nous avons fait
+sur son anatomie les observations suivantes:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="425" y="626"/>
+	<Point x="1774" y="620"/>
+	<Point x="1773" y="1966"/>
+	<Point x="425" y="1966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le sac dans lequel se confondent l’œsophage et
+l’estomac, est long de quatre pieds six pouces de‐
+puis le diaphragme jusqu’à son extrémité, ayant par
+conséquent plus de la moitié de la longueur du
+tronc. La plus grande largeur de l’estomac n’est que
+d’un pouce, et à sa pointe il n’a pas une ligne de
+diamètre. Ces dimensions font voir aisément que ce
+viscère a la forme d’un cône très-aigu. Près de l’en‐
+droit où il perce le diaphragme, l’œsophage a un
+rétrécissement notable qui est produit par l’épais‐
+seur de la couche musculaire, dont les ﬁbres longi‐
+tudinales sont bien visibles à l’extérieur, et par les
+plis longitudinaux, qui s’eﬀacent au fur et à mesure
+que l’on approche de la naissance de la branche
+montante ou pylorique de l’estomac; laquelle n’a
+guère qu’un pouce de long. Une valvule assez épaisse
+ferme le pylore, dont on ne voit aucunement la place
+à l’extérieur.</Unicode></TextEquiv></TextRegion></Page></PcGts>

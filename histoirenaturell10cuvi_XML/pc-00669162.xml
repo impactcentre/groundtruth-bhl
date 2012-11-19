@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669162">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:32:15</Created>
+	<LastChange>2012-02-09T16:27:36</LastChange></Metadata>
+	<Page imageFilename="00669162.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="392" y="273"/>
+	<Point x="1741" y="273"/>
+	<Point x="1741" y="583"/>
+	<Point x="392" y="583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>est très-légèrement convexe, sans concavité; sa cau‐
+dale est fourchue jusqu’à son tiers postérieur, et
+ses lobes pointus. Sa dorsale et son anale forment
+chacune un angle saillant à leur partie postérieure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="930" y="594"/>
+	<Point x="1230" y="594"/>
+	<Point x="1230" y="662"/>
+	<Point x="930" y="662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/26, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="389" y="678"/>
+	<Point x="1744" y="678"/>
+	<Point x="1744" y="1119"/>
+	<Point x="389" y="1119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sur le fond brun de son corps régnent onze à
+douze raies étroites, allant parallèlement par inter‐
+valles égaux et en ligne droite de l’avant à l’arrière,
+leur couleur dans la liqueur paraît grise, mais elles
+peuvent avoir été bleues. Les nageoires sont d’un
+noir bleuâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="399" y="1130"/>
+	<Point x="1746" y="1130"/>
+	<Point x="1746" y="1292"/>
+	<Point x="399" y="1292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les individus n'ont que deux pouces et demi de
+longueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="317" y="1317"/>
+	<Point x="1751" y="1317"/>
+	<Point x="1751" y="2508"/>
+	<Point x="317" y="2508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MM. Quoy et Gaimard1 l’ont représenté
+sous le nom d’acanthure strié; mais leur ﬁgure,
+faite d’après le sec, est peu exacte. Le par-
+ringa de Renard, pl. 1 , ﬁg. 8, nous paraît
+appartenir à la même espèce: dans cette
+ﬁgure, à la vérité, les lignes bleues n’occupent
+que la moitié postérieure, et les nageoires
+sont d’un bleu trop clair; mais ce sont des
+fautes du copiste. L’original, dans Vlaming,
+n.° 245, est entièrement conforme à nos pois‐
+sons; il y est intitulé parringas ou vlym-vish,
+c’est-à-dire, poisson à lancette; mais ces deux
+noms sont génériques. Nous avons déjà vu un
+parring voisin de l’hépate.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="389" y="2583"/>
+	<Point x="1449" y="2583"/>
+	<Point x="1449" y="2658"/>
+	<Point x="389" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Zool. du Voyage ﬁe Freyeinet, pl. 63, ﬁg. 3.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="337" y="2523"/>
+	<Point x="337" y="2558"/>
+	<Point x="1739" y="2558"/>
+	<Point x="1739" y="2523"/></Coords></SeparatorRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="335" y="171"/>
+	<Point x="468" y="171"/>
+	<Point x="468" y="249"/>
+	<Point x="335" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>230</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="780" y="183"/>
+	<Point x="1296" y="183"/>
+	<Point x="1296" y="249"/>
+	<Point x="780" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

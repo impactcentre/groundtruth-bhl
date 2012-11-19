@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672432">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:34:42</Created>
+	<LastChange>2012-02-10T09:54:52</LastChange></Metadata>
+	<Page imageFilename="00672432.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="946" y="151"/>
+	<Point x="1267" y="151"/>
+	<Point x="1267" y="226"/>
+	<Point x="946" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 238 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="224" y="301"/>
+	<Point x="1976" y="301"/>
+	<Point x="1976" y="1399"/>
+	<Point x="224" y="1399"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>letzte der 3 Medianaderäste, statt sich in eine lange Gabel
+zu spalten, ganz einfach bleibt. Ob die Subcostalader dieser
+Flügel auch veränderlich ist, habe ich nicht zu erkennen ver-
+mocht, weil die Aeste derselben trotz allen Reibens tief ver-
+deckt unter der Beschuppung blieben. Wenigstens den Hinter-
+ﬂügeln zufolge würde also Homoeosoma mit Ephestia verei-
+nigt werden können, deren Arten auch gewöhnlich die Homö-
+osomenzeichnung und Färbung tragen. Weitere Forschungen
+müssen lehren, ob der kleine Einschnitt am Anfange der ♂
+Fühlergeissel, welchen die bekannten Ephestien nie besitzen,
+und der Aufenthalt der Raupe in Blüthen statt in getrock-
+neten Pﬂanzentheilen, zur Auseinanderhaltung der zwei Gat-
+tungen genügend ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="512" y="1496"/>
+	<Point x="1687" y="1496"/>
+	<Point x="1687" y="1585"/>
+	<Point x="512" y="1585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Homoeos. erronella Tab. XII, ﬁg. 42.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="210" y="1608"/>
+	<Point x="1973" y="1608"/>
+	<Point x="1973" y="2041"/>
+	<Point x="210" y="2041"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parva, thorace cano, fronte alba, palpis brevibus nigro
+canoque maculatis; alis ant. angustis, canis, costa latius alba,
+strigis duabus dilutioribus, priore exterius maculis duabus ni-
+gricantibus marginata, puncto venae transversae fusco; post.
+albis, subpellucidis. ♂ ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="212" y="2055"/>
+	<Point x="1967" y="2055"/>
+	<Point x="1967" y="2982"/>
+	<Point x="212" y="2982"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die acht vorliegenden Homöosomen sind noch kleiner als die
+kleinen Exemplare unserer europäischen Nimbella, von denen
+es noch nicht feststeht, ob sie blosse Varietäten sind. Von
+ihnen unterscheidet sich Erronella ausser der Kleinheit durch
+helles Weiss des Gesichts, den schwachen Queraderpunkt der
+Vorderﬂügel und die reinweissen, etwas durchsichtigen Hinter-
+ﬂügel. — Sie ist kleiner als die in der Anmerkung charakte-
+risirte Нom. Ubacensis und durch ihr weisses, nicht graues
+Gesicht, durch kürzere Taster und hellere Flügel verschieden.
+Eben dort ist die Verschiedenheit der Нom. maturella ausein-
+andergesetzt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="212" y="2987"/>
+	<Point x="1964" y="2987"/>
+	<Point x="1964" y="3155"/>
+	<Point x="212" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die kleinste bekannte Art. Gesicht auﬀallend weiss; Rücken-
+schild staubgrau. Taster kaum bis zur Stirn reichend, aussen</Unicode></TextEquiv></TextRegion></Page></PcGts>

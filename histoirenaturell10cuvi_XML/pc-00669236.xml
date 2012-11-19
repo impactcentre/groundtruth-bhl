@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669236">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T08:40:51</Created>
+	<LastChange>2012-03-12T14:33:51</LastChange></Metadata>
+	<Page imageFilename="00669236.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="394" y="268"/>
+	<Point x="1743" y="268"/>
+	<Point x="1743" y="431"/>
+	<Point x="394" y="431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est cette circonstance qui nous lui a fait donner
+le nom spéciﬁque d’annularis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="351" y="452"/>
+	<Point x="1740" y="452"/>
+	<Point x="1741" y="622"/>
+	<Point x="351" y="630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La longueur de notre individu n’est que
+de deux pouces et demi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="352" y="634"/>
+	<Point x="1505" y="628"/>
+	<Point x="1758" y="626"/>
+	<Point x="1759" y="1138"/>
+	<Point x="350" y="1138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il a été rapporté de Timor par MM. Quoy
+et Gaimard, qui en ont parlé dans la zoo‐
+logie du Voyage de Freycinet, p. 377. Ils ajou‐
+tent que la caudale était bordée de blanc,
+la dorsale lisérée de noirâtre et que les pec‐
+torales étaient jaunâtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="866" y="1347"/>
+	<Point x="1245" y="1347"/>
+	<Point x="1245" y="1441"/>
+	<Point x="866" y="1441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES KÉRIS,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="483" y="1479"/>
+	<Point x="1622" y="1479"/>
+	<Point x="1622" y="1577"/>
+	<Point x="483" y="1577"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et en particulier du KÉRIS A GOÎTRE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="798" y="1588"/>
+	<Point x="1316" y="1588"/>
+	<Point x="1316" y="1673"/>
+	<Point x="798" y="1673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Keris anginosus.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="352" y="1704"/>
+	<Point x="1766" y="1704"/>
+	<Point x="1766" y="2464"/>
+	<Point x="352" y="2464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quelque petite que soit la taille du pois‐
+son qui fait le sujet de cet article, nous n’a‐
+vons pas hésité à l’établir comme type d’un
+genre particulier, dont il n’est encore que
+l’espèce unique. Ses caractères ne conviennent
+en eﬀet à aucun des genres qui composent
+la famille des Teuthies, et le poisson lui-
+même doit entrer évidemment dans cette
+tribu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="370" y="2469"/>
+	<Point x="1764" y="2469"/>
+	<Point x="1764" y="2656"/>
+	<Point x="370" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il tient même des deux genres précédens,
+car il a, comme les axinures, des dents ﬁnes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="339" y="160"/>
+	<Point x="496" y="160"/>
+	<Point x="496" y="248"/>
+	<Point x="339" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>304</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="787" y="185"/>
+	<Point x="1296" y="185"/>
+	<Point x="1296" y="251"/>
+	<Point x="787" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="960" y="1216"/>
+	<Point x="960" y="1254"/>
+	<Point x="1137" y="1254"/>
+	<Point x="1137" y="1216"/></Coords></SeparatorRegion></Page></PcGts>

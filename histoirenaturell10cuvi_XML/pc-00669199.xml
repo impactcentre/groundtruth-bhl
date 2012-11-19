@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669199">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:36:46</Created>
+	<LastChange>2012-03-12T14:33:49</LastChange></Metadata>
+	<Page imageFilename="00669199.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="68" y="322"/>
+	<Point x="1496" y="322"/>
+	<Point x="1495" y="666"/>
+	<Point x="1047" y="667"/>
+	<Point x="1040" y="680"/>
+	<Point x="1010" y="680"/>
+	<Point x="1001" y="667"/>
+	<Point x="853" y="667"/>
+	<Point x="853" y="680"/>
+	<Point x="681" y="679"/>
+	<Point x="675" y="671"/>
+	<Point x="516" y="671"/>
+	<Point x="512" y="681"/>
+	<Point x="467" y="681"/>
+	<Point x="450" y="671"/>
+	<Point x="68" y="671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un autre individu, également de l’Isle-de-
+France, rapporté par MM. Quoy et Gaimard,
+et long de dix pouces, a la corne sensible‐
+ment moins prolongée que le précédent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="68" y="677"/>
+	<Point x="444" y="676"/>
+	<Point x="460" y="686"/>
+	<Point x="522" y="686"/>
+	<Point x="528" y="677"/>
+	<Point x="670" y="677"/>
+	<Point x="674" y="686"/>
+	<Point x="864" y="686"/>
+	<Point x="863" y="675"/>
+	<Point x="995" y="675"/>
+	<Point x="1004" y="685"/>
+	<Point x="1050" y="685"/>
+	<Point x="1052" y="672"/>
+	<Point x="1505" y="672"/>
+	<Point x="1509" y="2187"/>
+	<Point x="66" y="2187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un autre poisson sec, de même grandeur
+que celui-ci, fort ancien, au Cabinet du Roi,
+puisqu’il y a été envoyé par M. Poivre, in‐
+tendant de l’Isle-de-France, en 1767 et 1773,
+a une corne tout-à-fait semblable. Elle est
+réduite à une forte tubérosité dans un plus
+petit individu long de sept pouces, et que
+M. Théodore Delise nous a envoyé de la
+même île. Il y a joint un fort joli dessin co‐
+lorié d’après le frais, qui nous représente ce
+poisson d’un gris verdâtre avec les boucliers
+bleus. Sa dorsale est orangé clair, avec des
+traits obliques verdâtres sur trois ou quatre
+rangs; son anale a quatre lignes orangées et
+quatre bleues, lisérées de noirâtre; les autres
+nageoires sont grises comme le corps: à cette
+taille la caudale ne se prolonge pas encore en
+ﬁlet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="72" y="2196"/>
+	<Point x="1509" y="2196"/>
+	<Point x="1509" y="2737"/>
+	<Point x="72" y="2737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons un petit poisson, long de cinq
+pouces, que M. Leschenault a rapporté de
+Bourbon, et qui n’oﬀre plus qu’un vestige de
+tubercule au-devant des yeux; du reste ses
+nombres, ses formes le rapprochent tellement
+du précédent, qu’il nous est impossible de ne</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="527" y="238"/>
+	<Point x="1028" y="238"/>
+	<Point x="1028" y="312"/>
+	<Point x="527" y="312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. NASONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1342" y="218"/>
+	<Point x="1494" y="218"/>
+	<Point x="1494" y="307"/>
+	<Point x="1342" y="307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>267</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672370">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:21:41</Created>
+	<LastChange>2012-02-10T09:54:35</LastChange></Metadata>
+	<Page imageFilename="00672370.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="966" y="128"/>
+	<Point x="1289" y="128"/>
+	<Point x="1289" y="191"/>
+	<Point x="966" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 176 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="253" y="266"/>
+	<Point x="1991" y="266"/>
+	<Point x="1991" y="751"/>
+	<Point x="253" y="751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>weit von einander gesperrt und mit schmutzig gelblichweissen
+Haarschuppen reichlich bekleidet. Alle Fusse der Art sind aus-
+wärts braun mit hellen Enden der Glieder. Die Vorderﬂügel
+nur eines ♀ haben 31/2‴ Länge, bei den 3 andern nur 31/4‴.
+Bei den beiden ♀♀ ist die Binde in der Falte sehr schmal
+unterbrochen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="842" y="858"/>
+	<Point x="1405" y="858"/>
+	<Point x="1405" y="949"/>
+	<Point x="842" y="949"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Argyr. lusella Z.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="539" y="998"/>
+	<Point x="1033" y="998"/>
+	<Point x="1033" y="1075"/>
+	<Point x="539" y="1075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Exot. Micropt. p. 65.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="246" y="1133"/>
+	<Point x="1998" y="1133"/>
+	<Point x="1998" y="1898"/>
+	<Point x="246" y="1898"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Petersen brachte nur 2 am 22 September bei Honda ge-
+fangene ♀♀ mit. Beide sind sehr klein und haben wie das p. 66
+erwähnte Peruanische Exemplar eine vollständige Mittelbinde,
+welche jedoch oben nicht nach hinten überhängt. Sie kommen
+der grössern Pontiella so nahe, dass mir die Artverschieden-
+heit beider zweifelhaft wird, da das Rostgelbe bei ihnen sich
+auch auf den Kragen erstreckt, und Taster und Beine nur
+wenig heller gefärbt sind. Jedenfalls muss Pontiella dicht bei
+Lusella, d. h. Pusillalis (eigentlich Pussillalis) H. stehen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="828" y="2030"/>
+	<Point x="1417" y="2030"/>
+	<Point x="1417" y="2125"/>
+	<Point x="828" y="2125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Argyr. simplex Z.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="542" y="2166"/>
+	<Point x="1017" y="2166"/>
+	<Point x="1017" y="2232"/>
+	<Point x="542" y="2232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Exot. Micropt. p. 70.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="248" y="2278"/>
+	<Point x="1994" y="2278"/>
+	<Point x="1994" y="2699"/>
+	<Point x="248" y="2699"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ein am 27 Juni und ein am 7 Februar gefangenes ♀ stim-
+men in Allem mit der Beschreibung, ausser dass sie hinter
+den Augen nichts Rostgelbes haben, was aber ihr etwas ab-
+geﬂogener Zustand leicht erklärlich macht. Das Rückenschild
+ist wirklich überall weiss.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="262" y="2726"/>
+	<Point x="1996" y="2726"/>
+	<Point x="1996" y="2991"/>
+	<Point x="262" y="2991"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Da es mir unwahrscheinlich ist, dass diese Art auch in
+Japan lebt, so nehme ich an, dass die Vaterlandsangabe Japan
+in Staudinger's Sammlung auf einer Verwechslung beruht.</Unicode></TextEquiv></TextRegion></Page></PcGts>

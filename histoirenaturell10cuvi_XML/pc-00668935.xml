@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668935">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T04:34:38</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668935.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="58" y="321"/>
+	<Point x="1464" y="321"/>
+	<Point x="1464" y="555"/>
+	<Point x="58" y="555"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>culier, qu'il devient impossible de ne pas
+réunir tous ces poissons en une même tribu
+des scombéroïdes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="58" y="575"/>
+	<Point x="1464" y="575"/>
+	<Point x="1464" y="1253"/>
+	<Point x="58" y="1253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle est, comme la précédente, une de ces
+familles naturelles dont les rapports les lient
+avec plusieurs autres non moins naturelles, et
+qui donnent tant de difficultés, pour ne pas
+dire d'impossibilité, de former les séries con-
+tinues que tant de naturalistes fort éclairés ont
+vainement tenté faire, sans être plus heureux
+que nous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="49" y="1257"/>
+	<Point x="1466" y="1257"/>
+	<Point x="1466" y="1769"/>
+	<Point x="49" y="1769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On peut la diviser en deux sections: une,
+qui comprendra les espèces à dorsale profon-
+dément échancrée et comme double, et une
+seconde, dont les poissons ont la nageoire
+du dos continue, sans échancrure et par con-
+séquent unique.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="564" y="223"/>
+	<Point x="942" y="223"/>
+	<Point x="942" y="289"/>
+	<Point x="564" y="289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1405" y="216"/>
+	<Point x="1473" y="216"/>
+	<Point x="1473" y="285"/>
+	<Point x="1405" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="683" y="2078"/>
+	<Point x="849" y="2078"/>
+	<Point x="849" y="2107"/>
+	<Point x="683" y="2107"/></Coords></SeparatorRegion></Page></PcGts>

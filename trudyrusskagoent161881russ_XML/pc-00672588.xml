@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672588">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:31:52</Created>
+	<LastChange>2012-02-10T09:55:15</LastChange></Metadata>
+	<Page imageFilename="00672588.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="983" y="109"/>
+	<Point x="1316" y="109"/>
+	<Point x="1316" y="183"/>
+	<Point x="983" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 392 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="254" y="233"/>
+	<Point x="2028" y="233"/>
+	<Point x="2028" y="407"/>
+	<Point x="254" y="407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>qu'en séparant du Damon Schiff., des espèces qui lui étaient
+faussement attribuées comme variétés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="252" y="416"/>
+	<Point x="2019" y="416"/>
+	<Point x="2019" y="761"/>
+	<Point x="252" y="761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Iphigenia du Tian-Chian constituent une race, pas
+trop tranchée il est vrai, mais constante. Elle y était fort
+localisée, ne volant que près d'un seul rocher, autour d'une
+plante basse à ﬂeurs bleues, qui m'est complêtement inconnue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="750" y="823"/>
+	<Point x="1519" y="823"/>
+	<Point x="1519" y="933"/>
+	<Point x="750" y="933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>50. L. Argiolus L. var.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="228" y="997"/>
+	<Point x="2011" y="997"/>
+	<Point x="2011" y="1702"/>
+	<Point x="228" y="1702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fin Mars, commune dans les sables, mais toujours près
+des cours d'eau; en Mai, près Kouldjà, et en Juin, dans la
+vallée du Kounguesse jusqu'à 4500´ environ. Les ♀♀ se di-
+stinguent généralement par une coloration bien sombre sur
+le dessus: le noir envahissant souvent d'une manière très pro-
+noncée le bleu du disque des antérieures et même complête-
+ment presque les ailes postérieures, comme c'est le cas chez
+les individus de l'Algérie. Taille ordinaire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="664" y="1761"/>
+	<Point x="1604" y="1761"/>
+	<Point x="1604" y="1871"/>
+	<Point x="664" y="1871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>51. L. Prosecusa Ersch. (♂).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="233" y="1914"/>
+	<Point x="1995" y="1914"/>
+	<Point x="1995" y="2128"/>
+	<Point x="233" y="2128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♀ fusca, discis caeruleis ad instar ♀ L. Argioli. ♂♂ 21,
+22; ♀♀ 22 mill.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="219" y="2150"/>
+	<Point x="2016" y="2150"/>
+	<Point x="2016" y="2411"/>
+	<Point x="219" y="2411"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est au commencement d'Avril, que je pris cette espèce
+délicate, décrite par Mr. Erschoff d'après un ♂ unique, dans
+les sables du Khorgosse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="242" y="2416"/>
+	<Point x="2009" y="2416"/>
+	<Point x="2009" y="2583"/>
+	<Point x="242" y="2583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ne réussîmes à prendre que 7 ♂♂ et deux ♀♀ de
+cette Lycaena, malgré des recherches assidues.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="230" y="2588"/>
+	<Point x="2004" y="2588"/>
+	<Point x="2004" y="2921"/>
+	<Point x="230" y="2921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ♀ est complêtement distincte du ♂ en dessus, en ce que
+chez elle, les ailes sont envahies par le noir-grisâtre, qui ne
+laisse qu'une partie du disque bleu à découvert, et cela, comme
+dans l'espèce précédente à peu près.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="228" y="2923"/>
+	<Point x="1995" y="2923"/>
+	<Point x="1995" y="3107"/>
+	<Point x="228" y="3107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Au premier abord, on pourrait prendre la Prosecusa ♀,
+vue en dessus, pour une toute petite ♀ de l'Argiolus, n'était</Unicode></TextEquiv></TextRegion></Page></PcGts>

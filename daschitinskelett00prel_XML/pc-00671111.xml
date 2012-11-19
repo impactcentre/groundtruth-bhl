@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671111">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:49:53</Created>
+	<LastChange>2012-03-12T14:34:05</LastChange></Metadata>
+	<Page imageFilename="00671111.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1060" y="343"/>
+	<Point x="1333" y="343"/>
+	<Point x="1333" y="393"/>
+	<Point x="1060" y="393"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 49 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="143" y="456"/>
+	<Point x="2263" y="456"/>
+	<Point x="2263" y="696"/>
+	<Point x="143" y="696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>das Herrschende zu sein, bis in den Proturen auch anamere Insekten bekannt wurden. In dieser
+Hinsicht würden die Proturen also auf einer phyletisch tieferen Stufe stehen als die übrigen Insekten.
+Es fragt sich nun, ob in der Tat die Proturen die einzigen Hexapoden sind, welche Reste der alten
+Anamerie besitzen, oder ob auch sonst noch Andeutungen davon vorhanden sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="133" y="703"/>
+	<Point x="2266" y="703"/>
+	<Point x="2266" y="1253"/>
+	<Point x="133" y="1253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wie bei den höheren Crustaceen, so ist bei den Insekten durchgängig eine feste Segmentzahl
+des Körpers erreicht worden, und diese beträgt hier, nach Abrechnung der Kopf- und Brustsegmente
+für das Abdomen zwölf. Nur wenige Insektengruppen weisen in geschlechtsreifem Zustande noch
+die volle Zahl der Abdominalringe auf. Durch Rückbildung verringert sich während der Entwicklung
+oft sekundär die Segmentzahl, so daß nur embryologisch sich noch die zwölf Metamere nachweisen
+lassen. Bei manchen höher spezialisierten Gruppen ist die Reduktion noch weiter gegangen und hat
+dazu geführt, daß die embryonale Anlage nur in frühen Stadien nachweisbar oder daß sie selbst dann
+nicht mehr vollständig ist. Zu irgendwelchen weiteren Schlüssen scheint diese Tatsache aber keine
+Handhabe zu bieten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="126" y="1263"/>
+	<Point x="2260" y="1263"/>
+	<Point x="2260" y="1506"/>
+	<Point x="126" y="1506"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Außer der sekundären gibt es nun noch eine primäre Oligomerie des Insektenkörpers und diese
+findet sich bei den Collembolen. Die Zahl der Uromeren beträgt hier stets höchstens sechs und auch
+embryologisch ließ sich bisher keine größere nachweisen. Diese Tatsache, für die sich eine Erklärung
+bisher nicht geben ließ, findet eine solche augenscheinlich im Vergleich mit den Proturen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="126" y="1510"/>
+	<Point x="2263" y="1510"/>
+	<Point x="2263" y="2314"/>
+	<Point x="701" y="2316"/>
+	<Point x="126" y="2315"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Proturen haben mit ihrer Hemianamorphose den Beweis dafür erbracht, daß Anamerie
+auch bei den Ateloceraten der Holomerie vorangegangen ist. Eine gewisse Wahrscheinlichkeit spricht
+dafür, daß diese Anamerie ursprünglich nicht erst bei dem neunsegmentigen Tiere begonnen hat,
+sondern schon früher. Es ist gar nicht erforderlich, bis auf ein Stadium zurückzugehen, welches etwa
+der sechsbeinigen Diplopodenlarve analog wäre. Aber man darf voraussetzen, daß in einer gewissen
+Entwicklungsstufe die Hexapoden mit 6 Abdominalsegmenten das Ei verließen. Auf diesem Stadium
+sind anscheinend die Collembolen dauernd stehen geblieben und haben sekundär durch Neotenie
+unter Verlust der Anamerie die Geschlechtsreife mit nur sechs Abdominalsegmenten erlangt. Die
+Proturen dagegen, welche eine etwas höhere primäre Segmentzahl erreichten, behielten die Anamerie
+bei. In der hieraus resultierenden Annahme einer verhältnismäßig frühen Ablösung der Collembolen
+und Proturen mögen die bei ihnen neben vielen Merkmalen höherer Spezialisierung auftretenden
+primitiven Charaktere, wie die Paarigkeit der zweiten Maxille, ihre Erklärung finden; der Mangel
+eigentlicher Sexualanhänge bei Collembolen ist vielleicht als Folge der Neotenie zu deuten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="123" y="2320"/>
+	<Point x="2273" y="2320"/>
+	<Point x="2273" y="2623"/>
+	<Point x="904" y="2623"/>
+	<Point x="123" y="2627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eine andere Möglichkeit der Erklärung für die Olomerie des jüngsten Stadiums bei Proturen
+(Börner) und Collembolen böte die Annahme einer sekundären Frühverlegung des Ausschlüpfens
+vor die definitive Ausbildung aller Segmente. Hierfür, sowie für die Mitwirkung einer rezessiven
+Oligomerie analog den Verhältnissen bei höheren Insekten, sind irgendwelche Belege noch nicht zu
+erbringen gewesen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="121" y="2632"/>
+	<Point x="2253" y="2626"/>
+	<Point x="2253" y="2750"/>
+	<Point x="121" y="2752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Versucht man nun unter Berücksichtigung der vorangehenden Erwägungen eine Einteilung
+der Hexapoden nach der Art ihrer Segmentzahl, so gelangt man zu dem folgenden Resultate.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="133" y="2756"/>
+	<Point x="2243" y="2756"/>
+	<Point x="2244" y="2999"/>
+	<Point x="1992" y="2999"/>
+	<Point x="1455" y="3000"/>
+	<Point x="502" y="3000"/>
+	<Point x="132" y="2997"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Als Holomerentoma (Holomera) lassen sich alle Gruppen der Pterygoten mit den
+Entognathen und Ektognathen zusammenfassen, da sie bereits mit der vollen Segmentzahl das Ei
+verlassen. Von gelegentlich eingetretener sekundärer Segmentverminderung darf dabei als rezessivem
+Merkmale abgesehen werden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="130" y="3003"/>
+	<Point x="940" y="3003"/>
+	<Point x="1082" y="3004"/>
+	<Point x="1403" y="3004"/>
+	<Point x="1511" y="3005"/>
+	<Point x="2005" y="3006"/>
+	<Point x="2151" y="3003"/>
+	<Point x="2243" y="3003"/>
+	<Point x="2243" y="3123"/>
+	<Point x="130" y="3123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die übrigen Hexapoden besitzen andersartige Segmentverhältnisse, welche daraus resultieren,
+daß der Weg von der Anamerie zur Holomerie hier nicht völlig zurückgelegt wurde; sie lassen sich</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="551" y="3133"/>
+	<Point x="551" y="3183"/>
+	<Point x="230" y="3183"/>
+	<Point x="230" y="3133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zoologica. Heft 64.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="2090" y="3125"/>
+	<Point x="2090" y="3166"/>
+	<Point x="2133" y="3166"/>
+	<Point x="2133" y="3125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7</Unicode></TextEquiv></TextRegion></Page></PcGts>

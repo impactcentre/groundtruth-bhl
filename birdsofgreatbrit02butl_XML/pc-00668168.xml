@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668168">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T07:09:24</Created>
+	<LastChange>2012-02-10T09:52:41</LastChange></Metadata>
+	<Page imageFilename="00668168.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="271" y="179"/>
+	<Point x="381" y="179"/>
+	<Point x="381" y="234"/>
+	<Point x="271" y="234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>172</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="941" y="162"/>
+	<Point x="1460" y="162"/>
+	<Point x="1460" y="244"/>
+	<Point x="941" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CARRION-CROW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="273" y="297"/>
+	<Point x="2140" y="296"/>
+	<Point x="2140" y="666"/>
+	<Point x="270" y="670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Great Britain this species is justly disliked and persecuted, both by
+shepherds and game-keepers; yet it is still by no means rare in the well-timbered
+portions of England and Wales, becoming, however, decidedly commoner in the
+northern counties, whilst in Scotland it is abundant; in the islands oﬀ the
+Scotch coast it again becomes scarce and it is doubtful whether it really occurs
+in the Orkneys or Shetlands. In Ireland it is a very scarce bird.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="270" y="673"/>
+	<Point x="2142" y="669"/>
+	<Point x="2139" y="1043"/>
+	<Point x="270" y="1042"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The male Carrion-Crow is glossy black; purplish above, and with green
+tints on the head and neck; the wings similarly tinted; bill and feet black;
+iris brown. The female is perhaps slightly less glossy than the male, but does
+not otherwise diﬀer in plumage; her bill appears to be longer and more slender
+than that of the male, which is unusual in the Crows. Young birds are without
+gloss and the inside of their mouths is pale ﬂesh-coloured.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="265" y="1046"/>
+	<Point x="2142" y="1045"/>
+	<Point x="2145" y="1733"/>
+	<Point x="263" y="1730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>As opposed to the absurd notion that because this species is proved to
+hybridize freely with the Hooded Crow and produce fertile oﬀspring, it cannot be
+a distinct species, Herr Gätke shrewdly observes:—“The very circumstance,
+however, that despite pairing having taken place for several thousands of years,
+the two colours of the respective species have remained pure and distinct, forms
+the most striking proof of the speciﬁc independence of the two; for, if they had
+not existed originally as two ﬁxed primary forms, to which the mongrel oﬀspring
+reverted, though this may have occurred only after several generations, we should
+at present know neither the one species nor the other in its pure simple
+colouration, but should meet only with unlimited gradational stages of mixtures
+of grey and black forms.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="264" y="1732"/>
+	<Point x="2146" y="1736"/>
+	<Point x="2148" y="2230"/>
+	<Point x="264" y="2233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This argument, however, is not unassailable, unless it be claimed that the
+three Pheasants—P. colchicus, P. torquatus, and P. versicolor, which also interbreed
+freely and produce endless intergrades are, therefore, not distinct species. It must
+also be borne in mind that in some cases acknowledged sports of the same
+species when crossed do not produce intergrades, but from one clutch of eggs
+reproduce examples of each variety, as has been proved in the case of the
+Barbary Turtle-Dove, the Gouldian Finch, and the supposed fertile hybrid known
+as the Bengalee.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="263" y="2236"/>
+	<Point x="2150" y="2233"/>
+	<Point x="2150" y="2680"/>
+	<Point x="263" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In many respects the Carrion-Crow resembles the Raven, inhabiting similar
+haunts, whether among the rocky uplands, or in woods and game-coverts. In its
+predatory habits it is almost, if not quite as much dreaded, both by shepherd
+and game-keeper. Ever seeking for food from dawn till dark, the mischief done
+by a pair of this species in a single season must be enormous. That this bird
+has some courage seems probable from the fact that it will sometimes dispute
+with a Gull or even a small Hawk, but it appears soon to weary of resisting a</Unicode></TextEquiv></TextRegion></Page></PcGts>

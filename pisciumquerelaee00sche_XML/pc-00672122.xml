@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672122">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-06T19:09:07</Created>
+	<LastChange>2012-03-12T14:34:08</LastChange></Metadata>
+	<Page imageFilename="00672122.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/>
+	<RegionRefIndexed regionRef="r9" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="562" y="1060"/>
+	<Point x="996" y="1060"/>
+	<Point x="1010" y="1057"/>
+	<Point x="1013" y="1057"/>
+	<Point x="1014" y="1058"/>
+	<Point x="1022" y="1050"/>
+	<Point x="2116" y="1048"/>
+	<Point x="2115" y="1529"/>
+	<Point x="1855" y="1530"/>
+	<Point x="1520" y="1530"/>
+	<Point x="1344" y="1531"/>
+	<Point x="1120" y="1531"/>
+	<Point x="1107" y="1552"/>
+	<Point x="1081" y="1552"/>
+	<Point x="1069" y="1541"/>
+	<Point x="955" y="1541"/>
+	<Point x="935" y="1533"/>
+	<Point x="907" y="1533"/>
+	<Point x="711" y="1536"/>
+	<Point x="698" y="1539"/>
+	<Point x="690" y="1544"/>
+	<Point x="681" y="1551"/>
+	<Point x="671" y="1551"/>
+	<Point x="665" y="1547"/>
+	<Point x="656" y="1545"/>
+	<Point x="562" y="1552"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dens folis teres recurvus ex AgroDobu-
+nen. Hocſpecimen, ut plura alia rariora folia
+ﬁgurata, prodit ex locupletima Pinacotheca viriCe-
+leberrimi, de progreu Hioriæ Naturalis meriti-
+mi, Dn. Joh. Woodwardi è Societate Regia Anglica,
+Phycæ in collegio Greshamen Profeoris.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1903" y="2529"/>
+	<Point x="2114" y="2529"/>
+	<Point x="2114" y="2617"/>
+	<Point x="1903" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ejuus-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="559" y="166"/>
+	<Point x="1187" y="166"/>
+	<Point x="1356" y="164"/>
+	<Point x="1371" y="171"/>
+	<Point x="1621" y="171"/>
+	<Point x="1636" y="160"/>
+	<Point x="2110" y="160"/>
+	<Point x="2110" y="588"/>
+	<Point x="937" y="588"/>
+	<Point x="930" y="628"/>
+	<Point x="559" y="628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dens Piſcislatiusculè mucronatus, Me-
+genwilens Lapicidin in Liberis Provinciis. Omnis ge-
+nerisGloopetras ferunt ſaxa hujus Lapicidinæ,cine-
+rei coloris ; Hoc ſpecimen crauſculum e, ex
+convexa magis acuminis obtu parte nu triangula-
+ri notatum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="565" y="634"/>
+	<Point x="949" y="635"/>
+	<Point x="991" y="610"/>
+	<Point x="2118" y="610"/>
+	<Point x="2118" y="1046"/>
+	<Point x="1012" y="1046"/>
+	<Point x="1000" y="1058"/>
+	<Point x="941" y="1058"/>
+	<Point x="564" y="1057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dens Piſcis crauſculus in acutum mu-
+cronem terminatus Megenvvilens; Ejus-
+dem coloris , ut præcedens , mucrone aliquan-
+tùm recurvo : forſan reſerendus ad Dentemrecurvum
+teretiorem Sheppianum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="573" y="1553"/>
+	<Point x="648" y="1551"/>
+	<Point x="662" y="1550"/>
+	<Point x="669" y="1552"/>
+	<Point x="689" y="1552"/>
+	<Point x="698" y="1547"/>
+	<Point x="706" y="1546"/>
+	<Point x="715" y="1545"/>
+	<Point x="728" y="1543"/>
+	<Point x="921" y="1543"/>
+	<Point x="935" y="1538"/>
+	<Point x="940" y="1543"/>
+	<Point x="946" y="1546"/>
+	<Point x="1007" y="1545"/>
+	<Point x="1066" y="1546"/>
+	<Point x="1079" y="1558"/>
+	<Point x="1117" y="1558"/>
+	<Point x="1122" y="1537"/>
+	<Point x="1462" y="1536"/>
+	<Point x="1484" y="1533"/>
+	<Point x="1509" y="1536"/>
+	<Point x="1522" y="1536"/>
+	<Point x="2113" y="1537"/>
+	<Point x="2113" y="1853"/>
+	<Point x="1390" y="1853"/>
+	<Point x="1346" y="1896"/>
+	<Point x="1266" y="1895"/>
+	<Point x="1145" y="1896"/>
+	<Point x="572" y="1896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reliqua hujus Tabulæ folia ,  non omnia ,
+ad Piſcium ſpeant Familiam, uti de plerisque non
+vana obtinet conjeura , ejus tamen ſunt raritatis,
+quæ omninò meretur &amp; deſcribi, &amp; ſculpi , &amp; orbis
+curio examini ſubmitti.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="569" y="1900"/>
+	<Point x="1162" y="1900"/>
+	<Point x="1374" y="1901"/>
+	<Point x="1390" y="1901"/>
+	<Point x="1429" y="1875"/>
+	<Point x="1895" y="1874"/>
+	<Point x="2124" y="1874"/>
+	<Point x="2124" y="2479"/>
+	<Point x="1254" y="2479"/>
+	<Point x="1229" y="2550"/>
+	<Point x="569" y="2550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ex copioſo rerum Diluvianarum ſuppelleiliWood-
+wardiano , it ſe rara Piſcis cujusdam mandi-
+bula , quam nondum ad ſuum genus reducere po-
+tuimus;Anthracini e nitoris, ex Angliæ fodinis pro-
+traa. Eadem videtur ſcopula littoralis anthracina,
+ve Xyloeon nigrum è minoribus , verriculo calceario
+mile, quam Luidius n. 1594. habet pro folis cujusdam
+Piſcis palati fragmento.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r14" type="other">
+	<Coords>
+	<Point x="1104" y="83"/>
+	<Point x="1281" y="82"/>
+	<Point x="1292" y="99"/>
+	<Point x="1292" y="108"/>
+	<Point x="1291" y="125"/>
+	<Point x="1289" y="136"/>
+	<Point x="1285" y="144"/>
+	<Point x="1280" y="157"/>
+	<Point x="1277" y="159"/>
+	<Point x="1243" y="162"/>
+	<Point x="1203" y="164"/>
+	<Point x="1104" y="162"/></Coords></GraphicRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1309" y="95"/>
+	<Point x="1388" y="95"/>
+	<Point x="1388" y="152"/>
+	<Point x="1309" y="152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r16" type="other">
+	<Coords>
+	<Point x="1462" y="78"/>
+	<Point x="1583" y="78"/>
+	<Point x="1583" y="160"/>
+	<Point x="1462" y="160"/>
+	<Point x="1408" y="157"/>
+	<Point x="1407" y="121"/>
+	<Point x="1417" y="81"/></Coords></GraphicRegion>
+	<GraphicRegion id="r17" type="handwritten-annotation">
+	<Coords>
+	<Point x="1285" y="18"/>
+	<Point x="1285" y="73"/>
+	<Point x="1381" y="73"/>
+	<Point x="1381" y="18"/></Coords></GraphicRegion></Page></PcGts>

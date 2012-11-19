@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668208">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T14:44:37</Created>
+	<LastChange>2012-02-10T09:52:44</LastChange></Metadata>
+	<Page imageFilename="00668208.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="207" y="245"/>
+	<Point x="307" y="245"/>
+	<Point x="307" y="288"/>
+	<Point x="207" y="288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>192</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="880" y="221"/>
+	<Point x="1404" y="221"/>
+	<Point x="1404" y="288"/>
+	<Point x="880" y="288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CRESTED LARK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="192" y="342"/>
+	<Point x="2083" y="342"/>
+	<Point x="2083" y="1159"/>
+	<Point x="192" y="1159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>the centres of the feathers darker than elsewhere; the bastard primary is large;
+the tail-feathers are dark brown, with greyish margins, excepting the outermost
+feather which is pale brown with buﬀ outer web; and the second feather which
+has a sandy-buﬀ margin to the outer web; the superciliary stripe is broad,
+extending far backwards from above the eye, and is buﬃsh-white; the under parts
+are principally buﬃsh-white, deeper on the ﬂanks and thighs; sides of throat
+spotted with blackish-brown; breast spotted and streaked with dark brown; ﬂanks
+slightly streaked; bill brown, under mandible paler; feet ﬂeshy horn-brown; iris
+hazel. The female has a shorter crest, and is rather smaller than the male, and
+has a much shorter wing. The young are more rufescent and have blackish sub-
+terminal bars and pale buﬀ tips to the feathers of the upper parts. After the
+autumn moult the plumage of the Crested Lark becomes more sandy in tint, and
+the dark centres to the feathers less conspicuous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="204" y="1169"/>
+	<Point x="2080" y="1169"/>
+	<Point x="2080" y="1788"/>
+	<Point x="204" y="1788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Col. Irby, in his “Ornithology of the Straits of Gibraltar” gives the
+following account of this species:—“The Crested Lark is one of the most
+abundant birds both in Morocco and Andalucia, though never seen in any great
+numbers together. They are distributed in pairs on every road-track and open
+plain, often at intervals of only some twenty yards. Excessively tame and fear-
+less, they have acquired the name of Carretera, from their habit of frequenting
+roads, to which they resort as much on account of the horse and mule-dung, at
+which they are to be seen pecking, as for the purpose of dusting themselves;
+and they are often to be noticed on the sea-shore, running about like a Sanderling
+within a yard of the water.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="202" y="1792"/>
+	<Point x="2088" y="1792"/>
+	<Point x="2088" y="1976"/>
+	<Point x="202" y="1976"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>They have no song worthy of the name, and are altogether rather vulgar and
+uninteresting birds. This species is one of those which I could not detect
+migrating in the slightest degree.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="190" y="1980"/>
+	<Point x="2090" y="1980"/>
+	<Point x="2090" y="2218"/>
+	<Point x="190" y="2218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Crested Lark usually commences to lay about the 20th of April, placing
+the nest in some tuft of grass or under shelter of a small stone or clod of earth
+—constructing it, like those of other Larks, with bits of grass, bents, etc., lined
+with hair.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="209" y="2223"/>
+	<Point x="2104" y="2223"/>
+	<Point x="2104" y="2735"/>
+	<Point x="209" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Howard Saunders says:—“The nest, often commenced early in March, is
+usually placed in some such depression of the dry ground as a hoof-print, or
+amongst herbage, but sometimes on an old wall or bank of earth, or even on the
+ridge of a low thatched shed in the ﬁelds; the materials employed being dry
+grass and roots. The eggs four to ﬁve in number, vary from greyish-white
+distinctly spotted with brown and violet-grey, to greenish-grey mottled with olive-
+brown; average measurements ˙95 by ˙68 in. Incubation, in which the male
+takes part, lasts a fortnight. The Crested Lark is a tame and conspicuous bird,</Unicode></TextEquiv></TextRegion></Page></PcGts>

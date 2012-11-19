@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672486">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:43:27</Created>
+	<LastChange>2012-02-10T09:54:59</LastChange></Metadata>
+	<Page imageFilename="00672486.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1007" y="135"/>
+	<Point x="1317" y="135"/>
+	<Point x="1317" y="203"/>
+	<Point x="1007" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 290 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="289" y="273"/>
+	<Point x="2024" y="273"/>
+	<Point x="2024" y="430"/>
+	<Point x="289" y="430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>wachsen. Abdominalfortsatz etwas schmäler als die Hinter-
+hüften.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="392" y="455"/>
+	<Point x="1476" y="455"/>
+	<Point x="1476" y="525"/>
+	<Point x="392" y="525"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aus Persien nicht weit von Astrabad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="280" y="623"/>
+	<Point x="2041" y="623"/>
+	<Point x="2041" y="1382"/>
+	<Point x="280" y="1382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Thylacites Mongolicus n. sp. Ovatus, piceus, con-
+vexior; prothoracis elytrorumque lateribus corporeque subtus
+albido, supra dense cinereo-squamosus, setosus; antennis pedi-
+busque ferrugineis; rostro parallelo, subplano, canaliculato;
+prothorace lateribus tenue aequaliter rotundato, obselete tuber-
+culato, duabus vittis dorsalibus, dilutiore squamulatis; scutello
+nullo; elytris ovatis, obsolete punctato-striatis, interstitiis sub-
+planis, subseriatim setosis; tarsis articulo tertio bilobato; un-
+guiculis connatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="401" y="1401"/>
+	<Point x="1326" y="1401"/>
+	<Point x="1326" y="1482"/>
+	<Point x="401" y="1482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 4—5,5, lat. 2—2,5 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="291" y="1569"/>
+	<Point x="2048" y="1569"/>
+	<Point x="2048" y="2837"/>
+	<Point x="291" y="2837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Etwas gestreckter als Verrucicollis. Gewölbte Stirn kaum
+breiter als der nicht scharfkantige parallele Rüssel, bei abge-
+riebenen Stücken ist die Stirn deutlich längsrunzlig. Fühler
+gedrungen, Geisselglied 1 verkehrt kegelförmig, wenig länger
+als an der Spitze breit, 2 dünner, kaum so lang oder kür-
+zer als breit, die übrigen quer, 7 an die Geissel geschlossen.
+Thorax fein und dicht tuberculirt, beim ♂ so lang, beim ♀
+kürzer als breit, seitlich schwach gerundet; Decken etwas
+länger, schmäler und hinten mehr verengt als bei Verruci-
+collis, sehr fein punktirt gestreift, Zwischenräume vorne ﬂach,
+hinten leicht gewölbt mit kurzen, in 1 oder 2 unregelmässige
+Reihen gestellten Börstchen. Vorderschienen innen deutlich 2
+mal gebuchtet, auf der Spitzenhälfte innen mit wenigen, schar-
+fen Sägezähnen, geborstet und schwach gefranzt. Schienen-
+talus und Tarsen wie bei Verrucicollis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="299" y="2848"/>
+	<Point x="2044" y="2848"/>
+	<Point x="2044" y="3105"/>
+	<Point x="299" y="3105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Körper unten die Thoraxseiten und die Schultern erfassend
+und je ein Punkt auf der Basis des Zwischenraumes 3 und
+4 weiss beschuppt, 2 Längsbinden auf dem Thorax hellgrau,</Unicode></TextEquiv></TextRegion></Page></PcGts>

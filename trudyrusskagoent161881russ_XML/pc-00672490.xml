@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672490">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:44:19</Created>
+	<LastChange>2012-02-10T09:55:01</LastChange></Metadata>
+	<Page imageFilename="00672490.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1017" y="178"/>
+	<Point x="1335" y="178"/>
+	<Point x="1335" y="257"/>
+	<Point x="1017" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 294 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="289" y="330"/>
+	<Point x="2044" y="330"/>
+	<Point x="2044" y="1180"/>
+	<Point x="289" y="1180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tanycnemus Akinini n. sp. Elongatus, niger, con-
+vexus, supra squamulis cinereis et fuscis maculatim, subtus
+subargenteis tectus, breviter setosus; unguiculis antennisque pi-
+ceis; his articulis 1 et 2 funiculi elongatis, 7 ad clavam
+acuminatam annexo; fronte cum rostro depresso, canaliculato;
+prothorace latitudine vix breviore, lateribus rotundato-ampliato,
+disperse punctato; elytris elongatis, humeris acute-rotundatis,
+prominulis, apice declivis, tenue et remote punctato-striatis,
+interstitiis cervineo-squamulatis, alternis albidioribus fusco-tes-
+sellatis; femoribus tibiisque subcompressis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="405" y="1183"/>
+	<Point x="1371" y="1183"/>
+	<Point x="1371" y="1269"/>
+	<Point x="405" y="1269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 8—10, lat. 3,2—3,5 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="289" y="1310"/>
+	<Point x="2048" y="1310"/>
+	<Point x="2048" y="2489"/>
+	<Point x="289" y="2489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Stirne zwischen den Augen versenkt mit tiefer Furche,
+welche sich über den ﬂacheren, vor den Augen scharf, aber
+wenig verengten Rüssel bis vor die Spitze weniger tief fort-
+setzt; letzterer so lang als der Kopf, unten mit hängendem
+Kinn, an der Spitze mit grosser niedergedrückter, dreieckiger,
+mit sehr kleinen runden metallischen Schüppchen bedeckten
+Platte. Fühlerfurche über die Einlenkung bis dicht vor die
+Spitze fortgesetzt. Fühler näher der Mitte als der Spitze
+eingefügt, Geisselglied 1=2+3, letztes höchstens so lang als
+breit, 4—6 kürzer aber nicht breiter, 7 etwas länger an die
+längliche Keule geschlossen. Kopf wie Halsschild grob und
+zerstreut punktirt, Punkte des Halsschildes gröber mit einem
+feinen, kurzen Härchen im Mittelpunkt. Letzteres quadra-
+tisch, an beiden Enden abgestutzt, Seiten gerundet erweitert</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote-continued">
+	<Coords>
+	<Point x="287" y="2549"/>
+	<Point x="2041" y="2549"/>
+	<Point x="2041" y="3160"/>
+	<Point x="287" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>wählen. Dies Längenverhältniss sollte bei Curculioniden stets in die Gattungs-
+diagnose mit aufgenommen werden, wenn auch die Meinungen über die Trag-
+weite dieses Verhältnisses weit auseinander gehen mögen. Für Beschreibungen
+von Arten einer Gattung ist der Hinweis auf dies Verhältniss selbstverständ-
+lich überﬂüssig, da es wohl constant sein muss, wenn es überhaupt für die
+Gattung einen Werth haben soll. An seine Stelle sollte dann das Verhältniss
+der Länge der Hinterbrust zwischen den tiefsten und höchsten Punkten der
+Mittel- und Hinterhüften zum Durchmesser der Mittelhüften treten, welches
+bei Arten derselben Gattung keineswegs konstant ist und mit der Entwicklung
+der Hüften in engem Zusammenhange steht.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="301" y="2505"/>
+	<Point x="889" y="2505"/>
+	<Point x="889" y="2528"/>
+	<Point x="301" y="2528"/></Coords></SeparatorRegion></Page></PcGts>

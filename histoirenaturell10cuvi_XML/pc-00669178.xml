@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669178">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:34:23</Created>
+	<LastChange>2012-03-12T14:33:47</LastChange></Metadata>
+	<Page imageFilename="00669178.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="273" y="297"/>
+	<Point x="1714" y="298"/>
+	<Point x="1715" y="470"/>
+	<Point x="743" y="471"/>
+	<Point x="727" y="480"/>
+	<Point x="273" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l’une ikan naﬁri ou trompette, et l’autre trom‐
+pette d’orange.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="275" y="483"/>
+	<Point x="741" y="482"/>
+	<Point x="757" y="475"/>
+	<Point x="1711" y="475"/>
+	<Point x="1709" y="1154"/>
+	<Point x="275" y="1154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous venons d’être assez heureux pour re‐
+cevoir de MM. Lesson et Garnot, naturalistes
+de l’expédition Duperrey, un poisson pêché
+au hâvre Dorey à la Nouvelle-Guinée, qui
+oﬀre précisément la même forme et le même
+caractère, mais qui est autrement coloré. Nous
+l’appelons acanthure à brosses (acanthurus
+scopas).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="333" y="1161"/>
+	<Point x="1702" y="1161"/>
+	<Point x="1702" y="2671"/>
+	<Point x="333" y="2671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son corps est très-élevé, la longueur de son ovale
+ne comprend qu’une fois et demie sa hauteur; la
+hauteur de sa tête en fait deux fois et demie la lon‐
+gueur; l’œil est placé très-haut. Son proﬁl, courbé en
+S italique, prolonge sa partie inférieure de manière
+à faire ressembler son museau à une espèce de groin,
+comme dans beaucoup de chétodons. La bouche est
+très-petite, sa longueur égale à peine le diamètre de
+l’œil; il y a des stries à l’opercule et au limbe du
+préopercule, mais peu marquées et presque cachées
+par de très-petites écailles rudes, formant sur la tête,
+ainsi que sur tout le corps, une espèce d’âpreté,
+qui rappelle celle des squales, du genre des Rous‐
+settes (Squalus catulus, Lin.). L'épaule est nue et
+a des stries ﬁnes tant sur l’huméral que sur le sca-
+pulaire; la fente de l’ouïe ne descend que jusqu’au
+côté de la gorge, et à la hauteur de la bouche et de
+la base de la pectorale. La dorsale et l’anale sont
+arrondies, plus hautes dans leur milieu, et de plus du
+tiers de la hauteur du corps au milieu; la caudale est</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="289" y="203"/>
+	<Point x="428" y="203"/>
+	<Point x="428" y="275"/>
+	<Point x="289" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>246</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="728" y="201"/>
+	<Point x="1239" y="201"/>
+	<Point x="1239" y="277"/>
+	<Point x="728" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

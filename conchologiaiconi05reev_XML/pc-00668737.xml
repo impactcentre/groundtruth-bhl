@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668737">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T03:32:07</Created>
+	<LastChange>2012-02-10T10:29:34</LastChange></Metadata>
+	<Page imageFilename="00668737.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1024" y="498"/>
+	<Point x="1370" y="498"/>
+	<Point x="1370" y="558"/>
+	<Point x="1024" y="558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="542" y="687"/>
+	<Point x="914" y="687"/>
+	<Point x="914" y="737"/>
+	<Point x="542" y="737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 2. (Mus. Brit.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="280" y="758"/>
+	<Point x="1177" y="758"/>
+	<Point x="1177" y="1093"/>
+	<Point x="280" y="1093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM MELANOSTOMA. Dol. testâ subgloboso-turbinatâ,
+umbilicatâ, ventricosissimâ, spirâ subprominulâ, anfrac-
+tibus septem, transversim costatis, costis subdepresso-
+convexis, interstitiis lirâ parvâ subsidente undique
+impletis, columellâ latè expansâ, aperturâ amplâ, basi
+subprofundè emarginatâ; lutescente-albidâ, lœvigatâ,
+nitente, columellâ intensè nigricante-brunneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="280" y="1096"/>
+	<Point x="1177" y="1096"/>
+	<Point x="1177" y="1477"/>
+	<Point x="280" y="1477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BLACK-MOUTH TUN. Shell somewhat globosely
+turbinated, umbilicated, very ventricose, spire rather
+prominent, whorls seven in number, transversely
+ribbed, ribs somewhat depressly convex, interstices
+ﬁlled throughout with a small ridge, columella widely
+expanded, aperture large, rather deeply emarginated
+at the base; yellowish white, smooth, shining, colu‐
+mella deep blackish brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="287" y="1481"/>
+	<Point x="776" y="1481"/>
+	<Point x="776" y="1523"/>
+	<Point x="287" y="1523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>JAY, Cat. Mus. p. 124. pl. 8–9.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="289" y="1527"/>
+	<Point x="735" y="1527"/>
+	<Point x="735" y="1573"/>
+	<Point x="289" y="1573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Friendly Islands; Jay.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="330" y="1600"/>
+	<Point x="1177" y="1600"/>
+	<Point x="1177" y="1646"/>
+	<Point x="330" y="1646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The shell here represented, from the British Museum,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1217" y="683"/>
+	<Point x="2117" y="683"/>
+	<Point x="2117" y="1208"/>
+	<Point x="1217" y="1208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>belonged to the late Earl of Tankerville, and is the indi‐
+vidual specimen noted by Mr. Sowerby in his well-known
+Catalogue of that nobleman’s collection, as Dolium galea
+var. d. I believe it to be distinct from that species, which
+is an inhabitant of the Mediterranean, and to be identical
+with a shell from the Friendly Islands in the collection of
+Dr. Jay of New York, described by that gentleman, under
+the name above recorded, in his published ‘Catalogue’ of
+1839. “This splendid shell,” says Dr. Jay, “was brought
+to Nantucket by a whaler from the Friendly Islands,
+where it was obtained by the natives in diving for shells.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1219" y="1210"/>
+	<Point x="2116" y="1210"/>
+	<Point x="2116" y="1643"/>
+	<Point x="1219" y="1643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The D. melanostoma is chieﬂy distinguished from the
+D. galea in having a more prominent spire and a regularly
+developed ridge throughout the interstices between the
+ribs, which have a lighter and more polished surface.
+The base of the shell beneath the umbilicus is characterized
+by its numerous concentric striæ, whilst in the D. galea it
+is ridged in a longitudinal direction; and the rich dark
+colouring of the columellar lip appears also to be a cha‐
+racter of the species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1093" y="1811"/>
+	<Point x="1366" y="1811"/>
+	<Point x="1366" y="1852"/>
+	<Point x="1093" y="1852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>December, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1112" y="606"/>
+	<Point x="1277" y="606"/>
+	<Point x="1277" y="642"/>
+	<Point x="1112" y="642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE II.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="940" y="2036"/>
+	<Point x="940" y="2061"/>
+	<Point x="1426" y="2061"/>
+	<Point x="1426" y="2036"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="1184" y="707"/>
+	<Point x="1205" y="709"/>
+	<Point x="1212" y="1636"/>
+	<Point x="1195" y="1635"/></Coords></SeparatorRegion></Page></PcGts>

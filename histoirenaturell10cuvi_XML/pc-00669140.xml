@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669140">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:59:35</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669140.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r17" index="6"/>
+	<RegionRefIndexed regionRef="r23" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="375" y="256"/>
+	<Point x="1800" y="256"/>
+	<Point x="1800" y="528"/>
+	<Point x="375" y="528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cation précise du lieu où ces naturalistes l’ont
+prise, laquelle ressemble à l’elongatus par les
+formes de son proﬁl et par ses proportions,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="420" y="535"/>
+	<Point x="1788" y="535"/>
+	<Point x="1788" y="999"/>
+	<Point x="420" y="999"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais qui a les pointes de la caudale beaucoup plus
+longues, et les couleurs un peu diﬀérentes. Sur un
+fond brun noirâtre, il oﬀre de petits linéamens lon‐
+gitudinaux et bleuâtres, très-rapprochés et principa‐
+lement visibles sur la poitrine. La pectorale paraît
+verdâtre. Le poisson est long de quatre pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="357" y="1279"/>
+	<Point x="1782" y="1279"/>
+	<Point x="1782" y="1553"/>
+	<Point x="357" y="1553"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MM. Quoy et Gaimard ont apporté, des
+îles Sandwich, un acanthure exactement sem‐
+blable à l’elongatus pour les contours;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="416" y="1568"/>
+	<Point x="1792" y="1568"/>
+	<Point x="1792" y="2171"/>
+	<Point x="416" y="2171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais qui a les pointes de la queue moins longues,
+les angles de la dorsale et de l’anale arrondis, et dont
+les dents supérieures et inférieures présentent le ca‐
+ractère remarquable de n’être crénelées qu’à leur
+extrémité: il en a douze à la mâchoire d’en haut et
+quatorze à celle d’en bas; ses écailles sont à propor‐
+tion un peu plus grandes et moins ciliées. Ses ven‐
+trales s’eﬃlent en pointes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="577" y="1050"/>
+	<Point x="1554" y="1050"/>
+	<Point x="1554" y="1147"/>
+	<Point x="577" y="1147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE A LÈVRES NOIRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="677" y="1160"/>
+	<Point x="1456" y="1160"/>
+	<Point x="1456" y="1254"/>
+	<Point x="677" y="1254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus nigroris, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="855" y="2176"/>
+	<Point x="1348" y="2176"/>
+	<Point x="1348" y="2243"/>
+	<Point x="855" y="2243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/24; A. 3/23, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="431" y="2250"/>
+	<Point x="1782" y="2250"/>
+	<Point x="1782" y="2620"/>
+	<Point x="429" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans la liqueur il paraît d’un brun vineux tirant
+sur le cendré; ses pectorales semblent d’un jaunâtre
+pâle, et ses ventrales sont noirâtres; il a aussi le tour
+des lèvres noir. L’individu est long de près de six
+pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="page-number">
+	<Coords>
+	<Point x="378" y="147"/>
+	<Point x="514" y="147"/>
+	<Point x="514" y="228"/>
+	<Point x="378" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>208</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="header">
+	<Coords>
+	<Point x="821" y="156"/>
+	<Point x="1334" y="156"/>
+	<Point x="1334" y="233"/>
+	<Point x="821" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

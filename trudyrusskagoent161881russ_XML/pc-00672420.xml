@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672420">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:32:12</Created>
+	<LastChange>2012-02-10T09:54:49</LastChange></Metadata>
+	<Page imageFilename="00672420.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="935" y="121"/>
+	<Point x="1246" y="121"/>
+	<Point x="1246" y="189"/>
+	<Point x="935" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 226 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="212" y="253"/>
+	<Point x="1960" y="253"/>
+	<Point x="1960" y="1096"/>
+	<Point x="212" y="1096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Var. b, ein Männchen, weicht sehr ab. Die Vorderﬂügel
+sind etwas breiter, hell olivenbräunlich, am Vorderrande nur
+ein wenig heller, ohne Weiss. Auf dem rechten Flügel allein
+ist die erste Querlinie durch eine dünne, bräunliche, verlo-
+schene Zickzacklinie angedeutet. Die schwarzen Spitzen der
+übrigens nicht vorhandenen hintern Querlinie sind, wenn auch
+weniger deutlich als sonst, vorhanden; ebenso der nur noch
+verloschenere Faltenﬂeck. Die schwarzen Hinterrandpunkte
+sind weniger deutlich als gewöhnlich. Die Hinterﬂügel sind
+heller und undurchsichtiger.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="208" y="1100"/>
+	<Point x="1958" y="1100"/>
+	<Point x="1958" y="1360"/>
+	<Point x="208" y="1360"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Compedella wurde in Mehrzahl, jedoch nur in einem ♂ der
+gewöhnlichen Färbung und einem der Varietät, von Petersen
+Nachts zu Ende April und Anfang Mai bei Honda gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="467" y="1460"/>
+	<Point x="1714" y="1460"/>
+	<Point x="1714" y="1549"/>
+	<Point x="467" y="1549"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Euzoph. quadripuncta Tab. XII, ﬁg. 35.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="207" y="1576"/>
+	<Point x="1966" y="1576"/>
+	<Point x="1966" y="1933"/>
+	<Point x="207" y="1933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Capillis palpisque reﬂexis luteis, articulo antennarum primo
+elongato; alis ant. angustis, luteo-fuscis, punctis cellulae me-
+diae coacervatis 4 atris, striga postica serrata, superius albido-
+marginata; post. griseis, pellucidis. ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="192" y="1944"/>
+	<Point x="1957" y="1944"/>
+	<Point x="1957" y="2196"/>
+	<Point x="192" y="2196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diese schmalﬂüglige Art ist durch den Haufen grosser,
+tiefschwarzer Punkte in der Mitte der Vorderﬂügel und durch
+die glasartigen Hinterﬂügel sehr kenntlich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="187" y="2205"/>
+	<Point x="1942" y="2205"/>
+	<Point x="1942" y="3139"/>
+	<Point x="187" y="3139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grösse fast der Compedella. Kopf hell lehmgelb, mit beu-
+lenartiger Stirn. Taster aufgekrümmt, wenig über die Stirn
+heraufreichend, zusammengedrückt, dünn, nur am ersten Gliede
+durch weissgraue Behaarung stark erweitert; das dritte Glied
+über halb so lang wie das zweite, zugespitzt, beide lehmgelb,
+aussen mehr oder weniger braun bestäubt, die Spitze am
+hellsten. Das Wurzelglied der hellbräunlichen Fühler auﬀallend
+lang und dünn. Rückenschild blass lehmgelb; Kragen und
+Schulterdecken dicht bräunlich bestäubt. Hinterleib ziemlich dick,
+gelbgrau. Beine gelbgrau, dunkel bestäubt und geﬂeckt; Hinter-
+fussglieder schmutzig hellgelblich, mit schwarzer Wurzel.</Unicode></TextEquiv></TextRegion></Page></PcGts>

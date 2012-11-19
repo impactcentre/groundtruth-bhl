@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669402">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:01:56</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669402.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="477" y="300"/>
+	<Point x="1820" y="300"/>
+	<Point x="1820" y="460"/>
+	<Point x="477" y="460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>un éventail de six ou sept stries. Il n’y a pas d’écaille
+particulière ni sur les ventrales ni entre elles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="469" y="477"/>
+	<Point x="1818" y="477"/>
+	<Point x="1818" y="609"/>
+	<Point x="469" y="609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 6; D. 5 — 1/9, 10 ou 11 (suivant les individus); A. 1/16
+à 18 (selon les individus); P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="465" y="633"/>
+	<Point x="1828" y="633"/>
+	<Point x="1828" y="1981"/>
+	<Point x="465" y="1981"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette atherina bonariensis a des viscères à peu
+près de même forme que ceux de l’athérine ménidie.
+Néanmoins son foie est plus petit, son estomac
+très-alongé, son rectum très-gros. Ses ovaires sont
+doubles. Cette espèce se nourrit de coquillages, et
+tous ceux que nous avons trouvés dans son estomac
+appartiennent à des genres d’eau douce. Nous y
+avons reconnu une petite paludine; une physe bien
+remarquable par sa spire si obtuse, qu’elle lui donne
+quelque ressemblance avec une bullée; une espèce
+nouvelle de cyrène de la taille de notre cyclas cornea,
+et qui se distingue par les jolis rayons bruns dont
+elle est peinte; et, enﬁn, une petite coquille à côtes
+élevées longitudinales et rayonnées sur le côté anté‐
+rieur, et transversales sur le postérieur, et qui est
+une espèce nouvelle du genre pisidium. Nous signa‐
+lons ces coquilles aux voyageurs qui auront occasion
+de visiter la rivière de la Plata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="470" y="1993"/>
+	<Point x="1824" y="1993"/>
+	<Point x="1824" y="2678"/>
+	<Point x="470" y="2678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le squelette de ce poisson a cinquante vertèbres.
+L’anale commence sous la vingt-cinquième; mais la
+cavité abdominale se continue au-delà, et les apo‐
+physes transverses de la vingt-huitième à la trente-
+sixième s’élargissent et s’unissent à leurs semblables
+pour former des anneaux contigus, qui vont en dimi‐
+nuant, et qui composent ainsi une espèce d’enton‐
+noir ou de cornet, dans lequel s’enfonce la vessie
+natatoire. C’est la structure dont nous avons déjà</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="544" y="197"/>
+	<Point x="544" y="266"/>
+	<Point x="410" y="266"/>
+	<Point x="410" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>470</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="895" y="205"/>
+	<Point x="1337" y="205"/>
+	<Point x="1337" y="266"/>
+	<Point x="895" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671053">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T12:07:11</Created>
+	<LastChange>2012-03-12T14:34:01</LastChange></Metadata>
+	<Page imageFilename="00671053.tif" imageWidth="2590" imageHeight="3459">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r14" index="3"/>
+	<RegionRefIndexed regionRef="r20" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r22" index="10"/>
+	<RegionRefIndexed regionRef="r30" index="11"/>
+	<RegionRefIndexed regionRef="r28" index="12"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="r1" type="stamp">
+	<Coords>
+	<Point x="359" y="370"/>
+	<Point x="712" y="370"/>
+	<Point x="712" y="514"/>
+	<Point x="359" y="514"/></Coords></GraphicRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="718" y="485"/>
+	<Point x="2107" y="485"/>
+	<Point x="2107" y="690"/>
+	<Point x="718" y="690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ZOOLOGICA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="566" y="748"/>
+	<Point x="2272" y="748"/>
+	<Point x="2272" y="1055"/>
+	<Point x="566" y="1055"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Original-Abhandlungen aus dem
+Gesamtgebiete der Zoologie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="553" y="1107"/>
+	<Point x="2253" y="1107"/>
+	<Point x="2253" y="1222"/>
+	<Point x="553" y="1222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Herausgegeben von Prof. Dr. Carl Chun in Leipzig</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="1281" y="1574"/>
+	<Point x="1551" y="1574"/>
+	<Point x="1551" y="1644"/>
+	<Point x="1281" y="1644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>INHALT:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="1194" y="1679"/>
+	<Point x="1633" y="1679"/>
+	<Point x="1633" y="1759"/>
+	<Point x="1194" y="1759"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Heinrich Prell</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="664" y="1777"/>
+	<Point x="2164" y="1777"/>
+	<Point x="2164" y="1879"/>
+	<Point x="664" y="1879"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das Chitinskelett von Eosentomon,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="659" y="1890"/>
+	<Point x="2157" y="1890"/>
+	<Point x="2157" y="1987"/>
+	<Point x="659" y="1987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ein Beitrag zur Morphologie des Insektenkörpers</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1268" y="2214"/>
+	<Point x="1559" y="2214"/>
+	<Point x="1559" y="2260"/>
+	<Point x="1268" y="2260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mit 6 Tafeln</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="stamp">
+	<Coords>
+	<Point x="1246" y="2540"/>
+	<Point x="1592" y="2540"/>
+	<Point x="1592" y="2883"/>
+	<Point x="1246" y="2883"/></Coords></GraphicRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="381" y="1396"/>
+	<Point x="1065" y="1396"/>
+	<Point x="1065" y="1470"/>
+	<Point x="958" y="1472"/>
+	<Point x="381" y="1470"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>25. Band, 4. Lieferung</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="2223" y="1412"/>
+	<Point x="2419" y="1413"/>
+	<Point x="2417" y="1461"/>
+	<Point x="2219" y="1462"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Heft 64</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="542" y="3046"/>
+	<Point x="2300" y="3046"/>
+	<Point x="2300" y="3110"/>
+	<Point x="542" y="3110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E. Schweizerbart'sche Verlagsbuchhandlung</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1865" y="3112"/>
+	<Point x="2290" y="3112"/>
+	<Point x="2290" y="3171"/>
+	<Point x="1865" y="3171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>STUTTGART 1913</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="542" y="3112"/>
+	<Point x="1084" y="3112"/>
+	<Point x="1084" y="3176"/>
+	<Point x="542" y="3176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nägele &amp; Dr. Sproesser</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r33" type="handwritten-annotation">
+	<Coords>
+	<Point x="1773" y="0"/>
+	<Point x="1773" y="193"/>
+	<Point x="2360" y="193"/>
+	<Point x="2360" y="0"/></Coords></GraphicRegion>
+	<SeparatorRegion id="r21">
+	<Coords>
+	<Point x="397" y="1472"/>
+	<Point x="409" y="1472"/>
+	<Point x="952" y="1474"/>
+	<Point x="972" y="1473"/>
+	<Point x="970" y="1489"/>
+	<Point x="397" y="1489"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r23">
+	<Coords>
+	<Point x="2212" y="1470"/>
+	<Point x="2420" y="1470"/>
+	<Point x="2420" y="1486"/>
+	<Point x="2212" y="1486"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="1257" y="2157"/>
+	<Point x="1257" y="2201"/>
+	<Point x="1557" y="2201"/>
+	<Point x="1557" y="2157"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r25">
+	<Coords>
+	<Point x="1260" y="2284"/>
+	<Point x="1260" y="2320"/>
+	<Point x="1559" y="2320"/>
+	<Point x="1559" y="2284"/></Coords></SeparatorRegion></Page></PcGts>

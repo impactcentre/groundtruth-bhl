@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672468">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:40:16</Created>
+	<LastChange>2012-02-10T09:54:57</LastChange></Metadata>
+	<Page imageFilename="00672468.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1023" y="157"/>
+	<Point x="1332" y="157"/>
+	<Point x="1332" y="223"/>
+	<Point x="1023" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 274 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="703" y="335"/>
+	<Point x="1621" y="335"/>
+	<Point x="1621" y="430"/>
+	<Point x="703" y="430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Echinomyia macularia Wied.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="298" y="1066"/>
+	<Point x="2057" y="1066"/>
+	<Point x="2057" y="1394"/>
+	<Point x="298" y="1394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Echinomyiae feroci similis, sed distincta: fronte in mare
+distincte latiore, articulis duobus basalibus aristae longioribus,
+palpis ﬁliformibus, articulo ultimo antennarum multo angus-
+tiore etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="305" y="1414"/>
+	<Point x="2058" y="1414"/>
+	<Point x="2058" y="1585"/>
+	<Point x="305" y="1585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: In pascuis ad Tanain (Pallas), Siberia (Minus-
+sinsk).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="851" y="1701"/>
+	<Point x="1524" y="1701"/>
+	<Point x="1524" y="1796"/>
+	<Point x="851" y="1796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hystriomyia nv. gen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="949" y="1837"/>
+	<Point x="1439" y="1837"/>
+	<Point x="1439" y="1905"/>
+	<Point x="949" y="1905"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Echinomyiae afﬁnis).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="307" y="1949"/>
+	<Point x="2058" y="1949"/>
+	<Point x="2058" y="3124"/>
+	<Point x="307" y="3124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Corpus magnum, crassum, ovatum, setosissimum; antennae
+fronti prominenti insertae, latae, magnae, epistomate paullo
+breviores; articulo ultimo antecedente paullo longiori, obli-
+que truncato et apice extus valde dilatato tuberculum
+maximum, subobtusum formante; arista crassiuscula, arti-
+culis duobus basalibus longis, articulo ultimo longitudine
+duobus basalibus subaequale; palpi longi, crassiusculi;
+genae modice latae longe setosae, sed macrochetis distinctio-
+ribus nullis praeditae; peristomium sub oculos productum, mul-
+tisetosum; proboscis sat brevis, crassiuscula; oculi nudi in mare
+late distantes; frons multisetosa; abdomen setosissimum;
+maris organa capulatoria plus minusve porrecta; pedes simpli-
+ces, uncis pulvillisque in mare longiusculis, sed non longis; alae
+divaricatae, nervi ut in gen. Echinomyia directi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="2051" y="623"/>
+	<Point x="2051" y="721"/>
+	<Point x="1186" y="721"/>
+	<Point x="1186" y="722"/>
+	<Point x="291" y="722"/>
+	<Point x="291" y="623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Descript. in opere Wiedemannii cui adde:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="2051" y="723"/>
+	<Point x="2051" y="1053"/>
+	<Point x="291" y="1053"/>
+	<Point x="291" y="724"/>
+	<Point x="1188" y="724"/>
+	<Point x="1188" y="723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>� frons latissima, bifariara setosa; palpi ﬁliformes; genae
+ﬂavido pilosulae, macrochetis nullis praeditae; articuli primi
+aristae elongati, intermedius manifeste longior primo; unci et
+pulvilli longi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="503" y="458"/>
+	<Point x="1849" y="458"/>
+	<Point x="1849" y="596"/>
+	<Point x="503" y="596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tachina macularia Wied. Aussereurop. Dipt. T. II, p. 285.
+id. id. Schiner, Dipt. austr. T. I, p. 481.</Unicode></TextEquiv></TextRegion></Page></PcGts>

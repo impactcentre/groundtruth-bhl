@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669326">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:22:29</Created>
+	<LastChange>2012-03-12T14:33:56</LastChange></Metadata>
+	<Page imageFilename="00669326.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="346" y="305"/>
+	<Point x="1772" y="305"/>
+	<Point x="1772" y="628"/>
+	<Point x="346" y="628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>fauna, p. 94, n° 31; mais nous ne croyons pas
+qu’il se porte plus au Nord, car nous ne le
+trouvons ni dans Muller, ni dans l’ouvrage
+récent de M. Faber.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="346" y="644"/>
+	<Point x="1764" y="644"/>
+	<Point x="1764" y="1489"/>
+	<Point x="343" y="1481"/>
+	<Point x="346" y="1468"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rondelet a pensé que ce pourrait être le
+deuxième myrus que Dorion décrit dans son
+Athénée1, comme tirant sur le roussâtre, ou
+un peu couleur de feu ������������; mais le
+passage d’Athénée me paraît se rapporter bien
+clairement à une de nos espèces de mure-
+nophis, dont nous avons dans la Méditerranée
+des variétés noires mêlées avec des variétés
+rousses (murenophis unicolor, De Laroche;
+murenophis Christini, Risso).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="342" y="1493"/>
+	<Point x="1779" y="1498"/>
+	<Point x="1779" y="1655"/>
+	<Point x="344" y="1658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le ����� est cité par Aristote2 à côté du
+�������, dont il diﬀère par sa couleur uniforme.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="347" y="1666"/>
+	<Point x="1012" y="1664"/>
+	<Point x="1755" y="1662"/>
+	<Point x="1755" y="2079"/>
+	<Point x="344" y="2088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous reviendrons plus loin sur ce sujet.
+On ne trouve d’ailleurs dans les anciens au‐
+teurs aucune indication que notre cépole, si
+commune dans la Méditerranée, soit citée dans
+leurs ouvrages.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="403" y="2104"/>
+	<Point x="1753" y="2104"/>
+	<Point x="1753" y="2473"/>
+	<Point x="401" y="2480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur aux pectorales est quinze fois dans sa
+longueur en y comprenant la caudale, qui à elle
+seule, lorsqu’elle est bien entière, fait plus du neu‐
+vième du total; la tête en fait un peu moins du
+onzième, et sa hauteur fait les deux tiers de sa lon-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="345" y="2549"/>
+	<Point x="1750" y="2549"/>
+	<Point x="1750" y="2687"/>
+	<Point x="345" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Ath., Deipn., 1. VII, p. 312, c. 18. — 2. Arist., 1. V,
+c. 10, p. 839 B.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="372" y="195"/>
+	<Point x="510" y="195"/>
+	<Point x="510" y="269"/>
+	<Point x="372" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>394</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="781" y="191"/>
+	<Point x="1352" y="191"/>
+	<Point x="1352" y="272"/>
+	<Point x="781" y="272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="351" y="2505"/>
+	<Point x="351" y="2532"/>
+	<Point x="1736" y="2532"/>
+	<Point x="1736" y="2505"/></Coords></SeparatorRegion></Page></PcGts>

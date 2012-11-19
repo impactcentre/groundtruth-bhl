@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669336">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:53:34</Created>
+	<LastChange>2012-03-12T14:33:56</LastChange></Metadata>
+	<Page imageFilename="00669336.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="355" y="261"/>
+	<Point x="1730" y="261"/>
+	<Point x="1730" y="408"/>
+	<Point x="355" y="408"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>orangées pâles; la dorsale et l’anale sont bordées de
+rose foncé ou de cramoisi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="377" y="416"/>
+	<Point x="1738" y="416"/>
+	<Point x="1738" y="856"/>
+	<Point x="377" y="856"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le dessin des naturalistes hollandais donne le
+corps plus foncé, mais de couleur rouge passant à
+l’orangé, avec des bandes verticales de même cou‐
+leur. Les nageoires verticales sont plus pâles que le
+corps et la bordure n’est pas tranchée aussi nette‐
+ment.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="316" y="880"/>
+	<Point x="1733" y="880"/>
+	<Point x="1733" y="1054"/>
+	<Point x="316" y="1054"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le poisson venait du détroit d’Antjer près
+Java.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="313" y="1194"/>
+	<Point x="1743" y="1194"/>
+	<Point x="1743" y="2056"/>
+	<Point x="313" y="2056"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bloch rapporte à ce genre le bilangh de
+Renard, II.e part., pl. 40, ﬁg. 176, et l’an-
+guille de mer du même auteur, pl. 45, ﬁg. 189;
+mais cette dernière est vraiment une anguille
+ou un congre, et quant au bilangh, il faut
+convenir que, si c’est une cépole, il est bien
+incorrectement dessiné, et qu’il est impossible
+de l’insérer dans un catalogue régulier des es‐
+pèces. Je ne le trouve pas d’ailleurs dans le
+Recueil de Vlaming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="325" y="152"/>
+	<Point x="469" y="152"/>
+	<Point x="469" y="234"/>
+	<Point x="325" y="234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>404</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="744" y="158"/>
+	<Point x="1329" y="158"/>
+	<Point x="1329" y="236"/>
+	<Point x="744" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="930" y="1088"/>
+	<Point x="930" y="1119"/>
+	<Point x="1126" y="1119"/>
+	<Point x="1126" y="1088"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="941" y="2140"/>
+	<Point x="941" y="2181"/>
+	<Point x="1136" y="2181"/>
+	<Point x="1136" y="2140"/></Coords></SeparatorRegion></Page></PcGts>

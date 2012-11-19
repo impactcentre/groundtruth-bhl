@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668170">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T20:09:39</Created>
+	<LastChange>2012-02-10T09:52:41</LastChange></Metadata>
+	<Page imageFilename="00668170.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="278" y="201"/>
+	<Point x="389" y="201"/>
+	<Point x="389" y="275"/>
+	<Point x="278" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>174</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="971" y="167"/>
+	<Point x="1467" y="167"/>
+	<Point x="1467" y="257"/>
+	<Point x="971" y="257"/>
+	<Point x="964" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CARRION-CROW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="266" y="313"/>
+	<Point x="2146" y="312"/>
+	<Point x="2145" y="502"/>
+	<Point x="265" y="502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>of all kinds are devoured greedily, as well as insects, their larvæ, and grain. In
+the winter he is more limited and has to content himself with grain, berries, and
+such weakly half-starved birds or beasts as he can manage to kill.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="267" y="505"/>
+	<Point x="2146" y="504"/>
+	<Point x="2146" y="1441"/>
+	<Point x="266" y="1440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mr. O. V. Aplin (“Zoologist,” 1883, p. 409) published the following note on
+the food of this species:—“An old disused bridle-gate standing near one corner
+of Clattercutt Reservoir has this season served as a feeding spot for a pair of
+Carrion-Crows, which reared their young in a tall elm on one side of the pool.
+One evening in June, after the grass was cut, I found strewn around it the
+remains of several toads and frogs, and of one partly ﬂedged nestling ﬁnch, also
+a number of broken shells of the eggs of the Wild Duck and Partridge. The
+state the gate was in showed that it was a much frequented perch, and a tell-tale
+wing-feather would have named the robber even if he had not hurriedly left an
+adjacent tree at my approach, and with loud croaks expressed his displeasure at
+my intrusion on his banqueting hall. I have always tried to defend this ﬁne
+bird, and was sorry to ﬁnd such ample proof of its destructive habits. Only a
+few days ago (October 1883) I counted thirty-two Crows in a stubble-ﬁeld close
+to this village, and considering their abundance in this district, it is only a
+wonder that any game or wildfowl can rear their young at all.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="267" y="1442"/>
+	<Point x="2148" y="1443"/>
+	<Point x="2150" y="1626"/>
+	<Point x="268" y="1628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Although inclined to a solitary life during the breeding-season* the Carrion-
+Crow is seen in larger or smaller crowds during the autumn and winter: con‐
+siderable numbers arrive on our eastern coasts in autumn.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="268" y="1630"/>
+	<Point x="2152" y="1628"/>
+	<Point x="2152" y="2141"/>
+	<Point x="267" y="2139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seebohm’s statement that this bird “makes almost as engaging a pet as the
+Raven” hardly accords with Lord Lilford’s opinion of the Carrion-Crow. The
+following is Mr. Bonhote’s experience, communicated November 2nd, 1896:—
+“The Hooded and Carrion-Crows are to be strictly avoided; the latter bird
+when hand-reared is very tame and can articulate a few words, but has no
+interesting actions or habits and scarcely moves the whole day. The former bird
+(Grey Crow) is not only stupid, but dangerous, and is never satisﬁed till he has
+the whole aviary to himself, having murdered the other inmates.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="260" y="2577"/>
+	<Point x="2172" y="2577"/>
+	<Point x="2172" y="2730"/>
+	<Point x="260" y="2730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* This bird has, however, been known to build among Rooks, but they do not appear to appreciate his
+society.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="1103" y="2357"/>
+	<Point x="1103" y="2376"/>
+	<Point x="1313" y="2376"/>
+	<Point x="1313" y="2357"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668046">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T20:26:21</Created>
+	<LastChange>2012-02-10T09:52:33</LastChange></Metadata>
+	<Page imageFilename="00668046.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="194" y="219"/>
+	<Point x="303" y="219"/>
+	<Point x="303" y="282"/>
+	<Point x="194" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>110</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="876" y="196"/>
+	<Point x="1373" y="196"/>
+	<Point x="1373" y="292"/>
+	<Point x="876" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CORN‐BUNTING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="189" y="321"/>
+	<Point x="2068" y="309"/>
+	<Point x="2067" y="647"/>
+	<Point x="189" y="652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Scotland it occurs most generally on the western lowlands during the summer, but
+becomes much commoner in the Eastern districts during the winter; westwards
+its range extends to St. Kilda, and northwards to the Outer Hebrides. In Ireland
+it is local, but common in suitable districts. In October ﬂocks of Corn-Buntings
+migrate to our shores, considerably adding to the numbers of our home-bred birds.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="188" y="655"/>
+	<Point x="2068" y="654"/>
+	<Point x="2063" y="1582"/>
+	<Point x="180" y="1591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The adult male Corn-Bunting has the feathers of the upper surface pale
+brown, with blackish central streaks, the wing-coverts and innermost secondaries
+dark brown, bordered with warm buﬀ and with whitish tips; quills dark smoky-
+brown, the ﬁrst primary with yellowish margin to the outer web; tail blackish-
+brown, with pale edges to the feathers; lores and a superciliary line buﬃsh-white;
+under parts buﬃsh-white, the throat sparsely spotted with black, and separated
+from the cheeks by a moustachial line of dark-brown spots; breast numerously
+marked with triangular black dashes, which are somewhat rufescent at the sides;
+centre of breast and abdomen whitish, sides streaked with dark-brown; beak with
+the upper mandible dark horn-brown, edged with yellow; lower mandible ochre-
+yellow; feet pale ﬂesh-brownish; iris hazel. The female is slightly smaller than
+the male, and greyer in colouring. The young are more richly coloured, the
+wing-coverts and secondaries more prominently bordered with fulvous, the spotting
+blacker and the under parts tinged with buﬀ. After the autumn moult the adult
+birds are generally more rufescent than in summer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="179" y="1593"/>
+	<Point x="2062" y="1586"/>
+	<Point x="2057" y="1830"/>
+	<Point x="864" y="1836"/>
+	<Point x="177" y="1835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Owing to its sombre colouring and its habit of roosting on the ground, this
+species has sometimes been mistaken for a Lark, and in autumn and winter it is
+frequently netted in company with Skylarks: possibly for this reason it often
+receives the name of Bunting-Lark.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="177" y="1838"/>
+	<Point x="2056" y="1836"/>
+	<Point x="2070" y="2521"/>
+	<Point x="1745" y="2523"/>
+	<Point x="169" y="2523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Corn-Bunting chieﬂy haunts open and cultivated districts, more especially
+where cereals are freely grown. It is not a nervous bird, and I have frequently
+stood within a few yards criticizing its ungainly ﬁgure and miserable apology for
+a song as it sat perched upon a scraggy bush, stump, or fence, apparently quite
+satisﬁed with its performance: the latter has been variously described; but, to
+those not acquainted with the songs of some of the Marsh Troupials of the New
+World, or the Abyssinian and Rufous-necked Weavers (which have the same
+character, though more prolonged and varied) the most accurate idea of the discord
+is conveyed, by saying that it resembles the sound made by crushing broken glass
+in a mortar. Seebohm describes the song as “tees, tees, tees, tis‐is-is-s-s-r-r-re,”
+Howard Saunders as “tic-tic-teese,” Lord Lilford as “tedious and rasping notes.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="169" y="2528"/>
+	<Point x="2086" y="2532"/>
+	<Point x="2086" y="2714"/>
+	<Point x="169" y="2719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seebohm observes that “the ordinary call-note of this bird is very loud, and
+resembles the word tzit; the note between the sexes is a long drawn-out kaak, and
+frequently the two notes are heard together tsit-kaak.”</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672218">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:16:55</Created>
+	<LastChange>2012-02-10T09:54:04</LastChange></Metadata>
+	<Page imageFilename="00672218.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1071" y="126"/>
+	<Point x="1402" y="126"/>
+	<Point x="1402" y="200"/>
+	<Point x="1071" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 24 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="345" y="602"/>
+	<Point x="2119" y="602"/>
+	<Point x="2119" y="1252"/>
+	<Point x="345" y="1252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les muscles alaires rudimentaires croissent peu à peu,
+grandissent de volume, acceptent progressivement la forme ap‐
+partenant à ceux de l’insecte parfait et en même temps chan‐
+gent leur structure intime, jusqu’à ce que tout cela soit achevé
+durant la période comprise entre la dernière mue aquatique et
+l’éclosion aériénne. Conformement à cette marche du l’orga‐
+nisation se développent les tendons et les places de leurs at‐
+taches.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="338" y="1260"/>
+	<Point x="2116" y="1260"/>
+	<Point x="2116" y="3090"/>
+	<Point x="338" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je passe aux détails et d’abord je parlerai des muscles
+principaux. Ceux-ci sont adaptés au dessus à la ligne de l’u‐
+nion des fourreaux et du dos (ﬁg. 44), Il faut remarquer, que
+l’épimère de dessus est coupé en biais, c’est-à-dire en bas et
+en arrière et cette partie coupée est recourbée en dedans et
+en bas, de sorte qu’on y aperçoit un pli crêtiforme. Au
+bord intéro-inférieur de cette partie pliée sont adjacents les
+fourreaux alaires en s’y soudant par leurs frontières basales
+extérieures. Dans la ﬁg. 45 ce pli, qui a un air strié, est
+redressé de manière à former avec l’épimère un même plan.
+Au dessus sont ﬁgurés quatre grands tendons occupant leur
+position naturelle. Ce sont les tendons des quatre muscles
+principaux abaisseurs des ailes futures. Ils sont situés tout
+près du bord des ouvertures formées par les fourreaux alaires
+(ﬁg. 44). Dans la ﬁg. 45 les tendons de muscles principaux
+sont très grands et ont à peu près la même forme qui se
+voit chez l’insecte adulte. La raison en est que la larve ici
+ﬁgurée est bien âgée, proche de l’éclosion aérienne, tandis que
+dans la ﬁg. 10, où la larve est plus jeune, ils sont beaucoup
+plus petits et aﬀectent la forme de lames triangulaires ou tra‐
+pézoïdales. Mais la larve ici ﬁgurée est déjà assez âgée.
+Chez les plus jeunes les tendons indiqués ont l’aspect d’apo-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="352" y="254"/>
+	<Point x="2119" y="254"/>
+	<Point x="2119" y="593"/>
+	<Point x="352" y="593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>le tissu musculaire (ﬁg. 42 et 43). En laissant de côté l’his‐
+tologie des tissus musculaires, je n’ai mentionné cette diﬀérence
+que parce qu’elle devra ensuite servir de fondement à quelques
+conséquences.</Unicode></TextEquiv></TextRegion></Page></PcGts>

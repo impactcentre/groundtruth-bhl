@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669102">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T15:55:11</Created>
+	<LastChange>2012-02-09T16:27:33</LastChange></Metadata>
+	<Page imageFilename="00669102.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="785" y="172"/>
+	<Point x="1294" y="172"/>
+	<Point x="1294" y="230"/>
+	<Point x="785" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="398" y="257"/>
+	<Point x="1742" y="257"/>
+	<Point x="1744" y="1077"/>
+	<Point x="1376" y="1078"/>
+	<Point x="1368" y="1088"/>
+	<Point x="1340" y="1088"/>
+	<Point x="1330" y="1081"/>
+	<Point x="768" y="1080"/>
+	<Point x="759" y="1085"/>
+	<Point x="731" y="1085"/>
+	<Point x="722" y="1078"/>
+	<Point x="402" y="1078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le diamètre de l’æil est du quart de la hauteur
+de la tête; les oriﬁces de la narine sont très-près de
+son bord, le postérieur, qui est le plus petit, le
+touche presque; l’antérieur est à une petite distance
+et légèrement rebordé. La bouche est peu ou point
+protractile, garnie de lèvres membraneuses minces,
+qui ne couvrent pas les dents; celles-ci, disposées sur
+une seule rangée, sont tranchantes, oblongues, ar‐
+rondies au bout et ﬁnement dentelées en scie sur
+leur pourtour : j’en compte douze ou quatorze à la
+mâchoire supérieure, et environ vingt à l’inférieure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="402" y="1081"/>
+	<Point x="715" y="1081"/>
+	<Point x="727" y="1089"/>
+	<Point x="764" y="1089"/>
+	<Point x="770" y="1084"/>
+	<Point x="1330" y="1086"/>
+	<Point x="1334" y="1093"/>
+	<Point x="1374" y="1093"/>
+	<Point x="1382" y="1084"/>
+	<Point x="1739" y="1083"/>
+	<Point x="1737" y="1604"/>
+	<Point x="402" y="1604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ouïe n’est fendue que dans la hauteur de l’oper‐
+cule, et ﬁnit vis-à-vis l’angle du préopercule; la
+membrane est très-petite et s’unit à un isthme très-
+large: elle n’a que cinq rayons courts et grêles,
+dont le quatrième et surtout le cinquième sont même
+tellement cachés dans les chairs de l’isthme, qu’on
+ne peut les découvrir sans dissection.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="404" y="1609"/>
+	<Point x="1737" y="1609"/>
+	<Point x="1737" y="1904"/>
+	<Point x="407" y="1907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La pectorale, de forme demi-ovale, est attachée
+au tiers inférieur de la hauteur; elle est quatre fois et
+un quart dans la longueur totale, et compte quinze
+rayons; son aisselle n’a rien de remarquable.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="401" y="1909"/>
+	<Point x="1737" y="1909"/>
+	<Point x="1737" y="2428"/>
+	<Point x="400" y="2430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ventrales sortent un peu plus en arrière que les
+pectorales; mais leur pointe ne dépasse pas la leur.
+La forme de ces nageoires est un peu prolongée en
+ﬁl; tous leurs rayons sont très-raides à leur base;
+l’externe seul est épineux: il est du tiers plus court
+que le premier mou. L’interne n’adhère au corps
+que par une membrane très-courte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="413" y="2432"/>
+	<Point x="1732" y="2432"/>
+	<Point x="1732" y="2592"/>
+	<Point x="413" y="2592"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La dorsale commence au-dessus de l’oriﬁce des
+ouïes, et règne sur la plus grande partie du dos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="350" y="144"/>
+	<Point x="350" y="226"/>
+	<Point x="476" y="226"/>
+	<Point x="476" y="144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>170</Unicode></TextEquiv></TextRegion></Page></PcGts>

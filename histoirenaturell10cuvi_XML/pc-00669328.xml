@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669328">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:52:41</Created>
+	<LastChange>2012-03-12T14:33:56</LastChange></Metadata>
+	<Page imageFilename="00669328.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="426" y="292"/>
+	<Point x="1792" y="292"/>
+	<Point x="1792" y="2647"/>
+	<Point x="426" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sur une seule rangée et séparées les unes des autres;
+les postérieures deviennent plus petites: il y en a
+dix-sept ou dix-huit de chaque côté à la mâchoire
+supérieure et dix à l’inférieure, qui, de plus, en a
+deux un peu plus en dedans derrière les antérieures.
+Ces nombres varient un peu selon les individus. Le
+vomer et les palatins n’ont point de dents. On n’en voit
+pas sur la langue, qui est étroite, fort libre, un peu
+obtuse. La joue est nue et assez large; le préopercule,
+dont le bord est entier et l’angle arrondi, a son limbe
+creusé de quelques petites fossettes. L’opercule est
+taillé à peu près en quart de cercle; sa longueur est
+du quart de celle de la tête; le subopercule, long et
+étroit, est placé obliquement et suit la courbure
+du bord inférieur de l’opercule: l’interopercule est
+aussi assez étroit. Les ouïes sont fendues jusque sous
+l’œil, où leurs membranes se réunissent en embras‐
+sant l’isthme; elles ont six rayons chacune. Les râ-
+telures de la branchie interne sont longues, grêles
+et serrées: dans les suivantes elles se raccourcissent.
+L’opercule porte une demi-branchie à sa face interne.
+Il n’y a pas d’armure à l’épaule. La pectorale, atta‐
+chée un peu au-dessous du milieu, est de forme ar‐
+rondie, et sa longueur tient vingt-deux fois dans
+celle de tout le poisson; ses rayons sont au nombre
+de dix-huit. Les ventrales sont un peu moins lon‐
+gues, et adhèrent au ventre par les trois quarts de
+leur bord interne. Leur épine, qui est assez forte,
+a les deux tiers de leur longueur. La dorsale com‐
+mence à la nuque au-dessus de la naissance de l’ouïe,
+et se continue jusqu’à la caudale, à la base de la-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="382" y="182"/>
+	<Point x="515" y="182"/>
+	<Point x="515" y="268"/>
+	<Point x="382" y="268"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>396</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="789" y="189"/>
+	<Point x="1353" y="189"/>
+	<Point x="1353" y="270"/>
+	<Point x="789" y="270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

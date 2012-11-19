@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672404">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:59:03</Created>
+	<LastChange>2012-02-10T09:54:43</LastChange></Metadata>
+	<Page imageFilename="00672404.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="958" y="114"/>
+	<Point x="1282" y="114"/>
+	<Point x="1282" y="185"/>
+	<Point x="958" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 210 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="246" y="255"/>
+	<Point x="1996" y="255"/>
+	<Point x="1996" y="916"/>
+	<Point x="246" y="916"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eine schwarze, rauhe, gleichfalls vollständige Querlinie begrenzt
+wird, hinter welcher die Grundfarbe einen dunkeln Schatten
+bildet. Die hintere Querlinie ist hell, ziemlich deutlich, dun-
+kel eingefasst; sie fängt auf dem Vorderrande weiter vor der
+Flügelspitze an als bei Guarinella, bildet in den mittlern zwei
+Vierteln einen gegen den Hinterrand convexen Bogen, ist etwas
+kappenförmig und endigt deutlich auf dem Innenrande. Hin-
+terrand mit undeutlichen schwarzen Punkten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="253" y="924"/>
+	<Point x="1985" y="924"/>
+	<Point x="1985" y="1171"/>
+	<Point x="253" y="1171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel hell bräunlichgrau, etwas durchsichtig; die Adern
+sowie der schmale Hinterrand bräunlich: die Franzen weisslich
+grau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="355" y="1178"/>
+	<Point x="1939" y="1178"/>
+	<Point x="1939" y="1253"/>
+	<Point x="355" y="1253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Untersite bräunlich grau, auf den Vorderﬂügeln dunkler.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="239" y="1262"/>
+	<Point x="1989" y="1262"/>
+	<Point x="1989" y="3091"/>
+	<Point x="239" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die fragliche Varietät b hat entschieden längere, einfarbig
+lehmbräunliche Taster mit breiterem Endgliede. Kopf und
+Rückenschild sind auch dunkler lehmfarbig. Auf den Vorder-
+ﬂügeln ist das Basalfeld vorn schwärzlich braun, am Innenrand
+lehmgelb. Die ochergelbe, schmälere Binde steht etwas schrä-
+ger und wird durch eine schwärzliche, unvollständige Querlinie
+von dem vorhergehenden weissgrauen Querstreifen getrennt;
+ihren Hinterrand bildet eine vollständige, grade Linie, die zwar
+auch scharf und schwarz ist, aber gar keine rauhen Schuppen
+zu enthalten scheint. Ihr folgt dunkel violettgraue Grundfarbe.
+Die beiden schwarzen, sehr deutlichen Queraderpunkte liegen
+in einem weisslichen Nebel, welcher sich schräg bis zum Vor-
+derrand zieht, wo er vor der hintern Querlinie endigt. Diese
+ist etwas gelblich gemischt und, wenn auch sonst wie bei
+Guarinella gestaltet, doch viel deutlicher. Vor den sehr zer-
+ﬂossenen Hinterrandpunkten zieht ein Nebel weisslicher Schup-
+pen. — Auf den Hinterﬂügeln ist die aus Ader 4 und 5 ge-
+bildete Gabel entschieden länger als bei Guarinella. Dieses,
+die Länge der Taster und die Beschaﬀenheit der Zeichnung
+auf der Basalhälfte der Vorderﬂügel machen die speciﬁsche
+Verschiedenheit sehr wahrscheinlich. — Der Flugort des Exem-
+plars ist nicht genauer bezeichnet.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672382">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:24:20</Created>
+	<LastChange>2012-02-10T09:54:37</LastChange></Metadata>
+	<Page imageFilename="00672382.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="980" y="117"/>
+	<Point x="1287" y="117"/>
+	<Point x="1287" y="183"/>
+	<Point x="980" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 188 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="266" y="251"/>
+	<Point x="2001" y="251"/>
+	<Point x="2001" y="501"/>
+	<Point x="266" y="501"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dass bei ihr dieser Streifen sich gegen die Basis verdünnt und
+sie bei weitem nicht erreicht, statt dass er bei Scopipes von
+der Basis selbst breit anfängt und sich nach hinten verdünnt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="257" y="510"/>
+	<Point x="2016" y="510"/>
+	<Point x="2016" y="2591"/>
+	<Point x="257" y="2591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eine der grössten Phycideen. Gesicht ﬂach, senkrecht;
+Scheitelschuppen bleich gelblich, schopﬀörmig aufgerichtet, auf
+dem Hinterkopf an Länge abnehmend und bloss locker. Taster
+über den Scheitelbusch hinaufreichend; die zwei ersten Glieder
+gelblichweiss oder gelblich, ziemlich horizontal, das zweite vier-
+eckig, dass dritte sehr lang und sehr zusammengedrückt, grade
+aufgerichtet, hell lehmgelblich, aussen mit einem braunen Längs-
+streifen, am Enddrittel heller. Sauger stark, an der Wurzel
+beschuppt. Fühler 3/4 so lang wie der Vorderﬂügel, ziemlich
+fein borstenförmig, vom hellzimmtbraunen Wurzelgliede an bis
+zur Hälfte abnehmend kurz sägezähnig gefranzt, darauf abneh-
+mend microscopisch pubescirend. Rückenschild sehr kräftig,
+bleich grünlichgelb; Schildchen mit schwachem, schwarzﬂecki-
+gem Schuppenwulst. Hinterleib verhältnissmässig schlank, hell
+lehmfarben; Analbusch länglich, ohne Auszeichnung, röthlich
+zimmtfarben. Brust hell lehmgelblich, vorn mit einem bogen-
+förmigen, schwärzlichen Halsband. Vorderbeine hell lehmfarben;
+die Schiene auf der Unterseite mit langem, angedrücktem Haar-
+busch; erstes Fussglied mit schwärzlichem Wurzeldrittel. Mit-
+telbeine an der Unterseite des Schenkels reichlich locker be-
+schuppt; die Schiene auf dem Rücken reichlich locker behaart,
+vor der reinweissen Spitze verdunkelt zimmtfarben; erstes Fuss-
+glied mit weisser Wurzel und auf dem Rücken langhaarig.
+Hinterschienen auswärts mit einem sehr dichten und reichlichen,
+zimmtrothen Busch etwas krauser Haare bekleidet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="251" y="2599"/>
+	<Point x="2014" y="2599"/>
+	<Point x="2014" y="3110"/>
+	<Point x="251" y="3110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel über 8‴ lang, länglich, nach hinten wenig
+erweitert, mit deutlicher Spitze und wenig schrägem, schwach
+convexem Hinterrand, hell grünlichbraun, auf der Costalhälfte
+dunkler mit mehr hervortretendem Grün und vor der Mitte
+des Innenrandes mit einer blass ﬂeischfarbenen, schlecht um-
+schriebenen Stelle, auch hier und da mit schwärzlichen Wischen.</Unicode></TextEquiv></TextRegion></Page></PcGts>

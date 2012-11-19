@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669299">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:49:02</Created>
+	<LastChange>2012-03-12T14:33:54</LastChange></Metadata>
+	<Page imageFilename="00669299.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="37" y="245"/>
+	<Point x="1445" y="245"/>
+	<Point x="1445" y="1257"/>
+	<Point x="37" y="1257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tel que nous le déﬁnissons, est le sild-tusten
+ou sild-konge des Norwégiens, qu’Ascanius
+a publié sous le nom barbare de regalecus
+Glesne1, et qu’il a nommé ensuite ophidium
+Glesne2. Le nom générique de regalecus devait
+être la traduction de celui de sild-konge
+(roi des harengs), qui venait lui-même de ce
+qu’on l’avait pris parmi un banc de ces pois‑
+sons, et le surnom de Glesne devait indiquer
+le lieu où on l’avait découvert pour la pre‑
+mière fois, la ferme de Glesne, à quelques
+milles de Bergen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="36" y="1262"/>
+	<Point x="1445" y="1262"/>
+	<Point x="1445" y="1752"/>
+	<Point x="36" y="1752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Brünnich, jugeant plus convenable de dé‑
+signer l’espèce par un caractère tiré de son
+organisation, conserva cependant le nom géné‑
+rique et l’appela regalecus remipes3; devenu
+le gymnetrus remipes dans Bloch4, et le gym-
+netrus Ascanii dans Shaw.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="36" y="1765"/>
+	<Point x="1441" y="1765"/>
+	<Point x="1441" y="2282"/>
+	<Point x="36" y="2282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aucun autre naturaliste que MM. Ascanius
+et Brünnich ne l’ayant décrit et dessiné, c’est
+de ces deux auteurs que nous nous voyons
+obligés d’emprunter ce que nous avons à en
+dire; malheureusement, ni l’un ni l’autre
+n’en a parlé en anatomiste et en ichthyolo-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="41" y="2354"/>
+	<Point x="1444" y="2354"/>
+	<Point x="1444" y="2608"/>
+	<Point x="41" y="2608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Ascanius, lc., 2.e cah., pl. 11. — 2.Id., Nouv. mém. de
+la soc. des sc. de Copenh., t. III, p. 419 - 422. — 3. Brün‑
+nich, ib., p. 414 -418 et pl. B, ﬁg. 4 et 5. — 4. BI. Schn..
+p. 482, n.° 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="473" y="149"/>
+	<Point x="1010" y="149"/>
+	<Point x="1010" y="216"/>
+	<Point x="473" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1310" y="149"/>
+	<Point x="1442" y="149"/>
+	<Point x="1442" y="216"/>
+	<Point x="1310" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>367</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="45" y="2300"/>
+	<Point x="45" y="2337"/>
+	<Point x="1442" y="2337"/>
+	<Point x="1442" y="2300"/></Coords></SeparatorRegion></Page></PcGts>

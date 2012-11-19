@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669059">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:19:46</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669059.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r12" index="4"/>
+	<RegionRefIndexed regionRef="r19" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="120" y="237"/>
+	<Point x="1506" y="237"/>
+	<Point x="1506" y="615"/>
+	<Point x="120" y="615"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>longueur, qui contient celle de la tête quatre fois et
+demie; son crâne est lisse, les stries de l’opercule et
+du limbe du préopercule sont peu marquées, ses
+épines sont fortes, surtout à l’anale; ses nombres sont
+les mêmes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="560" y="620"/>
+	<Point x="1066" y="620"/>
+	<Point x="1066" y="690"/>
+	<Point x="560" y="690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/10; A. 7/9, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="102" y="696"/>
+	<Point x="1499" y="696"/>
+	<Point x="1499" y="1675"/>
+	<Point x="102" y="1675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les lignes onduleuses, tortueuses, étroites, bleuâ‐
+tres sur un fond brun ou violet, commencent de la
+joue. Il y en a sur toute la hauteur du tronc et de
+la queue; bien que celles de la partie inférieure s’é‐
+tendent en longueur, elles forment des courbes plus
+courtes, plus rondes que vers le dos. Il y a sur cette
+région du corps trois ou quatre larges espaces nua‐
+geux, plus bruns que le reste. La caudale, presque
+carrée, est toute semée de points bruns sur ses rayons
+et dans leurs intervalles; il y en a aussi quelquefois
+sur la partie molle de la dorsale et de l’anale. Les
+pectorales sont jaunâtres; les autres nageoires ont du
+brun à leurs membranes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="36" y="1693"/>
+	<Point x="1510" y="1693"/>
+	<Point x="1510" y="2054"/>
+	<Point x="36" y="2054"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu de la Nouvelle-Guinée est long
+de huit pouces. Nous venons d’en recevoir un
+second, long de sept pouces et demi, de l’Isle-
+de-France par M. J. Desjardins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="60" y="2358"/>
+	<Point x="1524" y="2358"/>
+	<Point x="1524" y="2674"/>
+	<Point x="60" y="2674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une espèce qui a quelque ressemblance de
+couleur avec les deux précédentes et qui tient
+le milieu entre elles pour la forme, a été rap-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="440" y="127"/>
+	<Point x="1072" y="127"/>
+	<Point x="1072" y="224"/>
+	<Point x="440" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1336" y="127"/>
+	<Point x="1480" y="127"/>
+	<Point x="1480" y="224"/>
+	<Point x="1336" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>127</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="245" y="2125"/>
+	<Point x="1306" y="2125"/>
+	<Point x="1306" y="2216"/>
+	<Point x="245" y="2216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE A CHAÎNETTES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="245" y="2240"/>
+	<Point x="764" y="2237"/>
+	<Point x="1306" y="2240"/>
+	<Point x="1306" y="2340"/>
+	<Point x="245" y="2340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus concatenatus, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

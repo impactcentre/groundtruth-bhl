@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671118">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T07:51:14</Created>
+	<LastChange>2012-03-12T14:34:05</LastChange></Metadata>
+	<Page imageFilename="00671118.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/>
+	<RegionRefIndexed regionRef="r13" index="9"/>
+	<RegionRefIndexed regionRef="r14" index="10"/>
+	<RegionRefIndexed regionRef="r15" index="11"/>
+	<RegionRefIndexed regionRef="r16" index="12"/>
+	<RegionRefIndexed regionRef="r17" index="13"/>
+	<RegionRefIndexed regionRef="r18" index="14"/>
+	<RegionRefIndexed regionRef="r19" index="15"/>
+	<RegionRefIndexed regionRef="r20" index="16"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1120" y="300"/>
+	<Point x="1376" y="300"/>
+	<Point x="1376" y="360"/>
+	<Point x="1120" y="360"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 56 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1141" y="403"/>
+	<Point x="1370" y="403"/>
+	<Point x="1370" y="471"/>
+	<Point x="1141" y="471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tafel V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="216" y="506"/>
+	<Point x="1835" y="510"/>
+	<Point x="1836" y="561"/>
+	<Point x="1264" y="561"/>
+	<Point x="1234" y="562"/>
+	<Point x="216" y="562"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 17. Dorsalansicht der Endsegmente eines neungliedrigen larvalen Abdomens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="212" y="566"/>
+	<Point x="1247" y="565"/>
+	<Point x="1277" y="563"/>
+	<Point x="1837" y="566"/>
+	<Point x="1837" y="607"/>
+	<Point x="214" y="617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 18. Dorsalansicht der Endsegmente eines zehngliedrigen larvalen Abdomens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="213" y="620"/>
+	<Point x="1793" y="613"/>
+	<Point x="1794" y="664"/>
+	<Point x="215" y="669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 19. Dorsalansicht der Endsegmente eines elfgliedrigen larvalen Abdomens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="214" y="672"/>
+	<Point x="1905" y="669"/>
+	<Point x="1906" y="722"/>
+	<Point x="1231" y="721"/>
+	<Point x="216" y="724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 20. Dorsalansicht der Endsegmente eines zwölfgliedrigen imaginalen Abdomens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="214" y="727"/>
+	<Point x="724" y="726"/>
+	<Point x="1085" y="726"/>
+	<Point x="1287" y="724"/>
+	<Point x="1295" y="725"/>
+	<Point x="1339" y="724"/>
+	<Point x="1617" y="724"/>
+	<Point x="1619" y="772"/>
+	<Point x="213" y="775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 21. Ventralansicht des dritten und vierten Abdominalsegmentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="212" y="779"/>
+	<Point x="1645" y="776"/>
+	<Point x="1645" y="827"/>
+	<Point x="214" y="831"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 22. Gesamtansicht des ausgebreiteten fünften Abdominalsegmentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="213" y="833"/>
+	<Point x="1304" y="831"/>
+	<Point x="1306" y="879"/>
+	<Point x="215" y="884"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 23. Vorderansicht des rechten Mesothoracalbeines.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="214" y="886"/>
+	<Point x="1513" y="883"/>
+	<Point x="1513" y="932"/>
+	<Point x="215" y="937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 24. Lateralansicht vom Tarsus des linken Prothoracalbeines.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="211" y="939"/>
+	<Point x="1450" y="936"/>
+	<Point x="1451" y="985"/>
+	<Point x="212" y="993"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 25. Ventralansicht des dritten rechten Abdominalbeines.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="1129" y="1164"/>
+	<Point x="1377" y="1164"/>
+	<Point x="1377" y="1234"/>
+	<Point x="1129" y="1234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tafel VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="211" y="1263"/>
+	<Point x="1355" y="1265"/>
+	<Point x="1357" y="1320"/>
+	<Point x="211" y="1320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 26. Ventralansicht des männlichen Genitalapparates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="211" y="1324"/>
+	<Point x="1333" y="1323"/>
+	<Point x="1333" y="1373"/>
+	<Point x="213" y="1375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 27. Dorsalansicht des männlichen Genitalapparates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="208" y="1377"/>
+	<Point x="1347" y="1376"/>
+	<Point x="1346" y="1425"/>
+	<Point x="209" y="1427"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 28. Lateralansicht des männlichen Genitalapparates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="212" y="1429"/>
+	<Point x="1358" y="1428"/>
+	<Point x="1666" y="1425"/>
+	<Point x="1667" y="1479"/>
+	<Point x="214" y="1482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 29. Ventralansicht vom Endstück des männlichen Genitalapparates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="213" y="1484"/>
+	<Point x="1335" y="1484"/>
+	<Point x="1336" y="1533"/>
+	<Point x="214" y="1531"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 30. Ventralansicht des weiblichen Genitalapparates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="210" y="1534"/>
+	<Point x="1317" y="1536"/>
+	<Point x="1315" y="1587"/>
+	<Point x="212" y="1590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 31. Dorsalansicht des weiblichen Genitalapparates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="212" y="1593"/>
+	<Point x="1328" y="1590"/>
+	<Point x="1329" y="1642"/>
+	<Point x="212" y="1644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 32. Lateralansicht des weiblichen Genitalapparates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="207" y="1678"/>
+	<Point x="2314" y="1676"/>
+	<Point x="2318" y="1805"/>
+	<Point x="207" y="1803"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sämtliche Abbildungen stellen Eosentomon germanicum dar. Die Vergrößerungen betragen: Fig. 1—2
+x 830; Fig. 3—7, Fig. 20—28, Fig. 30—32 x 1200; Fig. 8—24 x 430; Fig. 25 x 600; Fig. 29 x 2260.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r21">
+	<Coords>
+	<Point x="1102" y="1050"/>
+	<Point x="1102" y="1095"/>
+	<Point x="1408" y="1095"/>
+	<Point x="1408" y="1050"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r22">
+	<Coords>
+	<Point x="1095" y="2050"/>
+	<Point x="1095" y="2085"/>
+	<Point x="1418" y="2085"/>
+	<Point x="1418" y="2050"/></Coords></SeparatorRegion></Page></PcGts>

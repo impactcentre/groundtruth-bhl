@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672106">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T06:05:49</Created>
+	<LastChange>2012-03-12T14:34:07</LastChange></Metadata>
+	<Page imageFilename="00672106.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="552" y="176"/>
+	<Point x="1088" y="173"/>
+	<Point x="1096" y="170"/>
+	<Point x="1116" y="170"/>
+	<Point x="1300" y="169"/>
+	<Point x="1542" y="172"/>
+	<Point x="2103" y="170"/>
+	<Point x="2100" y="2618"/>
+	<Point x="544" y="2628"/>
+	<Point x="548" y="2555"/>
+	<Point x="555" y="2083"/>
+	<Point x="556" y="1876"/>
+	<Point x="549" y="1847"/>
+	<Point x="548" y="1789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rorum apparatus, perfringetur acies. In fugam
+ecce datum ab unico Piſce integrum exercitum! Non
+hîc fungi adinar è Terra propullulat pinna, alibi co-
+a, tertio loco vertebra, quarto caput, quinto man-
+dibulæ ; non fortuitus e harum partium concurſus:
+ſed ordinata ade compages, &amp; talis quidem videbi-
+tur vobis ips, qui ex fortuito Literarum jau Iliada
+Homeri componitis , &amp; primam Lucii viventis origi-
+nem ex improviſo Atomorum conﬂuxu agnoſcitis,
+vobis, inquam, ips diabit paucula, quæ vobis re-
+at, ratio, vixie aliquando hanc machinam, &amp; inun-
+datione quâdam occubuie. En ultimum, quod
+eatenus non contra nos militat, Hypotheſeos veræ,
+circa horum Piſcium ortum, eﬀugium. Obmuteſ-
+cite ex muti hujus Animantis conſpeu larvati Idea-
+rum,neſcitis ip qualium,in mundo, Aere, volitantium
+propugnatores. Theſauros novæ hujus veræ, ex
+Platonica, vel Epicureana transformatæ Philoſophiæ
+aperite, ac oentate. Subitò ac comparuerint, eva-
+neſcent colores hi emphatici. Idea Lucii quomodo,
+quæſumus, ſe ſe in ﬁuris lapidum dilatavit? Ubi
+locus nutritioni, &amp; augmento idoneus? Quomodo
+cedit materia vel lutoſa, vel lapidea, membrorum
+ngulorum extenoni proportionatæ ? Quænam
+Piſcium aio in Files lapides, quæ reaio ? Ubi ſuf-
+ﬁciens extenoni Piſcis ſeſquipedalis locus in ratis
+in vicem ubique parallelis, &amp; immediatè applicatis ?
+Suﬃciant hi nodi Ideiis, præò ſunt alii,  hos priùs
+ſolverint. Quid autem vos nobiſcum, &amp; Lucio præ-
+ſenti, panſpermi ſalin per univerſum Geocoſmum
+diﬀuſæ ebuccinatores paucimi? Producite omnem
+Nitri Terra cœloque dominantis Theſaurum, oen-
+dite ſalia Piſci--cornu--cochleæ--Denti--Lucii--An-
+guillæ--Percæ formia. Imò verò omnium forma-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1956" y="2646"/>
+	<Point x="2093" y="2646"/>
+	<Point x="2093" y="2692"/>
+	<Point x="1956" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rum</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7" type="other">
+	<Coords>
+	<Point x="1369" y="87"/>
+	<Point x="1532" y="87"/>
+	<Point x="1532" y="166"/>
+	<Point x="1369" y="166"/></Coords></GraphicRegion>
+	<GraphicRegion id="r13" type="other">
+	<Coords>
+	<Point x="1280" y="88"/>
+	<Point x="1280" y="127"/>
+	<Point x="1279" y="127"/>
+	<Point x="1279" y="166"/>
+	<Point x="1110" y="167"/>
+	<Point x="1107" y="167"/>
+	<Point x="1108" y="167"/>
+	<Point x="1108" y="88"/></Coords></GraphicRegion>
+	<TextRegion id="r19" type="page-number">
+	<Coords>
+	<Point x="1304" y="88"/>
+	<Point x="1348" y="88"/>
+	<Point x="1348" y="166"/>
+	<Point x="1304" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6</Unicode></TextEquiv></TextRegion></Page></PcGts>

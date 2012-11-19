@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668056">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T06:57:25</Created>
+	<LastChange>2012-02-10T09:52:33</LastChange></Metadata>
+	<Page imageFilename="00668056.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="274" y="213"/>
+	<Point x="363" y="213"/>
+	<Point x="363" y="260"/>
+	<Point x="274" y="260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>116</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="920" y="200"/>
+	<Point x="1483" y="200"/>
+	<Point x="1483" y="263"/>
+	<Point x="920" y="263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE YELLOW BUNTING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="253" y="311"/>
+	<Point x="2135" y="311"/>
+	<Point x="2135" y="513"/>
+	<Point x="253" y="513"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>still fonder of spiders, and this fact should, I think, be taken into account when
+summing up the virtues and vices of birds. If man would let nature alone, he
+would ﬁnd the balance perfect, but he interferes everywhere and makes a mess of it.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="250" y="519"/>
+	<Point x="2135" y="519"/>
+	<Point x="2135" y="698"/>
+	<Point x="250" y="698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In autumn and winter the Yellow Bunting feeds largely upon grain and seeds
+of weeds, wandering over the country in ﬂocks in company with Chaﬃnches,
+Bramblings, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="251" y="705"/>
+	<Point x="2141" y="705"/>
+	<Point x="2141" y="1130"/>
+	<Point x="251" y="1130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Although a beautiful bird, the wild caught Yellow Hammer never commands
+a high price, bird-catchers generally being well satisﬁed to receive a shilling for
+a pair: the fact that the bird is not a ﬁne singer partly accounts for this, but the
+wildness of newly caught specimens is another serious drawback to the popularity
+of this species; inasmuch as, after weeks of conﬁnement, it still rattles about its
+cage whenever it is approached, uttering a whining sort of chirp. An aviary suits
+it far better.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="250" y="1143"/>
+	<Point x="2143" y="1143"/>
+	<Point x="2143" y="1759"/>
+	<Point x="250" y="1759"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In October, 1888, I purchased a pair from a bird-catcher, and turned them
+into a large covered aviary: in the succeeding spring they built a typical nest
+in an Arbor-vitœ; but, as already related previously, a hen Hedge-Sparrow took
+possession of this nest as soon as it was completed, and subsequently the unhappy
+Buntings were a long time in deciding upon a new building-site; towards the
+end of July they selected a very damp corner on the ground behind a marsh-ﬂag
+and began to build; they, however, never ﬁnished this nest, but continued to
+carry about hay and straw in an undecided desultory manner until November,
+when they ﬁnally gave it up as a bad job. Early in 1890, both birds died:
+possibly they did not receive suﬃcient insect-food to keep them in good health.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="249" y="1767"/>
+	<Point x="2146" y="1767"/>
+	<Point x="2146" y="2157"/>
+	<Point x="249" y="2157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cases have been recorded in which this species has been discovered sitting
+upon eggs deposited in a slight depression on the bare ground; there is no doubt
+that the explanation of such behaviour is—that its nest has been taken. I once
+removed a nest with three eggs from a hedge, and passing a day or two later saw
+the bird sitting on a little platform of ivy twigs upon which the nest had been
+partly supported; as I approached she ﬂew away, disclosing her fourth egg.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="1090" y="2413"/>
+	<Point x="1090" y="2434"/>
+	<Point x="1304" y="2434"/>
+	<Point x="1304" y="2413"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668270">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T01:52:25</Created>
+	<LastChange>2012-02-10T09:52:49</LastChange></Metadata>
+	<Page imageFilename="00668270.tif" imageWidth="2526" imageHeight="3172">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1086" y="150"/>
+	<Point x="1483" y="150"/>
+	<Point x="1483" y="195"/>
+	<Point x="1086" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="529" y="239"/>
+	<Point x="976" y="239"/>
+	<Point x="976" y="291"/>
+	<Point x="529" y="291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 10. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="313" y="294"/>
+	<Point x="1198" y="294"/>
+	<Point x="1198" y="530"/>
+	<Point x="313" y="530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS MUS. Bul. testâ ovatâ, crassiusculâ, spirâ ob‐
+tusâ, anfractibus quinis, subrotundatis, columellâ sub-
+intortâ; intensè castaneâ, epidermide albicante, lineis
+subtilibus concentricis hic illic interruptâ; columellâ
+lacteâ, peritremate intensè castaneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="306" y="532"/>
+	<Point x="1200" y="532"/>
+	<Point x="1200" y="775"/>
+	<Point x="306" y="775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MOUSE BULIMUS. Shell ovate, rather thick, spire
+obtuse, whorls ﬁve in number, somewhat rounded,
+columella slightly twisted; deep chesnut, epidermis
+whitish, interrupted here and there with ﬁne lines,
+columella milk-white, peritreme deep chesnut.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="1242" y="239"/>
+	<Point x="2135" y="239"/>
+	<Point x="2135" y="341"/>
+	<Point x="1242" y="341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Banang, Province of Pangasinan, Island of Luzon
+(on trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1241" y="376"/>
+	<Point x="2139" y="376"/>
+	<Point x="2139" y="768"/>
+	<Point x="1241" y="768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The preceding species, it may be observed, consists
+of a whorl more than its congeners from the Philippine
+Islands; this, on the contrary, is shorter and composed
+of a whorl less. It is of an extremely rich chesnut
+colour, covered by an epidermis delicately white, and
+only interrupted here and there by ﬁne lines. The
+columella does not partake of the colour of the peritreme,
+being of a clear milk-white.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="1018" y="1052"/>
+	<Point x="1468" y="1052"/>
+	<Point x="1468" y="1089"/>
+	<Point x="1018" y="1089"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="1206" y="235"/>
+	<Point x="1206" y="772"/>
+	<Point x="1234" y="772"/>
+	<Point x="1234" y="235"/></Coords></SeparatorRegion></Page></PcGts>

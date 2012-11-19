@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668761">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:35:21</Created>
+	<LastChange>2012-02-10T10:29:35</LastChange></Metadata>
+	<Page imageFilename="00668761.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r29" index="2"/>
+	<RegionRefIndexed regionRef="r33" index="3"/>
+	<RegionRefIndexed regionRef="r41" index="4"/>
+	<RegionRefIndexed regionRef="r57" index="5"/>
+	<RegionRefIndexed regionRef="r61" index="6"/>
+	<RegionRefIndexed regionRef="r4" index="7"/>
+	<RegionRefIndexed regionRef="r5" index="8"/>
+	<RegionRefIndexed regionRef="r6" index="9"/>
+	<RegionRefIndexed regionRef="r7" index="10"/>
+	<RegionRefIndexed regionRef="r66" index="11"/>
+	<RegionRefIndexed regionRef="r78" index="12"/>
+	<RegionRefIndexed regionRef="r9" index="13"/>
+	<RegionRefIndexed regionRef="r10" index="14"/>
+	<RegionRefIndexed regionRef="r11" index="15"/>
+	<RegionRefIndexed regionRef="r12" index="16"/>
+	<RegionRefIndexed regionRef="r96" index="17"/>
+	<RegionRefIndexed regionRef="r100" index="18"/>
+	<RegionRefIndexed regionRef="r108" index="19"/>
+	<RegionRefIndexed regionRef="r121" index="20"/>
+	<RegionRefIndexed regionRef="r14" index="21"/>
+	<RegionRefIndexed regionRef="r15" index="22"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="977" y="262"/>
+	<Point x="1351" y="262"/>
+	<Point x="1351" y="332"/>
+	<Point x="977" y="332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1063" y="365"/>
+	<Point x="1273" y="365"/>
+	<Point x="1273" y="403"/>
+	<Point x="1063" y="403"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE VIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="261" y="1199"/>
+	<Point x="1157" y="1199"/>
+	<Point x="1157" y="1450"/>
+	<Point x="261" y="1450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This is unquestionably distinct both from the D. olea‐
+rium and Deshayesii. Characterized in great measure by its
+globose form, it is also distinguished by its style of painting
+which is very peculiar, and, as in all the species of the
+genus, a constant and not unimportant feature.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="493" y="1537"/>
+	<Point x="937" y="1537"/>
+	<Point x="937" y="1596"/>
+	<Point x="493" y="1596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 14. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="277" y="1612"/>
+	<Point x="1166" y="1612"/>
+	<Point x="1166" y="1905"/>
+	<Point x="277" y="1905"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM OLEARIUM. Dol. testâ ovatâ, ventricosissimâ,
+umbilicatâ, spirœ suturis canaliculatis, anfractibus
+septem, transversim costatis, costis plano-depressis,
+latiusculis, confertis, interstitiis lineari-sulcatis, labro
+simplici; fulvo-castaneâ, maculis conspicuis albis
+aspersâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="275" y="1907"/>
+	<Point x="1167" y="1907"/>
+	<Point x="1167" y="2190"/>
+	<Point x="275" y="2190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE OIL‐JAR TUN. Shell ovate, extremely ventricose,
+umbilicated, sutures of the spire channelled, whorls
+seven in number, transversely ribbed, ribs ﬂatly de‐
+pressed, rather broad, close set, interstices linearly
+grooved, lip simple; fulvous chesnut, sprinkled with
+conspicuous white spots.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="278" y="2289"/>
+	<Point x="500" y="2289"/>
+	<Point x="500" y="2335"/>
+	<Point x="278" y="2335"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Ceylon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="266" y="2346"/>
+	<Point x="1172" y="2346"/>
+	<Point x="1172" y="2544"/>
+	<Point x="266" y="2544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This is the Buccinum olearium of Bruguière, but not of
+Linnæus, which accounts for his remark in the Encyclo‐
+pédie Méthodique: “J’ignore ce que Linné a entendu par
+les mots ‘sulcis obtusis lineolâ elevatâ interstinctis,’ qu’il a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1190" y="444"/>
+	<Point x="2089" y="444"/>
+	<Point x="2089" y="833"/>
+	<Point x="1190" y="833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>employé dans la diﬀérence spéciﬁque de ce Buccin, puisque
+ses côtes, de même que ses sillons, n’oﬀrent pas des lignes
+élevées.” The shell upon which Linnæus founded his
+Buccinum olearium, preserved in the museum of the
+Linnæan Society of London, proves on examination to be
+nothing more than a very young specimen of the D. galea,
+in the early growth of which species there is always a ﬁne
+elevated line in the interstices of the upper ribs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1193" y="837"/>
+	<Point x="2101" y="837"/>
+	<Point x="2101" y="1219"/>
+	<Point x="1193" y="1219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>From an observation of two young individuals of the
+Lamarckian Dolium olearium in the same collection, I am
+inclined to think Linnæus’ Bulla canaliculata, which has
+never been identiﬁed, is this shell; there is, however, one
+point in which the description of that species in the
+‘Systema Naturæ’ does not agree, namely, in respect of
+form, “cylindrica.” For this reason the name olearium,
+with the above explanation, may be retained.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1209" y="1963"/>
+	<Point x="2125" y="1963"/>
+	<Point x="2125" y="2541"/>
+	<Point x="1209" y="2541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A comparison of this shell with the Lamarckian Dolium
+olearium enables me to conﬁrm the accuracy of M. Deshayes’
+observation (Anim. sans vert. nov. edit. vol. x. p. 140. note)
+to the eﬀect, that the specimen ﬁgured for that species by
+Mr. So�erby in his ‘Genera of Shells,’ and by myself,
+from the same engraving, in ‘Conchologia Systematica,’ is
+distinct fro� it. The sutures of the spire are not chan‐
+nelled, and ��ere is a singular peculiarity in the style of
+colouring, bei�g painted with white blotches, shaded with
+brown, ranging two and two in distant bands, or in bands
+longitudinally. The ﬁgure in ‘The Genera’ gives a cha‐
+racteristic view of the back of the species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1071" y="2624"/>
+	<Point x="1316" y="2624"/>
+	<Point x="1316" y="2676"/>
+	<Point x="1071" y="2676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>January, 1849.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="heading">
+	<Coords>
+	<Point x="291" y="446"/>
+	<Point x="1091" y="446"/>
+	<Point x="1091" y="506"/>
+	<Point x="291" y="506"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 13. (Fig. 13. b, and 13. c, Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="253" y="514"/>
+	<Point x="1150" y="514"/>
+	<Point x="1150" y="799"/>
+	<Point x="253" y="799"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM CUMINGII. Dol. testâ globoso-ovatâ, tenui, ven-
+tricosâ, umbilicatâ, anfractibus septem, transversim
+multicostatis, costis depresso-planis, confertis, interstitiis
+lineari-sulcatis, columellâ subcontortâ, labro simplici;
+fulvo-castaneâ, maculis fuscis et albis fasciatim pecu-
+liariter nebulatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="251" y="803"/>
+	<Point x="1154" y="803"/>
+	<Point x="1154" y="1085"/>
+	<Point x="251" y="1085"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMING’S TUN. Shell globosely ovate, thin, ventricose,
+umbilicated, whorls seven in number, transversely
+many-ribbed, ribs depressly ﬂattened, close-set, inter‐
+stices linearly grooved, columella slightly twisted, lip
+simple; fulvous chesnut, peculiarly clouded in a
+banded manner with brown and white spots.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords>
+	<Point x="257" y="1092"/>
+	<Point x="745" y="1092"/>
+	<Point x="745" y="1133"/>
+	<Point x="257" y="1133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HANLEY, MSS. Mus. Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords>
+	<Point x="265" y="1141"/>
+	<Point x="809" y="1141"/>
+	<Point x="809" y="1188"/>
+	<Point x="265" y="1188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Philippine Islands; Cuming.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r64">
+	<Coords>
+	<Point x="489" y="1490"/>
+	<Point x="942" y="1490"/>
+	<Point x="942" y="1503"/>
+	<Point x="489" y="1503"/></Coords></SeparatorRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords>
+	<Point x="281" y="2193"/>
+	<Point x="929" y="2193"/>
+	<Point x="929" y="2236"/>
+	<Point x="281" y="2236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert, vol x. p. 140.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" type="paragraph">
+	<Coords>
+	<Point x="351" y="2241"/>
+	<Point x="845" y="2241"/>
+	<Point x="845" y="2285"/>
+	<Point x="351" y="2285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum olearium, Bruguière.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r81">
+	<Coords>
+	<Point x="966" y="2584"/>
+	<Point x="966" y="2598"/>
+	<Point x="1411" y="2598"/>
+	<Point x="1411" y="2584"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r82">
+	<Coords>
+	<Point x="1420" y="1253"/>
+	<Point x="1420" y="1275"/>
+	<Point x="1877" y="1275"/>
+	<Point x="1877" y="1253"/></Coords></SeparatorRegion>
+	<TextRegion id="r96" type="heading">
+	<Coords>
+	<Point x="1330" y="1311"/>
+	<Point x="1968" y="1311"/>
+	<Point x="1968" y="1360"/>
+	<Point x="1330" y="1360"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 15. (Fig. 13. a, Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r100" type="paragraph">
+	<Coords>
+	<Point x="1201" y="1375"/>
+	<Point x="2106" y="1375"/>
+	<Point x="2106" y="1614"/>
+	<Point x="1201" y="1614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM DESHAYESII. Dol. testâ subgloboso-oblongâ, vix
+umbilicatâ, spirâ nunquam canaliculatâ, anfractibus sex,
+spiraliter lineari-sulcatis, labro simplici; pallidè ful-
+vescente-castaneâ, maculis conspicuis albis, fusco-um-
+bratis, plerumque binis, subdistantibus fasciatim pictâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r108" type="paragraph">
+	<Coords>
+	<Point x="1200" y="1618"/>
+	<Point x="2109" y="1618"/>
+	<Point x="2109" y="1903"/>
+	<Point x="1200" y="1903"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESHAYES’ TUN. Shell somewhat globosely oblong,
+scarcely umbilicated, spire never channelled, whorls
+six in number, spirally linearly grooved, lip simple,
+pale fulvous chesnut, painted with bands of rather
+distant conspicuous white spots, shaded with brown,
+and ranging mostly in pairs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r121" type="paragraph">
+	<Coords>
+	<Point x="1206" y="1905"/>
+	<Point x="1751" y="1905"/>
+	<Point x="1751" y="1953"/>
+	<Point x="1206" y="1953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Philippine Islands; Cuming.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r122">
+	<Coords>
+	<Point x="1160" y="467"/>
+	<Point x="1177" y="468"/>
+	<Point x="1200" y="2525"/>
+	<Point x="1185" y="2524"/></Coords></SeparatorRegion></Page></PcGts>

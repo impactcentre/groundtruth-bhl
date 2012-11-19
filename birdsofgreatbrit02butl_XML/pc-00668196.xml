@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668196">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:13:30</Created>
+	<LastChange>2012-02-10T09:52:43</LastChange></Metadata>
+	<Page imageFilename="00668196.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="228" y="197"/>
+	<Point x="323" y="197"/>
+	<Point x="323" y="247"/>
+	<Point x="228" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>188</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="940" y="195"/>
+	<Point x="1378" y="195"/>
+	<Point x="1378" y="250"/>
+	<Point x="940" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WOOD-LARK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="214" y="309"/>
+	<Point x="788" y="309"/>
+	<Point x="788" y="380"/>
+	<Point x="214" y="380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—ALAUDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="845" y="590"/>
+	<Point x="1469" y="590"/>
+	<Point x="1469" y="676"/>
+	<Point x="845" y="676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WOOD-LARK.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="904" y="778"/>
+	<Point x="1419" y="778"/>
+	<Point x="1419" y="838"/>
+	<Point x="904" y="838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alauda arborea, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="321" y="1102"/>
+	<Point x="321" y="928"/>
+	<Point x="2095" y="928"/>
+	<Point x="2095" y="1378"/>
+	<Point x="221" y="1378"/>
+	<Point x="221" y="1102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N summer the Wood-Lark inhabits the southern portions of Scandinavia, and
+Russia below about 60° N. lat., as far east as the Ural Mountains, while
+in Northern Germany it is common. Southward, it is found in places
+suited to its habits—especially in Central France—down to the Mediterranean,
+Black and Caspian Seas; its numbers being increased by accessions from the
+north in winter, at which season it also visits Northern Africa and Palestine, and
+in the latter it is said to breed on the high ground.”—Howard Saunders.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="216" y="1383"/>
+	<Point x="2100" y="1383"/>
+	<Point x="2100" y="1940"/>
+	<Point x="216" y="1940"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Great Britain the Wood-Lark is by no means a common bird, and is very
+local in its distribution; occurring chieﬂy on undulating sandy or chalky soil
+dotted about with small woods, copses, or plantations. It is most frequently to be
+met with in suitable localities in the southern counties of England and Wales;
+six specimens have been obtained on the Scilly Islands; but has, from time to
+time, occurred in most of the northern counties. In Scotland it is very scarce,
+but has once been stated to have bred in Stirlingshire. A few appeared from
+early in November to about the middle of December, on Fair Isle, in 1906. In
+Ireland it is principally conﬁned to the east and south.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="214" y="1942"/>
+	<Point x="2123" y="1942"/>
+	<Point x="2123" y="2709"/>
+	<Point x="214" y="2709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In general colouring the Wood-Lark nearly resembles the Sky-Lark, but can
+always be distinguished both when perching and on the wing by its short tail.
+It is also smaller and has a more slender bill; the bastard primary is much
+longer; the blackish centres to the feathers of the upper surface are wanting on
+the rump and upper tail-coverts, the primary-coverts have white tips; central tail-
+feathers reddish-brown, with dusky centres, outermost feather brown, the outer web
+dusky at the tip, the inner web with a broad black patch; remaining feathers
+blackish, with terminal triangular white spots; a broad buﬃsh-white superciliary
+stripe extending backwards to the nape; ear-coverts rufous, with darker upper
+margin; cheeks and throat whitish, becoming distinctly yellowish-buﬀ on the
+breast and abdomen; ﬂanks brownish; throat narrowly streaked with black;
+breast and ﬂanks broadly streaked; bill dark brown above, paler below; feet light</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="231" y="935"/>
+	<Point x="231" y="1092"/>
+	<Point x="313" y="1092"/>
+	<Point x="313" y="935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“I</Unicode></TextEquiv></TextRegion></Page></PcGts>

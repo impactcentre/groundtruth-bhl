@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669278">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:46:39</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669278.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="369" y="273"/>
+	<Point x="1744" y="273"/>
+	<Point x="1744" y="1635"/>
+	<Point x="369" y="1635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>devenir un peu plus longues que hautes, et la lon‐
+gueur de celles de l’extrémité postérieure surpasse
+cinq ou six fois leur hauteur. Leur forme est cy‐
+lindrique, aussi épaisse au milieu qu’au bout, et
+relevée de chaque côté de cinq côtes saillantes et
+longitudinales. Ce qu’on pourrait appeler leurs apo‐
+physes transverses se dirige dès les premières vers le
+bas, et elles commencent presque de suite (dès la qua‐
+torzième ou la quinzième) à former en dessous des an‐
+neaux complets. Les apophyses épineuses supérieures
+sont assez hautes, mais fort minces, ainsi que les
+interépineux qui s’interposent entre leurs sommités,
+mais qui sont bien plus nombreux, puisqu’il y en
+a cent soixante-dix et plus. Je n’ai pas vu de côtes.
+Les os de l’épaule ont peu de développement en lar‐
+geur, du reste on les retrouve en même nombre et
+dans les mêmes connexions que dans les poissons
+osseux.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="601" y="1694"/>
+	<Point x="1442" y="1694"/>
+	<Point x="1442" y="1791"/>
+	<Point x="601" y="1791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le TRACHYPTÈRE BOGMARE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="319" y="2303"/>
+	<Point x="1758" y="2303"/>
+	<Point x="1758" y="2664"/>
+	<Point x="319" y="2664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ﬁgures de Bogmare qui en ont été
+publiées par Olafsen et par Brünnich, ne
+nous laissent aucun doute que ce ne fût un
+trachyptère qui avait perdu son panache et</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="328" y="174"/>
+	<Point x="457" y="174"/>
+	<Point x="457" y="251"/>
+	<Point x="328" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>346</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="705" y="182"/>
+	<Point x="1308" y="182"/>
+	<Point x="1308" y="251"/>
+	<Point x="705" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="316" y="1807"/>
+	<Point x="1749" y="1807"/>
+	<Point x="1749" y="2271"/>
+	<Point x="316" y="2271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Trachypterus Bogmarus, nob.; Bogmarus islandi-
+cus, Bl. Schn., p. 518 et pl. 101; Gymnogaster
+arcticus, Brünnich, Nouv. Mém. de la soc. des sc.
+de Copenh., t. III, p. 408, pl. 13, ﬁg. 1, 2, 3;
+copié Walbaum, Artedi renov., t. III, pl. 3, ﬁg. 1,
+2, 3.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

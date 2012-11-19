@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672737">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T17:15:33</Created>
+	<LastChange>2012-03-12T15:05:07</LastChange></Metadata>
+	<Page imageFilename="00672737.tif" imageWidth="1785" imageHeight="3174">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r13" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="203" y="213"/>
+	<Point x="1737" y="213"/>
+	<Point x="1737" y="1520"/>
+	<Point x="203" y="1520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>majusculi, laterales, ovati, brunnei, parum prominuli; rostrum
+longitudine fere capitis cum thorace, validum, arcuatum, subtilis-
+sime, remote punctulatum, nigrum, sub-nitidum, apice ampliatum
+et sub-depressum. Antennæ nigræ, clava fusco-pubescente. Thorax
+latitudine fere longior, antice subito angustior et intra apicem ob-
+solete constrictus, apice leviter sinuato-emarginatus, lateribus ro-
+tundato-ampliatus, basi truncatus, supra modice convexus, lateri-
+bus et postice tuberculis majoribus et minoribus mixtis, poro per-
+tusis, confertim obsitus, disco anteriore sub-lævi, punctis parvis,
+remotis tantum notato. Scutellum breve, latum, nigrum, apice ro-
+tundatum. Elytra antice thoracis basi non latiora, illique arcte
+applicata, margine elevato, lateribus valde inflexa, sinuata, apice
+conjunctim obtuse rotundata, thorace duplo longiora, supra con-
+vexa, punctis magnis, profundis, remotis, seriatim digestis, im-
+pressa; interstitiis alternis valde elevatis, tuberculis majoribus et
+minoribus, poro pertusis, confertim et absque ordine adspersis;
+tota nigra, parum nitida. Corpus subtus nigrum, magis nitidum,
+glabrum, subtiliter et remote punctulatum. Pedes elongati, validi,
+nigri, subtiliter punctulati; femoribus sub-clavatis, subtus dente
+minori armatis; tarsis latis, subtus brunneo-spongiosis.— GHL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="595" y="1568"/>
+	<Point x="1364" y="1568"/>
+	<Point x="1364" y="1611"/>
+	<Point x="595" y="1611"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GENUS 277. HAPLONYX. Nobis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="222" y="1666"/>
+	<Point x="1724" y="1666"/>
+	<Point x="1724" y="1972"/>
+	<Point x="222" y="1972"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Character generis.—Antennæ mediocres, subtenues; funiculo 7-
+articulato : articulis duobus basalibus longiusculis, obconicis;
+primo longiore, reliquis brevibus, apice truncatis, gradatim parum
+latioribus, ultimo clavæ sub-adpresso ; clava sub-ovata, acumi-
+nata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="276" y="1991"/>
+	<Point x="1340" y="1991"/>
+	<Point x="1340" y="2109"/>
+	<Point x="276" y="2109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rostrum elongatum, deflexum, validum, teres.
+Oculi laterales, rotundati, immersi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="221" y="2122"/>
+	<Point x="1724" y="2122"/>
+	<Point x="1724" y="2230"/>
+	<Point x="221" y="2230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Thorax breviter conicus, basi profunde bi-sinuatus, anterius sen-
+sim valde attenuatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="224" y="2248"/>
+	<Point x="1723" y="2248"/>
+	<Point x="1723" y="2374"/>
+	<Point x="224" y="2374"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elytra ampla, breviter ovata, posterius angustata, supra valde
+convexa, humeris lateraliter sub-prominulis, obtuse angulatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="278" y="2379"/>
+	<Point x="1658" y="2379"/>
+	<Point x="1658" y="2440"/>
+	<Point x="278" y="2440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pedes breviusculi; tarsis latis, unguiculo brevissimo, simplici.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="220" y="2460"/>
+	<Point x="1730" y="2460"/>
+	<Point x="1730" y="2910"/>
+	<Point x="220" y="2910"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Descriptio.— Corpus breve, sub-ovatum, valde convexum, sculp-
+turatum, squamosum, alatum.—Antennæ ad thoracis medium per-
+tingentes, pone medium rostri insertæ, subtenues, fractæ, 12-arti-
+culatæ : articulo 1° oculum sub-attingente, subrecto, clavato; 2° et
+3° obconicis, illo longiore; 4-8 brevibus, sub-turbinatis, gradatim
+crassitudine perparum crescentibus, ultimo clavæ sub-adpresso ;
+clava sub-ovata, apice acuminata, 4-articulata, articulis arcte con-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="224" y="147"/>
+	<Point x="350" y="147"/>
+	<Point x="350" y="188"/>
+	<Point x="236" y="191"/>
+	<Point x="224" y="188"/>
+	<Point x="221" y="181"/>
+	<Point x="219" y="170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>606</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="568" y="143"/>
+	<Point x="1352" y="143"/>
+	<Point x="1352" y="195"/>
+	<Point x="568" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GENUS 276. - SCLEROSOMUS.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672372">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:22:08</Created>
+	<LastChange>2012-02-10T09:54:36</LastChange></Metadata>
+	<Page imageFilename="00672372.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="948" y="112"/>
+	<Point x="1253" y="112"/>
+	<Point x="1253" y="174"/>
+	<Point x="948" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 178 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="214" y="239"/>
+	<Point x="1978" y="239"/>
+	<Point x="1978" y="499"/>
+	<Point x="214" y="499"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vaterland angab, beweist ein kleines, durch Baron Osten-
+Sacken erhaltenes ♂, das die dunkeln Hinterﬂügel gewöhnlicher
+Exemplare zeigt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="217" y="510"/>
+	<Point x="1985" y="510"/>
+	<Point x="1985" y="1423"/>
+	<Point x="217" y="1423"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung 1. Zwei Exemplare, ♂ ♀, von verschiedener
+Grösse aus Nordamerica (das ♂ in Californien am 8 October
+gefangen), Et. schisticolor mus. Z., sehe ich als verschieden
+von Zinckenella an, weil die Vorderﬂügel einfach grau sind
+ohne schwärzliche Bestäubung und ohne Stich ins Röthliche,
+mit einem zwar nicht recht scharfen, schwarzen Punkt — von
+welchem Zinckenella uie eine Andeutung hat —, der auf dem
+obern Ende der Querader liegt und die weisse Vitta berührt,
+und weil die Costa an der gewöhnlichen Stelle schwarzgraue
+Bestäubung hat, von wo an sie bis zur Basis als feine Linie
+braun ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="230" y="1444"/>
+	<Point x="1983" y="1444"/>
+	<Point x="1983" y="1796"/>
+	<Point x="230" y="1796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung 2. Die Berechtigung der Etiella-Arten, als
+eignes Genus angesehen zu werden, wird mir sehr zweifelhaft,
+da die folgende Pemp. difﬁssella einen Schuppenkegel der Stirn
+und ganz ebenso gebaute, nur etwas kürzere Taster zeigt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="530" y="1910"/>
+	<Point x="1671" y="1910"/>
+	<Point x="1671" y="2003"/>
+	<Point x="530" y="2003"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pempelia difﬁssella Tab. XI, ﬁg. 11.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="230" y="2051"/>
+	<Point x="1973" y="2051"/>
+	<Point x="1973" y="2467"/>
+	<Point x="230" y="2467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis capite longioribus porrectis; alis ant. angustis, palli-
+dissime cinnamomeis, stria fusca supra venam medianam usque
+ad marginem perducta ibique duplicata, puncto venae trans-
+versae atro, plaga dorsi postica brunnescente; post. albis, hya-
+linis. ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="230" y="2519"/>
+	<Point x="1964" y="2519"/>
+	<Point x="1964" y="2848"/>
+	<Point x="230" y="2848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Durch die ziemlich langen, horizontalen Taster den Ueber-
+gang zu Etiella bildend, ausserdem kenntlich an den bleich
+ocher- oder zimmtgelben, der Länge nach dunkelstreiﬁgen
+Vorder- und den glasartigen weissen Hinterﬂügeln.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="226" y="2853"/>
+	<Point x="1957" y="2853"/>
+	<Point x="1957" y="3099"/>
+	<Point x="226" y="3099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kopf und kegelförmiger Stirnbusch zimmtbraun; die weiss-
+lichen oder zimmtbräunlichen, weiss gemischten Taster um mehr
+als Kopﬂänge horizontal hervorstehend, von der Wurzel aus</Unicode></TextEquiv></TextRegion></Page></PcGts>

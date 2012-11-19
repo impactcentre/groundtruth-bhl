@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668975">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:09:21</Created>
+	<LastChange>2012-02-09T16:27:26</LastChange></Metadata>
+	<Page imageFilename="00668975.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="33" y="299"/>
+	<Point x="1478" y="299"/>
+	<Point x="1480" y="1127"/>
+	<Point x="614" y="1125"/>
+	<Point x="615" y="1146"/>
+	<Point x="470" y="1145"/>
+	<Point x="470" y="1163"/>
+	<Point x="410" y="1163"/>
+	<Point x="406" y="1154"/>
+	<Point x="33" y="1155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En 1768, Gunner décrivit et représenta de
+nouveau le lampris dans les Mémoires de
+Drontheim1; mais il le prend pour le scomber
+pelagicus, et sa ﬁgure, quoique très-reconnais-
+sable, a été négligée. Elle n’est citée que par
+Schneider dans le Système posthume de Bloch2
+parmi les scombres mal connus, sous le nom
+de scomber Gunneri. Il l’appelle laxe-störjen,
+qui d’après la signiﬁcation n’est peut-être pas
+un nom vulgaire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="39" y="1160"/>
+	<Point x="273" y="1160"/>
+	<Point x="276" y="1170"/>
+	<Point x="487" y="1170"/>
+	<Point x="489" y="1161"/>
+	<Point x="617" y="1159"/>
+	<Point x="628" y="1139"/>
+	<Point x="1486" y="1140"/>
+	<Point x="1496" y="2339"/>
+	<Point x="39" y="2339"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est encore sur un individu de la mer du
+Nord, pris à Helsingborg, que Retzius a fait
+de ce poisson, dans les Mémoires de Stock‐
+holm de 17993, un genre particulier qu’il a
+nommé lampris. Plus tard, deux autres indi‐
+vidus de la même mer ont servi de sujets
+pour la description et la ﬁgure que M. Hol-
+ten en a données en 1802, dans les Mémoires
+de la société d’histoire naturelle de Copen‐
+hague4 et en 1806, dans la 4.e partie de la
+Zoologie danoise, pl. 144; dans le premier
+de ces articles il le nomme zeus guttatus
+comme Brünnich, dans le second il l’appelle
+lampris comme Retzius.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="119" y="2344"/>
+	<Point x="1487" y="2344"/>
+	<Point x="1487" y="2435"/>
+	<Point x="119" y="2435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. de Lacépède en a fait aussi un genre</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="42" y="2492"/>
+	<Point x="1489" y="2492"/>
+	<Point x="1489" y="2699"/>
+	<Point x="42" y="2699"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Tome IV, p. 92, pl. 12, ﬁg. 1. — 2. Pag. 38, d. —
+3. Nouv. Mém. de l’acad. des sciences de Suède, t. XX pour
+1799, 3.e part., p. 91. — 4. T. V, 2.e cahier, p. 129.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="457" y="207"/>
+	<Point x="1067" y="207"/>
+	<Point x="1067" y="285"/>
+	<Point x="457" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. LAMPRIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1344" y="192"/>
+	<Point x="1476" y="192"/>
+	<Point x="1476" y="275"/>
+	<Point x="1344" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>43</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="72" y="2445"/>
+	<Point x="72" y="2481"/>
+	<Point x="1487" y="2481"/>
+	<Point x="1487" y="2445"/></Coords></SeparatorRegion></Page></PcGts>

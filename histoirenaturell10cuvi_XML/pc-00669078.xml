@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669078">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:22:15</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669078.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r30" index="2"/>
+	<RegionRefIndexed regionRef="r24" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r34" index="5"/>
+	<RegionRefIndexed regionRef="r40" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="332" y="195"/>
+	<Point x="1750" y="195"/>
+	<Point x="1750" y="364"/>
+	<Point x="1371" y="362"/>
+	<Point x="1361" y="372"/>
+	<Point x="1340" y="372"/>
+	<Point x="1324" y="358"/>
+	<Point x="587" y="356"/>
+	<Point x="582" y="365"/>
+	<Point x="557" y="365"/>
+	<Point x="549" y="360"/>
+	<Point x="382" y="360"/>
+	<Point x="379" y="369"/>
+	<Point x="332" y="369"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Leur individu d’Amboine a près de sept
+pouces, celui de Vanicolo en a près de neuf.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="325" y="372"/>
+	<Point x="390" y="372"/>
+	<Point x="391" y="365"/>
+	<Point x="501" y="365"/>
+	<Point x="509" y="373"/>
+	<Point x="596" y="373"/>
+	<Point x="598" y="363"/>
+	<Point x="1318" y="365"/>
+	<Point x="1337" y="378"/>
+	<Point x="1364" y="377"/>
+	<Point x="1372" y="369"/>
+	<Point x="1746" y="369"/>
+	<Point x="1747" y="795"/>
+	<Point x="325" y="795"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a tout lieu de croire que c’est le chæ-
+todon canaliculatus de Park ou l’amphacan-
+thus canaliculatus de Bloch; la description
+que Park en donne1 est si courte que ce n’est
+guère que par les nombres des rayons,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="321" y="1222"/>
+	<Point x="876" y="1223"/>
+	<Point x="906" y="1231"/>
+	<Point x="1261" y="1230"/>
+	<Point x="1283" y="1236"/>
+	<Point x="1317" y="1236"/>
+	<Point x="1323" y="1230"/>
+	<Point x="1735" y="1229"/>
+	<Point x="1737" y="1234"/>
+	<Point x="1737" y="1404"/>
+	<Point x="321" y="1404"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il l’avait vue sur la côte de Sumatra. M. de
+Lacépède en a fait son chætodon cannelé.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="309" y="1732"/>
+	<Point x="1729" y="1732"/>
+	<Point x="1729" y="2345"/>
+	<Point x="309" y="2345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une espèce que Forster a observée dans
+l’océan Paciﬁque, me paraît identique à cet
+amphacanthe perlé, quant aux formes, mais
+un peu diﬀérente quant aux couleurs. Le des‐
+sin conservé dans la bibliothèque de Banks
+porte pour étiquette chætodon meleagris;
+mais il paraît qu’en rédigeant ses manuscrits,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="308" y="2431"/>
+	<Point x="1725" y="2431"/>
+	<Point x="1725" y="2572"/>
+	<Point x="308" y="2572"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Transactions de la Société linnéenne, t. III, p. 33. —
+2. Lacép., t. IV, p. 473.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="335" y="92"/>
+	<Point x="471" y="92"/>
+	<Point x="471" y="164"/>
+	<Point x="335" y="164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>146</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="781" y="92"/>
+	<Point x="1296" y="92"/>
+	<Point x="1296" y="164"/>
+	<Point x="781" y="164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="321" y="886"/>
+	<Point x="1741" y="886"/>
+	<Point x="1742" y="1223"/>
+	<Point x="1317" y="1224"/>
+	<Point x="1316" y="1234"/>
+	<Point x="1283" y="1234"/>
+	<Point x="1242" y="1222"/>
+	<Point x="955" y="1218"/>
+	<Point x="953" y="1228"/>
+	<Point x="909" y="1229"/>
+	<Point x="888" y="1216"/>
+	<Point x="321" y="1216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que l’on peut en deviner le genre, mais ce
+qu’il dit des couleurs (supra ﬂavo virescens,
+subtus albicans, guttis lævioribus aspersus)
+ne convient bien qu’à cette espèce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="824" y="809"/>
+	<Point x="1243" y="809"/>
+	<Point x="1243" y="878"/>
+	<Point x="824" y="878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/10; A. 7/8,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="heading">
+	<Coords>
+	<Point x="609" y="1506"/>
+	<Point x="1436" y="1506"/>
+	<Point x="1436" y="1582"/>
+	<Point x="609" y="1582"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE PONCTUÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="551" y="1614"/>
+	<Point x="1498" y="1614"/>
+	<Point x="1498" y="1697"/>
+	<Point x="551" y="1697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus punctatus, Schn.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r41">
+	<Coords>
+	<Point x="321" y="2368"/>
+	<Point x="321" y="2400"/>
+	<Point x="1727" y="2400"/>
+	<Point x="1727" y="2368"/></Coords></SeparatorRegion></Page></PcGts>

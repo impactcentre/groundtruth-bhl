@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672329">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:11:34</Created>
+	<LastChange>2012-02-10T09:54:30</LastChange></Metadata>
+	<Page imageFilename="00672329.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/>
+	<RegionRefIndexed regionRef="r13" index="9"/>
+	<RegionRefIndexed regionRef="r14" index="10"/>
+	<RegionRefIndexed regionRef="r15" index="11"/>
+	<RegionRefIndexed regionRef="r16" index="12"/>
+	<RegionRefIndexed regionRef="r17" index="13"/>
+	<RegionRefIndexed regionRef="r18" index="14"/>
+	<RegionRefIndexed regionRef="r19" index="15"/>
+	<RegionRefIndexed regionRef="r20" index="16"/>
+	<RegionRefIndexed regionRef="r21" index="17"/>
+	<RegionRefIndexed regionRef="r22" index="18"/>
+	<RegionRefIndexed regionRef="r23" index="19"/>
+	<RegionRefIndexed regionRef="r24" index="20"/>
+	<RegionRefIndexed regionRef="r25" index="21"/>
+	<RegionRefIndexed regionRef="r26" index="22"/>
+	<RegionRefIndexed regionRef="r27" index="23"/>
+	<RegionRefIndexed regionRef="r28" index="24"/>
+	<RegionRefIndexed regionRef="r29" index="25"/>
+	<RegionRefIndexed regionRef="r30" index="26"/>
+	<RegionRefIndexed regionRef="r31" index="27"/>
+	<RegionRefIndexed regionRef="r32" index="28"/>
+	<RegionRefIndexed regionRef="r33" index="29"/>
+	<RegionRefIndexed regionRef="r34" index="30"/>
+	<RegionRefIndexed regionRef="r35" index="31"/>
+	<RegionRefIndexed regionRef="r36" index="32"/>
+	<RegionRefIndexed regionRef="r37" index="33"/>
+	<RegionRefIndexed regionRef="r38" index="34"/>
+	<RegionRefIndexed regionRef="r39" index="35"/>
+	<RegionRefIndexed regionRef="r40" index="36"/>
+	<RegionRefIndexed regionRef="r41" index="37"/>
+	<RegionRefIndexed regionRef="r42" index="38"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="781" y="84"/>
+	<Point x="1089" y="84"/>
+	<Point x="1089" y="144"/>
+	<Point x="781" y="144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 135 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="266" y="184"/>
+	<Point x="266" y="228"/>
+	<Point x="353" y="228"/>
+	<Point x="353" y="184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pag.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="82" y="229"/>
+	<Point x="82" y="280"/>
+	<Point x="1205" y="280"/>
+	<Point x="1205" y="229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bd. XV. 180 Z. 9 v. u. l. Blandalis st. Blondalis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="264" y="286"/>
+	<Point x="264" y="338"/>
+	<Point x="1153" y="338"/>
+	<Point x="1153" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>213 Z. 13 v. o. l. Luscella st Cuscella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="262" y="344"/>
+	<Point x="262" y="397"/>
+	<Point x="1106" y="397"/>
+	<Point x="1106" y="344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>221 Z. 3 v. u. l. Brussa st. Amasia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="258" y="404"/>
+	<Point x="258" y="453"/>
+	<Point x="1156" y="453"/>
+	<Point x="1156" y="404"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>229 Z. 4 v. u. l. Elutella st. Flutella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="254" y="460"/>
+	<Point x="254" y="516"/>
+	<Point x="1170" y="516"/>
+	<Point x="1170" y="460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>238 Z. 6 v. o. l. Zoegana st. Zaegana.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="253" y="524"/>
+	<Point x="253" y="570"/>
+	<Point x="1029" y="570"/>
+	<Point x="1029" y="524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>245 Z. 3 v. o. l. Nach st. Noch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="254" y="576"/>
+	<Point x="254" y="628"/>
+	<Point x="1161" y="628"/>
+	<Point x="1161" y="576"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>250 Z. 14 v. u. l. Deletana st. Delitana.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="252" y="633"/>
+	<Point x="252" y="685"/>
+	<Point x="1169" y="685"/>
+	<Point x="1169" y="633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>251 Z. 12 v. o. l. Deletana st. Delitana.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="252" y="692"/>
+	<Point x="252" y="749"/>
+	<Point x="1268" y="749"/>
+	<Point x="1268" y="692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>281 Z. 14 v. o. l. Ephippella st. Ephippiella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="252" y="756"/>
+	<Point x="252" y="804"/>
+	<Point x="1229" y="804"/>
+	<Point x="1229" y="756"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>319 Z 4 v. o. l. Fervidella st. Feroidella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="249" y="809"/>
+	<Point x="249" y="862"/>
+	<Point x="1093" y="862"/>
+	<Point x="1093" y="809"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>327 Z. 15 v. u. l. Patara st. Patava.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="249" y="868"/>
+	<Point x="249" y="920"/>
+	<Point x="1324" y="920"/>
+	<Point x="1324" y="868"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>346 Z. 10 v. u. l. Luticornella st. Leticornella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="248" y="929"/>
+	<Point x="248" y="980"/>
+	<Point x="1070" y="980"/>
+	<Point x="1070" y="929"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>353 Z. 2 v. o. l. Höhen st. Höfen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="249" y="988"/>
+	<Point x="249" y="1042"/>
+	<Point x="1226" y="1042"/>
+	<Point x="1226" y="988"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Z. 4 v. o. l. Oegoconia st Oecogonia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="250" y="1050"/>
+	<Point x="250" y="1094"/>
+	<Point x="956" y="1094"/>
+	<Point x="956" y="1050"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>360 Z. 16 v. o. l. Col. st. Bol.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="249" y="1100"/>
+	<Point x="1313" y="1100"/>
+	<Point x="1313" y="1161"/>
+	<Point x="249" y="1161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>376 Z. 18 v. o. l. San Ildefonso st. Halefonso.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="250" y="1165"/>
+	<Point x="1209" y="1165"/>
+	<Point x="1209" y="1214"/>
+	<Point x="250" y="1214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>393 Z. 1 v. u. l. Kellemish st. Kellewish</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="249" y="1220"/>
+	<Point x="249" y="1272"/>
+	<Point x="1169" y="1272"/>
+	<Point x="1169" y="1220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>405 Z. 11 v. u. l. Pancalia st. Paucalia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="245" y="1278"/>
+	<Point x="245" y="1330"/>
+	<Point x="1004" y="1330"/>
+	<Point x="1004" y="1278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>415 Z. 1 v. o. l. muss st. mess.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="77" y="1344"/>
+	<Point x="77" y="1396"/>
+	<Point x="1228" y="1396"/>
+	<Point x="1228" y="1344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bd. XVI. 68 Z 17 v. u. l. Hippolyte st. Hippolyto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="285" y="1402"/>
+	<Point x="285" y="1448"/>
+	<Point x="1149" y="1448"/>
+	<Point x="1149" y="1402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>76 Z. 14 v. u. l. intricate st. intricale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="285" y="1454"/>
+	<Point x="285" y="1512"/>
+	<Point x="1260" y="1512"/>
+	<Point x="1260" y="1454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>81 Z. 5 v. o. l. wegen der st. wegen den</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="285" y="1518"/>
+	<Point x="285" y="1570"/>
+	<Point x="1281" y="1570"/>
+	<Point x="1281" y="1518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Z. 16 v. o. l. scheint mir st. scheint mit</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="282" y="1573"/>
+	<Point x="282" y="1628"/>
+	<Point x="1802" y="1628"/>
+	<Point x="1802" y="1573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>83 Z. 14 v. u. l. Auch hiervon sandte Johann st. Auch Johann sandte</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="280" y="1636"/>
+	<Point x="1718" y="1636"/>
+	<Point x="1718" y="1690"/>
+	<Point x="280" y="1690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>84 Z. 4 v. u. l. Pempelia ? Thymiella st. Pempeila Thymiella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="277" y="1694"/>
+	<Point x="1566" y="1694"/>
+	<Point x="1566" y="1748"/>
+	<Point x="277" y="1748"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>95 Z. 20 v. o. (2te Colonne) l. Antiochena st. Antochena.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="276" y="1752"/>
+	<Point x="276" y="1809"/>
+	<Point x="1392" y="1809"/>
+	<Point x="1392" y="1752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>96 Z. 3 v. u. (1te › ) l. Circe st. Cirea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="276" y="1817"/>
+	<Point x="276" y="1868"/>
+	<Point x="1398" y="1868"/>
+	<Point x="1398" y="1817"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Z. 3 v. o. (2te › ) l. Nordm. st. Nerdm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="276" y="1874"/>
+	<Point x="276" y="1928"/>
+	<Point x="1266" y="1928"/>
+	<Point x="1266" y="1874"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>97 Z. 21 v. o. (2te › ) l. Ld. st. Lt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="272" y="1933"/>
+	<Point x="272" y="1986"/>
+	<Point x="1261" y="1986"/>
+	<Point x="1261" y="1933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>100 Z. 20 v. o. (2te › ) l. 410 st 401.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="269" y="1989"/>
+	<Point x="269" y="2046"/>
+	<Point x="1556" y="2046"/>
+	<Point x="1556" y="1989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>103 Z. 2 v. o. (1te › ) l. Calocampa st. Caiocampa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="266" y="2050"/>
+	<Point x="266" y="2105"/>
+	<Point x="1456" y="2105"/>
+	<Point x="1456" y="2050"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>109 Z. 9 v. o. (2te › ) l. Odontia st. Ogonita.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="262" y="2109"/>
+	<Point x="262" y="2165"/>
+	<Point x="1256" y="2165"/>
+	<Point x="1256" y="2109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Z. 17 v. u. (2te › ) l. Hb. st. Hh.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="261" y="2170"/>
+	<Point x="261" y="2224"/>
+	<Point x="1648" y="2224"/>
+	<Point x="1648" y="2170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>110 Z. 8 v. o. (1te › ) l. Aurantiacalis st. Auranticalis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="260" y="2229"/>
+	<Point x="260" y="2284"/>
+	<Point x="1465" y="2284"/>
+	<Point x="1465" y="2229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Z. 10 v. o. (2te › ) l. Segetalis st. Septalis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="258" y="2289"/>
+	<Point x="258" y="2344"/>
+	<Point x="1602" y="2344"/>
+	<Point x="1602" y="2289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>111 Z. 2 v. o. (1te › ) l. Ancylolomia st. Ancylomia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="257" y="2350"/>
+	<Point x="1541" y="2350"/>
+	<Point x="1541" y="2402"/>
+	<Point x="257" y="2402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Z. 25 v. o. (1te › ) l. Geniculeus st. Gniculues.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="257" y="2409"/>
+	<Point x="257" y="2465"/>
+	<Point x="1565" y="2465"/>
+	<Point x="1565" y="2409"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>› Z. 7 v. o. (2te › ) l. Thymiella st. Thymielia.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r43">
+	<Coords>
+	<Point x="792" y="2597"/>
+	<Point x="792" y="2621"/>
+	<Point x="1098" y="2621"/>
+	<Point x="1098" y="2597"/></Coords></SeparatorRegion></Page></PcGts>

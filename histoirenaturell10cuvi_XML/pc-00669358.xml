@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669358">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:56:07</Created>
+	<LastChange>2012-03-12T14:33:57</LastChange></Metadata>
+	<Page imageFilename="00669358.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="428" y="288"/>
+	<Point x="1770" y="288"/>
+	<Point x="1770" y="518"/>
+	<Point x="428" y="518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dans sa longueur. Elle est un peu pointue. On y
+compte quinze ou seize rayons, qui vont en dimi-
+nuant depuis le cinquième.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="426" y="521"/>
+	<Point x="1788" y="521"/>
+	<Point x="1788" y="896"/>
+	<Point x="426" y="896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ventrales sortent plus loin que la pointe des
+pectorales ne peut atteindre. Leur longueur n'est guère
+que moitié de celle des pectorales; elles ont cha-
+cune, sur leur base en dehors, une écaille pointue,
+et il y en a une entre elles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="422" y="900"/>
+	<Point x="1789" y="900"/>
+	<Point x="1789" y="1496"/>
+	<Point x="422" y="1496"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La première dorsale commence sur le milieu des
+ventrales, ce qui fait aussi le milieu du poisson en
+n'y comprenant pas la caudale. Cette nageoire est
+petite; sa hauteur ne fait pas moitié de celle du corps
+sous elle, et sa longueur n'égale pas sa hauteur; elle
+a tantôt huit, tantôt neuf rayons grêles; le dernier
+est le plus petit et le plus mince: sa base n'a point
+d'écailles particulières.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="426" y="1500"/>
+	<Point x="1789" y="1500"/>
+	<Point x="1789" y="1948"/>
+	<Point x="426" y="1948"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La seconde, un peu plus longue que la première,
+mais à peu près de même hauteur en avant, a un
+rayon épineux très-petit et très-grêle, et onze rayons
+mous: elle va en baissant vers l'arrière; son dernier
+rayon reprend un peu de longueur et fait une petite
+pointe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="432" y="1951"/>
+	<Point x="1793" y="1951"/>
+	<Point x="1793" y="2164"/>
+	<Point x="432" y="2164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'anus est à peu près au milieu de la longueur, la
+caudale comprise, et répond au milieu de l'intervalle
+entre les deux dorsales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="425" y="2170"/>
+	<Point x="1788" y="2170"/>
+	<Point x="1788" y="2641"/>
+	<Point x="425" y="2641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'anale est assez en arrière de l'anus, et exacte-
+ment vis-à-vis la deuxième dorsale, dont elle a
+la forme et la grandeur. On y compte un rayon
+mou de plus, c'est-à-dire douze, précédés par un
+petit épineux: l'intervalle entre ces deux nageoires
+et la caudale est d'un peu moins du cinquième de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="366" y="185"/>
+	<Point x="520" y="185"/>
+	<Point x="520" y="261"/>
+	<Point x="366" y="261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>426</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="806" y="185"/>
+	<Point x="1288" y="185"/>
+	<Point x="1288" y="261"/>
+	<Point x="806" y="261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672274">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:57:24</Created>
+	<LastChange>2012-02-10T09:54:17</LastChange></Metadata>
+	<Page imageFilename="00672274.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="996" y="85"/>
+	<Point x="1298" y="85"/>
+	<Point x="1298" y="159"/>
+	<Point x="996" y="159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 80 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="266" y="209"/>
+	<Point x="2024" y="209"/>
+	<Point x="2024" y="796"/>
+	<Point x="266" y="796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Crocallis Tusciaria Вkh. Johann sandte mir noch ein
+am 3 November gefangenes ♀ dieser Art ein, das ziemlich
+stark variirt. Es ist, wie auch der ♂ aus Amasia, blasser,
+graugelb, hat keine Spur von schwarzen Randpunkten und be‐
+sonders fehlt auch der schwarze Mittelpunkt auf allen Flügeln
+vollständig. Nur die Unterseite der Hinterﬂügel lässt eine Spur
+davon erkennen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="283" y="805"/>
+	<Point x="2009" y="805"/>
+	<Point x="2009" y="968"/>
+	<Point x="283" y="968"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rumia Luteolata L. Johann sandte hiervon auch ein am
+20 Mai bei Amasia gefangenes Stück ein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="286" y="976"/>
+	<Point x="2012" y="976"/>
+	<Point x="2012" y="1131"/>
+	<Point x="286" y="1131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eilicrina Trinotata Metzn. Johann sandte hiervon
+noch ein graues Stück, leider ohne Datum ein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="282" y="1141"/>
+	<Point x="2012" y="1141"/>
+	<Point x="2012" y="1375"/>
+	<Point x="282" y="1375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Scotosia Badiata Hb. Hiervon sandte Johann ein am
+2 April gefangenes, etwas abgeﬂogenes ♂ ein, das mit deut‐
+schen Stücken ganz übereinstimmt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="279" y="1382"/>
+	<Point x="2020" y="1382"/>
+	<Point x="2020" y="2538"/>
+	<Point x="279" y="2538"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eupithecia Separata Stgr. Vor Kurzem erhielt ich von
+meinem Freunde Millière zuerst ein Exemplar seiner schönen
+Eup. Gueneata. Ich glaube danach ziemlich sicher, dass meine
+Separata nur eine blasse Lokalvarietät dieser ausgezeichneten
+Art ist. Nach der Millière’schen Abbildung konnte ich dies
+durchaus nicht erkennen, denn dieselbe hat eine breite völ‐
+lig durchgehende schwarze Mittelbinde auf den rothen Vor‐
+derﬂügeln, während diese Binde bei der mir gesandten Gue‐
+neata in der Mitte durchbrochen ist, wie bei meiner Separata.
+Abgesehn davon, dass letztere viel blasser und bräunlich, nicht
+roth auf den Vorderﬂügeln ist, fehlt der Gueneata auch der
+lichte Querwisch in der Spitze, und ist jedenfalls eine grös‐
+sere Anzahl von Stücken beider Formen nöthig, um bestim‐
+men zu können, ob sie sicher zu einer Art gehören.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="288" y="2544"/>
+	<Point x="2018" y="2544"/>
+	<Point x="2018" y="2701"/>
+	<Point x="288" y="2701"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eup. Subsequaria HS. Johann sandte noch ein am 16 Juli
+gefangenes frisches ♂ ein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="289" y="2709"/>
+	<Point x="2015" y="2709"/>
+	<Point x="2015" y="3033"/>
+	<Point x="289" y="3033"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eup.? Nepetata Mab. Nach einer nochmaligen sehr ge‐
+nauen Prüfung des leider ziemlich abgeriebenen Stücks, das ich
+früher als fragliche Graphata auﬀührte, glaube ich, dass das‐
+selbe doch wahrscheinlicher zu Nepetata gehören wird. Da-</Unicode></TextEquiv></TextRegion></Page></PcGts>

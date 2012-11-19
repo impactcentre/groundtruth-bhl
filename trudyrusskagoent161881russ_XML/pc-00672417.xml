@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672417">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:31:30</Created>
+	<LastChange>2012-02-10T09:54:48</LastChange></Metadata>
+	<Page imageFilename="00672417.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="826" y="155"/>
+	<Point x="1126" y="155"/>
+	<Point x="1126" y="212"/>
+	<Point x="826" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 223 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="119" y="283"/>
+	<Point x="1844" y="283"/>
+	<Point x="1844" y="444"/>
+	<Point x="119" y="444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dunklen Querstreifen; Füsse dunkelgrau, mit hellen Enden der
+Glieder.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="110" y="449"/>
+	<Point x="1866" y="449"/>
+	<Point x="1866" y="1932"/>
+	<Point x="110" y="1932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel ♂ 4—41/2‴, ♀ bis 5‴ lang, schmal, gestreckt,
+nach hinten sanft erweitert, grau, dunkler bestäubt. Von 1/4
+des Vorderrandes geht bis zu 1/3 des Innenrandes der erste
+helle Querstreifen, der über der Medianader einen scharfen
+ausspringenden, auf der Subdorsalader einen einspringenden
+Winkel bildet; er ist basalwärts ohne dunkle scharfe Begren-
+zung und daher mehr oder weniger verbreitert; auf der hin-
+tern Seite ist er schattig schwärzlich gerandet, am dunkelsten
+am Vorderrande und im Winkel der Subdorsalader. Die zwei
+schräg gestellten Queraderpunkte sind meistens sehr undeutlich.
+Der zweite helle, dünnere Querstreifen steht von ihnen viel
+weiter ab als vom Hinterrande; er ist in der Mitte sanft ge-
+gen letzteren gebogen, übrigens ziemlich grade; durch die
+schwärzliche Einfassung seiner Basalseite, die auf den Adern
+ﬂeckweise verstärkt ist, erscheint er undeutlich gezähnelt; die
+Einfassung seiner äussern Seite ist am Hinterrande ﬂeckartig
+verdunkelt. Die schwarze Punktreihe des Hinterrandes ist beim
+♀ deutlicher und dunkler als beim ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="114" y="1941"/>
+	<Point x="1869" y="1941"/>
+	<Point x="1869" y="2266"/>
+	<Point x="114" y="2266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel gespitzt, hellgrau, durchscheinend; die Me-
+dianader und ihre Aeste verdunkelt. Franzen weisslich;
+die gelbliche Wurzellinie ist von einer grauen Schattenlinie
+begleitet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="123" y="2275"/>
+	<Point x="1860" y="2275"/>
+	<Point x="1860" y="3103"/>
+	<Point x="123" y="3103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel grau; auf dem Vorderrande
+ist vor der Spitze der Anfang des zweiten Querstreifens als
+ein helles Fleckchen sichtbar. Ast 1 der Medianader kommt
+von 3/5 der Flügellänge; 2 steht von 1 weniger ab als von
+3; die Endgabel ist so lang wie ihre Entfernung vom Ur-
+sprung des Astes 1. — Hinterﬂügel wie oben, aber die Adern
+nicht verdunkelt. Ast 1 der Medianader entspringt vor der
+Hälfte der Flügellänge; 2 unterhalb des Anfanges der Quer-
+ader in weiterem Abstande von 1 als von 3; die Endgabel ist
+etwas kürzer als ihre Entfernung von 1.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668916">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T04:31:43</Created>
+	<LastChange>2012-02-09T16:27:23</LastChange></Metadata>
+	<Page imageFilename="00668916.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="854" y="245"/>
+	<Point x="1280" y="245"/>
+	<Point x="1280" y="319"/>
+	<Point x="854" y="319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AVERTISSEMENT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="354" y="357"/>
+	<Point x="1764" y="357"/>
+	<Point x="1764" y="631"/>
+	<Point x="354" y="631"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>fossiles ont excité tous les hommes éclairés à
+en découvrir de nouveaux gisemens et à en faire
+connaître de nouveaux débris.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="359" y="640"/>
+	<Point x="1773" y="640"/>
+	<Point x="1773" y="2408"/>
+	<Point x="359" y="2408"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parmi les ouvrages récens sur l'ichthyologie
+qui ajouteront à l'histoire littéraire de cette
+branche de la zoologie, je citerai avec intérêt celui
+dont M. W. Yarrell a déjà fait paraître quatre
+livraisons. Ornée de ﬁgures aussi exactes qu'élé-
+gantes, cette publication, rédigée par un homme
+d'un véritable talent, fournira de précieux ren-
+seignemens sur l'histoire des poissons d'Angle-
+terre et d'Europe. On peut voir de quel secours
+il m'a été pour éclaircir l'histoire du gymnetrus
+Hawkenii; si j'avais reçu la quatrième livraison
+avant que les premières feuilles de ce volume
+fussent imprimées, j'aurais pu citer l'excellente
+ﬁgure du Capros, et j'ai vu avec plaisir établir,
+par son autorité, la justesse de mes observa-
+vations sur le poisson que M. Cuvier, d'après
+M. Couch, avait rapproché des gerres; nous
+aurons souvent occasion de revenir sur cet im-
+portant ouvrage.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="352" y="2414"/>
+	<Point x="1771" y="2414"/>
+	<Point x="1771" y="2700"/>
+	<Point x="352" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous nous faisons aussi un devoir de témoi-
+gner notre reconnaissance aux hommes généreux
+qui ont bien voulu nous communiquer des ma-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="350" y="233"/>
+	<Point x="483" y="233"/>
+	<Point x="483" y="338"/>
+	<Point x="350" y="338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>viij</Unicode></TextEquiv></TextRegion></Page></PcGts>

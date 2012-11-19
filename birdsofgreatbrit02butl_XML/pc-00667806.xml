@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667806">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T00:31:09</Created>
+	<LastChange>2012-02-10T09:52:06</LastChange></Metadata>
+	<Page imageFilename="00667806.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="28" y="183"/>
+	<Point x="852" y="172"/>
+	<Point x="943" y="174"/>
+	<Point x="1035" y="176"/>
+	<Point x="2200" y="146"/>
+	<Point x="2200" y="2952"/>
+	<Point x="26" y="2952"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="264" y="2988"/>
+	<Point x="552" y="2988"/>
+	<Point x="552" y="3024"/>
+	<Point x="264" y="3024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>229—232 RAVEN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="677" y="2977"/>
+	<Point x="1110" y="2977"/>
+	<Point x="1110" y="3020"/>
+	<Point x="782" y="3036"/>
+	<Point x="677" y="3020"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>233—236 CARRION CROW.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="caption">
+	<Coords>
+	<Point x="1204" y="2968"/>
+	<Point x="1630" y="2968"/>
+	<Point x="1630" y="3010"/>
+	<Point x="1230" y="3013"/>
+	<Point x="1204" y="3010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>237—240 HOODED CROW.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="caption">
+	<Coords>
+	<Point x="1755" y="2959"/>
+	<Point x="2028" y="2959"/>
+	<Point x="2028" y="2998"/>
+	<Point x="1871" y="3006"/>
+	<Point x="1755" y="2998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>241—244 ROOK.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="1032" y="130"/>
+	<Point x="1032" y="171"/>
+	<Point x="1137" y="171"/>
+	<Point x="1137" y="130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>��� ���</Unicode></TextEquiv></TextRegion></Page></PcGts>

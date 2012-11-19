@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669159">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T19:01:51</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669159.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="106" y="325"/>
+	<Point x="1520" y="325"/>
+	<Point x="1521" y="498"/>
+	<Point x="664" y="496"/>
+	<Point x="442" y="500"/>
+	<Point x="250" y="496"/>
+	<Point x="107" y="497"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Valentyn dit également de son n.° 47 et de
+son n.° 257 qu’ils sont très-bons à manger.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="99" y="500"/>
+	<Point x="225" y="501"/>
+	<Point x="424" y="506"/>
+	<Point x="666" y="501"/>
+	<Point x="1513" y="502"/>
+	<Point x="1511" y="1508"/>
+	<Point x="453" y="1510"/>
+	<Point x="100" y="1508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’Iser verken (Renard, I.re part., ﬁg. 40,
+copiée de Vlaming, n.° 189) a la forme du li-
+neatus dont il est peut-être une variété; il est
+enluminé de brun clair et a deux rubans verts,
+allant des ouïes obliquement vers la ﬁn de
+l’anale, et un troisième, descendant un peu plus
+directement à l’anus. Toutes ses nageoires sont
+d’un vert jaunâtre. Dans Vlaming il est brun
+foncé, avec les rubans bleus et les nageoires
+jaunes. Son proﬁl est légèrement convexe et
+descend rapidement; sa caudale est fourchue,
+à pointes peu alongées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="98" y="1808"/>
+	<Point x="1511" y="1808"/>
+	<Point x="1511" y="2238"/>
+	<Point x="98" y="2238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le chætodon sohal de Forskal1 (acanthu‐
+rus sohal et acanthurus carinatus, Bloch-
+Schneider2), que M. Ehrenberg vient de rap‐
+porter de la mer Rouge, est très-voisin de
+l’acanthure rayé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="161" y="2253"/>
+	<Point x="1508" y="2253"/>
+	<Point x="1508" y="2424"/>
+	<Point x="161" y="2424"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa forme générale est toute semblable, mais ses
+lignes ne sont pas disposées de même; on en voit</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="87" y="2485"/>
+	<Point x="1511" y="2485"/>
+	<Point x="1511" y="2708"/>
+	<Point x="87" y="2708"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Anim. arab., p. 63, n.° 89 — 2. P. 215 et 218. C’est
+par faute d’attention que cette espèce paraît deux fois dans cet
+ouvrage. Voyez la note, p. 39.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="470" y="1590"/>
+	<Point x="1138" y="1590"/>
+	<Point x="1138" y="1666"/>
+	<Point x="470" y="1666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE SOHAL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="465" y="1691"/>
+	<Point x="1152" y="1691"/>
+	<Point x="1152" y="1777"/>
+	<Point x="465" y="1777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus Sohal, Bl.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="header">
+	<Coords>
+	<Point x="513" y="228"/>
+	<Point x="1108" y="228"/>
+	<Point x="1108" y="304"/>
+	<Point x="513" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="page-number">
+	<Coords>
+	<Point x="1362" y="208"/>
+	<Point x="1516" y="208"/>
+	<Point x="1516" y="303"/>
+	<Point x="1362" y="303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>227</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="94" y="2442"/>
+	<Point x="1513" y="2442"/>
+	<Point x="1513" y="2477"/>
+	<Point x="94" y="2477"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667978">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T19:19:02</Created>
+	<LastChange>2012-02-10T09:52:28</LastChange></Metadata>
+	<Page imageFilename="00667978.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="147" y="197"/>
+	<Point x="1966" y="197"/>
+	<Point x="1966" y="2659"/>
+	<Point x="147" y="2659"/></Coords></ImageRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="2027" y="1087"/>
+	<Point x="2093" y="1087"/>
+	<Point x="2093" y="1781"/>
+	<Point x="2027" y="1781"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LESSER REDPOLL ♀ � �.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="caption">
+	<Coords>
+	<Point x="2102" y="1346"/>
+	<Point x="2140" y="1346"/>
+	<Point x="2140" y="1516"/>
+	<Point x="2102" y="1516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 77.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668714">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T13:58:25</Created>
+	<LastChange>2012-02-10T10:29:32</LastChange></Metadata>
+	<Page imageFilename="00668714.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r22" index="0"/>
+	<RegionRefIndexed regionRef="r24" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r26" index="9"/>
+	<RegionRefIndexed regionRef="r28" index="10"/>
+	<RegionRefIndexed regionRef="r30" index="11"/>
+	<RegionRefIndexed regionRef="r32" index="12"/>
+	<RegionRefIndexed regionRef="r15" index="13"/>
+	<RegionRefIndexed regionRef="r16" index="14"/>
+	<RegionRefIndexed regionRef="r17" index="15"/>
+	<RegionRefIndexed regionRef="r18" index="16"/>
+	<RegionRefIndexed regionRef="r34" index="17"/>
+	<RegionRefIndexed regionRef="r36" index="18"/>
+	<RegionRefIndexed regionRef="r20" index="19"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="399" y="335"/>
+	<Point x="1291" y="335"/>
+	<Point x="1291" y="436"/>
+	<Point x="399" y="436"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An interesting delicately ribbed shell, distinguished by
+its sharp acicular form.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="618" y="512"/>
+	<Point x="1076" y="512"/>
+	<Point x="1076" y="564"/>
+	<Point x="618" y="564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 115. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="403" y="581"/>
+	<Point x="1300" y="580"/>
+	<Point x="1300" y="866"/>
+	<Point x="397" y="866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA CALIFORNICA. Achat. testâ cylindraceo-elon-
+gatâ, anfractibus tredecim, obliquè creberrimè striatis,
+basin versus subangulato-planatis, ultimo basi acutè
+carinato, infra carinam peculiariter excavato, columellâ
+valdè arcuatâ, calloso-marginatâ, aperturâ parvâ, sub-
+quadratâ; cereo-albicante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="400" y="870"/>
+	<Point x="1294" y="870"/>
+	<Point x="1294" y="1201"/>
+	<Point x="400" y="1201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CALIFORNIAN ACHATINA. Shell cylindrically elon‐
+gated, whorls thirteen in number, obliquely very
+closely striated, rather angularly ﬂattened towards
+the base, last whorl sharply keeled at the base, pecu‐
+liarly excavated beneath the keel, columella very
+much arched, callous at the edge, aperture small,
+somewhat square; waxen white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="404" y="1203"/>
+	<Point x="956" y="1203"/>
+	<Point x="956" y="1250"/>
+	<Point x="404" y="1250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Symbolæ, vol. iii. p. 89.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="401" y="1253"/>
+	<Point x="826" y="1253"/>
+	<Point x="826" y="1297"/>
+	<Point x="401" y="1297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Monterey, California.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="1555" y="751"/>
+	<Point x="2015" y="751"/>
+	<Point x="2015" y="803"/>
+	<Point x="1555" y="803"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 118. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1343" y="817"/>
+	<Point x="2245" y="817"/>
+	<Point x="2245" y="1008"/>
+	<Point x="1343" y="1008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA SUTURALIS. Achat. testâ oblongo-ovatâ, spirâ
+breviusculâ, conicâ, suturis impressis, anfractibus quin-
+que, convexis, lœvibus, politis, columellâ subrectâ, trun-
+catâ; corneâ, solidiusculâ, pellucidâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1340" y="1010"/>
+	<Point x="2241" y="1010"/>
+	<Point x="2241" y="1202"/>
+	<Point x="1910" y="1200"/>
+	<Point x="1340" y="1202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SUTURAL ACHATINA. Shell oblong-ovate, spire
+rather short, conical, sutures impressed, whorls ﬁve
+in number, convex, smooth, polished, columella nearly
+straight, truncated; horny, rather solid, transparent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1341" y="1205"/>
+	<Point x="1908" y="1204"/>
+	<Point x="2240" y="1204"/>
+	<Point x="2240" y="1293"/>
+	<Point x="1341" y="1299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Polyphemus suturalis, Pfeiﬀer, in Wiegman Archiv. 1839,
+p. 353.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1345" y="1405"/>
+	<Point x="2246" y="1405"/>
+	<Point x="2246" y="1510"/>
+	<Point x="1345" y="1510"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An oblong transparent polished shell, belonging to the
+group Glandina of Dr. Philippi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1117" y="127"/>
+	<Point x="1555" y="127"/>
+	<Point x="1555" y="177"/>
+	<Point x="1117" y="177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.—PLATE XX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="389" y="224"/>
+	<Point x="1034" y="224"/>
+	<Point x="1034" y="271"/>
+	<Point x="389" y="271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc. 1845, p. 138.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="400" y="275"/>
+	<Point x="756" y="275"/>
+	<Point x="756" y="319"/>
+	<Point x="400" y="319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Jamaica; Gosse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="392" y="1315"/>
+	<Point x="1298" y="1315"/>
+	<Point x="1298" y="1453"/>
+	<Point x="392" y="1453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This very remarkable species is mainly distinguished
+by the excavated and keeled growth of each whorl at the
+base.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="heading">
+	<Coords>
+	<Point x="1580" y="217"/>
+	<Point x="1995" y="217"/>
+	<Point x="1995" y="275"/>
+	<Point x="1580" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 116. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1341" y="285"/>
+	<Point x="2241" y="285"/>
+	<Point x="2241" y="434"/>
+	<Point x="1341" y="434"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA ACCINCTA. Already described and ﬁgured
+from a lighter specimen in the preceding plate, Sp. 101.
+For Sp. 116, see Pl. XXIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="heading">
+	<Coords>
+	<Point x="1561" y="509"/>
+	<Point x="2001" y="509"/>
+	<Point x="2001" y="559"/>
+	<Point x="1561" y="559"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 117. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1340" y="567"/>
+	<Point x="2237" y="567"/>
+	<Point x="2237" y="674"/>
+	<Point x="1340" y="674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA LUBRICA. Referred to the genus Bulimus,
+Sp. 645. For Sp. 117, see Pl. XXIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="1427" y="1302"/>
+	<Point x="1860" y="1300"/>
+	<Point x="1861" y="1344"/>
+	<Point x="1830" y="1346"/>
+	<Point x="1426" y="1342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Glandina suturalis, Philippi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="1349" y="1348"/>
+	<Point x="1532" y="1349"/>
+	<Point x="1534" y="1351"/>
+	<Point x="1534" y="1391"/>
+	<Point x="1348" y="1391"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Cuba.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r37">
+	<Coords>
+	<Point x="617" y="458"/>
+	<Point x="1078" y="458"/>
+	<Point x="1078" y="478"/>
+	<Point x="617" y="478"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r38">
+	<Coords>
+	<Point x="615" y="1491"/>
+	<Point x="1077" y="1491"/>
+	<Point x="1077" y="1508"/>
+	<Point x="615" y="1508"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r39">
+	<Coords>
+	<Point x="1306" y="236"/>
+	<Point x="1328" y="238"/>
+	<Point x="1336" y="1512"/>
+	<Point x="1306" y="1512"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r40">
+	<Coords>
+	<Point x="1557" y="459"/>
+	<Point x="2026" y="459"/>
+	<Point x="2026" y="481"/>
+	<Point x="1557" y="481"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r41">
+	<Coords>
+	<Point x="1082" y="1717"/>
+	<Point x="1553" y="1717"/>
+	<Point x="1553" y="1746"/>
+	<Point x="1082" y="1746"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r42">
+	<Coords>
+	<Point x="1562" y="703"/>
+	<Point x="2028" y="703"/>
+	<Point x="2028" y="727"/>
+	<Point x="1562" y="727"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672607">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:34:51</Created>
+	<LastChange>2012-02-10T09:55:20</LastChange></Metadata>
+	<Page imageFilename="00672607.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="769" y="164"/>
+	<Point x="1080" y="164"/>
+	<Point x="1080" y="250"/>
+	<Point x="769" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 411 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="59" y="297"/>
+	<Point x="1788" y="297"/>
+	<Point x="1788" y="461"/>
+	<Point x="59" y="461"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>appartient à la forme Eris, alors que les ♀♀ sont souvent
+munies de taches argentées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="54" y="466"/>
+	<Point x="1797" y="466"/>
+	<Point x="1797" y="880"/>
+	<Point x="54" y="880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le dessus des ♂♂ de la v. Orientalis, est d'un fauve plus
+clair et en même temps plus rouge que chez nos individus
+Européens, avec le dessin plus faiblement marqué: c. à d.
+que les raies et les points noirs sont plus petits, les submar-
+ginaux surtout, etant réduits très considérablement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="73" y="883"/>
+	<Point x="1800" y="883"/>
+	<Point x="1800" y="1042"/>
+	<Point x="73" y="1042"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parcontre, le limbe externe me parait être, sinon plus,
+tout aussi large que chez les individus d'Europe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="76" y="1047"/>
+	<Point x="1807" y="1047"/>
+	<Point x="1807" y="1290"/>
+	<Point x="76" y="1290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quelques ♂♂ ont les ailes, comme c'est souvent le cas
+chez les Argynnis, saturées d'un rouge brique, beaucoup plus
+foncé que chez d'autres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="64" y="1300"/>
+	<Point x="1797" y="1300"/>
+	<Point x="1797" y="1542"/>
+	<Point x="64" y="1542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ♀ qui est d'un fauve moins rougeâtre que les ♂♂, et
+qui est en même temps plus nettement dessinée, (c. à d. a
+les points noirs plus forts que les ♂♂), diﬀère moins du type.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="71" y="1547"/>
+	<Point x="1800" y="1547"/>
+	<Point x="1800" y="1709"/>
+	<Point x="71" y="1709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Niobe v. Orientalis possédent aussi l'ab. Pelopia Bkh.;
+du moins en ai-je pris un fort beau ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="83" y="1714"/>
+	<Point x="1809" y="1714"/>
+	<Point x="1809" y="1873"/>
+	<Point x="83" y="1873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette Argynnis volait fort communément dans les mon-
+tagnes entre 3500 et 8000´ d'élévation, durant tout l'été.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="69" y="1880"/>
+	<Point x="1811" y="1880"/>
+	<Point x="1811" y="2307"/>
+	<Point x="69" y="2307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Dr. Staudinger possède cette forme de diﬀérentes
+localités orientales, et feu Lederer l'avait en collection, sous
+le nom de v. Orientalis Ld. J'ai cru bon de décrire cette
+variété, en lui conservant le nom proposé par ce dernier lé-
+pidoptériste.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="585" y="2426"/>
+	<Point x="1280" y="2426"/>
+	<Point x="1280" y="2528"/>
+	<Point x="585" y="2528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>80. A. Adippe L. var.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="78" y="2602"/>
+	<Point x="1804" y="2602"/>
+	<Point x="1804" y="3111"/>
+	<Point x="78" y="3111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deux ♂♂, en Juillet, sur le Jouldousse, (8000´) et une ♀,
+en Août, près de Charkhodé, (3500´), appartiennent à une
+forme intermédiaire entre le type et la v. Chlorodippe H. S.
+Un peu moins verts, en dessous, que les vrais Chlorodippe,
+mes exemplaires en diﬀèrent cependant moins que de l'Adippe
+typique.</Unicode></TextEquiv></TextRegion></Page></PcGts>

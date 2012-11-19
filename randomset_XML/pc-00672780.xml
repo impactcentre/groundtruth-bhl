@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672780">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:38:07</Created>
+	<LastChange>2012-02-10T10:29:48</LastChange></Metadata>
+	<Page imageFilename="00672780.tif" imageWidth="2358" imageHeight="3666">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="692" y="773"/>
+	<Point x="1607" y="773"/>
+	<Point x="1607" y="865"/>
+	<Point x="692" y="865"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPTER XI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="522" y="924"/>
+	<Point x="1768" y="924"/>
+	<Point x="1768" y="1000"/>
+	<Point x="522" y="1000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE IVY FOR DECORATIVE PURPOSES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="119" y="1028"/>
+	<Point x="2176" y="1028"/>
+	<Point x="2176" y="1513"/>
+	<Point x="119" y="1513"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Ivy might be called the poor man's vine, for, like the Wilson Strawberry,
+it will grow for almost every one. It is the easiest of all the vines for indoor
+use, both in growing and for training, and not a little of its merits as a favorite
+window plant are its permanency, for it will live long in one pot without change
+of soil or position. It accommodates itself to all temperatures save that below
+freezing, and when in full growth it adds more grace to the window than any
+plant yet used.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="116" y="1519"/>
+	<Point x="2173" y="1519"/>
+	<Point x="2173" y="1722"/>
+	<Point x="116" y="1722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The English Ivy (IIedera helix) is what is styled a rooted climber, as from
+every little joint roots will spring out and take hold of any support. This is
+one great advantage of value over other climbing vines which must be trained.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="114" y="1726"/>
+	<Point x="2176" y="1726"/>
+	<Point x="2176" y="2619"/>
+	<Point x="114" y="2619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is hardly adapted to our severe wintry climate, and will not live out of
+doors unless covered with straw. This renders its use for windows a necessity,
+and who that has ever gazed upon its glossy green leaves, drooping with long
+garlands of graceful verdure, but has felt it well deserved to be named the most
+beautiful of all drawing-room plant decorations. A writer speaks of the aﬀec-
+tion with which it is esteemed in German houses: " It becomes as one of the
+family. Sometimes the whole side of a parlor is covered with it, and twining
+around over picture frames, or looped about brackets, drooped over statuettes,
+the portraits of father, mother, and cherished friend, look forth smiling from
+the leafy environment. Small articles of vertu gleam here and there, touched
+with it, framed about mirrors or doors, each heart-shaped dark evergreen leaf,
+instinct with loveliness, adds to them all increased beauty. Wherever it goes it
+makes a green, perpetual summer of indoor life."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="116" y="2623"/>
+	<Point x="2173" y="2623"/>
+	<Point x="2173" y="3160"/>
+	<Point x="116" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Another writer, viewing it in a poetic view, says: "A single root has been
+known to wreathe a bow window with thick garlands, and then strike oﬀ into
+lovely, independent paths along picture cords and above cornices, till the room
+seemed all a-bud, like Aaron's rod. It will cover a screen of wire, curtain a
+curtainless window, festoon a pillar, frame a favorite picture, (and what more
+graceful or delicate frame could be desired ?) arch a door, climb and twist about
+a window-sill, and swing in long-looped tendrils from a bracket. There is no
+end to its beautiful uses.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="115" y="3165"/>
+	<Point x="2176" y="3165"/>
+	<Point x="2176" y="3446"/>
+	<Point x="115" y="3446"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>" Tickle it with a little guano, and how it frolics. Nip oﬀ the terminal shoots,
+and lo, two bright, persistent tendrils shoot forth, and curl and twine about your
+very ﬁngers. Wash its dusty leaves, and no child could look more gratefully in
+your face. It harbors no vermin, encourages no blight, but steadily and sweetly</Unicode></TextEquiv></TextRegion></Page></PcGts>

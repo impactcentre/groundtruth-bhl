@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669196">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:36:28</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669196.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="289" y="151"/>
+	<Point x="451" y="151"/>
+	<Point x="451" y="235"/>
+	<Point x="289" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>264</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="730" y="170"/>
+	<Point x="1260" y="170"/>
+	<Point x="1260" y="244"/>
+	<Point x="730" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="344" y="267"/>
+	<Point x="1712" y="267"/>
+	<Point x="1714" y="2215"/>
+	<Point x="346" y="2215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>premier est chagriné comme le corps, et plus gros
+et surtout plus large à sa base que les suivans. On
+compte ensuite vingt-huit rayons mous. La mem‐
+brane de cette nageoire est mince et sans aucunes
+écailles. L’anus est entre les deux ventrales, qui le
+cachent en se rapprochant; l’anale commence entre
+leurs pointes et à peu près sous la sixième épine du
+dos; elle a deux rayons épineux, dont le premier
+est gros et chagriné, et vingt-six ou vingt-sept
+rayons mous; sa hauteur est un peu moindre que
+celle de la dorsale, mais sa membrane est semblable.
+Le bout de queue entre ces deux nageoires et la cau‐
+dale est du septième de la longueur de l’ovale, et trois
+fois moins gros. Cette partie est armée de chaque
+côté de deux boucliers osseux ovales, sur chacun
+desquels s’élève une lame tranchante triangulaire,
+dont le bord postérieur est le plus long et un peu
+convexe, et l’antérieur légèrement concave, de sorte
+que la pointe est faiblement dirigée en avant. Leur
+surface est ﬁnement striée, et elles sont immobiles.
+La caudale, sans ses pointes, a le neuvième de la
+longueur totale; son bord est très-légèrement con‐
+cave, et chacun de ses angles se prolonge en un
+ﬁlet plus long qu’elle, qui se termine en pointe aiguë.
+Elle a seize rayons entiers, et c’est le deuxième et le
+troisième de chaque côté qui forment le ﬁlet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="530" y="2218"/>
+	<Point x="1548" y="2218"/>
+	<Point x="1548" y="2286"/>
+	<Point x="530" y="2286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 4; D. 6/28; A. 2/27; C. 16; P. 17; V. 1/3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="346" y="2291"/>
+	<Point x="1717" y="2289"/>
+	<Point x="1716" y="2614"/>
+	<Point x="348" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout ce poisson est couvert d’écaillés très-petites,
+très-serrées, constituant une âpreté ﬁne, qui ne se
+fait sentir que lorsqu’on dirige la main vers la tête.
+A la loupe on voit que chaque écaille est ronde et a</Unicode></TextEquiv></TextRegion></Page></PcGts>

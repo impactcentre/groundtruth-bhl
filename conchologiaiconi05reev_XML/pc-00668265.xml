@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668265">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T07:21:24</Created>
+	<LastChange>2012-02-10T09:52:48</LastChange></Metadata>
+	<Page imageFilename="00668265.tif" imageWidth="2526" imageHeight="3172">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r17" index="4"/>
+	<RegionRefIndexed regionRef="r19" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r37" index="8"/>
+	<RegionRefIndexed regionRef="r39" index="9"/>
+	<RegionRefIndexed regionRef="r25" index="10"/>
+	<RegionRefIndexed regionRef="r29" index="11"/>
+	<RegionRefIndexed regionRef="r33" index="12"/>
+	<RegionRefIndexed regionRef="r35" index="13"/>
+	<RegionRefIndexed regionRef="r21" index="14"/>
+	<RegionRefIndexed regionRef="r23" index="15"/>
+	<RegionRefIndexed regionRef="r13" index="16"/>
+	<RegionRefIndexed regionRef="r14" index="17"/>
+	<RegionRefIndexed regionRef="r15" index="18"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="303" y="280"/>
+	<Point x="1207" y="280"/>
+	<Point x="1207" y="1489"/>
+	<Point x="303" y="1489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>recently discovered by Mr. Adams, of H.M.S. Samarang,
+by the accidental falling of a huge tree, in a woody islet
+situated between Banguey and Balambangan, but they
+are of rare occurrence in that locality. In Europe, where
+nature is exposed to the vicissitudes of a colder climate,
+the Bulimi are mostly small and exhibit no brilliancy of
+colour. So also, in the extensive region of North America,
+where no more than a few insigniﬁcant species are known
+to exist. It is in the richly fertile and woody district of
+Columbia, that the genus Bulimus is represented with a
+magniﬁcence little inferior to that of the Philippine
+Islands; here they are large enough and suﬃciently
+abundant to be roasted and eaten by the aborigines as a
+frequent article of food. Several ﬁne species, entirely
+new to science, have been collected in Venezuela and
+New Granada by Mr. Linden, an assiduous Botanical
+Traveller, only within the last twelvemonth, at an altitude
+of from 5000 to 8000 feet, and many more, no doubt,
+dwell in undisturbed solitude in the vast interior of this
+immense continent. It is extremely probable that a large
+portion of South America yet remains to be explored by
+the adventurous naturalist, where there is no doubt a ﬁne
+expanse of forest country, grand in extent, rich in foliage,
+and possessing all the elements favourable to the growth
+and beauty of arboreal mollusks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="548" y="1576"/>
+	<Point x="974" y="1576"/>
+	<Point x="974" y="1628"/>
+	<Point x="548" y="1628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 1. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="319" y="1644"/>
+	<Point x="1216" y="1644"/>
+	<Point x="1216" y="1933"/>
+	<Point x="319" y="1933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS MACROSTOMA. Bul. testâ ovali, ventricosâ,
+spirâ subabbreviatâ, anfractibus senis, convexo-tumidis,
+concentricè striatis, columellâ basi subcontortâ; pur-
+pureo-fuscâ, epidermide hydrophanâ, in anfractu ultimo
+unizonatâ, indutâ; aperturâ crulescente-albâ, labro
+reﬂexo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="316" y="1937"/>
+	<Point x="1219" y="1937"/>
+	<Point x="1219" y="2262"/>
+	<Point x="316" y="2262"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WIDE-MOUTH BULIMUS. Shell oval, ventricose,
+spire slightly abbreviated, whorls six in number,
+convexly tumid, concentrically striated, columella
+slightly twisted at the base, purple-brown, covered
+with a hydrophauous epidermis, marked with a single
+zone on the last whorl; aperture blueish white, lip
+reﬂected.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="316" y="2435"/>
+	<Point x="1221" y="2435"/>
+	<Point x="1221" y="2682"/>
+	<Point x="316" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This species approaches the B. rufogaster, it partakes
+of the same shades of colour, and the epidermis is charac-
+terised by a similar zone round the last whorl; it does not
+however exhibit the vacant patches beneath the sutures.
+The columella of B. macrostoma is slightly twisted, and</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1242" y="273"/>
+	<Point x="2141" y="273"/>
+	<Point x="2141" y="380"/>
+	<Point x="1242" y="380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>the general form of the shell is eminently distinguished
+by its swollen egg-shaped growth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1257" y="2248"/>
+	<Point x="2153" y="2245"/>
+	<Point x="2153" y="2532"/>
+	<Point x="1257" y="2532"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WOODEN BULIMUS. Shell ovately conoid, very ven-
+tricose, whorls six in number, tumidly convex; colu-
+mella straight; purple-black, epidermis marked with
+bands or lines on the last and sometimes the penul-
+timate whorl; aperture blueish-white, columella livid
+purple.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1264" y="2536"/>
+	<Point x="1778" y="2535"/>
+	<Point x="1780" y="2575"/>
+	<Point x="1266" y="2577"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc., 1842.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1264" y="2582"/>
+	<Point x="2153" y="2582"/>
+	<Point x="2153" y="2683"/>
+	<Point x="1264" y="2683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Gattarang, Province of Cagayan, Island of Luzon,
+Philippines (on leaves of trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="321" y="2269"/>
+	<Point x="963" y="2267"/>
+	<Point x="963" y="2317"/>
+	<Point x="321" y="2315"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc., 1842, p. 152.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="319" y="2320"/>
+	<Point x="1214" y="2320"/>
+	<Point x="1217" y="2417"/>
+	<Point x="319" y="2417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Sual, Province of Pangasinan, Island of Luzon,
+Philippines (on leaves of trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="heading">
+	<Coords>
+	<Point x="1476" y="1899"/>
+	<Point x="1926" y="1899"/>
+	<Point x="1926" y="1952"/>
+	<Point x="1476" y="1952"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 3. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1256" y="1957"/>
+	<Point x="2153" y="1956"/>
+	<Point x="2153" y="2241"/>
+	<Point x="1256" y="2245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS LIGNARIUS. Bul. testâ ovato-conoideâ, ventri-
+cosissimâ, anfractibus senis, tumido-convexis; colu‐
+mellâ rectâ; purpureo-nigricante, epidermide lineis
+fasciisque in anfractu, ultimo, et interdum penultimo,
+notatâ; aperturâ crulescente-albâ, columellâ livido-
+purpurascente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1248" y="796"/>
+	<Point x="2150" y="796"/>
+	<Point x="2149" y="1082"/>
+	<Point x="1250" y="1084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ORIENTAL BULIMUS. Shell somewhat pyramidally
+ovate, whorls six in number, ﬂatly convex, the last
+ventricose, columella straight; purple-black, epider‐
+mis sometimes simple, sometimes arranged in longi-
+tudinal streaks, aperture blueish white, columella
+pinkish purple.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1246" y="1086"/>
+	<Point x="2089" y="1087"/>
+	<Point x="2088" y="1133"/>
+	<Point x="1246" y="1129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FERUSSAC, Lamarck, Anim. sans vert. vol.viii. p. 226.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="1248" y="1133"/>
+	<Point x="2150" y="1136"/>
+	<Point x="2150" y="1231"/>
+	<Point x="1246" y="1231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Fig. a, Island of Ticao; Fig. b, Mount Isarog, Island
+of Luzon, Philippines (on leaves of trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="1249" y="1237"/>
+	<Point x="2155" y="1237"/>
+	<Point x="2155" y="1821"/>
+	<Point x="1248" y="1821"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The examples of B. pythogaster selected for representation
+vary so materially in form, as well as in the arrangement of
+the epidermis, that one might consider them to belong to
+distinct species, were it not for the similarity in the struc-
+ture and colouring of the aperture. In the specimen from
+Ticao, Fig. a, the shell is broader and more acutely ven-
+tricose at the base, and the epidermis is arranged in
+longitudinal streaks; in that from Luzon, Fig. b, the base
+is somewhat contracted, imparting a more pyramidal form
+to the shell, the apex is dark purple, and the epidermis is
+soft and velvety, uniformly distributed throughout without
+any description of pattern.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1033" y="187"/>
+	<Point x="1410" y="187"/>
+	<Point x="1410" y="235"/>
+	<Point x="1033" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords>
+	<Point x="1373" y="449"/>
+	<Point x="2016" y="449"/>
+	<Point x="2016" y="504"/>
+	<Point x="1373" y="504"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 2. (Fig. a and b. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="1249" y="510"/>
+	<Point x="2146" y="510"/>
+	<Point x="2146" y="789"/>
+	<Point x="1249" y="789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS PYTHOGASTER. Bul. testâ subpyramidali-ovatâ,
+anfractibus senis, plano-convexis, ultimo ventricoso,
+columellâ rectâ; purpureo-nigricante, epidermide in-
+terdum simplici, interdum longitudinaliter strigatâ,
+aperturâ crulescente-albâ, columellâ rosaceo-purpu-
+rascente.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r40">
+	<Coords>
+	<Point x="1212" y="285"/>
+	<Point x="1232" y="2678"/>
+	<Point x="1254" y="2678"/>
+	<Point x="1243" y="1832"/>
+	<Point x="1235" y="285"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r41">
+	<Coords>
+	<Point x="1464" y="396"/>
+	<Point x="1464" y="429"/>
+	<Point x="1936" y="429"/>
+	<Point x="1936" y="396"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r38">
+	<Coords>
+	<Point x="1476" y="1848"/>
+	<Point x="1476" y="1867"/>
+	<Point x="1932" y="1867"/>
+	<Point x="1932" y="1848"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r42">
+	<Coords>
+	<Point x="559" y="1522"/>
+	<Point x="559" y="1535"/>
+	<Point x="996" y="1535"/>
+	<Point x="996" y="1522"/></Coords></SeparatorRegion></Page></PcGts>

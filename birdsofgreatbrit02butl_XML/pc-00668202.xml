@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668202">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:14:04</Created>
+	<LastChange>2012-02-10T09:52:43</LastChange></Metadata>
+	<Page imageFilename="00668202.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="966" y="218"/>
+	<Point x="1388" y="218"/>
+	<Point x="1388" y="275"/>
+	<Point x="966" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WOOD-LARK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="235" y="340"/>
+	<Point x="2109" y="340"/>
+	<Point x="2109" y="465"/>
+	<Point x="235" y="465"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The food of this bird is exactly similar to that of the Sky-Lark, consisting
+chieﬂy of insects in summer, and seeds in winter.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="232" y="470"/>
+	<Point x="2110" y="470"/>
+	<Point x="2110" y="1587"/>
+	<Point x="520" y="1589"/>
+	<Point x="232" y="1587"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Wood-Lark's song is very pure and melodious and by many it is con-
+sidered only second to that of the Nightingale, but it certainly is not so full
+of variety as the song of that bird; nevertheless it has the merit of being
+persevered in throughout the year, excepting during the moulting season; it
+is usually commenced, and sometimes completed, from the branch of a tree;
+but more frequently the tree only represents the point at which the ﬂight-song
+begins: the last time that I heard the ﬂute-like music of this bird at liberty, I was
+down at Dover with my old friend Dr. John Grayling, of Sittingbourne; we were
+approaching a wood when, from a tree at the side of the road, we heard the
+delightful song of a Wood-Lark; looking up we soon espied him on a branch
+and were able to identify him without diﬃculty by his short tail and prominent
+eye-streak. Presently he soared away, rising at ﬁrst obliquely and then gradually
+swinging round, still singing, and rising until he had reached the height of his
+ambition, when with wide spiral curves he descended to the earth. The Wood-
+Lark is said sometimes to sing throughout the night, and it certainly does sing
+well into the “gloaming,” which has led rustics at times to confound it with the
+Nightingale; but, by careless observers, it is much more generally confused with
+the Tree-Pipit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="230" y="1596"/>
+	<Point x="2115" y="1596"/>
+	<Point x="2115" y="1777"/>
+	<Point x="230" y="1777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Although this bird sometimes soars quite as high as the Sky-Lark this is
+not its general habit; moreover it ﬂies more in circles and descends to the
+earth in a wide spiral, instead of obliquely or by jerky drops.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="222" y="1782"/>
+	<Point x="2120" y="1782"/>
+	<Point x="2120" y="2722"/>
+	<Point x="222" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>As a cage-bird, the Wood-Lark is a great favourite, and I have possessed
+two adult specimens. On one occasion when driving through a country
+road in Kent, with woods on either side, a young bird was seen scampering
+and leaping to get out of our way. The driver pulled up and succeeded in
+catching it for me; but although it soon fed itself and to repletion, it quickly
+got cramp and died. Later on, in June 1887, my son and I caught sight of
+a slightly older example of this species in a somewhat similar situation and
+exerted ourselves to catch it, but it made for a tall hawthorn hedge, up which
+it escaped with such rapidity, that before we could come up with it, the bird
+was out of our reach. About September, 1894, I was beautifully taken in by an
+unprincipled bird-catcher: he had told me of a lovely Wood-Lark which he had,
+and which he described as singing splendidly. One dark night he knocked at my
+front door and told me he had brought this bird, which I could have for three
+shillings. I put my hand through the opening at the top of the cage, and took
+the bird out; it had a short tail, but (even in the dark) looked somewhat uncanny;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="242" y="229"/>
+	<Point x="346" y="229"/>
+	<Point x="346" y="283"/>
+	<Point x="242" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>190</Unicode></TextEquiv></TextRegion></Page></PcGts>

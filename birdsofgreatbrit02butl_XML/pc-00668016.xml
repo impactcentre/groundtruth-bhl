@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668016">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T04:23:01</Created>
+	<LastChange>2012-02-10T09:52:31</LastChange></Metadata>
+	<Page imageFilename="00668016.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="266" y="214"/>
+	<Point x="355" y="214"/>
+	<Point x="355" y="293"/>
+	<Point x="266" y="293"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>96</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="947" y="200"/>
+	<Point x="1456" y="200"/>
+	<Point x="1456" y="272"/>
+	<Point x="947" y="272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TREE-SPARROW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="253" y="315"/>
+	<Point x="2137" y="321"/>
+	<Point x="2136" y="643"/>
+	<Point x="253" y="648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>to the sky, were deepest in colouring; the nest containing an almost white egg
+was from the ruined lime-kiln, and was almost as much in the dark as if it had
+been taken from a Sand-Martin's burrow. Lord Lilford's eggs being taken from
+holes in full-sized trees, and not from the tops of pollards, were probably but little
+exposed to light.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="254" y="651"/>
+	<Point x="2142" y="648"/>
+	<Point x="2140" y="893"/>
+	<Point x="256" y="897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Tree-Sparrow is a more active sprightly bird than its commoner relative;
+and, although it can hardly be said to have a song,* its chirruping is somewhat
+more melodious, its chirp is sharper, and the indignant utterance of a recently
+captured bird is shriller.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="256" y="903"/>
+	<Point x="2145" y="903"/>
+	<Point x="2151" y="1266"/>
+	<Point x="257" y="1271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Although the Tree-Sparrow does not breed so continuously as the House-
+Sparrow, which in mild seasons appears to rear family after family throughout the
+greater part of the year, there is no doubt that it frequently produces three broods
+in a season. When feeding its young it eats caterpillars, spiders, and various
+kinds of insects, as well as leaves and unripe seeds of weeds; but at other times
+it appears to conﬁne its attentions principally to diﬀerent kinds of seeds.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="256" y="1276"/>
+	<Point x="2148" y="1274"/>
+	<Point x="2154" y="1965"/>
+	<Point x="256" y="1965"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On several occasions bird-catchers have oﬀered me Tree-Sparrows at from
+twopence to threepence apiece; but the birds looked so vindictive and chirped so
+savagely that, considering their powerful beaks, I decided not to risk associating
+them with the other members of my feathered family. Although opinions diﬀer
+greatly respecting the character of this species, I am satisﬁed that I adopted the
+safest course. Stevenson (Birds of Norfolk, Vol. I, p. 209) says:—“In conﬁnement
+the Tree-Sparrows are certainly the shyest and most untameable of any birds I
+have ever introduced into my aviary, and even time seems to work but little change
+in their wild nature, as on the approach of any person, whether a stranger or not,
+they dash about the cage in a reckless manner, and when exhausted and panting
+with fright, will creep into any corner or dark spot to escape notice.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="256" y="1969"/>
+	<Point x="2155" y="1969"/>
+	<Point x="2162" y="2087"/>
+	<Point x="256" y="2087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lord Lilford observes:—“In captivity the Tree-Sparrow thrives well upon
+canary- and millet-seed, and becomes very tame.”†</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="252" y="2091"/>
+	<Point x="2158" y="2090"/>
+	<Point x="2159" y="2330"/>
+	<Point x="1027" y="2338"/>
+	<Point x="251" y="2338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Swaysland, who has had considerable experience in keeping many of our
+British Birds, remarks:—“When caught do not place immediately in an aviary, as
+they would then invariably sulk and behave wildly, frightening the other birds,
+but rather keep in a small cage until tame.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="379" y="2340"/>
+	<Point x="2144" y="2340"/>
+	<Point x="2142" y="2367"/>
+	<Point x="2144" y="2406"/>
+	<Point x="380" y="2407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Howard Saunders (Manual, p. 174) says:—“In captivity this species has bred</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="262" y="2450"/>
+	<Point x="2134" y="2444"/>
+	<Point x="2131" y="2648"/>
+	<Point x="260" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* The late Rev. H. A Macpherson assured me that the Tree-Sparrow has a very sweet song; a fact
+vouched for independently by Mr. J. Whitaker and the late Edward Blyth. In 1906 a friend (Mr. Allen Silver)
+gave me a pair, and I have been looking forward ever since to the pleasure of hearing this ”sweet song,”
+but up to the present time only an ordinary sharp chirp has been uttered: I ﬁnd them, as Stevenson did,
+exceedingly wild and tempestuous birds.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="footnote">
+	<Coords>
+	<Point x="387" y="2661"/>
+	<Point x="1020" y="2661"/>
+	<Point x="1020" y="2719"/>
+	<Point x="387" y="2719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>† I should certainly add oats.—A.G.B.</Unicode></TextEquiv></TextRegion></Page></PcGts>

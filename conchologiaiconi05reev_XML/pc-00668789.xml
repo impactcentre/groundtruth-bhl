@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668789">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T03:39:51</Created>
+	<LastChange>2012-02-10T10:29:37</LastChange></Metadata>
+	<Page imageFilename="00668789.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r19" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r33" index="13"/>
+	<RegionRefIndexed regionRef="r15" index="14"/>
+	<RegionRefIndexed regionRef="r16" index="15"/>
+	<RegionRefIndexed regionRef="r17" index="16"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1174" y="223"/>
+	<Point x="1489" y="223"/>
+	<Point x="1489" y="282"/>
+	<Point x="1174" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1251" y="320"/>
+	<Point x="1422" y="320"/>
+	<Point x="1422" y="365"/>
+	<Point x="1251" y="365"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="423" y="407"/>
+	<Point x="1316" y="407"/>
+	<Point x="1315" y="463"/>
+	<Point x="426" y="461"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 13. (Fig. a, Mus. Saul; Fig. b and c, Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="414" y="468"/>
+	<Point x="1317" y="468"/>
+	<Point x="1317" y="1084"/>
+	<Point x="414" y="1084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS TENUIS. Cass. testâ ovato-oblongâ, cylindraceâ,
+Cyprœœformi, tenuiculâ, spirâ brevissimâ, anfractibus
+lœvibus, transversim regulariter sulcatis, sulcis binis,
+interstitiis longitudinaliter obtusè liratis, tuberculorum
+seriebus quatuor armatis; columellâ vix concavâ, su‐
+pernè: et infernè rugatâ, labro externa peculiariter
+reﬂexo, fortiter dentato-lirato, liris binis; aperturâ
+elongatâ, extremitatibus ambabus canaliculatis; pur-
+pureo-fuscâ, livido-cœruleo nebulatâ, sulcis lirisque dor-
+salibus cœruleo-albidis, columellâ purpureo-nigrâ, rugis
+albis, labro columellari basin versus rufo vividè tinctâ,
+areâ pone labrum externum purpureo-nigro conspicuè
+maculatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="429" y="1089"/>
+	<Point x="1318" y="1089"/>
+	<Point x="1318" y="1664"/>
+	<Point x="429" y="1664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE THIN CASSIS. Shell ovately-oblong, cylindrical,
+Cowry-shaped, rather thin, spire very short, whorls
+smooth, transversely regularly grooved, grooves two
+and two, interstices longitudinally obtusely ridged,
+armed with four rows of tubercles; columella slightly
+concave, wrinkled above and below, outer lip pecu‐
+liarly reﬂected, strongly dentately ridged, ridges in
+pairs, aperture elongated, both extremities channelled;
+purple-brown, clouded with livid blue, dorsal grooves
+and ridges white, columella stained towards the base
+with bright red, area behind the outer lip conspi‐
+cuously blotched with purple-black.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="427" y="1759"/>
+	<Point x="1319" y="1759"/>
+	<Point x="1319" y="1859"/>
+	<Point x="427" y="1859"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Gallapagos Islands (in sandy mud at the depth of
+six fathoms); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="417" y="1867"/>
+	<Point x="1322" y="1867"/>
+	<Point x="1322" y="2186"/>
+	<Point x="417" y="2186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Deshayes in his notice of this species likens it to the
+C. testiculus; the accompanying ﬁgure of a mature specimen
+shows, however, that it is much more nearly allied to the
+C. rufa. In its most advanced stage of growth the shell
+is comparatively thin, the lip being curled back without
+any great deposit of enamel; the general form is more</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1353" y="406"/>
+	<Point x="2260" y="406"/>
+	<Point x="2260" y="515"/>
+	<Point x="1355" y="509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cylindrically oblong than that of C. rufa, and the aperture-
+is wider. The colour and marking are extremely pretty.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1353" y="513"/>
+	<Point x="2248" y="519"/>
+	<Point x="2249" y="754"/>
+	<Point x="1353" y="751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The C. tenuis, of which a very small but accurate ﬁgure
+was published by Mr. Wood in his supplement to the
+‘Index Testaceologicus,’ has been very generally mistaken
+by English collectors for Lamarck’s C. pennata, which
+is merely the young of C. rufa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="1608" y="831"/>
+	<Point x="1990" y="831"/>
+	<Point x="1990" y="882"/>
+	<Point x="1608" y="882"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 14. (Mus. Saul.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1359" y="895"/>
+	<Point x="2244" y="895"/>
+	<Point x="2244" y="1292"/>
+	<Point x="1357" y="1286"/>
+	<Point x="1357" y="1283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS COARCTATA. Cass, testâ cylindraceo-ovatâ, cras-
+siusculâ, spirâ brevi, anfractibus evaricosis, transversim
+tenuissimè striatis, costis nodulosis cingulatis, quarum
+quatuor cœteris majoribus; columellâ breviplicatâ et
+obliquè subtiliter rugatâ, labro intus dentato-lirato,
+supernè coarctato, non reﬂexo, aperturâ elongatâ, an-
+gustâ; cinereo-albidâ, purpureo-fusco tinctâ, nodulis
+nonnullis albicantibus, columellâ labrogue rufescentibus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1357" y="1290"/>
+	<Point x="2250" y="1295"/>
+	<Point x="2252" y="1717"/>
+	<Point x="1357" y="1717"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CONTRACTED HELMET. Shell cylindrically ovate,
+rather thick, spire short, whorls destitute of varices,
+transversely very ﬁnely striated, encircled by nodulous
+ribs, four of which are larger than the rest; columella
+shortly plicated, and obliquely ﬁnely wrinkled, lip
+dentately ridged within, contracted at the upper part,
+not reﬂected, aperture elongated and narrow; ash-
+white, stained with purple-brown, some of the nodules
+whitish, lip and columella reddish.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1358" y="1814"/>
+	<Point x="2248" y="1814"/>
+	<Point x="2248" y="1905"/>
+	<Point x="1358" y="1905"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Gallapagos Islands, Paciﬁc Ocean (in crevices of
+rocks); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1355" y="1927"/>
+	<Point x="2243" y="1927"/>
+	<Point x="2243" y="2164"/>
+	<Point x="1355" y="2164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The contraction of the outer lip, which is always con‐
+stant, is a singular feature in this species. For the mag‐
+niﬁcent specimen here represented, which is of unusually
+large size, I am indebted to the choice collection of Miss
+Saul.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1219" y="2333"/>
+	<Point x="1455" y="2333"/>
+	<Point x="1455" y="2384"/>
+	<Point x="1219" y="2384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>August, 1848</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r30">
+	<Coords>
+	<Point x="1120" y="2242"/>
+	<Point x="1120" y="2256"/>
+	<Point x="1573" y="2256"/>
+	<Point x="1573" y="2242"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r31">
+	<Coords>
+	<Point x="1585" y="790"/>
+	<Point x="1585" y="811"/>
+	<Point x="1997" y="811"/>
+	<Point x="1997" y="790"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r48">
+	<Coords>
+	<Point x="1329" y="416"/>
+	<Point x="1329" y="2158"/>
+	<Point x="1347" y="2158"/>
+	<Point x="1347" y="416"/></Coords></SeparatorRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="1361" y="1719"/>
+	<Point x="2010" y="1719"/>
+	<Point x="2010" y="1766"/>
+	<Point x="1976" y="1766"/>
+	<Point x="1976" y="1812"/>
+	<Point x="1975" y="1812"/>
+	<Point x="1975" y="1811"/>
+	<Point x="1436" y="1811"/>
+	<Point x="1436" y="1766"/>
+	<Point x="1361" y="1766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GRAY, Wood Index Test. Supp. pl. 4. f. 5.
+Cyprœacassis coarctata, Stutchbury.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="430" y="1667"/>
+	<Point x="1075" y="1667"/>
+	<Point x="1075" y="1713"/>
+	<Point x="875" y="1713"/>
+	<Point x="875" y="1755"/>
+	<Point x="500" y="1755"/>
+	<Point x="500" y="1713"/>
+	<Point x="430" y="1713"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GRAY, Wood Index Test. Supp. pl. 4. f. 4.
+Cassis Massenœ, Kiener.</Unicode></TextEquiv></TextRegion></Page></PcGts>

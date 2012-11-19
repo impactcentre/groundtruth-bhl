@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669096">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:24:30</Created>
+	<LastChange>2012-02-09T16:27:32</LastChange></Metadata>
+	<Page imageFilename="00669096.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r29" index="3"/>
+	<RegionRefIndexed regionRef="r23" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="425" y="233"/>
+	<Point x="1768" y="233"/>
+	<Point x="1768" y="688"/>
+	<Point x="425" y="688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>neus, mais à opercule et préopercule lisses, et qui
+dans la liqueur paraît toute entière d’un gris olivâtre
+uniforme. Ses nombres sont comme aux précédentes;
+la dorsale a des nébulosités brunes, disposées en
+bandes obliques et irrégulières, et la caudale en a
+de transverses. L’individu n’a que quatre pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="358" y="705"/>
+	<Point x="1765" y="705"/>
+	<Point x="1765" y="1035"/>
+	<Point x="1192" y="1032"/>
+	<Point x="1193" y="1046"/>
+	<Point x="1146" y="1046"/>
+	<Point x="1133" y="1032"/>
+	<Point x="787" y="1033"/>
+	<Point x="784" y="1045"/>
+	<Point x="744" y="1045"/>
+	<Point x="733" y="1031"/>
+	<Point x="410" y="1030"/>
+	<Point x="401" y="1040"/>
+	<Point x="358" y="1041"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y en a un autre du voyage de Péron,
+d’un olivâtre plus clair et dont les nébulosités
+des nageoires sont moins marquées. Sa lon‐
+gueur n’est que de deux pouces et demi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="350" y="1043"/>
+	<Point x="413" y="1043"/>
+	<Point x="416" y="1036"/>
+	<Point x="724" y="1037"/>
+	<Point x="735" y="1052"/>
+	<Point x="797" y="1052"/>
+	<Point x="796" y="1040"/>
+	<Point x="1126" y="1039"/>
+	<Point x="1146" y="1049"/>
+	<Point x="1199" y="1049"/>
+	<Point x="1201" y="1039"/>
+	<Point x="1761" y="1044"/>
+	<Point x="1762" y="1480"/>
+	<Point x="345" y="1480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Enﬁn, nous en avons du même pays un
+grand nombre d’individus longs de deux pouces
+seulement, que nous devons à M. Julien Des‐
+jardins. Ils ont tous la nuque moins concave,
+parce que le dos se relève moins promptement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="341" y="1820"/>
+	<Point x="1760" y="1820"/>
+	<Point x="1760" y="2252"/>
+	<Point x="341" y="2252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est venu de Timor, des Mariannes et du
+port Jackson une espèce très-voisine de notre
+rostratus, mais un peu plus courte du corps
+et de la tête, ce qui la rapproche encore plus
+de celles à poitrine saillante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="409" y="2265"/>
+	<Point x="1761" y="2265"/>
+	<Point x="1761" y="2589"/>
+	<Point x="409" y="2589"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur est deux fois et deux tiers dans sa lon‐
+gueur; elle paraît aussi plus brune, avec des taches
+d’un brun encore plus foncé, et des points de même
+couleur sur les rayons dorsaux et abdominaux. Quel-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="358" y="134"/>
+	<Point x="493" y="134"/>
+	<Point x="493" y="210"/>
+	<Point x="358" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>164</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="814" y="134"/>
+	<Point x="1324" y="134"/>
+	<Point x="1324" y="210"/>
+	<Point x="814" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="402" y="1698"/>
+	<Point x="1701" y="1698"/>
+	<Point x="1701" y="1790"/>
+	<Point x="402" y="1790"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus nebulosus, Quoy et Gaimard.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="heading">
+	<Coords>
+	<Point x="638" y="1589"/>
+	<Point x="1468" y="1589"/>
+	<Point x="1468" y="1668"/>
+	<Point x="638" y="1668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE NUAGEUX.</Unicode></TextEquiv></TextRegion></Page></PcGts>

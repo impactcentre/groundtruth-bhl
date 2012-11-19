@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668048">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:26:36</Created>
+	<LastChange>2012-02-10T09:52:33</LastChange></Metadata>
+	<Page imageFilename="00668048.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="253" y="210"/>
+	<Point x="362" y="210"/>
+	<Point x="362" y="273"/>
+	<Point x="253" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>112</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="891" y="205"/>
+	<Point x="1466" y="205"/>
+	<Point x="1466" y="278"/>
+	<Point x="891" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE YELLOW BUNTING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="232" y="327"/>
+	<Point x="2147" y="327"/>
+	<Point x="2147" y="958"/>
+	<Point x="232" y="958"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rhine, near Mulheim, I found the Corn-Bunting abundantly established on the
+lower grounds. During great heat the males sang incessantly (their mates were
+sitting) perching indiﬀerently on the ground, on low bushes and rails, on the tops
+of walnut trees, and on the telegraph wires. Their song seemed to be identical
+with the dialect of those I had met with at home, with a single exception. On
+June 19th, a Corn-Bunting perching on a telegraph wire poured forth a liquid and
+sweet song, embodying the notes of the Crested Lark, which latter species is
+resident, though scarce, in that district. That the Reed Bunting has a good ear,
+and can be trained to sing the Skylark’s song I have recorded elsewhere, but I
+never suspected the Corn-Bunting of a similar capacity.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="770" y="1609"/>
+	<Point x="1597" y="1609"/>
+	<Point x="1597" y="1700"/>
+	<Point x="770" y="1700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE YELLOW BUNTING.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="873" y="1790"/>
+	<Point x="1488" y="1790"/>
+	<Point x="1488" y="1854"/>
+	<Point x="873" y="1854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Emberiza citrinella, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="244" y="2130"/>
+	<Point x="376" y="2130"/>
+	<Point x="376" y="1952"/>
+	<Point x="2128" y="1945"/>
+	<Point x="2125" y="2508"/>
+	<Point x="244" y="2512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HE Yellow Ammer or Hammer, as this bird is generally called (from the
+German name Goldammer, which means Golden Bunting)* is generally
+distributed throughout the greater part of Europe, breeding in Scandinavia
+as far north as lat. 70°, and in the valley of the Ob, in Siberia, up to lat 64°.
+To the more northern portions of its range it is only a summer visitor, and it only
+visits the more southern portions in the winter, but in the temperate regions it
+is resident; in winter it occurs southwards through Turkey into N.W. Persia
+and Turkestan. Although almost unknown in S.W. Spain, it is said to be resident
+in Teneriﬀe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="242" y="2517"/>
+	<Point x="2124" y="2517"/>
+	<Point x="2124" y="2647"/>
+	<Point x="242" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Throughout Great Britain this species is abundant and generally distributed,
+breeding everywhere excepting, perhaps, in the Shetlands.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="352" y="2658"/>
+	<Point x="1239" y="2658"/>
+	<Point x="1239" y="2710"/>
+	<Point x="352" y="2710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Also locally known as Yellow Yorling or Yoldring.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="250" y="1952"/>
+	<Point x="250" y="2122"/>
+	<Point x="374" y="2122"/>
+	<Point x="374" y="1952"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="231" y="1352"/>
+	<Point x="902" y="1352"/>
+	<Point x="902" y="1444"/>
+	<Point x="231" y="1444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1413" y="1352"/>
+	<Point x="2115" y="1352"/>
+	<Point x="2115" y="1444"/>
+	<Point x="1413" y="1444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—EMBERIZINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="1079" y="1157"/>
+	<Point x="1079" y="1168"/>
+	<Point x="1283" y="1168"/>
+	<Point x="1283" y="1157"/></Coords></SeparatorRegion></Page></PcGts>

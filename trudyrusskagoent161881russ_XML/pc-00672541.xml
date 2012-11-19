@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672541">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T22:24:32</Created>
+	<LastChange>2012-02-10T09:55:08</LastChange></Metadata>
+	<Page imageFilename="00672541.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="776" y="176"/>
+	<Point x="1105" y="176"/>
+	<Point x="1105" y="248"/>
+	<Point x="776" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 345 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="73" y="301"/>
+	<Point x="1823" y="301"/>
+	<Point x="1823" y="892"/>
+	<Point x="73" y="892"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>spécial. Les eaux du Jouldousse sont habitées par un poisson,
+le Diptychus Dybowskii, en quantité incroyable, et par des
+oiseaux aquatiques, tels que: oies, canards, pelicans et échas-
+siers de toutes sortes. Arrivés sur le plateau le 11 Juillet,
+nous y campâmes près d'une source nommée Zalamtoù, d'où
+nous faisions des excursions en tous sens, et le 7 Août nous
+le quittions chargés de collections précieuses.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="73" y="903"/>
+	<Point x="1817" y="903"/>
+	<Point x="1817" y="1410"/>
+	<Point x="73" y="1410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les quantités immenses de sel, que contient ce plateau, ren-
+dent le climat du Jouldousse extrêmement froid: en Juillet, au
+cœur de l'été, le thermomètre marquait un maximum de 27°
+Celsius au soleil, (entre 1 et 3 heures de l'après-midi) et des-
+cendait presque toujours pendant la nuit, au-dessous de zéro,
+quelquefois jusqu'à —5° et —6°.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="74" y="1417"/>
+	<Point x="1832" y="1417"/>
+	<Point x="1832" y="2008"/>
+	<Point x="74" y="2008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y neigeait souvent, tant sur le plateau que sur les
+montagnes qui l'environnent; souvent aussi d'épais brouillards,
+ou une pluie ﬁne génaient nos chasses. Mais les orages qui
+y sont très fréquents d'ordinaire, y étaient comparativement
+rares en 1879. Pendant tout notre séjour sur le plateau, nous
+avons été forcés de faire cuire nos aliments avec le fumier
+d'animaux, seul combustible qu'on puisse y trouver.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="76" y="2012"/>
+	<Point x="1821" y="2012"/>
+	<Point x="1821" y="2617"/>
+	<Point x="76" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous quittâmes Jouldousse par la passe Nardy (10.000´)
+et nous descendîmes dans la vallée du parcours supérieur de
+la Tsangma, rivière que nous avions déjà traversée en Mai,
+près de sa jonction avec le Kounguesse. Le 9 Août nous
+nous arrêtâmes de nouveau près de Charkhodé sur le Koun-
+guesse, près du campement d'un détachement de troupes de
+Kouldjà, dont les ofﬁciers nous reçurent fort amicalement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="64" y="2623"/>
+	<Point x="1819" y="2623"/>
+	<Point x="1819" y="3130"/>
+	<Point x="64" y="3130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Faune lépidoptérologique de cette vallée s'était aug-
+mentée de plusieurs espèces intéressantes, mais malheureuse-
+ment nous arrivions trop tard: le plus grand nombre des es-
+pèces étaient passées. Je puis cependant citer ici les: Pa-
+rarge Eversmanni, Satyrus Briseis, S. Arethusa, Thecla Be-
+tulae, Argynnis Paphia, etc. Je decouvris ici la nouvelle es-</Unicode></TextEquiv></TextRegion></Page></PcGts>

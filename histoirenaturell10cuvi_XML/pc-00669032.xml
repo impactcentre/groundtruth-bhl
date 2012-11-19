@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669032">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:16:21</Created>
+	<LastChange>2012-02-09T16:27:29</LastChange></Metadata>
+	<Page imageFilename="00669032.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="392" y="249"/>
+	<Point x="1748" y="249"/>
+	<Point x="1748" y="714"/>
+	<Point x="392" y="714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ne voit pas de dentelures au préopercule; la ligne
+latérale, à peu près parallèle au dos, se continue
+jusque très-près du bout de la queue, où elle dis‐
+paraît. Je n’ai pu découvrir que quatre rayons aux
+branchies; les autres nombres sont comme dans
+presque tout le genre:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="752" y="720"/>
+	<Point x="1430" y="720"/>
+	<Point x="1430" y="780"/>
+	<Point x="752" y="780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 8/16; A. 3/14; C. 17, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="393" y="789"/>
+	<Point x="1754" y="789"/>
+	<Point x="1754" y="1258"/>
+	<Point x="393" y="1258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout ce poisson est d’un bel éclat d’argent, teint
+vers le dos d’un violet métallique; des taches brunes
+inégales, disposées verticalement trois à trois ou
+quatre à quatre, forment neuf ou dix bandes qui
+descendent verticalement du dos vers la ligne laté‐
+rale; les nageoires sont jaunâtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="342" y="1265"/>
+	<Point x="1753" y="1265"/>
+	<Point x="1753" y="1509"/>
+	<Point x="1183" y="1505"/>
+	<Point x="1162" y="1521"/>
+	<Point x="338" y="1523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus sont longs de quatre pouces,
+et c’est, selon M. Leschenault, toute la taille
+à laquelle ils parviennent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="335" y="1528"/>
+	<Point x="813" y="1525"/>
+	<Point x="1189" y="1524"/>
+	<Point x="1195" y="1515"/>
+	<Point x="1771" y="1514"/>
+	<Point x="1769" y="2434"/>
+	<Point x="336" y="2434"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson, représenté par Bloch dans sa
+forme principale, n’a pas ses bandes brunes
+aussi divisées que le nôtre, et ses ventrales
+sont tellement prolongées en pointe, qu’elles
+atteindraient jusqu’au milieu de l’anale. Nous
+ne pouvons dire si les ventrales courtes que
+nous voyons aux nôtres, sont telles par l’eﬀet
+de l’usure, ou si c’est une variété de sexe ou
+un caractère d’espèce. Ce qui est certain, c’est
+que pour tout le reste la ressemblance est
+absolue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="361" y="2438"/>
+	<Point x="1764" y="2438"/>
+	<Point x="1764" y="2618"/>
+	<Point x="361" y="2618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bloch compte sept rayons aux branchies,
+mais cela vient sûrement de ce qu’il aura cru</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="329" y="156"/>
+	<Point x="464" y="156"/>
+	<Point x="464" y="233"/>
+	<Point x="329" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>100</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="708" y="156"/>
+	<Point x="1357" y="156"/>
+	<Point x="1357" y="233"/>
+	<Point x="708" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669198">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:06:40</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669198.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="345" y="294"/>
+	<Point x="1759" y="294"/>
+	<Point x="1759" y="454"/>
+	<Point x="345" y="454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>du museau à l’angle supérieur et antérieur de
+l’orbite.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="330" y="465"/>
+	<Point x="1759" y="465"/>
+	<Point x="1759" y="974"/>
+	<Point x="330" y="974"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans celui de M. Dussumier la corne mesure
+les deux tiers de cette même distance; elle est
+de la même longueur proportionnelle dans un
+autre troisième de même taille, et que nous
+devons, comme le plus grand, à M. Lamarre-
+Piquot.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="325" y="978"/>
+	<Point x="1769" y="978"/>
+	<Point x="1769" y="1483"/>
+	<Point x="325" y="1483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Muséum en possède un quatrième in‐
+dividu sec, long de seize à dix-sept pouces, et
+trouvé parmi les collections faites à Waigiou
+par MM. Lesson et Garnot. Sa corne n’a que
+la moitié de la longueur entre l’extrémité du
+museau et l’angle de l’orbite.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="329" y="1486"/>
+	<Point x="1763" y="1486"/>
+	<Point x="1763" y="2672"/>
+	<Point x="329" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A mesure que nous observons des indivi‐
+dus plus petits, la corne devient plus courte,
+et nous n’en voyons plus que le vestige sur
+les plus jeunes. En eﬀet, un cinquième nason,
+long seulement de treize pouces, provenant
+encore des collections faites à l’Isle-de-France
+par M. Lamarre-Piquot, et ayant les mêmes
+proportions de corps, de hauteur et de force
+des six rayons épineux de la dorsale, le même
+nombre de rayons mous à cette nageoire et à
+l’anale, les lobes de la caudale prolongés en
+ﬁlet, a une corne dont la longueur n’est plus
+la moitié de la distance entre le bout du mu‐
+seau et l’œil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="354" y="185"/>
+	<Point x="507" y="185"/>
+	<Point x="507" y="270"/>
+	<Point x="354" y="270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>266</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="789" y="200"/>
+	<Point x="1321" y="200"/>
+	<Point x="1321" y="274"/>
+	<Point x="789" y="274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

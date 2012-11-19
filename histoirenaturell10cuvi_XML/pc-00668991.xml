@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668991">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T15:41:07</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668991.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="79" y="308"/>
+	<Point x="1441" y="308"/>
+	<Point x="1441" y="985"/>
+	<Point x="79" y="985"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La caudale est fourchue, et non pas seulement
+coupée en croissant, comme dans les grands lam-
+pris; ses lobes ont plus que le sixième, mais moins
+que le cinquième de la longueur totale du corps.
+Les pectorales sont aussi proportionnellement plus
+longues que celles de nos grands individus, car
+elles ont le quart de la longueur totale; d’ailleurs leur
+forme et le nombre de leurs rayons sont constam‐
+ment les mêmes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="18" y="1005"/>
+	<Point x="1454" y="1005"/>
+	<Point x="1454" y="2024"/>
+	<Point x="18" y="2024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous n’avons pas cru devoir faire de cet
+individu une espèce distincte de ceux qui ont
+été le sujet de la première partie de cet article,
+parce que nous avons déjà eu plusieurs exem‐
+ples, et notamment dans l’espadon ordinaire,
+de très‐grands changemens dans les formes
+et dans les ornemens des nageoires. Nous
+sommes fondés à croire que les poissons parés
+de nageoires prolongées, ne conservent que
+jusqu’à un certain âge ces beaux développe-
+mens, et que dans les vieux lampris elles sont
+usées et émoussées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="29" y="2033"/>
+	<Point x="1466" y="2033"/>
+	<Point x="1466" y="2555"/>
+	<Point x="29" y="2555"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le lampris que nous considérons comme
+adulte a été plusieurs fois représenté, ainsi
+que nous l’avons démontré au commencement
+de cet article. M. Guérin vient d’en donner
+récemment une bonne ﬁgure, d’après les ma‐
+tériaux que nous lui avons fournis.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="89" y="2612"/>
+	<Point x="1085" y="2612"/>
+	<Point x="1085" y="2691"/>
+	<Point x="89" y="2691"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Icon. regn. an., poiss., pl. XXXII, ﬁg. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="451" y="221"/>
+	<Point x="1009" y="221"/>
+	<Point x="1009" y="290"/>
+	<Point x="451" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. LAMPRIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1319" y="202"/>
+	<Point x="1436" y="202"/>
+	<Point x="1436" y="285"/>
+	<Point x="1319" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>59</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="24" y="2563"/>
+	<Point x="24" y="2598"/>
+	<Point x="1455" y="2598"/>
+	<Point x="1455" y="2563"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669044">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T02:17:51</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669044.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="335" y="244"/>
+	<Point x="1737" y="244"/>
+	<Point x="1737" y="409"/>
+	<Point x="335" y="409"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>espèces de Gronovius. Toutes les deux sont
+de l’océan Indien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="335" y="418"/>
+	<Point x="1753" y="418"/>
+	<Point x="1756" y="1754"/>
+	<Point x="799" y="1762"/>
+	<Point x="768" y="1762"/>
+	<Point x="585" y="1767"/>
+	<Point x="547" y="1776"/>
+	<Point x="336" y="1777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Linnæus adopta ce genre dans sa douzième
+édition, et en changea seulement le nom en
+celui de Teuthis, beaucoup moins convenable
+encore, puisque c’est le nom grec du calmar,
+loligo. Il nomma la première espèce de Gro‐
+novius ou l’amphacanthe teuthis javus, la se‐
+conde ou l’acanthure teuthis hepatus. La place
+qu’il assigne à ces teuthis entre les silures et
+les loricaires ne fut pas heureuse, et même on
+peut douter qu’il y ait dans la position des
+ventrales une raison suﬃsante pour les ranger
+parmi les abdominaux. D’ailleurs la preuve
+qu’il n’en avait pas bien saisi les analogies,
+c’est qu’il laissait parmi ses chétodons plusieurs
+espèces toutes semblables à son teuthis hepa‐
+tus par leurs caractères.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="347" y="1780"/>
+	<Point x="574" y="1779"/>
+	<Point x="590" y="1772"/>
+	<Point x="1773" y="1763"/>
+	<Point x="1771" y="2368"/>
+	<Point x="345" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forskal, le premier, eut le mérite de repro‐
+duire d’après l’observation les vrais caractères
+et les vrais rapports de plusieurs de ces pois‐
+sons; il en forma deux genres2; celui des si-
+ganus, qui comprend le teuthis javus; et celui
+des acanthures qui embrasse le teuthis hepa‐
+tus, et où il rangeait aussi les nasons.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="423" y="2424"/>
+	<Point x="1762" y="2424"/>
+	<Point x="1764" y="2478"/>
+	<Point x="1490" y="2479"/>
+	<Point x="1362" y="2482"/>
+	<Point x="1285" y="2483"/>
+	<Point x="1242" y="2484"/>
+	<Point x="903" y="2485"/>
+	<Point x="798" y="2492"/>
+	<Point x="703" y="2492"/>
+	<Point x="666" y="2490"/>
+	<Point x="424" y="2490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Chætodon nigricans; chætodon triostegus et chætodon lineatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="367" y="2496"/>
+	<Point x="812" y="2495"/>
+	<Point x="840" y="2493"/>
+	<Point x="897" y="2490"/>
+	<Point x="1272" y="2488"/>
+	<Point x="1766" y="2482"/>
+	<Point x="1764" y="2618"/>
+	<Point x="368" y="2618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Forskal, Faun. arab., dans un feuillet sans pagination à
+la suite de la préface.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="332" y="155"/>
+	<Point x="473" y="155"/>
+	<Point x="473" y="220"/>
+	<Point x="332" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>112</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="838" y="155"/>
+	<Point x="1232" y="155"/>
+	<Point x="1232" y="220"/>
+	<Point x="838" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DIXIÈME.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="363" y="2378"/>
+	<Point x="1767" y="2378"/>
+	<Point x="1767" y="2415"/>
+	<Point x="363" y="2415"/></Coords></SeparatorRegion></Page></PcGts>

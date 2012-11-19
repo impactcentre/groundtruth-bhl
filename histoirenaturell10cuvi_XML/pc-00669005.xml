@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669005">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:42:51</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669005.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="50" y="305"/>
+	<Point x="1468" y="305"/>
+	<Point x="1468" y="735"/>
+	<Point x="50" y="735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l’Ile-de-France, nous apprend qu’il s’y nomme
+sap-sap, que c’est un bon poisson qui n’y
+paraît qu’à certaines époques et en petit
+nombre, et qu’il pèse quelquefois une livre
+et demie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="56" y="741"/>
+	<Point x="1488" y="741"/>
+	<Point x="1488" y="1344"/>
+	<Point x="56" y="1344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bloch dit aussi, d’après John, que sa chair
+est grasse et de bon goût, et fournit aux Portu‐
+gais des environs de Tranquebar un bon mets
+pour les jours maigres. Sur cette côte on en
+prend aussi dans toutes les saisons, mais sur‐
+tout et abondamment en Décembre. Il ne
+remonte que rarement les rivières.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="443" y="1448"/>
+	<Point x="1086" y="1448"/>
+	<Point x="1086" y="1540"/>
+	<Point x="443" y="1540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA POULAIN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="47" y="1563"/>
+	<Point x="1480" y="1563"/>
+	<Point x="1480" y="1753"/>
+	<Point x="47" y="1753"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula caballa, nob.; Scomber equula, Forsk.;
+Tottah-karah, Russel, 1. LXII.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="43" y="1772"/>
+	<Point x="1489" y="1772"/>
+	<Point x="1489" y="2230"/>
+	<Point x="43" y="2230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La mer des Indes et la mer Rouge pro‐
+duisent une espèce voisine de la précédente,
+qui nous semble répondre mieux qu’aucune
+autre à la description que Forskal donne de
+son scomber equula1, quoique cette descrip-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="121" y="2316"/>
+	<Point x="984" y="2316"/>
+	<Point x="984" y="2383"/>
+	<Point x="717" y="2378"/>
+	<Point x="690" y="2382"/>
+	<Point x="121" y="2383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Forsk., Descr. anim., p. 58, n.° 77.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="115" y="2386"/>
+	<Point x="229" y="2389"/>
+	<Point x="378" y="2391"/>
+	<Point x="712" y="2385"/>
+	<Point x="993" y="2386"/>
+	<Point x="1244" y="2381"/>
+	<Point x="1242" y="2434"/>
+	<Point x="884" y="2441"/>
+	<Point x="700" y="2442"/>
+	<Point x="115" y="2442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SCOMBER EQUULA, pinnulis pinnaque dorsi connatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="60" y="2450"/>
+	<Point x="63" y="2447"/>
+	<Point x="1162" y="2443"/>
+	<Point x="1465" y="2435"/>
+	<Point x="1473" y="2685"/>
+	<Point x="1115" y="2688"/>
+	<Point x="61" y="2683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESCR. Corpus ovatum compressum, quinque poll. longum, tribus
+poll. latum, argenteo-nilens, læve, squamis subtilissimis. Dentes
+setacei; labium superius protractile, inferius curvum, retusum. Frons
+carinis osseis duabus, elatis antrorsum convergentibus. Vertex,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="497" y="222"/>
+	<Point x="1042" y="222"/>
+	<Point x="1042" y="299"/>
+	<Point x="497" y="299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1356" y="202"/>
+	<Point x="1456" y="202"/>
+	<Point x="1456" y="284"/>
+	<Point x="1356" y="284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>73</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20">
+	<Coords>
+	<Point x="72" y="2250"/>
+	<Point x="1471" y="2250"/>
+	<Point x="1471" y="2283"/>
+	<Point x="72" y="2283"/></Coords></SeparatorRegion></Page></PcGts>

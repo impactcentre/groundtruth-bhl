@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672694">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T08:34:43</Created>
+	<LastChange>2012-03-12T14:34:24</LastChange></Metadata>
+	<Page imageFilename="00672694.tif" imageWidth="4519" imageHeight="7050">
+	<ImageRegion id="r19">
+	<Coords>
+	<Point x="11" y="5"/>
+	<Point x="4518" y="0"/>
+	<Point x="4511" y="6158"/>
+	<Point x="3" y="6141"/></Coords></ImageRegion>
+	<TextRegion id="r21" type="caption">
+	<Coords>
+	<Point x="2430" y="6243"/>
+	<Point x="4213" y="6243"/>
+	<Point x="4213" y="6716"/>
+	<Point x="2430" y="6716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Amaryllis de Broussonet
+Lhaelippeauoc Soulp</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="caption">
+	<Coords>
+	<Point x="43" y="6240"/>
+	<Point x="1753" y="6241"/>
+	<Point x="1742" y="6694"/>
+	<Point x="55" y="6703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Amarjllis Broussonetii
+J. Redoute pinoc.</Unicode></TextEquiv></TextRegion></Page></PcGts>

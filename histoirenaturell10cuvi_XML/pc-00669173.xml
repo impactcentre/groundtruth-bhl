@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669173">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:33:44</Created>
+	<LastChange>2012-03-12T14:33:47</LastChange></Metadata>
+	<Page imageFilename="00669173.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="192" y="310"/>
+	<Point x="1551" y="310"/>
+	<Point x="1551" y="762"/>
+	<Point x="192" y="762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur est une fois et demie clans sa longueur
+sans la caudale, et deux fois en l’y comprenant; sa
+couleur est fauve; une large bande argentée occupe
+l’opercule et une grande partie de la poitrine. Il y a
+du noir au crâne et à la base de la caudale, et un
+liséré noirâtre au bord des nageoires verticales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="717" y="771"/>
+	<Point x="1016" y="771"/>
+	<Point x="1016" y="844"/>
+	<Point x="717" y="844"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/26, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="117" y="849"/>
+	<Point x="1542" y="849"/>
+	<Point x="1542" y="1196"/>
+	<Point x="117" y="1196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce ne parvient pas à une lon‐
+gueur de plus de deux pouces, on la pêche
+toute l’année dans la rade de Pondichéry.
+Quoique petite, elle se mange.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="522" y="1241"/>
+	<Point x="1141" y="1241"/>
+	<Point x="1141" y="1310"/>
+	<Point x="522" y="1310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE NOIR.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="477" y="1343"/>
+	<Point x="1183" y="1343"/>
+	<Point x="1183" y="1418"/>
+	<Point x="477" y="1418"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus melas, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="122" y="1439"/>
+	<Point x="1535" y="1439"/>
+	<Point x="1535" y="1697"/>
+	<Point x="122" y="1697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Leschenault a envoyé sous ce même
+nom de karpou-mine, un autre acanthure, qui
+tient de très-près au précédent;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="185" y="1701"/>
+	<Point x="1533" y="1701"/>
+	<Point x="1533" y="2005"/>
+	<Point x="185" y="2005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais son ovale est moins haut, surtout sous la gorge,
+son corps d’un brun grisâtre, et ses nageoires d’un
+brun-noir foncé; sa taille est égale à celle du pré‐
+cédent, et il a les mêmes nombres de rayons.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="114" y="2013"/>
+	<Point x="1532" y="2013"/>
+	<Point x="1532" y="2178"/>
+	<Point x="114" y="2178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce a été retrouvée par M. Rey-
+naud à Ceilan, où elle se nomme Keitz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="285" y="2301"/>
+	<Point x="1353" y="2301"/>
+	<Point x="1353" y="2385"/>
+	<Point x="285" y="2385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE A DENTS EN PEIGNE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="479" y="2403"/>
+	<Point x="1166" y="2403"/>
+	<Point x="1166" y="2483"/>
+	<Point x="479" y="2483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus ctenodon.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="116" y="2501"/>
+	<Point x="1531" y="2501"/>
+	<Point x="1531" y="2675"/>
+	<Point x="116" y="2675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une espèce qui n’a que huit rayons épi‐
+neux à la dorsale, oﬀre une forme extraordi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="541" y="214"/>
+	<Point x="1122" y="214"/>
+	<Point x="1122" y="280"/>
+	<Point x="541" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="page-number">
+	<Coords>
+	<Point x="1409" y="214"/>
+	<Point x="1535" y="214"/>
+	<Point x="1535" y="280"/>
+	<Point x="1409" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>241</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r21">
+	<Coords>
+	<Point x="737" y="2214"/>
+	<Point x="737" y="2242"/>
+	<Point x="912" y="2242"/>
+	<Point x="912" y="2214"/></Coords></SeparatorRegion>
+	<TextRegion id="r22" type="signature-mark">
+	<Coords>
+	<Point x="240" y="2692"/>
+	<Point x="240" y="2750"/>
+	<Point x="335" y="2750"/>
+	<Point x="335" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="signature-mark">
+	<Coords>
+	<Point x="1205" y="2681"/>
+	<Point x="1205" y="2751"/>
+	<Point x="1311" y="2751"/>
+	<Point x="1311" y="2681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16</Unicode></TextEquiv></TextRegion></Page></PcGts>

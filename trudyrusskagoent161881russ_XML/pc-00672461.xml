@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672461">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:39:20</Created>
+	<LastChange>2012-02-10T09:54:56</LastChange></Metadata>
+	<Page imageFilename="00672461.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="783" y="171"/>
+	<Point x="1094" y="171"/>
+	<Point x="1094" y="242"/>
+	<Point x="783" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 251 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="137" y="298"/>
+	<Point x="1823" y="298"/>
+	<Point x="1823" y="887"/>
+	<Point x="137" y="887"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Unterseite aller Flügel ist gleichmässig dunkelgrau
+mit etwas bräunlichem Schimmer; jeder Flügel führt einen
+deutlichen dunkeln Mittelﬂeck. Die äussere Einfassungslinie
+des Mittelfeldes der Vorderﬂügel ist allein deutlich, alle
+andern Zeichnungen scheinen nur sehr verloschen durch.
+Auf allen Flügeln sind die Adern des Saumfeldes gelbgrau
+punktirt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="142" y="896"/>
+	<Point x="1824" y="896"/>
+	<Point x="1824" y="1057"/>
+	<Point x="142" y="1057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das eine Exemplar ﬁng ich bei Lutkowskaja am Ussuri
+am 22 August, das andere weiter südlich am Suifun.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="78" y="1067"/>
+	<Point x="1841" y="1067"/>
+	<Point x="1841" y="1562"/>
+	<Point x="78" y="1562"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Scotosia Badiata Hb. ﬂiegt um Irkutsk nicht selten; ich
+habe frische Weiber, die am 17 Mai und 11 Juli gefangen
+wurden, also zu Anfang des dortigen Frühjahrs und gegen
+Ende des Sommers. Sollten hier zwei Generationen vor-
+kommen? Bei der oft sehr bedeutenden Sommerwärme
+wäre es nicht unmöglich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="87" y="1576"/>
+	<Point x="1841" y="1576"/>
+	<Point x="1841" y="2157"/>
+	<Point x="87" y="2157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lygris (Cidaria) Venulata Obthr. Lép. de l'île Ask. p. 55,
+pl. IX, ﬁg. 10, welche Herr Oberthür mit Recht in die
+Nähe von Reticulata stellt, ist eine echte Lygris, indem
+der � an der Wurzel der Unterseite der Hinterﬂügel den
+dieser Gattung eigenthümlichen Haarbüschel, der bei Venu-
+lata grau ist, führt. Herr Christoph hat das Thier recht
+bezeichnend Chlorovenosata benannt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="82" y="2169"/>
+	<Point x="1844" y="2169"/>
+	<Point x="1844" y="2678"/>
+	<Point x="82" y="2678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lygris Ludovicaria Obthr. l. c. p. 57, pl. IV, ﬁg. 3 ist
+von Herrn Christoph Tigrinata benannt worden. Der �
+führt unten an der Wurzel der Hinterﬂügel einen langen,
+gelbbraunen Haarpinsel. Wie Herr Oberthür bemerkt,
+wird auch Abraxas Junctilineata Butl. aus Japan in diese
+Gruppe gehören.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="92" y="2685"/>
+	<Point x="1846" y="2685"/>
+	<Point x="1846" y="2857"/>
+	<Point x="92" y="2857"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cidaria Ocellata L. habe ich aus Irkutsk ganz übereinstimmend
+mit europäischen Stücken.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="96" y="2869"/>
+	<Point x="1848" y="2869"/>
+	<Point x="1848" y="3128"/>
+	<Point x="96" y="3128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cidaria Serpentinata Led. erhielt ich von der Insel Askold;
+sie kömmt auch auf dem nahen Festlande vor. Fast sollte
+ich meinen, dass die Cidaria Askoldinaria Obthr. Lép. etc.</Unicode></TextEquiv></TextRegion></Page></PcGts>

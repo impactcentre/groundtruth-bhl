@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672512">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:48:52</Created>
+	<LastChange>2012-02-10T09:55:04</LastChange></Metadata>
+	<Page imageFilename="00672512.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/>
+	<RegionRefIndexed regionRef="r13" index="11"/>
+	<RegionRefIndexed regionRef="r14" index="12"/>
+	<RegionRefIndexed regionRef="r15" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="978" y="135"/>
+	<Point x="1299" y="135"/>
+	<Point x="1299" y="199"/>
+	<Point x="978" y="199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 316 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="369" y="266"/>
+	<Point x="1405" y="266"/>
+	<Point x="1405" y="349"/>
+	<Point x="369" y="349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Femora elongata, subclavata, mutica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="271" y="351"/>
+	<Point x="2010" y="351"/>
+	<Point x="2010" y="508"/>
+	<Point x="271" y="508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tibiae rectae, apice truncatae, unco parvo armatae, femo-
+ribus vix brevioribus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="262" y="516"/>
+	<Point x="2014" y="516"/>
+	<Point x="2014" y="685"/>
+	<Point x="262" y="685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Таrsi articulo 3 : о praecedente vix latiore, nес bilobato
+nес spongioso.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="391" y="694"/>
+	<Point x="1042" y="694"/>
+	<Point x="1042" y="762"/>
+	<Point x="391" y="762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unguiculi basi connati.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="275" y="769"/>
+	<Point x="1999" y="769"/>
+	<Point x="1999" y="939"/>
+	<Point x="275" y="939"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Coxae anticae in medio fere prosterni insertae, postice sub-
+ovatae episterna metathoracis vix attingentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="373" y="944"/>
+	<Point x="1658" y="944"/>
+	<Point x="1658" y="1019"/>
+	<Point x="373" y="1019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Epimera mesothoracis episternis fere aequalia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="276" y="1023"/>
+	<Point x="2012" y="1023"/>
+	<Point x="2012" y="1182"/>
+	<Point x="276" y="1182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Episterna metathoracis angusta postice dilatata, segmentis
+duobus primis abdominis aeque longa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="255" y="1191"/>
+	<Point x="2010" y="1191"/>
+	<Point x="2010" y="1346"/>
+	<Point x="255" y="1346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pars intercoxalis segmenti primi latitudine coxarum posti-
+carum paulo latior, antice subrotundata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="366" y="1358"/>
+	<Point x="1667" y="1358"/>
+	<Point x="1667" y="1430"/>
+	<Point x="366" y="1430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sutura inter segmentum 1 : m et 2 : m recta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="366" y="1439"/>
+	<Point x="2003" y="1439"/>
+	<Point x="2003" y="1528"/>
+	<Point x="366" y="1528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Segmentum secundum 3 : о et 4 : о simul sumptis aequale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="258" y="1549"/>
+	<Point x="2003" y="1549"/>
+	<Point x="2003" y="1724"/>
+	<Point x="258" y="1724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bei anderer Gelegenheit soll die systematische Stellung der
+Gattung besprochen werden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="239" y="1774"/>
+	<Point x="1996" y="1774"/>
+	<Point x="1996" y="2367"/>
+	<Point x="239" y="2367"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Smicronyx*) albo-pictus n. sp. Oblongo-ovatus, niger,
+squamulis elongatis castaneis albisque tectus; rostro punctato,
+pluricarinato, basi constricto; thorace quadrato lateribus aquale
+rotundato, medio linea abbreviata albida notato; elytris ovatis,
+postice obtuse rotundatis, maculis 4 elongatis basalibus fasciis-
+que duabus transversis una pone medium altera ante apicem
+albis decoratis; femoribus denticulatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="374" y="2387"/>
+	<Point x="1150" y="2387"/>
+	<Point x="1150" y="2466"/>
+	<Point x="374" y="2466"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 2,75, lat. 1,25 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="269" y="2528"/>
+	<Point x="2001" y="2528"/>
+	<Point x="2001" y="2771"/>
+	<Point x="269" y="2771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grösser und namentlich breiter als Variegatus, durch die
+schneeweisse Zeichnung auf kastanienbraunem Grunde ausge-
+zeichnet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="footnote">
+	<Coords>
+	<Point x="264" y="2841"/>
+	<Point x="2001" y="2841"/>
+	<Point x="2001" y="3098"/>
+	<Point x="264" y="3098"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) 2 von Motschulsky Et. ent. 1858, p. 77 und 78 als Sibynes sutu-
+rellus Mots. i. l. Aegypt. und Tychius fasciatus Mots. von Birma erwähnte
+und beschriebene Arten gehören zur Gattung Smicronyx und zwar fällt Sutu-
+rellus zusammen mit Sm. Kiesenwetteri Tourn.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="278" y="2808"/>
+	<Point x="846" y="2808"/>
+	<Point x="846" y="2833"/>
+	<Point x="278" y="2833"/></Coords></SeparatorRegion></Page></PcGts>

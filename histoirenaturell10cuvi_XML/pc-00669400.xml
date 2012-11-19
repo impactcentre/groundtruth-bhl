@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669400">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:01:42</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669400.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="430" y="255"/>
+	<Point x="1789" y="255"/>
+	<Point x="1789" y="1091"/>
+	<Point x="424" y="1093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sale est très-petite et placée au-dessus de la naissance
+de l’anale, la seconde sous la partie postérieure. Les
+ventrales sont sous la pointe des pectorales et fort
+en avant de la première dorsale. Les écailles sont
+grandes et entières. Il y en a huit rangées longitu‐
+dinales; elles sont plus larges que longues, et ont,
+à leur racine, une petite crénelure ronde, avec trois
+ou quatre rayons, au lieu de la petite pointe qu’on
+voit dans la plupart des autres espèces. La ligne
+latérale se marque distinctement par une suite de
+traits le long du bord inférieur de la bande argentée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="571" y="1096"/>
+	<Point x="1657" y="1096"/>
+	<Point x="1657" y="1160"/>
+	<Point x="571" y="1160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 6; D. 4 — 1/7; A. 1/19; C. 17; P. 14; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="437" y="1169"/>
+	<Point x="1791" y="1169"/>
+	<Point x="1791" y="1469"/>
+	<Point x="434" y="1471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson est d’un brun verdâtre, plus foncé
+vers le dos. Ses opercules et sa bande latérale sont
+d’une belle couleur d’argent. A la loupe, on dis‐
+tingue des points verts très-ﬁns, semés partout.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="430" y="1472"/>
+	<Point x="1796" y="1472"/>
+	<Point x="1796" y="1624"/>
+	<Point x="429" y="1628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous en avons des individus de cinq et de six
+pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="449" y="1637"/>
+	<Point x="1787" y="1637"/>
+	<Point x="1787" y="1723"/>
+	<Point x="448" y="1725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On le pêche dans la baie de Rio-Janéiro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="383" y="1727"/>
+	<Point x="1801" y="1727"/>
+	<Point x="1801" y="2657"/>
+	<Point x="383" y="2657"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est à n’en pas douter la même espèce
+qui est représentée dans l’ouvrage de Spix,
+pl. 47, ﬁg. 1, et que M. Agassis a décrite sous
+le nom assez peu caractéristique d’atherina
+macrophthalma; car la grandeur de l’œil ne
+surpasse pas celle de cet organe dans les au‐
+tres espèces, il est même plus petit que celui
+de nos diﬀérens joëls. L’auteur donne au
+poisson une couleur olivâtre sur le dos, ar‐
+gentée sous le ventre: l’argenté de la bande
+latérale a une teinte jaunâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="373" y="162"/>
+	<Point x="504" y="162"/>
+	<Point x="504" y="232"/>
+	<Point x="373" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>468</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="855" y="162"/>
+	<Point x="1294" y="162"/>
+	<Point x="1294" y="232"/>
+	<Point x="855" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

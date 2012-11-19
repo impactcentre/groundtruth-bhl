@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667999">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:21:15</Created>
+	<LastChange>2012-02-10T09:52:29</LastChange></Metadata>
+	<Page imageFilename="00667999.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="928" y="238"/>
+	<Point x="1278" y="238"/>
+	<Point x="1278" y="319"/>
+	<Point x="928" y="319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LINNET</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1940" y="228"/>
+	<Point x="2066" y="228"/>
+	<Point x="2066" y="321"/>
+	<Point x="1940" y="321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>87</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="142" y="350"/>
+	<Point x="2044" y="356"/>
+	<Point x="2043" y="747"/>
+	<Point x="146" y="749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>months haunts commons, hedgerows, plantations, small woods, orchards, and shrub‐
+beries, in all of which situations I have very often found its nest, the latter being
+most frequently constructed in a furze-bush or hawthorn-hedge, though I have
+taken many a nest from hazel-branches in a plantation, from evergreen and other
+shrubs, from tangled bramble, sometimes almost or quite on the ground, from
+currant and gooseberry bushes, and even from tufts of heather.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="146" y="754"/>
+	<Point x="2045" y="750"/>
+	<Point x="2047" y="779"/>
+	<Point x="2055" y="1680"/>
+	<Point x="145" y="1683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In size, strength, and materials the nest varies considerably, but it is always
+tolerably compact, and rarely so large as that of a Greenﬁnch: among those which
+I took under the impression that they diﬀered, I selected eight for my collection
+all of them dissimilar in character, ﬁve of these which I took in 1883 I thus
+described in the “Zoologist” for that year:—“only one had any moss in its con‐
+struction; this one is somewhat slightly built for the species, but the walls are
+strengthened with coarse straws, evidently selected from a dung-hill. The second,
+excepting that it is not so deep, is not at all unlike a small nest of the Yellow
+Bunting. Its construction is, however, decidedly ﬁrmer, and the grasses used in
+the walls are similar to what one sees in the nest of the Greater Whitethroat.
+The third nest is untidy, loosely put together, and has blackish straggling roots
+projecting from the sides. The fourth is unusually deep, and is formed of roots,
+ﬁbre and wool, with a few white hairs towards the interior. The ﬁfth is very
+ragged in construction, formed of coarse bleached roots, lined with ﬁne ﬁbre and
+wool.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="145" y="1687"/>
+	<Point x="2056" y="1684"/>
+	<Point x="2057" y="2000"/>
+	<Point x="147" y="1997"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The eggs number from four to six, ﬁve being the usual clutch; they are
+either pale bluish-green or pale buﬃsh; those of young birds being occasionally
+unspotted, but most eggs spotted, speckled, blotched, and sometimes (though rarely)
+streaked with reddish- and purplish-brown; the markings are usually most numerous
+at the larger end, the dark spots now and then forming a subterminal zone.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="146" y="2000"/>
+	<Point x="2057" y="2002"/>
+	<Point x="2047" y="2494"/>
+	<Point x="145" y="2500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The ﬂight of this bird is swift and undulating; as it ﬂies it usually twitters;
+in the autumn and winter when Linnets collect into ﬂocks, often of considerable
+size, and pass over the ﬁelds in search of food, this twittering is especially char‐
+acteristic. The bird-catchers declare that the birds say “tell, tell, tell” as they ﬂy,
+and at a distance from the ﬂock you can understand what is meant by this
+rendering, but when you get three or four Linnets under a sloping roof in a
+good sized aviary, and listen attentively as they ﬂy together from end to end, you
+ﬁnd that what they really say is—“turra, tit, turra, turra, turra.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="146" y="2503"/>
+	<Point x="2049" y="2497"/>
+	<Point x="2045" y="2747"/>
+	<Point x="141" y="2747"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The ordinary call of the Linnet is a rather high pitched twit, twit; the sexual
+call is te-ewy; the call of the young for food is chiwi, chiwi, chiwi; the song, to
+my mind, has been too much extolled; it is pretty enough, but there is too
+much chuckle and too little brilliance in it; the notes give one the idea of</Unicode></TextEquiv></TextRegion></Page></PcGts>

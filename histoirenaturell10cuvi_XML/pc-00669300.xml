@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669300">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:49:09</Created>
+	<LastChange>2012-03-12T14:33:54</LastChange></Metadata>
+	<Page imageFilename="00669300.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="372" y="273"/>
+	<Point x="1774" y="273"/>
+	<Point x="1774" y="429"/>
+	<Point x="372" y="429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>giste capable d’en apprécier les rapports na‑
+turels.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="369" y="440"/>
+	<Point x="1781" y="440"/>
+	<Point x="1781" y="1042"/>
+	<Point x="369" y="1042"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les individus observés par Ascanius étaient
+longs de onze pieds et demi et de dix pieds
+et demi. Lindroth1 en a vu un de douze pieds;
+et c’est pour avoir copié et recopié quelque
+faute d’impression ou quelque traduction er-
+ronnée, que Bonnaterre et Bloch ne donnent
+à ce poisson que dix et douze pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="438" y="1068"/>
+	<Point x="1784" y="1068"/>
+	<Point x="1784" y="2509"/>
+	<Point x="438" y="2509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La forme de son corps, alongée, plate, sem‑
+blable à une lame d’épée, ressemblait, comme on
+voit, beaucoup à celle de nos gymnètres. Sa tête
+était, dit-on, petite; son front, large, descendait ra‑
+pidement jusqu’à un museau court, à mâchoires
+égales, à dents qu’Ascanius dit pointues, mais qui
+selon Brünnich seraient à peine visibles ou réduites
+à une simple scabrosité. Il faut se souvenir que les
+dents des gymnètres sont à peine sensibles. Lind‑
+roth, qui lui attribue des dents assez grandes, a
+peut-être vu un trachyptère et non un gymnètre.
+Ses opercules, que l’on décrit comme composés de
+plusieurs pièces et rayonnés en divers sens, devaient
+encore être disposés comme ceux des gymnètres
+ou des trachyptères, ainsi que nous l’avons dit en
+décrivant un de ces derniers. On a compté quatre ou
+cinq rayons dans la membrane branchiostège qu’ap‑
+paremment l’on n’a pas pu entièrement découvrir. Sur
+la nuque étaient huit rayons épineux courts, séparés</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="449" y="2573"/>
+	<Point x="1353" y="2573"/>
+	<Point x="1353" y="2642"/>
+	<Point x="449" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Nouv. mém. de Suéde, 1798, t. XIX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="370" y="168"/>
+	<Point x="498" y="168"/>
+	<Point x="498" y="237"/>
+	<Point x="370" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>368</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="802" y="176"/>
+	<Point x="1362" y="176"/>
+	<Point x="1362" y="237"/>
+	<Point x="802" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="416" y="2528"/>
+	<Point x="416" y="2556"/>
+	<Point x="1785" y="2556"/>
+	<Point x="1782" y="2520"/></Coords></SeparatorRegion></Page></PcGts>

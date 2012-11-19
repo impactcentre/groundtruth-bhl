@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669127">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:58:03</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669127.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="496" y="201"/>
+	<Point x="1113" y="201"/>
+	<Point x="1113" y="280"/>
+	<Point x="496" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="456" y="382"/>
+	<Point x="1162" y="382"/>
+	<Point x="1162" y="480"/>
+	<Point x="456" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE ÉTOILÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="340" y="494"/>
+	<Point x="1293" y="494"/>
+	<Point x="1293" y="593"/>
+	<Point x="340" y="593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus guttatus, Bl. Schn.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="76" y="628"/>
+	<Point x="1545" y="628"/>
+	<Point x="1546" y="1404"/>
+	<Point x="76" y="1410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Schneider a inséré dans le Système pos‐
+thume de Bloch, p. 215, une courte notice
+faite par Forster, d’un poisson que ce voyageur
+nommait harpurus guttatus, et qu’il avait re‐
+cueilli à Otaïti, où les indigènes l’appellent
+paaa. Il a, dit-il, la queue en croissant, le
+corps d’un brun olive, semé de gouttes d’un
+blanc bleuâtre, et des ocelles jaunes à la
+partie postérieure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="100" y="1415"/>
+	<Point x="1546" y="1408"/>
+	<Point x="1545" y="2004"/>
+	<Point x="93" y="2005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons de la Bibliothèque de Banks
+le dessin d’une espèce qui doit être au moins
+fort voisine de celle-là; elle est intitulée chæ-
+todon stellatus. Le poisson lui-même s’est
+trouvé dans la collection de Broussonnet:
+c’est, sans aucun doute, le chætodon stella‐
+tus, nommé par Gmelin, p. 1269.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="107" y="2008"/>
+	<Point x="660" y="2007"/>
+	<Point x="1401" y="2006"/>
+	<Point x="1519" y="2007"/>
+	<Point x="1523" y="2264"/>
+	<Point x="107" y="2271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous venons aussi d’en recevoir de beaux
+échantillons de l’Isle-de-France, par MM.
+Dussumier et Desjardins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="133" y="2282"/>
+	<Point x="1543" y="2282"/>
+	<Point x="1543" y="2676"/>
+	<Point x="133" y="2676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son corps est plus élevé que celui des précédens,
+et la hauteur de son ovale n’est qu’une fois et un tiers
+dans sa longueur, et deux fois dans celle du poisson;
+sa tête est deux fois aussi haute que longue; son
+proﬁl descend obliquement en se courbant, mais</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1373" y="197"/>
+	<Point x="1373" y="286"/>
+	<Point x="1526" y="286"/>
+	<Point x="1526" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>195</Unicode></TextEquiv></TextRegion></Page></PcGts>

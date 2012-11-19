@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672622">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:37:20</Created>
+	<LastChange>2012-02-10T09:55:24</LastChange></Metadata>
+	<Page imageFilename="00672622.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/>
+	<RegionRefIndexed regionRef="r12" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="969" y="102"/>
+	<Point x="1292" y="102"/>
+	<Point x="1292" y="176"/>
+	<Point x="969" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 426 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="254" y="230"/>
+	<Point x="2016" y="230"/>
+	<Point x="2016" y="495"/>
+	<Point x="254" y="495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je ne crois pas que le ♂ que j'ai du Dr. Staudinger
+puisse etre la Naubidensis Ersch. Ni la description de Mr.
+Erschoff, ni son dessin ne s'adoptant à ce ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="242" y="502"/>
+	<Point x="2009" y="502"/>
+	<Point x="2009" y="845"/>
+	<Point x="242" y="845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D'autre part ce que j'avais reçu du Dr. Staudinger,
+comme Pulchella (♂ et ♀), le ♂ Naubidensis ?, et enﬁn, les
+individus que je rapportai du Tian-Chian, appartiennent tous
+indubitablement à une seule espèce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="240" y="857"/>
+	<Point x="2014" y="857"/>
+	<Point x="2014" y="1371"/>
+	<Point x="240" y="1371"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mr. Staudinger, qui à de cette Epinephele bien plus
+d'individus que moi, et qui vient, comme il me l'annonce, de
+terminer son travail sur les lépidoptères de l'Ala-Tau, débrouil-
+lera sans nul doute cette question. Je pris cette Epinephele
+près de l'Archane, entre 6000 et 7000' d'élévation, en Juillet.
+Elle y était fort râre et je ne parvins pas à en prendre la ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="738" y="1702"/>
+	<Point x="1514" y="1702"/>
+	<Point x="1514" y="1792"/>
+	<Point x="738" y="1792"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂♂ 39—42; ♀ 45½ mill.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="238" y="1885"/>
+	<Point x="2002" y="1885"/>
+	<Point x="2002" y="2140"/>
+	<Point x="238" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Maxima. Supra e caeruleo-cinerea, limbo externo lato
+fusco, ocellis antemarginalibus albis notato (quorum nonnulli
+nigro pupillati).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="226" y="2150"/>
+	<Point x="2007" y="2150"/>
+	<Point x="2007" y="2490"/>
+	<Point x="226" y="2490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subtus alae ﬂavescente griseae, ocellis antemarginalibus ni-
+gris, albo-centratis, ﬂavido-cinctis; lituris marginalibus duabus
+subargenteis (externa saepius plumbea), per omnes continuatis,
+ﬂavido-separatis. Posticae vitta mediana, longitudinali albida.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="345" y="2564"/>
+	<Point x="1904" y="2564"/>
+	<Point x="1904" y="2659"/>
+	<Point x="345" y="2659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est là la plus grande Cœnonympha que je connaisse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="230" y="2664"/>
+	<Point x="2014" y="2664"/>
+	<Point x="2014" y="2907"/>
+	<Point x="230" y="2907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En dessus, les ailes sont d'un gris-cendré bleuâtre avec le
+limbe externe large, d'un gris-fuscescent, qui se confond gra-
+duellement à l'intérieur des ailes avec la couleur du fond.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="230" y="2919"/>
+	<Point x="2004" y="2919"/>
+	<Point x="2004" y="3104"/>
+	<Point x="230" y="3104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce limbe, qui longe tout le bord extérieur des premières
+ailes, n'occupe que le bord antérieur des deuxiêmes. Des points</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="250" y="1459"/>
+	<Point x="2000" y="1459"/>
+	<Point x="2000" y="1669"/>
+	<Point x="250" y="1669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>101. Cœnonympha Mongolica Ersch. in litt. nov. sp.
+Tab. XV, ﬁg. 26.</Unicode></TextEquiv></TextRegion></Page></PcGts>

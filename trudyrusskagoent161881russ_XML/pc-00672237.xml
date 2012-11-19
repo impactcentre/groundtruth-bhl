@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672237">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T10:50:03</Created>
+	<LastChange>2012-02-10T09:54:08</LastChange></Metadata>
+	<Page imageFilename="00672237.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="40" y="1026"/>
+	<Point x="1785" y="1026"/>
+	<Point x="1785" y="1261"/>
+	<Point x="40" y="1261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beitrag zur Lepidopteren-Fauna des Amur-
+Landes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="850" y="1290"/>
+	<Point x="973" y="1290"/>
+	<Point x="973" y="1352"/>
+	<Point x="850" y="1352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="623" y="1376"/>
+	<Point x="1207" y="1376"/>
+	<Point x="1207" y="1435"/>
+	<Point x="623" y="1435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>W. von HEDEMANN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="719" y="1478"/>
+	<Point x="1109" y="1478"/>
+	<Point x="1109" y="1547"/>
+	<Point x="719" y="1547"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Fortsetzung).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="38" y="1688"/>
+	<Point x="1802" y="1688"/>
+	<Point x="1802" y="1844"/>
+	<Point x="38" y="1844"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Acidalia Nitidulata Christ. *). Anfangs Juli um Blagowest-
+schensk in Gärten recht häuﬁg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="42" y="1850"/>
+	<Point x="1802" y="1850"/>
+	<Point x="1802" y="2019"/>
+	<Point x="42" y="2019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— Rubiginata Hufn. Am mittleren Amur Ende Juni in
+sehr dunkeln violettröthlichen Stücken.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="26" y="2028"/>
+	<Point x="1823" y="2028"/>
+	<Point x="1823" y="2269"/>
+	<Point x="26" y="2269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— Vitellinaria Ev. In der zweiten Hälfte des Juni am mitt-
+leren Amur an sonnigen, grasreichen Bergabhängen stellen-
+weise nicht selten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="28" y="2276"/>
+	<Point x="1830" y="2276"/>
+	<Point x="1830" y="2435"/>
+	<Point x="28" y="2435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— Nemoraria Hb. Auf der Insel Askold nicht selten, ganz
+mit deutschen Exemplaren meiner Sammlung übereinstimmend.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="28" y="2440"/>
+	<Point x="1819" y="2440"/>
+	<Point x="1819" y="2852"/>
+	<Point x="28" y="2852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— Punctata Tr. var. Dignata Gn. Bei Blagowestschensk An-
+fangs Juli. Bei einem der von mir mitgebrachten ♀♀ führt
+der äussere Querstreif der Hinterﬂügel auf jeder Rippe ei-
+nen verloschenen schwärzlichen Fleck. Ueberhaupt scheint
+die var. Dignata sehr zn variiren, indem bei keinem der von</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="45" y="2923"/>
+	<Point x="1809" y="2923"/>
+	<Point x="1809" y="3173"/>
+	<Point x="45" y="3173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Da mir unbekannt ist, ob die von Herrn Christoph benannten Amur-
+Lepidopteren, deren hier vorkommende Namen mir von Dr. Staudinger gü-
+tigst mitgetheilt wurden, bereits unter der Presse sind, enthalte ich mich, um
+die Synonymie nicht zu vermehren, der Benennung u. Beschreibung dieser Thiere.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="819" y="1604"/>
+	<Point x="1028" y="1604"/>
+	<Point x="1028" y="1635"/>
+	<Point x="819" y="1635"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="47" y="2878"/>
+	<Point x="647" y="2878"/>
+	<Point x="647" y="2907"/>
+	<Point x="47" y="2907"/></Coords></SeparatorRegion></Page></PcGts>

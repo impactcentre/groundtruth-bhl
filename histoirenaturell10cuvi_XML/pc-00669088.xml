@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669088">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:53:31</Created>
+	<LastChange>2012-02-09T16:27:32</LastChange></Metadata>
+	<Page imageFilename="00669088.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="390" y="267"/>
+	<Point x="1788" y="267"/>
+	<Point x="1786" y="946"/>
+	<Point x="542" y="944"/>
+	<Point x="527" y="948"/>
+	<Point x="516" y="944"/>
+	<Point x="389" y="944"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>même dans toute son étendue; ses replis forment
+deux masses, situées à droite et à gauche de l’æso‐
+phage et de l’estomac, et roulées chacune en spirale
+en sens contraire et à trois replis. Le rectum, sur
+lequel est placée la rate, petite et globuleuse, est
+entre les deux masses un peu au-dessous de l’estomac.
+Nous avons trouvé tous les intestins grêles remplis de
+débris de végétaux fortement tassés dans toute sa
+longueur, l’estomac vide, ainsi que le rectum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="403" y="950"/>
+	<Point x="1755" y="953"/>
+	<Point x="1756" y="1559"/>
+	<Point x="405" y="1559"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son squelette ne diﬀère guère de ceux que nous
+avons déjà décrits, que par les circonstances sensi‐
+bles de l’extérieur, comme la forme générale, la
+faiblesse des épines, la ligne droite du front, etc.
+Sa crête mitoyenne est rejetée à l’occiput; les laté‐
+rales ont presque disparu; les lames verticales de
+l’interépineux et des apophyses épineuses sont un
+peu moins étendues, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="612" y="1615"/>
+	<Point x="1491" y="1615"/>
+	<Point x="1491" y="1693"/>
+	<Point x="612" y="1693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE BRUNATRE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="321" y="1906"/>
+	<Point x="1790" y="1906"/>
+	<Point x="1790" y="2182"/>
+	<Point x="321" y="2182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Langsdorf a rapporté du Japon un am-
+phacanthe encore très-semblable parles formes
+et les proportions à ce siganus d’Égypte,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="339" y="2187"/>
+	<Point x="1791" y="2189"/>
+	<Point x="1791" y="2687"/>
+	<Point x="341" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>qui dans son état sec paraît brun, assez uniforme, avec
+du blanchâtre à la partie inférieure. La membrane de sa
+dorsale et de son anale est colorée en brun de diﬀé‐
+rentes teintes, comme par nuages, mais il n’y a pas de
+points sur leurs rayons, sa caudale est taillée en crois‐
+sant, et paraît un peu jaunâtre ainsi que les pectorales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="343" y="160"/>
+	<Point x="494" y="160"/>
+	<Point x="494" y="247"/>
+	<Point x="343" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>156</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="785" y="160"/>
+	<Point x="1335" y="160"/>
+	<Point x="1335" y="247"/>
+	<Point x="785" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="335" y="1712"/>
+	<Point x="1768" y="1712"/>
+	<Point x="1768" y="1891"/>
+	<Point x="335" y="1891"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus fuscescens, Centrogaster fuscescens,
+Houttuyn.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

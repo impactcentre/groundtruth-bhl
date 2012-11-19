@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672093">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T17:04:17</Created>
+	<LastChange>2012-03-12T14:34:07</LastChange></Metadata>
+	<Page imageFilename="00672093.tif" imageWidth="2465" imageHeight="3253">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1045" y="709"/>
+	<Point x="1068" y="699"/>
+	<Point x="1504" y="699"/>
+	<Point x="1537" y="725"/>
+	<Point x="1538" y="754"/>
+	<Point x="1045" y="754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J. J. SCHEUCHZER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="884" y="896"/>
+	<Point x="1723" y="896"/>
+	<Point x="1723" y="934"/>
+	<Point x="1494" y="940"/>
+	<Point x="1151" y="942"/>
+	<Point x="1150" y="955"/>
+	<Point x="1123" y="955"/>
+	<Point x="1124" y="945"/>
+	<Point x="890" y="948"/>
+	<Point x="884" y="948"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PISCIUM QUERELAE &amp; VINDICIAE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="1214" y="1068"/>
+	<Point x="1214" y="1137"/>
+	<Point x="1372" y="1137"/>
+	<Point x="1372" y="1068"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1708.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="1212" y="1001"/>
+	<Point x="1408" y="1001"/>
+	<Point x="1408" y="1018"/>
+	<Point x="1212" y="1018"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="1207" y="811"/>
+	<Point x="1400" y="811"/>
+	<Point x="1400" y="825"/>
+	<Point x="1207" y="825"/></Coords></SeparatorRegion></Page></PcGts>

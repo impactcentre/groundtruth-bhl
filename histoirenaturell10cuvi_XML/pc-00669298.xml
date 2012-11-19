@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669298">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:48:53</Created>
+	<LastChange>2012-03-12T14:33:54</LastChange></Metadata>
+	<Page imageFilename="00669298.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="332" y="261"/>
+	<Point x="1749" y="261"/>
+	<Point x="1749" y="620"/>
+	<Point x="332" y="620"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La queue lui manquait aussi. Sa longueur
+était de treize pieds, sa hauteur d’un pied,
+son épaisseur de trois pouces, la longueur de
+sa tête de sept.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="401" y="636"/>
+	<Point x="1758" y="636"/>
+	<Point x="1758" y="1329"/>
+	<Point x="401" y="1329"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ses ﬂancs étaient garnis de petites protubérances
+argentées, disposées en séries longitudinales. La dor‐
+sale, qui s’étendait depuis la tête jusqu’à l’autre ex‐
+trémité, était rouge et avait deux cent quatre-vingt-
+dix et treize rayons1; la pectorale en avait douze;
+la ventrale un seul. Il n’y avait point d’anale; on
+ne voyait point de dents; l’intérieur de la bouche
+était noir: la distance de l’anus à la bouche était de
+quatre pieds.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="347" y="1345"/>
+	<Point x="1756" y="1345"/>
+	<Point x="1756" y="1619"/>
+	<Point x="347" y="1619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Toutes circonstances qui, comme on voit,
+se rapprochent beaucoup de ce que nous avons
+observé dans nos gymnètres de la Méditerranée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="696" y="1696"/>
+	<Point x="1425" y="1696"/>
+	<Point x="1425" y="1781"/>
+	<Point x="696" y="1781"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le GYMNÈTRE GLESNE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="349" y="1799"/>
+	<Point x="1765" y="1799"/>
+	<Point x="1765" y="2058"/>
+	<Point x="349" y="2058"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Gymnetrus remipes, Bl. Schn., 482; Regalec Glesne,
+Lacép., II, 214 et 215; Gymnetrus Ascanii, Shaw,
+IV, part. II, 197.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="343" y="2070"/>
+	<Point x="1763" y="2070"/>
+	<Point x="1763" y="2429"/>
+	<Point x="343" y="2429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un poisson de la mer du Nord, qui n’a
+été décrit, comme le vogmare, que d’après
+des individus desséchés et en mauvais état,
+mais qui appartient évidemment à ce genre</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="354" y="2503"/>
+	<Point x="1774" y="2503"/>
+	<Point x="1774" y="2640"/>
+	<Point x="354" y="2640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. C’est ainsi que s’exprime la lettre. Les treize rayons sont
+sans doute ceux de la nuque.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="338" y="156"/>
+	<Point x="486" y="156"/>
+	<Point x="486" y="245"/>
+	<Point x="338" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>366</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="738" y="161"/>
+	<Point x="1323" y="161"/>
+	<Point x="1323" y="245"/>
+	<Point x="738" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r18">
+	<Coords>
+	<Point x="350" y="2441"/>
+	<Point x="1769" y="2441"/>
+	<Point x="1769" y="2487"/>
+	<Point x="350" y="2487"/></Coords></SeparatorRegion></Page></PcGts>

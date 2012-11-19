@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672703">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:31:56</Created>
+	<LastChange>2012-02-10T10:29:44</LastChange></Metadata>
+	<Page imageFilename="00672703.tif" imageWidth="1940" imageHeight="3182">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="645" y="190"/>
+	<Point x="1295" y="190"/>
+	<Point x="1295" y="257"/>
+	<Point x="645" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ADDER IN SOLWAY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1666" y="197"/>
+	<Point x="1750" y="197"/>
+	<Point x="1750" y="261"/>
+	<Point x="1666" y="261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>157</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="169" y="304"/>
+	<Point x="1764" y="304"/>
+	<Point x="1764" y="578"/>
+	<Point x="169" y="578"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>which I was totally unacquainted. The adders are in great
+numbers about the banks of the Garpel, and the eels
+probably catch them about the edge of the water, but it
+seems very remarkable how they get them at all.’”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="169" y="580"/>
+	<Point x="1785" y="580"/>
+	<Point x="1785" y="1661"/>
+	<Point x="169" y="1661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In the “Courier” for 10th October 1826 the editor again
+reverts to the foregoing letter, stating that his correspondent
+was a Mr. Lorimer, and that after dissecting the eel as
+related, the ﬁsh had been ﬂung down. “In the course
+of the very same week, he (Mr. Lorimer) caught several
+more eels, and though these appeared to be sound and
+good, the recollection of what had occurred before excited
+such a prejudice against them that it was unnecessary to
+cook what no one would eat. These, therefore, he also
+ﬂung away under a tree beside the former, and on passing
+the spot soon after he was surprised to ﬁnd myriads of ﬂies
+preying on the eels caught last, and not one attacking the
+other. . . . Here, then, we have the testimony of a respect-
+able individual to two rather curious facts—ﬁrst, that eels
+devour adders; and secondly, that ﬂies have a perception
+of, and shun any poisonous substance.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="173" y="1669"/>
+	<Point x="1785" y="1669"/>
+	<Point x="1785" y="2411"/>
+	<Point x="173" y="2411"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Since I ﬁrst read this paragraph I have often watched
+a dead adder, and found that ﬂies had no hesitation in
+sucking its juices, or laying their eggs upon the carcase.
+To be sure, I have not had the chance of experimenting
+with an eel that had swallowed an adder. Here is a
+paragraph that bears upon the former abundance of the
+adder in the Stewartry: “On Friday week Mr. James
+Neilson, on the farm of Lochend, about three miles to the
+south of the Nine-mile Tollbar, killed at one shot seven
+adders, one of which was as long as a man's arm”
+(28th August 1832).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="185" y="2416"/>
+	<Point x="1783" y="2416"/>
+	<Point x="1783" y="3033"/>
+	<Point x="185" y="3033"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>For nearly thirty years following, the species is not
+mentioned in the “Courier” at all. But on 25th September
+1860 occurs the following: “Adders are reported as being
+unusually plentiful in various portions of Scotland this
+season, and sportsmen and others who have been treading
+the moors and wilds of Dumfriesshire and Galloway conﬁrm
+the statement. As the so-called summer has been wet and
+cold, the abundance of adders, which love heat and sunshine,
+is rather remarkable. Probably the hot and dry summer of</Unicode></TextEquiv></TextRegion></Page></PcGts>

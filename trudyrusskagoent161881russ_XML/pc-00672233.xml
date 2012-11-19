@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672233">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T02:49:24</Created>
+	<LastChange>2012-02-10T09:54:07</LastChange></Metadata>
+	<Page imageFilename="00672233.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="785" y="216"/>
+	<Point x="1103" y="216"/>
+	<Point x="1103" y="282"/>
+	<Point x="785" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 39 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="67" y="351"/>
+	<Point x="1817" y="351"/>
+	<Point x="1817" y="510"/>
+	<Point x="67" y="510"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tennae fuscae, basi nigricantes, corporis longitudine; palpi
+fusci.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="60" y="517"/>
+	<Point x="1824" y="517"/>
+	<Point x="1824" y="851"/>
+	<Point x="60" y="851"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pronotum longitudine paulo latius, subquadratum, fulvo-
+tomentosum, nigro-setosum, in medio sulcatum impressionibus-
+que duabus trigonis notatum; margine postico testaceo, prae-
+cipue apud ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="62" y="862"/>
+	<Point x="1828" y="862"/>
+	<Point x="1828" y="1455"/>
+	<Point x="62" y="1455"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elytra ♂ abdomine breviora, infuscata praesertim in venae
+scapularis regione, venis fuscis in campo discoidali dilutiori-
+bus *); elytrum dextrum dimidio tantum elytrum sinistrum tegit
+et ei non arcte adjacet; elytra Gr. campestris L. elytris si-
+milia sed venis secundariis minus praedita, apice parcius can-
+cellato-reticulata; in elytro utroque venae internomediae cruri
+basali supra minus profunde impresso.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="66" y="1458"/>
+	<Point x="1823" y="1458"/>
+	<Point x="1823" y="1955"/>
+	<Point x="66" y="1955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Venis campi marginalis ampli, trigoni, margine antico mem-
+branacei fuscescentibus 4 (interdum 5) e basi orientibus, paulo
+arcuatis, parallelibus venulis paucis transversis longitudinali-
+busque interjectis; vena mediastina simplici ramulos versus
+marginem anticum elytri non emittente, eundemque marginem
+non semper attingente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="60" y="1957"/>
+	<Point x="1830" y="1957"/>
+	<Point x="1830" y="2301"/>
+	<Point x="60" y="2301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vena scapulari fusca crassiore bifurcata **) sulcum longi-
+tudinalem conformante qui campum marginalem a campo inter-
+medio sejungit; hujus venae rami inaequales marginem posti-
+cum non attingunt; triangulo membranaceo ad limitem apicalem</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="67" y="2408"/>
+	<Point x="1821" y="2408"/>
+	<Point x="1821" y="2530"/>
+	<Point x="67" y="2530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) In situ quieto elytra unum alteri et corpori adjacentia multo obscuriora,
+venae autem fere nigrae apparent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="62" y="2532"/>
+	<Point x="1830" y="2532"/>
+	<Point x="1830" y="3192"/>
+	<Point x="62" y="3192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>**) L. Fischer putat sulcum longitudinalem Gryllodeorum aream margi-
+nalem et intermediam separantem vena scapulari et v. subexternomedia de-
+ﬁnitum esse quae admittere nequeo quia v. externomedia et subexternomedia
+(Fischeri) ad summam elytri basin non connatae, diversi coloris et diversae
+crassitudinis sunt: haec fusca, crassa; illa pallide-testacea et tenuis. Vena
+subexternomedia (Fischeri) me judice ramum venae scapularis repraesentat
+quacum ex eodem loco ad summam elytri basin exit, ejusdem coloris et ejus-
+dem crassitudinis est. Secundum meas observationes venulae brevissimae trans-
+versae quasi ut commissurae non solum inter v. externomediam et subexterno-
+mediam (Fischeri) sed etiam inter v. subexternomediam ejusdem auctoris et
+venam scapularem observantur.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="80" y="2342"/>
+	<Point x="673" y="2342"/>
+	<Point x="673" y="2367"/>
+	<Point x="80" y="2367"/></Coords></SeparatorRegion></Page></PcGts>

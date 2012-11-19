@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672682">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:30:56</Created>
+	<LastChange>2012-02-10T10:29:44</LastChange></Metadata>
+	<Page imageFilename="00672682.tif" imageWidth="2158" imageHeight="3482">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r11" index="6"/>
+	<RegionRefIndexed regionRef="r12" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="350" y="250"/>
+	<Point x="410" y="250"/>
+	<Point x="410" y="295"/>
+	<Point x="350" y="295"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>50</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="768" y="237"/>
+	<Point x="1645" y="237"/>
+	<Point x="1645" y="302"/>
+	<Point x="768" y="302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIELDIANA: ZOOLOGY, VOLUME 73</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="335" y="362"/>
+	<Point x="2092" y="362"/>
+	<Point x="2092" y="1031"/>
+	<Point x="335" y="1031"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>of the dorsal and anal spines are measured proximally at the base of
+the spine rather than the point at which the spine emerges from the
+scaly sheath. The angular length of the caudal peduncle is the ob‐
+lique distance from the rear base of the last anal ray to the base of
+the middle caudal ray. Measurements were made using dial calipers
+to the nearest one-tenth millimeter (mm). Standard length is abbre‐
+viated as SL. Regarding the morphometric proportions given in the
+“Description” sections, the first figure given is the mean; bracketed
+numbers, the range; and the third figure in the series, refers to the
+holotype.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="332" y="1040"/>
+	<Point x="2088" y="1040"/>
+	<Point x="2088" y="1310"/>
+	<Point x="332" y="1310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Type material has been deposited at the following institutions:
+Bernice P. Bishop Museum, Honolulu (BPBM); Field Museum of
+Natural History, Chicago (FMNH); Royal Ontario Museum, Toron‐
+to (ROM); Western Australian Museum, Perth (WAM).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="445" y="1337"/>
+	<Point x="1968" y="1337"/>
+	<Point x="1968" y="1459"/>
+	<Point x="445" y="1459"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>KEY TO THE WESTERN INDIAN OCEAN SPECIES OF CHROMIS
+WITH FOURTEEN DORSAL SPINES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="344" y="1665"/>
+	<Point x="2069" y="1665"/>
+	<Point x="2069" y="1780"/>
+	<Point x="344" y="1780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1b. Two spiniform procurrent caudal rays; dorsal XIV, 13-14; anal II, 11-13; total gill
+rakers 26 to 29; no black stripe on anal fin.......... C. axillaris (Bennett), 1831</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="766" y="1898"/>
+	<Point x="1658" y="1898"/>
+	<Point x="1658" y="1970"/>
+	<Point x="766" y="1970"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SYSTEMATIC DESCRIPTIONS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="347" y="1987"/>
+	<Point x="1668" y="1987"/>
+	<Point x="1668" y="2075"/>
+	<Point x="347" y="2075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chromis woodsi new species. Figures 1, 2; Table 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="328" y="2087"/>
+	<Point x="2083" y="2087"/>
+	<Point x="2083" y="3152"/>
+	<Point x="328" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Type specimens.—Holotype: FMNH 85011, 74.0 mm. SL, West‐
+ern Indian Ocean, Eastern Africa, Somalia Coast; 11° 24′ N., 61° 35′
+E., depth 75-175 m., trawl station. IIOE, Anton Bruun Cruise 9,
+Station 463. H. A. Fehlmann. December 17, 1964. Paratypes (16):
+FMNH 85012, 69.3 mm. SL, Same data as holotype. FMNH
+84998-85002, 52.6-68.9 mm. SL, Western Indian Ocean, Eastern
+Africa, Somalia Coast; 11° 37′ N., 51° 27′ E., depth 67-72 m., trawl.
+IIOE, Anton Bruun Cruise 9, Station 465. H. A. Fehlmann.
+December 18, 1964. WAM P26020-001, 69.0 mm. SL, Western
+Indian Ocean, Mozambique Channel; 19° 09′ S., 36° 55′ E., depth 88
+m., shrimp trawl. IIOE, Anton Bruun Cruise 8, Station 403E,
+LK-64-46. L. W. Knapp. October 9, 1964. FMNH 85014-16,
+62.0-67.2 mm. SL, same data as WAM P26020-001. BPBM 21080,
+63.7 mm. SL, Western Indian Ocean; 09° 36′ N., 51° 01′ E., depth
+78-82 m., Gear GMT. IIOE, Anton Bruun Cruise 9, Station 444. H.
+A. Fehlmann. December 16, 1964. ROM 34301, 57.2 mm. SL, same</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="339" y="1476"/>
+	<Point x="2079" y="1476"/>
+	<Point x="2079" y="1656"/>
+	<Point x="339" y="1656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1a. Three spiniform procurrent caudal rays; dorsal XIV, 11-12; anal II, 12-13; total
+gill rakers 23 to 25; black stripe on anterior distal membranes of anal fin........
+C. woodsi n. sp.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669130">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:28:25</Created>
+	<LastChange>2012-02-09T16:27:34</LastChange></Metadata>
+	<Page imageFilename="00669130.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="296" y="288"/>
+	<Point x="1740" y="288"/>
+	<Point x="1740" y="466"/>
+	<Point x="296" y="466"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sont petits, et cachés dans les chairs de l’isthme
+branchial.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="340" y="486"/>
+	<Point x="1757" y="486"/>
+	<Point x="1757" y="1938"/>
+	<Point x="340" y="1938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La hauteur de l’ovale de son corps, la queue non
+comprise, a un peu plus de moitié de sa longueur:
+en comprenant la queue, la longueur est de deux fois
+et demie la hauteur; son proﬁl descend obliquement,
+fait vis-à-vis de l’æil une légère convexité, puis sa
+courbe devient un peu concave entre cet organe et la
+bouche, qui est légèrement proéminente. Ses écailles
+sont très-petites et ﬁnement ciliées; il y en a sur
+toute la tête, même sur les opercules; mais ces der‐
+nières tombent aisément et laissent voir les stries de
+cet os, ainsi que celles de l’huméral. Les dents, au
+nombre de seize ou dix-huit à chaque mâchoire, ont
+chacune cinq crénelures assez profondes. La dorsale
+et l’anale sont d’une hauteur à peu près uniforme;
+la caudale est coupée presque carrément: c’est à
+peine si son bord terminal est un peu concave. Les
+ventrales sortent sous le milieu des pectorales et les
+dépassent, elles sont pointues et leur épine est forte.
+L’épine latérale de la queue est petite et très-mobile.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="551" y="1944"/>
+	<Point x="1579" y="1944"/>
+	<Point x="1579" y="2017"/>
+	<Point x="551" y="2017"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 5; D. 9/23; A. 3/20; C. 16; P. 14; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="384" y="2032"/>
+	<Point x="1774" y="2032"/>
+	<Point x="1774" y="2656"/>
+	<Point x="384" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La teinte générale de ce poisson, dans la liqueur,
+est un gris-brun tirant sur le roux, qui se change
+par degrés en blanchâtre vers la partie inférieure;
+mais dans le frais le fond est d’un vert olivâtre plus
+ou moins clair. Cinq lignes noires, peu larges,
+descendent du dos vers la partie inférieure à des dis‐
+tances presque égales, l’une d’elles va de la nuque à
+l’æil et de l’œil à travers la joue vers l’angle du pré-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="321" y="201"/>
+	<Point x="457" y="201"/>
+	<Point x="457" y="265"/>
+	<Point x="321" y="265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>198</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="766" y="201"/>
+	<Point x="1297" y="201"/>
+	<Point x="1297" y="265"/>
+	<Point x="1125" y="262"/>
+	<Point x="766" y="265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

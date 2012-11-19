@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669305">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:49:48</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669305.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="55" y="301"/>
+	<Point x="1482" y="301"/>
+	<Point x="1482" y="564"/>
+	<Point x="55" y="564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Selon ce qu’il a dit à Bloch, elle doit être
+arrondie; mais comment le savait-il, puis‑
+qu’il a dit à Shaw qu’elle était rompue?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="123" y="591"/>
+	<Point x="1489" y="591"/>
+	<Point x="1489" y="2173"/>
+	<Point x="123" y="2176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quoi qu’il en soit, le poisson paraît dans ce des‑
+sin moins rétréci en arrière que nos autres gymnètres.
+Sa hauteur est huit fois dans sa longueur; celle de
+sa dorsale fait moitié de celle du corps. Ses ventrales
+ont près de moitié de la longueur totale. On ne
+remarque de vestige ni de panache à la nuque, ni
+d’épines à la ligne latérale. Bloch ne compte que
+dix-sept1 rayons à la dorsale, mais c’est évidemment
+une faute de copiste, peut-être pour quatre-vingt-dix-
+sept. Ce qui est sûr, c’est que son dessin en marque
+ce dernier nombre. Dans son Système il ne cite que
+celui des pectorales où il y en compte huit; mais quoi‑
+qu’il ait possédé le poisson2, lequel était, dit-il, long
+de deux pieds et demi, et pesait dix livres, je crains
+qu’il n’ait aussi pris ce nombre sur le dessin seule‑
+ment: c’est ce dont nous avons tout lieu de douter.
+Nous pensons au contraire que Bloch a fait dans cette
+circonstance, comme il ne lui est que trop souvent
+arrivé, une confusion qu’il sera maintenant d’autant
+plus diﬃcile de débrouiller, que Shaw lui-même y
+aurait ajouté, si nos conjectures sont fondées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="126" y="2181"/>
+	<Point x="1007" y="2178"/>
+	<Point x="1339" y="2177"/>
+	<Point x="1478" y="2177"/>
+	<Point x="1478" y="2337"/>
+	<Point x="126" y="2337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette ﬁgure le représente d’un gris argenté, avec
+des bandes obliques et des taches rondes de couleur</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="57" y="2416"/>
+	<Point x="1482" y="2416"/>
+	<Point x="1483" y="2543"/>
+	<Point x="530" y="2547"/>
+	<Point x="416" y="2547"/>
+	<Point x="399" y="2546"/>
+	<Point x="58" y="2545"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Il l’écrit en chiﬀres romains XVII; il aura oublié un C après
+le X. M. Yarrell suppose le nombre 117.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="60" y="2549"/>
+	<Point x="411" y="2550"/>
+	<Point x="526" y="2551"/>
+	<Point x="913" y="2549"/>
+	<Point x="1482" y="2546"/>
+	<Point x="1482" y="2680"/>
+	<Point x="60" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Ce poisson m’a été envoyé par M. Hawken; c’est aussi de
+lui que j’ai reçu le dessin. Grande ichthyol., XII, p. 88.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="492" y="199"/>
+	<Point x="1033" y="199"/>
+	<Point x="1033" y="271"/>
+	<Point x="492" y="271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1342" y="199"/>
+	<Point x="1485" y="199"/>
+	<Point x="1485" y="271"/>
+	<Point x="1342" y="271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>373</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="50" y="2366"/>
+	<Point x="50" y="2398"/>
+	<Point x="1478" y="2398"/>
+	<Point x="1478" y="2366"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667992">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:20:32</Created>
+	<LastChange>2012-02-10T09:52:29</LastChange></Metadata>
+	<Page imageFilename="00667992.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="235" y="180"/>
+	<Point x="330" y="180"/>
+	<Point x="330" y="253"/>
+	<Point x="235" y="253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>84</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1026" y="171"/>
+	<Point x="1355" y="171"/>
+	<Point x="1355" y="253"/>
+	<Point x="1026" y="253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWITE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="217" y="280"/>
+	<Point x="2158" y="280"/>
+	<Point x="2158" y="1419"/>
+	<Point x="217" y="1419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>same time, I gave her two of the Twites’ eggs, making up the number for each
+with infertile eggs; both birds hatched on the same day; the two in the Redpoll’s
+nest perished at once, though she is a good feeder, and has reared two broods of
+her own this season; the Twite successfully reared hers, and they left the nest
+on July 19th, and are now very ﬁne birds, but quite normally coloured; this I
+expected, as I have reared a large number during the past few years from both
+white, pied, and cinnamon Lesser Redpolls, and have inbred them, but have never
+had one vary in the least from the normal colour.* Young Twites are not nearly
+so precocious as Redpolls; they were a long time before they attempted to peck
+for themselves, and even now (August) clamour to the old ones for food, whereas
+I have seen young Redpolls a week after leaving the nest shell hard Canary-seed.
+My birds have no soft food given them, but as much of the ﬂowering top of the
+dwarf-grass, dandelion, and hard-head tops, thistle, plantain, etc., as they wish, and
+as many aphides oﬀ rose, apple, or plum-trees as I can at the time obtain; infested
+branches being put in the aviary for the birds to peck them oﬀ. The latter, I
+consider, are very essential for the successful rearing of Finches in conﬁnement,
+especially for the ﬁrst few days after they are hatched.”†</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="341" y="2558"/>
+	<Point x="1967" y="2558"/>
+	<Point x="1967" y="2698"/>
+	<Point x="341" y="2698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Nevertheless continuous inbreeding is believed to be the principal cause of albinism.—A.G.B.
+† If soft food is given, I do not ﬁnd aphides to be essential.—A G.B.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="1075" y="1932"/>
+	<Point x="1075" y="1982"/>
+	<Point x="1303" y="1982"/>
+	<Point x="1303" y="1932"/></Coords></SeparatorRegion></Page></PcGts>

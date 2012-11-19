@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668940">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-06T19:35:20</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668940.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="740" y="222"/>
+	<Point x="1381" y="222"/>
+	<Point x="1381" y="280"/>
+	<Point x="740" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="361" y="323"/>
+	<Point x="1750" y="323"/>
+	<Point x="1750" y="487"/>
+	<Point x="361" y="487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Martin, à cause de la saison où il se montre
+le plus abondamment sur cette côte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="347" y="493"/>
+	<Point x="1762" y="493"/>
+	<Point x="1762" y="1825"/>
+	<Point x="347" y="1825"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quant à ses noms anciens, on peut dire
+qu'on les ignore, car Gillius ne lui a appliqué
+ceux de faber, de zeus et de chalceus, que
+par le motif qu'il l'a entendu appeler forge-
+ron en Dalmatie, et cela, dit-il, parce que
+ces peuples trouvent dans son corps tous les
+outils d'un forgeron. Pline se borne à dire
+que le faber est le même que le zeus, et
+que c'est à Cadix que le zeus est le meilleur.1
+Columelle dit la même chose2, et il est pro-
+bable que c'est de lui que Pline a emprunté ce
+passage. Ovide, dans ses Halieutiques3, donne
+au faber l'épithète de rare (rarus faber), ce
+qui ne conviendrait guère à notre dorée, et
+c'est à ces traits que se réduit tout ce qu'on en
+trouve dans les Latins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="432" y="1836"/>
+	<Point x="1757" y="1837"/>
+	<Point x="1757" y="1924"/>
+	<Point x="432" y="1928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quelques Grecs parlent d'un �������, et</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="365" y="218"/>
+	<Point x="405" y="218"/>
+	<Point x="405" y="282"/>
+	<Point x="365" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="363" y="1982"/>
+	<Point x="1755" y="1982"/>
+	<Point x="1755" y="2006"/>
+	<Point x="363" y="2006"/></Coords></SeparatorRegion>
+	<TextRegion id="r14" type="footnote">
+	<Coords>
+	<Point x="362" y="2056"/>
+	<Point x="1750" y="2056"/>
+	<Point x="1752" y="2092"/>
+	<Point x="1752" y="2174"/>
+	<Point x="1073" y="2181"/>
+	<Point x="1035" y="2183"/>
+	<Point x="1004" y="2183"/>
+	<Point x="847" y="2181"/>
+	<Point x="828" y="2175"/>
+	<Point x="686" y="2175"/>
+	<Point x="362" y="2169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Pline, l. IX, c. 18. — Alii alibi pisces principatum obti-
+neant....zeus, idem faber appellatus Gadibus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="footnote">
+	<Coords>
+	<Point x="363" y="2183"/>
+	<Point x="401" y="2181"/>
+	<Point x="521" y="2181"/>
+	<Point x="718" y="2184"/>
+	<Point x="838" y="2184"/>
+	<Point x="861" y="2194"/>
+	<Point x="972" y="2187"/>
+	<Point x="1030" y="2187"/>
+	<Point x="1751" y="2183"/>
+	<Point x="1753" y="2208"/>
+	<Point x="1751" y="2417"/>
+	<Point x="406" y="2420"/>
+	<Point x="363" y="2417"/>
+	<Point x="360" y="2402"/>
+	<Point x="360" y="2272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Colum., l. VIII, c. 16. Non enim omni mari potest omnis
+esse, ut atlantico faber, qui est in nostro Gadium municipio, gene-
+rosissimis piscibus annumeratur, eumque prisca consuetudine zeum
+appellamus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="footnote">
+	<Coords>
+	<Point x="414" y="2425"/>
+	<Point x="423" y="2424"/>
+	<Point x="1536" y="2426"/>
+	<Point x="1544" y="2523"/>
+	<Point x="1536" y="2667"/>
+	<Point x="777" y="2670"/>
+	<Point x="417" y="2667"/>
+	<Point x="414" y="2435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. Ovid., Hal., v. 110.
+.................
+Et rarus faber, et pictæ mormyres, et auri
+Chrysophrys imitata decus.......</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668006">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T20:21:58</Created>
+	<LastChange>2012-02-10T09:52:30</LastChange></Metadata>
+	<Page imageFilename="00668006.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="171" y="237"/>
+	<Point x="249" y="237"/>
+	<Point x="249" y="312"/>
+	<Point x="171" y="312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="826" y="207"/>
+	<Point x="1380" y="207"/>
+	<Point x="1380" y="307"/>
+	<Point x="826" y="307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE HOUSE‐SPARROW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="175" y="337"/>
+	<Point x="2036" y="340"/>
+	<Point x="2036" y="598"/>
+	<Point x="174" y="604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Madeira. In Africa it occurs from Morocco to the Albert Nyanza. It has been
+introduced into Australia, New Zealand, and the United States, where it has
+increased to such an extent as to be an unbearable nuisance. (Vide Sharpe and
+Saunders).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="174" y="607"/>
+	<Point x="2036" y="603"/>
+	<Point x="2035" y="846"/>
+	<Point x="175" y="850"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Throughout Great Britain and Ireland, wherever man has made his home,
+the Sparrow has quickly followed his example, even isolated houses usually
+providing a pretext for the presence of this bird, sometimes to the extent of scores
+of individuals.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="176" y="853"/>
+	<Point x="2036" y="851"/>
+	<Point x="2041" y="1963"/>
+	<Point x="170" y="1970"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The adult male Sparrow in breeding plumage has the crown, nape, and lower
+back slate-grey, slightly washed with olivaceous, but the sides of the nape bright
+chocolate-reddish in continuation of a broad streak from the ear-coverts; upper
+back blackish, each feather broadly bordered with dull chestnut; lesser wing-coverts
+bright chocolate-reddish; median coverts black, broadly tipped with white so as
+to form a prominent bar across the wing; greater coverts blackish, broadly bordered
+with dull chestnut; primaries blackish-grey, all excepting the ﬁrst with pale
+chestnut edging to the wider part of the outer web, but the inner primaries with
+this edge continuous; secondaries blackish, with chestnut borders, paler and greyer
+on the inner webs; tail blackish-brown, the feathers edged with whity-brown; a
+narrow white line over the eye; lores black; cheeks, and sides of neck white;
+throat and chest black, sometimes suﬀused with chocolate; remainder of under
+parts white, ashy at the sides, and brownish on the ﬂanks; beak leaden-black;
+feet brown; iris brown. After the autumn moult the male has whitish-ash fringes
+to the feathers of the head and throat, which appear to be very delicate in texture,
+and break away in the spring;* the under parts are also more uniformly ashy,
+the upper parts duller, the wing band yellowish, and the beak becomes yellowish-
+brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="170" y="1979"/>
+	<Point x="2040" y="1972"/>
+	<Point x="2044" y="2285"/>
+	<Point x="968" y="2287"/>
+	<Point x="170" y="2287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The female is duller and browner than the male; the broad borders to the
+feathers of the mantle and back being tawny rather than chestnut; the superciliary
+line and wing bar less pure and conspicuous; the under parts browner, with no
+black on throat and chest. Young birds chieﬂy diﬀer from the female in their
+paler colouring; the beak is dull yellow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="170" y="2291"/>
+	<Point x="2046" y="2291"/>
+	<Point x="2047" y="2606"/>
+	<Point x="169" y="2599"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In towns the House-Sparrow is a useful bird, inasmuch as it feeds largely on
+oats and other grain which it picks from horse-manure, and which otherwise would
+render the latter less suitable for garden purposes; it also acts as a scavenger,
+eating scraps of all kinds which have been thrown into the gutters, and which if
+not removed in warm weather would soon become oﬀensive. In very dry seasons,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="184" y="2633"/>
+	<Point x="2030" y="2638"/>
+	<Point x="2030" y="2726"/>
+	<Point x="183" y="2724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* This I do not give on the authority of previous writers, although they mention the fact, but on the
+clear evidence of a good skin (in my possession) of a bird which died in the middle of its change of plumage.</Unicode></TextEquiv></TextRegion></Page></PcGts>

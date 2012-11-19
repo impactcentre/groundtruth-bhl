@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672236">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T18:49:55</Created>
+	<LastChange>2012-02-10T09:54:08</LastChange></Metadata>
+	<Page imageFilename="00672236.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/>
+	<RegionRefIndexed regionRef="r13" index="11"/>
+	<RegionRefIndexed regionRef="r14" index="12"/>
+	<RegionRefIndexed regionRef="r15" index="13"/>
+	<RegionRefIndexed regionRef="r17" index="14"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1082" y="157"/>
+	<Point x="1389" y="157"/>
+	<Point x="1389" y="217"/>
+	<Point x="1082" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 42 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="366" y="291"/>
+	<Point x="2107" y="291"/>
+	<Point x="2107" y="449"/>
+	<Point x="366" y="449"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Europa media etiam occurrit (in Bohemia et Austria), prope
+Pragam et Vindobonam.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="358" y="457"/>
+	<Point x="2119" y="457"/>
+	<Point x="2119" y="779"/>
+	<Point x="358" y="779"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In campis sterilibus, in agris neglectis (in provincia Mohi-
+leviensi «oblohi» dictis), in ericetis una cum Gr. campestri L.,
+Opatro sabuloso L. et Tettyge bipunctata L. interdum gre-
+gatim obviam venit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="357" y="785"/>
+	<Point x="2121" y="785"/>
+	<Point x="2121" y="1360"/>
+	<Point x="357" y="1360"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Degit sub quisquiliis plantarum, sub foliis deciduis, prae-
+fert locas ubi Pteris aquilina L., pro parte Polytrichum,
+Viola tricolor L., Calluna vulgaris Salisb., Plantago are-
+naria L., Hieracium, Sedum acre L., Potentilla tormentilla
+Sibthorp. sparse crescunt. Ibi supra terram degit, celeriter
+currit, saliendo quoque eﬀugiens, cuniculos in superﬁcie tan-
+tum soli fodit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="367" y="1362"/>
+	<Point x="2133" y="1362"/>
+	<Point x="2133" y="1614"/>
+	<Point x="367" y="1614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Propter imperfectam organorum stridoris evolutionem ♂
+lente sibilat; hunc stridorem lentem horis meridianis et po-
+meridianis audivi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1669" y="1623"/>
+	<Point x="1976" y="1623"/>
+	<Point x="1976" y="1683"/>
+	<Point x="1669" y="1683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N. Arnold.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="362" y="1667"/>
+	<Point x="889" y="1667"/>
+	<Point x="889" y="1866"/>
+	<Point x="362" y="1866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gorki,
+provinc. Mohileviensis.
+12 Jann. 1880.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="919" y="1983"/>
+	<Point x="1557" y="1983"/>
+	<Point x="1557" y="2069"/>
+	<Point x="919" y="2069"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Explicatio tabulae IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="369" y="2126"/>
+	<Point x="2105" y="2126"/>
+	<Point x="2105" y="2251"/>
+	<Point x="369" y="2251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Omnes icones originales magnitudine aucta, a me secundum naturam ex-
+pressae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="374" y="2271"/>
+	<Point x="1116" y="2271"/>
+	<Point x="1116" y="2332"/>
+	<Point x="374" y="2332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 1. ♀ Grylli frontalis, Fieb.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="366" y="2335"/>
+	<Point x="1205" y="2335"/>
+	<Point x="1205" y="2392"/>
+	<Point x="366" y="2392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 2. ejusdem speciei tibia postica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="367" y="2394"/>
+	<Point x="1423" y="2394"/>
+	<Point x="1423" y="2449"/>
+	<Point x="367" y="2449"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 3. ejusdem speciei tarsus, supra inspectus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="374" y="2453"/>
+	<Point x="1483" y="2453"/>
+	<Point x="1483" y="2507"/>
+	<Point x="374" y="2507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 4. ejusdem speciei tarsus, a latere inspectus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="369" y="2510"/>
+	<Point x="1512" y="2510"/>
+	<Point x="1512" y="2566"/>
+	<Point x="369" y="2566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 5. Grylli frontalis Fieb. ♂ elytrum dextrum.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r18">
+	<Coords>
+	<Point x="1092" y="1862"/>
+	<Point x="1400" y="1862"/>
+	<Point x="1400" y="1891"/>
+	<Point x="1092" y="1891"/></Coords></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="371" y="2569"/>
+	<Point x="2119" y="2569"/>
+	<Point x="2119" y="2687"/>
+	<Point x="371" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 6. ejusdem speciei corporis masculini extremitas postica, elytrorum situm,
+cercos, abdominisque apicem ostendens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="374" y="2689"/>
+	<Point x="2125" y="2689"/>
+	<Point x="2125" y="2817"/>
+	<Point x="374" y="2817"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 7. Grylli campestris L. corporis masculini extremitas postica elytrorum
+situm ostendens.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r23">
+	<Coords>
+	<Point x="1089" y="2998"/>
+	<Point x="1089" y="3041"/>
+	<Point x="1407" y="3041"/>
+	<Point x="1407" y="2998"/></Coords></SeparatorRegion></Page></PcGts>

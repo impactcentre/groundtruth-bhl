@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669000">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:12:15</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00669000.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="367" y="308"/>
+	<Point x="1789" y="308"/>
+	<Point x="1789" y="482"/>
+	<Point x="367" y="482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lames de sabre; la largeur de celui de l’anale
+est surtout remarquable.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="391" y="490"/>
+	<Point x="1800" y="490"/>
+	<Point x="1800" y="2692"/>
+	<Point x="391" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La hauteur du corps est comprise deux fois et un
+tiers dans la longueur totale; la tête, quand la bouche
+est fermée, l’est un peu plus de quatre fois, mais la
+protractilité du museau alonge cette tête de près d’un
+quart. La dentelure du bord inférieur du préoper‐
+cule est à peine sensible; son limbe est légèrement
+inégal. L’opercule est très-obtus en arrière et se joint
+au subopercule par une ligne droite, très-montante;
+l’interopercule a le bord convexe, il serre étroite-
+ment et couvre bien toute la membrane des bran‐
+chies, dont l’oriﬁce se termine vis-à-vis son milieu;
+je n’ai compté que cinq rayons branchiaux, et comme
+ce nombre s’est retrouvé dans les autres espèces du
+genre, je ne puis douter que Bloch ne se soit trompé
+en lui en attribuant sept. Les sous-orbitaires demeu‐
+rent cachés sous la peau; le pédicule de l’inter-
+maxillaire, lors de la protraction, double presque
+la longueur du proﬁl. Le maxillaire est court, plat,
+arqué en avant, un peu obtus à son extrémité;
+quand la bouche est fermée, il laisse voir une partie
+demi-ovale en arrière de la commissure. Les lèvres
+sont charnues, et sous elles se voit à chaque mâ‐
+choire une bande étroite de dents en soies, serrées,
+ﬂexibles, à peu près comme aux chétodons, moins
+nombreuses et moins longues cependant que dans
+la plupart des espèces de ce dernier genre. La région
+la plus large du front est entre les épines qui sont
+près de la partie antérieure et supérieure de chaque
+orbite. Ces épines, au nombre de deux de chaque</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="374" y="198"/>
+	<Point x="499" y="198"/>
+	<Point x="499" y="277"/>
+	<Point x="374" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>68</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="1426" y="198"/>
+	<Point x="1426" y="298"/>
+	<Point x="751" y="298"/>
+	<Point x="751" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

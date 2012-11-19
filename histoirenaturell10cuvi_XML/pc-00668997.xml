@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668997">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:11:51</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668997.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="487" y="218"/>
+	<Point x="1030" y="218"/>
+	<Point x="1030" y="285"/>
+	<Point x="487" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="49" y="303"/>
+	<Point x="1472" y="303"/>
+	<Point x="1466" y="640"/>
+	<Point x="712" y="641"/>
+	<Point x="659" y="645"/>
+	<Point x="52" y="642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l’anale, et de se faire ainsi des armes défen‐
+sives redoutables, et l’on pourra juger d’après
+ce tableau à quel point ce genre est naturel
+et combien ses espèces se ressemblent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="48" y="646"/>
+	<Point x="1492" y="645"/>
+	<Point x="1498" y="1476"/>
+	<Point x="49" y="1476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est avec les gerres de la famille des mé-
+nides qu’il serait le plus facile de confondre les
+equula, et Russel a en eﬀet mêlé les espèces de
+ces deux genres; mais la petitesse de leurs
+écailles distingue ces derniers au premier coup
+d’æil, et d’ailleurs les gerres n’ont ni les dente‐
+lures de la base de la dorsale et de l’anale, ni
+ce long espace nu du dessus de la nuque, ni
+cette crête et cette épine couchées en avant
+de la dorsale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="54" y="1481"/>
+	<Point x="1471" y="1481"/>
+	<Point x="1473" y="1722"/>
+	<Point x="1319" y="1725"/>
+	<Point x="1313" y="1735"/>
+	<Point x="1304" y="1744"/>
+	<Point x="1284" y="1744"/>
+	<Point x="1279" y="1740"/>
+	<Point x="1275" y="1736"/>
+	<Point x="1268" y="1732"/>
+	<Point x="689" y="1731"/>
+	<Point x="681" y="1742"/>
+	<Point x="635" y="1741"/>
+	<Point x="616" y="1730"/>
+	<Point x="51" y="1735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On ne trouve ce genre que dans l’océan
+Oriental; l’Atlantique nourrit quelques gerres
+et ne nous a envoyé aucune sorte d’equula.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="61" y="1741"/>
+	<Point x="614" y="1736"/>
+	<Point x="632" y="1746"/>
+	<Point x="684" y="1747"/>
+	<Point x="693" y="1739"/>
+	<Point x="1266" y="1736"/>
+	<Point x="1274" y="1745"/>
+	<Point x="1283" y="1747"/>
+	<Point x="1305" y="1748"/>
+	<Point x="1322" y="1731"/>
+	<Point x="1471" y="1727"/>
+	<Point x="1477" y="2246"/>
+	<Point x="52" y="2248"/>
+	<Point x="48" y="1740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le nom générique de ces poissons à Pon-
+dichéry, selon M. Leschenault, est karé, et
+à Visagapatam, selon M. Russel, karah, ce
+qui est le même mot autrement orthographié.
+Bloch l’a changé en karel, qui est peut-être
+la prononciation de Tranquebar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="50" y="2253"/>
+	<Point x="1483" y="2250"/>
+	<Point x="1483" y="2657"/>
+	<Point x="1149" y="2661"/>
+	<Point x="1133" y="2680"/>
+	<Point x="497" y="2685"/>
+	<Point x="46" y="2678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Leur chair est en général légère et de bon
+goût, et bien que la plupart des espèces soient
+assez petites, l’on a coutume de sécher ou de
+saler ceux qui vivent en troupe et que l’on peut
+prendre en plus grande abondance. Aussi sont-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1175" y="2672"/>
+	<Point x="1252" y="2672"/>
+	<Point x="1252" y="2740"/>
+	<Point x="1175" y="2740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="173" y="2690"/>
+	<Point x="173" y="2758"/>
+	<Point x="296" y="2758"/>
+	<Point x="296" y="2690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1354" y="183"/>
+	<Point x="1354" y="283"/>
+	<Point x="1474" y="283"/>
+	<Point x="1474" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>65</Unicode></TextEquiv></TextRegion></Page></PcGts>

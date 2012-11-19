@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672397">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:27:37</Created>
+	<LastChange>2012-02-10T09:54:41</LastChange></Metadata>
+	<Page imageFilename="00672397.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="808" y="199"/>
+	<Point x="1121" y="199"/>
+	<Point x="1121" y="260"/>
+	<Point x="808" y="260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 203 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="98" y="335"/>
+	<Point x="1830" y="335"/>
+	<Point x="1830" y="499"/>
+	<Point x="98" y="499"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hält. Die sieben Hinterrandpunkte sind weit getrennt, gross,
+etwas eckig, tiefschwarz. Franzen hell staubgrau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="87" y="505"/>
+	<Point x="1830" y="505"/>
+	<Point x="1830" y="823"/>
+	<Point x="87" y="823"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel gespitzt, gelblich staubgrau, durchscheinend,
+längs des Vorderrandes breit, längs des Hinterrandes schmal
+braungrau. Die Medianaderäste gebräunt. Franzen weissgrau,
+mit einer dunklern Schattenlinie nahe der Wurzel durchzogen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="89" y="828"/>
+	<Point x="1837" y="828"/>
+	<Point x="1837" y="1989"/>
+	<Point x="89" y="1989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel grau, der Vorderrand selbst
+hell zimmtfarbig, nach hinten breiter und blass, mit einem bräun-
+lichen, auswärts durch einen bleichgelblichen begrenzten Fleck.
+Hinterrandlinie schwärzlich, in der Flügelspitze schwarz, gegen
+die gelbliche Wurzellinie der Franzen scharf abstechend. Ast
+1 der Medianader aus der Flügelmitte, Ast 2 ist nahe da-
+bei, aber noch näher den aus demselben Punkt entspringenden
+Aesten 3 und 4. — Hinterﬂügel fast wie oben, im dunkeln Costal-
+felde mit schwärzlicher Stelle vor einem hellgelblichen, der
+Flügelspitze naheliegenden Costalﬂeck. Die Adern sind hier
+nicht verdunkelt. Ast 1 der Medianader kommt von 2/5, 2
+von 1/2; die Endgabel ist ein wenig kürzer als ihr Stiel. —
+Nur ein Weibchen aus Columbien, wahrscheinlich auch aus der
+Gegend von Honda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="410" y="2057"/>
+	<Point x="1473" y="2057"/>
+	<Point x="1473" y="2148"/>
+	<Point x="410" y="2148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. monosemia Tab. XI, ﬁg. 23.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="71" y="2169"/>
+	<Point x="1826" y="2169"/>
+	<Point x="1826" y="2578"/>
+	<Point x="71" y="2578"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis adscendentibus, longioribus, tenuibus; alis ant. bre-
+viusculis, obscurius virescenti-griseis, strigis duabus pallidis
+(macula nigra aspera ante medium prioris), posteriore argute
+dentata, margine postico nigro-punctato; post. griseis, vix pel-
+lucidis. ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="66" y="2582"/>
+	<Point x="1821" y="2582"/>
+	<Point x="1821" y="2919"/>
+	<Point x="66" y="2919"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Viel kleiner als Bigrana und Exoleta, mit ziemlich brei-
+ten, fast moosgrünen Vorderﬂügeln, besonders ausgezeichnet
+durch den rauhen, schwarzen Schuppenﬂeck an der Mitte der
+ersten hellen Querlinie *). Sie weicht von den übrigen Myeloiden</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="76" y="2962"/>
+	<Point x="1810" y="2962"/>
+	<Point x="1810" y="3155"/>
+	<Point x="76" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Einen ähnlichen Schuppenﬂeck zeigt auch Fundella pellucens. Diese
+ist aber sehr verschieden durch schmale, weissgraue Vorder- und weisse, durch-
+sichtige Hinterﬂügel mit gelblicher Verdickung des Innenrandes.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="85" y="2932"/>
+	<Point x="685" y="2932"/>
+	<Point x="685" y="2953"/>
+	<Point x="85" y="2953"/></Coords></SeparatorRegion></Page></PcGts>

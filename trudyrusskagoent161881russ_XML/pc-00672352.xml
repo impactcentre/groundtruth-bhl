@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672352">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:17:56</Created>
+	<LastChange>2012-02-10T09:54:33</LastChange></Metadata>
+	<Page imageFilename="00672352.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1028" y="96"/>
+	<Point x="1346" y="96"/>
+	<Point x="1346" y="158"/>
+	<Point x="1028" y="158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 158 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="321" y="232"/>
+	<Point x="2062" y="232"/>
+	<Point x="2062" y="480"/>
+	<Point x="321" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel ziemlich schmal und gespitzt, letzteres beim ♂
+weniger als beim ♀, zart, weiss, undurchsichtig; nur das ♂
+hat eine graue Hinterrandlinie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="316" y="485"/>
+	<Point x="2078" y="485"/>
+	<Point x="2078" y="649"/>
+	<Point x="316" y="649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel hellgelblichgrau wie der Vorder-
+rand der Hinterﬂügel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="310" y="653"/>
+	<Point x="2080" y="653"/>
+	<Point x="2080" y="896"/>
+	<Point x="310" y="896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von dieser Art ﬁng Petersen bei Honda 1 ♂, 2 ♀♀ am
+26 August, 2 ♀♀ am 10 October, die übrigen ♀♀ zu Ende
+April und Anfang Mai, fast alle Abends bei der Lampe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="305" y="905"/>
+	<Point x="2087" y="905"/>
+	<Point x="2087" y="2639"/>
+	<Point x="305" y="2639"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung 1. Zwei ♂♂ und 3 ♀♀ aus Texas (Tab. XI,
+ﬁg. 2) — seit Jahren in meiner Sammlung Densellus geheissen —
+bilden trotz ihrer Aehnlichkeit mit Interlineatus eine eigene
+Art. Bei allen hat der Vorderrand der merklich kürzern Vor-
+derﬂügel von Anfang an einen sanft соnvexen Ver-
+lauf; die Spitze ist scharf, aber nicht, wie dort, beim ♀
+vorgezogen, und der Hinterrand läuft in beiden Geschlechtern
+viel weniger schräg, woher auch der Innenwinkel weniger ab-
+gerundet ist. Ob die Bestäubung eine Verschiedenheit zeigt,
+lässt sich nicht erkennen, da die Exemplare nach Belfrage-
+scher Manier mehr oder weniger abgerieben sind. Die Hinter-
+ﬂügel sind anscheinend auch etwas breiter. Während bei Inter-
+lineatus die Lippentaster an der Wurzel zusammenstossen und
+keinen Sauger zwischen sich haben, sehe ich bei jedem Den-
+sellus ein Rudiment, das bei einem ♀ deutlich aufgerollt ist.
+Was diese Art vor Interlineatus auﬀallend unterscheidet, ist
+der Umstand, dass beide Geschlechter in der Flügelgestalt
+nicht oder kaum verschieden sind. Ein Paar wurde in Bosque
+County am 20 und 25 Mai, 2 ♀♀ am 15 August gefangen
+(dem 2ten ♂ fehlt das Datum); also ﬁnden wohl auch hier
+zwei Generationen Statt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="321" y="2648"/>
+	<Point x="2089" y="2648"/>
+	<Point x="2089" y="3067"/>
+	<Point x="321" y="3067"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung 2. Nur für den ersten Anblick hat Squamu-
+lellus mus. Z, (Tab. XI, ﬁg. 3) durch die Gestalt der Vorderﬂügel
+und deren weissliche Grundfarbe mit grauer Bestäubung Aehn-
+lichkeit mit Interlineatus. Die Vorderﬂügel, 41/2—51/2‴ lang,
+haben die Breite wie bei Densellus, aber eine noch schärfere,</Unicode></TextEquiv></TextRegion></Page></PcGts>

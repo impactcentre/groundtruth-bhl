@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669020">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:14:43</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669020.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="362" y="256"/>
+	<Point x="1702" y="256"/>
+	<Point x="1702" y="425"/>
+	<Point x="362" y="425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lâtre sur le dos, sans reﬂets, et ses nageoires parais‐
+sent jaunâtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="290" y="437"/>
+	<Point x="1713" y="437"/>
+	<Point x="1713" y="703"/>
+	<Point x="290" y="703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus ont quatre pouces et demi.
+C’est M. Julien Desjardins qui nous les a en-
+voyés de l’Isle-de-France.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="281" y="846"/>
+	<Point x="1726" y="837"/>
+	<Point x="1725" y="1699"/>
+	<Point x="282" y="1696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons encore deux espèces d’equula
+qui ont cette forme plus oblongue, le front plus
+court, la ligne latérale eﬀacée vers le bout de la
+queue, et qui pourraient, la première surtout,
+qui est d’une couleur uniforme, être regardées
+comme le melliet ou berbîs de Forskal, si elles
+n’avaient pas l’une et l’autre des dents longues
+et aiguës, caractère très-distinctif et dont il
+serait bien diﬃcile que le savant élève de Linné
+n’eût pas parlé, s’il s’était trouvé dans son poisson.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="299" y="1700"/>
+	<Point x="399" y="1699"/>
+	<Point x="1723" y="1702"/>
+	<Point x="1719" y="2114"/>
+	<Point x="301" y="2125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Toutes les deux nous ont été envoyées de
+Pondichéry par M. Leschenault sous le nom
+commun de sourou-pinan-karé, ce qui prouve
+que les pêcheurs du pays les confondent, et
+peut-être ne sont-elles en eﬀet que des variétés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="758" y="2182"/>
+	<Point x="1256" y="2182"/>
+	<Point x="1256" y="2246"/>
+	<Point x="758" y="2246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA NAIN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="304" y="2266"/>
+	<Point x="1700" y="2266"/>
+	<Point x="1700" y="2429"/>
+	<Point x="304" y="2429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula minuta, nob.; Scomber minutus, Bl.;
+Sourou-pinan-karé, à Pondichéry, Lesch., Mss.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="304" y="2441"/>
+	<Point x="1703" y="2441"/>
+	<Point x="1703" y="2624"/>
+	<Point x="304" y="2624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La première nous paraît, à n’en pas douter,
+la même que le scomber minutus de Bloch,</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="896" y="742"/>
+	<Point x="896" y="778"/>
+	<Point x="1107" y="778"/>
+	<Point x="1107" y="742"/></Coords></SeparatorRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="296" y="152"/>
+	<Point x="409" y="152"/>
+	<Point x="409" y="234"/>
+	<Point x="296" y="234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>88</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="656" y="163"/>
+	<Point x="1323" y="163"/>
+	<Point x="1323" y="239"/>
+	<Point x="656" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

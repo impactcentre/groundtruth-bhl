@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669397">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:31:21</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669397.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r31" index="4"/>
+	<RegionRefIndexed regionRef="r25" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="137" y="251"/>
+	<Point x="1494" y="251"/>
+	<Point x="1494" y="548"/>
+	<Point x="137" y="548"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et sans cœcums. L’intestin est plus court que dans
+notre sauclet, et, un peu avant de se rendre à l’anus,
+il a un étranglement assez fort qui sépare le rectum
+du colon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="139" y="558"/>
+	<Point x="1501" y="558"/>
+	<Point x="1501" y="996"/>
+	<Point x="139" y="996"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette athérine a deux ovaires, et l’intestin est au-
+dessous d’eux; tandis que c’est le contraire dans les
+espèces où l’ovaire est unique. Sa vessie natatoire
+est simple, son péritoine brun en dedans et très-
+argenté du côté des muscles. Les reins sont dispo‐
+sés comme ceux du sauclet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="142" y="1007"/>
+	<Point x="1508" y="1007"/>
+	<Point x="1508" y="1314"/>
+	<Point x="142" y="1314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Malgré sa forme alongée, il n’y a pas dans son
+squelette plus de vertèbres que dans le joël. On n’y
+en compte que quarante-quatre. Les cinq premières
+de la queue forment aussi en dessous un petit cornet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="78" y="1333"/>
+	<Point x="1503" y="1333"/>
+	<Point x="1503" y="1594"/>
+	<Point x="78" y="1594"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’individu du Muséum est long de cinq
+pouces. Il nous a été envoyé de New-York.
+par M. Milbert.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="80" y="1882"/>
+	<Point x="1503" y="1882"/>
+	<Point x="1503" y="2146"/>
+	<Point x="80" y="2146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous devons notre seconde à M. Lecomte,
+dont nous avons déjà eu l’occasion de citer
+plusieurs fois l’obligeance.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="146" y="2160"/>
+	<Point x="1507" y="2160"/>
+	<Point x="1508" y="2607"/>
+	<Point x="1130" y="2606"/>
+	<Point x="1123" y="2617"/>
+	<Point x="146" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle a le corps moins alongé, car la plus grande
+hauteur, qu’il faut prendre un peu plus en arrière,
+n’est contenue que six fois dans la longueur. La
+pectorale est proportionnellement plus longue : elle
+n’est que le sixième de la longueur totale. La tête
+n’a que le cinquième de cette même mesure. L’œil</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="621" y="155"/>
+	<Point x="921" y="155"/>
+	<Point x="921" y="230"/>
+	<Point x="621" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="1352" y="155"/>
+	<Point x="1485" y="155"/>
+	<Point x="1485" y="230"/>
+	<Point x="1352" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>465</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="heading">
+	<Coords>
+	<Point x="82" y="1768"/>
+	<Point x="1498" y="1768"/>
+	<Point x="1498" y="1849"/>
+	<Point x="82" y="1849"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina Boscii, nob.; Atherina notata, Mitch.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="heading">
+	<Coords>
+	<Point x="453" y="1664"/>
+	<Point x="1119" y="1664"/>
+	<Point x="1119" y="1737"/>
+	<Point x="453" y="1737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ATHÉRINE DE BOSC.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="signature-mark">
+	<Coords>
+	<Point x="210" y="2625"/>
+	<Point x="313" y="2625"/>
+	<Point x="313" y="2689"/>
+	<Point x="210" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="signature-mark">
+	<Coords>
+	<Point x="1171" y="2617"/>
+	<Point x="1264" y="2617"/>
+	<Point x="1264" y="2692"/>
+	<Point x="1171" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>30</Unicode></TextEquiv></TextRegion></Page></PcGts>

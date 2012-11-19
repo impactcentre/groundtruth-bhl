@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672439">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:35:57</Created>
+	<LastChange>2012-02-10T09:54:53</LastChange></Metadata>
+	<Page imageFilename="00672439.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="864" y="169"/>
+	<Point x="1185" y="169"/>
+	<Point x="1185" y="244"/>
+	<Point x="864" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 245 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="146" y="301"/>
+	<Point x="1892" y="301"/>
+	<Point x="1892" y="724"/>
+	<Point x="146" y="724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>und der Querader, auf welcher kein dunkler Punkt zu bemer-
+ken ist. Ein ♀ zeigt auf dem Hinterrand eine sehr verschwom-
+mene schwärzliche Punktreihe, welche nicht den Innenwinkel
+erreicht; bei den andern Exemplaren fehlt sie gänzlich. Fran-
+zen grau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="148" y="732"/>
+	<Point x="1898" y="732"/>
+	<Point x="1898" y="1153"/>
+	<Point x="148" y="1153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel spitz und klein, grau, durscheinend, am Vor-
+der- und Hinterrand dunkler grau; die Adern sind stark aus-
+gedrückt, bräunlich. Der erste Ast der Medianader kommt von
+1/3, der 2te von 1/2, und dieser bildet daher mit dem dritten
+eine lange Gabel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="142" y="1158"/>
+	<Point x="1894" y="1158"/>
+	<Point x="1894" y="1408"/>
+	<Point x="142" y="1408"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel eintönig grau, nur am Vorder-
+rand dunkler. Ast 1 der Medianader kommt von 2/3, 2 und 3
+dicht bei einander nicht weit von 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="139" y="1416"/>
+	<Point x="1899" y="1416"/>
+	<Point x="1899" y="1687"/>
+	<Point x="139" y="1687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die verliegenden 3 ♀♀ 1 ♂ wurden von Petersen bei
+Honda und Mariquita zu Ende April und Anfang August ge-
+fangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="139" y="1698"/>
+	<Point x="1907" y="1698"/>
+	<Point x="1907" y="2283"/>
+	<Point x="139" y="2283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung. Die vorhin erwähnte Ephest. resticula (Tab.
+ХII, ﬁg. 48) stammt aus Ostindien, wo sie bei Calcutta im August
+in einem schönen ♂ ﬂog. Sie ist auf Kopf und Rückenschild viel
+heller; die Fühler haben keine Auszeichnung. Die kräftigen,
+auswärts bräunlichen Taster sind aufwärts gebogen und reichen
+bis über das gerundete Gesicht herauf; die Spitze des zweiten
+Gliedes und die des dritten sind weissgelblich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="148" y="2287"/>
+	<Point x="1898" y="2287"/>
+	<Point x="1898" y="3117"/>
+	<Point x="148" y="3117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 23/4‴ lang, lehmgelblich braun, viel heller
+als bei Declivella, mit starkem, aber sehr verloschenem schwärz-
+lichen Queraderpunkt. Die erste Querlinie kommt von 1/4 des
+Vorderrandes und geht bis fast zur Hälfte des Innenrandes;
+sie ist dünner und schärfer als bei Declivella, ein wenig nach
+aussen gebogen und sehr schwach wellig. Die ebenso dünne und
+fast ebenso deutliche zweite Querlinie hat nahe dem Vorder-
+rande einen schwachen, nach aussen gerichteten Winkel, einen
+solchen nach innen gerichteten über der Subdorsalader und bil-
+det über der letztern einen längern, gezähnelten Bogen. Die</Unicode></TextEquiv></TextRegion></Page></PcGts>

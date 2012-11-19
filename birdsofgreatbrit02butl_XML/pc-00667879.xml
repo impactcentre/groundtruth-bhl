@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667879">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T12:08:54</Created>
+	<LastChange>2012-02-10T09:52:17</LastChange></Metadata>
+	<Page imageFilename="00667879.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="723" y="198"/>
+	<Point x="1521" y="198"/>
+	<Point x="1521" y="254"/>
+	<Point x="723" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE RED‐BREASTED FLYCATCHER</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1980" y="210"/>
+	<Point x="2057" y="210"/>
+	<Point x="2057" y="256"/>
+	<Point x="1980" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>29</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="187" y="325"/>
+	<Point x="2050" y="325"/>
+	<Point x="2050" y="947"/>
+	<Point x="187" y="947"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Berwickshire one, and Yorkshire one, which last was shot at Scarborough, October
+23rd, 1889, the same day of the month as the Irish example in 1887. Since
+that date one was shot at Wells in 1900; a specimen is recorded for 1904, a
+third for 1905, three for 1906, all from Norfolk; three were seen in Yorkshire
+in 1907; in Cheshire one was seen in June 1903; in the Shetlands several were
+seen and three shot in 1906. It would therefore appear that this little Flycatcher
+is likely to occur, especially late in the autumn, upon our coasts; and, inasmuch
+as one example on an average has lost its life, in addition to those seen, every
+two years (taking the dates from 1863 to 1907), the importance of admitting the
+species into the present work will be recognized.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="187" y="950"/>
+	<Point x="2048" y="950"/>
+	<Point x="2048" y="1701"/>
+	<Point x="189" y="1701"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This elegant little species has a curious resemblance to our Robin, and Seebohm
+expresses the opinion that it is " a connecting-link between the Robins and the
+Flycatchers"; his description of the bird is so satisfactory that, in the present
+instance, I shall quote it in full:—'"The Red-breasted Flycatcher has the general
+colour of the upper parts, except the crown, nape, and sides of the head and neck
+which are bluish-grey, olive-brown ; central tail-feathers blackish-brown ; the outer
+ones white at base, and broadly tipped with blackish-brown; throat and breast
+orange‐chestnut; rest of underparts white, suffused on the ﬂanks and under tail-
+coverts with buff; beak brown, paler at the base; irides hazel; legs, toes, and
+claws dark brown. The female in general colouration resembles the male, except
+that the rich orange‐chestnut throat is replaced by buff, and the bluish-grey is
+wanting on the head and sides of the neck.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="189" y="1705"/>
+	<Point x="2049" y="1705"/>
+	<Point x="2049" y="2076"/>
+	<Point x="189" y="2076"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Males of the year scarcely differ from the female, and breed in the following
+spring in immature plumage (M. minuta). In the second year the chestnut appears
+on the throat (M. leucura); in the third year the chestnut appears on the
+upper breast (M. parva); and in the fourth year it extends also on to the lower
+breast” (M. hyperythra). “Young in ﬁrst plumage are spotted on the breast and
+upper parts, as in all the allied species.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="188" y="2079"/>
+	<Point x="2046" y="2079"/>
+	<Point x="2046" y="2576"/>
+	<Point x="188" y="2576"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I believe that this is by no means the only species which has received a
+different name for each plumage: I have already noted * that examples of Munia
+atricapilla which I received in young plumage in 1887, did not acquire the distinc‐
+tive black ventral band until the second moult; but a more curious change occurred
+in the spring of 1896, when one of my old examples of Quelea quelea assumed
+the breeding‐plumage of Q. russi, the black mask being wholly lost, and I have
+since proved that the little Cardinal (Paroaria cervicalis) is only an incomplete
+plumage of P. capitata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="293" y="2579"/>
+	<Point x="2046" y="2579"/>
+	<Point x="2046" y="2638"/>
+	<Point x="293" y="2638"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This species appears to be more essentially a forest‐haunting bird than our</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="300" y="2661"/>
+	<Point x="949" y="2661"/>
+	<Point x="949" y="2704"/>
+	<Point x="300" y="2704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Foreign Finches in Captivity, p. 249.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="1747" y="2715"/>
+	<Point x="1772" y="2715"/>
+	<Point x="1772" y="2748"/>
+	<Point x="1747" y="2748"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="291" y="2719"/>
+	<Point x="291" y="2753"/>
+	<Point x="407" y="2753"/>
+	<Point x="407" y="2719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion></Page></PcGts>

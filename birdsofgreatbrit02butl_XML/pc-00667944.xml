@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667944">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T22:45:36</Created>
+	<LastChange>2012-02-10T09:52:25</LastChange></Metadata>
+	<Page imageFilename="00667944.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="294" y="255"/>
+	<Point x="376" y="255"/>
+	<Point x="376" y="321"/>
+	<Point x="294" y="321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>60</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="878" y="248"/>
+	<Point x="1060" y="248"/>
+	<Point x="1260" y="247"/>
+	<Point x="1562" y="248"/>
+	<Point x="1562" y="312"/>
+	<Point x="878" y="312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SCARLET ROSE‐FINCH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="297" y="378"/>
+	<Point x="2159" y="378"/>
+	<Point x="2159" y="938"/>
+	<Point x="297" y="938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>boring a hole into the centre of the trunk and pouring in shot; the gardener
+who empties a charge of shot into the branches of his fruit-trees, can, therefore,
+hardly expect them to be beneﬁted thereby. If he were wise he would bait a
+cage-trap, catch his Bullﬁnches and sell them at a shilling apiece for cage-birds:
+they would, even then, die quite soon enough to satisfy any feelings of enmity
+which he might nourish, for my experience of these birds in captivity is—that it
+is quite exceptional for them to become really tame even in large aviaries;
+consequently, unless hand-reared, they rarely live for more than eighteen months
+in captivity.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="296" y="941"/>
+	<Point x="2160" y="941"/>
+	<Point x="2160" y="1445"/>
+	<Point x="296" y="1445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>When ﬁrst turned loose in an aviary, a cock Bullﬁnch always creates a panic;
+his brilliant colouring seems to greatly alarm other Finches, so that his ﬂight
+through the midst of them produces much the same result as the rush of a bull
+through a crowded street. Yet this powerful looking bird is really most inoﬀensive;
+if annoyed he only opens his mouth and makes grimaces, and if he does become
+tame, he is not long in doing so: one which I had was tempted to take sunﬂower-
+seeds from my ﬁngers three weeks after its capture: a Canary, with which I
+paired it, was far less afraid of it than our indigenous Finches were.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="766" y="2162"/>
+	<Point x="1700" y="2162"/>
+	<Point x="1700" y="2275"/>
+	<Point x="766" y="2275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SCARLET ROSE‐FINCH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="903" y="2337"/>
+	<Point x="1566" y="2337"/>
+	<Point x="1566" y="2431"/>
+	<Point x="903" y="2431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Carpodacus erythrinus, PALL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="423" y="2487"/>
+	<Point x="2163" y="2487"/>
+	<Point x="2163" y="2756"/>
+	<Point x="275" y="2756"/>
+	<Point x="275" y="2669"/>
+	<Point x="423" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FULL account of this species will be found in my book “Foreign Finches
+in Captivity.” I do not admit its claim to be called British, for although
+ﬁve examples have been obtained in England, one at Brighton, in 1869,
+and the other at Hampstead in the following year, it is quite possible that both</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="285" y="2486"/>
+	<Point x="419" y="2486"/>
+	<Point x="419" y="2657"/>
+	<Point x="285" y="2657"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="261" y="1894"/>
+	<Point x="939" y="1894"/>
+	<Point x="939" y="2012"/>
+	<Point x="261" y="2012"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1455" y="1894"/>
+	<Point x="2175" y="1894"/>
+	<Point x="2175" y="2012"/>
+	<Point x="1455" y="2012"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="1110" y="1673"/>
+	<Point x="1110" y="1696"/>
+	<Point x="1330" y="1696"/>
+	<Point x="1330" y="1673"/></Coords></SeparatorRegion></Page></PcGts>

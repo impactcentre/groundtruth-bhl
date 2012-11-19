@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672704">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T23:06:29</Created>
+	<LastChange>2012-03-12T14:34:24</LastChange></Metadata>
+	<Page imageFilename="00672704.tif" imageWidth="2150" imageHeight="3568">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1023" y="377"/>
+	<Point x="1257" y="377"/>
+	<Point x="1257" y="458"/>
+	<Point x="1023" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>( 128 )</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="291" y="513"/>
+	<Point x="1986" y="513"/>
+	<Point x="1986" y="586"/>
+	<Point x="1424" y="588"/>
+	<Point x="1426" y="674"/>
+	<Point x="291" y="674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gistrats, mériterait plutôt de porter le titre d'histoire généalo-
+gique des membres du conseil de Flandre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="292" y="683"/>
+	<Point x="1993" y="683"/>
+	<Point x="1993" y="2029"/>
+	<Point x="292" y="2029"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A ce point de vue, elle sera consultée avec fruit par ceux qui
+s'occupent de l'histoire nobiliaire des familles. Du reste, tous
+les conseillers étaient sans doute de fort honnêtes gens, mais,
+au point de vue de l'histoire du pays, bon nombre de ces
+biographies, parfois assez longues, sont dépourvues d'intérêt.
+Le supplément d'Emmanuel Vander Vynckt est bien plus curieux
+que l'ouvrage du père. Il semble avoir eu entre les mains des
+pièces et des documents qui n'existent plus aux archives du
+conseil, et qu'il assure y avoir vus. Les chapitres traités avec
+le plus de soin sont ceux relatifs au ressort du parlement de
+France et du grand conseil de Malines, et à l'époque des
+troubles. Nous ajouterons que nous connaissons deux copies
+manuscrites du livre de Vander Vynckt, mais incomplètes et
+sans les armoiries; l'une fait partie des archives provinciales à
+Gand. MSS. pr., n° 12; l'autre de la bibliothèque de l'université
+de la même ville. MSS., n° 19 (n° 93 du Catal. imprimé).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="294" y="2073"/>
+	<Point x="1988" y="2073"/>
+	<Point x="1988" y="3219"/>
+	<Point x="294" y="3219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2° Recueil des recherches historiques et chronologiques du grand
+conseil de Malines, contenant l'époque antérieure à son institution
+à l'égard de l'origine du ressort en appel dans les provinces des
+Pays-Bas; les progrès et changements survenus en cette matière,
+l'institution du grand conseil présentement existant, ainsi que la
+chronologie de tous les présidents, conseillers et maîtres de re-
+quêtes, des conseillers provinciaux généraux et avocats ﬁscaux, etc.,
+depuis l'an 1503 jusqu'à présent, avec leurs armoiries peintes, re-
+cueillies d'après des manuscrits respectables, tels que ceux de
+MM. Philippe Wielant, Florent de Mont Saint-Éloy, Charles et
+Henri Florent - Laurin, tous conseillers audit grand conseil, et
+d'après plusieurs auteurs qui ont traité cette matière; par MM. Van-
+der Vynckt père et ﬁls, respectivement conseiller au conseil de
+Flandre et haut-échevin du pays de Waes. MS. in-fol., 2 vol.
+contenant ensemble 762 pages (pagination non interrompue).</Unicode></TextEquiv></TextRegion></Page></PcGts>

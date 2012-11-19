@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669038">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:17:08</Created>
+	<LastChange>2012-02-09T16:27:29</LastChange></Metadata>
+	<Page imageFilename="00669038.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="406" y="249"/>
+	<Point x="1765" y="249"/>
+	<Point x="1765" y="1388"/>
+	<Point x="406" y="1388"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>velours ras; outre le petit voile ordinaire derrière les
+dents de la mâchoire supérieure, il y en a un plus
+épais et bilobé, suspendu à l’extrémité antérieure
+du vomer. La langue est fort libre, oblongue,
+assez pointue; il y a de l’âpreté le long de sa ligne
+moyenne. Le préopercule a son limbe large et lisse.
+L’opercule est deux fois et demie aussi haut que
+large; son bord est arrondi et entier, et semblable à
+celui des trois autres pièces operculaires. L’oriﬁce
+des ouïes est fendu jusque sous l’angle de la mâchoire
+inférieure; leur membrane, étroite et entièrement
+recouverte par l’appareil operculaire, a sept rayons;
+le bord interne du premier arceau des branchies a
+d’assez longues pectinations, les autres n’ont que
+des tubercules âpres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="405" y="1391"/>
+	<Point x="1768" y="1391"/>
+	<Point x="1768" y="2608"/>
+	<Point x="405" y="2608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les os de l’épaule n’ont aucune armure et ne se
+sentent qu’avec le doigt au travers de la peau, sous
+laquelle ils forment, avec ceux du bassin, une char‐
+pente très-développée; l’os styloïde surtout, qui est
+long et plat, atteint jusqu’au bas du premier inter-
+épineux inférieur, derrière les ventrales. La pectorale,
+attachée à peu près au milieu de la hauteur, est
+ovale et de grandeur médiocre, sa longueur est du
+cinquième de la longueur totale; elle a seize rayons,
+dont le premier est très-court; le second, le plus long
+de tous, est comprimé et large. Les ventrales attachées
+tout près l’une de l’autre au bout de la longue ca‐
+rène que forment les os du bassin, et au point le
+plus bas de la courbe du ventre, mais à l’aplomb
+des pectorales, ont l’épine très-courte, et le premier
+rayon mou comprimé et prolongé du tiers de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="348" y="149"/>
+	<Point x="484" y="149"/>
+	<Point x="484" y="226"/>
+	<Point x="348" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>106</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="720" y="155"/>
+	<Point x="1380" y="155"/>
+	<Point x="1380" y="226"/>
+	<Point x="720" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

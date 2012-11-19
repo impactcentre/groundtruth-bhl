@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668914">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T10:01:30</Created>
+	<LastChange>2012-02-09T16:27:23</LastChange></Metadata>
+	<Page imageFilename="00668914.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="863" y="271"/>
+	<Point x="1279" y="271"/>
+	<Point x="1279" y="321"/>
+	<Point x="863" y="321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AVERTISSEMENT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="369" y="374"/>
+	<Point x="1776" y="374"/>
+	<Point x="1776" y="930"/>
+	<Point x="369" y="930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sons deviendront un sujet de recherches cu-
+rieuses et instructives pour le physiologiste.
+Ces espèces, ayant avec les Scombéroïdes des
+aﬃnités nombreuses que nous avons cherché à
+signaler avec le plus grand soin, ont dû être
+présentées à la suite de ceux-ci.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="360" y="938"/>
+	<Point x="1780" y="938"/>
+	<Point x="1780" y="1564"/>
+	<Point x="360" y="1564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est par les mêmes motifs que nous avons
+placé immédiatement après eux des poissons
+encore plus extraordinaires, les Tænioïdes. Mal-
+gré leur longueur de huit à neuf pieds, et sou-
+vent au-delà, ils sont encore bien peu connus,
+le hasard seul ayant soumis la plupart des in-
+dividus aux observations des naturalistes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="367" y="1588"/>
+	<Point x="1778" y="1588"/>
+	<Point x="1778" y="2414"/>
+	<Point x="367" y="2414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Enﬁn nous avons terminé ce volume, en quel-
+que sorte comme en appendice, par le groupe
+des Athérines, en ayant soin de faire remarquer
+les diﬃcultés qui s'opposent à introduire con-
+venablement dans le système des poissons, les
+espèces de ce genre, tenant à la fois des perches
+et des labres; mais ne devant pas être non plus
+éloignés des muges, qui sont eux-mêmes assez
+distincts au milieu de tous les acanthoptérygiens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="364" y="2422"/>
+	<Point x="1785" y="2422"/>
+	<Point x="1785" y="2713"/>
+	<Point x="364" y="2713"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La rédaction de ce volume est encore, pour
+la plus grande partie, due aux recherches et
+aux travaux de M. Cuvier. Cependant je ne dois</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="375" y="258"/>
+	<Point x="438" y="258"/>
+	<Point x="438" y="342"/>
+	<Point x="375" y="342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vj</Unicode></TextEquiv></TextRegion></Page></PcGts>

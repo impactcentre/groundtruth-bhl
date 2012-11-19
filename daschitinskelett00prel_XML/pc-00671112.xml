@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671112">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:50:00</Created>
+	<LastChange>2012-03-12T14:34:05</LastChange></Metadata>
+	<Page imageFilename="00671112.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1243" y="321"/>
+	<Point x="1507" y="321"/>
+	<Point x="1507" y="365"/>
+	<Point x="1243" y="365"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 50 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="295" y="429"/>
+	<Point x="1501" y="429"/>
+	<Point x="1537" y="444"/>
+	<Point x="1561" y="435"/>
+	<Point x="2409" y="429"/>
+	<Point x="2409" y="795"/>
+	<Point x="295" y="795"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>daher als Anamerentoma vereinigen. Von diesen zeichnet sich die Ordnung der Collem-
+bola dadurch aus, daß bei ihr die Anamerie abgekürzt wurde und so ein oligomeres Reifestadium
+entstand (Miomera), während die Ordnung der Protura in postembryonaler Entwicklung durch
+Hemianamorphose noch die typische Segmentzahl erreicht (Anamera; Börner). Dafür, daß die Ver-
+wandtschaft beider Ordnungen keine allzu nahe ist, spricht unter anderem auch der Mangel der
+Antennen bei Proturen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="295" y="802"/>
+	<Point x="1935" y="804"/>
+	<Point x="2421" y="804"/>
+	<Point x="2421" y="1129"/>
+	<Point x="297" y="1129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nach dieser Auffassung werden also die Proturen als Vertreter eines Seitenstammes (Unter-
+klasse) der Hexapoden betrachtet und nicht, wie gelegentlich angenommen wird, als überlebende
+Urinsekten. Ihre Bedeutung für die Klarlegung der Insektenphylogenie kann demzufolge nur eine
+mittelbare sein, indem erst der Vergleich zwischen ihnen und holomeren Insekten einen Schluß auf
+die ursprünglichen Verhältnisse ermöglicht.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords>
+	<Point x="1163" y="1319"/>
+	<Point x="1534" y="1319"/>
+	<Point x="1534" y="1373"/>
+	<Point x="1163" y="1373"/></Coords></SeparatorRegion>
+	<GraphicRegion id="r5" type="handwritten-annotation">
+	<Coords>
+	<Point x="1529" y="434"/>
+	<Point x="1529" y="391"/>
+	<Point x="1713" y="391"/>
+	<Point x="1712" y="432"/>
+	<Point x="1560" y="433"/>
+	<Point x="1536" y="438"/></Coords></GraphicRegion></Page></PcGts>

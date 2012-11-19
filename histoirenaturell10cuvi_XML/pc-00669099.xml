@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669099">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:54:50</Created>
+	<LastChange>2012-02-09T16:27:32</LastChange></Metadata>
+	<Page imageFilename="00669099.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="84" y="294"/>
+	<Point x="1485" y="294"/>
+	<Point x="1485" y="1292"/>
+	<Point x="84" y="1292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>breuses entre les tropiques, dans les deux
+océans, surtout dans la mer des Indes. Les
+colons français et espagnols de l’Amérique les
+connaissent sous les noms de chirurgien, de
+barbier et de porte-lancette, à cause de l’ai‐
+guillon mobile et tranchant en forme de cet
+instrument qu’ils portent de chaque côté de
+leur queue et avec lequel ils coupent souvent
+jusqu’au sang la peau de ceux qui les saisissent
+imprudemment. Ces noms ont été transportés
+dans les colonies de ces deux nations aux
+Indes orientales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="80" y="1300"/>
+	<Point x="1493" y="1300"/>
+	<Point x="1493" y="1713"/>
+	<Point x="80" y="1713"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Hollandais des Indes leur donnent,
+ainsi qu’aux balistes, le nom de leer-visch ou
+poissons de cuir, mais ils l’aﬀectent surtout
+aux espèces à petites écailles, dont la peau
+ressemble en eﬀet à un cuir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="89" y="1724"/>
+	<Point x="1494" y="1724"/>
+	<Point x="1494" y="2045"/>
+	<Point x="89" y="2045"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Linné les avait laissés parmi les chétodons;
+Forskal a eu le premier l’idée de les en retirer
+et d’en former un genre qu’il se proposait de
+nommer acanthurus.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="93" y="2062"/>
+	<Point x="1492" y="2062"/>
+	<Point x="1492" y="2488"/>
+	<Point x="93" y="2488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forster eut aussi cette idée de son côté et
+avait préféré le nom d’harpurus. Nous avons
+trouvé le même genre établi dans les papiers
+de Commerson, sous celui d’opisotomus; mais
+Bloch et M. de Lacépède ayant suivi Forskal,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="158" y="2602"/>
+	<Point x="914" y="2602"/>
+	<Point x="914" y="2670"/>
+	<Point x="158" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Forskal, p. 59, C. acanthurus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="504" y="206"/>
+	<Point x="1066" y="206"/>
+	<Point x="1066" y="264"/>
+	<Point x="504" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1355" y="200"/>
+	<Point x="1473" y="200"/>
+	<Point x="1473" y="266"/>
+	<Point x="1355" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>167</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="101" y="2525"/>
+	<Point x="101" y="2560"/>
+	<Point x="1494" y="2560"/>
+	<Point x="1494" y="2525"/></Coords></SeparatorRegion></Page></PcGts>

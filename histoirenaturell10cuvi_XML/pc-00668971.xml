@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668971">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:08:51</Created>
+	<LastChange>2012-02-09T16:27:26</LastChange></Metadata>
+	<Page imageFilename="00668971.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="496" y="216"/>
+	<Point x="1044" y="216"/>
+	<Point x="1044" y="287"/>
+	<Point x="496" y="287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. LAMPRIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1381" y="198"/>
+	<Point x="1478" y="198"/>
+	<Point x="1478" y="276"/>
+	<Point x="1381" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>39</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="435" y="453"/>
+	<Point x="1115" y="453"/>
+	<Point x="1115" y="540"/>
+	<Point x="435" y="540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE XXII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="66" y="624"/>
+	<Point x="1480" y="624"/>
+	<Point x="1480" y="752"/>
+	<Point x="66" y="752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Des Lampris, des Equula et du Méné.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="65" y="823"/>
+	<Point x="1477" y="823"/>
+	<Point x="1488" y="1156"/>
+	<Point x="135" y="1165"/>
+	<Point x="124" y="1172"/>
+	<Point x="65" y="1172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Zées dont il va être traité dans ce
+chapitre, forment la seconde section de la
+cinquième tribu des scombéroïdes. Ils n’ont
+qu’une seule dorsale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="66" y="1180"/>
+	<Point x="101" y="1180"/>
+	<Point x="154" y="1174"/>
+	<Point x="1492" y="1161"/>
+	<Point x="1495" y="1591"/>
+	<Point x="65" y="1596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le premier genre de ce groupe est établi
+sur un poisson de nos côtes; mais elles ne
+nourrissent aucune espèce des deux autres
+genres, qui sont tous deux propres aux mers
+des Indes orientales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="545" y="1740"/>
+	<Point x="1003" y="1740"/>
+	<Point x="1003" y="1827"/>
+	<Point x="545" y="1827"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES LAMPRIS,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="71" y="1891"/>
+	<Point x="1484" y="1891"/>
+	<Point x="1484" y="2077"/>
+	<Point x="71" y="2077"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et en particulier du LAMPRIS TACHETÉ ou
+CHRYSOTOSE, nommé aussi POISSON LUNE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="351" y="2101"/>
+	<Point x="1182" y="2101"/>
+	<Point x="1182" y="2200"/>
+	<Point x="351" y="2200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Lampris guttatus, Retzius.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="63" y="2249"/>
+	<Point x="1499" y="2249"/>
+	<Point x="1499" y="2696"/>
+	<Point x="63" y="2696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est une chose bien singulière qu’un pois‐
+son aussi beau et aussi grand que celui dont
+nous faisons l’histoire, et qui n’est pas même
+très-rare dans nos mers, ait été décrit si
+tard, et surtout que les diﬀérens auteurs qui</Unicode></TextEquiv></TextRegion></Page></PcGts>

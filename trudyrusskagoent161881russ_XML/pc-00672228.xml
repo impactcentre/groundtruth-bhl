@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672228">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T02:48:32</Created>
+	<LastChange>2012-02-10T09:54:06</LastChange></Metadata>
+	<Page imageFilename="00672228.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/>
+	<RegionRefIndexed regionRef="r13" index="11"/>
+	<RegionRefIndexed regionRef="r14" index="12"/>
+	<RegionRefIndexed regionRef="r15" index="13"/>
+	<RegionRefIndexed regionRef="r16" index="14"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1076" y="132"/>
+	<Point x="1374" y="132"/>
+	<Point x="1374" y="192"/>
+	<Point x="1076" y="192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 34 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="378" y="264"/>
+	<Point x="2101" y="264"/>
+	<Point x="2101" y="382"/>
+	<Point x="378" y="382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 28. Même insecte, abaisseur antérieur de l'aile antérieure dans la rainure
+duquel s'étend son additionnel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="353" y="389"/>
+	<Point x="2112" y="389"/>
+	<Point x="2112" y="503"/>
+	<Point x="353" y="503"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 29. Même insecte; e — additionnel antérieur de l'abaisseur postérieur de
+l'aile postérieure, f — additionnel postérieur du même muscle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="348" y="505"/>
+	<Point x="2121" y="505"/>
+	<Point x="2122" y="615"/>
+	<Point x="347" y="614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 30. Même insecte; g — hanche moyenne avec les additionnels de l'éléva-
+teur antérieur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="358" y="619"/>
+	<Point x="2110" y="619"/>
+	<Point x="2110" y="973"/>
+	<Point x="358" y="973"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 31. A. grandis L., 7 fois grossie; a — abaisseur antérieur de l'aile anté-
+rieure, d — le même de l'aile postérieure, b — additionnel antérieur de
+l'élévateur antérieur, с — additionnel postérieur du même muscle, e —
+additionnel antérieur de l'élévateur postérieur, f — additionnel posté-
+rieur du même muscle, g — abaisseur postérieur de l'aile postérieure,
+h — son additionnel antérieur, i — son additionnel postérieur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="355" y="978"/>
+	<Point x="2110" y="978"/>
+	<Point x="2110" y="1091"/>
+	<Point x="355" y="1091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 32. A. najas Hansem., adulte, 11 fois grossi, additionnel postérieur de
+l'élévateur antérieur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="348" y="1096"/>
+	<Point x="2119" y="1096"/>
+	<Point x="2119" y="1212"/>
+	<Point x="348" y="1212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig 33. Même insecte, chef le plus petit de l'élévateur antérieur avec son
+tendon ﬁliforme et le tendon cupuliforme du chef le plus gros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="349" y="1216"/>
+	<Point x="2116" y="1216"/>
+	<Point x="2116" y="1330"/>
+	<Point x="349" y="1330"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig 34. A. grandis L., 8 fois grossie, adulte, partie de la hanche avec l'apo-
+physe lamelleuse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="360" y="1333"/>
+	<Point x="2119" y="1333"/>
+	<Point x="2120" y="1444"/>
+	<Point x="361" y="1443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 35. L. quadrimaculata L., adulte, 7 fois grossie; a b — lame sur laquelle
+se ﬁxent les additionnels d'élévateur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="355" y="1448"/>
+	<Point x="2117" y="1448"/>
+	<Point x="2117" y="1680"/>
+	<Point x="355" y="1680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 36. Même insecte; с — hanche gauche postérieure, a — additionnel posté-
+rieure de l'élévateur, b — additionnel antérieur du même muscle, e —
+le reste du muscle de la patte de la larve, d — chef le plus long de
+l'élévateur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="351" y="1685"/>
+	<Point x="2117" y="1685"/>
+	<Point x="2117" y="1791"/>
+	<Point x="351" y="1791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 37. Même insecte, tendon de l'abaisseur antérieur de l'aile antérieure avec
+son additionnel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="358" y="1803"/>
+	<Point x="2119" y="1803"/>
+	<Point x="2119" y="1980"/>
+	<Point x="358" y="1980"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 38. L. sponsa Hansem., adulte, 11 fois grossie, chef le plus petit de
+l'élévateur postérieur avec son tendon ﬁliforme et le tendon cupuli-
+forme du chef le plus gros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="351" y="1982"/>
+	<Point x="2126" y="1982"/>
+	<Point x="2126" y="2216"/>
+	<Point x="351" y="2216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 39. A. grandis L., adulte, 7 fois grossie, tergum vu de côté intérieur,
+a b, а с — muscles auxiliaires sternaux antérieurs, d e, d f — les mêmes
+postérieurs, g g — tendon de l'auxiliaire sternali-dorsal, x — premier
+segment de l'abdomen, h h, i i — tendons d'élévateurs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="353" y="2221"/>
+	<Point x="2125" y="2221"/>
+	<Point x="2125" y="2453"/>
+	<Point x="353" y="2453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 40. A. grandis L., larve 7½ mm. longue, 40 fois grossie, épimère gauche
+vu de côté intérieur; a — muscle de la patte moyenne, b — muscle de
+la même patte provenant du bord antérieur de la pièce iliaque, с —
+abaisseur antérieur de l'aile antérieure, d — élévateur antérieur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="355" y="2455"/>
+	<Point x="2114" y="2455"/>
+	<Point x="2114" y="2930"/>
+	<Point x="1081" y="2929"/>
+	<Point x="1037" y="2920"/>
+	<Point x="355" y="2918"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 41. Même insecte, larve 15 mm. longue, 10 fois grossie, épimère gauche
+vu de côté intérieur, b — abaisseur antérieur de l'aile antérieure,
+a — son additionnel, с — gros muscle sternali-dorsal antérieur de la
+patte moyenne, e — le postérieur; g, i — l'antérieur et le postérieur de
+la patte postérieure, d — élévateur antérieur, h — le postérieur, f —
+abaisseur antérieur de l'aile postérieure, m — additionnel postérieur de
+l'abaisseur postérieur de l'aile postérieure, k, l — muscles de la patte
+antérieure; les fourreaux sont très petits en forme de �.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="371" y="2924"/>
+	<Point x="1008" y="2925"/>
+	<Point x="1072" y="2934"/>
+	<Point x="2117" y="2934"/>
+	<Point x="2117" y="3107"/>
+	<Point x="371" y="3107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 42. A. grandis L., larve, qui n'a à subir qu'une seule mue aquatique, 40
+fois grossie, partie du muscle élévateur antérieur, lignes croisées s ont
+des trachées ou leurs réseaux.</Unicode></TextEquiv></TextRegion></Page></PcGts>

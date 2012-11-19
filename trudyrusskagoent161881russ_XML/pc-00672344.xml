@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672344">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:16:44</Created>
+	<LastChange>2012-02-10T09:54:32</LastChange></Metadata>
+	<Page imageFilename="00672344.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="544" y="807"/>
+	<Point x="1805" y="807"/>
+	<Point x="1805" y="924"/>
+	<Point x="544" y="924"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zwei neue Otiorhynchus-Arten</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="923" y="971"/>
+	<Point x="1421" y="971"/>
+	<Point x="1421" y="1048"/>
+	<Point x="923" y="1048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aus Sibirien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="310" y="1112"/>
+	<Point x="2042" y="1112"/>
+	<Point x="2042" y="1175"/>
+	<Point x="310" y="1175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mitgetheilt von J. Obert und beschrieben von Dr. Stierlin in Schaﬀhausen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="687" y="1326"/>
+	<Point x="1657" y="1326"/>
+	<Point x="1657" y="1416"/>
+	<Point x="687" y="1416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ot. (Eurychirus) simplex Stierl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="289" y="1464"/>
+	<Point x="2041" y="1464"/>
+	<Point x="2041" y="2128"/>
+	<Point x="289" y="2128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ovatus, piceus, parce griseo-pilosus, antennis pedibusque
+rufescentibus; rostro brevi, lato, plano, confertim rugoso-punc-
+tulato; antennis brevibus, funiculi articulo primo secundo di-
+midio longiore, hoc tertio paulo longiore; thoraci longitudine
+multo latiore, lateribus rotundato, pone medium latiore, supra
+convexo, subtiliter rugoso-granulato; elytris breviter ovalis, con-
+vexis, punctato-sulcatis, interstitiis convexis, subtiliter granulatis,
+femoribus muticis, tibiis rectis, apice dilatatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="401" y="2130"/>
+	<Point x="1169" y="2130"/>
+	<Point x="1169" y="2205"/>
+	<Point x="401" y="2205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 3 mm. Lat. 2 mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="296" y="2232"/>
+	<Point x="2044" y="2232"/>
+	<Point x="2044" y="2467"/>
+	<Point x="296" y="2467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kleiner als O. ovatus, in der Gestalt dem O. hebraeus
+am nächsten, durch andere Fühlerbildung und andere Skulptur
+der Halsschilder verschieden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="292" y="2482"/>
+	<Point x="2039" y="2482"/>
+	<Point x="2039" y="2889"/>
+	<Point x="292" y="2889"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diese Art ist ausgezeichnet vor allen verwandten durch
+die Fühlerbildung, indem das 2te Geisselglied wenig mehr als
+halb so lang ist, als das 1ste und kaum länger als das 3te,
+ferner durch den kurzen, breiten und ebenen Rüssel, so wie
+durch die Skulptur des Halsschildes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="299" y="2896"/>
+	<Point x="2039" y="2896"/>
+	<Point x="2039" y="3067"/>
+	<Point x="299" y="3067"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oval, pechschwarz, mit röthlichen Fühlern an den Beinen,
+mit anliegenden grauen Haaren spärlich besetzt, wenig glänzend.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="1087" y="1233"/>
+	<Point x="1242" y="1233"/>
+	<Point x="1242" y="1264"/>
+	<Point x="1087" y="1264"/></Coords></SeparatorRegion></Page></PcGts>

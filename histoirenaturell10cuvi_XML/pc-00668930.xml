@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668930">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T06:33:59</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668930.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r20" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r22" index="2"/>
+	<RegionRefIndexed regionRef="r28" index="3"/>
+	<RegionRefIndexed regionRef="r32" index="4"/>
+	<RegionRefIndexed regionRef="r37" index="5"/>
+	<RegionRefIndexed regionRef="r45" index="6"/>
+	<RegionRefIndexed regionRef="r38" index="7"/>
+	<RegionRefIndexed regionRef="r49" index="8"/>
+	<RegionRefIndexed regionRef="r53" index="9"/>
+	<RegionRefIndexed regionRef="r57" index="10"/>
+	<RegionRefIndexed regionRef="r61" index="11"/>
+	<RegionRefIndexed regionRef="r65" index="12"/>
+	<RegionRefIndexed regionRef="r67" index="13"/>
+	<RegionRefIndexed regionRef="r35" index="14"/>
+	<RegionRefIndexed regionRef="r69" index="15"/>
+	<RegionRefIndexed regionRef="r71" index="16"/>
+	<RegionRefIndexed regionRef="r39" index="17"/>
+	<RegionRefIndexed regionRef="r40" index="18"/>
+	<RegionRefIndexed regionRef="r41" index="19"/>
+	<RegionRefIndexed regionRef="r73" index="20"/>
+	<RegionRefIndexed regionRef="r75" index="21"/>
+	<RegionRefIndexed regionRef="r43" index="22"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r25" type="page-number">
+	<Coords>
+	<Point x="375" y="224"/>
+	<Point x="507" y="224"/>
+	<Point x="507" y="304"/>
+	<Point x="375" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xxij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="header">
+	<Coords>
+	<Point x="976" y="244"/>
+	<Point x="1144" y="244"/>
+	<Point x="1144" y="283"/>
+	<Point x="976" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TABLE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="heading">
+	<Coords>
+	<Point x="875" y="1832"/>
+	<Point x="1274" y="1832"/>
+	<Point x="1274" y="1893"/>
+	<Point x="875" y="1893"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="1659" y="720"/>
+	<Point x="1751" y="720"/>
+	<Point x="1751" y="773"/>
+	<Point x="1659" y="773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>298</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1664" y="808"/>
+	<Point x="1754" y="808"/>
+	<Point x="1754" y="848"/>
+	<Point x="1664" y="848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>299</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="heading">
+	<Coords>
+	<Point x="814" y="2229"/>
+	<Point x="1336" y="2229"/>
+	<Point x="1336" y="2282"/>
+	<Point x="814" y="2282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SECONDE TRIBU.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="TOC-entry">
+	<Coords>
+	<Point x="387" y="2324"/>
+	<Point x="1627" y="2324"/>
+	<Point x="1627" y="2378"/>
+	<Point x="387" y="2378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES TÆNIOÏDES A BOUCHE FENDUE.......... 387</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="heading">
+	<Coords>
+	<Point x="862" y="2453"/>
+	<Point x="1294" y="2453"/>
+	<Point x="1294" y="2500"/>
+	<Point x="862" y="2500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1670" y="2621"/>
+	<Point x="1766" y="2621"/>
+	<Point x="1766" y="2663"/>
+	<Point x="1670" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>300</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1529" y="313"/>
+	<Point x="1619" y="313"/>
+	<Point x="1619" y="348"/>
+	<Point x="1529" y="348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pages.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1644" y="311"/>
+	<Point x="1760" y="311"/>
+	<Point x="1760" y="348"/>
+	<Point x="1644" y="348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Planch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="TOC-entry">
+	<Coords>
+	<Point x="401" y="362"/>
+	<Point x="1623" y="357"/>
+	<Point x="1633" y="509"/>
+	<Point x="404" y="509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>marus, nob.; Bogmarus islandicus, Bl. Schn.;
+Gymnogaster arcticus, Brünnich)........ 346</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="TOC-entry">
+	<Coords>
+	<Point x="351" y="548"/>
+	<Point x="1633" y="548"/>
+	<Point x="1633" y="620"/>
+	<Point x="351" y="620"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES GYMNÈTRES..................... 352</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="TOC-entry">
+	<Coords>
+	<Point x="354" y="636"/>
+	<Point x="1631" y="636"/>
+	<Point x="1631" y="789"/>
+	<Point x="354" y="789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Gymnètre épée (Gymnetrus gladius, nob.;
+Cepola gladius, Walbaum)........... lbid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="TOC-entry">
+	<Coords>
+	<Point x="356" y="795"/>
+	<Point x="1637" y="795"/>
+	<Point x="1637" y="859"/>
+	<Point x="356" y="859"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Gymnètre trait (Gymnetrus telum, nob.)... 361</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="TOC-entry">
+	<Coords>
+	<Point x="354" y="869"/>
+	<Point x="1634" y="869"/>
+	<Point x="1630" y="935"/>
+	<Point x="353" y="938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Gymnètre de Banks (Gymnetrus Banksii, nob.) 365</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="TOC-entry">
+	<Coords>
+	<Point x="355" y="944"/>
+	<Point x="1636" y="944"/>
+	<Point x="1636" y="1164"/>
+	<Point x="355" y="1164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Gymnètre Glesne (Gymnetrus remipes, Bloch
+Schn.; Régalec Glesne, Lacép.; Gymnetrus
+Ascanii, Shaw)................... 366</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="TOC-entry">
+	<Coords>
+	<Point x="354" y="1169"/>
+	<Point x="1633" y="1169"/>
+	<Point x="1633" y="1238"/>
+	<Point x="358" y="1241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Gymnètre de Grille (Gymnetrus Grillii, Lindr.) 370</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="TOC-entry">
+	<Coords>
+	<Point x="350" y="1246"/>
+	<Point x="1638" y="1246"/>
+	<Point x="1638" y="1540"/>
+	<Point x="350" y="1540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Gymnètre de Hawkins (Gymnetrus Hawkenii,
+Bl.; Gymnetrus Hawkinsii, Bl. Schn.; Gym-
+nètre Hawken, Lacép.; Blochian Gymnetrus,
+Shaw).......................... 372</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="TOC-entry">
+	<Coords>
+	<Point x="354" y="1545"/>
+	<Point x="1642" y="1545"/>
+	<Point x="1642" y="1618"/>
+	<Point x="354" y="1618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Gymnètre du Cap (Gymnetrus capensis, nob.) 376</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="TOC-entry">
+	<Coords>
+	<Point x="355" y="1622"/>
+	<Point x="1657" y="1622"/>
+	<Point x="1645" y="1762"/>
+	<Point x="353" y="1765"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Gymnètre de Russel (Gymnetrus Russelii,
+Shaw)......................... 377</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="TOC-entry">
+	<Coords>
+	<Point x="383" y="1923"/>
+	<Point x="1631" y="1923"/>
+	<Point x="1631" y="2000"/>
+	<Point x="383" y="2000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DU STYLÉPHORE..................... 381</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="TOC-entry">
+	<Coords>
+	<Point x="382" y="2012"/>
+	<Point x="1642" y="2012"/>
+	<Point x="1642" y="2157"/>
+	<Point x="382" y="2157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Styléphore à corde (Stylephorus chordatus,
+Shaw)........................... lbid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="TOC-entry">
+	<Coords>
+	<Point x="388" y="2522"/>
+	<Point x="1632" y="2522"/>
+	<Point x="1632" y="2602"/>
+	<Point x="388" y="2602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES CÉPOLES........................ 388</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r75" type="TOC-entry">
+	<Coords>
+	<Point x="387" y="2614"/>
+	<Point x="1642" y="2614"/>
+	<Point x="1642" y="2687"/>
+	<Point x="387" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Cépole rougeâtre (Cepola rubescens, Linn.) lbid.</Unicode></TextEquiv></TextRegion></Page></PcGts>

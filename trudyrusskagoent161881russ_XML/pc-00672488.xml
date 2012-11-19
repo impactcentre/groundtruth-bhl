@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672488">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:43:53</Created>
+	<LastChange>2012-02-10T09:55:01</LastChange></Metadata>
+	<Page imageFilename="00672488.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="964" y="107"/>
+	<Point x="1267" y="107"/>
+	<Point x="1267" y="178"/>
+	<Point x="964" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 292 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="239" y="412"/>
+	<Point x="1983" y="412"/>
+	<Point x="1983" y="578"/>
+	<Point x="239" y="578"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Episterna metathoracis segmentis abdominalibus 3 primis
+aeque longa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="210" y="635"/>
+	<Point x="1991" y="635"/>
+	<Point x="1991" y="1566"/>
+	<Point x="210" y="1566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Gattung gleicht in der Form Mesagroicus, gehört
+aber nicht zu den Naupactiden, sondern mit dreieckigem Ein-
+druck vor den Augen, sowie geschlossenen Körbchen der Hin-
+terschienen zu den Geonomiden bei Lacordaire, und ist ne-
+ben Geonemus zu stellen, von dem sie durch die vortretenden
+Schultern, die Schienen und Tarsen hauptsächlich abweicht.
+Ob aber die Geonomiden durch andre Gruppen wie bei La-
+cordaire von den Cneorhiniden zu trennen oder mit diesen
+zu vereinigen sind, wie Seidlitz es in seiner Fauna Bal-
+tica gethan, ist eine Frage, welche hier nicht erörtert wer-
+den kann.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="228" y="1582"/>
+	<Point x="1976" y="1582"/>
+	<Point x="1976" y="1987"/>
+	<Point x="228" y="1987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ich war anfänglich geneigt diese Gattung auf Homalo-
+rhinus zu beziehen, aber Lacordaire stellt dieselbe zu seinen
+Phanérognathes Symmérides mit einem die Maxillen nicht be-
+deckenden Kinn und ausserdem soll Homalorhinus verlängerte
+Vorderbeine haben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="221" y="1998"/>
+	<Point x="1982" y="1998"/>
+	<Point x="1982" y="3105"/>
+	<Point x="221" y="3105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Stirne mit dem Rüssel gleich ﬂach, dieser nur wenig schmä-
+ler als der Kopf mit scharfen Seitenkanten, die Seiten fallen
+steil ab mit einer tiefen, scharfkantigen, winklig unter das
+Auge gebogenen Fühlerfurche, welche sich über die Einlen-
+kung bis dicht an die Spitze, wenn auch enger fortsetzt.
+Rüsselspitze mit einer dreieckigen, etwas niedergedrückten
+Fläche, die Vorderkante ﬂach ausgerandet, zwischen der Füh-
+lerfurche und der Oberkante vor den Augen mit einem drei-
+eckigen deutlich vertieften Eindruck, Der Kehlrand gerade
+an den Seiten halbrund ausgeschnitten, wodurch in der Mitte
+ein breiter, kurzer, vorne abgestutzter Lappen entsteht, wel-
+cher mindestens 4 mal so breit als die beiderseitige Ausran-
+dung ist; auf diesem Lappen sitzt in der ganzen Breite das</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="348" y="241"/>
+	<Point x="1373" y="241"/>
+	<Point x="1373" y="331"/>
+	<Point x="348" y="331"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unguiculi simplices, liberi, aequales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="348" y="335"/>
+	<Point x="1374" y="335"/>
+	<Point x="1374" y="408"/>
+	<Point x="348" y="408"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Epimera mesothoracis angusta.</Unicode></TextEquiv></TextRegion></Page></PcGts>

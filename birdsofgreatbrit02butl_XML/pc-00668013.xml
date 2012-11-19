@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668013">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:22:39</Created>
+	<LastChange>2012-02-10T09:52:30</LastChange></Metadata>
+	<Page imageFilename="00668013.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r23" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r19" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="903" y="246"/>
+	<Point x="1421" y="246"/>
+	<Point x="1421" y="317"/>
+	<Point x="903" y="317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TREE‐SPARROW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1983" y="260"/>
+	<Point x="2069" y="260"/>
+	<Point x="2069" y="333"/>
+	<Point x="1983" y="333"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>93</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="192" y="371"/>
+	<Point x="2064" y="379"/>
+	<Point x="2063" y="493"/>
+	<Point x="196" y="501"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>note which the late Mr. Witchell renders tell, must be that which sounds to me
+like chow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="196" y="506"/>
+	<Point x="2074" y="502"/>
+	<Point x="2076" y="524"/>
+	<Point x="2080" y="1069"/>
+	<Point x="548" y="1069"/>
+	<Point x="190" y="1070"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This species is of no interest as a cage-bird, unless hand-reared: a caught
+Sparrow rarely lives long, is always wild, vicious, voracious, and unmusical; if
+hand-reared it has been known to learn and sing the songs of the Goldﬁnch,
+Linnet, Canary, and Skylark. A friend of mine had one which imitated the
+Canary’s song perfectly, but seemed ashamed of its performance, for it always
+turned its face to the wall and sang quite softly; it also never sang until the
+evening when the Canaries had gone to sleep. For feeding caged Sparrows I
+should recommend sunﬂower-seed, oats, Canary, and German-rape; groundsel- and
+plantain-heads; with a few insects and their larvæ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="193" y="1073"/>
+	<Point x="526" y="1073"/>
+	<Point x="2077" y="1074"/>
+	<Point x="2075" y="1394"/>
+	<Point x="196" y="1390"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Albinism seems to be on the increase in this species, and more particularly
+in London; where, if one examines each ﬂock that one passes in a half-hour’s
+walk through the streets, it is not at all unusual to see several pied varieties:
+there are always two or three among those which collect for crumbs in front of
+the Natural History Museum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="748" y="2051"/>
+	<Point x="1490" y="2051"/>
+	<Point x="1490" y="2151"/>
+	<Point x="748" y="2151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TREE‐SPARROW.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="855" y="2220"/>
+	<Point x="1405" y="2220"/>
+	<Point x="1405" y="2303"/>
+	<Point x="855" y="2303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Passer montanus, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="318" y="2551"/>
+	<Point x="318" y="2448"/>
+	<Point x="293" y="2448"/>
+	<Point x="293" y="2383"/>
+	<Point x="1111" y="2384"/>
+	<Point x="2058" y="2382"/>
+	<Point x="2055" y="2766"/>
+	<Point x="180" y="2765"/>
+	<Point x="181" y="2550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EEBOHM gives the distribution of this bird as follows:—“The Tree-Sparrow
+is common, though somewhat local, throughout the Palæarctic Region from
+the Atlantic to the Paciﬁc up to and, in Europe, slightly beyond the Arctic
+circle. It appears to be very rare in North Africa, and to be absent altogether
+from Greece, Asia Minor, Palestine, Central and Southern Persia, Baluchistan,
+and India south of the Himalayas; it is, however, abundant in Turkestan,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="411" y="2775"/>
+	<Point x="411" y="2814"/>
+	<Point x="293" y="2814"/>
+	<Point x="293" y="2775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="signature-mark">
+	<Coords>
+	<Point x="1775" y="2775"/>
+	<Point x="1775" y="2814"/>
+	<Point x="1702" y="2814"/>
+	<Point x="1702" y="2775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2B</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="drop-capital">
+	<Coords>
+	<Point x="198" y="2384"/>
+	<Point x="290" y="2384"/>
+	<Point x="290" y="2533"/>
+	<Point x="198" y="2533"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="175" y="1787"/>
+	<Point x="853" y="1787"/>
+	<Point x="853" y="1907"/>
+	<Point x="175" y="1907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1349" y="1787"/>
+	<Point x="2077" y="1787"/>
+	<Point x="2077" y="1907"/>
+	<Point x="1349" y="1907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="1012" y="1580"/>
+	<Point x="1012" y="1604"/>
+	<Point x="1224" y="1604"/>
+	<Point x="1224" y="1580"/></Coords></SeparatorRegion></Page></PcGts>

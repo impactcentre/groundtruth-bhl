@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669021">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:14:50</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669021.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="50" y="289"/>
+	<Point x="1463" y="289"/>
+	<Point x="1463" y="485"/>
+	<Point x="50" y="485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pl. 429, ﬁg. 2 qui lui avait été envoyé de
+Tranquebar par John sous le nom de Pititchei.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="105" y="494"/>
+	<Point x="1487" y="494"/>
+	<Point x="1487" y="1258"/>
+	<Point x="105" y="1258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Outre ce que nous venons de dire de ses formes,
+on lui observe à chaque mâchoire sept ou huit
+dents de chaque côté, longues, crochues et poin‐
+tues; les deux antérieures d’en haut sont les plus
+alongées; à la mâchoire inférieure, au contraire, les
+antérieures sont les plus petites, et elles laissent
+même entre elles un intervalle vide où les supé‐
+rieures rentrent quand la bouche se ferme : la ligne
+latérale est peu marquée et disparaît insensiblement.
+La force dans les épines est médiocre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="324" y="1264"/>
+	<Point x="1305" y="1264"/>
+	<Point x="1305" y="1340"/>
+	<Point x="324" y="1340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/15; A. 3/14; C. 17; P. 18; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="108" y="1350"/>
+	<Point x="1478" y="1344"/>
+	<Point x="1478" y="1884"/>
+	<Point x="102" y="1884"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout ce poisson est argenté, légèrement teint de
+violâtre ou de brun verdâtre sur le dos. Il y a un
+peu de noir à la partie épineuse de sa dorsale, et
+un trait noirâtre dans l’aisselle de sa pectorale; une
+tache noirâtre occupe en dedans de la bouche le
+devant de la mâchoire inférieure, et une autre l’ar‐
+rière du palais vers la gorge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="42" y="1893"/>
+	<Point x="1490" y="1893"/>
+	<Point x="1489" y="2166"/>
+	<Point x="469" y="2158"/>
+	<Point x="458" y="2159"/>
+	<Point x="345" y="2241"/>
+	<Point x="299" y="2243"/>
+	<Point x="44" y="2241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Leschenault nous apprend que sa taille
+va à cinq pouces et qu’il abonde pendant
+toute l’année dans la rade de Pondichéry. On
+le mange.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="55" y="2247"/>
+	<Point x="1468" y="2247"/>
+	<Point x="1480" y="2683"/>
+	<Point x="58" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bloch dit de son scomber minutus que sa
+chair est grasse et de fort bon goût, qu’on en
+prend également dans la mer et aux embou‐
+chures des rivières, et qu’il se trouve quel‐
+quefois en très-grande quantité. Sa ﬁgure ne</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="498" y="204"/>
+	<Point x="1038" y="204"/>
+	<Point x="1038" y="283"/>
+	<Point x="498" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1337" y="191"/>
+	<Point x="1456" y="191"/>
+	<Point x="1456" y="274"/>
+	<Point x="1337" y="274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>89</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668018">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:53:09</Created>
+	<LastChange>2012-02-10T09:52:31</LastChange></Metadata>
+	<Page imageFilename="00668018.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="109" y="183"/>
+	<Point x="2132" y="183"/>
+	<Point x="2132" y="2683"/>
+	<Point x="109" y="2683"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="856" y="2850"/>
+	<Point x="856" y="2904"/>
+	<Point x="1358" y="2904"/>
+	<Point x="1358" y="2850"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAFFINCH � � ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="1030" y="2925"/>
+	<Point x="1201" y="2925"/>
+	<Point x="1201" y="2962"/>
+	<Point x="1030" y="2962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 82.</Unicode></TextEquiv></TextRegion></Page></PcGts>

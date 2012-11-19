@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669303">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:49:32</Created>
+	<LastChange>2012-03-12T14:33:54</LastChange></Metadata>
+	<Page imageFilename="00669303.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="51" y="246"/>
+	<Point x="1507" y="246"/>
+	<Point x="1507" y="937"/>
+	<Point x="51" y="937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l’auteur, n’est pas inconnue des Norwégiens,
+qui lui donnent aussi les noms de roi des
+harengs, de chasseur de harengs, etc., et
+probablement par les mêmes motifs qui les
+leur ont fait donner au glesne. Malheureu‐
+sement l’individu observé par M. Lindroth
+était encore en plus mauvais état que les
+glesnes vus par Ascanius et par Brünnich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="176" y="963"/>
+	<Point x="1481" y="963"/>
+	<Point x="1480" y="1045"/>
+	<Point x="1091" y="1042"/>
+	<Point x="177" y="1030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa tête était fracassée, et le bout de sa queue rompu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="110" y="1038"/>
+	<Point x="1474" y="1048"/>
+	<Point x="1473" y="2541"/>
+	<Point x="112" y="2541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Son corps est plus alongé et sa tête plus petite
+qu’à aucune autre espèce, puisque sa hauteur est
+quinze fois et plus dans sa longueur sans compter
+la caudale, et la tête dix-huit fois. L’auteur n’y a
+pu voir ni les dents ni les narines: il décrit l’oper‐
+cule comme lisse et entier, et ne compte que quatre
+rayons aux ouïes. Les pectorales sont petites et ont
+douze rayons; les ventrales, semblables à celles du
+glesne, ne consistaient qu’en un ﬁlet de l’épaisseur
+d’une plume de cygne, long de cinq pieds, terminé
+par une membrane large et rouge. La dorsale com‐
+mence dès le sommet de la tête, et l’on ne nous dit
+point qu’elle ait de portion antérieure détachée. Sa
+hauteur sur le devant est de près de moitié de celle
+du corps, ensuite elle diminue et se termine comme
+dans notre gymnètre de la Méditerranée, avant d’ar‐
+river au bout de la queue. M. Lindroth assure y
+avoir compté quatre cent six rayons, nombre qui
+ne permet de comparaison qu’avec notre gymnetrus
+telum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="170" y="2546"/>
+	<Point x="1478" y="2546"/>
+	<Point x="1478" y="2635"/>
+	<Point x="170" y="2635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les verrues de la peau, disposées sur quatre lignes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="502" y="142"/>
+	<Point x="1039" y="142"/>
+	<Point x="1039" y="232"/>
+	<Point x="502" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1331" y="142"/>
+	<Point x="1487" y="142"/>
+	<Point x="1487" y="232"/>
+	<Point x="1331" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>371</Unicode></TextEquiv></TextRegion></Page></PcGts>

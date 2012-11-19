@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669182">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T19:04:51</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669182.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="317" y="284"/>
+	<Point x="1752" y="284"/>
+	<Point x="1752" y="458"/>
+	<Point x="317" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>semblable et avec la même bande latérale,
+intitulé zeus elevatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="404" y="466"/>
+	<Point x="1424" y="466"/>
+	<Point x="1424" y="554"/>
+	<Point x="404" y="554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est coloré en jaune brunâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="326" y="557"/>
+	<Point x="1447" y="556"/>
+	<Point x="1478" y="552"/>
+	<Point x="1764" y="552"/>
+	<Point x="1766" y="1083"/>
+	<Point x="326" y="1083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est aussi un individu semblable qui vient
+d’être décrit, sous le nom de ﬂavescens, par
+M. Bennet, dans le Journal zoologique, n.° 13,
+p. 40; nous aurions même conservé ce nom
+à l’espèce, s’il ne nous paraissait trop peu dis-
+tinctif en comparaison du nôtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="293" y="1095"/>
+	<Point x="1770" y="1095"/>
+	<Point x="1770" y="1477"/>
+	<Point x="293" y="1477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le caantje (petit canot ou panier) de
+l’île de Manipe (part. II, n.° 170), qui est
+le gros dos ou l’ikan-porot-bankar de Valen-
+tyn, n.° 90, est dessiné avec</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="394" y="1489"/>
+	<Point x="1755" y="1483"/>
+	<Point x="1758" y="1708"/>
+	<Point x="391" y="1708"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>un proﬁl courbé en S, un museau proéminent, une
+dorsale assez haute, ronde, une caudale coupée car‐
+rément.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="400" y="1711"/>
+	<Point x="1749" y="1711"/>
+	<Point x="1749" y="2104"/>
+	<Point x="400" y="2104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est enluminé de brun, les nageoires vertes, la
+poitrine jaune, tachetée de bleu, une bande blanche
+longitudinale le long du milieu du corps, sur la‐
+quelle on voit en arrière quatre taches ou lignes
+verticales bleues ou rouges.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="305" y="2109"/>
+	<Point x="1756" y="2109"/>
+	<Point x="1756" y="2287"/>
+	<Point x="305" y="2287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Peut-être est-ce une mauvaise ﬁgure de
+notre altivelis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="301" y="2290"/>
+	<Point x="1766" y="2289"/>
+	<Point x="1765" y="2568"/>
+	<Point x="302" y="2568"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On dit que, séché et mis sur le gril, son
+goût approche de celui des côtelettes de mou‐
+ton.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="325" y="177"/>
+	<Point x="481" y="177"/>
+	<Point x="481" y="272"/>
+	<Point x="325" y="272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>250</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="761" y="177"/>
+	<Point x="1303" y="177"/>
+	<Point x="1303" y="274"/>
+	<Point x="761" y="274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667973">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:18:33</Created>
+	<LastChange>2012-02-10T09:52:27</LastChange></Metadata>
+	<Page imageFilename="00667973.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r19" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r20" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="855" y="220"/>
+	<Point x="1435" y="220"/>
+	<Point x="1435" y="304"/>
+	<Point x="855" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MEALY REDPOLL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="2001" y="237"/>
+	<Point x="2071" y="237"/>
+	<Point x="2071" y="297"/>
+	<Point x="2001" y="297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>73</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="198" y="339"/>
+	<Point x="2072" y="339"/>
+	<Point x="2072" y="731"/>
+	<Point x="198" y="731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I always purchase my Goldﬁnches as “Grey-pates”; and as they have plenty
+of exercise and abundance of nourishing food, my birds when adult are frequently
+mistaken by breeders for “Russians”; when ﬁrst turned out they always have
+plenty of hemp and teasel, with groundsel and chickweed; and there is usually a
+saucer of soft-food in the aviary: the colours of the male birds are wonderfully
+pure and brilliant, and the birds themselves are large and well-formed.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="199" y="735"/>
+	<Point x="2078" y="735"/>
+	<Point x="2079" y="1110"/>
+	<Point x="1083" y="1110"/>
+	<Point x="1082" y="1167"/>
+	<Point x="199" y="1167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mule-breeding between Goldﬁnch and Canary is easy enough, for I was
+successful in my ﬁrst essay; but between the Goldﬁnch and other Finches, there
+is more diﬃculty (although this species sometimes hybridizes with the Greenﬁnch
+in a wild state) especially in the case of the only really handsome cross—between
+the Goldﬁnch and Bullﬁnch. The variety of Goldﬁnch known as a “Cheverel”
+is sometimes preferred for muling purposes; it diﬀers from the normal form in
+having the centre of the throat white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="199" y="1171"/>
+	<Point x="1111" y="1171"/>
+	<Point x="1125" y="1163"/>
+	<Point x="2080" y="1163"/>
+	<Point x="2080" y="1417"/>
+	<Point x="199" y="1417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The bird-catchers assert that Goldﬁnches from diﬀerent parts of our islands
+sing diﬀerently; and they call the best singers “Slammers,” from a fancied
+resemblance of part of the song to the words—“Slam-so-witty, slippity-cur,” with
+other rubbish which no bird could whistle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="747" y="2030"/>
+	<Point x="1526" y="2030"/>
+	<Point x="1526" y="2127"/>
+	<Point x="747" y="2127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MEALY REDPOLL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="876" y="2205"/>
+	<Point x="1429" y="2205"/>
+	<Point x="1429" y="2282"/>
+	<Point x="876" y="2282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Acanthis linaria, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="319" y="2541"/>
+	<Point x="319" y="2352"/>
+	<Point x="2097" y="2352"/>
+	<Point x="2097" y="2735"/>
+	<Point x="188" y="2735"/>
+	<Point x="188" y="2541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EEBOHM treats the Redpolls as races of one species, but considers that the
+typical form, A. linaria, and the two extremes, A. rufescens and A.
+hornemanni, are worthy of subspeciﬁc rank; at least that seems to me to
+be the only construction to be put upon his observations. Howard Saunders, on
+the other hand, unites A. linaria and A. hornemanni, remarking:—“for the sake
+of convenience, I propose to treat the Mealy Redpolls under one heading, and to</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="1757" y="2741"/>
+	<Point x="1795" y="2741"/>
+	<Point x="1795" y="2777"/>
+	<Point x="1757" y="2777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>U</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="319" y="2747"/>
+	<Point x="442" y="2747"/>
+	<Point x="442" y="2790"/>
+	<Point x="319" y="2790"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="201" y="1785"/>
+	<Point x="853" y="1785"/>
+	<Point x="853" y="1873"/>
+	<Point x="201" y="1873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1367" y="1779"/>
+	<Point x="2073" y="1779"/>
+	<Point x="2073" y="1871"/>
+	<Point x="1367" y="1871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="drop-capital">
+	<Coords>
+	<Point x="225" y="2366"/>
+	<Point x="316" y="2366"/>
+	<Point x="316" y="2512"/>
+	<Point x="225" y="2512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r18">
+	<Coords>
+	<Point x="1032" y="1602"/>
+	<Point x="1243" y="1602"/>
+	<Point x="1243" y="1622"/>
+	<Point x="1032" y="1622"/></Coords></SeparatorRegion></Page></PcGts>

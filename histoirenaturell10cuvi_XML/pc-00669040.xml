@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669040">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:17:21</Created>
+	<LastChange>2012-02-09T16:27:29</LastChange></Metadata>
+	<Page imageFilename="00669040.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="387" y="254"/>
+	<Point x="1743" y="254"/>
+	<Point x="1747" y="784"/>
+	<Point x="1549" y="784"/>
+	<Point x="1523" y="788"/>
+	<Point x="1193" y="787"/>
+	<Point x="387" y="788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>supérieur de la hauteur, suivant une courbe à peu
+près semblable à celle du dos, mais en s’en rappro‐
+chant un peu vers l’extrémité. Elle ﬁnit subitement
+avant d’arriver à la portion de queue qui est derrière
+la dorsale et l’anale. Le long de cette queue il n’y a
+point d’écailles ni de carène, on y sent seulement la
+légère saillie des vertèbres au travers de la peau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="386" y="791"/>
+	<Point x="1199" y="790"/>
+	<Point x="1535" y="790"/>
+	<Point x="1751" y="788"/>
+	<Point x="1751" y="1616"/>
+	<Point x="387" y="1616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le dos paraît de couleur plombée, qui change in‐
+sensiblement en argenté; les côtés de la tête, les ﬂancs
+et le ventre sont d’une belle couleur d’argent. Sur le
+dos, et un peu au-dessous de la ligne latérale, sont
+semées des taches rondes, nuageuses, noirâtres, assez
+serrées. Les nageoires paraissent d’un gris jaunâtre;
+le long rayon des ventrales est en partie argenté, en
+partie noirâtre. A en juger par la ﬁgure chinoise dont
+nous avons parlé, le plombé du dos serait dans le frais
+légèrement teint de verdâtre, et les taches le seraient
+un peu de violâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="393" y="1621"/>
+	<Point x="1748" y="1621"/>
+	<Point x="1748" y="1843"/>
+	<Point x="393" y="1843"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Notre plus grand individu est long de six pouces
+et demi sur quatre pouces de haut. Il a été envoyé
+de Java par MM. Kuhl et Van Hasselt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="398" y="1846"/>
+	<Point x="1752" y="1846"/>
+	<Point x="1752" y="2445"/>
+	<Point x="398" y="2445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le foie a deux lobes, dont le gauche est mince
+et étendu sur toute la longueur de l’æsophage; le
+lobe droit est plus épais mais plus court que le
+gauche. La vésicule du ﬁel est attachée tout près
+de lui. Elle est ronde, ses parois sont très-minces
+et transparentes; le canal cholédoque est très-long
+et va déboucher dans un des groupes des cæcums
+qui entourent le pylore.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="398" y="2448"/>
+	<Point x="1752" y="2448"/>
+	<Point x="1752" y="2610"/>
+	<Point x="398" y="2610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’æsophage est long, il suit une direction presque
+horizontale, il ne s’abaisse que très-peu vers l’arrière</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="329" y="154"/>
+	<Point x="461" y="154"/>
+	<Point x="461" y="233"/>
+	<Point x="329" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>108</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="710" y="159"/>
+	<Point x="1363" y="159"/>
+	<Point x="1363" y="233"/>
+	<Point x="710" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

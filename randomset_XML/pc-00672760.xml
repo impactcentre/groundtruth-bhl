@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672760">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:06:33</Created>
+	<LastChange>2012-02-10T10:29:47</LastChange></Metadata>
+	<Page imageFilename="00672760.tif" imageWidth="1890" imageHeight="3158">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="880" y="145"/>
+	<Point x="1258" y="145"/>
+	<Point x="1258" y="254"/>
+	<Point x="880" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>( 298 )</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="325" y="270"/>
+	<Point x="1777" y="270"/>
+	<Point x="1777" y="677"/>
+	<Point x="325" y="677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ght of a venerable wood, old as the ſoil it
+ood on; and beautiful, beyond what the
+pencil can deſcribe, annihilated for the mere
+temporary uſe of the ſpace it occupied*.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="322" y="787"/>
+	<Point x="1796" y="787"/>
+	<Point x="1796" y="2422"/>
+	<Point x="322" y="2422"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In part the devaation of timber has been
+owing, in ſome countries, to other cauſes.
+Among theſe, it is well known, what pro-
+digious quantities of drift-timber are, every
+year, wrecked on the ſea-coa of Greenland,
+Iceland, Siberia, Kamſkatka, and other north-
+ern regions, brought down, as is ſuppoſed, by
+the great rivers of Tartary, and America; and
+thrown by the ſetting of the currents on thoſe
+ſhores. In a voyage related by Purchas, we
+are told, that the Obi, and the Jeniſca fre-
+quently, when the fros break, and the ſnows
+diolve, overﬂow their banks, and carry down
+with them va mountains of ice, which rolling
+along, through the fores of the country,
+cruſh down all the trees they meet; and will
+ſometimes drive whole woods before them in
+their paage to the ſea†. A tra of country,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1503" y="2658"/>
+	<Point x="1822" y="2658"/>
+	<Point x="1822" y="2764"/>
+	<Point x="1503" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ravaged</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="1170" y="2535"/>
+	<Point x="1170" y="2615"/>
+	<Point x="370" y="2615"/>
+	<Point x="370" y="2535"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* See Marſden's hi. of Sumatra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="1170" y="2617"/>
+	<Point x="1170" y="2703"/>
+	<Point x="370" y="2703"/>
+	<Point x="370" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>† Second part, b. iii. ch. 7.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="358" y="2464"/>
+	<Point x="358" y="2512"/>
+	<Point x="1761" y="2512"/>
+	<Point x="1761" y="2464"/></Coords></SeparatorRegion></Page></PcGts>

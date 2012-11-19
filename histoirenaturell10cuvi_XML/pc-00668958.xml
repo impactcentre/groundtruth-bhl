@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668958">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:37:20</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668958.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="783" y="210"/>
+	<Point x="1421" y="210"/>
+	<Point x="1421" y="274"/>
+	<Point x="783" y="274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="367" y="310"/>
+	<Point x="1835" y="310"/>
+	<Point x="1835" y="1500"/>
+	<Point x="367" y="1500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>considérable d'individus d'âge et de sexe dif-
+férens, achetés au marché de Paris ou envoyés
+de Dieppe, de Caen, de Brest, de la Rochelle,
+de Toulon, d'Iviça, de Nice et même de
+Naples, qui tous s'accordent ensemble et avec
+les ﬁgures de Salviani (75), d'Aldrovande (112),
+de Willughby (S. 16), de Duhamel (sect. V,
+pl. 1)1, de Pennant (n.° 100) et de Bloch
+(pl.XLI), en sorte que les caractères de l'espèce
+de la dorée commune nous semblent être bien
+ﬁxés; mais nous en avons reçu de la Méditer-
+ranée d'autres individus, qu'il nous paraît
+impossible de ne pas regarder comme d'une
+espèce diﬀérente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="450" y="1538"/>
+	<Point x="1816" y="1538"/>
+	<Point x="1816" y="2368"/>
+	<Point x="450" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les formes de la tête et du corps y sont les mêmes;
+mais les aiguillons de la première dorsale y sont
+beaucoup plus gros; les épines fourchues des côtés
+de la seconde n'y sont qu'au nombre de cinq ou de
+six; les pièces osseuses qui portent la deuxième, la
+troisième et même la quatrième, sont de gros écus-
+sons ovales et bombés, bien autrement forts que
+dans la dorée commune; enﬁn, et ce qui est le plus
+remarquable, l'os scapulaire, au lieu d'être plat
+et terminé en une petite épine, comme dans l'es-
+pèce ordinaire, forme un gros aiguillon rond, très-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="404" y="2493"/>
+	<Point x="1811" y="2493"/>
+	<Point x="1811" y="2670"/>
+	<Point x="404" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Celles de Salviani el de Duhamel représentent cependant
+les deux dorsales comme réunies; mais c'est évidemment une
+inadvertance.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="405" y="207"/>
+	<Point x="491" y="207"/>
+	<Point x="491" y="272"/>
+	<Point x="405" y="272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>26</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="414" y="2425"/>
+	<Point x="1799" y="2425"/>
+	<Point x="1799" y="2442"/>
+	<Point x="414" y="2442"/></Coords></SeparatorRegion></Page></PcGts>

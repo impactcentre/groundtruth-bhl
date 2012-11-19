@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672608">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:34:59</Created>
+	<LastChange>2012-02-10T09:55:20</LastChange></Metadata>
+	<Page imageFilename="00672608.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1009" y="114"/>
+	<Point x="1319" y="114"/>
+	<Point x="1319" y="195"/>
+	<Point x="1009" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 412 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="276" y="247"/>
+	<Point x="2028" y="247"/>
+	<Point x="2028" y="935"/>
+	<Point x="276" y="935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ♂♂, en dessus, sont d'un fauve rouge-brique plus
+foncé que tous les individus d'Adippe et de ses variétés, que
+j'ai vus jusqu'ici. Le nombre de trois individus n'est mal-
+heureusement pas sufﬁsant pour la ﬁxation d'une variété, dans
+un genre aussi sujet à varier que l'est le genre Argynnis.
+Si nous trouvons, dans la suite, que tous les individus du
+Tian-Chian présentent bien les caractères que j'ai indiqués, je
+propose de nommer cette forme var. Tianschanica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="804" y="1050"/>
+	<Point x="1502" y="1050"/>
+	<Point x="1502" y="1159"/>
+	<Point x="804" y="1159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>81. A. Paphia L. var.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="290" y="1235"/>
+	<Point x="2047" y="1235"/>
+	<Point x="2047" y="1492"/>
+	<Point x="290" y="1492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Très commune en Août près de Charkhodé. Mr. Petrow,
+ofﬁcier d'artillerie, m'a dit qu'en Juillet cette espèce y était
+encore plus abondante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="276" y="1504"/>
+	<Point x="2038" y="1504"/>
+	<Point x="2038" y="2111"/>
+	<Point x="276" y="2111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les ♀♀ appartiennent à un type, que je ne connaissais
+pas encore. Elles sont, en dessus, d'un vert-jaunâtre clair,
+qui est intermédiaire entre celui des ♀♀ typiques et de l'ab.
+Valesina Esp. Je ne vis point de vraies aberrations Vale-
+sina, ni de ♀♀ fauves (un peu verdâtres) typiques. Le revers
+des premières ailes de ces ♀♀, se rapproche d'avantage de
+celui du type, que de la Valesina.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="800" y="2219"/>
+	<Point x="1542" y="2219"/>
+	<Point x="1542" y="2304"/>
+	<Point x="800" y="2304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>82. A. Pandora Schiff.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="271" y="2388"/>
+	<Point x="2045" y="2388"/>
+	<Point x="2045" y="2740"/>
+	<Point x="271" y="2740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un ♂, en Juin, près du Kounguesse, (pas au dessus de
+5000´), et puis, quelques individus vieillis, en Août, près de
+la même rivière (Charkhodé), où l'espèce paraissait être com-
+mune.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="285" y="2750"/>
+	<Point x="2033" y="2750"/>
+	<Point x="2033" y="3100"/>
+	<Point x="285" y="3100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les exemplaires rapportés ne sont pas assez frais pour
+donner une idée exacte de leur coloration. Pourtant, je crois
+que les Pandora du Tian-Chian ne sont pas diﬀérentes du type
+Européen.</Unicode></TextEquiv></TextRegion></Page></PcGts>

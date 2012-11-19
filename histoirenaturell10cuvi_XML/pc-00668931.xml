@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668931">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T06:34:09</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668931.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r19" index="0"/>
+	<RegionRefIndexed regionRef="r17" index="1"/>
+	<RegionRefIndexed regionRef="r21" index="2"/>
+	<RegionRefIndexed regionRef="r25" index="3"/>
+	<RegionRefIndexed regionRef="r28" index="4"/>
+	<RegionRefIndexed regionRef="r4" index="5"/>
+	<RegionRefIndexed regionRef="r30" index="6"/>
+	<RegionRefIndexed regionRef="r32" index="7"/>
+	<RegionRefIndexed regionRef="r15" index="8"/>
+	<RegionRefIndexed regionRef="r8" index="9"/>
+	<RegionRefIndexed regionRef="r35" index="10"/>
+	<RegionRefIndexed regionRef="r43" index="11"/>
+	<RegionRefIndexed regionRef="r36" index="12"/>
+	<RegionRefIndexed regionRef="r47" index="13"/>
+	<RegionRefIndexed regionRef="r37" index="14"/>
+	<RegionRefIndexed regionRef="r51" index="15"/>
+	<RegionRefIndexed regionRef="r38" index="16"/>
+	<RegionRefIndexed regionRef="r55" index="17"/>
+	<RegionRefIndexed regionRef="r59" index="18"/>
+	<RegionRefIndexed regionRef="r85" index="19"/>
+	<RegionRefIndexed regionRef="r87" index="20"/>
+	<RegionRefIndexed regionRef="r39" index="21"/>
+	<RegionRefIndexed regionRef="r69" index="22"/>
+	<RegionRefIndexed regionRef="r73" index="23"/>
+	<RegionRefIndexed regionRef="r77" index="24"/>
+	<RegionRefIndexed regionRef="r81" index="25"/>
+	<RegionRefIndexed regionRef="r83" index="26"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="539" y="700"/>
+	<Point x="966" y="700"/>
+	<Point x="966" y="749"/>
+	<Point x="539" y="749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAPITRE IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="439" y="1175"/>
+	<Point x="1104" y="1175"/>
+	<Point x="1104" y="1244"/>
+	<Point x="439" y="1244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="header">
+	<Coords>
+	<Point x="684" y="270"/>
+	<Point x="863" y="270"/>
+	<Point x="863" y="324"/>
+	<Point x="684" y="324"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TABLE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="page-number">
+	<Coords>
+	<Point x="1333" y="245"/>
+	<Point x="1461" y="245"/>
+	<Point x="1461" y="328"/>
+	<Point x="1333" y="328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xxiij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="1373" y="1445"/>
+	<Point x="1462" y="1445"/>
+	<Point x="1462" y="1485"/>
+	<Point x="1373" y="1485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>302</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="1373" y="1522"/>
+	<Point x="1464" y="1522"/>
+	<Point x="1464" y="1561"/>
+	<Point x="1373" y="1561"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>303</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1373" y="1599"/>
+	<Point x="1464" y="1599"/>
+	<Point x="1464" y="1647"/>
+	<Point x="1373" y="1647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>304</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="1375" y="2050"/>
+	<Point x="1462" y="2050"/>
+	<Point x="1462" y="2090"/>
+	<Point x="1375" y="2090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>305</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1363" y="984"/>
+	<Point x="1460" y="984"/>
+	<Point x="1460" y="1029"/>
+	<Point x="1363" y="1029"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>301</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1229" y="344"/>
+	<Point x="1322" y="344"/>
+	<Point x="1322" y="381"/>
+	<Point x="1229" y="381"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pages. Planch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1328" y="346"/>
+	<Point x="1462" y="346"/>
+	<Point x="1462" y="381"/>
+	<Point x="1328" y="381"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pages. Planch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="TOC-entry">
+	<Coords>
+	<Point x="59" y="388"/>
+	<Point x="1336" y="388"/>
+	<Point x="1336" y="461"/>
+	<Point x="59" y="461"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Cépole du Japon (Cepola limbata, nob.)... 402</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="TOC-entry">
+	<Coords>
+	<Point x="62" y="465"/>
+	<Point x="1339" y="465"/>
+	<Point x="1339" y="535"/>
+	<Point x="62" y="535"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Cépole bordée (Cepola marginata, nob.).. lbid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="TOC-entry">
+	<Coords>
+	<Point x="66" y="540"/>
+	<Point x="1339" y="540"/>
+	<Point x="1339" y="607"/>
+	<Point x="66" y="607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Cépole raccourcie (Cepola abbreviata, nob.). 403</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="TOC-entry">
+	<Coords>
+	<Point x="38" y="776"/>
+	<Point x="1342" y="776"/>
+	<Point x="1342" y="890"/>
+	<Point x="38" y="890"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DU LOPHOTE......................... 405</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="TOC-entry">
+	<Coords>
+	<Point x="40" y="905"/>
+	<Point x="1338" y="905"/>
+	<Point x="1338" y="1052"/>
+	<Point x="40" y="1052"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Lophote cépédien (Lophotes cepedianus,
+Giorna).......................... Ibid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="TOC-entry">
+	<Coords>
+	<Point x="64" y="1311"/>
+	<Point x="1359" y="1311"/>
+	<Point x="1359" y="1397"/>
+	<Point x="64" y="1397"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES ATHÉRINES..................... 413</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="TOC-entry">
+	<Coords>
+	<Point x="60" y="1428"/>
+	<Point x="1363" y="1428"/>
+	<Point x="1363" y="1504"/>
+	<Point x="60" y="1504"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Sauelet (Atherina hepsetus, Linn.)....... 423</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="TOC-entry">
+	<Coords>
+	<Point x="57" y="1512"/>
+	<Point x="1361" y="1512"/>
+	<Point x="1361" y="1582"/>
+	<Point x="57" y="1582"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Joël (Atherina Boieri, Risso).......... 432</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="TOC-entry">
+	<Coords>
+	<Point x="64" y="1592"/>
+	<Point x="1359" y="1592"/>
+	<Point x="1359" y="1653"/>
+	<Point x="61" y="1654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Mochon (Atherina mochon, nob.)....... 434</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="TOC-entry">
+	<Coords>
+	<Point x="61" y="1663"/>
+	<Point x="1353" y="1664"/>
+	<Point x="1359" y="1728"/>
+	<Point x="64" y="1728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L' Athérine Risso (Atherina Risso, nob.)..... 435</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="TOC-entry">
+	<Coords>
+	<Point x="64" y="1740"/>
+	<Point x="1359" y="1740"/>
+	<Point x="1359" y="1808"/>
+	<Point x="64" y="1794"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Athérine de Sardaigne (Atherina sarda, nob.). lbid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="TOC-entry">
+	<Coords>
+	<Point x="66" y="2119"/>
+	<Point x="1367" y="2118"/>
+	<Point x="1357" y="2250"/>
+	<Point x="66" y="2257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Roséré de la Caroline (Atherina Carolina,
+nob.)............................ 445</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="TOC-entry">
+	<Coords>
+	<Point x="64" y="2267"/>
+	<Point x="1359" y="2267"/>
+	<Point x="1359" y="2335"/>
+	<Point x="64" y="2335"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Roséré à petite tête (Atherina breviceps, nob.). lbid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="TOC-entry">
+	<Coords>
+	<Point x="67" y="2345"/>
+	<Point x="1359" y="2343"/>
+	<Point x="1359" y="2482"/>
+	<Point x="64" y="2482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Roséré à petite dorsale (Atherina parvipinnis,
+nob.)............................ 446</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="TOC-entry">
+	<Coords>
+	<Point x="61" y="2494"/>
+	<Point x="1360" y="2494"/>
+	<Point x="1360" y="2563"/>
+	<Point x="61" y="2563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Athérine pectorale (Atherina pectoralis, nob.). 447</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r83" type="TOC-entry">
+	<Coords>
+	<Point x="60" y="2569"/>
+	<Point x="1367" y="2569"/>
+	<Point x="1367" y="2711"/>
+	<Point x="60" y="2711"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Athérine cylindrique (Atherina cylindrica,
+nob.)............................ 453</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r85" type="TOC-entry">
+	<Coords>
+	<Point x="66" y="1809"/>
+	<Point x="1357" y="1809"/>
+	<Point x="1357" y="1958"/>
+	<Point x="66" y="1958"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Nonnats (Atherina minuta et Atherina mar-
+morata, Risso).................... 437</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r87" type="TOC-entry">
+	<Coords>
+	<Point x="63" y="1966"/>
+	<Point x="1357" y="1966"/>
+	<Point x="1357" y="2107"/>
+	<Point x="63" y="2107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Prêtre, ou Abusseau ou Roséré (Atherina
+presbyter)....................... 439</Unicode></TextEquiv></TextRegion></Page></PcGts>

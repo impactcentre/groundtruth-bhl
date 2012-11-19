@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672781">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-14T01:56:18</Created>
+	<LastChange>2012-03-12T14:34:26</LastChange></Metadata>
+	<Page imageFilename="00672781.tif" imageWidth="2184" imageHeight="3407">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r16" index="4"/>
+	<RegionRefIndexed regionRef="r20" index="5"/>
+	<RegionRefIndexed regionRef="r24" index="6"/>
+	<RegionRefIndexed regionRef="r28" index="7"/>
+	<RegionRefIndexed regionRef="r32" index="8"/>
+	<RegionRefIndexed regionRef="r36" index="9"/>
+	<RegionRefIndexed regionRef="r42" index="10"/>
+	<RegionRefIndexed regionRef="r50" index="11"/>
+	<RegionRefIndexed regionRef="r14" index="12"/>
+	<RegionRefIndexed regionRef="r15" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="383" y="171"/>
+	<Point x="1428" y="171"/>
+	<Point x="1428" y="253"/>
+	<Point x="383" y="253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Freilebende Süßwasser‐Nematoden der Ost‐Alpen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1687" y="182"/>
+	<Point x="1808" y="182"/>
+	<Point x="1808" y="244"/>
+	<Point x="1687" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>533</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="794" y="417"/>
+	<Point x="1037" y="417"/>
+	<Point x="1037" y="498"/>
+	<Point x="794" y="498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anhang.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="737" y="550"/>
+	<Point x="1062" y="550"/>
+	<Point x="1062" y="617"/>
+	<Point x="737" y="617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mermithidae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="537" y="657"/>
+	<Point x="1278" y="657"/>
+	<Point x="1278" y="728"/>
+	<Point x="537" y="728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Limnomermis v. DADAY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="29" y="1718"/>
+	<Point x="1809" y="1718"/>
+	<Point x="1809" y="2672"/>
+	<Point x="29" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der Kopf zeigt sich — die folgende Artbeschreibung bezieht
+sich auf ein einziges in Alkohol‐Glycerin konserviertes Männchen —
+(Fig. 36a) durch eine halsartige Einschnürung vom Rumpfe abge‐
+setzt. Vorn ist das Kopfende im Gegensatz zur nächstverwandten
+Art Limnomermis limnobia V. DADAY (1911, p. 507—509, tab. 15
+ﬁg. 3a—d) aus der Tiefe des Vierwaldstätter Sees abgerundet, der
+männliche Schwanz ist am Ende (Fig. 36b) gleichfalls abgerundet
+und kaum merklich kolbig angeschwollen. Die gekreuzter Fasern
+entbehrende Körpercuticula ist 5—6 μ dick (in der Nähe des
+Vorderendes 7—7,5 μ, am Kopfende bis zu 10, an der Schwanz‐
+spitze bis zu 12,5μ). Der Durchmesser des aus 3 Zellenreihen be‐
+stehenden mediolateralen Hypodermiswulstes beträgt in der Nähe
+der Körpermitte nur ⅙ (25 μ), bei L. limnobia ¼ des Körper‐
+durchmessers.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="31" y="2681"/>
+	<Point x="1804" y="2681"/>
+	<Point x="1804" y="3021"/>
+	<Point x="31" y="3021"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sehr auffallend ist — wie auch V. DADAY erwähnt — das Seiten‐
+organ. Dieses ist nach dem ungarischen Autor „ein schlauchförmiges
+Seitenorgan, welches mit seiner eigentümlichen Form das auffallendste
+Kennzeichen der Art bildet“ (p. 508), und stimmt, so weit ich aus
+V. DADAY’S Abbildung ersehe, mit dem des mir vorliegenden Exem‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="348" y="776"/>
+	<Point x="1477" y="776"/>
+	<Point x="1477" y="844"/>
+	<Point x="348" y="844"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Limnomermis austriaca MICOLETZKY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="631" y="856"/>
+	<Point x="1179" y="856"/>
+	<Point x="1181" y="930"/>
+	<Point x="630" y="930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Taf. 19 Fig. 36 a—b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="37" y="941"/>
+	<Point x="1573" y="941"/>
+	<Point x="1572" y="1023"/>
+	<Point x="37" y="1022"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MICOLETZKY, 1913 (1), p. 121. Limnomermis austriaca n. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="137" y="1056"/>
+	<Point x="658" y="1056"/>
+	<Point x="658" y="1133"/>
+	<Point x="137" y="1133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Formel nach COBB:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="433" y="1144"/>
+	<Point x="1568" y="1144"/>
+	<Point x="1568" y="1221"/>
+	<Point x="1502" y="1221"/>
+	<Point x="1501" y="1213"/>
+	<Point x="1017" y="1212"/>
+	<Point x="1012" y="1220"/>
+	<Point x="974" y="1220"/>
+	<Point x="968" y="1211"/>
+	<Point x="907" y="1211"/>
+	<Point x="906" y="1222"/>
+	<Point x="646" y="1222"/>
+	<Point x="634" y="1212"/>
+	<Point x="433" y="1212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seitenorgan Ösophagusende 28— —34,5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="94" y="1226"/>
+	<Point x="637" y="1225"/>
+	<Point x="649" y="1234"/>
+	<Point x="916" y="1234"/>
+	<Point x="932" y="1224"/>
+	<Point x="1024" y="1224"/>
+	<Point x="1491" y="1216"/>
+	<Point x="1492" y="1231"/>
+	<Point x="1568" y="1231"/>
+	<Point x="1592" y="1218"/>
+	<Point x="1747" y="1220"/>
+	<Point x="1747" y="1365"/>
+	<Point x="94" y="1362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ mm 9,1 0,13 50 50 98,28
+mm 0,15 0,29 1,64 1,64 1,04</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="144" y="1392"/>
+	<Point x="689" y="1392"/>
+	<Point x="689" y="1451"/>
+	<Point x="144" y="1451"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Maße nach DE MAN:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="666" y="1466"/>
+	<Point x="930" y="1466"/>
+	<Point x="930" y="1682"/>
+	<Point x="666" y="1682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ α=61
+β=2
+γ=58</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r46">
+	<Coords>
+	<Point x="937" y="1465"/>
+	<Point x="973" y="1465"/>
+	<Point x="973" y="1679"/>
+	<Point x="937" y="1679"/></Coords></SeparatorRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="992" y="1542"/>
+	<Point x="1150" y="1543"/>
+	<Point x="1150" y="1601"/>
+	<Point x="992" y="1601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>n = 1</Unicode></TextEquiv></TextRegion></Page></PcGts>

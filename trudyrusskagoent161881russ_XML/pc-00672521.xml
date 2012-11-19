@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672521">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:50:53</Created>
+	<LastChange>2012-02-10T09:55:05</LastChange></Metadata>
+	<Page imageFilename="00672521.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r12" index="5"/>
+	<RegionRefIndexed regionRef="r14" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="803" y="189"/>
+	<Point x="1112" y="189"/>
+	<Point x="1112" y="264"/>
+	<Point x="803" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 325 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="89" y="324"/>
+	<Point x="1835" y="324"/>
+	<Point x="1835" y="741"/>
+	<Point x="89" y="741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tennis, glabra parte rostri, tibiis tarsisqae rufo-testaceis; rostro
+breviore, tenuiore apice perparvum attenuato; thorace lateribus
+vix rotundato, margine postico in medio producto, margine
+antico haud elevato; elytris subtiliter striatis, humeris subangu-
+latis; femoribus muticis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="196" y="757"/>
+	<Point x="935" y="757"/>
+	<Point x="935" y="846"/>
+	<Point x="196" y="846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 2,5, lat. 1,12 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="85" y="935"/>
+	<Point x="1844" y="935"/>
+	<Point x="1844" y="1278"/>
+	<Point x="85" y="1278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dem T. Morawitzi Beck, sehr ähnlich und wie auch die
+folgende Art dachziegelartig beschuppt, durch schlankere Ge-
+stalt, schmäleres Halsschild, schärfere, weniger gerundete Schul-
+tern, hauptsächlich verschieden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="85" y="1285"/>
+	<Point x="1849" y="1285"/>
+	<Point x="1849" y="1798"/>
+	<Point x="85" y="1798"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rüssel in beiden Geschlechtern verschieden lang, etwas
+kürzer, dünner, zur Spitze wenig verengt, Fühler im Spitzen-
+drittel eingefügt. Halsschild quadratisch oder leicht transver-
+sal, mit kaum gerundeten fast parallelen Seiten, ohne abge-
+schnürtem erhabenen Vorderrand, Hinterrand beiderseits aus-
+gebuchtet, Mittellappen vorgezogen, etwas aufgestülpt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="198" y="1814"/>
+	<Point x="1835" y="1814"/>
+	<Point x="1835" y="2146"/>
+	<Point x="198" y="2146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ Halsschild fast länger als breit mit an der Basis bis
+vor die Mitte geraden, parallelen Seiten, Rüssel höch-
+stens so lang als Thorax, Analsegment beulig aufge-
+trieben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="101" y="2698"/>
+	<Point x="1835" y="2698"/>
+	<Point x="1835" y="3128"/>
+	<Point x="101" y="3128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tychius sulphureus n. sp. Subelongatus, angustior,
+convexus, niger, squamulis depressis sulphureis abdomine creta-
+ceis imbricato-tectus, setosus; antennis, rostri glabra parte ti-
+biis tarsisque rufo-testaceis; thorace quadrato, lateribus subro-
+tundato, antrorsum attenuato, basi transverse subimpresso, lobo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="99" y="2423"/>
+	<Point x="1826" y="2423"/>
+	<Point x="1826" y="2601"/>
+	<Point x="99" y="2601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In Krasnowodsk aus den Blüthen einer weissen, holzigen
+Convolvulus-Art geklopft.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="121" y="2160"/>
+	<Point x="1833" y="2160"/>
+	<Point x="1833" y="2407"/>
+	<Point x="121" y="2407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♀ Halsschild etwas quer mit sanft gerundeten Seiten;
+Rüssel deutlich länger als Thorax, Analsegment mit
+schwacher Grube.</Unicode></TextEquiv></TextRegion></Page></PcGts>

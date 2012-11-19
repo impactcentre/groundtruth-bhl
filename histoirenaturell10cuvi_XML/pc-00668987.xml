@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668987">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:10:43</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668987.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="96" y="309"/>
+	<Point x="1496" y="309"/>
+	<Point x="1496" y="1129"/>
+	<Point x="96" y="1125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>large valvule à bords frangés marque son origine
+antérieure, et sa veloutée est couverte d’un réseau
+irrégulier hexagonal et de papilles molles et fort
+notables; celle de l’intestin grêle n’en a que de
+très-ﬁnes. Les deux premiers tiers de l’intestin sont
+enveloppés par les appendices cæcales ﬁnes et réu‐
+nies par un tissu cellulaire très-dense. En les sépa‐
+rant, on voit qu’elles sont dichotomes et qu’elles
+se rendent par petites masses dans un tronc unique,
+qui s’ouvre dans le canal alimentaire. Il y a plus de
+soixante de ces troncs de cæcums.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="115" y="1136"/>
+	<Point x="1473" y="1136"/>
+	<Point x="1472" y="1350"/>
+	<Point x="125" y="1349"/>
+	<Point x="115" y="1347"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La rate est ﬁxée entre les deux branches de
+l’intestin, au-dessus du rectum; elle est trièdre,
+multilobée et d’un noir très-foncé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="117" y="1360"/>
+	<Point x="1465" y="1364"/>
+	<Point x="1467" y="1660"/>
+	<Point x="1061" y="1664"/>
+	<Point x="118" y="1662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J’ai disséqué un mâle dont les laitances n’étaient
+pas très-grosses; elles formaient deux cordons amin‐
+cis aux deux extrémités, longs d’un pied et d’un
+diamètre de six à huit lignes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="116" y="1666"/>
+	<Point x="678" y="1668"/>
+	<Point x="1091" y="1668"/>
+	<Point x="1273" y="1667"/>
+	<Point x="1462" y="1667"/>
+	<Point x="1462" y="1773"/>
+	<Point x="1463" y="2342"/>
+	<Point x="119" y="2339"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le lampris a une très-grande vessie aérienne,
+simple et arrondie en avant, et terminée en arrière
+par deux cornes courtes; entre cette sorte d’échan-
+crure passent les uretères, qui débouchent dans une
+vessie urinaire étroite et assez longue. Les canaux
+sont longs; car ils remontent jusqu’au tiers de la
+cavité abdominale, pour prendre naissance dans les
+reins, qui n’ont pas une grande épaisseur. Le péri‐
+toine est de couleur argentée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="123" y="2345"/>
+	<Point x="1464" y="2347"/>
+	<Point x="1464" y="2645"/>
+	<Point x="123" y="2645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons trouvé dans l’estomac de ce poisson
+un grand nombre de becs cornés de petits cépha‐
+lopodes, que nous croyons avoir appartenu à des
+poulpes; car il n’y avait dans l’estomac aucun reste</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1368" y="208"/>
+	<Point x="1472" y="208"/>
+	<Point x="1472" y="274"/>
+	<Point x="1368" y="274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>55</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="490" y="221"/>
+	<Point x="1044" y="221"/>
+	<Point x="1044" y="279"/>
+	<Point x="490" y="279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. LAMPRIS.</Unicode></TextEquiv></TextRegion></Page></PcGts>

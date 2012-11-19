@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672184">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T08:11:52</Created>
+	<LastChange>2012-02-10T09:53:55</LastChange></Metadata>
+	<Page imageFilename="00672184.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/>
+	<RegionRefIndexed regionRef="r13" index="11"/>
+	<RegionRefIndexed regionRef="r14" index="12"/>
+	<RegionRefIndexed regionRef="r15" index="13"/>
+	<RegionRefIndexed regionRef="r16" index="14"/>
+	<RegionRefIndexed regionRef="r17" index="15"/>
+	<RegionRefIndexed regionRef="r18" index="16"/>
+	<RegionRefIndexed regionRef="r19" index="17"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1026" y="130"/>
+	<Point x="1348" y="130"/>
+	<Point x="1348" y="191"/>
+	<Point x="1026" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— XII —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="305" y="248"/>
+	<Point x="2051" y="248"/>
+	<Point x="2051" y="402"/>
+	<Point x="305" y="402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mit dem letzten Bauchknoten zu einem Ganglion sich vereinigen.
+Alle übrigen Ganglien bleiben als besondere Knoten bestehen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="308" y="406"/>
+	<Point x="2055" y="406"/>
+	<Point x="2055" y="548"/>
+	<Point x="308" y="548"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O. G. Poletaiew machte Mittheilungen über die Athemorgane
+verschiedener Odonaten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="744" y="632"/>
+	<Point x="1616" y="632"/>
+	<Point x="1616" y="732"/>
+	<Point x="744" y="732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sitzung am 17 (29) September</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="507" y="757"/>
+	<Point x="1853" y="757"/>
+	<Point x="1853" y="823"/>
+	<Point x="507" y="823"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>unter dem Vorsitze des Vice-Präsidenten Ed. Brandt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="312" y="848"/>
+	<Point x="2055" y="848"/>
+	<Point x="2055" y="995"/>
+	<Point x="312" y="995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Stelle des abwesenden Secretairs der Gesellschaft vertrat
+Dr. K. Fixsen, der der Gesellschaft vorlegte:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="314" y="998"/>
+	<Point x="2048" y="998"/>
+	<Point x="2048" y="1139"/>
+	<Point x="314" y="1139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1) Einen Brief von J. Portschinsky, in welchem er die Gesell‐
+schaft über den Gang seiner Untersuchungen benachrichtigte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="305" y="1142"/>
+	<Point x="2048" y="1142"/>
+	<Point x="2048" y="1279"/>
+	<Point x="305" y="1279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2) Einen Brief von W. Balassoglo, der über seine Excursionen
+in Turkestan und in den Kirgisischen Steppen benachrichtigt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="307" y="1283"/>
+	<Point x="2058" y="1283"/>
+	<Point x="2058" y="1423"/>
+	<Point x="307" y="1423"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ed. Brandt machte Mittheilungen über die Anatomie von Thrips
+physopus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="307" y="1426"/>
+	<Point x="2053" y="1426"/>
+	<Point x="2053" y="1566"/>
+	<Point x="307" y="1566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N. A. Cholodkoffsky machte Mittheilungen über die Anatomie
+des Todtenkopfes (Acherontia atropos).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="776" y="1658"/>
+	<Point x="1594" y="1658"/>
+	<Point x="1594" y="1746"/>
+	<Point x="776" y="1746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sitzung am 8 (20) October</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="508" y="1773"/>
+	<Point x="1846" y="1773"/>
+	<Point x="1846" y="1837"/>
+	<Point x="508" y="1837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>unter dem Vorsitze des Vice-Präsidenten Ed. Brandt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="403" y="1869"/>
+	<Point x="1378" y="1869"/>
+	<Point x="1378" y="1945"/>
+	<Point x="403" y="1945"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es wurden der Gesellschaft vorgelegt:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="310" y="1948"/>
+	<Point x="2053" y="1948"/>
+	<Point x="2053" y="2156"/>
+	<Point x="310" y="2156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1) Die Einladung an die Mitglieder der Gesellschaft von dem
+Comité der VI Versammlung Russischer Naturforscher und Aerzte
+an derselben sich zu betheiligen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="394" y="2161"/>
+	<Point x="2053" y="2161"/>
+	<Point x="2053" y="2370"/>
+	<Point x="394" y="2370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2) Ein Brief von Seliwanoff und eine von demselben zum Druck
+in den «Verhandlungen» eingesandte Monographie caucasischer
+Arten der Gattung Lithobius.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="317" y="2374"/>
+	<Point x="2051" y="2374"/>
+	<Point x="2051" y="2657"/>
+	<Point x="317" y="2657"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J. Portschinsky machte Mittheilungen über die Resultate
+der von ihm im südlichen Russland über schädliche Insekten an‐
+gestellte Untersuchungen. Er sprach speciell über den Schaden, den
+Cephus pygmaeus und Anisoplia austriaca angerichtet haben.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="744" y="2733"/>
+	<Point x="1608" y="2733"/>
+	<Point x="1608" y="2833"/>
+	<Point x="744" y="2833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sitzung am 5 (17) November</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="521" y="2855"/>
+	<Point x="1842" y="2855"/>
+	<Point x="1842" y="2919"/>
+	<Point x="521" y="2919"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>unter dem Vorsitze des Vice-Präsidenten Ed. Brandt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="314" y="2949"/>
+	<Point x="2051" y="2949"/>
+	<Point x="2051" y="3103"/>
+	<Point x="314" y="3103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nach der Bestätigung des Protocolls der vorigen Sitzung wurde,
+nach den Statuten der Gesellschaft, eine Revisionscommission gewählt.</Unicode></TextEquiv></TextRegion></Page></PcGts>

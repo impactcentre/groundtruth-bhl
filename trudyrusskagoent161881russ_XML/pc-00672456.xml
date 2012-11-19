@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672456">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:38:38</Created>
+	<LastChange>2012-02-10T09:54:56</LastChange></Metadata>
+	<Page imageFilename="00672456.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="942" y="178"/>
+	<Point x="1264" y="178"/>
+	<Point x="1264" y="249"/>
+	<Point x="942" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 246 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote">
+	<Coords>
+	<Point x="212" y="2433"/>
+	<Point x="2007" y="2433"/>
+	<Point x="2007" y="3132"/>
+	<Point x="212" y="3132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Anmerkung. Da ich in diesem Aufsatze schon mehrere Arten ver-
+schiedener Autoren zusammengezogen habe, möge hier noch ein weiterer Bei-
+trag zur Synonymie Platz ﬁnden, obgleich das betreﬀende Thier wenn auch im
+russischen Central-Asien weit verbreitet, bisher noch nicht in Sibirien gefunden
+worden ist. Es ist dies Epione Acuminaria Ev., welches nach Herrn Erschoff's
+Angabe synonym ist mit Aspilates Glessaria Chr. Ноr. XII, p. 259, tab. VII,
+ﬁg. 30., und mit Cleogene Opulentaria Stgr. Stett. Ent. Z. 1877, p. 203. Herr
+Dr. Staudinger giebt verschiedene Gründe an, warum dieser Spanner, der
+ganz den Habitus einer Aspilates hat, von ihm in die Gattung Cleogene geste�lt
+wurde. Da er das Thier jedoch als Aspilates Glessaria versendet, dürfte sie
+als Aspilates Acuminaria Ev. zu bezeichnen sein.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords>
+	<Point x="239" y="2382"/>
+	<Point x="841" y="2382"/>
+	<Point x="841" y="2408"/>
+	<Point x="239" y="2408"/></Coords></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1999" y="305"/>
+	<Point x="1999" y="1239"/>
+	<Point x="1136" y="1239"/>
+	<Point x="1136" y="1240"/>
+	<Point x="241" y="1240"/>
+	<Point x="241" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ich verglich die Bremersche Type in der Academischen
+Sammlung und überzeugte mich von der Richtigkeit obiger
+Behauptung. Bremer's übrigens gute Beschreibung, aber
+völlig unkenntliche Abbildung in seinen Lep. O.-Sib. Tab.
+VII, ﬁg. 3 ist nach einem abnorm kleinen ♂ gemacht wor-
+den, wesswegen ich meine Snelleni darin durchaus nicht
+vermuthet, auch mir das Thier nicht unter den Macarien
+zu suchen einﬁel. Dass auch Herr Dr. Staudinger diesen
+Spanner nicht in dem Bremerschen Werke erkannt hat, be-
+weisst, dass er ihn unter dem Namen Selenia Versicolo-
+raria Christ, versendet. *)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1999" y="1241"/>
+	<Point x="1999" y="2358"/>
+	<Point x="241" y="2358"/>
+	<Point x="241" y="1242"/>
+	<Point x="1138" y="1242"/>
+	<Point x="1138" y="1241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Biston? Lefuarius Ersch. In den Hor. Soc. Ent. Ross. VIII,
+p. 317 hat Herr Erschoff eine Diagnose dieses interessanten
+Spanners geliefert. Herr Oberthür hat in seinen Lép.
+etc. pl. IV, ﬁg. 12 eine Abbildung desselben gegeben, ﬁn-
+det dagegen pag. 44 Herrn Erschoff's Diagnose ungenü-
+gend und beschreibt ihn als Nyssiodes Olgaria Obthr. Ich
+kann hierin nicht Herrn Oberthür beistimmen, um so we-
+niger, da ich sofort als ich den ersten Lefuarius erbeutete,
+ihn nach Herrn Erschoff's Diagnose richtig bestimmte.
+Da die von Herrn Oberthür gegebene Abbildung etwas
+von der Erschoﬀschen Type abweicht, gebe ich auf Tab.
+XIII, ﬁg. 13 eine Abbildung derselben. Man wird mir ge-
+wiss beistimmen, dass die Erschoﬀsche Diagnose hiernach</Unicode></TextEquiv></TextRegion></Page></PcGts>

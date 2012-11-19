@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669286">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:47:35</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669286.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="426" y="260"/>
+	<Point x="1776" y="260"/>
+	<Point x="1777" y="1162"/>
+	<Point x="730" y="1163"/>
+	<Point x="700" y="1164"/>
+	<Point x="429" y="1163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>avec la mâchoire inférieure seule, sans que l’intero-
+percule y touche en aucune manière. Cette pièce,
+mince en avant, s’élargit en se portant en arrière
+beaucoup au-delà du bord du préopercule, en une
+palette ovale, sur le haut de laquelle est articulé le
+sous-opercule, qui est petit et cependant bien facile
+à distinguer de l’opercule par la direction des stries
+des ciselures de cet os, qui sont toutes creusées sui‐
+vant la longueur du corps, tandis que celles de l’oper‐
+cule sont obliques de haut en bas et d’avant en ar‐
+rière. La portion molle de la joue est petite et couverte
+d’écailles granuleuses, semblables à celles du corps.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="438" y="1167"/>
+	<Point x="729" y="1168"/>
+	<Point x="1706" y="1165"/>
+	<Point x="1778" y="1165"/>
+	<Point x="1775" y="2593"/>
+	<Point x="437" y="2593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La nuque se porte plus en avant, et le premier
+rayon du panache répond au bord antérieur de l’œil,
+au lieu du postérieur, ainsi que cela a lieu dans le
+trachyptère. Chaque mâchoire a quelques dents sur
+une ligne, mais si ﬁnes et si courtes qu’elles échap‐
+pent au tact. La grandeur des pièces operculaires
+donne une étendue proportionnée à l’ouverture des
+ouïes; mais il n’y a de même que six rayons. La
+pectorale est attachée, sur une ligne longitudinale,
+au quart inférieur de la hauteur du corps, et a qua‐
+torze rayons. Je ne puis donner sa longueur, attendu
+qu’elle est brisée dans tous mes échantillons. La ven‐
+trale adhère au bord inférieur du corps, vis-à-vis
+le bord postérieur de la pectorale; sa longueur est
+de quatre fois celle de la tête; elle n’a qu’un rayon
+comprimé, assez fort à sa base; mais il devient grêle
+et ﬂexible; il est bordé sur sa première moitié d’une
+membrane étroite, qui s’élargit en une petite lame
+triangulaire, aux deux tiers de la longueur de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="367" y="164"/>
+	<Point x="507" y="164"/>
+	<Point x="507" y="238"/>
+	<Point x="367" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>354</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="776" y="164"/>
+	<Point x="1356" y="164"/>
+	<Point x="1356" y="233"/>
+	<Point x="776" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

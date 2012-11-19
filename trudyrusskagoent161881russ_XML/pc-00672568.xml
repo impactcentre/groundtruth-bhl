@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672568">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:28:50</Created>
+	<LastChange>2012-02-10T09:55:11</LastChange></Metadata>
+	<Page imageFilename="00672568.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1019" y="128"/>
+	<Point x="1352" y="128"/>
+	<Point x="1352" y="214"/>
+	<Point x="1019" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 372 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="304" y="250"/>
+	<Point x="2057" y="250"/>
+	<Point x="2057" y="433"/>
+	<Point x="304" y="433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>individus. En ce dernier cas, il n'y a qu'une faible indication
+de la tache du bord supérieur qui reste.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="307" y="442"/>
+	<Point x="2061" y="442"/>
+	<Point x="2061" y="783"/>
+	<Point x="307" y="783"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La tache discocellulaire est comparativement petite, d'un
+blanc lavé de rose et largement entouré de brun-lilacé. Au-
+dessus d'elle est superposé quelquefois un petit point blanc-
+rosâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="311" y="792"/>
+	<Point x="2059" y="792"/>
+	<Point x="2059" y="1214"/>
+	<Point x="311" y="1214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le prothorax, ainsi que les antennes, sont généralement
+d'un fauve-carminé; mais ici, la couleur varie selon les indi-
+vidus. Les poils du thorax, ainsi que ceux du front, me pa-
+raissent être un peu plus longs que dans les autres Coliades,
+que je connais.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="297" y="1223"/>
+	<Point x="2059" y="1223"/>
+	<Point x="2059" y="1569"/>
+	<Point x="297" y="1569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce parut vers la ﬁn de Juin, puis, je la vis
+pendant les mois de Juillet et d'Août voler entre 7—et 12000'
+d'élévation, près des Sources du Kounguesse et dans les mon-
+tagnes du Jouldousse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="295" y="1580"/>
+	<Point x="2059" y="1580"/>
+	<Point x="2059" y="2161"/>
+	<Point x="295" y="2161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En parlant de la distribution verticale de la Thisva, j'au-
+rai encore occasion de parler de la C. Staudingeri. Je ferai
+seulement remarquer ici, que cette espèce me parut être très
+localisée et très râre; aussi, malgré son vol lourd et sa pour-
+suite comparativement facile, ne sommes nous parvenus à en
+prendre qu'un nombre restreint d'individus; mais par contre,
+ceux-ci étaient très frais.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="297" y="2173"/>
+	<Point x="2061" y="2173"/>
+	<Point x="2061" y="2773"/>
+	<Point x="297" y="2773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il existe encore une Colias, avec laquelle la Staudingeri
+à certains points de ressemblance, c'est l'Eogene Feld.; mais
+d'une part, la bordure extérieure plus large de cette-dernière,
+et qui atteint l'angle anal des secondes ailes, et d'un autre
+côté, le bord antérieur de ces mêmes ailes, complêtement en-
+vahi par le noir, à partir de la base, ne permettent pas de
+confondre ces deux espèces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="300" y="2780"/>
+	<Point x="2054" y="2780"/>
+	<Point x="2054" y="3147"/>
+	<Point x="300" y="3147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ♀ que je fais ﬁgurer se distingue du type par une teinte
+d'un rouge de sang, mélée de carmin, qui dépasse en intensité,
+le rouge de toutes les Colias, que j'ai vues, voir même les
+♀♀ les plus eclatantes des Thisoa. En outre les taches jau-</Unicode></TextEquiv></TextRegion></Page></PcGts>

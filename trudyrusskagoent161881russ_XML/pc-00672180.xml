@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672180">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T13:40:54</Created>
+	<LastChange>2012-02-10T09:53:55</LastChange></Metadata>
+	<Page imageFilename="00672180.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1001" y="102"/>
+	<Point x="1309" y="102"/>
+	<Point x="1309" y="171"/>
+	<Point x="1001" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— VIII —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="297" y="1377"/>
+	<Point x="2029" y="1376"/>
+	<Point x="2032" y="1513"/>
+	<Point x="298" y="1513"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O. Brehm sprach über seine vergleichend-anatomischen Untersu‐
+chungen der männlichen Geschlechtsorgane der Blattiden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="291" y="1517"/>
+	<Point x="2030" y="1517"/>
+	<Point x="2029" y="1866"/>
+	<Point x="290" y="1867"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diese Untersuchungen, welche eine genaue Vergleichung der in
+ihrem Baue scheinbar sehr verschiedenen männlichen Geschlechtsor‐
+gane der Blatta germanica und Periplaneta orientalis durchführen,
+zeigen zugleich eine allgemeine und specielle Homologie der einzel‐
+nen Theile dieses Apparates der genannten Iusekten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="297" y="1872"/>
+	<Point x="2034" y="1870"/>
+	<Point x="2038" y="2293"/>
+	<Point x="295" y="2293"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sowohl bei Blatta germanica als auch bei Periplaneta orientalis
+lassen sich folgende Organe im männlichen Geschlechtsapparate un‐
+terscheiden: 1) zwei Hoden (testiculi), 2) zwei Saamengefässe (vasa
+deferentia), 3) ein gemeinschaftlicher Saamengang (ductus ejaculato-
+rius), 4) die männliche Ruthe (penis), 5) Anhangsdrüsen (glandulae
+accessoriae), 6) äussere Geschlechtsanhänge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="282" y="2297"/>
+	<Point x="2038" y="2297"/>
+	<Point x="2038" y="3081"/>
+	<Point x="282" y="3081"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Hoden der Blatta- germanica sind, wie schon aus den Un‐
+tersuchungen von Fr. Morawitz bekannt war, rundlich-dreieckige,
+aus je vier Schläuchen zusammengesetzte Organe, während diejeni‐
+gen der Periplaneta orientalis aus sehr vielen und kleinen Säckchen
+bestehen, die alle zusammen eine sehr complicirte acinöse Drüse
+bilden. Wie schon unlängst von Rajeffsky beschrieben wurde, hat
+man bis zur letzten Zeit ganz irrig die zusammengesetzte hutpilz-
+förmige Masse von Anhangdrüsen für dieselben gehalten. Auch be‐
+stätigt O. Brehm die Angabe von Raj effsky, dass bei jungen Exem‐
+plaren von Periplaneta orientalis die Hodenschläuche prall mit Saa-
+men gefüllt sind, während sie bei vollkommen ausgewachsenen Indi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="375" y="241"/>
+	<Point x="1240" y="241"/>
+	<Point x="1236" y="311"/>
+	<Point x="637" y="314"/>
+	<Point x="375" y="311"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Hauptresultate sind folgende:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="278" y="322"/>
+	<Point x="731" y="321"/>
+	<Point x="2024" y="318"/>
+	<Point x="2033" y="1371"/>
+	<Point x="275" y="1371"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1) Die Speicheldrüsen der Blattiden sind traubenförmige oder
+acinöse Gebilde. 2) Ausserdem ist auch immer jederseits je ein
+Schlauch (Speichelreservoir) vorhanden; derselbe fehlt nicht der Blattea
+germanica, wie es von Fr. Morawitz behauptet wurde. Dieser
+Schlauch besitzt im Grunde besondere, höhere Zellen, die sich von
+Karmin färben und ist dieser Abschnitt also wahrscheinlich secreto-
+risch. 3) Der Hauptausführungsgang oder gemeinschaftliche Spei‐
+chelgang mündet in die Mundhöhle, unter der Zunge, aber nicht in
+die Speiseröhre, wie man es bisher behauptet hat. 4) Vom Kröpfe
+geht zur Speicheldrüse ein besonderer Intervisceralmuskel. 5) Die
+Innervation einer jeden Speicheldrüse ist eine doppelte: sie erhält
+einen Nerven vom unteren Schlundknoten und mehrere kleine Zweige
+vom nervus recurrens, während vom oberen Schlundknoten und vom
+ganglion ventriculare keine Nerven zu diesem Organe abgehen, wie
+es von Kupfer uud J. Fr. Brandt behauptet wurde.</Unicode></TextEquiv></TextRegion></Page></PcGts>

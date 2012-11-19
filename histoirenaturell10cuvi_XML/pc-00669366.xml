@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669366">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T00:27:12</Created>
+	<LastChange>2012-03-12T14:33:58</LastChange></Metadata>
+	<Page imageFilename="00669366.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="351" y="148"/>
+	<Point x="492" y="148"/>
+	<Point x="492" y="226"/>
+	<Point x="351" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>434</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="826" y="153"/>
+	<Point x="1282" y="153"/>
+	<Point x="1282" y="228"/>
+	<Point x="826" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="333" y="516"/>
+	<Point x="1782" y="516"/>
+	<Point x="1782" y="1141"/>
+	<Point x="333" y="1141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La troisième athérine de la Méditerranée,
+qui se nomme mocho et mochon à Iviça,
+et qui n'a encore été indiquée que par M. De
+Laroche1, sous ce nom vulgaire, dans le cata-
+logue des poissons d'Iviça, est bien sûrement
+une espèce particulière, assez semblable au
+sauclet pour la forme,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="405" y="1153"/>
+	<Point x="1782" y="1153"/>
+	<Point x="1782" y="1601"/>
+	<Point x="405" y="1601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais demeurant constamment plus petite de près de
+moitié, ayant la tête un peu plus courte, le front
+un peu plus large, mais moins que celui du joël;
+et l'œil un peu plus grand, et comptant sept à huit
+épines à sa première dorsale, et quinze rayons mous
+à son anale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="487" y="1616"/>
+	<Point x="1696" y="1616"/>
+	<Point x="1696" y="1689"/>
+	<Point x="487" y="1689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 6; D. 7 à 8—1/11; A. 1/17; C. 17; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="414" y="1696"/>
+	<Point x="1785" y="1696"/>
+	<Point x="1785" y="2087"/>
+	<Point x="414" y="2087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le squelette du mochon a quarante-six vertèbres.
+C'est à compter de la vingt-quatrième que commence
+le petit cornet de la base de la queue, qui n'est em-
+brassé que par les apophyses de trois vertèbres; ces
+apophyses ne sont point dilatées.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="349" y="2103"/>
+	<Point x="1798" y="2103"/>
+	<Point x="1798" y="2464"/>
+	<Point x="349" y="2464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Cabinet possède les individus rapportés
+par M. De Laroche. M. Savigny en a eu d'en-
+tièrement semblables à Naples, et M. Biberon
+nous en a procuré du port de Messine.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="410" y="2541"/>
+	<Point x="1542" y="2541"/>
+	<Point x="1542" y="2607"/>
+	<Point x="410" y="2607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Laroche, Annales du Muséum, t. XIII, p. 358.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="342" y="2491"/>
+	<Point x="1778" y="2491"/>
+	<Point x="1778" y="2510"/>
+	<Point x="342" y="2510"/></Coords></SeparatorRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="1426" y="292"/>
+	<Point x="1426" y="397"/>
+	<Point x="696" y="397"/>
+	<Point x="696" y="292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le MOCHON.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="1426" y="399"/>
+	<Point x="1426" y="501"/>
+	<Point x="696" y="501"/>
+	<Point x="696" y="399"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina mochon, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

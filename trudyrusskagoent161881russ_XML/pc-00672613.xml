@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672613">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T01:35:51</Created>
+	<LastChange>2012-02-10T09:55:21</LastChange></Metadata>
+	<Page imageFilename="00672613.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="747" y="159"/>
+	<Point x="1073" y="159"/>
+	<Point x="1073" y="245"/>
+	<Point x="747" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 417 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="28" y="292"/>
+	<Point x="1778" y="292"/>
+	<Point x="1778" y="966"/>
+	<Point x="28" y="966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le dessous des ailes antérieures du ♂ est d'un brun-noi-
+sette, à nervures noires. Les postérieures, traversées par trois
+raies brunes obscures, interrompues par les nervures cendrées,
+sont d'un brun-grisâtre. La première, ondulée, se trouve entre
+la base et le milieu de l'aile, la seconde fait une courbe à
+l'extérieur de la cellule discoïdale, en s'unissant, au dessus de
+l'angle anal, à l'antimarginale (composée de croissants concaves
+au bord), qui est parallèle au bord externe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="26" y="971"/>
+	<Point x="1780" y="971"/>
+	<Point x="1780" y="1538"/>
+	<Point x="26" y="1538"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'espace compris entre les deux dernières raies est d'un
+roux plus ou moins clair, selon les individus. Le revers de
+la ♀ est bien diﬀérent de celui du ♂. Les antérieures, d'un
+brun cendré, sont traversées, dans leur milieu, par une série
+irrégulière de petites lunules brunes, et par une autre série
+devant le bord extérieur. Quelques stries et points bruns se
+trouvent aussi entre la base et le milieu de l'aile.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="19" y="1550"/>
+	<Point x="1790" y="1550"/>
+	<Point x="1790" y="2545"/>
+	<Point x="19" y="2545"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les secondes ailes sont d'un gris cendré. L'espace compris
+entre les deux premières raies transversales est brunâtre, et
+forme plutôt une large bande médiane, brunâtre, à bords très
+irréguliers, découpée en taches par les nervures claires. La
+série des traits marginaux (en accents circonﬂêxes) est plus
+interrompue sur les nervures de la ♀, que du ♂. A première
+vue, la ♀ produit une impression toute diﬀérente du ♂,
+sur le revers surtout. Mais une comparaison attentive nous
+fait retrouver le même dessin dans les deux sexes, les raies,
+composées de points bruns sur le revers des antérieures, ex-
+ceptées. Les antennes sont d'un brun-grisâtre avec la massue
+colorée en ocre plus ou moins claire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="26" y="2552"/>
+	<Point x="1797" y="2552"/>
+	<Point x="1797" y="2880"/>
+	<Point x="26" y="2880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce remarquable, dont la place est près de
+l'Ocnus Ev. volait en individus déjà passés, à la ﬁn de Juin
+et au commencement de Juillet entre 9 et 11.000´ d'éléva-
+tion, avec l'espèce précédente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="16" y="2885"/>
+	<Point x="1785" y="2885"/>
+	<Point x="1785" y="3130"/>
+	<Point x="16" y="3130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Sibo me parut être plus localisée que la Kalmuka.
+Sur un nombre considérable de ♂♂, je ne trouvai que sept
+♀♀, de cette Erebia nouvelle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="489" y="3138"/>
+	<Point x="489" y="3200"/>
+	<Point x="164" y="3200"/>
+	<Point x="164" y="3138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="1595" y="3138"/>
+	<Point x="1595" y="3200"/>
+	<Point x="1502" y="3200"/>
+	<Point x="1502" y="3175"/>
+	<Point x="1501" y="3175"/>
+	<Point x="1501" y="3138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>27</Unicode></TextEquiv></TextRegion></Page></PcGts>

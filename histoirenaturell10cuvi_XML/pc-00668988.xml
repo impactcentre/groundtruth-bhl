@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668988">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:10:49</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668988.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="357" y="305"/>
+	<Point x="1770" y="305"/>
+	<Point x="1771" y="916"/>
+	<Point x="357" y="916"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>d’os de sèches ou de plumes cartilagineuses de cal‐
+mar, et les becs sont de beaucoup trop gros pour
+être rapportés à des sépioles, qui ont un rudiment
+d’os dans leur manteau. L’estomac contenait aussi
+des restes d’acalèphes, et notamment de petits rhizos-
+tomes. Selon les rapports des pêcheurs islandais,
+cités par M. Faber, le lampris poursuit les truites,
+vraisemblablement pour en faire sa nourriture.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="400" y="919"/>
+	<Point x="1745" y="919"/>
+	<Point x="1745" y="2648"/>
+	<Point x="400" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ostéologie de cette espèce a été décrite et repré‐
+sentée avec beaucoup de soin dans l’Osteographia
+piscium de M. Bakker, et nous l’avons vériﬁée sur
+le grand squelette que possède le Muséum. Sa crête
+mitoyenne du crâne est très-élevée, les autres sont
+couchées latéralement et presque nulles. Ce qu’il y
+a de plus remarquable, ce sont les os du bras et
+de l’épaule; un énorme cubital, haut d’un pied et
+large de sept pouces (dans un individu de trois pieds
+et demi) en est la partie la plus apparente. C’est lui
+qui soutient principalement la haute poitrine de
+ce poisson; il repousse le radial et les os du carpe
+vers le haut, et c’est ce qui fait que la pectorale
+s’attache au corps par une ligne horizontale. Il a
+vers le haut un petit trou rond, et le radial, tout
+petit qu’il est, en a aussi un, comme à l’ordinaire.
+Un grand espace ovale sépare le cubital en avant de
+la partie descendante de l’huméral, le haut porte en
+arrière la pièce supérieure et plate du coracoïdien
+qui va s’attacher à l’angle postérieur et supérieur de
+ce cubital, en laissant ainsi au-dessus du carpe un
+espace transversal et plus petit que le précédent. La
+pièce grêle du coracoïdien se soude, par presque toute</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="350" y="210"/>
+	<Point x="445" y="210"/>
+	<Point x="445" y="279"/>
+	<Point x="350" y="279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>56</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="731" y="218"/>
+	<Point x="1376" y="218"/>
+	<Point x="1376" y="284"/>
+	<Point x="731" y="284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

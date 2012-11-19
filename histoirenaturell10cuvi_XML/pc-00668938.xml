@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668938">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T15:35:02</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668938.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="749" y="211"/>
+	<Point x="1397" y="211"/>
+	<Point x="1397" y="290"/>
+	<Point x="749" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="373" y="319"/>
+	<Point x="1777" y="319"/>
+	<Point x="1777" y="1087"/>
+	<Point x="373" y="1087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>riches en poissons rares et curieux, et qui
+avaient échappé à tous les ichthyologistes à
+l'exception de Rondelet. Nous faisons aussi
+connaître quelques ﬁgures publiées sous le nom
+de zeus faber, faites d'après des individus pris
+dans les mers orientales, de sorte que nous
+avons encore l'avantage d'étendre de beau-
+coup les connaissances des naturalistes sur ce
+genre de poissons.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="702" y="1225"/>
+	<Point x="1441" y="1225"/>
+	<Point x="1441" y="1287"/>
+	<Point x="702" y="1287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De la DORÉE COMMUNE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="833" y="1364"/>
+	<Point x="1315" y="1364"/>
+	<Point x="1315" y="1442"/>
+	<Point x="833" y="1442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Zeus faber, L.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="367" y="1495"/>
+	<Point x="1776" y="1495"/>
+	<Point x="1776" y="2686"/>
+	<Point x="367" y="2686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un poisson d'une assez grande taille, d'une
+forme grotesque, d'une couleur peu commune,
+a dû être remarqué partout; aussi les peuples
+dont il habite les côtes, lui ont-ils tous donné
+des noms. Les Anglais et les Français des bords
+de la Manche l'appellent dory et dorée, à
+cause de sa teinte jaunâtre, et dans quelques
+ports on change le nom en dorade, qui ap-
+partient aussi à la coryphène et au chrysophrys;
+dans le golfe de Gascogne on le nomme jau,
+c'est-à-dire coq, sans doute à cause de l'espèce
+de crête que forment ses dorsales, ce qui a
+motivé aussi son nom de poule de mer dans
+quelques-unes de nos provinces de l'ouest et</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="374" y="215"/>
+	<Point x="425" y="215"/>
+	<Point x="425" y="278"/>
+	<Point x="374" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6</Unicode></TextEquiv></TextRegion></Page></PcGts>

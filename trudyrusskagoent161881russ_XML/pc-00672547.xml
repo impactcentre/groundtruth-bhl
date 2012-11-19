@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672547">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:55:25</Created>
+	<LastChange>2012-02-10T09:55:08</LastChange></Metadata>
+	<Page imageFilename="00672547.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="741" y="148"/>
+	<Point x="1051" y="148"/>
+	<Point x="1051" y="219"/>
+	<Point x="741" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 351 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="33" y="269"/>
+	<Point x="1757" y="269"/>
+	<Point x="1757" y="462"/>
+	<Point x="33" y="462"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rer avec ceux du Tian-Chian, croit que ces deux formes sont
+assez caractérisées pour être envisagées comme races.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="30" y="476"/>
+	<Point x="1758" y="476"/>
+	<Point x="1758" y="794"/>
+	<Point x="30" y="794"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je ne partage pas tout-à-fait cette opinion, ayant trouvé
+dans le Tian-Chian des individus en tout pareils à ceux de
+l'Ala-Tau, ainsi qu'une série continue de passages d'une forme
+à l'autre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="32" y="826"/>
+	<Point x="1758" y="826"/>
+	<Point x="1758" y="1166"/>
+	<Point x="32" y="1166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je dirai encore que les individus que je pris à une alti-
+tude de plus de 6000' se rapprochent le plus de la forme
+de l'Ala-Tau, étant plus petits et moins richement colorés
+que ceux pris à une altitude moindre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="35" y="1183"/>
+	<Point x="1760" y="1183"/>
+	<Point x="1760" y="1858"/>
+	<Point x="35" y="1858"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parmi ces derniers se trouvent de splendides individus,
+très grands, à tâches carminées très grandes et très écla-
+tantes. En outre les ♀♀ sont très foncées, c. à d. très riche-
+ment atomées de noir. Certaines ♀♀ n'ont presque pas d'é-
+cailles blanches. J'en ai une de très forte taille (72 mill.),
+qui a les ailes très diaphanes et très richement saupoudrées
+de noir, avec les nervures des secondes ailes seules légèrement
+parsemées d'écaillés blanches.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="30" y="1874"/>
+	<Point x="1755" y="1874"/>
+	<Point x="1755" y="2200"/>
+	<Point x="30" y="2200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De tels individus paraissent tout noirs pendant le vol et
+sont d'une grande beauté. Les taches rouges ne sont que
+rarement écaillées de blanc dans le centre chez les individus
+du Tian-Chian.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="26" y="2225"/>
+	<Point x="1767" y="2225"/>
+	<Point x="1767" y="3078"/>
+	<Point x="26" y="3078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si l'on ne choisisait que de pareils individus, on pourrait
+certainement les prendre pour une forme fort distincte de celle
+de l'Ala-Tau; mais, comme on rencontre, en même temps et
+dans la même localité, des ♀♀ très claires, grisâtres, pareilles
+à celles de l'Ala-Tau, il devient presque impossible de séparer
+les v. Discobolus de ces deux provenances, et je propose de
+désigner tous ces Parnassiens comme v. Discobolus, en gar-
+dant pour le type, decrit par Erschoff, le nom de Corybas.
+L'exemplaire, qui a servi de type à Mr. Erschoff, provient
+du Tourkestan.</Unicode></TextEquiv></TextRegion></Page></PcGts>

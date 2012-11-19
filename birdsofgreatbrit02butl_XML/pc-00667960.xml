@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667960">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T06:47:16</Created>
+	<LastChange>2012-02-10T09:52:26</LastChange></Metadata>
+	<Page imageFilename="00667960.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r15" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="265" y="211"/>
+	<Point x="348" y="211"/>
+	<Point x="348" y="293"/>
+	<Point x="265" y="293"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>68</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="970" y="197"/>
+	<Point x="1463" y="197"/>
+	<Point x="1463" y="298"/>
+	<Point x="970" y="298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CITRIL FINCH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="238" y="325"/>
+	<Point x="2170" y="325"/>
+	<Point x="2170" y="1869"/>
+	<Point x="238" y="1869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>and egg; one of these birds lived for three years, and would even permit me to
+raise my hand until my nose touched her beak, when she would ﬂy oﬀ to a twig,
+and return directly I held my hand out to her again; there were two hens and
+a cock in this trio, and the male outlived both of his wives; ﬁnally he appeared
+to have acquired a growth in his throat, which obstructed his breathing; there‐
+fore as my experience of doctoring birds is, that in nineteen out of twenty cases
+it kills them within ten minutes, I thought I would give my Siskin the oppor‐
+tunity of doctoring himself; so I turned him loose in my garden, where he
+remained for about an hour, and then ﬂew straight away. I have had many
+other Siskins at various times, sometimes three or four pairs together; they
+have always become very tame in a surprisingly short period, and have been
+altogether delightful pets; but most of them have died within a few months.
+Siskins do not seem to have anything like the constitution of most Goldﬁnches.
+One tame little hen bird, however, lived to a good age; and, when she had lost
+three husbands in succession, I caged her and made a regular pet of her. After
+six months I wearied of the extra labour (every separate cage adding to the time
+occupied in providing for my large family); I, therefore, turned Cissie, as I called
+her, into one of my bird-room aviaries; but she had forgotten all about liberty,
+ﬂew wildly against the wires in the greatest terror, and presently settled down in
+a corner with her face to the wall; having evidently decided thas life was no
+longer worth having: I, therefore, picked her up and restored her to her cage,
+where she sat looking stupid for half-an-hour before she recovered. I subsequently
+gave this bird to a young lady, who christened her Priscilla, and made much of
+her to the day of her death about a year later.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="820" y="2260"/>
+	<Point x="1565" y="2260"/>
+	<Point x="1565" y="2367"/>
+	<Point x="820" y="2367"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CITRIL FINCH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="320" y="2570"/>
+	<Point x="380" y="2573"/>
+	<Point x="382" y="2580"/>
+	<Point x="393" y="2669"/>
+	<Point x="411" y="2686"/>
+	<Point x="409" y="2714"/>
+	<Point x="287" y="2711"/>
+	<Point x="285" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1139" y="2062"/>
+	<Point x="1139" y="2177"/>
+	<Point x="257" y="2177"/>
+	<Point x="257" y="2062"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1452" y="2062"/>
+	<Point x="2155" y="2062"/>
+	<Point x="2155" y="2156"/>
+	<Point x="1452" y="2156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="830" y="2400"/>
+	<Point x="1556" y="2400"/>
+	<Point x="1556" y="2511"/>
+	<Point x="830" y="2511"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chrysomitris citrinella, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="402" y="2550"/>
+	<Point x="2144" y="2550"/>
+	<Point x="2144" y="2647"/>
+	<Point x="402" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N example was caught by a Yarmouth bird-catcher on January 29th, 1904.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="1100" y="1962"/>
+	<Point x="1308" y="1962"/>
+	<Point x="1308" y="1997"/>
+	<Point x="1100" y="1997"/></Coords></SeparatorRegion></Page></PcGts>

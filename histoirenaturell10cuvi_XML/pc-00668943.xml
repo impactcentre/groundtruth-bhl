@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668943">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T10:05:41</Created>
+	<LastChange>2012-02-09T16:27:25</LastChange></Metadata>
+	<Page imageFilename="00668943.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="630" y="233"/>
+	<Point x="1047" y="233"/>
+	<Point x="1047" y="291"/>
+	<Point x="630" y="291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXI. ZÉES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="132" y="318"/>
+	<Point x="1539" y="318"/>
+	<Point x="1539" y="1171"/>
+	<Point x="132" y="1171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>croyait restreint à la côte méridionale de la
+Grande-Bretagne, et que depuis peu seule-
+ment on en avait pris un près de l'île d'An-
+glesea; Low ne le nomme point dans sa Faune
+des Orcades. Nous voyons par Bloch1 qu'il
+devient rare dans la mer du Nord, et que
+néanmoins on en prend jusque vis-à-vis l'em-
+bouchure de l'Elbe, où les pêcheurs de Ham-
+bourg le nomment roi des harengs, probable-
+ment parce qu'il paraît en même temps.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="129" y="1174"/>
+	<Point x="1535" y="1174"/>
+	<Point x="1535" y="1428"/>
+	<Point x="1004" y="1428"/>
+	<Point x="128" y="1422"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Selon Gronovius2 il est plus abondant sur
+les côtes de Hollande, et les pêcheurs de Kat-
+wik le nomment sonnevis (poisson soleil).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="128" y="1428"/>
+	<Point x="836" y="1432"/>
+	<Point x="1531" y="1432"/>
+	<Point x="1528" y="1839"/>
+	<Point x="128" y="1839"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y en a tout le long des côtes de France
+et d'Espagne, ainsi que dans toute la Méditer-
+ranée; mais comme Pallas ne le cite point
+dans sa Zoographie russe, on peut croire qu'il
+est au moins rare dans la mer Noire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="122" y="1850"/>
+	<Point x="1531" y="1850"/>
+	<Point x="1531" y="2442"/>
+	<Point x="122" y="2442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ne l'avons jamais reçu des Indes,
+quoiqu'il avance même, dans l'Atlantique, jus-
+qu'à l'archipel des Canaries, d'où MM. Webb
+et Berthelot en ont rapporté un très-bel in-
+dividu sous le même nom de gallo san Pedro.
+M. Delalande en a apporté du Cap d'extrê-
+mement semblables, s'ils ne sont de la même</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="126" y="2561"/>
+	<Point x="1520" y="2561"/>
+	<Point x="1520" y="2688"/>
+	<Point x="126" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Bloch, 2.e part., p. 23. — 2. Gronov., Mus. ichthyol., I,
+p. 47.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1455" y="217"/>
+	<Point x="1528" y="217"/>
+	<Point x="1528" y="286"/>
+	<Point x="1455" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>11</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="125" y="2495"/>
+	<Point x="1518" y="2495"/>
+	<Point x="1518" y="2512"/>
+	<Point x="125" y="2512"/></Coords></SeparatorRegion></Page></PcGts>

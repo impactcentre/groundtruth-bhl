@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668369">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T23:13:30</Created>
+	<LastChange>2012-02-10T09:52:57</LastChange></Metadata>
+	<Page imageFilename="00668369.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r19" index="8"/>
+	<RegionRefIndexed regionRef="r21" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r28" index="12"/>
+	<RegionRefIndexed regionRef="r38" index="13"/>
+	<RegionRefIndexed regionRef="r13" index="14"/>
+	<RegionRefIndexed regionRef="r14" index="15"/>
+	<RegionRefIndexed regionRef="r45" index="16"/>
+	<RegionRefIndexed regionRef="r47" index="17"/>
+	<RegionRefIndexed regionRef="r16" index="18"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="835" y="253"/>
+	<Point x="1227" y="253"/>
+	<Point x="1227" y="322"/>
+	<Point x="835" y="322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="905" y="353"/>
+	<Point x="1166" y="353"/>
+	<Point x="1166" y="405"/>
+	<Point x="905" y="405"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XXVII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="127" y="438"/>
+	<Point x="994" y="438"/>
+	<Point x="994" y="546"/>
+	<Point x="127" y="546"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 167. (Fig. 167 a, Mus. Dennison. Fig. 167 b,
+Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="112" y="553"/>
+	<Point x="1016" y="553"/>
+	<Point x="1016" y="983"/>
+	<Point x="112" y="983"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS POWISIANUS. Bul. testâ acuminato-oblongâ,
+crassâ, apice obtusâ, anfractibus Iœvibus, nitidis, vix
+striatis; columellâ subarcuatâ, aperturâ parviusculâ,
+paululum eﬀusâ, labro incrassato, vix reﬂexo; fulves-
+cente-spadiceâ, strigis irregularibus obliquis, nigricante-
+viridibus, cingulo unico in anfractu ultimo, conspicuè
+pictâ, interdum immaculatâ, cingulo tantum, columellâ
+labroque intensè purpureo-violaceis, peritremate nigri-
+cante, apice rufo-castaneo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="111" y="990"/>
+	<Point x="1011" y="990"/>
+	<Point x="1011" y="1414"/>
+	<Point x="110" y="1414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>POWIS' BULIMUS. Shell acuminately oblong, thick, ob-
+tuse at the apex, whorls smooth, shining, scarcely
+striated, columella slightly arched, aperture rather
+small, a little eﬀused, lip thickened, but slightly
+reﬂected; fulvous bay, conspicuously painted with
+irregular, oblique, blackish-green streaks, and a single
+belt round the last whorl, sometimes unspotted, with
+the belt only, lip, and columella deep purple violet,
+peritreme blackish, apex reddish chesnut.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="118" y="1418"/>
+	<Point x="514" y="1418"/>
+	<Point x="514" y="1462"/>
+	<Point x="118" y="1462"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PETIT, Magasin de Zool.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="120" y="1466"/>
+	<Point x="692" y="1466"/>
+	<Point x="692" y="1509"/>
+	<Point x="120" y="1509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Valle de Cauca, New Granada</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="114" y="1524"/>
+	<Point x="1016" y="1524"/>
+	<Point x="1016" y="2053"/>
+	<Point x="114" y="2053"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This very beautiful and rare species approximates in a
+manner to the B. regina which follows; it is of a less
+acuminated form, of extremely solid structure, and, ex-
+cepting the lip and columella, the pattern of colouring is
+dissimilar. Of the specimens here represented, that from
+the collection of Mr. Dennison is distinguished by its rich
+painting of irregular black-green stripes upon a fulvous-
+bay ground; in Mr. Cuming's specimen the ground colour
+is unspotted, but in both examples the last whorl is en-
+circled by a characteristic narrow belt of the same dark
+colour as the stripes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1055" y="444"/>
+	<Point x="1942" y="444"/>
+	<Point x="1942" y="838"/>
+	<Point x="1411" y="839"/>
+	<Point x="1412" y="878"/>
+	<Point x="1124" y="878"/>
+	<Point x="1126" y="492"/>
+	<Point x="1055" y="491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE QUEEN BULIMUS. Shell somewhat elongately oblong,
+often sinistral, spire pyramidally acuminated, obtuse
+at the apex; whorls seven to eight in number, smooth
+or obliquely ﬁnely striated, columella slightly twisted,
+lip simple; fulvous white, whorls variegated and
+articulated at the upper part with brown or green,
+greenish, or purple-black at the lower, aperture and
+columella sometimes white, sometimes deep violet,
+edged with black.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1052" y="884"/>
+	<Point x="1949" y="884"/>
+	<Point x="1949" y="973"/>
+	<Point x="1052" y="973"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D'ORBIGNY, Voy. dans l'Amér. Mérid. Moll. p. 257. pl. 29.
+f. 4, 5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1048" y="1375"/>
+	<Point x="1953" y="1375"/>
+	<Point x="1953" y="1622"/>
+	<Point x="1048" y="1622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It will be seen by the above-mentioned localities that
+the Bulimus regina inhabits a wide range of country, and,
+by the ﬁgures, that it is found under very diﬀerent aspects,
+having in some localities a dextral, in others a sinistral
+growth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1049" y="1626"/>
+	<Point x="1959" y="1625"/>
+	<Point x="1959" y="1872"/>
+	<Point x="1048" y="1872"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I quite agree with M. D'Orbigny in the propriety of
+referring this species to the genus under consideration
+rather than to Achatina; the columella is never strictly
+truncated, and the shell has all the texture, form, and
+colouring of a Bulimus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="925" y="2685"/>
+	<Point x="1133" y="2685"/>
+	<Point x="1133" y="2737"/>
+	<Point x="925" y="2737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>July, 1848.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="333" y="2079"/>
+	<Point x="798" y="2079"/>
+	<Point x="798" y="2111"/>
+	<Point x="333" y="2111"/></Coords></SeparatorRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords>
+	<Point x="213" y="2126"/>
+	<Point x="906" y="2126"/>
+	<Point x="906" y="2182"/>
+	<Point x="213" y="2182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 168. (Fig. a, b, c. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="127" y="2193"/>
+	<Point x="1016" y="2193"/>
+	<Point x="1016" y="2583"/>
+	<Point x="127" y="2583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS REGINA. Bul. testâ subelongato-oblongâ, sœpè
+sinistrali, spirâ pyramidali-acuminatâ, apice obtusâ;
+anfractibus septem ad octo, lœvibus vel obliquè tenui-
+striatis, columellâ subcontortâ, labro simplici; fulves-
+cente-albâ, anfractibus supernè fusco viridique variegatis
+et articulatis, infernè rufescentibus aut purpureo-nigri-
+cantibus, columellâ et aperturœ fauce interdum albis,
+interdum intensè violaceis, nigro marginatis.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r22">
+	<Coords>
+	<Point x="800" y="2625"/>
+	<Point x="1266" y="2625"/>
+	<Point x="1266" y="2659"/>
+	<Point x="800" y="2659"/></Coords></SeparatorRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1048" y="1171"/>
+	<Point x="1361" y="1171"/>
+	<Point x="1375" y="1174"/>
+	<Point x="1951" y="1177"/>
+	<Point x="1950" y="1318"/>
+	<Point x="1416" y="1318"/>
+	<Point x="1416" y="1364"/>
+	<Point x="1133" y="1364"/>
+	<Point x="1133" y="1211"/>
+	<Point x="1048" y="1211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Fig. 168 a. Interior of Peru; Poeppig. Fig. 168 b.
+Chopo, Province of Pamplona, New Granada; Funck,
+Linden. Fig. 168 c. British Guyana, Brazils. Bo-
+livia; D'Orbigny.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r43">
+	<Coords>
+	<Point x="1277" y="1887"/>
+	<Point x="1716" y="1887"/>
+	<Point x="1716" y="1916"/>
+	<Point x="1277" y="1916"/></Coords></SeparatorRegion>
+	<TextRegion id="r45" type="heading">
+	<Coords>
+	<Point x="1253" y="1935"/>
+	<Point x="1761" y="1935"/>
+	<Point x="1761" y="1990"/>
+	<Point x="1253" y="1990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Figure 90 b. (Mus. Dennison.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="1054" y="1999"/>
+	<Point x="1957" y="1998"/>
+	<Point x="1957" y="2572"/>
+	<Point x="1055" y="2572"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS ZEBRA. This species is also found under so
+many diﬀerent aspects, that I thought it desirable to ﬁgure
+a singular variety from the collection of Mr. Dennison, of
+which that gentleman possesses several examples exactly
+similar, brought by some vessel into Liverpool, but he
+is not aware from whence. It is of a remarkably solid
+growth, heavy as porcelain, and has no indication of the
+green which predominates more or less in most varieties.
+The upper part of the whorls is white, the lower encircled
+by a broad band of light rust colour, and towards the
+aperture the whorl is crossed by numerous concentric dark
+streaks.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r48">
+	<Coords>
+	<Point x="1025" y="456"/>
+	<Point x="1035" y="2575"/>
+	<Point x="1044" y="2576"/>
+	<Point x="1042" y="2431"/>
+	<Point x="1038" y="2239"/>
+	<Point x="1038" y="2054"/>
+	<Point x="1039" y="1958"/>
+	<Point x="1037" y="1766"/>
+	<Point x="1035" y="1575"/>
+	<Point x="1035" y="1386"/>
+	<Point x="1034" y="1281"/>
+	<Point x="1034" y="456"/></Coords></SeparatorRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1124" y="979"/>
+	<Point x="1544" y="979"/>
+	<Point x="1544" y="1029"/>
+	<Point x="1581" y="1029"/>
+	<Point x="1581" y="1079"/>
+	<Point x="1639" y="1079"/>
+	<Point x="1639" y="1123"/>
+	<Point x="1739" y="1123"/>
+	<Point x="1739" y="1171"/>
+	<Point x="1739" y="1170"/>
+	<Point x="1393" y="1170"/>
+	<Point x="1393" y="1161"/>
+	<Point x="1124" y="1161"/>
+	<Point x="1125" y="1161"/>
+	<Point x="1125" y="1023"/>
+	<Point x="1124" y="1023"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Helix regina, De Férussac.
+Achatina perversa, Swainson.
+Achatina melanostoma, Swainson.
+Eadem? Bulimus phlogerus, D'Orbigny.</Unicode></TextEquiv></TextRegion></Page></PcGts>

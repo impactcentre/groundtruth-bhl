@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672759">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:06:27</Created>
+	<LastChange>2012-02-10T10:29:47</LastChange></Metadata>
+	<Page imageFilename="00672759.tif" imageWidth="1894" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="240" y="192"/>
+	<Point x="361" y="192"/>
+	<Point x="361" y="264"/>
+	<Point x="240" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>134</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="661" y="202"/>
+	<Point x="1307" y="202"/>
+	<Point x="1307" y="257"/>
+	<Point x="661" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TELEGONY AND REVERSION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="228" y="297"/>
+	<Point x="1761" y="297"/>
+	<Point x="1761" y="1833"/>
+	<Point x="228" y="1833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ancestors are due to reversion, either towards the less
+remote ancestors of the zebras or horses, or towards the
+common ancestors of all the recent Equidæ.* In considering
+the question, Were the ancestors of the horse striped?
+it has been incidentally shown that all foals do not pass
+through a striped stage, and that many foals have stripes
+at birth which ordinarily completely or all but completely
+disappear. That foals are usually of a bay or dun colour,
+and frequently striped at birth, seems to be best accounted
+for by saying they wear for a time their ancestral colours,
+either owing to the inﬂuence of simple heredity, or to an
+extraordinary kind of heredity, commonly known as atavism
+or reversion. It has been especially shown that the greater
+the diﬀerence between the sire and the dam, the greater
+the reversion is likely to be; and, it may be added, the
+longer are the ancestral markings likely to be retained.
+For example, hybrids between two distinct species usually
+resemble the remote ancestors more than crosses between
+two varieties or races, and while cross-bred forms (crosses
+between closely allied races or varieties) may soon lose any
+hints they may have of remote ancestors at birth, hybrids
+generally retain the ancestral characters throughout life.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="676" y="1854"/>
+	<Point x="1304" y="1854"/>
+	<Point x="1304" y="1930"/>
+	<Point x="676" y="1930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Nature of Telegony.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="230" y="1942"/>
+	<Point x="1747" y="1942"/>
+	<Point x="1747" y="2723"/>
+	<Point x="230" y="2723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Having considered the question, Were the ancestors of
+the horse striped? and the still more important question,
+Does reversion occur in the Equidæ? we are now in a
+position to deal more eﬀectively with the telegony problem,
+as far as the horse family is concerned. It will be evident
+that by assuming horses have descended from striped
+ancestors, and that the less remote ancestors sometimes
+still reassert themselves, that by what we term atavism or
+reversion horses even now sometimes wear the ancestral
+colours, it will be evident that by granting these premises
+the question has been enormously complicated.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="230" y="2730"/>
+	<Point x="1750" y="2730"/>
+	<Point x="1750" y="2928"/>
+	<Point x="230" y="2928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Or to use Mr. Galton's phraseology, the hybrids have reverted so as
+to resemble the hypothetical “midparent,” uniting the characters of their
+respective remote ancestors.</Unicode></TextEquiv></TextRegion></Page></PcGts>

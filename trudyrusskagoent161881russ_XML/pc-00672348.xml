@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672348">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:17:19</Created>
+	<LastChange>2012-02-10T09:54:32</LastChange></Metadata>
+	<Page imageFilename="00672348.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="926" y="783"/>
+	<Point x="1435" y="783"/>
+	<Point x="1435" y="869"/>
+	<Point x="926" y="869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Columbische</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="295" y="902"/>
+	<Point x="2050" y="902"/>
+	<Point x="2050" y="1038"/>
+	<Point x="295" y="1038"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Chiloniden, Crambiden und Phycideen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="442" y="1085"/>
+	<Point x="1902" y="1085"/>
+	<Point x="1902" y="1159"/>
+	<Point x="442" y="1159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beschrieben von P. C. Zeller, mit Abbildungen von G. Schulz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="297" y="1300"/>
+	<Point x="2066" y="1300"/>
+	<Point x="2066" y="2964"/>
+	<Point x="297" y="2964"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Warum die erste Reise des Barons v. Nolcken nach
+Columbien weniger Chiloniden und Crambiden gebracht hat,
+als erwartet werden konnte, ist in der Stettiner Entomologi-
+schen Zeitung 1872, S. 463 ﬀ., wo die Arten aufgezählt sind,
+angedeutet worden. Die zweite Reise ist aus besondern Grün-
+den in diesen Familien nicht viel ergiebiger ausgefallen; sie
+würde es noch weniger sein, hätte nicht der Dorpater Student
+Petersen den Baron als Gehülfe begleitet und nach dessen
+Abreise noch länger in Columbien, und zwar in den tiefern
+Theilen des Landes gesammelt. An Phycideen waren bei der
+ersten Reise so wenig Arten zum Vorschein gekommen, dass
+die Vermuthung wohlbegründet schien, Columbien sei an Arten
+dieser Familie sehr arm. Ein ganz anderes Resultat ergab die
+Petersen'sche Jagd. Obgleich sie nur in wenigen Thälern
+betrieben wurde, so fanden sich, weil ein ﬂeissiger Nachtfang
+mit Hülfe von Köder stattfand, überraschend viel neue Arten.
+Es ist danach gewiss, dass in dem Gebiete von Columbien
+allein noch eine grosse und folglich in ganz Südamerika noch
+eine ausserordentliche Menge von Phycideen-Arten zu sammeln
+übrig ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="419" y="2971"/>
+	<Point x="2057" y="2971"/>
+	<Point x="2057" y="3052"/>
+	<Point x="419" y="3052"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von diesen columbischen Arten beschreibe ich alle die-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="1095" y="1209"/>
+	<Point x="1257" y="1209"/>
+	<Point x="1257" y="1240"/>
+	<Point x="1095" y="1240"/></Coords></SeparatorRegion></Page></PcGts>

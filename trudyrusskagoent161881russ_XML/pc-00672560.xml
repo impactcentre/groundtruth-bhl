@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672560">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T22:27:34</Created>
+	<LastChange>2012-02-10T09:55:10</LastChange></Metadata>
+	<Page imageFilename="00672560.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1016" y="107"/>
+	<Point x="1342" y="107"/>
+	<Point x="1342" y="183"/>
+	<Point x="1016" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 364 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="295" y="242"/>
+	<Point x="2059" y="242"/>
+	<Point x="2059" y="502"/>
+	<Point x="295" y="502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le point central des premières ailes est verticalement ob-
+long chez les deux ♂♂ rapportés, et subquadrangulaire ou
+subtriangulaire chez les quelques ♀♀, que j'ai vues.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="295" y="511"/>
+	<Point x="2060" y="511"/>
+	<Point x="2060" y="1005"/>
+	<Point x="295" y="1005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous savons que les points disco-cellulaires varient énor-
+mément, par la forme et la grandeur, ches les Colias; mais,
+il est plus que probable, que ces points sont très gros chez
+tous les individus de cette espèce. La tache disco-cellulaire
+des ailes postérieures est grande, généralement double, orangée,
+avec le centre jaunâtre et cerclée de jaune extérieurement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="294" y="1014"/>
+	<Point x="2060" y="1014"/>
+	<Point x="2060" y="1344"/>
+	<Point x="294" y="1344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces taches sont fort exactement rendues sur les dessins
+qui accompagnent ma description. En dessous, les deux sexes sont
+jaune-verdâtres, les endroits correspondants aux places sombres
+du dessus étant plus verts.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="296" y="1353"/>
+	<Point x="2057" y="1353"/>
+	<Point x="2057" y="1596"/>
+	<Point x="296" y="1596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le point central des premières ailes est très nettement
+pupillé de blanc et les points antimarginaux noirâtres sont
+plus ou moins nets.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="296" y="1603"/>
+	<Point x="2055" y="1603"/>
+	<Point x="2055" y="1933"/>
+	<Point x="296" y="1933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La tâche disco-cellulaire des secondes ailes est grande,
+quadrangulaire, d'un blanc argenté avec un petit point de
+la même couleur superposé, quelquefois séparé, d'autres fois
+adhérent; le tout encadré de roux-brunâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="298" y="1937"/>
+	<Point x="2053" y="1937"/>
+	<Point x="2053" y="2103"/>
+	<Point x="298" y="2103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le disque, plus foncé que ne l'est la bordure extérieure,
+est limité par une série de tâches brunâtres indécises.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="296" y="2110"/>
+	<Point x="2053" y="2110"/>
+	<Point x="2053" y="2437"/>
+	<Point x="296" y="2437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La frange très large de la Erschofﬁi, rose-rougeâtre en
+dessus, est d'un rose plus pur, carminé, sur le revers. Aux
+ailes postérieures les bouts des cils de la frange sont blan-
+châtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="296" y="2444"/>
+	<Point x="2051" y="2444"/>
+	<Point x="2051" y="2860"/>
+	<Point x="296" y="2860"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pour les premières ailes, je dois ajouter encore, qu'en
+dessus, la frange est séparée par endroits de la bordure ex-
+térieure par de petits traits ou des points allongés jaunes, et
+que le fond est parfois, dans le milieu de l'aile, plus ou moins
+ocracé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="289" y="2866"/>
+	<Point x="2041" y="2866"/>
+	<Point x="2041" y="3146"/>
+	<Point x="289" y="3146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reste à dire que je ne trouve rien de remarquable ou de
+caractéristique à la structure des autres parties du corps, rien,
+qui distinguerait cette Coliade de ses congénères. Pour la</Unicode></TextEquiv></TextRegion></Page></PcGts>

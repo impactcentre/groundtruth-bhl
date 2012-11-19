@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669163">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T08:02:26</Created>
+	<LastChange>2012-02-09T16:27:36</LastChange></Metadata>
+	<Page imageFilename="00669163.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r23" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="162" y="296"/>
+	<Point x="1580" y="296"/>
+	<Point x="1580" y="1141"/>
+	<Point x="162" y="1141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MM. Quoy et Gaimard disent que cette es‐
+pèce est commune dans l’archipel des Marian‐
+nes. On en prend à l’île Guam par millions, que
+l’on fait sécher au soleil sur des claies, et que
+l’on assaisonne ensuite avec du vinaigre, de
+l’huile de coco, des herbes marines et des
+plantes aromatiques1. Ces voyageurs assurent
+que c’est un article important de nourriture
+pour les habitans, ce que l’on aurait diﬃcile‐
+ment imaginé d’un poisson si petit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="162" y="1150"/>
+	<Point x="1583" y="1150"/>
+	<Point x="1583" y="1494"/>
+	<Point x="162" y="1494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est peut-être à cette espèce qu’il faut rap‐
+porter la ﬁgure de Seba, t. III, pl. 26, ﬁg. 37,
+quoique le dessin ne montre que sept raies
+longitudinales sur chaque ﬂanc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="167" y="1817"/>
+	<Point x="1582" y="1817"/>
+	<Point x="1582" y="2255"/>
+	<Point x="167" y="2255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MM. Lesson et Garnot nous ont apporté des
+Carolines et d’Otaïti une belle espèce d’acan-
+thure, qu’on nomme dans cette dernière île
+eparaï, et qu’on pourrait désigner par l’épi-
+thète d’épaulette rouge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="224" y="2278"/>
+	<Point x="1583" y="2278"/>
+	<Point x="1583" y="2439"/>
+	<Point x="224" y="2439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa forme ressemble beaucoup à celle du lineatus,
+bien que quelques individus soient plus hauts à pro-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="167" y="2530"/>
+	<Point x="1587" y="2530"/>
+	<Point x="1587" y="2664"/>
+	<Point x="167" y="2664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Voyage autour du monde du capitaine Freycinet. Zoologie,
+p. 374.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="576" y="198"/>
+	<Point x="1156" y="198"/>
+	<Point x="1156" y="278"/>
+	<Point x="576" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1448" y="198"/>
+	<Point x="1566" y="198"/>
+	<Point x="1566" y="278"/>
+	<Point x="1448" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>231</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="428" y="1583"/>
+	<Point x="1307" y="1583"/>
+	<Point x="1307" y="1663"/>
+	<Point x="428" y="1663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE A ÉPAULETTES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="428" y="1699"/>
+	<Point x="1307" y="1699"/>
+	<Point x="1307" y="1780"/>
+	<Point x="428" y="1780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus humeralis, nob.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="175" y="2462"/>
+	<Point x="175" y="2500"/>
+	<Point x="1585" y="2500"/>
+	<Point x="1585" y="2462"/></Coords></SeparatorRegion></Page></PcGts>

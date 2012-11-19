@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669272">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:45:55</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669272.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="378" y="209"/>
+	<Point x="516" y="209"/>
+	<Point x="516" y="297"/>
+	<Point x="378" y="297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>340</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="790" y="213"/>
+	<Point x="1376" y="213"/>
+	<Point x="1376" y="298"/>
+	<Point x="790" y="298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="370" y="319"/>
+	<Point x="1797" y="319"/>
+	<Point x="1796" y="659"/>
+	<Point x="1605" y="664"/>
+	<Point x="1461" y="663"/>
+	<Point x="1448" y="672"/>
+	<Point x="369" y="677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le plus grand de nos individus, dans cette
+forme plus haute, est long de deux pieds. Il nous
+a été envoyé avec un plus petit de la baie d’Al-
+gésiras en 1827, par MM. Quoy et Gaimard.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="359" y="679"/>
+	<Point x="1470" y="676"/>
+	<Point x="1479" y="669"/>
+	<Point x="1811" y="665"/>
+	<Point x="1821" y="1347"/>
+	<Point x="358" y="1350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous en avons de neuf ou dix pouces de Mes-
+sine, par M. Bibron, et de Nice, par MM. Risso
+et Laurillard. C’est un de ces derniers qui a servi
+d’original à la ﬁgure du gymnètre cépédien de
+M. Risso2; mais, comme nous l’avons dit, cette
+ﬁgure est peu exacte. Les pêcheurs donnaient
+ceux de Messine sous le nom de bandiera im‐
+periale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="368" y="1353"/>
+	<Point x="1811" y="1349"/>
+	<Point x="1811" y="2134"/>
+	<Point x="368" y="2134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D’après l’ensemble des proportions, nous
+pensons que c’est aussi ce trachyptère que
+Bélon a voulu représenter par son falx Vene-
+torum (Aq. p. 137), et qu’Aldrovande a donné
+sous le même nom (Pisc. p. 370): nous croyons
+également que Rondelet l’a entendu par son
+tœnia altera, p. 327, et M. Raﬁnesque par son
+argyctius quadrimaculatus³; mais ces ﬁgures
+sont trop peu soignées, faites d’après des indi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="391" y="2200"/>
+	<Point x="1824" y="2200"/>
+	<Point x="1824" y="2526"/>
+	<Point x="391" y="2526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Notez que la ﬁgure publiée dans l’Iconographie du Règne
+animal, poissons, pl. 34, sous le nom de gymnetrus falx, a été
+faite d’après un de ces individus de MM. Quoy et Gaimard, ainsi
+étiqueté dans un premier travail; mais elle est si mauvaise qu’elle
+est au-dessous de toute critique.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="437" y="2528"/>
+	<Point x="1049" y="2528"/>
+	<Point x="1051" y="2589"/>
+	<Point x="440" y="2587"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. 1.re édit., pl. 5, ﬁg. 17.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="437" y="2590"/>
+	<Point x="1064" y="2591"/>
+	<Point x="1071" y="2582"/>
+	<Point x="1236" y="2582"/>
+	<Point x="1236" y="2651"/>
+	<Point x="437" y="2649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. Indice d’ittiol sic., pl. 1, ﬁg. 3.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="395" y="2150"/>
+	<Point x="1802" y="2150"/>
+	<Point x="1802" y="2187"/>
+	<Point x="395" y="2187"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672527">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T22:22:19</Created>
+	<LastChange>2012-02-10T09:55:07</LastChange></Metadata>
+	<Page imageFilename="00672527.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="769" y="183"/>
+	<Point x="1078" y="183"/>
+	<Point x="1078" y="253"/>
+	<Point x="769" y="253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 331 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="64" y="310"/>
+	<Point x="1810" y="310"/>
+	<Point x="1810" y="1146"/>
+	<Point x="64" y="1146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rüssel in beiden Geschlechtern länger als Kopf und Hals-
+schild zusammen; wenig glänzend, Basis dicht beschuppt ver-
+worren, an den Seiten gereiht, an der Spitze feiner und spar-
+samer punktirt, sonst wie bei dem Vorigen. Fühlerkeule mehr
+zugespitzt. Thorax mit bis vor die Mitte fast geraden Sei-
+ten, vorne leicht eingeschnürt, Vorderrand gerade abgeschnitten
+ohne Augenlappen, Hinterecken scharf, etwas nach aussen ge-
+richtet. Prosternum vorne schwächer ausgerandet. Decken
+mit kurz gerundeten, etwas vorspringenden Schultern, hinten
+fast gemeinsam abgerundet, sehr fein gestreift.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="66" y="1155"/>
+	<Point x="1814" y="1155"/>
+	<Point x="1814" y="1812"/>
+	<Point x="66" y="1812"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite mit den Epimeren der Mittelbrust weisslich,
+Oberseite hell lehmfarben beschuppt, Seiten des Thorax breit,
+2 schmälere nach vorne verengte, vor der Einschnürung ab-
+gekürzte Längsbinden neben der Mitte (ﬂiessen mitunter an
+der Basis zusammen) und 2 zusammenhängende Suturalma-
+keln, jederseits 2 Zwischenräume einnehmend, dunkel gefärbt;
+Zwischenraum 3 der ganzen Länge nach, 7 und 9 nur hin-
+ter der Mitte gewürfelt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="69" y="1819"/>
+	<Point x="1814" y="1819"/>
+	<Point x="1814" y="2153"/>
+	<Point x="69" y="2153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Schuppen auf dem Thorax deutlich 6eckig mit schwach
+vertiefter Mitte, dünn, schwach durchscheinend und mit glas-
+artigem Glanz wie bei einigen Bagous; die der Decken mehr
+gerundet, nur selten schwach vertieft.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="189" y="2162"/>
+	<Point x="1814" y="2162"/>
+	<Point x="1814" y="2332"/>
+	<Point x="189" y="2332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ Rüssel wenig kürzer. Fühler etwas hinter der Mitte
+eingelenkt, Halsschild länger, Abdomen ﬂacher.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="189" y="2342"/>
+	<Point x="1812" y="2342"/>
+	<Point x="1812" y="2508"/>
+	<Point x="189" y="2508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♀ Rüssel etwas länger, Fühler in der Mitte eingelenkt,
+Halsschild kürzer, Abdomen gewölbt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="189" y="2519"/>
+	<Point x="1210" y="2519"/>
+	<Point x="1210" y="2605"/>
+	<Point x="189" y="2605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An demselben Orte wie der Vorige.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="83" y="2678"/>
+	<Point x="1819" y="2678"/>
+	<Point x="1819" y="3112"/>
+	<Point x="83" y="3112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lissotarsus annularis n. sp. Breviter ovatus, piceus;
+rostro, antennis pedibusque ferrugineis; prothorace basi fere
+truncato, confertim punctato, crusta argillacea subnitida vit-
+tisque duabus albidis; elytris brevibus, humeris obtuse angula-
+tis, apice conjunctim rotundatis, substriatis, stria suturali pro-</Unicode></TextEquiv></TextRegion></Page></PcGts>

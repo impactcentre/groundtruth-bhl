@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669191">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:35:54</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669191.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="104" y="314"/>
+	<Point x="1534" y="314"/>
+	<Point x="1534" y="654"/>
+	<Point x="104" y="654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>par un caractère que nous n’avons encore ob‐
+servé qu’à lui parmi les acanthoptérygiens,
+celui de ne compter que trois rayons mous
+à ses ventrales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="106" y="988"/>
+	<Point x="1531" y="988"/>
+	<Point x="1531" y="1678"/>
+	<Point x="106" y="1678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’espèce qui paraît la plus commune a été
+représentée par Willughby1, et bien que la
+ﬁgure ait été faite d’après un individu mu‐
+tilé et qui avait la caudale en très-mauvais
+état, c’est encore la seule qui donne une idée
+convenable des caractères de l’espèce, pris de
+la force et de la longueur des épines de la
+dorsale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="100" y="1693"/>
+	<Point x="1538" y="1693"/>
+	<Point x="1538" y="2357"/>
+	<Point x="100" y="2357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson, conservé dans le musée de la
+société royale de Londres, et communiqué
+par Grew2, est le même individu qu’il avait
+fait fort mal représenter dans son Muséum
+sous le nom de petite licorne de mer (little
+sea unicorne), c’est ce qui explique l’épithète
+que Willughby donne à son poisson, mono-
+ceros minor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="102" y="2363"/>
+	<Point x="1512" y="2369"/>
+	<Point x="1509" y="2548"/>
+	<Point x="102" y="2548"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bloch, qui ne parle pas de ces poissons
+dans sa grande Ichthyologie, en fait son genre</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="147" y="2606"/>
+	<Point x="1372" y="2606"/>
+	<Point x="1375" y="2698"/>
+	<Point x="145" y="2698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Willughby, Ichthyol., pl. O 4. — 2. Grew, tab. 7.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="478" y="764"/>
+	<Point x="1143" y="764"/>
+	<Point x="1143" y="852"/>
+	<Point x="478" y="852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LE NASON LICORNET.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="382" y="863"/>
+	<Point x="1248" y="863"/>
+	<Point x="1248" y="971"/>
+	<Point x="382" y="971"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Naseus fronticornis, Comm.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="header">
+	<Coords>
+	<Point x="573" y="219"/>
+	<Point x="1073" y="219"/>
+	<Point x="1073" y="303"/>
+	<Point x="573" y="303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. NASONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="page-number">
+	<Coords>
+	<Point x="1365" y="208"/>
+	<Point x="1516" y="208"/>
+	<Point x="1516" y="296"/>
+	<Point x="1365" y="296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>259</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r24">
+	<Coords>
+	<Point x="103" y="2560"/>
+	<Point x="103" y="2598"/>
+	<Point x="1523" y="2598"/>
+	<Point x="1523" y="2560"/></Coords></SeparatorRegion></Page></PcGts>

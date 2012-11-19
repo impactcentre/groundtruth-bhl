@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669060">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:19:52</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669060.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="316" y="224"/>
+	<Point x="1773" y="224"/>
+	<Point x="1773" y="488"/>
+	<Point x="316" y="488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>portée de Bourou, l’une des Moluques, par
+MM. Lesson et Garnot, et de Batavia par
+M. Raynaud.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="383" y="493"/>
+	<Point x="1768" y="493"/>
+	<Point x="1766" y="1064"/>
+	<Point x="822" y="1060"/>
+	<Point x="825" y="1106"/>
+	<Point x="383" y="1102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur est deux fois et demie dans sa longueur,
+laquelle comprend quatre fois et un tiers celle de la
+tête: son crâne est lisse; son chanfrein, convexe
+entre les yeux, tombe ensuite presque verticalement.
+Les stries de l’opercule et du limbe du préopercule
+sont peu marquées; mais il y en a de fortes à l’os
+huméral, qui est petit. Ses nombres sont les mêmes
+qu’aux autres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="853" y="1086"/>
+	<Point x="1366" y="1086"/>
+	<Point x="1366" y="1167"/>
+	<Point x="853" y="1167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/10; A. 7/9, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="382" y="1173"/>
+	<Point x="1756" y="1173"/>
+	<Point x="1756" y="2150"/>
+	<Point x="382" y="2150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa couleur paraît d’un gris bleuâtre, qui se change
+en argenté au ventre. Le dos est couvert de taches
+rondes et ovales, bordées d’un liséré brun, et dont
+le milieu a une teinte jaunâtre; plus bas ces taches
+deviennent plus oblongues, et sur les ﬂancs elles
+s’alongent de manière à former des espèces de chaînes
+ou de bandes interrompues. On voit sur la joue
+et l’opercule deux ou trois lignes onduleuses, bleuâ‐
+tres, lisérées de brun. Il y a quelques taches ou points
+bruns sur les nageoires verticales, et à la caudale
+ces points sont disposés assez régulièrement sur les
+rayons. Les pectorales sont d’un gris jaunâtre, les
+ventrales blanchâtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="379" y="2167"/>
+	<Point x="1730" y="2167"/>
+	<Point x="1730" y="2270"/>
+	<Point x="379" y="2270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce bel amphacanthe est long de dix pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="337" y="2276"/>
+	<Point x="1743" y="2276"/>
+	<Point x="1743" y="2602"/>
+	<Point x="337" y="2602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il a le foie très-brun; le lobe gauche est quadrila‐
+tère et n’a pas de dentelures sur le bord postérieur;
+la vésicule du ﬁel est très-petite, placée de même
+que dans les autres espèces. Le canal intestinal est</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="338" y="115"/>
+	<Point x="500" y="115"/>
+	<Point x="500" y="212"/>
+	<Point x="338" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>128</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="801" y="115"/>
+	<Point x="1321" y="115"/>
+	<Point x="1321" y="212"/>
+	<Point x="801" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

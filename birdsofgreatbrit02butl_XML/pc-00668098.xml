@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668098">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T15:01:53</Created>
+	<LastChange>2012-02-10T09:52:36</LastChange></Metadata>
+	<Page imageFilename="00668098.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="906" y="217"/>
+	<Point x="1363" y="217"/>
+	<Point x="1363" y="273"/>
+	<Point x="906" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY STURNIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="196" y="337"/>
+	<Point x="2075" y="337"/>
+	<Point x="2075" y="710"/>
+	<Point x="196" y="710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fielden (P.Z.S., 1877, p. 30) in a paper on the birds of the North Polar Basin,
+says:—“On the 13th May, 1876, I heard the ﬁrst Snow-Bunting (Plectrophanes
+nivalis) as we lay in our tent on the ﬂoe at the base of a cliﬀ. The note came
+from above, clear and musical, and each inmate of the tent started into a sitting-
+posture, and said ‘Hush, hush, do you hear it?’ One of the sailors said to me,
+‘What bird is that sir? it is sweeter than a throstle.’”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="194" y="716"/>
+	<Point x="2083" y="716"/>
+	<Point x="2083" y="906"/>
+	<Point x="194" y="906"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>My friend Mr. David Seth-Smith had a pair for a considerable time and may
+perhaps still have them; I have seen them ﬂying about in one of his garden
+aviaries many times, but never heard the song.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="839" y="1313"/>
+	<Point x="1432" y="1313"/>
+	<Point x="1432" y="1379"/>
+	<Point x="839" y="1379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY STURNIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="337" y="1647"/>
+	<Point x="337" y="1443"/>
+	<Point x="2076" y="1443"/>
+	<Point x="2076" y="1838"/>
+	<Point x="202" y="1838"/>
+	<Point x="202" y="1647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HE Starlings are an Old World family of birds linked to the Finches through
+the Icteridœ or Troupials and Cow-birds of the New World; but, on the other
+hand, showing aﬃnity to the Corvidœ or Crow-family. They are character‐
+ized by a long straight slender bill, with the nostrils placed low down, without
+rictal bristles; a very small bastard primary and very long second primary; the
+tarsus is scaled in front, but not behind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="203" y="1845"/>
+	<Point x="2083" y="1845"/>
+	<Point x="2083" y="2156"/>
+	<Point x="203" y="2156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Starlings when on the ground progress in a purposeless, irregular fashion,
+mostly by walking or running; on the wing their ﬂight is powerful, but peculiar,
+so that, when at a great height, it has a twinkling appearance; when at a lower
+elevation this is explained by the fact that they rapidly ﬂap their somewhat long
+wings and then sail straight forwards.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="207" y="2159"/>
+	<Point x="2078" y="2159"/>
+	<Point x="2078" y="2339"/>
+	<Point x="1010" y="2339"/>
+	<Point x="1010" y="2405"/>
+	<Point x="207" y="2405"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>These birds are practically omnivorous, always hungry and consequently large
+feeders; they are, therefore, unsuitable for caged pets, unless considerable attention
+can be paid to them by their owners: in themselves, however, they are cleanly,
+being exceedingly fond of bathing.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="202" y="2409"/>
+	<Point x="2084" y="2409"/>
+	<Point x="2084" y="2718"/>
+	<Point x="202" y="2718"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The songs of Starlings are either altogether, or partly, harsh in character;
+in which respect and in their powers of mimicry, they somewhat resemble their
+allies the Crows. Like the latter also they soon become tame and conﬁding in
+captivity; in which respect they widely diﬀer from some of the Icteridœ which
+never seem to get the least bit tamer after years of conﬁnement in an aviary,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="210" y="230"/>
+	<Point x="298" y="230"/>
+	<Point x="298" y="283"/>
+	<Point x="210" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>138</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="208" y="1465"/>
+	<Point x="333" y="1465"/>
+	<Point x="333" y="1621"/>
+	<Point x="208" y="1621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="1031" y="1110"/>
+	<Point x="1031" y="1124"/>
+	<Point x="1237" y="1124"/>
+	<Point x="1237" y="1110"/></Coords></SeparatorRegion></Page></PcGts>

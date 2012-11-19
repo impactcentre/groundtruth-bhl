@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672424">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:33:05</Created>
+	<LastChange>2012-02-10T09:54:50</LastChange></Metadata>
+	<Page imageFilename="00672424.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="974" y="142"/>
+	<Point x="1294" y="142"/>
+	<Point x="1294" y="205"/>
+	<Point x="974" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 230 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="257" y="269"/>
+	<Point x="2008" y="269"/>
+	<Point x="2008" y="1199"/>
+	<Point x="257" y="1199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ungefähr so gross wie die folgende Euzoph. disticta. Kopf
+und Rückenschild lehmgelblichgrau. Stirn mit sehr kurzem
+Schuppenkegel. Die ungeﬂeckten Taster ragen um Kopfeslänge
+hervor und sind grade, etwas aufgerichtet; das 2te Glied
+gegen das Ende erweitert, dreieckig; das Endglied sehr kurz,
+dünn. Fühler über dem kurz cylindrischen Wurzelgliede ver-
+dünnt nnd etwas gebogen, ohne Einschnürung. Hinterleib
+gelblichgrau; Analbusch gelblicher, unbedeutend, mit zwei
+(vielleicht durch Druck) unten hervorstehenden, sich kreuzenden
+Streifen. Beine grau; die Hinterfüsse dunkler mit weissen
+Spitzen der Glieder.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="262" y="1224"/>
+	<Point x="2014" y="1224"/>
+	<Point x="2014" y="2307"/>
+	<Point x="262" y="2307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 4‴ lang, schmal, hinten sehr wenig erwei-
+tert, mit deutlicher Spitze, hell lehmgelblich grau, am Vor-
+derrand bis zur zweiten Querlinie weisslich. Bei 1/3 der Länge
+sind 2 schwarze Fleckchen senkrecht über einander, das grös-
+sere über der Medianader, das kleinere auf der Subdorsalader.
+Von den zwei scharfen, schwarzen Queraderpunkten liegt
+der untere auf der weissen Medianader, der obere weit ge-
+trennt senkrecht darüber. Die hintere weissliche Querlinie
+läuft dem Hinterrande, dem sie näher ist als den Querader-
+punkten, ziemlich parallel und ist scharf gesägt, am obern
+Viertel basalwärts breit schwarz gerandet; sonst tritt sie nur
+wenig aus der Grundfarbe hervor. Hinterrandpunkte schwarz,
+nicht sonderlich scharf.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="257" y="2337"/>
+	<Point x="2010" y="2337"/>
+	<Point x="2010" y="2585"/>
+	<Point x="257" y="2585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel verhältnissmässig viel schmäler und viel länger
+zugespitzt als bei Cundajensis, weissgrau, durchsichtig, am
+Hinterrand schmal und verloschen bräunlich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="246" y="2632"/>
+	<Point x="2001" y="2632"/>
+	<Point x="2001" y="3137"/>
+	<Point x="246" y="3137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel dunkelgrau. Ast 1 der Median-
+ader entspringt bei 2/3 der Länge dicht bei Ast 2; 3 und 4
+bilden eine Gabel, deren Stiel 1/4 so lang ist wie sie. —
+Hinterﬂügel hellgrau, schwach gelblich schimmernd. Ast 1 der
+Medianader entspringt kurz hinter der Mitte, und die Quer-
+ader bildet seine Fortsetzung; Ast 2 und 3 bilden eine Ga-</Unicode></TextEquiv></TextRegion></Page></PcGts>

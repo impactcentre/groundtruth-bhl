@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672446">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:37:09</Created>
+	<LastChange>2012-02-10T09:54:54</LastChange></Metadata>
+	<Page imageFilename="00672446.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1001" y="157"/>
+	<Point x="1310" y="157"/>
+	<Point x="1310" y="223"/>
+	<Point x="1001" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 252 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="271" y="305"/>
+	<Point x="2039" y="305"/>
+	<Point x="2039" y="1741"/>
+	<Point x="271" y="1741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Medianader der Hinterﬂügel *). Ohne Rücksicht hierauf
+hat sie nach Grösse und Färbung die meiste Aehnlichkeit mit
+Tetradella und Vulneratella. Beiden fehlen die schwarzen Margi-
+nalpunkte der Crassivenia; ausserdem treten bei ersterer die bei-
+den Adern (Subcostalis und mediana) weniger stark hervor, und
+die Färbung der erstern ﬂiesst mit der der Costalzelle zusam-
+men etc. Bei Vulneratella sind die weisslichen Adern noch
+schwächer ausgedrückt, die dünne Medianader so wenig wie die
+andern Adern dunkel gesäumt etc. Binotella stimmt mit Crassive-
+nia in der an beiden Enden, nur viel schärfer begrenzten weiss-
+lichen Subdorsallinie, ist aber viel kleiner, breitﬂügliger und
+mit breiter, weisslicher Costalvitta etc. Deliquella (die ich aus
+dem Berliner Museum beschrieb) steht der Crassivenia jeden-
+falls sehr nahe, hat aber meiner Beschreibung zufolge auf den
+Vorderﬂügeln zerstreute schwarze Schuppen, keine verdickte
+Medianader, sondern eine helle Costalstrieme, und ihre Hin-
+terﬂügel sind hellgrau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="276" y="1749"/>
+	<Point x="2037" y="1749"/>
+	<Point x="2037" y="2428"/>
+	<Point x="276" y="2428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rückenschild, Kopf und Taster, letztere dunkler, bleich
+röthlich ochergelb. Taster beim ♂ ein wenig aufgerichtet, beim ♀
+ganz horizontal, bei beiden ziemlich schlank; das Endglied
+dünn und spitz; die Maxillartaster fadenförmig, bis über den
+Schuppenkegel der Stirn hervorreichend. Sauger fehlend. Die
+bleichgelblichen Fühler sind beim ♂ stark, zusammengedrückt,
+über dem langen Wurzelgliede etwas abgeﬂacht, dicht borstig
+gefranzt; beim ♀ fein borstenförmig und kahl. Beine einfar-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="273" y="2530"/>
+	<Point x="2042" y="2530"/>
+	<Point x="2042" y="3080"/>
+	<Point x="273" y="3080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Ich habe darauf hin die europäischen, asiatischen und nordamerikani-
+schen Anerastien meiner Sammlung, in welcher aber einige der europäischen
+Fauna ausser den Meyrickschen Australiern fehlen, genau wieder untersucht
+und bei ihnen die Medianader, wie Heinemann angiebt, dreiäs�ig gefun-
+den, nur mit einiger Verschiedenheit in der Länge der Endgabel. Venosa—mit
+4ästiger Medianader der Hinterﬂügel — bildet entweder eine eigne Abtheilung
+in Anerastia, oder ist, wenn sie wirklich Ocellen hat, was ich noch immer nicht
+mit Sicherheit erkenne, in eine der bei Myeloïs stehenden Gattungen zu ver-
+setzen.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="283" y="2455"/>
+	<Point x="871" y="2455"/>
+	<Point x="871" y="2491"/>
+	<Point x="283" y="2491"/></Coords></SeparatorRegion></Page></PcGts>

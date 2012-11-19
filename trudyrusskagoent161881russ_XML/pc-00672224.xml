@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672224">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T18:47:46</Created>
+	<LastChange>2012-02-10T09:54:06</LastChange></Metadata>
+	<Page imageFilename="00672224.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1073" y="142"/>
+	<Point x="1373" y="141"/>
+	<Point x="1373" y="201"/>
+	<Point x="1071" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 30 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="364" y="278"/>
+	<Point x="2098" y="278"/>
+	<Point x="2098" y="1012"/>
+	<Point x="364" y="1012"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>loppés chez la larve que chez l'imago. Le muscle auxiliaire
+sternali-dorsal se ﬁxe en dessus sur une apophyse particulière,
+qui sort du sternum près de la hanche postérieure (ﬁg. 59).
+Plus tard, avant l'éclosion de l'insecte, quand les hanches se
+rapprochent, les apophyses, disposées symétriquement de deux
+côtés, se lient, de sorte que le muscle indiqué touche son con-
+génère (ﬁg. 14). En dessus ce muscle s'attache au hord an-
+térieur du premier segment de l'abdomen de même manière que
+cela a lieu chez l'insecte parfait.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="355" y="1019"/>
+	<Point x="2105" y="1019"/>
+	<Point x="2105" y="1426"/>
+	<Point x="355" y="1426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les muscles auxiliaires dorsaux passent entre les ouver-
+tures des fourreaux, à peu près parallélement à leurs axes, en
+sortant d'un même point et en divergeant en arrière. Puisque
+ces muscles ne sont pas les muscles alaires proprement dits,
+ils se développent aussi tôt que ceux-ci.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="341" y="1432"/>
+	<Point x="2105" y="1432"/>
+	<Point x="2105" y="2926"/>
+	<Point x="341" y="2926"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est mentionné plus haut, qu'il y a une diﬀérence, quant
+à la structure intime, entre les muscles alaires proprement
+dits, qui s'organisent pendant la vie aquatique et les muscles,
+qui chez la larve sont déjà développés et fonctionnent. Les
+muscles auxiliaires ont cette structure de muscles développés,
+d'où ressort avec êvidence leur rôle dans la fonction du
+mouvement aérien: ils ne sont que des muscles auxiliaires,
+qui inﬂuencent indirectement le vol. Parmi les muscles alai-
+res il y en a deux, qui s'attache à l'apophyse de la hanche.
+Mais de ce mode de ﬁxation il ne faut pas déduire, qu'ils
+soient en même temps des muscles alaires et des moteurs de
+pattes, comme nous le voyons par exemple dans le hannetôn,
+dont quelques muscles remplissent en eﬀet deux rôles 1). La
+structure intime, diﬀérente dans deux sortes de muscles, dont
+j'ai fait mention plus haut, conduit à la conclusion, que deux
+muscles ﬁxés sur la hanche sont exclusivement alaires et ne s'at-
+tachent à celle-ci qu'en vue de commodité. Cette thèse se con-
+ﬁrme en outre par la position de l'apophyse, sur laquelle les</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="460" y="3012"/>
+	<Point x="1451" y="3012"/>
+	<Point x="1451" y="3083"/>
+	<Point x="460" y="3083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1) Straus-Dürkheiml. c. p. 168, 169.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="366" y="2935"/>
+	<Point x="964" y="2935"/>
+	<Point x="964" y="2978"/>
+	<Point x="366" y="2978"/></Coords></SeparatorRegion></Page></PcGts>

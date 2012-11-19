@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669389">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:00:23</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669389.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="95" y="283"/>
+	<Point x="1458" y="283"/>
+	<Point x="1458" y="1574"/>
+	<Point x="95" y="1574"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elle a, comme la précédente, les caractères qui
+la rapprochent de notre joël; mais son crâne est
+beaucoup plus large. Il mesure entre les yeux les
+deux tiers de sa longueur. On y voit aussi le triangle
+dont nous avons parlé dans l’espèce précédente,
+mais prolongé un peu plus en avant. La longueur
+du museau ne fait pas moitié du diamètre de l’œil.
+La hauteur proportionnelle de son corps est un
+peu plus considérable que dans l’espèce de Forster.
+Ses écailles, dont elle a sept rangées, sont donc
+aussi un peu plus larges, mais sa bande argentée
+est plus étroite. Elle est de toutes les espèces celle
+qui a la pectorale la plus longue et la plus pointue:
+elle fait un peu moins du quart de la longueur to‐
+tale. Sa première dorsale n’a que cinq rayons, et
+les nombres de l’anale sont assez diﬀérens pour de‐
+venir également caractéristiques.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="295" y="1579"/>
+	<Point x="1250" y="1579"/>
+	<Point x="1250" y="1656"/>
+	<Point x="295" y="1656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 5 — 1/8; A. 1/10; C. 17; P. 14; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="21" y="1671"/>
+	<Point x="1471" y="1671"/>
+	<Point x="1471" y="1944"/>
+	<Point x="21" y="1944"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pendant l’expédition sous les ordres de M.
+d’Urville, cette espèce a été retrouvée sur les
+côtes de la Nouvelle-Guinée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="78" y="1964"/>
+	<Point x="1478" y="1964"/>
+	<Point x="1475" y="2494"/>
+	<Point x="1474" y="2503"/>
+	<Point x="75" y="2505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ces individus, plus frais que les précédens, mon‐
+trent des dﬀérences sensibles de couleur: un trait
+noirâtre est formé par une série de petits points sur
+le milieu de la bande argentée des ﬂancs, et il y a
+au-dessus de cette bande deux autres traits sembla‐
+bles, aussi marqués, et un quatrième, plus eﬀacé,
+près du ventre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="74" y="2507"/>
+	<Point x="1465" y="2505"/>
+	<Point x="1466" y="2691"/>
+	<Point x="74" y="2691"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa grandeur est la même, de trois pouces et demi à
+quatre pouces. Son squelette n’a que trente-six ver-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="579" y="171"/>
+	<Point x="897" y="171"/>
+	<Point x="897" y="268"/>
+	<Point x="579" y="268"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1312" y="171"/>
+	<Point x="1454" y="171"/>
+	<Point x="1454" y="268"/>
+	<Point x="1312" y="268"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>457</Unicode></TextEquiv></TextRegion></Page></PcGts>

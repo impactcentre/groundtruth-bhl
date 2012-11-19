@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669074">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T02:51:45</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669074.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r17" index="4"/>
+	<RegionRefIndexed regionRef="r23" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="287" y="206"/>
+	<Point x="1701" y="206"/>
+	<Point x="1701" y="656"/>
+	<Point x="287" y="656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson de Forskal se nomme ghæjthan
+à Djidda; il est long de six pouces et se trouve,
+mais rarement, parmi les coraux; il ne vit que
+d’herbes, et on le prend avec des nasses et
+non pas à l’hameçon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="273" y="937"/>
+	<Point x="1704" y="937"/>
+	<Point x="1704" y="1720"/>
+	<Point x="273" y="1720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Plusieurs autres espèces de ce genre ont,
+comme les précédentes, le corps plus ou moins
+semé de points ou de petites taches rondes.
+Ainsi nous avons vu parmi les nombreux et
+beaux dessins de l’expédition du capitaine
+Lutke, la ﬁgure d’un amphacanthe très-sem‐
+blable au guttatus pour la forme générale
+et pour le museau, qui même est encore
+plus court,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="336" y="1988"/>
+	<Point x="1693" y="1986"/>
+	<Point x="1696" y="2603"/>
+	<Point x="336" y="2603"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et où, de plus, les couleurs sont dans un ordre tout-
+à-fait inverse. Le dos est d’un bleu foncé qui devient
+plus clair en dessous, et tout semé de taches rondes
+et nombreuses, d’un orangé brun. Le front et l’oper‐
+cule ont des teintes verdâtres; il y a à la joue trois
+lignes descendant obliquement avec des intervalles
+jaunâtres; sous la ﬁn de la dorsale est une lache
+ovale verte. Les nageoires sont grises.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="533" y="719"/>
+	<Point x="1429" y="719"/>
+	<Point x="1429" y="811"/>
+	<Point x="533" y="811"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE FIRMAMENT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="470" y="825"/>
+	<Point x="1493" y="825"/>
+	<Point x="1493" y="927"/>
+	<Point x="470" y="927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus ﬁrmamentum, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="346" y="1733"/>
+	<Point x="1697" y="1733"/>
+	<Point x="1700" y="1897"/>
+	<Point x="343" y="1899"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais dont la caudale est moins en croissant, les
+épines plus grêles, quoique en même nombre,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="766" y="1905"/>
+	<Point x="1295" y="1906"/>
+	<Point x="1297" y="1979"/>
+	<Point x="764" y="1979"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/10; A. 7/9, etc.,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="page-number">
+	<Coords>
+	<Point x="296" y="104"/>
+	<Point x="436" y="104"/>
+	<Point x="436" y="189"/>
+	<Point x="296" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>142</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="header">
+	<Coords>
+	<Point x="724" y="113"/>
+	<Point x="1240" y="113"/>
+	<Point x="1240" y="192"/>
+	<Point x="724" y="192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

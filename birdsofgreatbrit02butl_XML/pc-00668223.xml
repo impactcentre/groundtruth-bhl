@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668223">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T20:16:05</Created>
+	<LastChange>2012-02-10T09:52:45</LastChange></Metadata>
+	<Page imageFilename="00668223.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="903" y="258"/>
+	<Point x="1358" y="258"/>
+	<Point x="1358" y="329"/>
+	<Point x="903" y="329"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SHORE-LARK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1951" y="267"/>
+	<Point x="2058" y="267"/>
+	<Point x="2058" y="332"/>
+	<Point x="1951" y="332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>199</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="200" y="383"/>
+	<Point x="770" y="383"/>
+	<Point x="770" y="454"/>
+	<Point x="200" y="454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—ALAUDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="812" y="632"/>
+	<Point x="1441" y="632"/>
+	<Point x="1441" y="706"/>
+	<Point x="812" y="706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SHORE-LARK.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="867" y="800"/>
+	<Point x="1400" y="800"/>
+	<Point x="1400" y="870"/>
+	<Point x="867" y="870"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Otocorys alpestris, LINN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="318" y="1134"/>
+	<Point x="318" y="952"/>
+	<Point x="2074" y="945"/>
+	<Point x="2074" y="1251"/>
+	<Point x="193" y="1251"/>
+	<Point x="200" y="1134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>REEDS within the Arctic Circle beyond the limits of forest-growth in
+the northern portions of the Old and New Worlds; on migration it
+occurs throughout the greater part of Europe, though hitherto not recorded
+from Spain and Portugal; eastward it is met with in Turkestan, S. Siberia, and
+N. China.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="192" y="1260"/>
+	<Point x="2083" y="1261"/>
+	<Point x="2083" y="1693"/>
+	<Point x="193" y="1695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>To Great Britain this bird was at one time only an irregular visitor, but
+since the winter of 1869-70 when there was a considerable immigration to our
+eastern coasts, its appearance in autumn and winter has been regular; according
+to Mr. Aplin, specimens have visited us on the northward migration in spring as
+late as April 22nd. On the eastern coast of Scotland it has been met with as
+far north as St Andrews. In 1906 a few visited Fair Isle (Shetlands), from
+October to December.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="196" y="1700"/>
+	<Point x="2080" y="1700"/>
+	<Point x="2080" y="2774"/>
+	<Point x="196" y="2774"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The adult male of the Shore-Lark has the forehead, a stripe partly en-
+closing the eye and ear-coverts, and extending over the sides of neck, and uniting
+with a patch over the chin and fore-throat creamy-white; the front of the crown
+and an erectile tuft on each side of the crown, the lores, cheeks, and a belt across
+the lower throat and breast, black; ear-coverts creamy, tipped with brown; nape,
+mantle, lesser wing-coverts, and upper tail-coverts vinaceous-brown; wing-coverts
+tipped with white; quills smoky-brown, the ﬁrst primary white externally, the
+others with ashy-margins; feathers of the back greyish-brown with black centres
+to the feathers; two central tail-feathers coloured like those of the back, the
+remainder black, the outer feather with white margin to the outer web; remainder
+of under parts creamy-white, becoming vinous on the breast, ﬂanks, and thighs;
+ﬂanks streaked with brown; bill and feet black; iris deep brown. The female
+is smaller, duller, with less black and no erectile tufts on the head, but with dark
+centres to all the feathers of the upper parts. Young males resemble the winter
+plumage of the female, but young females show no yellow on the forehead and
+have black bases to the feathers of the crown. After the autumn moult adult
+birds have yellow margins to the feathers on the head and nape.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="206" y="951"/>
+	<Point x="313" y="951"/>
+	<Point x="313" y="1095"/>
+	<Point x="206" y="1095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B</Unicode></TextEquiv></TextRegion></Page></PcGts>

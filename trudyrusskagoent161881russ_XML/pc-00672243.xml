@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672243">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:20:59</Created>
+	<LastChange>2012-02-10T09:54:09</LastChange></Metadata>
+	<Page imageFilename="00672243.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r12" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="710" y="201"/>
+	<Point x="1046" y="201"/>
+	<Point x="1046" y="264"/>
+	<Point x="710" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 49 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="16" y="326"/>
+	<Point x="1773" y="326"/>
+	<Point x="1773" y="1253"/>
+	<Point x="16" y="1253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nematocampa ? Straminea Butl. taf. X, ﬁg. 2. Herr Butler
+hat diesen zierlichen Spanner in seiner neuesten Arbeit «On
+new Species of Lepid. from Japan» in den Annals and
+Magaz. of Nat. Hist. November 1879, pag. 370 sehr
+kenntlich beschrieben, aber mit Unrecht — wohl durch die
+ähnliche Zeichnung mit den Species des gen. Nematocampa
+Gn. verleitet, in dieses Genus gesetzt. Das Charakteristi-
+sche von Nematocampa ist: «in beiden Geschlechtern faden-
+förmige Fühler, Hinterschienen stark verdickt, der eine Sporn
+derselben keulenförmig angeschwollen, Flügel auﬀallend kurz,
+die hintern eine deutliche Ecke bildend».</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="83" y="1257"/>
+	<Point x="1776" y="1257"/>
+	<Point x="1776" y="1758"/>
+	<Point x="83" y="1758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von allen genannten Merkmalen hat aber Straminea
+gar keines. Die Fühler beim ♂ sind stark gekämmt, die
+Hinterschienen nicht verdickt und auch von einem keulen-
+förmig angeschwollenen Sporn ist nichts zu sehn. Ausser-
+dem sind die Vorderﬂügel lang und schmal und die hinte-
+ren gerundet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="80" y="1760"/>
+	<Point x="1782" y="1760"/>
+	<Point x="1782" y="2010"/>
+	<Point x="80" y="2010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zu Herrn Butler's Beschreibung habe ich noch beizu-
+fügen, dass die weissen Fühlerschäfte oben dunkel punktirt
+sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="85" y="2014"/>
+	<Point x="1791" y="2014"/>
+	<Point x="1790" y="2337"/>
+	<Point x="84" y="2336"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Für Straminea muss wohl ein eigenes Genus errichtet
+werden. Da ich aber nur einen frischen ♂, dem jedoch
+die Spitzen der Fühler abgebrochen sind, besitze, wage ich
+kein solches aufzustellen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="112" y="3026"/>
+	<Point x="1798" y="3026"/>
+	<Point x="1798" y="3191"/>
+	<Point x="112" y="3191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nach Herrn Butler in seinem oben citirten «On new
+Species etc.» pag. 370 ist Arenosa das ♂ zu E. Leda Butl.,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1801" y="2344"/>
+	<Point x="1801" y="2515"/>
+	<Point x="30" y="2515"/>
+	<Point x="30" y="2344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Straminea ﬂiegt auf der Insel Askold, jedoch scheint
+sie dort selten zu sein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1801" y="2517"/>
+	<Point x="1801" y="3014"/>
+	<Point x="30" y="3014"/>
+	<Point x="30" y="2517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Epione ? Arenosa Butl. Lepid. Heter. in the Coll. of the
+Brit. Mus. II, pag. 46, pl. XXXV, ﬁg. 1. Ich habe ei-
+nen ♂ aus dem Chingan-Gebirge mitgebracht, welcher gut
+mit der angeführten Abbildung und Beschreibung überein-
+stimmt, nur ist mein Exemplar kleiner und nicht so lebhaft
+gefärbt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="502" y="3201"/>
+	<Point x="502" y="3258"/>
+	<Point x="183" y="3258"/>
+	<Point x="183" y="3201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="signature-mark">
+	<Coords>
+	<Point x="1660" y="3201"/>
+	<Point x="1660" y="3258"/>
+	<Point x="1576" y="3258"/>
+	<Point x="1576" y="3201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4</Unicode></TextEquiv></TextRegion></Page></PcGts>

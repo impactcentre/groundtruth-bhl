@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672579">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:00:31</Created>
+	<LastChange>2012-02-10T09:55:13</LastChange></Metadata>
+	<Page imageFilename="00672579.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="757" y="146"/>
+	<Point x="1067" y="146"/>
+	<Point x="1067" y="223"/>
+	<Point x="757" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 383 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="608" y="364"/>
+	<Point x="1221" y="364"/>
+	<Point x="1221" y="458"/>
+	<Point x="608" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>38. L. Baton Berg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="67" y="542"/>
+	<Point x="1801" y="542"/>
+	<Point x="1801" y="1057"/>
+	<Point x="67" y="1057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous n'en prîmes qu'une seule ♀ très grande (25½ mill.)
+et de couleur sombre le 24 Avril, dans le déﬁlé de Talki,
+avec l'espèce précédente. Sa taille et sa couleur foncée, en
+dessus, me la ﬁrent confondre avec l'Orion, et c'est certaîne-
+ment à cette erreur que je dois de n'en avoir pas rapporté
+plus d'individus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="55" y="1064"/>
+	<Point x="1817" y="1064"/>
+	<Point x="1817" y="1478"/>
+	<Point x="55" y="1478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je le regrette d'autant plus, que par le revers gris blan-
+châtre plus clair, cette ♀ se distingue bien du type d'Europe
+et appartient très probablement à une variété constante de
+la L. Baton, ce qui ne peut être décidé d'après un exemplaire
+unique.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="67" y="1499"/>
+	<Point x="1814" y="1499"/>
+	<Point x="1814" y="1757"/>
+	<Point x="67" y="1757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Staudinger fait mention (Horae Soc. Ent. Ross. 1878,
+p. 239) de deux ♀♀, l'une de Baïrout, l'autre de Schahrud,
+qui paraissent être pareilles à la ♀ que j'ai rapportée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="216" y="1860"/>
+	<Point x="1653" y="1860"/>
+	<Point x="1653" y="1960"/>
+	<Point x="216" y="1960"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>39. L. Sinensis Alph. n. sp. Tab. XIV, ﬁg. 7.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="678" y="2053"/>
+	<Point x="1205" y="2053"/>
+	<Point x="1205" y="2135"/>
+	<Point x="678" y="2135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂♀ 23—25 mill.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="174" y="2198"/>
+	<Point x="1726" y="2198"/>
+	<Point x="1726" y="2287"/>
+	<Point x="174" y="2287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L. supra brunneo-fusca (♂ et ♀) ciliis albo-interruptis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="58" y="2296"/>
+	<Point x="1808" y="2296"/>
+	<Point x="1808" y="2723"/>
+	<Point x="58" y="2723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subtus griseo-fusca, litura marginali tenuissima alba; al.
+anticis serie externa interrupta e striolis irregularibus albis
+composita; posticis pagina irregulariter striolis lunisque albis
+signata serieque punctulorum, submarginalium, interne albo
+marginatorum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="60" y="2755"/>
+	<Point x="1814" y="2755"/>
+	<Point x="1814" y="3092"/>
+	<Point x="60" y="3092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette espèce se trouve bien isolée dans le genre Lycaena,
+et doit prendre sa place dans le petit groupe formé par des
+espèces très hétérogènes: Rhymnus Ev., Tengstroemi Ersch.
+et Anthracias Christ.</Unicode></TextEquiv></TextRegion></Page></PcGts>

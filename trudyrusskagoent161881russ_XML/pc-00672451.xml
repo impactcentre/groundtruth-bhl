@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672451">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T22:07:46</Created>
+	<LastChange>2012-02-10T09:54:55</LastChange></Metadata>
+	<Page imageFilename="00672451.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="216" y="1047"/>
+	<Point x="1816" y="1047"/>
+	<Point x="1816" y="1323"/>
+	<Point x="216" y="1323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beitrag zur Lepidopteren - Fauna des
+Amur - Landes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="935" y="1388"/>
+	<Point x="1059" y="1388"/>
+	<Point x="1059" y="1452"/>
+	<Point x="935" y="1452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>von</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="573" y="1523"/>
+	<Point x="1426" y="1523"/>
+	<Point x="1426" y="1628"/>
+	<Point x="573" y="1628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>W. von Hedemann.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="823" y="1709"/>
+	<Point x="1145" y="1709"/>
+	<Point x="1145" y="1785"/>
+	<Point x="823" y="1785"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Fortsetzung).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="116" y="2104"/>
+	<Point x="1876" y="2104"/>
+	<Point x="1876" y="2528"/>
+	<Point x="116" y="2528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Acidalia Dohlmanni nov. sp. Aus dem Chingan-Gebirge habe
+ich 2 ♂♂ dieser Art mitgebracht, die ich Anfangs nur für
+schärfer gezeichnete Stücke der Ac. Perochraria FR. ansah,
+bei näherer Untersuchung jedoch für eigene Art halten
+muss.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="171" y="2540"/>
+	<Point x="1892" y="2540"/>
+	<Point x="1892" y="3116"/>
+	<Point x="171" y="3116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von der Grösse, Farbe und Form der Perochraria führt
+Dohlmanni wie diese 5 dunklere Querlinien auf den Vor-
+derﬂügeln, 4 auf den Hinterﬂügeln. Gemeinsam ist beiden
+Arten ausserdem noch das Geäder, die mit starken Haar-
+pinseln versehenen männlichen Fühler und die ungespornten
+Hinterschienen des ♂. Der Unterschied zwischen beiden
+Arten ist folgender:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="264" y="3126"/>
+	<Point x="588" y="3126"/>
+	<Point x="588" y="3204"/>
+	<Point x="264" y="3204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="1642" y="3121"/>
+	<Point x="1742" y="3121"/>
+	<Point x="1742" y="3204"/>
+	<Point x="1642" y="3204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>17</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="907" y="1916"/>
+	<Point x="907" y="1941"/>
+	<Point x="1071" y="1941"/>
+	<Point x="1071" y="1916"/></Coords></SeparatorRegion>
+	<GraphicRegion id="r11" type="handwritten-annotation">
+	<Coords>
+	<Point x="526" y="11"/>
+	<Point x="526" y="192"/>
+	<Point x="1800" y="192"/>
+	<Point x="1800" y="11"/></Coords></GraphicRegion></Page></PcGts>

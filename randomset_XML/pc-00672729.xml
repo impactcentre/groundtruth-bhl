@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672729">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:34:22</Created>
+	<LastChange>2012-02-10T10:29:45</LastChange></Metadata>
+	<Page imageFilename="00672729.tif" imageWidth="2385" imageHeight="3445">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="164" y="811"/>
+	<Point x="2272" y="811"/>
+	<Point x="2272" y="2535"/>
+	<Point x="164" y="2535"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="507" y="2642"/>
+	<Point x="1857" y="2642"/>
+	<Point x="1857" y="2746"/>
+	<Point x="507" y="2746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MR. VERO SHAW'S BULL TERRIERS “TARQUIN” AND “NAPPER.”</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669251">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:42:45</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669251.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="72" y="274"/>
+	<Point x="1541" y="274"/>
+	<Point x="1541" y="1202"/>
+	<Point x="72" y="1202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>parlèrent de ces faux, de ces tœnia, que d’après
+ces premiers ichthyologistes, et ils durent
+les laisser séparés; mais Linné, ne pouvant,
+d’après des descriptions trop incomplètes,
+se rendre un compte exact de leurs carac-
+tères distinctifs, les négligea tout-à-fait dans
+le Systema naturœ, ce qui les ﬁt mettre en
+oubli par tous ses disciples; et lorsque quel‐
+ques-uns de ceux-ci retrouvèrent des poissons
+analogues, ils les crurent des espèces non dé‐
+crites, et leur donnèrent de nouveaux noms.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="55" y="1206"/>
+	<Point x="1518" y="1206"/>
+	<Point x="1518" y="1798"/>
+	<Point x="55" y="1798"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tels furent entre autres Olafsen et Powel-
+sen qui, dans leur description de l’Islande (trad.
+franç., p. 339 et pl. 51), représentèrent comme
+un trichiure, et sous le nom islandais de vog-
+mar ou demoiselle des ﬂots, un grand tra-
+chyptère privé de ses ventrales et de sa na‐
+geoire de la nuque.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="88" y="1801"/>
+	<Point x="1544" y="1801"/>
+	<Point x="1541" y="2473"/>
+	<Point x="84" y="2472"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tel fut encore Brünnich, qui décrivit en
+1788 ce même vogmar ou bogmar, mais
+d’après un échantillon sec et aussi mutilé
+que celui des voyageurs islandais, dans le
+t. III des Nouveaux mémoires de la société
+des sciences de Copenhague, p. 408, et pl.
+13, ﬁg. 1, 2 et 3, et l’appela Gymnogaster
+arcticus1. Cest sur cet article de Brünnich</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="85" y="2525"/>
+	<Point x="1545" y="2525"/>
+	<Point x="1545" y="2677"/>
+	<Point x="85" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Sa ﬁgure est copiée par Walbaum dans l’Artedius renovatus,
+3.e part., pl. 3, ﬁg. 1.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="106" y="2490"/>
+	<Point x="106" y="2517"/>
+	<Point x="1514" y="2517"/>
+	<Point x="1514" y="2490"/></Coords></SeparatorRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="297" y="152"/>
+	<Point x="1293" y="152"/>
+	<Point x="1293" y="258"/>
+	<Point x="297" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES ET GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1363" y="152"/>
+	<Point x="1518" y="152"/>
+	<Point x="1518" y="258"/>
+	<Point x="1363" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>319</Unicode></TextEquiv></TextRegion></Page></PcGts>

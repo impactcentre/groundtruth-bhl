@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668718">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T21:59:13</Created>
+	<LastChange>2012-02-10T10:29:32</LastChange></Metadata>
+	<Page imageFilename="00668718.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r19" index="6"/>
+	<RegionRefIndexed regionRef="r23" index="7"/>
+	<RegionRefIndexed regionRef="r25" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r27" index="10"/>
+	<RegionRefIndexed regionRef="r29" index="11"/>
+	<RegionRefIndexed regionRef="r11" index="12"/>
+	<RegionRefIndexed regionRef="r12" index="13"/>
+	<RegionRefIndexed regionRef="r13" index="14"/>
+	<RegionRefIndexed regionRef="r14" index="15"/>
+	<RegionRefIndexed regionRef="r15" index="16"/>
+	<RegionRefIndexed regionRef="r16" index="17"/>
+	<RegionRefIndexed regionRef="r17" index="18"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1100" y="113"/>
+	<Point x="1567" y="113"/>
+	<Point x="1567" y="163"/>
+	<Point x="1100" y="163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.—PLATE XXI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="629" y="207"/>
+	<Point x="1086" y="207"/>
+	<Point x="1086" y="268"/>
+	<Point x="629" y="268"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 95. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="404" y="275"/>
+	<Point x="1309" y="275"/>
+	<Point x="1310" y="510"/>
+	<Point x="835" y="510"/>
+	<Point x="821" y="516"/>
+	<Point x="404" y="516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA ISABELLINA. Achat. testâ fusiformi-oblongâ,
+anfractibus sex, convexis, sub lente minutissimè decus-
+satim striatis, ad suturas marginatis, columellâ ob-
+liquâ, sublatè truncatâ, aperturâ ovatâ; pellucido-
+corneâ, sordidè albicante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="396" y="521"/>
+	<Point x="825" y="521"/>
+	<Point x="840" y="515"/>
+	<Point x="1309" y="514"/>
+	<Point x="1308" y="757"/>
+	<Point x="396" y="758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SOILED ACHATINA. Shell fusiformly oblong, whorls
+six in number, convex, very minutely decussately
+striated beneath the lens, margined at the sutures,
+columella oblique, rather broadly truncated, aperture
+ovate; transparent horny, dull whitish.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="405" y="761"/>
+	<Point x="1028" y="760"/>
+	<Point x="1029" y="807"/>
+	<Point x="405" y="807"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc. 1846, p. 31.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="407" y="811"/>
+	<Point x="635" y="811"/>
+	<Point x="635" y="851"/>
+	<Point x="407" y="851"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Mexico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="397" y="865"/>
+	<Point x="1305" y="865"/>
+	<Point x="1305" y="967"/>
+	<Point x="397" y="967"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A shell of rather ﬁrm growth, though of transparent
+substance.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1422" y="203"/>
+	<Point x="2245" y="203"/>
+	<Point x="2245" y="305"/>
+	<Point x="1422" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rather deeply arched, aperture small; brownish
+horny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1350" y="421"/>
+	<Point x="2251" y="421"/>
+	<Point x="2251" y="575"/>
+	<Point x="1350" y="575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Very closely allied to A. crassilabris, from which it
+mainly diﬀers in being of a rather more elongated form,
+and not impressly crenulated.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="1571" y="668"/>
+	<Point x="2031" y="668"/>
+	<Point x="2031" y="720"/>
+	<Point x="1571" y="720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 113. (Mus. Benson.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1351" y="735"/>
+	<Point x="2251" y="735"/>
+	<Point x="2251" y="930"/>
+	<Point x="1352" y="931"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA OREAS. Achat. testâ oblongo-conicâ, anfrac‐
+tibus septem, convexis, ad suturas subtiliter marginatis,
+longitudinaliter obscurè impresso-striatis, columellâ
+arcuatâ, aperturâ parvâ; fusco-corneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1353" y="934"/>
+	<Point x="2250" y="931"/>
+	<Point x="2253" y="1123"/>
+	<Point x="1351" y="1123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MOUNTAIN‐NYMPH ACHATINA. Shell oblong-conical,
+whorls seven in number, convex, ﬁnely margined at
+the sutures, longitudinally obscurely impressly stria‐
+ted, columella arched, aperture small; brown horny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1351" y="1127"/>
+	<Point x="1575" y="1127"/>
+	<Point x="1575" y="1170"/>
+	<Point x="1351" y="1170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BENSON, MS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1353" y="1174"/>
+	<Point x="1977" y="1174"/>
+	<Point x="1977" y="1224"/>
+	<Point x="1353" y="1224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Nilgherries, Hindoostan; Jerdon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1352" y="1243"/>
+	<Point x="2251" y="1243"/>
+	<Point x="2251" y="1349"/>
+	<Point x="1352" y="1349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Another interesting species of the Nilgherry type, ap‐
+proaching to the form of A. Jerdoni.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords>
+	<Point x="627" y="1045"/>
+	<Point x="1088" y="1045"/>
+	<Point x="1088" y="1103"/>
+	<Point x="627" y="1103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 102. (Mus. Benson.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="404" y="1109"/>
+	<Point x="1309" y="1109"/>
+	<Point x="1310" y="1254"/>
+	<Point x="406" y="1259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA PERROTTETI. Achat. testâ pyramidali-conicâ,
+anfractibus octo, rotundatis, lœvibus, columellâ subpro-
+fundè arcuatâ, aperturâ parvâ; fusco-corneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="407" y="1262"/>
+	<Point x="1308" y="1258"/>
+	<Point x="1308" y="1362"/>
+	<Point x="408" y="1362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PERROTTET’S ACHATINA. Shell pyramidally conical,
+whorls eight in number, rounded, smooth, columella</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1351" y="309"/>
+	<Point x="2035" y="309"/>
+	<Point x="2035" y="353"/>
+	<Point x="1351" y="353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Revue Zool. Cuv., 1842, p. 305.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1351" y="356"/>
+	<Point x="1977" y="356"/>
+	<Point x="1977" y="403"/>
+	<Point x="1351" y="403"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Nilgherries, Hindoostan; Jerdon.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r30">
+	<Coords>
+	<Point x="637" y="996"/>
+	<Point x="1066" y="996"/>
+	<Point x="1066" y="1020"/>
+	<Point x="637" y="1020"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r32">
+	<Coords>
+	<Point x="1316" y="218"/>
+	<Point x="1341" y="218"/>
+	<Point x="1341" y="1339"/>
+	<Point x="1316" y="1339"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r33">
+	<Coords>
+	<Point x="1562" y="609"/>
+	<Point x="2032" y="609"/>
+	<Point x="2032" y="632"/>
+	<Point x="1562" y="632"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r36">
+	<Coords>
+	<Point x="1110" y="1521"/>
+	<Point x="1566" y="1521"/>
+	<Point x="1566" y="1543"/>
+	<Point x="1110" y="1543"/></Coords></SeparatorRegion></Page></PcGts>

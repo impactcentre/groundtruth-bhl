@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669269">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T16:45:31</Created>
+	<LastChange>2012-03-12T14:33:53</LastChange></Metadata>
+	<Page imageFilename="00669269.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="124" y="246"/>
+	<Point x="1498" y="246"/>
+	<Point x="1498" y="2589"/>
+	<Point x="124" y="2589"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’épaule n’a pas d’armure particulière; la pecto‐
+rale s’attache vers le quart inférieur de la hauteur,
+et est d’une petitesse remarquable; sa longueur ne
+fait guère que le quart de la hauteur du poisson;
+elle a onze rayons, dont le premier court, et le
+deuxième assez fort. Les ventrales sont suspendues
+sous la base des pectorales: dans ceux de nos échan‐
+tillons où elles sont le mieux conservées, elles ont
+le cinquième de la longueur du corps sans la cau‐
+dale. On y compte huit rayons très-ﬁns, dont le
+premier est légèrement épineux. Nous n’avons de
+rayons du panache que dans un seul individu, qui
+même n’en a conservé que deux, dont le plus long,
+très-grêle, légèrement épineux, a aussi le cinquième
+de la longueur; dans tous les autres, les sept ou
+huit rayons qui composent le panache, sont rasés
+presque jusqu’à la peau; néanmoins on voit bien
+qu’il y avait là une nageoire particulière, parce que
+les rayons de la deuxième dorsale recommencent
+plus minces et plus écartés que les racines de cette
+première dorsale ou, si l’on veut, de ce premier lobe
+de la dorsale. Ces rayons augmentent bientôt, et la
+deuxième dorsale a sur presque toute sa longueur à
+peu près moitié ou les deux tiers de celle du corps. En
+arrière elle diminue de nouveau. Le nombre total
+de ces rayons, sans ceux du panache, varie dans
+nos individus de cent soixante-deux à cent soixante-
+huit; mais il faut de l’attention pour les compter,
+autrement on pourrait ne pas voir quelques-uns des
+premiers et plusieurs des derniers. Ils sont tous grêles,
+ﬂexibles, et je n’y ai aperçu ni branches ni articu‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="202" y="2605"/>
+	<Point x="311" y="2605"/>
+	<Point x="311" y="2664"/>
+	<Point x="202" y="2664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1168" y="2600"/>
+	<Point x="1262" y="2600"/>
+	<Point x="1262" y="2653"/>
+	<Point x="1168" y="2653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>22</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="467" y="148"/>
+	<Point x="1108" y="148"/>
+	<Point x="1108" y="228"/>
+	<Point x="467" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="page-number">
+	<Coords>
+	<Point x="1348" y="142"/>
+	<Point x="1483" y="142"/>
+	<Point x="1483" y="224"/>
+	<Point x="1348" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>337</Unicode></TextEquiv></TextRegion></Page></PcGts>

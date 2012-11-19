@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672192">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T13:43:17</Created>
+	<LastChange>2012-02-10T09:53:59</LastChange></Metadata>
+	<Page imageFilename="00672192.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r65" index="0"/>
+	<RegionRefIndexed regionRef="r71" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r245" index="5"/>
+	<RegionRefIndexed regionRef="r87" index="6"/>
+	<RegionRefIndexed regionRef="r11" index="7"/>
+	<RegionRefIndexed regionRef="r12" index="8"/>
+	<RegionRefIndexed regionRef="r13" index="9"/>
+	<RegionRefIndexed regionRef="r89" index="10"/>
+	<RegionRefIndexed regionRef="r95" index="11"/>
+	<RegionRefIndexed regionRef="r16" index="12"/>
+	<RegionRefIndexed regionRef="r17" index="13"/>
+	<RegionRefIndexed regionRef="r97" index="14"/>
+	<RegionRefIndexed regionRef="r103" index="15"/>
+	<RegionRefIndexed regionRef="r113" index="16"/>
+	<RegionRefIndexed regionRef="r121" index="17"/>
+	<RegionRefIndexed regionRef="r127" index="18"/>
+	<RegionRefIndexed regionRef="r20" index="19"/>
+	<RegionRefIndexed regionRef="r21" index="20"/>
+	<RegionRefIndexed regionRef="r129" index="21"/>
+	<RegionRefIndexed regionRef="r137" index="22"/>
+	<RegionRefIndexed regionRef="r143" index="23"/>
+	<RegionRefIndexed regionRef="r24" index="24"/>
+	<RegionRefIndexed regionRef="r25" index="25"/>
+	<RegionRefIndexed regionRef="r27" index="26"/>
+	<RegionRefIndexed regionRef="r29" index="27"/>
+	<RegionRefIndexed regionRef="r145" index="28"/>
+	<RegionRefIndexed regionRef="r153" index="29"/>
+	<RegionRefIndexed regionRef="r161" index="30"/>
+	<RegionRefIndexed regionRef="r167" index="31"/>
+	<RegionRefIndexed regionRef="r177" index="32"/>
+	<RegionRefIndexed regionRef="r187" index="33"/>
+	<RegionRefIndexed regionRef="r193" index="34"/>
+	<RegionRefIndexed regionRef="r195" index="35"/>
+	<RegionRefIndexed regionRef="r201" index="36"/>
+	<RegionRefIndexed regionRef="r34" index="37"/>
+	<RegionRefIndexed regionRef="r35" index="38"/>
+	<RegionRefIndexed regionRef="r36" index="39"/>
+	<RegionRefIndexed regionRef="r37" index="40"/>
+	<RegionRefIndexed regionRef="r38" index="41"/>
+	<RegionRefIndexed regionRef="r39" index="42"/>
+	<RegionRefIndexed regionRef="r40" index="43"/>
+	<RegionRefIndexed regionRef="r41" index="44"/>
+	<RegionRefIndexed regionRef="r43" index="45"/>
+	<RegionRefIndexed regionRef="r44" index="46"/>
+	<RegionRefIndexed regionRef="r45" index="47"/>
+	<RegionRefIndexed regionRef="r47" index="48"/>
+	<RegionRefIndexed regionRef="r203" index="49"/>
+	<RegionRefIndexed regionRef="r209" index="50"/>
+	<RegionRefIndexed regionRef="r51" index="51"/>
+	<RegionRefIndexed regionRef="r53" index="52"/>
+	<RegionRefIndexed regionRef="r212" index="53"/>
+	<RegionRefIndexed regionRef="r220" index="54"/>
+	<RegionRefIndexed regionRef="r226" index="55"/>
+	<RegionRefIndexed regionRef="r228" index="56"/>
+	<RegionRefIndexed regionRef="r242" index="57"/>
+	<RegionRefIndexed regionRef="r218" index="58"/>
+	<RegionRefIndexed regionRef="r251" index="59"/>
+	<RegionRefIndexed regionRef="r257" index="60"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1035" y="172"/>
+	<Point x="1315" y="172"/>
+	<Point x="1315" y="224"/>
+	<Point x="1035" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— XX —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="275" y="1070"/>
+	<Point x="856" y="1070"/>
+	<Point x="856" y="1128"/>
+	<Point x="275" y="1128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1873. Kabloukoff (Paul).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="278" y="1131"/>
+	<Point x="881" y="1131"/>
+	<Point x="881" y="1190"/>
+	<Point x="278" y="1190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1877. Kastorsky (Michel).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="273" y="1429"/>
+	<Point x="746" y="1428"/>
+	<Point x="745" y="1486"/>
+	<Point x="273" y="1486"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1879. Ladent (Nic).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="277" y="1490"/>
+	<Point x="1096" y="1486"/>
+	<Point x="1096" y="1545"/>
+	<Point x="277" y="1545"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1870. Lang (Henri). — Lépidoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="274" y="1904"/>
+	<Point x="900" y="1904"/>
+	<Point x="900" y="1962"/>
+	<Point x="273" y="1962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1880. Moïssejenko (Olga).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="363" y="2260"/>
+	<Point x="1054" y="2260"/>
+	<Point x="1054" y="2318"/>
+	<Point x="363" y="2318"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Obert (Jean). — Coléoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1209" y="302"/>
+	<Point x="1794" y="302"/>
+	<Point x="1794" y="365"/>
+	<Point x="1210" y="364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1876. Pestovsky (Alexis).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="1200" y="1080"/>
+	<Point x="1709" y="1080"/>
+	<Point x="1709" y="1135"/>
+	<Point x="1200" y="1135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1879. Réchétine (N.).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="1200" y="1139"/>
+	<Point x="1966" y="1139"/>
+	<Point x="1966" y="1199"/>
+	<Point x="1200" y="1199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1861. Renard (Charles), à Moscou.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="1201" y="1202"/>
+	<Point x="1759" y="1201"/>
+	<Point x="1759" y="1257"/>
+	<Point x="1201" y="1256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1880. Richter (Antoine).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="1198" y="1259"/>
+	<Point x="1883" y="1259"/>
+	<Point x="1883" y="1314"/>
+	<Point x="1198" y="1314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1863. Schtschepkine (Serge).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1199" y="1318"/>
+	<Point x="2068" y="1315"/>
+	<Point x="2068" y="1490"/>
+	<Point x="1199" y="1490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1876. Sélivanoff (Alexis), à Skopine
+(Gouvr. de Riasane). — Myria‐
+podes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="1201" y="1493"/>
+	<Point x="1756" y="1493"/>
+	<Point x="1756" y="1551"/>
+	<Point x="1201" y="1551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1864. Sidoroff (Michel).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="1201" y="1555"/>
+	<Point x="1798" y="1555"/>
+	<Point x="1798" y="1609"/>
+	<Point x="1201" y="1609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1869. Sievers (Guillaume).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1202" y="1728"/>
+	<Point x="1751" y="1731"/>
+	<Point x="1751" y="1785"/>
+	<Point x="1202" y="1786"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1878. Solotoff (Joseph).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="1202" y="1789"/>
+	<Point x="1857" y="1789"/>
+	<Point x="2059" y="1786"/>
+	<Point x="2059" y="1899"/>
+	<Point x="1410" y="1903"/>
+	<Point x="1202" y="1902"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1861. Tengstroem, à Kexholm. — Lé‐
+pidoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="1198" y="2500"/>
+	<Point x="1993" y="2500"/>
+	<Point x="1993" y="2559"/>
+	<Point x="1198" y="2559"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1877. Zvetoff (Sèrge), à Habarovka.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="284" y="294"/>
+	<Point x="763" y="294"/>
+	<Point x="763" y="355"/>
+	<Point x="284" y="355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1880. Hansen (Em.).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords>
+	<Point x="275" y="357"/>
+	<Point x="1150" y="360"/>
+	<Point x="1151" y="472"/>
+	<Point x="275" y="473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1873. Hedemann (Guillaume de). — Lé‐
+pidoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="279" y="478"/>
+	<Point x="1146" y="478"/>
+	<Point x="1146" y="592"/>
+	<Point x="279" y="592"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1873. Heydenreich (Léon). — Ento‐
+mologie appliquée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="359" y="597"/>
+	<Point x="1139" y="597"/>
+	<Point x="1139" y="703"/>
+	<Point x="359" y="703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Hueber (Alexdr.) — Lépidop‐
+tères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r87" type="paragraph">
+	<Coords>
+	<Point x="273" y="950"/>
+	<Point x="675" y="952"/>
+	<Point x="1143" y="950"/>
+	<Point x="1143" y="1068"/>
+	<Point x="273" y="1068"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1874. Iversen (Vlad.) Entomologie ap‐
+pliquée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="277" y="1194"/>
+	<Point x="767" y="1192"/>
+	<Point x="897" y="1194"/>
+	<Point x="1137" y="1190"/>
+	<Point x="1137" y="1301"/>
+	<Point x="275" y="1301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1878. Kavrigine (Nicolas). — Lépidop‐
+tères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r89" type="paragraph">
+	<Coords>
+	<Point x="276" y="1306"/>
+	<Point x="1096" y="1306"/>
+	<Point x="1096" y="1365"/>
+	<Point x="276" y="1365"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1874. Keller (Jean). — Lépidoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r95" type="paragraph">
+	<Coords>
+	<Point x="275" y="1367"/>
+	<Point x="965" y="1367"/>
+	<Point x="965" y="1425"/>
+	<Point x="275" y="1425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1871. Kousitchkine (Nicolas).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r97" type="paragraph">
+	<Coords>
+	<Point x="277" y="1548"/>
+	<Point x="1061" y="1548"/>
+	<Point x="1061" y="1604"/>
+	<Point x="277" y="1604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1876. Machine (Vlad.), à Simbirsk.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r103" type="paragraph">
+	<Coords>
+	<Point x="270" y="1607"/>
+	<Point x="1144" y="1607"/>
+	<Point x="1144" y="1724"/>
+	<Point x="270" y="1724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1870. Malthé (Jean), à Starodoube. —
+Coléoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r113" type="paragraph">
+	<Coords>
+	<Point x="274" y="1727"/>
+	<Point x="796" y="1727"/>
+	<Point x="796" y="1783"/>
+	<Point x="274" y="1783"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1874. Marini (George).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r121" type="paragraph">
+	<Coords>
+	<Point x="275" y="1785"/>
+	<Point x="956" y="1785"/>
+	<Point x="956" y="1845"/>
+	<Point x="275" y="1845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1863. Meinshausen (Charles).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r127" type="paragraph">
+	<Coords>
+	<Point x="276" y="1847"/>
+	<Point x="855" y="1847"/>
+	<Point x="855" y="1901"/>
+	<Point x="276" y="1901"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1863. Mercklin (Charles).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="372" y="1965"/>
+	<Point x="1135" y="1967"/>
+	<Point x="1135" y="2076"/>
+	<Point x="529" y="2076"/>
+	<Point x="372" y="2075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Morawitz (Ferdinand). — Hymé‐
+noptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r129" type="paragraph">
+	<Coords>
+	<Point x="374" y="2079"/>
+	<Point x="794" y="2080"/>
+	<Point x="793" y="2138"/>
+	<Point x="375" y="2134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Mossin (Roman).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r137" type="paragraph">
+	<Coords>
+	<Point x="281" y="2139"/>
+	<Point x="898" y="2144"/>
+	<Point x="898" y="2201"/>
+	<Point x="281" y="2200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1876. Münster (Alexandre).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r143" type="paragraph">
+	<Coords>
+	<Point x="279" y="2203"/>
+	<Point x="1003" y="2203"/>
+	<Point x="1003" y="2254"/>
+	<Point x="279" y="2254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1878. Nielsen (Nic), à Irkoutsk.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r145" type="paragraph">
+	<Coords>
+	<Point x="1206" y="371"/>
+	<Point x="2066" y="370"/>
+	<Point x="2066" y="476"/>
+	<Point x="1406" y="481"/>
+	<Point x="1204" y="478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1868. Pétroff (Alexdr.). — Entomologie
+gènérale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r153" type="paragraph">
+	<Coords>
+	<Point x="1205" y="486"/>
+	<Point x="1735" y="484"/>
+	<Point x="1736" y="544"/>
+	<Point x="1206" y="544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1876. Pétroff (Michel).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r161" type="paragraph">
+	<Coords>
+	<Point x="1205" y="547"/>
+	<Point x="2033" y="545"/>
+	<Point x="2033" y="602"/>
+	<Point x="1205" y="602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1872. Plotnikoff (Simon), à Saratow.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r167" type="paragraph">
+	<Coords>
+	<Point x="1205" y="606"/>
+	<Point x="2068" y="606"/>
+	<Point x="2068" y="718"/>
+	<Point x="1205" y="718"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1879. Pluschevsky — Pluschik (Wlad.).
+— Coléoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r177" type="paragraph">
+	<Coords>
+	<Point x="1205" y="722"/>
+	<Point x="1782" y="722"/>
+	<Point x="1781" y="781"/>
+	<Point x="1204" y="777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1874. Polétaeff (Nicolas).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r187" type="paragraph">
+	<Coords>
+	<Point x="1204" y="781"/>
+	<Point x="1736" y="783"/>
+	<Point x="1735" y="839"/>
+	<Point x="1204" y="838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1874. Polétaeff (Olga).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r193" type="paragraph">
+	<Coords>
+	<Point x="1205" y="840"/>
+	<Point x="1777" y="842"/>
+	<Point x="1777" y="900"/>
+	<Point x="1205" y="900"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1870. Pollitz (Guillaume).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r195" type="paragraph">
+	<Coords>
+	<Point x="1203" y="903"/>
+	<Point x="2072" y="900"/>
+	<Point x="2072" y="959"/>
+	<Point x="1203" y="959"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1872. Portchinsky (Joseph).— Diptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r201" type="paragraph">
+	<Coords>
+	<Point x="1203" y="962"/>
+	<Point x="2073" y="962"/>
+	<Point x="2073" y="1077"/>
+	<Point x="1203" y="1077"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1870. Pouzilo (Michel), à Rostow.— Lé‐
+pidoptères, coléoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="1205" y="1909"/>
+	<Point x="2061" y="1906"/>
+	<Point x="2061" y="2019"/>
+	<Point x="1594" y="2021"/>
+	<Point x="1205" y="2017"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1874. Toursky (Mitr.) à Petrovsky-Ra-
+soumovsky, Moscou.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="1204" y="2027"/>
+	<Point x="2053" y="2025"/>
+	<Point x="2053" y="2138"/>
+	<Point x="1204" y="2142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1875. Tchekhoff (Alexandre). — Co‐
+léoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r209" type="paragraph">
+	<Coords>
+	<Point x="1200" y="2263"/>
+	<Point x="1724" y="2265"/>
+	<Point x="1724" y="2322"/>
+	<Point x="1200" y="2319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1880. Woldstedt (W.).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r203" type="paragraph">
+	<Coords>
+	<Point x="1203" y="2144"/>
+	<Point x="2059" y="2144"/>
+	<Point x="2059" y="2260"/>
+	<Point x="1203" y="2260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1873. Wakoulowsky (Nicolas).— Ento‐
+mologie générale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="1202" y="2326"/>
+	<Point x="1662" y="2325"/>
+	<Point x="2060" y="2323"/>
+	<Point x="2060" y="2481"/>
+	<Point x="1494" y="2487"/>
+	<Point x="1198" y="2488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1870. Yakovleff (Basil), à Astrakhan.
+Hémiptères, orthoptères, coléop‐
+tères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r212" type="heading">
+	<Coords>
+	<Point x="1003" y="2611"/>
+	<Point x="1329" y="2611"/>
+	<Point x="1329" y="2673"/>
+	<Point x="1003" y="2673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A l'étranger.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r218" type="paragraph">
+	<Coords>
+	<Point x="1202" y="2693"/>
+	<Point x="2067" y="2693"/>
+	<Point x="2067" y="2881"/>
+	<Point x="1202" y="2881"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1870. Desmartis (le docteur Télèphe),
+à Bordeaux. — Entomologie ap‐
+pliquée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r220" type="paragraph">
+	<Coords>
+	<Point x="278" y="2694"/>
+	<Point x="1148" y="2694"/>
+	<Point x="1148" y="2814"/>
+	<Point x="278" y="2814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1865. Bonvouloir (le vicomte Henri de),
+à Paris. — Coléoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r226" type="paragraph">
+	<Coords>
+	<Point x="278" y="2818"/>
+	<Point x="1137" y="2818"/>
+	<Point x="1137" y="2924"/>
+	<Point x="497" y="2931"/>
+	<Point x="278" y="2927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1867. Candèze (E.), à Liège. — Colé‐
+optères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r242" type="paragraph">
+	<Coords>
+	<Point x="278" y="3053"/>
+	<Point x="1043" y="3053"/>
+	<Point x="1043" y="3116"/>
+	<Point x="278" y="3116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1878. Delmas (Louis), à Наvаnnе.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r228" type="paragraph">
+	<Coords>
+	<Point x="281" y="2932"/>
+	<Point x="525" y="2936"/>
+	<Point x="1138" y="2932"/>
+	<Point x="1138" y="3048"/>
+	<Point x="656" y="3050"/>
+	<Point x="281" y="3048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1862. Costa (Achille), à Naples.— Ento‐
+mologie générale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r245" type="paragraph">
+	<Coords>
+	<Point x="275" y="892"/>
+	<Point x="888" y="892"/>
+	<Point x="890" y="948"/>
+	<Point x="698" y="949"/>
+	<Point x="275" y="946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1879. Ismailoff (Alexdr.).</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r248">
+	<Coords>
+	<Point x="1160" y="306"/>
+	<Point x="1191" y="306"/>
+	<Point x="1191" y="388"/>
+	<Point x="1190" y="506"/>
+	<Point x="1191" y="518"/>
+	<Point x="1191" y="2566"/>
+	<Point x="1160" y="2566"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r249">
+	<Coords>
+	<Point x="1162" y="2705"/>
+	<Point x="1162" y="3114"/>
+	<Point x="1188" y="3114"/>
+	<Point x="1188" y="2705"/></Coords></SeparatorRegion>
+	<TextRegion id="r251" type="paragraph">
+	<Coords>
+	<Point x="1198" y="2883"/>
+	<Point x="2070" y="2883"/>
+	<Point x="2070" y="2995"/>
+	<Point x="1198" y="2995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1870. Deyrolle (Emil), à Paris. — Co‐
+léoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r257" type="paragraph">
+	<Coords>
+	<Point x="1198" y="3000"/>
+	<Point x="2075" y="3000"/>
+	<Point x="2075" y="3121"/>
+	<Point x="1198" y="3121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1871. Emich (Gustave), à Pesth.— Lé‐
+pidoptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="279" y="711"/>
+	<Point x="1150" y="711"/>
+	<Point x="1149" y="883"/>
+	<Point x="531" y="888"/>
+	<Point x="279" y="887"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1875. Huene de Hoïningen (Baron
+Frédéric), en Esthonie. — Lépi‐
+doptères.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1135" y="2319"/>
+	<Point x="1135" y="2375"/>
+	<Point x="1029" y="2375"/>
+	<Point x="1029" y="2435"/>
+	<Point x="1029" y="2434"/>
+	<Point x="888" y="2434"/>
+	<Point x="888" y="2433"/>
+	<Point x="747" y="2433"/>
+	<Point x="747" y="2432"/>
+	<Point x="606" y="2432"/>
+	<Point x="606" y="2431"/>
+	<Point x="465" y="2431"/>
+	<Point x="465" y="2375"/>
+	<Point x="280" y="2375"/>
+	<Point x="280" y="2322"/>
+	<Point x="565" y="2322"/>
+	<Point x="565" y="2321"/>
+	<Point x="850" y="2321"/>
+	<Point x="850" y="2320"/>
+	<Point x="1135" y="2320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1873. Osnobichine (Jean), à Simbirsk.
+— Entomologie appliquée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="272" y="2437"/>
+	<Point x="272" y="2438"/>
+	<Point x="380" y="2438"/>
+	<Point x="380" y="2439"/>
+	<Point x="488" y="2439"/>
+	<Point x="488" y="2440"/>
+	<Point x="596" y="2440"/>
+	<Point x="596" y="2441"/>
+	<Point x="703" y="2441"/>
+	<Point x="703" y="2442"/>
+	<Point x="811" y="2442"/>
+	<Point x="811" y="2443"/>
+	<Point x="919" y="2443"/>
+	<Point x="919" y="2444"/>
+	<Point x="1027" y="2444"/>
+	<Point x="1027" y="2445"/>
+	<Point x="1134" y="2445"/>
+	<Point x="1133" y="2445"/>
+	<Point x="1133" y="2501"/>
+	<Point x="1133" y="2500"/>
+	<Point x="1033" y="2500"/>
+	<Point x="1033" y="2499"/>
+	<Point x="850" y="2499"/>
+	<Point x="850" y="2560"/>
+	<Point x="463" y="2560"/>
+	<Point x="463" y="2495"/>
+	<Point x="326" y="2495"/>
+	<Point x="326" y="2496"/>
+	<Point x="272" y="2496"/>
+	<Point x="272" y="2497"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1874. Pavlowitch (Boleslas). — Ento‐
+mologie appliquée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="2059" y="1611"/>
+	<Point x="2060" y="1611"/>
+	<Point x="2060" y="1612"/>
+	<Point x="2059" y="1612"/>
+	<Point x="2059" y="1669"/>
+	<Point x="1855" y="1669"/>
+	<Point x="1855" y="1727"/>
+	<Point x="1386" y="1727"/>
+	<Point x="1386" y="1669"/>
+	<Point x="1202" y="1669"/>
+	<Point x="1202" y="1613"/>
+	<Point x="1631" y="1613"/>
+	<Point x="1631" y="1612"/>
+	<Point x="2059" y="1612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1876. Sievers (Gustave), à Tiflis.—
+Entomologie générale.</Unicode></TextEquiv></TextRegion></Page></PcGts>

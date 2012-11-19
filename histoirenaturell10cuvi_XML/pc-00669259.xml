@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669259">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T19:14:20</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669259.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="157" y="310"/>
+	<Point x="1574" y="310"/>
+	<Point x="1574" y="983"/>
+	<Point x="157" y="983"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>c’est qu’il n’a que deux nageoires, comme l’an‑
+guille et les muges du lac Sipaïs, ce qui signiﬁe
+qu’il manque de ventrales, Aristote n’appelant
+nageoires que les nageoires paires. Cela pour‑
+rait à la rigueur s’entendre des grands gym-
+nètres lorsqu’ils ont perdu ces nageoires,
+d’autant plus que leur forme répond assez bien
+à ce nom de tænia, ruban.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="156" y="990"/>
+	<Point x="1586" y="990"/>
+	<Point x="1586" y="2172"/>
+	<Point x="156" y="2172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’épithète d’��������, molles, qu’Oppien
+(Hal. I, v. 100) donne aux T������, convien‑
+drait encore passablement à ces poissons;
+mais d’un autre côté, on cite un passage de
+Speusippe1, dans Athénée, qui dit que le tœ-
+nia est semblable à la sole (����������) et à la
+barbue (������), et un autre d’Épicharme, où
+ce poisson est présenté comme un manger
+délicat2: deux circonstances que n’oﬀrent
+point nos trachyptères. En eﬀet, le témoi‑
+gnage de M. Risso conﬁrme celui de Bélon:
+il assure que leur chair est muqueuse et se
+décompose promptement, et dans sa nouvelle
+édition il la déclare molle et sans goût.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="161" y="2177"/>
+	<Point x="1590" y="2177"/>
+	<Point x="1590" y="2521"/>
+	<Point x="161" y="2521"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Leurs habitudes paraissent solitaires, et ils se
+tiennent en général dans la profondeur; cepen‑
+dant les jeunes, vers le printemps, se rappro-
+chent du rivage et les grands individus paraissent</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="224" y="2618"/>
+	<Point x="1588" y="2618"/>
+	<Point x="1588" y="2690"/>
+	<Point x="224" y="2690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Ath., 1. VII, S. 139, p. 329 F. — 2. Idem, 1. VII, p. 325 F.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="357" y="217"/>
+	<Point x="1368" y="217"/>
+	<Point x="1368" y="281"/>
+	<Point x="357" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES ET GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1435" y="206"/>
+	<Point x="1565" y="206"/>
+	<Point x="1565" y="281"/>
+	<Point x="1435" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>327</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="173" y="2558"/>
+	<Point x="173" y="2586"/>
+	<Point x="1588" y="2586"/>
+	<Point x="1589" y="2549"/></Coords></SeparatorRegion></Page></PcGts>

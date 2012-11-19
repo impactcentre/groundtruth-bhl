@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668966">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:08:22</Created>
+	<LastChange>2012-02-09T16:27:26</LastChange></Metadata>
+	<Page imageFilename="00668966.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="334" y="302"/>
+	<Point x="1779" y="302"/>
+	<Point x="1779" y="1332"/>
+	<Point x="334" y="1332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>et pesce pavotto1; mais j’ignore d’après quelle
+autorité il le dit. Je ne sais non plus sur quel
+témoignage il avance que sa chair est dure et
+répand quelquefois une mauvaise odeur, et je
+crains même qu’il n’ait appliqué au sanglier,
+������, ce qu’Athénée dit du capriscus. Néan‐
+moins son assertion à cet égard est répétée
+et même renforcée par M. Risso, selon lequel
+la chair de notre poisson a peu de goût et
+répand continuellement une mauvaise odeur.2
+Ni Rondelet ni Willughby n’avaient fait men‐
+tion de cette particularité.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="342" y="1335"/>
+	<Point x="1801" y="1335"/>
+	<Point x="1801" y="1768"/>
+	<Point x="342" y="1768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je ne compte point dans les noms vulgaires
+celui de verrat, que lui donne M. Risso, ni
+celui de capro arizzato, mentionné par M. Ra-
+ﬁnesque; ce sont trop évidemment des noms
+faits récemment d’après celui d’aper.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="391" y="1774"/>
+	<Point x="1800" y="1774"/>
+	<Point x="1800" y="2542"/>
+	<Point x="391" y="2542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le corps du sanglier est comprimé et son con‐
+tour vertical est un ovale prolongé en pointe, en
+avant, par le museau, en arrière, par la queue. Sa hau‐
+teur est un peu plus de deux fois dans sa longueur
+totale, et son épaisseur est environ du quart de sa
+hauteur; la tête, lorsque la bouche est dans l’état
+de retrait, fait le tiers de cette longueur. Elle diﬀère
+de la tête de la dorée, en ce que son chanfrein est
+concave, que sa mâchoire inférieure remonte un
+peu moins et que son préopercule n’est pas à beau-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="423" y="2613"/>
+	<Point x="671" y="2613"/>
+	<Point x="759" y="2614"/>
+	<Point x="1768" y="2613"/>
+	<Point x="1768" y="2702"/>
+	<Point x="423" y="2702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Lacép., IV, 591. — 2. Risso, Ichthyol. de Nice, p. 306.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="358" y="201"/>
+	<Point x="458" y="201"/>
+	<Point x="458" y="282"/>
+	<Point x="358" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>34</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="735" y="204"/>
+	<Point x="1402" y="204"/>
+	<Point x="1402" y="290"/>
+	<Point x="735" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="345" y="2548"/>
+	<Point x="345" y="2597"/>
+	<Point x="1775" y="2597"/>
+	<Point x="1775" y="2548"/></Coords></SeparatorRegion></Page></PcGts>

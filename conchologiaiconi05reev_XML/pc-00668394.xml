@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668394">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T20:49:14</Created>
+	<LastChange>2012-02-10T09:53:00</LastChange></Metadata>
+	<Page imageFilename="00668394.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="991" y="152"/>
+	<Point x="1477" y="152"/>
+	<Point x="1477" y="194"/>
+	<Point x="991" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE XXXIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="332" y="435"/>
+	<Point x="1220" y="435"/>
+	<Point x="1220" y="537"/>
+	<Point x="333" y="537"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The varieties of this species are strongly indicated in
+the distribution of the colouring matter of the aperture.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="1256" y="228"/>
+	<Point x="2152" y="228"/>
+	<Point x="2152" y="539"/>
+	<Point x="1256" y="539"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In most specimens the aperture is wholly lined with rich
+purple black, as in ﬁg. 203 c.; in some, the lip is produced
+a second time outwardly, as in ﬁg. 203 a, bordered with
+saﬀron yellow; whilst in others, as in ﬁg. 203 b, the
+aperture is white, and no purple-black is seen, excepting
+on the body whorl above the columella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="335" y="342"/>
+	<Point x="882" y="342"/>
+	<Point x="882" y="387"/>
+	<Point x="335" y="387"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eadem. Helix rhodospira, Moricand.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="339" y="394"/>
+	<Point x="530" y="394"/>
+	<Point x="530" y="432"/>
+	<Point x="339" y="432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Brazil.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="1014" y="766"/>
+	<Point x="1481" y="766"/>
+	<Point x="1481" y="790"/>
+	<Point x="1014" y="790"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="1229" y="237"/>
+	<Point x="1250" y="237"/>
+	<Point x="1250" y="537"/>
+	<Point x="1229" y="537"/></Coords></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="409" y="245"/>
+	<Point x="851" y="245"/>
+	<Point x="851" y="289"/>
+	<Point x="790" y="289"/>
+	<Point x="790" y="295"/>
+	<Point x="789" y="295"/>
+	<Point x="789" y="338"/>
+	<Point x="391" y="338"/>
+	<Point x="391" y="295"/>
+	<Point x="409" y="295"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Helix melanostoma, Férussac.
+Auris melanostoma, Spix.</Unicode></TextEquiv></TextRegion></Page></PcGts>

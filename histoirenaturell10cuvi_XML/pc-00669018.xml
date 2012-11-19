@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669018">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:14:29</Created>
+	<LastChange>2012-02-09T16:27:28</LastChange></Metadata>
+	<Page imageFilename="00669018.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r17" index="4"/>
+	<RegionRefIndexed regionRef="r23" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="363" y="284"/>
+	<Point x="1730" y="284"/>
+	<Point x="1729" y="964"/>
+	<Point x="793" y="970"/>
+	<Point x="363" y="977"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur est trois fois et demie dans sa longueur
+totale; sa tête (la bouche fermée) y est quatre fois.
+La courbe de son front et celle de sa nuque se
+continuent uniformément avec celle du dos et sans
+faire l’S, comme dans la plupart des précédens. Le
+second rayon de la dorsale est de force médiocre, et
+sa hauteur ne surpasse pas la moitié de celle du
+corps sous lui; celui de l’anale est un peu plus fort,
+mais un peu moins long.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="816" y="975"/>
+	<Point x="1337" y="975"/>
+	<Point x="1337" y="1050"/>
+	<Point x="816" y="1050"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 8/17; A. 3/14, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="360" y="1054"/>
+	<Point x="1045" y="1058"/>
+	<Point x="1735" y="1054"/>
+	<Point x="1735" y="1587"/>
+	<Point x="359" y="1589"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa ligne latérale s’eﬀace sur les côtés de la queue
+et il y manque ces écailles élargies des espèces pré‐
+cédentes. Tout le corps est argenté, légèrement
+teint de brunâtre ou de violâtre vers le dos. La
+moitié supérieure de chaque côté est semée de taches
+rondes ou ovales, inégales et irrégulières, noirâtres;
+les nageoires paraissent d’un gris jaunâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="303" y="1605"/>
+	<Point x="1740" y="1605"/>
+	<Point x="1740" y="1967"/>
+	<Point x="303" y="1967"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Notre individu n’est long que de deux
+pouces et demi. Plus récemment, M. Belan‐
+ger nous en a apporté des individus de même
+taille, péchés sur la côte de Malabar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="294" y="2295"/>
+	<Point x="1712" y="2295"/>
+	<Point x="1712" y="2670"/>
+	<Point x="294" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une espèce fort semblable pour la forme
+et pour la ligne latérale, a été prise à Java
+par MM. Quoy et Gaimard, et à Antjer, dans
+le détroit de la Sonde, par M. Raynaud.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="304" y="187"/>
+	<Point x="416" y="187"/>
+	<Point x="416" y="263"/>
+	<Point x="304" y="263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>86</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="680" y="189"/>
+	<Point x="1341" y="189"/>
+	<Point x="1341" y="270"/>
+	<Point x="680" y="270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="702" y="2061"/>
+	<Point x="1328" y="2061"/>
+	<Point x="1328" y="2150"/>
+	<Point x="702" y="2150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA BARIOLÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="769" y="2179"/>
+	<Point x="1274" y="2179"/>
+	<Point x="1274" y="2279"/>
+	<Point x="769" y="2279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Equula lineolata.</Unicode></TextEquiv></TextRegion></Page></PcGts>

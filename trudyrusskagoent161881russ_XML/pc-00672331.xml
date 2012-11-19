@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672331">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:12:20</Created>
+	<LastChange>2012-02-10T09:54:30</LastChange></Metadata>
+	<Page imageFilename="00672331.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="383" y="367"/>
+	<Point x="1569" y="367"/>
+	<Point x="1569" y="455"/>
+	<Point x="383" y="455"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sericomyia volucellina ♂ et ♀ nov. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="91" y="491"/>
+	<Point x="1849" y="491"/>
+	<Point x="1849" y="1321"/>
+	<Point x="91" y="1321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nigra nitida; capite ﬂavo in medio lineis duabus fuscis
+ornato; epistomate infra oculos perpendiculariter in conum
+elongatum descendente, lateribus utrinque vitta nigra, nitida;
+antennis brevibus, fuscis; articulo ultimo parvo, rotundato; seta
+longe plumata; oculis in mare arcte cohaerentibus in faemina
+per vittam nigram late disjunctis; thorace scutelloque nigris
+cinereo hirtis; maculis humeralibus rotundatis ﬂavidis; abdo-
+mine nigro incisuris segmentorum et fasciis 4 (♂) aut 6 (♀)
+latis ﬂavis; alis subhyalinis, ad costam longitudinaliter dimi-
+diato fuscis; pedibus ﬂavis, femoribus basi nigris. Long 61/2‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="224" y="1326"/>
+	<Point x="1119" y="1326"/>
+	<Point x="1119" y="1412"/>
+	<Point x="224" y="1412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Caucasus (Etschmiadzin).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="346" y="1541"/>
+	<Point x="1589" y="1541"/>
+	<Point x="1589" y="1630"/>
+	<Point x="346" y="1630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Microcephalus Neugebaueri ♂ nov. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="91" y="1678"/>
+	<Point x="1842" y="1678"/>
+	<Point x="1842" y="2424"/>
+	<Point x="91" y="2424"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Microcephalo Loewi Schnabl. simillimus a quo tantum la-
+titudine frontis et colore pilorum abdominis distinctus. Magnus
+niger nitidus longe et dense ﬂavo hirtus; oculis angustissime
+disjunctis; antennis totis luteo fuscis, genis nigris, nudis; tho-
+race supra radicem alarum et segmenta secundo abdominis la-
+teribus utrinque nigro hirtis; femoribus nigris et subtus nigro
+hirtis, tibiis tarsisque rufo-piceis; uncis pulvillisque tarsorum
+longis; alis fusco infumatis, venis nigro fuscis; nervo transverso
+primo in media parte non dilatato. Long. 91/4‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="224" y="2430"/>
+	<Point x="691" y="2430"/>
+	<Point x="691" y="2498"/>
+	<Point x="224" y="2498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Helvetia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="351" y="2633"/>
+	<Point x="1610" y="2633"/>
+	<Point x="1610" y="2712"/>
+	<Point x="351" y="2712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Echinomyia brevipalpis ♂ et ♀ nov. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="99" y="2766"/>
+	<Point x="1860" y="2766"/>
+	<Point x="1860" y="3096"/>
+	<Point x="99" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Parva, palpis sat brevibus, ﬂavis, ﬁliformibus; capite albo
+fusco micante; genis macrochetis praeditis; fronte in utroque
+sexu lata nigra, nitida, quadrifariam setosa, setis ocellaribus
+nullis, vitta frontali fulva, antennis fulvis, articulo ultimo nigro;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="798" y="123"/>
+	<Point x="1133" y="123"/>
+	<Point x="1133" y="216"/>
+	<Point x="798" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 137 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

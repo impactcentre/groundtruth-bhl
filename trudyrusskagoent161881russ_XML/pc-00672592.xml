@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672592">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:32:33</Created>
+	<LastChange>2012-02-10T09:55:15</LastChange></Metadata>
+	<Page imageFilename="00672592.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1019" y="123"/>
+	<Point x="1342" y="123"/>
+	<Point x="1342" y="200"/>
+	<Point x="1019" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 396 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="288" y="254"/>
+	<Point x="2038" y="254"/>
+	<Point x="2038" y="430"/>
+	<Point x="288" y="430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voici encore une espèce, qui quoique très hétérogène, doit
+cependant aussi, être placée dans le voisinage de la Semiargus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="288" y="435"/>
+	<Point x="2057" y="435"/>
+	<Point x="2057" y="1180"/>
+	<Point x="288" y="1180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les deux sexes sont d'un noir-brun foncé et ont la frange
+plus claire, quelquefois brunâtre, grisâtre ou d'un blanc-en-
+fumé, mais toujours plus claire vers l'apex des antérieures.
+Le thorax est, en dessus, recouvert de poils du brun-noir des
+ailes, ainsi que de poils bleus; mais ces derniers ne sont
+visibles que sur les individus d'un conservation parfaite. Le
+dèssous est d'un brun un peu grisâtre, les points allongés (ou
+lunules) centraux et une série de points, que se trouve entre
+ceux-ci et le bord extérieur, sont bruns cerclés de blanchâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="288" y="1188"/>
+	<Point x="2050" y="1188"/>
+	<Point x="2050" y="1516"/>
+	<Point x="288" y="1516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette série de points, qui se trouve sur toutes les ailes parallèle
+au bord, n'est composée que de trois ou quatres points (générale-
+ment) aux antérieures et occupe le milieu de celles-ci, c'est à
+dire que ces points n'arrivent ni à la côte, ni au bord interne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="292" y="1521"/>
+	<Point x="2047" y="1521"/>
+	<Point x="2047" y="1680"/>
+	<Point x="292" y="1680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette même série est complête aux inférieures, c. à d.
+qu'il se trouve un point entre chaque deux nervures.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="288" y="1688"/>
+	<Point x="2042" y="1688"/>
+	<Point x="2042" y="1850"/>
+	<Point x="288" y="1850"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'espèce assez râre, volait en Juin le long du Kounguesse
+entre 4 et 6000 pieds.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="278" y="1859"/>
+	<Point x="2038" y="1859"/>
+	<Point x="2038" y="2264"/>
+	<Point x="278" y="2264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'ai oublié de dire, que la massue des antennes est rouge-
+fauve en dessous, et cela d'une manière diﬀérente chez diﬀé-
+rents individus; c. à d. que chez les uns ce n'est que vers
+le bout, chez d'autre c'est plus de la moitié terminale, qui
+est de cette couleur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="259" y="2271"/>
+	<Point x="2030" y="2271"/>
+	<Point x="2030" y="2614"/>
+	<Point x="259" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>J'ai reçu une petite ♀, du Dr. Staudinger, de la Per-
+sephatta, provenant du Ferganah, qui ne me semble pas dif-
+férer de mes individus du Kounguesse, si ce n'est par une
+taille un peu moindre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="780" y="2669"/>
+	<Point x="1492" y="2669"/>
+	<Point x="1492" y="2769"/>
+	<Point x="780" y="2769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>56. L. Cyllarus Rott.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="261" y="2826"/>
+	<Point x="2014" y="2826"/>
+	<Point x="2014" y="3107"/>
+	<Point x="261" y="3107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Environs immédiats de Kouldjà en Avril et en Mai. Dé-
+ﬁlé de Talki et dans les montagnes du Tian-Chian jusqu'à
+une élévation de 7000´.</Unicode></TextEquiv></TextRegion></Page></PcGts>

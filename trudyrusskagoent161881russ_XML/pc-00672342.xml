@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672342">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:16:25</Created>
+	<LastChange>2012-02-10T09:54:31</LastChange></Metadata>
+	<Page imageFilename="00672342.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1005" y="110"/>
+	<Point x="1332" y="110"/>
+	<Point x="1332" y="176"/>
+	<Point x="1005" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 148 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="287" y="249"/>
+	<Point x="2032" y="249"/>
+	<Point x="2032" y="412"/>
+	<Point x="287" y="412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>marginatis; tuberculis lateralibus (spiraculis) primi segmenti fere
+in medio sitis, segmento secundo dorso striis nullis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="280" y="433"/>
+	<Point x="2033" y="433"/>
+	<Point x="2033" y="755"/>
+	<Point x="280" y="755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Organa genitalia et appendices caudales feminae ano clauso
+absconditae, pressione digitorum protrusae ex terebrâ brevi as-
+cendente testaceâ inter valvulas duas lanceolatas fuscas inclusâ
+constant.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="278" y="794"/>
+	<Point x="2041" y="794"/>
+	<Point x="2041" y="2205"/>
+	<Point x="278" y="2205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Habitat prope Mohileviam (ad Borysthenem) in sylvis um-
+brosis quercinis, sexennio 1863 — 1868, diebus 14 — 26
+Septembris eodem semper loco a me pluries capta. — Arbores
+quercinas, ubi Lasius fuliginosus Latr. in coloniis nombrosis
+nidiﬁcat, ascendens et usque ad terram descendens circumvoli-
+tat. Gregatim non ocurrit. Individua feminea tantum cepi; mas
+mihi ignotus. Diu incertus fui quale insectum hic Bracon in
+arboribus quercinis investigat, quercus enim caesas cum nidis
+Lasii fuliginosi Latr. mihi observare non contigit et Paxyl-
+lomam Cremieri in rimas arborum ineuntem nunquam vidi.
+Haesitavi Lasii fuliginosi Latr. larvas an Lachni dubii (mihi)
+in quercuum radicibus habitantis larvas et imagines quaereret.
+Nunc vero certe censeo Paxyllomam Cremieri in arboribus
+quercinis potius Lasium fuliginosum investigare, in qua mente
+me factum analogicum, notatu dignissimum, a me apud speciem
+afﬁnem Paxyllomam buccatam Nees ab Esenbeck observatum
+maxime afﬁrmavit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="287" y="2235"/>
+	<Point x="2037" y="2235"/>
+	<Point x="2037" y="2823"/>
+	<Point x="287" y="2823"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Paxyllomam buccatam Nees ab Esenbeck pluries in sylvis
+umbrosis et ad domorum fenestras cepi in provinciâ Mohile-
+viensi prope Mohileviam (Palykovitschi) et prope Bychov (Mo-
+stok) mense Julii, praecipue horis pomeridianis et semel in
+provinciâ Kurskensi drope Lhov die 10 Julii in frutetis (horis
+meridianis) individua feminea plura supra nidos subterraneos
+Lasii affinis Schenck. *) gregatim volitantia, choreas agentia in</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="291" y="2962"/>
+	<Point x="2039" y="2962"/>
+	<Point x="2039" y="3089"/>
+	<Point x="291" y="3089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Mares et feminae Lassii afﬁnis Schenck eo tempore e terrâ exibant et
+nihil curabant, nisi nuptias, quae extra domicilium subterraneum peragebantur.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="294" y="2871"/>
+	<Point x="889" y="2871"/>
+	<Point x="889" y="2901"/>
+	<Point x="294" y="2901"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668992">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T23:41:14</Created>
+	<LastChange>2012-02-09T16:27:27</LastChange></Metadata>
+	<Page imageFilename="00668992.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="383" y="316"/>
+	<Point x="1802" y="316"/>
+	<Point x="1802" y="586"/>
+	<Point x="383" y="586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est ce qui nous a déterminés à donner la
+ﬁgure du poisson qui a conservé les beaux
+prolongemens de ses nageoires.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="856" y="854"/>
+	<Point x="1321" y="854"/>
+	<Point x="1321" y="945"/>
+	<Point x="856" y="945"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES EQUULA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="371" y="985"/>
+	<Point x="1794" y="985"/>
+	<Point x="1794" y="2092"/>
+	<Point x="371" y="2092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Après les Dorées et les Capros se place
+naturellement un groupe de poissons de la
+mer des Indes, qui se rapprochent de ces
+deux-là par leur forme comprimée, leurs pe‐
+tites écailles minces et lisses, la protractilité
+de leur bouche et leurs autres caractères,
+mais dont la dorsale n’est pas divisée. Les
+espèces en sont petites, abondantes en indi‐
+vidus et il en existe un nombre assez consi‐
+dérable; plusieurs ont été décrites à diﬀérentes
+époques, quoique leurs vrais rapports n’aient
+pas toujours été bien saisis, aussi les a-t-on
+dispersées dans des genres diﬀérens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="363" y="2095"/>
+	<Point x="1791" y="2095"/>
+	<Point x="1791" y="2523"/>
+	<Point x="363" y="2523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Celle qui a été publiée le plus ancienne‐
+ment est dans Seba1, et le texte la nomme
+scomber ﬂavescens, latitudine ad longitu-
+dinem dimidia, denticulis piliformibus. Je ne
+vois pas que les auteurs systématiques aient</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="434" y="2612"/>
+	<Point x="1043" y="2612"/>
+	<Point x="1043" y="2697"/>
+	<Point x="434" y="2697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Tome III, pl. 27, ﬁg. 4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="373" y="196"/>
+	<Point x="488" y="196"/>
+	<Point x="488" y="283"/>
+	<Point x="373" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>60</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="739" y="216"/>
+	<Point x="1435" y="216"/>
+	<Point x="1435" y="299"/>
+	<Point x="739" y="299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX. SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="983" y="696"/>
+	<Point x="1189" y="696"/>
+	<Point x="1189" y="751"/>
+	<Point x="983" y="751"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r21">
+	<Coords>
+	<Point x="362" y="2539"/>
+	<Point x="1778" y="2539"/>
+	<Point x="1778" y="2594"/>
+	<Point x="362" y="2594"/></Coords></SeparatorRegion></Page></PcGts>

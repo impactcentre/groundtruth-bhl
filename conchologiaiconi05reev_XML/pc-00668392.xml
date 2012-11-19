@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668392">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T02:18:41</Created>
+	<LastChange>2012-02-10T09:52:59</LastChange></Metadata>
+	<Page imageFilename="00668392.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1691" y="224"/>
+	<Point x="2142" y="224"/>
+	<Point x="2142" y="275"/>
+	<Point x="1691" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus Pl. XXXIII.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords>
+	<Point x="969" y="259"/>
+	<Point x="969" y="789"/>
+	<Point x="1318" y="789"/>
+	<Point x="1318" y="259"/></Coords></ImageRegion>
+	<TextRegion id="r4" type="caption">
+	<Coords>
+	<Point x="1181" y="833"/>
+	<Point x="1181" y="794"/>
+	<Point x="1098" y="794"/>
+	<Point x="1098" y="833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>200.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r6">
+	<Coords>
+	<Point x="1707" y="573"/>
+	<Point x="1707" y="1203"/>
+	<Point x="2151" y="1203"/>
+	<Point x="2151" y="573"/></Coords></ImageRegion>
+	<TextRegion id="r7" type="caption">
+	<Coords>
+	<Point x="1926" y="1217"/>
+	<Point x="1926" y="1259"/>
+	<Point x="2042" y="1259"/>
+	<Point x="2042" y="1217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>201. b.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r8">
+	<Coords>
+	<Point x="829" y="912"/>
+	<Point x="829" y="1937"/>
+	<Point x="1341" y="1937"/>
+	<Point x="1341" y="912"/></Coords></ImageRegion>
+	<TextRegion id="r9" type="caption">
+	<Coords>
+	<Point x="1104" y="1943"/>
+	<Point x="1104" y="1981"/>
+	<Point x="1183" y="1981"/>
+	<Point x="1183" y="1943"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>202.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r10">
+	<Coords>
+	<Point x="1706" y="1658"/>
+	<Point x="1706" y="2401"/>
+	<Point x="2144" y="2401"/>
+	<Point x="2144" y="1658"/></Coords></ImageRegion>
+	<TextRegion id="r11" type="caption">
+	<Coords>
+	<Point x="1924" y="2407"/>
+	<Point x="1924" y="2441"/>
+	<Point x="2033" y="2441"/>
+	<Point x="2033" y="2407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>203 b</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r12">
+	<Coords>
+	<Point x="921" y="2138"/>
+	<Point x="921" y="2676"/>
+	<Point x="1314" y="2676"/>
+	<Point x="1314" y="2138"/></Coords></ImageRegion>
+	<TextRegion id="r13" type="caption">
+	<Coords>
+	<Point x="1100" y="2690"/>
+	<Point x="1100" y="2723"/>
+	<Point x="1212" y="2723"/>
+	<Point x="1212" y="2690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>203 c</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="caption">
+	<Coords>
+	<Point x="286" y="2434"/>
+	<Point x="286" y="2473"/>
+	<Point x="386" y="2473"/>
+	<Point x="386" y="2434"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>203 a</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r15">
+	<Coords>
+	<Point x="95" y="1653"/>
+	<Point x="95" y="2422"/>
+	<Point x="551" y="2422"/>
+	<Point x="551" y="1653"/></Coords></ImageRegion>
+	<ImageRegion id="r16">
+	<Coords>
+	<Point x="100" y="606"/>
+	<Point x="100" y="1221"/>
+	<Point x="518" y="1221"/>
+	<Point x="518" y="606"/></Coords></ImageRegion>
+	<TextRegion id="r17" type="caption">
+	<Coords>
+	<Point x="307" y="1233"/>
+	<Point x="307" y="1270"/>
+	<Point x="404" y="1270"/>
+	<Point x="404" y="1233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>201 a</Unicode></TextEquiv></TextRegion></Page></PcGts>

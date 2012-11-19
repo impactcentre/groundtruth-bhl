@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669349">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:54:56</Created>
+	<LastChange>2012-03-12T14:33:57</LastChange></Metadata>
+	<Page imageFilename="00669349.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="53" y="238"/>
+	<Point x="1486" y="238"/>
+	<Point x="1486" y="914"/>
+	<Point x="53" y="914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>on les nomme rosérés; sur celles de Bre-
+tagne, prêtres, à cause de leur bande d'ar-
+gent, qui ressemble à une étole; sur celle de
+la Saintonge et dans les îles du golfe de Gas-
+cogne, abusseaux, qui est peut-être un di-
+minutif d'abbé; en Languedoc et en Provence,
+joëls, sauclets et cabassous; latharina, à Rome;
+coroneda, en Sicile; atherno, en Grèce, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="61" y="920"/>
+	<Point x="1492" y="920"/>
+	<Point x="1492" y="1337"/>
+	<Point x="61" y="1337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ils vivent partout en grandes troupes, et
+malgré leur petitesse, qui excède rarement
+six pouces, on les regarde comme un aliment
+assez délicat, au point qu'en plusieurs lieux
+on les nomme faux éperlans.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="70" y="1340"/>
+	<Point x="1502" y="1340"/>
+	<Point x="1502" y="2432"/>
+	<Point x="70" y="2432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Leur frai, ou plutôt leurs petits, pendant
+quelque temps après leur naissance, demeu-
+rent rassemblés en masses serrées et en quan-
+tités innombrables. On les prend et on les
+prépare ainsi en masses, soit en friture, soit
+bouillis dans du lait. Les habitans des bords
+de la Méditerranée appellent ces frais d'athé-
+rine nonnat (non née), conservant dans cette
+dénomination une trace du préjugé des an-
+ciens, que ces amas de petits poissons pro-
+venaient d'une génération spontanée, ou sup-
+posant peut-être seulement que ce sont des
+fétus non encore viables, non encore nés.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="70" y="2436"/>
+	<Point x="1501" y="2436"/>
+	<Point x="1501" y="2613"/>
+	<Point x="70" y="2613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En certains lieux l'adulte lui-même est si
+abondant qu'on l'abandonne aux animaux. A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="208" y="2632"/>
+	<Point x="308" y="2632"/>
+	<Point x="308" y="2702"/>
+	<Point x="208" y="2702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1157" y="2622"/>
+	<Point x="1253" y="2622"/>
+	<Point x="1253" y="2696"/>
+	<Point x="1157" y="2696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>27</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="916" y="138"/>
+	<Point x="916" y="217"/>
+	<Point x="612" y="217"/>
+	<Point x="612" y="138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1474" y="138"/>
+	<Point x="1474" y="217"/>
+	<Point x="1328" y="217"/>
+	<Point x="1328" y="138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>417</Unicode></TextEquiv></TextRegion></Page></PcGts>

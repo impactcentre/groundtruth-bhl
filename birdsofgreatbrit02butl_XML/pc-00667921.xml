@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667921">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T08:43:16</Created>
+	<LastChange>2012-02-10T09:52:22</LastChange></Metadata>
+	<Page imageFilename="00667921.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="934" y="212"/>
+	<Point x="1339" y="212"/>
+	<Point x="1339" y="270"/>
+	<Point x="934" y="270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE HAWFINCH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1990" y="231"/>
+	<Point x="2068" y="231"/>
+	<Point x="2068" y="282"/>
+	<Point x="1990" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>49</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="182" y="336"/>
+	<Point x="2082" y="336"/>
+	<Point x="2082" y="900"/>
+	<Point x="182" y="900"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bird, is quarrelsome, spiteful, and can on no account be trusted in an aviary with
+any species weaker than itself. It is, moreover, fully as much trouble to its
+owner in respect of food as many a far more attractive species: yet, according to the
+late Rev. H. A. Macpherson, it has one merit; although its own song is insig-
+niﬁcant, the Hawﬁnch is not wholly destitute of the imitative faculty. In my
+friend the late Charles A. Witchell's interesting work on the “Evolution of Bird-
+song,” we read (p. 172): “Even so poor a songster as the Hawﬁnch will imitate
+when a captive. The Rev. H. A. Macpherson imforms me that they will pick up
+any sounds.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="182" y="902"/>
+	<Point x="2073" y="902"/>
+	<Point x="2073" y="1153"/>
+	<Point x="182" y="1153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nevertheless, when a bird has no beauty of form, and when its colouring is
+little superior to that of a hen Chaﬃnch, its song should compensate for other
+deﬁciencies; and, as Major Alexander von Homeyer remarks (Geﬁederte Welt,
+Vol. XX, p. 489) the cherry-kernel biter is “not gifted with natural song.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="175" y="1155"/>
+	<Point x="2070" y="1155"/>
+	<Point x="2070" y="1524"/>
+	<Point x="175" y="1524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It appears to me that, in dealing with British birds, it is far more convenient
+to introduce the Bullﬁnches (the so-called Grosbeaks) immediately after the true
+Grosbeaks: in their habits they are not dissimilar; whereas, to place them, as
+Howard Saunders has done in his “Manual,” between the more slender-billed
+Finches and the Buntings, seems rather unnatural: I have, therefore, not followed
+him in this respect.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="175" y="1529"/>
+	<Point x="2073" y="1529"/>
+	<Point x="2073" y="1909"/>
+	<Point x="175" y="1909"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>There is not the least doubt that, so far as their habits are concerned, the
+most typical Finches (that is the members of the genus Fringilla) approach far
+more closely to the Buntings than any other species of the Subfamily, and next
+to Fringilla, I should consider Passer (in spite of its aberrant nest) to show
+relationship to the Emberizinœ: I speak as an Aviculturist of course, and do not
+venture to criticize the classiﬁcation from a structural standpoint.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="278" y="2729"/>
+	<Point x="417" y="2729"/>
+	<Point x="417" y="2773"/>
+	<Point x="278" y="2773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1731" y="2736"/>
+	<Point x="1772" y="2736"/>
+	<Point x="1772" y="2772"/>
+	<Point x="1731" y="2772"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="997" y="2319"/>
+	<Point x="1227" y="2319"/>
+	<Point x="1227" y="2338"/>
+	<Point x="997" y="2338"/></Coords></SeparatorRegion></Page></PcGts>

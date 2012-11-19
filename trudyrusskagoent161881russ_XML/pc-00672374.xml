@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672374">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:22:30</Created>
+	<LastChange>2012-02-10T09:54:36</LastChange></Metadata>
+	<Page imageFilename="00672374.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r16" index="6"/>
+	<RegionRefIndexed regionRef="r12" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="942" y="130"/>
+	<Point x="1242" y="130"/>
+	<Point x="1242" y="196"/>
+	<Point x="942" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 180 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="219" y="526"/>
+	<Point x="1967" y="526"/>
+	<Point x="1967" y="682"/>
+	<Point x="219" y="682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4 ♂♂, schon etwas geﬂogen, ﬁng Petersen bei Honda zu
+Anfang Mai.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="723" y="766"/>
+	<Point x="1453" y="766"/>
+	<Point x="1453" y="866"/>
+	<Point x="723" y="866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pempelia lignosella Z.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="357" y="905"/>
+	<Point x="1964" y="905"/>
+	<Point x="1964" y="1023"/>
+	<Point x="357" y="1023"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pemp. lignosella Z. Verhandl. d. zool. bot. Gesellsch. 1872, p. 544. 1874,
+p. 430.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="214" y="1441"/>
+	<Point x="1971" y="1441"/>
+	<Point x="1971" y="3141"/>
+	<Point x="214" y="3141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8 ♂♂, 16 ♀♀ in Columbien zu Ende September und An-
+fang October, dann im Enddrittel des April, 1 ♀ am 31 Juli
+gefangen. Die ♂♂ gehören zu den kleinsten Formen. Die Art
+ist, wie Dr. Berg richtig bemerkt, in Färbung, Zeichnung und
+den Dimensionen der verschiedenen Organe sehr veränderlich.
+Bei den ♀♀ ist der Thorax mehr oder weniger ochergelblich,
+welche Farbe sich auch in verschiedener Reichlichkeit über die
+Vorderﬂügel, besonders deren Wurzeltheil verbreitet; desgleichen
+sind bisweilen die Palpen ganz einfarbig ochergelblich. Ich trage
+daher kein Bedenken mehr einzugestehen, dass ich bei der
+Aufstellung meiner P. incautella (zool. bot. Ges. 1872, p. 545)
+der Incautus gewesen bin, und dass dieser Name nur zur Be-
+zeichnung einer Varietät dienen kann. Der kegelförmige Stirn-
+busch, der das Exemplar auszeichnet, ﬁndet sich auch bei einer
+Columbierin; er scheint sich leicht zu beschädigen und abzu-
+ﬂiegen. — Hinsichtlich der Artrechte meiner Tartarella, loc. cit.
+1872, p. 544, bin ich sicherer, da die Flügel für meine
+Lignosella ♀♀ zu kurz und namentlich die hintern zu abge-
+rundet sind. Jedoch in der Färbung giebt es sehr überein-
+stimmende Lignosella ♀♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="224" y="271"/>
+	<Point x="1953" y="271"/>
+	<Point x="1953" y="516"/>
+	<Point x="224" y="516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel weisslich, längs des Vorderrandes
+gebräunt. Ast 1 der Medianader kommt hinter der Mitte, 2
+bald darauf; die Endgabel länger als ihr Stiel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="394" y="1028"/>
+	<Point x="1974" y="1028"/>
+	<Point x="1974" y="1205"/>
+	<Point x="394" y="1205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— — Berg: Contribucion al estudio de la Fauna de Pata-
+gonia in Anales de la Sociedad Cientiﬁca Argentina
+1877, p. 28.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="371" y="1328"/>
+	<Point x="1151" y="1328"/>
+	<Point x="1151" y="1382"/>
+	<Point x="371" y="1382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Elasmopalpus angustellus Вlanсh.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="378" y="1208"/>
+	<Point x="1976" y="1208"/>
+	<Point x="1976" y="1321"/>
+	<Point x="378" y="1321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— — Berg: Patagon. lepid. Beobacht. im Bulletin de Moscou
+1876, p. 38.</Unicode></TextEquiv></TextRegion></Page></PcGts>

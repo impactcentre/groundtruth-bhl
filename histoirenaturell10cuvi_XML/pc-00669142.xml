@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669142">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:29:50</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669142.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="280" y="241"/>
+	<Point x="1752" y="241"/>
+	<Point x="1752" y="594"/>
+	<Point x="280" y="594"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>près, le chætodon nigricans de Linné; seule‐
+ment Bloch, dans sa ﬁgure, enluminée d’après
+un individu décoloré, n’a pas marqué la bande
+pâle de la queue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="353" y="609"/>
+	<Point x="1746" y="609"/>
+	<Point x="1746" y="1153"/>
+	<Point x="353" y="1153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur est deux fois et quelque chose dans sa
+longueur; son proﬁl,descendant obliquement, oﬀre
+à peine une convexité sensible; l’épine des côtés de
+sa queue est petite; ses opercules et son épaule sont
+fortement striés. Les pointes de sa caudale prennent
+le tiers de la longueur totale de cette nageoire. Ses
+nombres sont comme aux précédens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="735" y="1162"/>
+	<Point x="1375" y="1162"/>
+	<Point x="1375" y="1236"/>
+	<Point x="735" y="1236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/26; A. 3/23 ou 24, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="366" y="1242"/>
+	<Point x="1742" y="1242"/>
+	<Point x="1742" y="1412"/>
+	<Point x="366" y="1412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus ont depuis trois ou quatre pouces
+jusqu’à onze ou douze.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="269" y="1419"/>
+	<Point x="1759" y="1419"/>
+	<Point x="1759" y="2180"/>
+	<Point x="269" y="2180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comme cette réunion discordante a été
+copiée sans réﬂexion par Gmelin et par La-
+cépède, comme le dernier l’a encore grossie
+en y ajoutant une et même deux des espèces
+de Forskal, qu’il me soit permis d’en retracer
+ici l’historique, aﬁn de détourner à l’avenir
+les naturalistes de cette manie d’accumuler
+sans critique des citations qui ne peuvent
+aller ensemble.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="300" y="2187"/>
+	<Point x="1730" y="2190"/>
+	<Point x="1732" y="2636"/>
+	<Point x="299" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Chætodon nigricans doit son origine à
+Artedi (Spec., p. 90), qui l’a nommé chætodon
+nigrescens cauda albescente, æquali, utrinque
+aculeata, et l’a fait graver avec cette même
+phrase dans Seba, t. III, pl. 25, ﬁg. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="304" y="113"/>
+	<Point x="455" y="113"/>
+	<Point x="455" y="228"/>
+	<Point x="304" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>210</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="762" y="113"/>
+	<Point x="1287" y="113"/>
+	<Point x="1287" y="228"/>
+	<Point x="762" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

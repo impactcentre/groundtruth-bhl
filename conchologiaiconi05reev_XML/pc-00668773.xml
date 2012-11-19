@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668773">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:37:11</Created>
+	<LastChange>2012-02-10T10:29:36</LastChange></Metadata>
+	<Page imageFilename="00668773.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r16" index="5"/>
+	<RegionRefIndexed regionRef="r39" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r52" index="12"/>
+	<RegionRefIndexed regionRef="r60" index="13"/>
+	<RegionRefIndexed regionRef="r76" index="14"/>
+	<RegionRefIndexed regionRef="r80" index="15"/>
+	<RegionRefIndexed regionRef="r13" index="16"/>
+	<RegionRefIndexed regionRef="r14" index="17"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1016" y="243"/>
+	<Point x="1359" y="243"/>
+	<Point x="1359" y="322"/>
+	<Point x="1016" y="322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1098" y="347"/>
+	<Point x="1276" y="347"/>
+	<Point x="1276" y="397"/>
+	<Point x="1098" y="397"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="416" y="434"/>
+	<Point x="1062" y="434"/>
+	<Point x="1062" y="497"/>
+	<Point x="416" y="497"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 4. (Fig. a, b, c, d, Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="256" y="502"/>
+	<Point x="1174" y="502"/>
+	<Point x="1174" y="936"/>
+	<Point x="259" y="933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS DECUSSATA. Cass. testâ ovatâ, compressiusculâ,
+spirâ subacuminatâ, apice acutâ; anfractibus univari-
+cosis, striis elevatiusculis longitudinalibus, incisisque
+transversis undique decussatis, prœcipuè ad spiram;
+varicibus supernè peculiariter bi-tri-dentato-spinosis,
+columellâ fortiter plicato-rugatâ; livido-cœrulescente,
+maculis quadratis vel strigis fulvis longitudinaliter
+undatâ, maculis strigisve super varices et aperturœ
+fauce intensè castaneo-ruﬁs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="272" y="936"/>
+	<Point x="1172" y="939"/>
+	<Point x="1172" y="1412"/>
+	<Point x="272" y="1412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE DECUSSATED HELMET. Shell ovate, rather com‑
+pressed, spire somewhat acuminated, sharp at the
+apex; whorls one-varicose, decussated throughout
+with rather elevated longitudinal and engraved trans‑
+verse striæ, especially on the spire; varices peculiarly
+two-three-dentately spinous at the upper part; colu‑
+mella strongly plicately wrinkled; livid blue, longitu‑
+dinally waved with fulvous streaks or square spots,
+interior of the aperture and spots or streaks upon the
+varices deep chesnut-red.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="285" y="1559"/>
+	<Point x="482" y="1559"/>
+	<Point x="482" y="1600"/>
+	<Point x="407" y="1601"/>
+	<Point x="285" y="1600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab.—?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="272" y="1615"/>
+	<Point x="1174" y="1615"/>
+	<Point x="1168" y="2181"/>
+	<Point x="670" y="2182"/>
+	<Point x="668" y="2188"/>
+	<Point x="634" y="2187"/>
+	<Point x="610" y="2186"/>
+	<Point x="453" y="2191"/>
+	<Point x="270" y="2191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In this species the striped and tessellated designs of
+painting which charaterize the C. areola and undata are
+united, the varieties being unaccompanied by any dif‑
+ference of form or sculpture. The chief peculiarity in the
+sculpture of C. decussata, the same in both varieties, con‑
+sists in the longitudinal striæ being raised, whilst the trans‑
+verse striæ are engraved; in other words, the former are
+ridges, the latter grooves. Another feature to be remarked
+is that the varices, including that which forms the reﬂected
+margin of the aperture, are armed at the summit, next
+the spire, with two or three dentate spines which in all
+other species, where they occur, are at the base.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="278" y="2194"/>
+	<Point x="429" y="2195"/>
+	<Point x="452" y="2194"/>
+	<Point x="596" y="2190"/>
+	<Point x="644" y="2191"/>
+	<Point x="670" y="2191"/>
+	<Point x="674" y="2186"/>
+	<Point x="683" y="2185"/>
+	<Point x="1167" y="2186"/>
+	<Point x="1169" y="2288"/>
+	<Point x="277" y="2288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Deshayes remarks in a note on C. decussata (Anim.
+sans vert. vol. x. p. 9.) that Lamarck in referring to</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1209" y="432"/>
+	<Point x="2104" y="432"/>
+	<Point x="2104" y="779"/>
+	<Point x="1209" y="779"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Martini’s ﬁgures (Conch. Cab. vol. 2. f. 360–1, and 367–
+8.) has confounded a young specimen of his C. zebra (C.
+undata) with it. This is a mistake: Lamarck was perfectly
+correct, and so was Martini, who, although he describes
+each of these shells separately, refers them both to the Buc‑
+cinum decussatum of Linnæus. They represent truly the
+species in diﬀerent states, and perhaps the most extreme.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="1466" y="827"/>
+	<Point x="1838" y="827"/>
+	<Point x="1838" y="879"/>
+	<Point x="1466" y="879"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 5. (Mus. Brit.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1211" y="1988"/>
+	<Point x="2101" y="1988"/>
+	<Point x="2101" y="2285"/>
+	<Point x="1211" y="2285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This ﬁne species may be recognised by the delicate ﬂesh
+tint of its enamelled face and deep purple-chesnut colouring
+of the lip and columella; it attains almost as large a size
+as the C. cornutus. In sculpture it diﬀers from that species
+in having the surface transversely rather superﬁcially
+grooved, not cancellated.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1066" y="2314"/>
+	<Point x="1310" y="2314"/>
+	<Point x="1310" y="2364"/>
+	<Point x="1066" y="2364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>August, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="287" y="1415"/>
+	<Point x="1169" y="1415"/>
+	<Point x="1169" y="1458"/>
+	<Point x="287" y="1458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. (Deshayes’ edit.) vol. x. p. 29.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r50">
+	<Coords>
+	<Point x="1436" y="796"/>
+	<Point x="1436" y="816"/>
+	<Point x="1875" y="816"/>
+	<Point x="1875" y="796"/></Coords></SeparatorRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="1212" y="881"/>
+	<Point x="2111" y="881"/>
+	<Point x="2111" y="1368"/>
+	<Point x="1213" y="1367"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CASSIS MADAGASCARIENSIS. Cass. testâ sub-trigono-
+ovatâ, ventricosâ, elevato-rotundatâ, anfractibus longi‑
+tudinaliter subirregulariter striatis, transversim super-
+ﬁcialiter sulcatis, triseriatim tuberculatis, tuberculis
+supremis grandibus, prominentibus; columellâ profusè
+plicato-rugatis, rugis hic illic bifurcatis, labro latissimè
+expanso, marginibus conjunctis, labro externo intus con-
+spicuè dentato; cœruleo-albicante, facie encausticâ ru-
+fescente-incarnatâ, dentibus rugisque albis, interstitiis
+intensè purpureo-castaneis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords>
+	<Point x="2100" y="1370"/>
+	<Point x="2097" y="1886"/>
+	<Point x="1221" y="1889"/>
+	<Point x="1214" y="1371"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MADAGASCAR HELMET. Shell somewhat triangu‑
+larly ovate, ventricose, elevately rotundate, whorls
+longitudinally somewhat irregularly striated, trans‑
+versely superﬁcially grooved, encircled with three
+rows of tubercles, of which the uppermost are large
+and prominent; columella profusely plicately wrinkled,
+wrinkles here and there bifurcated, lip very widely
+expanded, margins joined, outer lip conspicuously
+toothed within; bluish white, enamelled face reddish
+ﬂesh-coloured, teeth and wrinkles white, interstices
+intense purple-chesnut.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="paragraph">
+	<Coords>
+	<Point x="1207" y="1891"/>
+	<Point x="1839" y="1891"/>
+	<Point x="1839" y="1934"/>
+	<Point x="1207" y="1934"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. vol. x. p. 20.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r80" type="paragraph">
+	<Coords>
+	<Point x="1213" y="1937"/>
+	<Point x="1496" y="1937"/>
+	<Point x="1496" y="1984"/>
+	<Point x="1213" y="1984"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Madagascar.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r83">
+	<Coords>
+	<Point x="1181" y="440"/>
+	<Point x="1183" y="2264"/>
+	<Point x="1181" y="2285"/>
+	<Point x="1203" y="2285"/>
+	<Point x="1201" y="441"/></Coords></SeparatorRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="359" y="1462"/>
+	<Point x="847" y="1462"/>
+	<Point x="847" y="1556"/>
+	<Point x="359" y="1556"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buccinum decussatum, Linnæus.
+Cassidea decussata, Bruguière,</Unicode></TextEquiv></TextRegion></Page></PcGts>

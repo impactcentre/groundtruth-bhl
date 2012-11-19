@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669077">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:22:06</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669077.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r31" index="5"/>
+	<RegionRefIndexed regionRef="r25" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="65" y="234"/>
+	<Point x="1476" y="234"/>
+	<Point x="1476" y="406"/>
+	<Point x="65" y="406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>signalons à son activité cette lacune, pour que
+de nouvelles recherches la lui fassent remplir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="417" y="496"/>
+	<Point x="1138" y="496"/>
+	<Point x="1138" y="573"/>
+	<Point x="417" y="573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE PERLÉ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="69" y="616"/>
+	<Point x="1480" y="616"/>
+	<Point x="1480" y="768"/>
+	<Point x="69" y="768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus margaritiferus, nob.; Chætodon
+canaliculatus, Park.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="64" y="809"/>
+	<Point x="1494" y="809"/>
+	<Point x="1494" y="1070"/>
+	<Point x="64" y="1070"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une espèce plus oblongue de ces ampha-
+canthes ponctués a été rapportée d’Amboine
+et de Vanicolo par MM. Quoy et Gaimard.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="137" y="1084"/>
+	<Point x="1500" y="1084"/>
+	<Point x="1500" y="1694"/>
+	<Point x="137" y="1694"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa hauteur est un peu plus de trois fois, et sa tête
+un peu plus de cinq fois, dans la longueur totale; le
+diamètre de son æil est du tiers de la longueur de
+sa tête; son proﬁl descend presque en ligne droite;
+son front s’élargit un peu au-devant des yeux; les
+rides de son crâne et de ses pièces operculaires sont
+peu marquées; ses épines dorsales sont plus faibles
+que celles du guttatus,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="158" y="2082"/>
+	<Point x="202" y="2082"/>
+	<Point x="204" y="2075"/>
+	<Point x="1511" y="2073"/>
+	<Point x="1509" y="2608"/>
+	<Point x="156" y="2608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les naturalistes à qui nous le devons et qui l’ont
+dessiné et décrit sur le frais, disent qu’il est sur le
+dos d’un verdâtre sale, et sur les ﬂancs d’un grisâtre
+qui passe sur le ventre au blanc mat, légèrement
+argenté. Tout son corps est semé de points bleuâtres;
+la dorsale et la caudale d’un verdâtre sombre; les
+pectorales jaune verdâtre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="448" y="132"/>
+	<Point x="1079" y="132"/>
+	<Point x="1079" y="209"/>
+	<Point x="448" y="209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="1346" y="132"/>
+	<Point x="1470" y="132"/>
+	<Point x="1470" y="209"/>
+	<Point x="1346" y="209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>145</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="135" y="1773"/>
+	<Point x="1509" y="1773"/>
+	<Point x="1506" y="2067"/>
+	<Point x="198" y="2070"/>
+	<Point x="192" y="2080"/>
+	<Point x="138" y="2080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>il a aussi la caudale plus en croissant et les lobes
+plus pointus. Dans la liqueur il paraît brun en des‐
+sus, plus pâle en dessous, tout semé de points ou de
+petites taches rondes, blanchâtres ou bleuâtres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="618" y="1702"/>
+	<Point x="1023" y="1702"/>
+	<Point x="1023" y="1764"/>
+	<Point x="618" y="1764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/10; A. 7/9;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="signature-mark">
+	<Coords>
+	<Point x="222" y="2620"/>
+	<Point x="322" y="2620"/>
+	<Point x="322" y="2669"/>
+	<Point x="222" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="signature-mark">
+	<Coords>
+	<Point x="1190" y="2620"/>
+	<Point x="1277" y="2620"/>
+	<Point x="1277" y="2669"/>
+	<Point x="1190" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10</Unicode></TextEquiv></TextRegion></Page></PcGts>

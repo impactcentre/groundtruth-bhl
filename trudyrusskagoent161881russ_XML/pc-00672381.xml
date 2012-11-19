@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672381">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:24:07</Created>
+	<LastChange>2012-02-10T09:54:37</LastChange></Metadata>
+	<Page imageFilename="00672381.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="778" y="157"/>
+	<Point x="1092" y="157"/>
+	<Point x="1092" y="224"/>
+	<Point x="778" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 187 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="69" y="296"/>
+	<Point x="1803" y="296"/>
+	<Point x="1803" y="453"/>
+	<Point x="69" y="453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Antennae ♂ setaceae, a basi ad medium usque serrato ci-
+liatae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="57" y="462"/>
+	<Point x="1803" y="462"/>
+	<Point x="1803" y="628"/>
+	<Point x="57" y="628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpi labiales ♂ ultra verticem erecti, articulo ultimo lon-
+gissimo; maxillares longe penicillati.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="176" y="630"/>
+	<Point x="1248" y="630"/>
+	<Point x="1248" y="707"/>
+	<Point x="176" y="707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tibiae posticae dense longeque pilosae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="71" y="717"/>
+	<Point x="1816" y="717"/>
+	<Point x="1816" y="880"/>
+	<Point x="71" y="880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alae posteriores breviusculae, triangulae, breviter ciliatae,
+subtus in medio pilosae; vena mediana quadriﬁda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="67" y="932"/>
+	<Point x="1808" y="932"/>
+	<Point x="1808" y="2162"/>
+	<Point x="67" y="2162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diese Gattung weicht so sehr von den übrigen Phycideen
+ab durch die Kürze und dreieckige Gestalt der Hinterﬂügel
+und deren fast graden Hinterrand, dass ihre Stellung hinter
+Gymnancyla — wegen der ungebogenen Fühler und des langen
+Maxillarpinsels beim ♂ — eine ganz künstliche ist. Rogen-
+hofer hält sie für eine Pyralidengattung und nennt sie, frei-
+lich mit Fragezeichen, Idia Hbn. Bei Hübner giebt es aber
+nur eine Pyralidenstirps Idiae (Cat. p. 346), von deren Merk-
+malen auch nichts passt als allenfalls: «die Flügel in allem
+sehr unterschieden» (d. h. im Allgemeinen sehr verschieden)!
+Ein Genus Idia Rogenhof. kann nicht angenommen werden,
+weil schon 2 Genera Idia und 2 Idya vorhanden sind. Ich
+sehe mich daher genöthigt, eine neue Benennung zu erdenken;
+ich leite sie von ����� ab, indem ich den Schienenbusch mit
+einer Garbe vergleiche.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="60" y="2171"/>
+	<Point x="1805" y="2171"/>
+	<Point x="1805" y="2489"/>
+	<Point x="60" y="2489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Wahrscheinlichkeit ist gross, dass das Weibchen nicht
+nur des garbenbündelähnlichen Haarschuppenbusches entbehrt,
+sondern auch mit ganz anders gebauten Tastern und Fühlern
+versehen ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="374" y="2603"/>
+	<Point x="1480" y="2603"/>
+	<Point x="1480" y="2689"/>
+	<Point x="374" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pycn. ministra Tab. XI, ﬁg. 15. a. b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="66" y="2732"/>
+	<Point x="1816" y="2732"/>
+	<Point x="1816" y="2907"/>
+	<Point x="66" y="2907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alis ant. viridi-griseis, Iinea costali utrimque abbreviata;
+post. obscure cinereis. ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="64" y="2948"/>
+	<Point x="1817" y="2948"/>
+	<Point x="1817" y="3117"/>
+	<Point x="64" y="3117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von der folgenden, kleinern Art sofort durch den glanz-
+losen weissen Streifen, von Scopipes Rog. dadurch verschieden,</Unicode></TextEquiv></TextRegion></Page></PcGts>

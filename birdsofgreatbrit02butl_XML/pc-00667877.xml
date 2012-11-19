@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667877">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T06:08:43</Created>
+	<LastChange>2012-02-10T09:52:17</LastChange></Metadata>
+	<Page imageFilename="00667877.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="287" y="525"/>
+	<Point x="2164" y="525"/>
+	<Point x="2164" y="2570"/>
+	<Point x="287" y="2570"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="664" y="2859"/>
+	<Point x="1592" y="2859"/>
+	<Point x="1592" y="2925"/>
+	<Point x="664" y="2925"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>RED BREASTED FLYCATCHER � 9/10. ♀</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="1053" y="2942"/>
+	<Point x="1218" y="2942"/>
+	<Point x="1218" y="2982"/>
+	<Point x="1053" y="2982"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 64.</Unicode></TextEquiv></TextRegion></Page></PcGts>

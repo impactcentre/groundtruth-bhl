@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669054">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:49:04</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669054.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="401" y="251"/>
+	<Point x="1754" y="251"/>
+	<Point x="1754" y="621"/>
+	<Point x="401" y="621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sont à peu près rondes, deviennent ovales vers les
+ﬂancs, s’alongent encore davantage un peu plus bas,
+et ﬁnissent par former des bandes longitudinales qui
+se perdent dans la teinte générale et peu colorée du
+ventre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="387" y="627"/>
+	<Point x="1763" y="627"/>
+	<Point x="1763" y="1012"/>
+	<Point x="387" y="1012"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dans la liqueur, et même dans le sec, le fond
+paraît d’un brun roussâtre, et les taches d’un blanc
+verdàtre ou bleuâtre; mais dans le frais, au rapport
+de M. Leschenault, le fond est d’un brun olivâtre,
+et les taches d’une nuance olive plus claire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="314" y="1017"/>
+	<Point x="1771" y="1017"/>
+	<Point x="1771" y="1869"/>
+	<Point x="1087" y="1868"/>
+	<Point x="1057" y="1866"/>
+	<Point x="401" y="1858"/>
+	<Point x="385" y="1868"/>
+	<Point x="314" y="1869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce poisson a été envoyé de Pondichéry
+par M. Leschenault; les Tamoules le nomment
+vara-mine: on en pêche abondamment à
+l’embouchure de la rivière d’Arian coupang et
+rarement dans la rade. M. Raynaud nous l’a
+aussi rapporté de Pondichéry, de Batavia et
+du détroit de la Sonde, et nous en trouvons
+une ﬁgure dans le Recueil des poissons de
+Malacca, du major Farquhar. Son nom malais
+y est écrit ikan-kietang.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="414" y="1866"/>
+	<Point x="1072" y="1877"/>
+	<Point x="1069" y="1947"/>
+	<Point x="1067" y="1949"/>
+	<Point x="414" y="1949"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est bon à manger.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="328" y="1954"/>
+	<Point x="1078" y="1954"/>
+	<Point x="1114" y="1953"/>
+	<Point x="1236" y="1949"/>
+	<Point x="1281" y="1944"/>
+	<Point x="1780" y="1937"/>
+	<Point x="1775" y="2526"/>
+	<Point x="1453" y="2529"/>
+	<Point x="1400" y="2536"/>
+	<Point x="1317" y="2537"/>
+	<Point x="879" y="2536"/>
+	<Point x="825" y="2540"/>
+	<Point x="787" y="2544"/>
+	<Point x="329" y="2543"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est la même espèce que Gronovius a dé‐
+crite et représentée (Zoophyl, p. 113, n.° 352,
+et pl. 8, ﬁg. 4), et dont Linnæus a fait son
+teuthis javus; sa ﬁgure est même assez bonne,
+et s’il y avait un peu moins de confusion dans
+les taches, elle donnerait une idée assez juste
+de leur disposition.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="431" y="2549"/>
+	<Point x="817" y="2549"/>
+	<Point x="853" y="2543"/>
+	<Point x="868" y="2542"/>
+	<Point x="891" y="2543"/>
+	<Point x="1067" y="2543"/>
+	<Point x="1206" y="2541"/>
+	<Point x="1397" y="2545"/>
+	<Point x="1432" y="2539"/>
+	<Point x="1500" y="2538"/>
+	<Point x="1767" y="2537"/>
+	<Point x="1769" y="2628"/>
+	<Point x="432" y="2628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bloch et M. de Lacépède ont mal à propos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="318" y="125"/>
+	<Point x="479" y="125"/>
+	<Point x="479" y="240"/>
+	<Point x="318" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>122</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="768" y="125"/>
+	<Point x="1329" y="125"/>
+	<Point x="1329" y="240"/>
+	<Point x="768" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

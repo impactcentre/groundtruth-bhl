@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672332">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:12:42</Created>
+	<LastChange>2012-02-10T09:54:30</LastChange></Metadata>
+	<Page imageFilename="00672332.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="995" y="42"/>
+	<Point x="1302" y="42"/>
+	<Point x="1302" y="114"/>
+	<Point x="995" y="114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 138 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="614" y="990"/>
+	<Point x="1735" y="990"/>
+	<Point x="1735" y="1073"/>
+	<Point x="614" y="1073"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Phorostoma parvula ♂ et ♀ nov sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="269" y="1119"/>
+	<Point x="2028" y="1119"/>
+	<Point x="2028" y="1966"/>
+	<Point x="269" y="1966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Griseo nigricans, vittis thoracis, tessellis maculisque non de-
+terminatis abdominis nigris. Phorostomae (Omalostomae) forti
+Rondani et Phorostomae trianguliferae Zett. similis sed dis-
+tincta a prima pulvillis uncisque tarsorum in utroque sexu par-
+vis, pedibusque brevioribus, a secunda pictura abdominis et ab
+ambabus magnitudine corporis multo minore et statura angus-
+tiore, oculis in mare latius disjunctis, antennis paullo longio-
+ribus, arista brevissime puberula (non pilosa, nес plumata);
+palpis in faemina apice incrassatis et in utroque sexu obscu-
+rioribus. Long. 4‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="369" y="1969"/>
+	<Point x="1550" y="1969"/>
+	<Point x="1550" y="2050"/>
+	<Point x="369" y="2050"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: circa Mohileviam ad Boristhenem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="483" y="2197"/>
+	<Point x="1802" y="2197"/>
+	<Point x="1802" y="2271"/>
+	<Point x="483" y="2271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Phorostoma nigrofasciata Portsch. ♂ et ♀</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="714" y="2319"/>
+	<Point x="1421" y="2319"/>
+	<Point x="1421" y="2385"/>
+	<Point x="714" y="2385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Horae Soc. Ent. Ross. T. XV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="238" y="2430"/>
+	<Point x="2011" y="2430"/>
+	<Point x="2011" y="3035"/>
+	<Point x="238" y="3035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Phorostomae pectinatae simillima a qua carina faciei sub-
+indistincta, antennis paullo longioribus, arista longius plumata,
+palpis fuscis apice paullo dilutioribus, fronte in mare paullo
+angustiore, vitta nigra frontali magis angustata. orbitis albis
+latioribus (adversis verticem), thorace trivittato, vitta media
+antice triplicata, tibiisque posticis longius et aequalius pectina-
+tis dignoscitur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="2038" y="180"/>
+	<Point x="2038" y="777"/>
+	<Point x="266" y="777"/>
+	<Point x="266" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>proboscide paullo elongato; thorace nigricante, quadrilineato;
+scutello obscure rufo; abdomine rufо nigro alboque micante, in
+mare obscuriore; segmentis secundo et tertio macrochetis tan-
+tum marginalibus praeditis; alis subinfumatis; pedibus nigris,
+tibiis obscure ruﬁs, tarsis anticis in faemina tantum paullo
+latioribus quam in mare; uncis pulvillisque in utroque sexu
+parvis (in mare paullo longioribus). Long. 3—41/2‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="2038" y="779"/>
+	<Point x="2038" y="866"/>
+	<Point x="266" y="866"/>
+	<Point x="266" y="779"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Rossia meridionalis (Lugan).</Unicode></TextEquiv></TextRegion></Page></PcGts>

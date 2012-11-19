@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668709">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:57:24</Created>
+	<LastChange>2012-02-10T10:29:32</LastChange></Metadata>
+	<Page imageFilename="00668709.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r70" index="3"/>
+	<RegionRefIndexed regionRef="r43" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r11" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/>
+	<RegionRefIndexed regionRef="r14" index="14"/>
+	<RegionRefIndexed regionRef="r17" index="15"/>
+	<RegionRefIndexed regionRef="r18" index="16"/>
+	<RegionRefIndexed regionRef="r19" index="17"/>
+	<RegionRefIndexed regionRef="r21" index="18"/>
+	<RegionRefIndexed regionRef="r79" index="19"/>
+	<RegionRefIndexed regionRef="r81" index="20"/>
+	<RegionRefIndexed regionRef="r23" index="21"/>
+	<RegionRefIndexed regionRef="r88" index="22"/>
+	<RegionRefIndexed regionRef="r66" index="23"/>
+	<RegionRefIndexed regionRef="r90" index="24"/>
+	<RegionRefIndexed regionRef="r100" index="25"/>
+	<RegionRefIndexed regionRef="r83" index="26"/>
+	<RegionRefIndexed regionRef="r91" index="27"/>
+	<RegionRefIndexed regionRef="r104" index="28"/>
+	<RegionRefIndexed regionRef="r109" index="29"/>
+	<RegionRefIndexed regionRef="r26" index="30"/>
+	<RegionRefIndexed regionRef="r27" index="31"/>
+	<RegionRefIndexed regionRef="r28" index="32"/>
+	<RegionRefIndexed regionRef="r29" index="33"/>
+	<RegionRefIndexed regionRef="r30" index="34"/>
+	<RegionRefIndexed regionRef="r31" index="35"/>
+	<RegionRefIndexed regionRef="r20" index="36"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="845" y="278"/>
+	<Point x="1287" y="278"/>
+	<Point x="1287" y="355"/>
+	<Point x="845" y="355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="964" y="378"/>
+	<Point x="1182" y="378"/>
+	<Point x="1182" y="439"/>
+	<Point x="964" y="439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XIX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="775" y="473"/>
+	<Point x="1356" y="473"/>
+	<Point x="1356" y="526"/>
+	<Point x="775" y="526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Figures magniﬁed to twice the natural size.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="145" y="868"/>
+	<Point x="1055" y="868"/>
+	<Point x="1058" y="1107"/>
+	<Point x="143" y="1103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DYSON’S ACHATINA. Shell cylindrically oblong, thin,
+slightly dilated towards the base, spire short, whorls
+ﬁve in number, smooth, polished, columella twisted,
+edged with a callous ridge, aperture oblong, some‐
+what contracted in the middle; transparent horny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="148" y="1108"/>
+	<Point x="767" y="1108"/>
+	<Point x="767" y="1153"/>
+	<Point x="148" y="1153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc. 1846, p. 32.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="148" y="1157"/>
+	<Point x="914" y="1157"/>
+	<Point x="914" y="1201"/>
+	<Point x="148" y="1201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Honduras, (under decayed leaves); Dyson.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="153" y="1217"/>
+	<Point x="1049" y="1217"/>
+	<Point x="1049" y="1318"/>
+	<Point x="153" y="1318"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The columella of this delicate transparent species is not
+truncated at the base, but edged with a callous ridge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="364" y="1395"/>
+	<Point x="833" y="1395"/>
+	<Point x="833" y="1442"/>
+	<Point x="364" y="1442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 100. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="150" y="1462"/>
+	<Point x="1052" y="1462"/>
+	<Point x="1052" y="1650"/>
+	<Point x="150" y="1650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA SPLENDIDA. Achat. testâ acuminato-ovatâ,
+tenui, striatulâ, nitidâ, anfractibus sex ad septem, sub-
+rotundatis, columellâ brevi, contortâ, subcallosâ, vix
+reﬂexâ; pellucido-corneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="149" y="1653"/>
+	<Point x="1051" y="1653"/>
+	<Point x="1051" y="1840"/>
+	<Point x="466" y="1840"/>
+	<Point x="150" y="1836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SPLENDID ACHATINA. Shell acuminately ovate,
+thin, ﬁnely striated, shining, whorls six to seven in
+number, subrotund, columella short, twisted, rather
+callous, scarcely reﬂected; transparent horny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="152" y="1842"/>
+	<Point x="1050" y="1842"/>
+	<Point x="1050" y="1890"/>
+	<Point x="152" y="1890"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ANTON, Verz. p. 44. Philippi, Abbild. Achat. p. 1. f. 11.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="147" y="1893"/>
+	<Point x="653" y="1893"/>
+	<Point x="653" y="1930"/>
+	<Point x="149" y="1932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Island of Juan Fernandez.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="378" y="2177"/>
+	<Point x="831" y="2177"/>
+	<Point x="831" y="2228"/>
+	<Point x="378" y="2228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 101. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="151" y="2243"/>
+	<Point x="1053" y="2243"/>
+	<Point x="1053" y="2435"/>
+	<Point x="546" y="2435"/>
+	<Point x="151" y="2439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA ACCINCTA. Achat. testâ conico-ovatâ, tenui,
+anfractibus sex, subplano-convexis, e suturis arcuatim
+striatis, columellâ contortâ, plicato-truncatâ, aperturâ
+parviusculâ; pellucido-corneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="149" y="2442"/>
+	<Point x="1052" y="2439"/>
+	<Point x="1051" y="2673"/>
+	<Point x="150" y="2681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GIRDED ACHATINA. Shell conically ovate, thin,
+whorls six in number, somewhat ﬂatly convex, ar-
+cuately striated from the sutures, columella twisted,
+plicately truncated, aperture rather small; trans‐
+parent horny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1090" y="560"/>
+	<Point x="1904" y="560"/>
+	<Point x="1904" y="612"/>
+	<Point x="1090" y="612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MIGHELS, Pro. Nat. Hist. Soc. Boston, 1845, p. 20.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1093" y="724"/>
+	<Point x="1983" y="724"/>
+	<Point x="1983" y="868"/>
+	<Point x="1093" y="868"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dr. Pfeiﬀer notices that this group of Achatinœ is
+allied to the Achatinellœ; it should be observed that they
+are of very diﬀerent substance and texture.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1092" y="1785"/>
+	<Point x="1986" y="1785"/>
+	<Point x="1986" y="1884"/>
+	<Point x="1413" y="1885"/>
+	<Point x="1092" y="1884"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A delicately formed species, covered with a thin yel‐
+lowish-olive horny epidermis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords>
+	<Point x="1306" y="1963"/>
+	<Point x="1767" y="1963"/>
+	<Point x="1767" y="2012"/>
+	<Point x="1306" y="2012"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 104. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1094" y="2029"/>
+	<Point x="1990" y="2029"/>
+	<Point x="1990" y="2217"/>
+	<Point x="1094" y="2217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA CONSIMILIS. Achat. testâ conico-ovatâ, sub-
+ventricosâ, anfractibus quinque ad sex, subplano-con-
+vexis, striatulis, nitidis, columellâ brevi, rectâ, sub‐
+callosâ; luteo-olivaceâ, pellucidâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1088" y="2223"/>
+	<Point x="1989" y="2223"/>
+	<Point x="1989" y="2413"/>
+	<Point x="1491" y="2409"/>
+	<Point x="1088" y="2410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE VERY SIMILAR ACHATINA. Shell conically ovate,
+rather ventricose, whorls ﬁve to six in number, rather
+ﬂatly convex, ﬁnely striated, shining, columella short,
+straight, rather callous; yellowish-olive, transparent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1090" y="2414"/>
+	<Point x="1573" y="2414"/>
+	<Point x="1572" y="2452"/>
+	<Point x="1450" y="2454"/>
+	<Point x="1090" y="2452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Juan Fernandez; Miller.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r35">
+	<Coords>
+	<Point x="1062" y="562"/>
+	<Point x="1062" y="2666"/>
+	<Point x="1079" y="2666"/>
+	<Point x="1079" y="562"/></Coords></SeparatorRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="141" y="621"/>
+	<Point x="1053" y="624"/>
+	<Point x="1053" y="860"/>
+	<Point x="141" y="861"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA DYSONI. Achat. testâ cylindraceo-oblongâ,
+tenui, basin versus subdilatatâ, spirâ brevi, anfractibus
+quinque, lœvibus, politis, columellâ contortâ, lirâ callosâ
+marginatâ, aperturâ oblongâ, medio subcontractâ; pel-
+lucido-corneâ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r44">
+	<Coords>
+	<Point x="358" y="1343"/>
+	<Point x="839" y="1343"/>
+	<Point x="839" y="1362"/>
+	<Point x="358" y="1362"/></Coords></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="153" y="1954"/>
+	<Point x="1048" y="1954"/>
+	<Point x="1048" y="2097"/>
+	<Point x="153" y="2097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A small bright transparent horny shell, in which the
+columella is frequently turned up at the edge into a
+callous ridge.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r45">
+	<Coords>
+	<Point x="356" y="2125"/>
+	<Point x="827" y="2125"/>
+	<Point x="827" y="2146"/>
+	<Point x="356" y="2146"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r46">
+	<Coords>
+	<Point x="1305" y="2631"/>
+	<Point x="1770" y="2631"/>
+	<Point x="1770" y="2652"/>
+	<Point x="1305" y="2652"/></Coords></SeparatorRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1089" y="2474"/>
+	<Point x="1994" y="2474"/>
+	<Point x="1994" y="2618"/>
+	<Point x="1089" y="2618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Very similar in general aspect to the preceding species,
+but clearly distinct; it is less ventricose and the columella
+is nearly straight.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r47">
+	<Coords>
+	<Point x="1311" y="1918"/>
+	<Point x="1751" y="1918"/>
+	<Point x="1751" y="1934"/>
+	<Point x="1311" y="1934"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r56">
+	<Coords>
+	<Point x="1309" y="899"/>
+	<Point x="1752" y="899"/>
+	<Point x="1752" y="916"/>
+	<Point x="1309" y="916"/></Coords></SeparatorRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords>
+	<Point x="1129" y="1006"/>
+	<Point x="1745" y="1006"/>
+	<Point x="1745" y="1053"/>
+	<Point x="1300" y="1054"/>
+	<Point x="1128" y="1053"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>For description, see Genus Tornatellina.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r73">
+	<Coords>
+	<Point x="1301" y="1136"/>
+	<Point x="1765" y="1136"/>
+	<Point x="1765" y="1152"/>
+	<Point x="1301" y="1152"/></Coords></SeparatorRegion>
+	<TextRegion id="r83" type="paragraph">
+	<Coords>
+	<Point x="1092" y="1245"/>
+	<Point x="1990" y="1245"/>
+	<Point x="1991" y="1434"/>
+	<Point x="1441" y="1437"/>
+	<Point x="1277" y="1433"/>
+	<Point x="1092" y="1432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA BULIMOIDES. Achat. testâ ventricoso-ovatâ.
+spirâ subacuminatâ, anfractibus quinque ad sex, subro-
+tundatis, columellâ tenui, contortâ, aperturâ suborbi-
+culari; corneâ, epidermide luteo-olivaceâ indutâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r91" type="paragraph">
+	<Coords>
+	<Point x="1087" y="1438"/>
+	<Point x="1363" y="1444"/>
+	<Point x="1995" y="1438"/>
+	<Point x="1991" y="1674"/>
+	<Point x="1446" y="1679"/>
+	<Point x="1188" y="1678"/>
+	<Point x="1176" y="1678"/>
+	<Point x="1081" y="1677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BULIMUS‐LIKE ACHATINA. Shell ventricosely ovate,
+spire somewhat acuminated, whorls ﬁve to seven in
+number, rather rounded, columella thin, twisted,
+aperture nearly orbicular; horny, covered with a
+yellowish-olive epidermis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="967" y="2680"/>
+	<Point x="1157" y="2680"/>
+	<Point x="1157" y="2720"/>
+	<Point x="967" y="2720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>June, 1849.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r70" type="heading">
+	<Coords>
+	<Point x="372" y="553"/>
+	<Point x="842" y="553"/>
+	<Point x="842" y="617"/>
+	<Point x="372" y="617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 99. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r79" type="paragraph">
+	<Coords>
+	<Point x="1168" y="615"/>
+	<Point x="1652" y="615"/>
+	<Point x="1652" y="659"/>
+	<Point x="1168" y="659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Achatina Sandwicensis, Pfeiﬀer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords>
+	<Point x="1474" y="662"/>
+	<Point x="1474" y="702"/>
+	<Point x="1094" y="702"/>
+	<Point x="1094" y="662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Sandwich Islands.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r88" type="heading">
+	<Coords>
+	<Point x="1326" y="943"/>
+	<Point x="1741" y="943"/>
+	<Point x="1741" y="994"/>
+	<Point x="1326" y="994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 102. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r90" type="paragraph">
+	<Coords>
+	<Point x="1132" y="1057"/>
+	<Point x="1285" y="1057"/>
+	<Point x="1285" y="1058"/>
+	<Point x="1437" y="1058"/>
+	<Point x="1437" y="1059"/>
+	<Point x="1589" y="1059"/>
+	<Point x="1589" y="1060"/>
+	<Point x="1696" y="1060"/>
+	<Point x="1696" y="1101"/>
+	<Point x="1387" y="1103"/>
+	<Point x="1132" y="1101"/>
+	<Point x="1132" y="1056"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>For Achatina, Sp. 102, see Pl. XXI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r100" type="heading">
+	<Coords>
+	<Point x="1302" y="1184"/>
+	<Point x="1782" y="1184"/>
+	<Point x="1782" y="1235"/>
+	<Point x="1302" y="1235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 103. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r104" type="paragraph">
+	<Coords>
+	<Point x="1094" y="1683"/>
+	<Point x="1740" y="1683"/>
+	<Point x="1740" y="1724"/>
+	<Point x="1094" y="1724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc. 1846, p. 116.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r109" type="paragraph">
+	<Coords>
+	<Point x="1096" y="1730"/>
+	<Point x="1598" y="1730"/>
+	<Point x="1598" y="1769"/>
+	<Point x="1096" y="1769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Island of Juan Fernandez.</Unicode></TextEquiv></TextRegion></Page></PcGts>

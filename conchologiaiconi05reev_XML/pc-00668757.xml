@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668757">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:34:43</Created>
+	<LastChange>2012-02-10T10:29:35</LastChange></Metadata>
+	<Page imageFilename="00668757.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r18" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r36" index="10"/>
+	<RegionRefIndexed regionRef="r42" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/>
+	<RegionRefIndexed regionRef="r56" index="14"/>
+	<RegionRefIndexed regionRef="r15" index="15"/>
+	<RegionRefIndexed regionRef="r16" index="16"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="908" y="267"/>
+	<Point x="1276" y="267"/>
+	<Point x="1276" y="334"/>
+	<Point x="908" y="334"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="989" y="371"/>
+	<Point x="1193" y="371"/>
+	<Point x="1193" y="426"/>
+	<Point x="989" y="426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE VII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="388" y="454"/>
+	<Point x="852" y="454"/>
+	<Point x="852" y="523"/>
+	<Point x="388" y="523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 11. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="170" y="536"/>
+	<Point x="1070" y="536"/>
+	<Point x="1070" y="921"/>
+	<Point x="170" y="921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM FASCIATUM. Dol. testâ ovato-ventricosâ, vix
+umbilicatâ, spirâ canaliculatâ, anfractibus sex ad
+septem, transversim costatis, costis sedecim ad septem-
+decim, plano-convexis, lœvibus, interstitiâ supremâ lati-
+usculâ, columellâ subcontortâ, labro reﬂexo, ﬁmbriato-
+dentato; albâ, fasciis quatuor latiusculis aurantio-
+fuscis, pone labrum evanidis, cingulatâ, apice cœruleo-
+nigricante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="162" y="924"/>
+	<Point x="1066" y="924"/>
+	<Point x="1066" y="1305"/>
+	<Point x="162" y="1305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BANDED TUN. Shell ovately ventricose, scarcely
+umbilicated, channelled at the spire, whorls six to
+seven in number, transversely ribbed, ribs sixteen to
+seventeen, ﬂatly convex, smooth, uppermost interstice
+rather wide, columella a little twisted, lip reﬂected,
+ﬁmbriately toothed; white, encircled with four rather
+broad orange-brown bands, fading behind the lip,
+apex blue-black.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="165" y="1405"/>
+	<Point x="489" y="1407"/>
+	<Point x="507" y="1406"/>
+	<Point x="536" y="1406"/>
+	<Point x="716" y="1405"/>
+	<Point x="716" y="1451"/>
+	<Point x="165" y="1451"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Philippine Islands; Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="155" y="1474"/>
+	<Point x="1066" y="1474"/>
+	<Point x="1066" y="2105"/>
+	<Point x="155" y="2105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The orange-brown bands which encircle this shell con‐
+stitute a marked character of the species, whilst the manner
+in which they gradually fade away before reaching the lip,
+neatly illustrates a peculiarity which may be observed
+throughout the species, of a certain deﬁciency of pattern
+towards the completion of the shell. Before arriving at
+maturity, the animal appears to lose its powers of design
+in the display of ornamental colouring, and it not unfre‐
+quently happens, that after any sudden accident or concus‐
+sion, suﬃcient to cause a sea-break, the shell is completed
+in a coarse rugged manner, with little indication of the
+design and variety of colouring which has characterized
+its previous growth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="154" y="2107"/>
+	<Point x="1065" y="2110"/>
+	<Point x="1064" y="2250"/>
+	<Point x="149" y="2250"/>
+	<Point x="149" y="2110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is hardly necessary to draw a comparison between
+this species and the D. costatum, confounded with it by
+M. Kiener, for the ribs in that species are very prominent,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1106" y="457"/>
+	<Point x="2012" y="457"/>
+	<Point x="2012" y="653"/>
+	<Point x="1106" y="653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>and widely separated, whilst in the D. fasciatum they
+are very depressed and almost contiguous; the bands,
+moreover, wanting in D. costatum, are not to be lightly
+regarded.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1110" y="1151"/>
+	<Point x="2011" y="1151"/>
+	<Point x="2011" y="1580"/>
+	<Point x="1110" y="1577"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ZONED TUN. Shell globosely ovate, rather thin,
+scarcely umbilicated, sutures of the spire channelled,
+whorls six in number, transversely ribbed, ribs de-
+pressly convex, fourteen to sixteen in number, rather
+distant, with a ﬁne ridge, two or three towards the
+upper part, running between them; columella
+twisted, lip simple or ﬁnely crenulated; chesnut-red,
+of one uniform colour, uppermost portion of the
+whorls whitish, apex blackish.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1103" y="1779"/>
+	<Point x="2013" y="1779"/>
+	<Point x="2013" y="2262"/>
+	<Point x="1103" y="2262"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This is the only species of the genus in which there is
+an isolated raised line between the interstices of the lower
+ribs of the shell; the D. galea has an elevated line between
+the upper ribs in an early stage of growth, but in this
+portion of the shell of D. zonatum, there are three. It is
+accurately described and ﬁgured by Dr. Jacob Green of
+the United States in the volume above referred to, and a
+magniﬁcent specimen has been recently described and
+ﬁgured by Dr. Philippi in the third volume of his ‘Abbil-
+dungen’ as a new species with the name above recorded.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="950" y="2492"/>
+	<Point x="1197" y="2492"/>
+	<Point x="1197" y="2551"/>
+	<Point x="950" y="2551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>January, 1849.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r33">
+	<Coords>
+	<Point x="848" y="2371"/>
+	<Point x="848" y="2396"/>
+	<Point x="1303" y="2396"/>
+	<Point x="1303" y="2371"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r34">
+	<Coords>
+	<Point x="1334" y="662"/>
+	<Point x="1334" y="678"/>
+	<Point x="1798" y="678"/>
+	<Point x="1798" y="662"/></Coords></SeparatorRegion>
+	<TextRegion id="r36" type="heading">
+	<Coords>
+	<Point x="1113" y="696"/>
+	<Point x="2018" y="696"/>
+	<Point x="2018" y="755"/>
+	<Point x="1113" y="755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 12. (Fig. a, Mus. Hanley; Fig. b, Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="1103" y="760"/>
+	<Point x="2002" y="760"/>
+	<Point x="2002" y="1149"/>
+	<Point x="1103" y="1149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DOLIUM ZONATUM. Dol. testâ globoso-ovatâ, tenuiculâ,
+vix umbilicatâ, spirœ suturis canaliculatis, anfractibus
+sex, transversim costatis, costis depresso-convexis, qua-
+tuordecim ad sedecim, subdistantibus, lirâ tenui, supernè
+duabus tribusve, interveniente; columellâ tortuosâ, labro
+simplici aut subtiliter crenulato; castaneo-rufescente,
+concolori, anfractuum parte supremâ albidâ, apice
+nigricante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="1103" y="1722"/>
+	<Point x="1311" y="1722"/>
+	<Point x="1311" y="1759"/>
+	<Point x="1103" y="1759"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. China.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r59">
+	<Coords>
+	<Point x="1076" y="468"/>
+	<Point x="1076" y="2258"/>
+	<Point x="1096" y="2258"/>
+	<Point x="1096" y="468"/></Coords></SeparatorRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1103" y="1581"/>
+	<Point x="1104" y="1581"/>
+	<Point x="1104" y="1582"/>
+	<Point x="1555" y="1582"/>
+	<Point x="1555" y="1583"/>
+	<Point x="2006" y="1583"/>
+	<Point x="2006" y="1675"/>
+	<Point x="2006" y="1674"/>
+	<Point x="1635" y="1674"/>
+	<Point x="1635" y="1718"/>
+	<Point x="1185" y="1718"/>
+	<Point x="1185" y="1673"/>
+	<Point x="1106" y="1673"/>
+	<Point x="1106" y="1642"/>
+	<Point x="1105" y="1642"/>
+	<Point x="1105" y="1611"/>
+	<Point x="1104" y="1611"/>
+	<Point x="1104" y="1582"/>
+	<Point x="1103" y="1582"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GREEN, Transactions of the Albany Institute, vol. i. part 1.
+p. 131.
+Dolium crenulatum, Philippi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="171" y="1309"/>
+	<Point x="832" y="1309"/>
+	<Point x="832" y="1349"/>
+	<Point x="745" y="1349"/>
+	<Point x="745" y="1402"/>
+	<Point x="241" y="1402"/>
+	<Point x="241" y="1349"/>
+	<Point x="171" y="1349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAMARCK, Anim. sans vert. vol. x. p. 142.
+Buccinum fasciatum, Bruguière.</Unicode></TextEquiv></TextRegion></Page></PcGts>

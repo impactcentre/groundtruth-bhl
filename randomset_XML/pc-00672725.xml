@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672725">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T17:04:03</Created>
+	<LastChange>2012-02-10T10:29:45</LastChange></Metadata>
+	<Page imageFilename="00672725.tif" imageWidth="2165" imageHeight="2988">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="988" y="150"/>
+	<Point x="1183" y="150"/>
+	<Point x="1183" y="195"/>
+	<Point x="988" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>- 717 -</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="95" y="464"/>
+	<Point x="2066" y="464"/>
+	<Point x="2066" y="897"/>
+	<Point x="95" y="897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Economic Importance: This major pest of fruit also severely damages forest and
+ornamental trees. Heavy injury has been observed in Afghanistan and serious
+damage to birch was caused in 1939-1940 in Uzbekistan, USSR. In Quetta and other
+areas of West Pakistan, trees on many of the streets have been killed. Holes and
+small rotting areas on the bark of the main trunk and large branches indicate
+damage by the Quetta borer. Large parts of the attacked areas eventually fall
+off. As a result of larval feeding into the bast and sapwood, the sap flow is
+cut off before it reaches the crown and the tree dies. The galleries and tunnels
+cause a drying out of the stem and branches so that they break off easily in the
+wind. Trees are often killed in 2-4 years.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="80" y="907"/>
+	<Point x="2039" y="906"/>
+	<Point x="2040" y="1052"/>
+	<Point x="83" y="1052"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Distribution: Afghanistan, China (mainland--Western Tibet), India (Kashmir),
+Iran (southeastern), Pakistan (West), USSR (southeastern area including Kazaka-
+stan, Uzbekistan). Found usually in the lower mountainous areas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="100" y="1061"/>
+	<Point x="2007" y="1061"/>
+	<Point x="2007" y="1166"/>
+	<Point x="100" y="1166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hosts: Almond, apple, apricots, peach, quince, walnut, elm, poplars, willows,
+and other trees.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r6">
+	<Coords>
+	<Point x="164" y="1214"/>
+	<Point x="1933" y="1214"/>
+	<Point x="1933" y="2248"/>
+	<Point x="164" y="2248"/></Coords></ImageRegion>
+	<TextRegion id="r7" type="caption">
+	<Coords>
+	<Point x="450" y="2297"/>
+	<Point x="1664" y="2297"/>
+	<Point x="1664" y="2361"/>
+	<Point x="450" y="2361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>General Distribution of Aeolesthes sarta (Solsky)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="85" y="2416"/>
+	<Point x="2054" y="2416"/>
+	<Point x="2054" y="2866"/>
+	<Point x="85" y="2866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Life History and Habits: Under West Pakistan conditions, the biology is as
+follows: In May females deposit eggs in groups of 5-10 inside wounds in the
+bark, pits of stems or broken ends of branches of living trees. One female may
+lay about 50 eggs which hatch in 10-14 days. At first, the larva feeds on soft
+bark but later bores into the sapwood where it starts a gallery. During the
+summer and fall, the larva enlarges the gallery but during the winter it chews
+out the tunnel. The pupal chamber is constructed the following spring. Pupation
+requires about 4-5 months but adults remain in the pupal chamber several months
+until the exoskeleton hardens. Adults appear in May and are numerous in June but
+decline in July and August. Oviposition occurs about 10 days following mating.
+The life cycle requires two years.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="71" y="2897"/>
+	<Point x="676" y="2897"/>
+	<Point x="676" y="2952"/>
+	<Point x="71" y="2952"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Coleoptera: Cerambycidae</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1611" y="2904"/>
+	<Point x="2050" y="2904"/>
+	<Point x="2050" y="2957"/>
+	<Point x="1611" y="2957"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No. 178 of Series</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="495" y="261"/>
+	<Point x="1665" y="261"/>
+	<Point x="1665" y="334"/>
+	<Point x="495" y="334"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>INSECTS NOT KNOWN TO OCCUR IN THE UNITED STATES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="512" y="335"/>
+	<Point x="1678" y="335"/>
+	<Point x="1678" y="411"/>
+	<Point x="512" y="411"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>QUETTA BORER (Aeolesthes sarta (Solsky))</Unicode></TextEquiv></TextRegion></Page></PcGts>

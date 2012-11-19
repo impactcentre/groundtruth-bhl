@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668973">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T05:09:05</Created>
+	<LastChange>2012-02-09T16:27:26</LastChange></Metadata>
+	<Page imageFilename="00668973.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="51" y="301"/>
+	<Point x="1488" y="301"/>
+	<Point x="1488" y="638"/>
+	<Point x="121" y="648"/>
+	<Point x="119" y="658"/>
+	<Point x="112" y="663"/>
+	<Point x="104" y="663"/>
+	<Point x="91" y="664"/>
+	<Point x="67" y="648"/>
+	<Point x="51" y="638"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>les lui a conservés jusqu’à ces jours; mais nous
+avons tout lieu de croire qu’il avait été trompé
+par la ressemblance de ce poisson avec quel‐
+que autre de la zone torride.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="55" y="660"/>
+	<Point x="58" y="660"/>
+	<Point x="81" y="668"/>
+	<Point x="94" y="669"/>
+	<Point x="114" y="667"/>
+	<Point x="126" y="663"/>
+	<Point x="128" y="652"/>
+	<Point x="1491" y="643"/>
+	<Point x="1491" y="2275"/>
+	<Point x="53" y="2275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce qui est certain, c’est que personne n’a
+rapporté ce lampris des parties chaudes de
+l’Atlantique. En Septembre 1767 on en trouva
+un sur le sable près de Blyth (côte de North-
+umberland). Sa description, par Robert Har-
+rison, imprimée dans le Magasin de Londres
+d’Octobre de la même année, a été reproduite
+par Pennant dans sa Zoologie britannique.1
+La même année il y en eut un de pris dans
+la baie de Filey, non loin de Scarborough,
+sur la côte du comté d’York2; en 1772, on
+en prit un, et un des plus grands que l’on
+ait vus, dans la Manche, à Torbay, sur la côte
+méridionale du Devonshire3. En 1777, Du‐
+hamel en cite un qui avait été pris à Dieppe,
+et y joint la ﬁgure d’un individu qui se trou‐
+vait au cabinet du Roi; il l’appelle poisson lune,
+d’après son correspondant de Dieppe. C’est
+sur son article que Gmelin, en 1788, a établi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="66" y="2383"/>
+	<Point x="1500" y="2383"/>
+	<Point x="1499" y="2560"/>
+	<Point x="1136" y="2556"/>
+	<Point x="1116" y="2572"/>
+	<Point x="1010" y="2572"/>
+	<Point x="858" y="2571"/>
+	<Point x="852" y="2576"/>
+	<Point x="823" y="2576"/>
+	<Point x="812" y="2573"/>
+	<Point x="120" y="2575"/>
+	<Point x="116" y="2582"/>
+	<Point x="67" y="2582"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Première édition, t. III, p. 201; dans l’édition de 1776,
+on a mis l’année 1769 au lieu de 1767. Cette faute a été copiée
+par Shaw, Gen. Zool., t. IV, 2.e part., p. 28g.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="78" y="2591"/>
+	<Point x="132" y="2592"/>
+	<Point x="132" y="2580"/>
+	<Point x="811" y="2576"/>
+	<Point x="823" y="2584"/>
+	<Point x="855" y="2584"/>
+	<Point x="863" y="2573"/>
+	<Point x="1003" y="2575"/>
+	<Point x="1013" y="2579"/>
+	<Point x="1116" y="2578"/>
+	<Point x="1134" y="2565"/>
+	<Point x="1501" y="2565"/>
+	<Point x="1504" y="2722"/>
+	<Point x="78" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Pennant, Zool. brit., p. 201. — 3. Penn., Zool. brit., édit.
+de 1776, p. 195.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="531" y="214"/>
+	<Point x="1098" y="214"/>
+	<Point x="1098" y="287"/>
+	<Point x="531" y="287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. XXII. LAMPRIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1356" y="201"/>
+	<Point x="1460" y="201"/>
+	<Point x="1460" y="283"/>
+	<Point x="1356" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>41</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r18">
+	<Coords>
+	<Point x="72" y="2303"/>
+	<Point x="72" y="2359"/>
+	<Point x="1503" y="2359"/>
+	<Point x="1503" y="2303"/></Coords></SeparatorRegion></Page></PcGts>

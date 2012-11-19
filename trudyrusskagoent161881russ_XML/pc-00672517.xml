@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672517">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:50:00</Created>
+	<LastChange>2012-02-10T09:55:05</LastChange></Metadata>
+	<Page imageFilename="00672517.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="799" y="148"/>
+	<Point x="1112" y="148"/>
+	<Point x="1112" y="232"/>
+	<Point x="799" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 321 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="85" y="285"/>
+	<Point x="1835" y="285"/>
+	<Point x="1835" y="707"/>
+	<Point x="85" y="707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lappig. Hinterbrust zwischen den Mittel- und Hinterhüften
+deutlich länger als der Durchmesser der Mittelhüften. Der
+ganze Körper, Schenkel und Schienen mit feinen kurzen hel-
+len Börstcheu bestreut, welche auf den Decken in Reihen ge-
+stellt sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="87" y="719"/>
+	<Point x="1833" y="719"/>
+	<Point x="1833" y="1078"/>
+	<Point x="87" y="1078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zwei ganz gleich geformte Stücke, bei Samara und Astrachan
+von mir gesammelt, halte ich für ♂♂; das eine, etwas abge-
+riebene, zeigt eine kräftige und dichte Punktirung auf dem
+Thorax; die Zwischenräume der Decken fein quer gerunzelt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="83" y="1133"/>
+	<Point x="1842" y="1133"/>
+	<Point x="1842" y="1828"/>
+	<Point x="83" y="1828"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bagoopsis pugnax n. sp. Oblongus, niger, minus con-
+vexus, supra squamulis griseis sericeisque hand nitidis tectus,
+praecedente aeque signatus; rostro longiore, tenuiore; fronte
+inter oculos puncto impresso; antennis in parte tertia ante-
+riore rostri insertis, gracilioribus; prothorace lateribus valde
+rotundato-ampliatis, antice circulariter impresso; elytris dorso
+subplanis, humeris obtuse angulatis subcalloso-productis, juxta
+pone medium albido-notatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="212" y="1833"/>
+	<Point x="966" y="1833"/>
+	<Point x="966" y="1910"/>
+	<Point x="212" y="1910"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 3,75, lat. 1,75 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="94" y="1985"/>
+	<Point x="1849" y="1985"/>
+	<Point x="1849" y="3078"/>
+	<Point x="94" y="3078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dem Volgensis so ähnlich, dass man Pugnax als ♀ zu je-
+nem auﬀassen könnte. Obgleich man, der Veränderlichkeit der Art
+bei einigen Gattungen der Erirrhinus-Gruppe halber, sehr weite
+Concessionen machen muss, so möchte ich doch den Pugnax
+seines dünneren, längeren Rüssels, der nicht quer eingedrückten
+Basis, der weit vom Mundwinkel eingefügten schlankeren Füh-
+ler, des vorne ringsherum abgeschnürten Thorax, der ﬂacheren
+mit deutlich stumpfschwieligen Schultern versehenen Decken
+und der näher zur Mitte gerückten Deckenmakel wegen, welche
+sich über den 2, 3 und 4ten Zwischenraum erstreckt, für
+eine gute Art halten. Ausserdem bin ich veranlasst, das mir
+vorliegende einzige Stück mit ﬂacher eingesenktem Abdomen
+für ein ♂ anzusehen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1633" y="3085"/>
+	<Point x="1701" y="3085"/>
+	<Point x="1701" y="3133"/>
+	<Point x="1633" y="3133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="260" y="3119"/>
+	<Point x="571" y="3119"/>
+	<Point x="571" y="3171"/>
+	<Point x="260" y="3171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion></Page></PcGts>

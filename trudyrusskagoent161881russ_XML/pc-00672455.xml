@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672455">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:38:27</Created>
+	<LastChange>2012-02-10T09:54:55</LastChange></Metadata>
+	<Page imageFilename="00672455.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="737" y="205"/>
+	<Point x="1058" y="205"/>
+	<Point x="1058" y="282"/>
+	<Point x="737" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 245 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="98" y="324"/>
+	<Point x="1771" y="324"/>
+	<Point x="1771" y="828"/>
+	<Point x="98" y="828"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ann. and Mag. of Nat. Hist. ser. 5 vol. I, pag. 442 unter
+dem Namen Lomaspilis Opis Butl. beschrieben hat. Jeden-
+falls ist Opis Butl. nichts als eine im Amurlande und in
+Japan vorkommende locale Varietät von Marginata, die
+Bremer schon, ohne ihr einen Namen zu geben, beschrie-
+ben hat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="39" y="844"/>
+	<Point x="1776" y="844"/>
+	<Point x="1776" y="1348"/>
+	<Point x="39" y="1348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pericallia Syringaria L. habe ich aus dem südlichen Theile
+des Amurlandes durch Herrn Dörries in einem frischen ♂
+erhalten. In der Grösse stimmt dieses Exemplar ganz mit
+europäischen Stücken überein, nur ist die gelbe Färbung
+aller Flügel eine mehr ausgedehnte wie bei diesen, wogegen
+die olivengraue Schattirung sehr beschränkt ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="39" y="1358"/>
+	<Point x="1798" y="1358"/>
+	<Point x="1798" y="2764"/>
+	<Point x="39" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Stegania Griseolimbata Obthr. ist gleich Nematocampa Stra-
+minea Butl. Herr Obthr. hat dieses reizende Thier be-
+reits in seinen Diagnoses d'espèces nouv. de lép. de l'île
+Askold beschrieben und neuerdings in seinen Lép. de l'île
+Ask. auf pl. IV, ﬁg. 14 eine vorzügliche Abbildung des-
+selben geliefert. Da Herrn Oberthür's oben genannte
+Arbeit bereits im August, Herrn Butler's dagegen erst im
+November 1879 erschien, hat Herrn Oberthür's Name
+die Priorität. Doch gehört Griseolimbata wohl nicht in
+das Genus Phasiane, wohin sie Herr Oberthür gestellt,
+sondern richtiger in das Genus Stegania Gn. (Terpnomicta
+Led.), wo sie neben Carraria Hb. und Dilectaria Hb. ih-
+ren natürlichen Platz ﬁnden dürfte. In diese Gattung hat sie auch
+Herr Christoph unter dem Namen Ustulataria in der so-
+eben erschienenen ersten Abtheilung seiner Arbeit über seine
+Amur-Ausbeute gestellt, in den Bulletin des Natural. de
+Moscou. 1880. № 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="44" y="2780"/>
+	<Point x="1801" y="2780"/>
+	<Point x="1801" y="3116"/>
+	<Point x="44" y="3116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Endropia Indictinaria Brem. Herr Morawitz, Vorstand
+der Entomologischen Sammlungen der hiesigen Academie
+der Wissenschaften, machte mich darauf aufmerksam, dass
+meine E. Snelleni die Macaria Indictinaria Brem. sei.</Unicode></TextEquiv></TextRegion></Page></PcGts>

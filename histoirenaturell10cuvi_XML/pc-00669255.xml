@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669255">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T16:43:28</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669255.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="90" y="314"/>
+	<Point x="1537" y="314"/>
+	<Point x="1539" y="1076"/>
+	<Point x="491" y="1076"/>
+	<Point x="480" y="1089"/>
+	<Point x="427" y="1090"/>
+	<Point x="406" y="1070"/>
+	<Point x="90" y="1069"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>s’applique aussi au bogmarus méditerraneus
+de M. Otto1. L’auteur ne nous donnant pas
+les rayons de la dorsale, il ne nous met pas
+à même de juger si ce poisson, qui était long
+de cinq pieds, n’était pas un gymnètre mutilé,
+comme le sont presque tous ceux qui appro‐
+chent de cette taille, et c’est bien gratuitement
+que M. Risso a inscrit cette espèce à la suite
+de son bogmarus Aristotelis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="89" y="1079"/>
+	<Point x="403" y="1077"/>
+	<Point x="416" y="1094"/>
+	<Point x="494" y="1094"/>
+	<Point x="505" y="1082"/>
+	<Point x="1535" y="1083"/>
+	<Point x="1535" y="1676"/>
+	<Point x="87" y="1676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’epidesmus maculatus de M. Ranzani2
+est décrit et représenté avec beaucoup plus
+de soin, en sorte qu’il nous est facile d’assu‐
+rer que ce n’est autre chose qu’un trachyptère
+dont la queue était mutilée et dont la pre‐
+mière dorsale était raccourcie, et les ventrales
+presque usées jusqu’à leur racine.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="98" y="1679"/>
+	<Point x="1530" y="1679"/>
+	<Point x="1526" y="2090"/>
+	<Point x="956" y="2091"/>
+	<Point x="951" y="2107"/>
+	<Point x="912" y="2107"/>
+	<Point x="896" y="2091"/>
+	<Point x="98" y="2090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Nardo a possédé un individu qui avait
+la caudale de plus que celui de M. Ranzani,
+mais dont la première dorsale et les ventrales
+étaient aussi très-mutilées. Il l’a décrit et repré‐
+senté3 sous le nom de regalecus maculatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="89" y="2098"/>
+	<Point x="893" y="2097"/>
+	<Point x="907" y="2112"/>
+	<Point x="959" y="2112"/>
+	<Point x="965" y="2100"/>
+	<Point x="1523" y="2100"/>
+	<Point x="1523" y="2362"/>
+	<Point x="89" y="2362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Feu M. Bonnelli est de tous les naturalistes
+celui qui a vu un de ces poissons dans l’état
+le plus approchant de la perfection. L’indi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="153" y="2444"/>
+	<Point x="1521" y="2444"/>
+	<Point x="1520" y="2514"/>
+	<Point x="1452" y="2514"/>
+	<Point x="1450" y="2510"/>
+	<Point x="1298" y="2510"/>
+	<Point x="1294" y="2509"/>
+	<Point x="153" y="2509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Conspectus anim. quorumd. marin, nondum edit., p. 6 et 7.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="151" y="2511"/>
+	<Point x="1293" y="2511"/>
+	<Point x="1295" y="2512"/>
+	<Point x="1384" y="2512"/>
+	<Point x="1384" y="2574"/>
+	<Point x="550" y="2574"/>
+	<Point x="534" y="2567"/>
+	<Point x="290" y="2567"/>
+	<Point x="286" y="2573"/>
+	<Point x="270" y="2573"/>
+	<Point x="262" y="2566"/>
+	<Point x="151" y="2566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Opuscol. scientiﬁci, fasc. VIII, Bolog. 1818, p. 133.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="100" y="2570"/>
+	<Point x="260" y="2570"/>
+	<Point x="266" y="2579"/>
+	<Point x="293" y="2580"/>
+	<Point x="297" y="2570"/>
+	<Point x="535" y="2570"/>
+	<Point x="550" y="2577"/>
+	<Point x="1533" y="2575"/>
+	<Point x="1533" y="2707"/>
+	<Point x="101" y="2707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. Journal de phys. de Pavie, 2.e série, t. VII, p. 116, et
+pl. 1, ﬁg. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="299" y="216"/>
+	<Point x="1321" y="216"/>
+	<Point x="1321" y="299"/>
+	<Point x="299" y="299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES ET GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1366" y="217"/>
+	<Point x="1524" y="217"/>
+	<Point x="1524" y="299"/>
+	<Point x="1366" y="299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>323</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="107" y="2386"/>
+	<Point x="107" y="2428"/>
+	<Point x="1522" y="2428"/>
+	<Point x="1522" y="2386"/></Coords></SeparatorRegion></Page></PcGts>

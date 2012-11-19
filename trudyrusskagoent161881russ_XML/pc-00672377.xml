@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672377">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:23:14</Created>
+	<LastChange>2012-02-10T09:54:36</LastChange></Metadata>
+	<Page imageFilename="00672377.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="864" y="135"/>
+	<Point x="1175" y="135"/>
+	<Point x="1175" y="203"/>
+	<Point x="864" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 183 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="141" y="257"/>
+	<Point x="1885" y="257"/>
+	<Point x="1885" y="1760"/>
+	<Point x="141" y="1760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anmerkung. Ein schönes ♂, bei Mariquita am 7 Sep-
+tember Abends gefangen, scheint eigne Art (Sauciella mus. Z.)
+zu sein. Es ist grösser als Rubedinella ♂, auf den 41/2‴
+langen, breiteren Vorderﬂügeln ocherröthlich, am dunkelsten
+in einem Streifen, der von der Wurzel durch die Mittelzelle
+bis in die Flügelspitze reicht und hier, unterhalb des sehr
+verengerten hellen Costalstreifens, aber nicht diesen begren-
+zend, eine kurze, schwarze Längslinie bis an den Hinterrand
+führt. Die Medianader tritt nur in der Flügelmitte als eine
+sehr feine, hellere Linie aus der Grundfarbe hervor und ist
+ganz ohne den Queraderpunkt. Die Subdorsalader, ebenso fein,
+aber weisslich, hat ein schwarzes Pünktchen an der Stelle der
+ersten Querlinie und die Medianader darüber ein noch klei-
+neres. — Am auﬀallendsten ist das Geäder der Hinterﬂügel.
+Hier entspringt Ast 1 bedeutend näher gegen die Basis, näm-
+lich bei 1/5 statt bei 1/3, und die Endgabel ist doppelt so
+lang wie bei Rubedinella, ihr Stiel daher verhältnissmässig
+viel kürzer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="128" y="1762"/>
+	<Point x="1883" y="1762"/>
+	<Point x="1883" y="2273"/>
+	<Point x="128" y="2273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der Fühlerbusch ist stark, auf dem Rücken schwarz, sonst
+zimmtbraun. An den zimmtfarbenen Tastern ist das Endglied
+sehr dünn, viel länger als bei Rubedinella, nämlich fast halb
+so lang wie das zweite Glied und schnabelförmig abwärts ge-
+neigt; der Maxillarpinsel reicht fast bis an's Ende des zweiten
+Lippentastergliedes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="248" y="2369"/>
+	<Point x="1760" y="2369"/>
+	<Point x="1760" y="2467"/>
+	<Point x="248" y="2467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nephopteryx fuscifrontella Tab. XI, ﬁg. 13. a. b.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="123" y="2491"/>
+	<Point x="1876" y="2491"/>
+	<Point x="1876" y="2739"/>
+	<Point x="123" y="2739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fronte palpisque fuscis; alis ant. rufescenti-ochraceis sub-
+violascentibus, strigula aspera fusca ex dorso ante medium,
+costam non attingente; post. albis, hyalinis. ♂ ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="119" y="2744"/>
+	<Point x="1874" y="2744"/>
+	<Point x="1874" y="2908"/>
+	<Point x="119" y="2908"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Var. b., alis ant. obscure violaceo-cinereis, basi ochracea.
+♂ ♀. (ﬁg. b.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="124" y="2930"/>
+	<Point x="1876" y="2930"/>
+	<Point x="1876" y="3099"/>
+	<Point x="124" y="3099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zu der Abtheilung Psorosa gehörig, keiner bekannten Art
+ähnlich, an dem braunen Vorderkopf, der Grundfarbe der Vor-</Unicode></TextEquiv></TextRegion></Page></PcGts>

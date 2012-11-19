@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672714">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:05:02</Created>
+	<LastChange>2012-03-12T14:34:24</LastChange></Metadata>
+	<Page imageFilename="00672714.tif" imageWidth="2307" imageHeight="3665">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="373" y="1151"/>
+	<Point x="673" y="1151"/>
+	<Point x="673" y="1259"/>
+	<Point x="373" y="1259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tab. VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="296" y="1280"/>
+	<Point x="2057" y="1280"/>
+	<Point x="2057" y="1411"/>
+	<Point x="296" y="1411"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Polystichum obtusum, J. Sm., var. densum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="151" y="1426"/>
+	<Point x="1911" y="1426"/>
+	<Point x="1911" y="1744"/>
+	<Point x="151" y="1744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a' — a". Pinnae, taken from 2 diﬀerent specimens, 1 X.
+b' — b". Lowest pinnulae of a’, 3 — 4 X.
+c. Central pinnula of a”, 3 — 4 X</Unicode></TextEquiv></TextRegion></Page></PcGts>

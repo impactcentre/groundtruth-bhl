@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672431">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:34:30</Created>
+	<LastChange>2012-02-10T09:54:51</LastChange></Metadata>
+	<Page imageFilename="00672431.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="810" y="162"/>
+	<Point x="1125" y="162"/>
+	<Point x="1125" y="233"/>
+	<Point x="810" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 237 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="107" y="303"/>
+	<Point x="1851" y="303"/>
+	<Point x="1851" y="719"/>
+	<Point x="107" y="719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hervortritt. Da aber die Vorderﬂügel gar keinen Unterschied
+zeigen, so nehme ich das als individuelle Abweichung an.
+Insbesondere scheint der schwarze Fleck vor der ersten, ver-
+loschenen Querlinie, von welchem ein gelblicher Streifen als
+innere Begrenzung zum Innenrand herabgeht, charakteristisch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="110" y="721"/>
+	<Point x="1853" y="721"/>
+	<Point x="1853" y="1208"/>
+	<Point x="110" y="1208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von den vorliegenden 10 Männchen — das ♀ ist mir noch
+unbekannt — wurden 3 im August, eins am 2ten September,
+2 im October bei Mariquita, die andern Ende April und
+Anfang Mai bei Honda, alle Abends bei der Lampe ge-
+fangen. Die Art erscheint also wohl in zwei Genera-
+tionen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="105" y="1216"/>
+	<Point x="1858" y="1216"/>
+	<Point x="1858" y="1630"/>
+	<Point x="105" y="1630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ein ♂ vom 24 April gehört zur Var. b. Der schwarze
+Fleck der Vorderﬂügel hat in der Mitte einen scharfen Win-
+kel und ist an seinem ganzen Hinterrand weisslich eingefasst.
+Die äussere Einfassung der zweiten Querlinie ist vor der
+Flügelspitze zu einem länglichen, schrägen Fleck verstärkt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="98" y="1637"/>
+	<Point x="1860" y="1637"/>
+	<Point x="1860" y="2303"/>
+	<Point x="98" y="2303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinsichtlich des Geäders ist zu ergänzen: Auf den Vor-
+derﬂügeln entspringt der erste Ast der Medianader hinter der
+Mitte, der zweite so weit von ihm wie vom dritten, welcher
+mit dem vierten eine kurzgestielte Gabel bildet. Auf den Hin-
+terﬂügeln kommt Ader 6 von der Mitte der Subcostalader und
+endigt weit unter der Flügelspitze; 7 und 8 bilden eine
+Gabel mit halb so langem Stiel, und 7 endigt gleich über
+der Flügelspitze im Vorderrand und 8 weit davon getrennt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="616" y="2455"/>
+	<Point x="1342" y="2455"/>
+	<Point x="1342" y="2541"/>
+	<Point x="616" y="2541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Homoeosoma Curt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="110" y="2608"/>
+	<Point x="1848" y="2608"/>
+	<Point x="1848" y="3124"/>
+	<Point x="110" y="3124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das Geäder dieser Gattung ist etwas veränderlich. Es
+giebt Exemplare der Nimbella, bei welchen der obere Ast
+der Subcostalader der Hinterﬂügel kurz vor seinem Ende noch
+einen kleinen Ast in den Vorderrand schickt, während er ge-
+wöhnlich — wie es bei Ephestia sein soll — unverästelt bleibt.
+Noch häuﬁger geschieht es, dass auf den Vorderﬂügeln der</Unicode></TextEquiv></TextRegion></Page></PcGts>

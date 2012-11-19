@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667851">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T09:06:09</Created>
+	<LastChange>2012-02-10T09:52:14</LastChange></Metadata>
+	<Page imageFilename="00667851.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="887" y="244"/>
+	<Point x="1338" y="244"/>
+	<Point x="1338" y="287"/>
+	<Point x="887" y="287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY AMPELIDÆ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1983" y="257"/>
+	<Point x="2033" y="257"/>
+	<Point x="2033" y="296"/>
+	<Point x="1983" y="296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>17</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="818" y="602"/>
+	<Point x="1400" y="602"/>
+	<Point x="1400" y="675"/>
+	<Point x="818" y="675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FAMILY AMPELIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="289" y="769"/>
+	<Point x="1320" y="766"/>
+	<Point x="2036" y="766"/>
+	<Point x="2037" y="1070"/>
+	<Point x="923" y="1071"/>
+	<Point x="291" y="1067"/>
+	<Point x="186" y="1064"/>
+	<Point x="186" y="960"/>
+	<Point x="300" y="957"/>
+	<Point x="289" y="843"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ORMERLY this constituted a fairly large group, including even such distinct
+looking birds as the members of the genus Liothrix, birds moreover which,
+in their habits nearly resemble our Accentors: I believe, however, that the
+relationship of the Liothrix to Accentor is now recognized. Jerdon even included
+the Tits, as well as the White-eyes and Accentors, in the same family.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="184" y="1079"/>
+	<Point x="2037" y="1079"/>
+	<Point x="2037" y="1699"/>
+	<Point x="184" y="1699"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seebohm, who only admitted one family for the Passeres, necessarily regarded
+the present group as a Subfamily “consisting of birds having the wing of a
+Starling, the foot of a Shrike, and a bill intermediate between that of a Shrike
+and a Swallow. They are probably most nearly allied to the Shrikes and the
+Starlings: from the former they may at once be distinguished by the minuteness
+of their bastard primary, their short tarsus, and their nearly obsolete rictal bristles.
+Ornithologists are perhaps justiﬁed in placing them in a distinct Subfamily, in
+consequence of the shortness of their tarsus, their shorter, wider, and notched beak,
+and the presence of small bristles which cover the nostrils.” (Hist. British Birds,
+Vol. II, p. 1).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="187" y="1705"/>
+	<Point x="2044" y="1705"/>
+	<Point x="2044" y="2072"/>
+	<Point x="187" y="2072"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Although the species of Ampelis have somewhat the ﬂight of a Starling, they
+build open nests in the branches of trees; and, in their actions, somewhat resemble
+Tits. In all probability they are more nearly related to the Shrikes than to any
+other group of British birds; but they are not predaceous like that murderous
+family, being insectivorous and frugivorous, and they appear to have little idea of
+song.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="189" y="2079"/>
+	<Point x="2040" y="2079"/>
+	<Point x="2040" y="2322"/>
+	<Point x="189" y="2322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Of late years Waxwings have been somewhat largely kept as cage birds; but,
+in spite of their beauty, they are anything but pleasing pets, their lack of vocal
+merit, and their greediness, which results in a perpetual dirty condition of their
+cages, are great drawbacks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="293" y="2762"/>
+	<Point x="405" y="2762"/>
+	<Point x="405" y="2791"/>
+	<Point x="293" y="2791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1740" y="2756"/>
+	<Point x="1774" y="2756"/>
+	<Point x="1774" y="2788"/>
+	<Point x="1740" y="2788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="197" y="771"/>
+	<Point x="284" y="771"/>
+	<Point x="284" y="903"/>
+	<Point x="197" y="903"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="1027" y="2514"/>
+	<Point x="1231" y="2514"/>
+	<Point x="1231" y="2528"/>
+	<Point x="1027" y="2528"/></Coords></SeparatorRegion></Page></PcGts>

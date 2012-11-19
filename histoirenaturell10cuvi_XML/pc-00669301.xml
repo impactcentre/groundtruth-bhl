@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669301">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:49:16</Created>
+	<LastChange>2012-03-12T14:33:54</LastChange></Metadata>
+	<Page imageFilename="00669301.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="121" y="253"/>
+	<Point x="1473" y="253"/>
+	<Point x="1473" y="1236"/>
+	<Point x="121" y="1236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>les uns des autres et de la dorsale. Brünnich se de‑
+mande si c’était un eﬀet de l’art ou de la nature; mais
+quiconque a vu un grand gymnètre doit sentir que
+c’étaient les restes des rayons du panache de la nuque,
+qui devaient aussi être mutilés depuis long-temps
+dans un si vieux individu. La deuxième dorsale
+règne tout le long du corps; les ﬁgures lui donnent
+un peu plus du quart de la hauteur. Ascanius y
+compte cent vingt-six rayons, et Brünnich cent
+soixante. Je ne comprends pas pourquoi Bloch les
+réduit à quatre-vingt-dix-sept1. Ce qui est certain,
+c’est qu’aucun de ces trois nombres n’est assez con‑
+sidérable pour répondre à ce qu’indique la ﬁgure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="112" y="1240"/>
+	<Point x="1473" y="1240"/>
+	<Point x="1473" y="2446"/>
+	<Point x="112" y="2446"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La caudale, d’après les deux observateurs que
+nous citons, ne serait qu’une continuation de la
+dorsale et entourerait simplement le bout de la queue.
+Les pectorales sont très-petites, placées très-bas,
+ovales, pointues et composées de quatorze rayons.
+Les ventrales s’attachent sous les pectorales et ne
+consistent chacune qu’en un long ﬁlet de l’épaisseur
+d’une plume d’oie, dur, comprimé, de près de moi‑
+tié de la longueur du corps, dilaté au bout en une
+membrane ovale, large de trois pouces. L’anus est
+presque au milieu du corps. Il n’y a point d’anale.
+La peau a des verrues molles, rapprochées entre elles
+sur une partie du ﬂanc, de manière à former trois ou
+quatre séries longitudinales. Le tout est recouvert
+d’un épiderme argenté brillant, et selon M. Lindroth
+il y a des bandes transversales (peut-être des taches)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="119" y="2553"/>
+	<Point x="596" y="2553"/>
+	<Point x="596" y="2623"/>
+	<Point x="119" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Bl. Schn., p. 482.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1132" y="2612"/>
+	<Point x="1235" y="2612"/>
+	<Point x="1235" y="2707"/>
+	<Point x="1132" y="2707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>24</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="496" y="157"/>
+	<Point x="1031" y="157"/>
+	<Point x="1031" y="226"/>
+	<Point x="496" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1335" y="157"/>
+	<Point x="1469" y="157"/>
+	<Point x="1469" y="226"/>
+	<Point x="1335" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>369</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="66" y="2482"/>
+	<Point x="66" y="2519"/>
+	<Point x="1466" y="2519"/>
+	<Point x="1466" y="2482"/></Coords></SeparatorRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="180" y="2633"/>
+	<Point x="180" y="2698"/>
+	<Point x="283" y="2698"/>
+	<Point x="283" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion></Page></PcGts>

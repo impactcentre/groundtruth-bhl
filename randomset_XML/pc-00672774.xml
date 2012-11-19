@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672774">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T17:07:40</Created>
+	<LastChange>2012-02-10T10:29:48</LastChange></Metadata>
+	<Page imageFilename="00672774.tif" imageWidth="1824" imageHeight="2918">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="100" y="376"/>
+	<Point x="1407" y="376"/>
+	<Point x="1407" y="1022"/>
+	<Point x="100" y="1022"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Associations may, for ease in comparison, be grouped in either of
+several diﬀerent manners. Grinnell and Swarth (1913, pp. 218-220)
+have considered two kinds of associations, major and minor. Each
+major association is made up of one or more minor associations. Major
+associations recognized in the San Jacinto area of California are:
+chaparrel, forest, riparian, rupestrine, meadow and sand-ﬂat. It is
+considered that a given major association may occur in several faunal
+areas and life-zones, but its minor divisions are much more restricted.
+The associations of southeastern Washington recognized in this paper
+would belong in general to the class of major associations according
+to this classiﬁcation, for no attempt has been made in most cases to
+work out the ﬁner divisions of the associations.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="103" y="1031"/>
+	<Point x="1404" y="1031"/>
+	<Point x="1404" y="1299"/>
+	<Point x="103" y="1299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Another method of comparing associations is to group them into
+formations. A formation is stated to be a group of physiologically
+similar associations (Shelford, 1913, p. 38). Formations may them-
+selves be combined into still larger groups. The classiﬁcation of the
+formations of the world is still in its preliminary stages.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="94" y="1303"/>
+	<Point x="1403" y="1303"/>
+	<Point x="1403" y="1792"/>
+	<Point x="94" y="1792"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Shelford (1911, pp. 604, 605) has proposed a classiﬁcation of
+formations with which it will be illuminating to compare the associa-
+tions of southeastern Washington. The conifer forest associations of
+the Blue Mountains must be referred to his second division, forma-
+tions of forests with narrow, thick leaves. The bunchgrass associations
+belong to the third division, formations of savannas and grasslands,
+and to the subdivision c, cool steppe formations. The associations of
+the rivers belong to division seven, formations of fresh water. The
+other associations are harder to place in the system.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="209" y="1917"/>
+	<Point x="1300" y="1917"/>
+	<Point x="1300" y="2036"/>
+	<Point x="209" y="2036"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ZOOGEOGRAPHIC POSITION OF SOUTHEASTERN
+WASHINGTON</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="97" y="2076"/>
+	<Point x="1400" y="2076"/>
+	<Point x="1401" y="2445"/>
+	<Point x="1179" y="2449"/>
+	<Point x="560" y="2456"/>
+	<Point x="100" y="2453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The accompanying table (Table 4) shows the general relations of
+the vertebrate faunas of southeastern Washington to the faunas of
+adjacent regions. In this table the occurrences in the adjacent regions
+are given of those species whose ranges are well known and which have
+been deﬁnitely identiﬁed from Walla Walla County or Columbia
+County. Of the birds only those species occurring in the regions in
+summer and which are presumably breeding are included.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="100" y="2459"/>
+	<Point x="1396" y="2459"/>
+	<Point x="1396" y="2569"/>
+	<Point x="100" y="2569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Columbia Basin sagebrush fauna shows in this comparison
+much greater aﬃnity to the fauna of the Great Basin than to the</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1333" y="281"/>
+	<Point x="1333" y="329"/>
+	<Point x="1405" y="329"/>
+	<Point x="1405" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>329</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="107" y="279"/>
+	<Point x="210" y="279"/>
+	<Point x="210" y="326"/>
+	<Point x="107" y="326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1916]</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="241" y="280"/>
+	<Point x="1317" y="280"/>
+	<Point x="1317" y="326"/>
+	<Point x="241" y="326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dice: Land Vertebrates of Southeastern Washington</Unicode></TextEquiv></TextRegion></Page></PcGts>

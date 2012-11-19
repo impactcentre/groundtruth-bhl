@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672129">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T06:10:40</Created>
+	<LastChange>2012-03-12T14:34:09</LastChange></Metadata>
+	<Page imageFilename="00672129.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="137" y="170"/>
+	<Point x="1723" y="170"/>
+	<Point x="1722" y="1485"/>
+	<Point x="678" y="1486"/>
+	<Point x="677" y="1540"/>
+	<Point x="137" y="1540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>premŭ, qui omnia inſeriora rata obtegit , conſedie
+adeò ſupra Terræ ſuperﬁciem,ibique injuriis Aeris,ali-
+orúmque Elementorum,expota po aliquotSeculo-
+rum decurſum concidie prorſus in pulverem. Auxi-
+lio nobis fuit rapidus , quo gaudemus in Elemento
+noro motus, ſed &amp; mortiscauſa. In tanta Aquæ an-
+guia, vitæ periculo momentaneo, fao opus erat,
+non conlio : natârunt aliqui ſurſum , Aquam hau-
+uri leviorem, ſed hi Arborum truncis, Animanti-
+um ſolidis obaculis colli vitam ﬁnière mox, atque
+natantum hoſpitum ſe commisére turmæ : alii quò
+plus deorſum tendebant, eò profundiùs ſeſe immer-
+gebant ſedimento graviori, charybdin evaſuri incide-
+runt in ſcyllam, hi ip verò nobile bi aperuêre ſe-
+pulchrum inter Marmorum, Lapidúmve ﬁlium
+rata, unde adhuc eruuntur. Qui catarophen il-
+lam evasère,mediam tenuêre viam beati, nec hîc ta-
+men ſecuri,  longiùs ſe ſe protraxiet Diluvianæ In-
+undationis mora.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="135" y="1546"/>
+	<Point x="706" y="1546"/>
+	<Point x="718" y="1542"/>
+	<Point x="1710" y="1542"/>
+	<Point x="1711" y="2598"/>
+	<Point x="979" y="2600"/>
+	<Point x="956" y="2626"/>
+	<Point x="135" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M���������� nullum fere habent reſpeu no-
+ri velocitatis gradum , imò ſæpe retrogradum
+motum,in proverbium apud mortalesdua. Hinc,
+&amp; ob levitatem bi congenitam , ſupernatârunt
+penè omnia, paucimis exceptis, quibus gravior ad-
+hæt &amp; viſcida moles terrea , quæ illa ſecum deor-
+ſum traxit ad certam, gravitati hujus compoti con-
+gruam, profunditatem. Hujus generis e Pagurus
+lapideus. Steininer Meerkrebs , oder Taſchenkrebs,
+Gener Fig. Lapid. 167 cujus ſynonyma ſunt : Cancer
+lapideſcens, Steenkrabbe Rumph. Amboinſch. Rarit. Kamer.
+p. 335. Tab 60. N. 3. Crangeio de Pedra , Portugallis ,
+apud eundem. Pagurus Venetus, Granciporro dius,
+lapideus Calceolar Muſ.p. 429. Occaonem dedê re Can-</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="other">
+	<Coords>
+	<Point x="679" y="95"/>
+	<Point x="846" y="95"/>
+	<Point x="850" y="164"/>
+	<Point x="678" y="164"/></Coords></GraphicRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="868" y="105"/>
+	<Point x="867" y="159"/>
+	<Point x="947" y="160"/>
+	<Point x="950" y="109"/>
+	<Point x="947" y="104"/>
+	<Point x="912" y="104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>29</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r6" type="other">
+	<Coords>
+	<Point x="973" y="88"/>
+	<Point x="970" y="161"/>
+	<Point x="1139" y="163"/>
+	<Point x="1139" y="83"/></Coords></GraphicRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1009" y="2618"/>
+	<Point x="1164" y="2618"/>
+	<Point x="1164" y="2700"/>
+	<Point x="1009" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1618" y="2613"/>
+	<Point x="1707" y="2613"/>
+	<Point x="1707" y="2687"/>
+	<Point x="1618" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cri</Unicode></TextEquiv></TextRegion></Page></PcGts>

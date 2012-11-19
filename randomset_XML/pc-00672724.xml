@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672724">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:33:56</Created>
+	<LastChange>2012-02-10T10:29:45</LastChange></Metadata>
+	<Page imageFilename="00672724.tif" imageWidth="1840" imageHeight="3077">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="659" y="380"/>
+	<Point x="916" y="380"/>
+	<Point x="916" y="466"/>
+	<Point x="659" y="466"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NOTE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="738" y="528"/>
+	<Point x="838" y="528"/>
+	<Point x="838" y="576"/>
+	<Point x="738" y="576"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SUR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="135" y="645"/>
+	<Point x="1445" y="645"/>
+	<Point x="1445" y="800"/>
+	<Point x="135" y="800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'ÉPIDÉMIE DE SUETTE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="628" y="892"/>
+	<Point x="957" y="892"/>
+	<Point x="957" y="945"/>
+	<Point x="628" y="945"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVÉE EN 1849</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="295" y="1030"/>
+	<Point x="1278" y="1030"/>
+	<Point x="1278" y="1088"/>
+	<Point x="295" y="1088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DANS LE DÉPARTEMENT DE L'OISE,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="750" y="1188"/>
+	<Point x="850" y="1188"/>
+	<Point x="850" y="1235"/>
+	<Point x="750" y="1235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PAR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="540" y="1304"/>
+	<Point x="1069" y="1304"/>
+	<Point x="1069" y="1366"/>
+	<Point x="540" y="1366"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LE DOCTEUR A. VERNEUIL,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="400" y="1378"/>
+	<Point x="1197" y="1378"/>
+	<Point x="1197" y="1471"/>
+	<Point x="400" y="1471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prosecleur de la Faculté, ex-interne lauréat des hôpitanx,
+membre de la Société de Biologie, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="128" y="1778"/>
+	<Point x="1473" y="1778"/>
+	<Point x="1473" y="2180"/>
+	<Point x="128" y="2180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je dois, avant de commencer la relation des faits que j'ai observés,
+quelques mots d'avertissement. Cette note, recueillie sur les lieux mêmes
+où sévissait épidémie, n'était point destinée à être publiée; néanmoins,
+la suette ayant reparu sur divers points de la France, je me décide à livrer
+à la publicité ce travail avec ses lacunes et ses imperfections. Je préfère lui
+laisser ses défauts que de chercher à le corriger aujourd'hui avec mes sou-
+venirs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="128" y="2185"/>
+	<Point x="1478" y="2185"/>
+	<Point x="1478" y="2469"/>
+	<Point x="128" y="2469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je me renfermerai également dans le rôle de simple narrateur et m'abs-
+tiendrai de discuter sur des faits que je n'ai point vus et sur des opinions
+théoriques énoncées par d'honorables auteurs, qui ont comme moi observé
+la suette, mais qui, plus que moi, ont cherché à approfondir sa nature.
+J'aurai au moins le mérite d'être court.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="123" y="2473"/>
+	<Point x="1483" y="2473"/>
+	<Point x="1483" y="2597"/>
+	<Point x="123" y="2597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La plupart des localités que j'ai visitées étaient envahies à la ſois par le
+choléra et la suette; c'est sur cette dernière que j'ai plus particulièrement</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="566" y="1578"/>
+	<Point x="1000" y="1578"/>
+	<Point x="1000" y="1626"/>
+	<Point x="566" y="1626"/></Coords></SeparatorRegion></Page></PcGts>

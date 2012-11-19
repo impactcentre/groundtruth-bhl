@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669206">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:37:29</Created>
+	<LastChange>2012-03-12T14:33:49</LastChange></Metadata>
+	<Page imageFilename="00669206.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="320" y="260"/>
+	<Point x="1729" y="260"/>
+	<Point x="1732" y="929"/>
+	<Point x="615" y="941"/>
+	<Point x="323" y="942"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(le père à la corne, le cornu). Il indique
+l’espèce comme tellement commune qu’on
+l’y voit par troupes de deux cents et même
+de quatre cents individus. On les prend au
+ﬁlet et au harpon, mais point à l’hameçon.
+Il ajoute que la nourriture de ce poisson con‑
+siste en fucus, ce que nous avons vériﬁé nous-
+mêmes par nos dissections.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="326" y="944"/>
+	<Point x="645" y="945"/>
+	<Point x="1737" y="933"/>
+	<Point x="1744" y="1940"/>
+	<Point x="329" y="1940"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. Ehrenberg nous a communiqué le dessin
+d’un individu de cette espèce, pris au Cap-Mo‑
+hammed. Il peint la queue et la base de la
+pectorale en jaune, et en cela il est d’accord
+avec M. Dussumier; il n’a cependant compté
+que cinq rayons épineux à la dorsale. Sui‑
+vant eux la chair de ce poisson est mauvaise,
+et elle est si peu estimée à l’Isle-de-France,
+qu’elle sert seulement à la nourriture des noirs.
+M. Dussumier l’a vu pêcher principalement
+dans le nord-ouest de l’île, où on en fait
+d’abondantes salaisons.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="346" y="2014"/>
+	<Point x="1757" y="2014"/>
+	<Point x="1757" y="2645"/>
+	<Point x="346" y="2645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Forskal dit que son poisson était long d’une aune, et M. de
+Lacépède, prenant toujours l’aune du Nord pour celle de Paris,
+en fait 118 centimètres, d’où il conclut que la mer Rouge est
+plus favorable qu’aucune autre au développement du nason (voyez
+Lacép., t. III, p. 109). Nos lecteurs nous pardonneront aisément de
+n’avoir pas rapporté avec autant de conﬁance que M. de Lacépède, la
+relation qu’un pécheur ﬁt à Forskal sur le courage de ces poissons,
+qui auraient pu, disait-il, se défendre par leur nombre contre
+les attaques d’un aigle et ﬁnir même par mettre à mort cet oiseau
+de proie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="318" y="169"/>
+	<Point x="461" y="169"/>
+	<Point x="461" y="237"/>
+	<Point x="318" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>274</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="766" y="169"/>
+	<Point x="1282" y="169"/>
+	<Point x="1282" y="237"/>
+	<Point x="766" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="344" y="1968"/>
+	<Point x="344" y="2005"/>
+	<Point x="1748" y="2005"/>
+	<Point x="1748" y="1968"/></Coords></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672484">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T06:12:57</Created>
+	<LastChange>2012-02-10T09:54:59</LastChange></Metadata>
+	<Page imageFilename="00672484.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="971" y="157"/>
+	<Point x="1285" y="157"/>
+	<Point x="1285" y="228"/>
+	<Point x="971" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 288 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="249" y="291"/>
+	<Point x="1998" y="291"/>
+	<Point x="1998" y="457"/>
+	<Point x="249" y="457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vorne wenig gerundet. Hinterrand des ersten Segments ge-
+bogen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="366" y="473"/>
+	<Point x="1382" y="473"/>
+	<Point x="1382" y="558"/>
+	<Point x="366" y="558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von mir in Krasnowodsk gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="248" y="617"/>
+	<Point x="2008" y="617"/>
+	<Point x="2008" y="1287"/>
+	<Point x="248" y="1287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Thylacites glaucus n. sp. Oblongo-ovatus, squamulis
+glaucis dense tectus, breviter setosus; antennis tarsisque piceis;
+rostro apice minus attenuato, canaliculato; antennis longio-
+ribus; prothorace basi rotundato-ampliato, antrorsum attenuato,
+disperse punctato, margine postico tenuiter elevato; elytris
+ovalibus, remote striato-punctatis, interstitiis planis, seriatim
+setosis; articulis tarsorum aeque latis, unguiculis basi con-
+natis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="362" y="1303"/>
+	<Point x="1132" y="1303"/>
+	<Point x="1132" y="1387"/>
+	<Point x="362" y="1387"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 7,5. Lat. 3,25 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="253" y="1439"/>
+	<Point x="2017" y="1439"/>
+	<Point x="2017" y="2782"/>
+	<Point x="253" y="2782"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kleinen Stücken von Fritillum ähnlich. Fühlerfurche schmal,
+schneller nach unten gebogen, scharfrandig; Fühlerschaft den
+vorderen Augenrand kaum erreichend, Geisselglied 1 und 2
+länger, die übrigen fast so lang als breit. Rüssel mit fast
+parallelen Seiten, ﬂach, mit kurzer tiefer Mittelfurche. Hals-
+schild kaum so lang als hinter der Mitte breit, nach vorne
+verengt, Hinterrand fein erhaben. Decken mit sehr ﬂach ge-
+rundeten Schultern, die Spitze etwas stumpf gerundet, die
+schwachen Punktstreifen mit sehr entfernten Punkten, Zwi-
+schenräume mit einer Reihe kurzer, geneigter Börstchen. Die
+3 ersten Tarsenglieder an Länge abnehmend, an Breite gleich,
+Klauen am Grunde verwachsen. Abdominalfortsatz gleichbreit
+mit den Hinterhüften, Abdomen zerstreut punktirt. Runde
+blaugraue Schuppen bedecken dicht den ganzen Körper, auf
+dem Halsschilde sind 3 verwaschene dunklere Längsstreifen
+bemerkbar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="374" y="2808"/>
+	<Point x="751" y="2808"/>
+	<Point x="751" y="2882"/>
+	<Point x="374" y="2882"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aus Persien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="269" y="2962"/>
+	<Point x="2014" y="2962"/>
+	<Point x="2014" y="3137"/>
+	<Point x="269" y="3137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Thylacites verrucicollis n. sp. Breviter ovatus, sub-
+convexus, piceus, dense cinereo-squamosus et setosus; antennis</Unicode></TextEquiv></TextRegion></Page></PcGts>

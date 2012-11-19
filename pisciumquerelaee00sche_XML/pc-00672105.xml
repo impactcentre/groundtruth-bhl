@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672105">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-06T19:05:38</Created>
+	<LastChange>2012-03-12T14:34:07</LastChange></Metadata>
+	<Page imageFilename="00672105.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="148" y="142"/>
+	<Point x="1684" y="142"/>
+	<Point x="1684" y="2532"/>
+	<Point x="148" y="2532"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vitatem lapidi impream à Mandibul inferioris oe
+niro; E. Pinnam anteriorem niram ; F. dextram.
+G. Pinnam ventralem niram. H. dextram. I. Pin-
+nam caud proximam inferiorem ; K. ſuperiorem; ſed in-
+ſuper, ne tantillum remaneat ſcrupuli, D. Labii infer-
+rioris ipus petrefaas reliquias; L L. totam ſpinam
+Dor. &amp; coas ſpinoſas, è Vertebrarum nubus prodeun-
+tes , quæ non in ﬁgura duntaxat ſunt, ſed in ſuban-
+tia:Imò verò M.M.Carnem ipſam petrefaionis quendã
+gradum adeptam. Verbo, integer ſe,caudâ exceptâ,na-
+tivâ magnitudine,&amp; notabili longitudine ſe ſe atLu-
+cius cum partibus ſuis ſolidis tum oum , tum carnis
+ﬁbros.Ex LapicidinaOningen, Diœceſeos Conantien-
+s,tali loco,&amp; tam edito,protraus,ubi nulla unquam
+Piſcina, agnum nullum, aut lacus fuit. Prodite nunc
+quotquot Archi, Fabri, &amp; Semidei illius ſubterranei
+partes in vos ſuſcipitis, &amp; judicate ip, annon corpus
+hoc fuerit Piſcis Lucii Organicum? Menſurate pro-
+portionem partium, rem ipſam contemplamini, non
+rei umbram; non Piſcis qualem qualem eﬃgiem à
+Natura pirice elaboratam, ſed Piſcem, ſed Lucium,
+partes hîc ibi à preonis vi contortas quidem, ſed
+non transpotas, non caput in medio ventre, non
+pinnas omnes capiti, ſed ngulas pinnas, coas, o-
+cula, vertebras, ſuis locis. Quis verûm aliam pro
+det hujus machinæ originem, quàm exovo? Quis
+negabit, vixie, &amp; adolevie aliquando hoc corpus?
+Quis alium audet producere fabrum præter DEUM.
+Deſcendite in arenam Mechanici omnes, Phalanges
+formate animo ſub Epicuro milites, haas vibrate,
+&amp; jacite præ ſubtilitate nimia acutas, leges producite
+motus, harumque extollite teimonia. Facili ne-
+gotio omnis à Lucio noro frangitur armorum ve-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1430" y="2541"/>
+	<Point x="1684" y="2541"/>
+	<Point x="1684" y="2614"/>
+	<Point x="1430" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rorum</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="948" y="2539"/>
+	<Point x="1073" y="2539"/>
+	<Point x="1073" y="2618"/>
+	<Point x="948" y="2618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A 3</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r19" type="other">
+	<Coords>
+	<Point x="973" y="63"/>
+	<Point x="1140" y="63"/>
+	<Point x="1140" y="138"/>
+	<Point x="973" y="138"/></Coords></GraphicRegion>
+	<TextRegion id="r27" type="page-number">
+	<Coords>
+	<Point x="909" y="63"/>
+	<Point x="950" y="63"/>
+	<Point x="950" y="139"/>
+	<Point x="909" y="139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r29" type="other">
+	<Coords>
+	<Point x="720" y="61"/>
+	<Point x="886" y="61"/>
+	<Point x="886" y="140"/>
+	<Point x="720" y="140"/></Coords></GraphicRegion></Page></PcGts>

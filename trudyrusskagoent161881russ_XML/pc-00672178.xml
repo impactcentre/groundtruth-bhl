@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672178">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T21:40:34</Created>
+	<LastChange>2012-02-10T09:53:54</LastChange></Metadata>
+	<Page imageFilename="00672178.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r12" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1012" y="142"/>
+	<Point x="1316" y="142"/>
+	<Point x="1316" y="191"/>
+	<Point x="1012" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— VI —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="305" y="264"/>
+	<Point x="2017" y="264"/>
+	<Point x="2017" y="408"/>
+	<Point x="305" y="408"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hyalinis, nervis brunneis. (Phl. VIII. Dahlbomi). Persia, mons
+Demavend.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="301" y="413"/>
+	<Point x="2030" y="413"/>
+	<Point x="2030" y="544"/>
+	<Point x="301" y="544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ed. Brandt machte Mittheilungen über das Nervensystem der
+Oestriden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="296" y="553"/>
+	<Point x="2032" y="553"/>
+	<Point x="2032" y="974"/>
+	<Point x="296" y="974"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das Nervensystem der Oestriden ist bisher in den Larven von
+mehreren Naturforschern untersucht worden (Schröder von der Kolck,
+Numan, Joly, Scheiber u. A.), während über dieselbe im Zustande des
+Imago nur von L. Dufour eine kleine Notiz existirt, in welcher
+derselbe angiebt, dass nur ein Brustknoten vorhanden sei, ohne über
+die Kopf- und Bauchknoten zu sprechen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="309" y="1456"/>
+	<Point x="2037" y="1456"/>
+	<Point x="2037" y="1883"/>
+	<Point x="309" y="1883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Larven besitzen immer ein ganglion supraoesophageum und
+eine grosse compacte centrale Nervenmasse, das ganglion thoraci-
+cum, aus welchem in der Form eines Pferdeschweifes eine Menge
+Nerven entspringen, die sowohl den Thorax als das Abdomen inner-
+viren. In diesem Brustknoten, der also der gesammten Bauchkette
+entspricht, beﬁnden sich zwei länglich-runde Heerde.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="308" y="1894"/>
+	<Point x="2033" y="1894"/>
+	<Point x="2033" y="3094"/>
+	<Point x="308" y="3094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die vollkommen ausgebildeten Insekten (imagines) besitzen drei
+Nervenknoten, nämlich ein ganglion supraoesophageum, ein ganglion
+infraoesophageum und eine grosse gangliöse Nervenmasse im Thorax,
+die die gesammte Bauchganglienkette repräsentirt. Es zeigt also das
+Nervensystem der Oestriden eine vollkommene Uebereinstimmung
+mit dem Nervensysteme der Muscae Calypteratae und zwar sowohl
+im Larvenzustande, als im Zustande des Imago. Das speciﬁsch Cha‐
+rakteristische im Nervensystem der Oestriden aber besteht darin, dass
+der hintere Fortsatz des im Thorax gelegenen Nervenknoten sehr
+lang ist, während derselbe bei den Musciden viel kleiner ist. Dieser
+Fortsatz ist, wie wir es aus den Studien über die Verwandlungen
+des Nervensystems der Muscae Calypteratae wissen, ein Homologon
+der Bauchganglien und die übrige Masse dieses Nervenknotens ent‐
+spricht den Brustganglien, und zwar weist die viel bedeutendere
+Länge des letzteren als bei den Muscae Calypteratae darauf hin, dass
+das Nervensystem der Oestriden auf einer tieferen Stufe der Ent‐
+wickelung stehen geblieben ist, als bei Muscae Acalypterae indem</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="396" y="992"/>
+	<Point x="1869" y="992"/>
+	<Point x="1869" y="1057"/>
+	<Point x="1248" y="1057"/>
+	<Point x="1248" y="1149"/>
+	<Point x="1139" y="1149"/>
+	<Point x="1139" y="1299"/>
+	<Point x="1164" y="1299"/>
+	<Point x="1164" y="1368"/>
+	<Point x="1374" y="1368"/>
+	<Point x="1374" y="1439"/>
+	<Point x="451" y="1439"/>
+	<Point x="451" y="1219"/>
+	<Point x="449" y="1219"/>
+	<Point x="449" y="1057"/>
+	<Point x="396" y="1057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von Ed. Brandt sind folgende Arten untersucht worden:
+1) Cephalomyia ovis ♀, Larve.
+2) Cephalomyia trompe ♂.
+3) Gastrus equi ♀, Larve.
+4) Hypoderma bovis, Larve.
+5) Hypoderma tarandi ♀, ♂, Larve.</Unicode></TextEquiv></TextRegion></Page></PcGts>

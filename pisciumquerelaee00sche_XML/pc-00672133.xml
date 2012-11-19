@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672133">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-06T13:41:40</Created>
+	<LastChange>2012-03-12T14:34:09</LastChange></Metadata>
+	<Page imageFilename="00672133.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="119" y="124"/>
+	<Point x="1671" y="124"/>
+	<Point x="1671" y="1348"/>
+	<Point x="119" y="1348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vet. p. 36. Aroites majoribus eis. Aroita tubularis
+majoribus eis Bocconi, ſeu Pierre Et oilée avec les Et-
+oiles amples , item Pierre etoilée marquée de grands pores
+rayonés coraloides. Recherch.nature. p. 119. nec non
+Aﬂroites minoribus eis; &amp; Aroites minimis eis Spec.
+Lith. Helv. p. 39. Ludit enim variè hoc ſeu fole ,
+ſeu vegetabile marinum ellarum amplitudine, ob-
+literatione , indiinâ confuone , ut pro divers
+longè agnoſcat, qui rerum Naturaliumnon e probè
+gnarus. Tempus e autem , ut contrahatur Reg-
+num Mineralogicum quantum pote ﬁeri pote, imò,
+ut quæ hinc inde ſparſa jacent Mineralium nomina
+idem gniﬁcantia ad eundem reducantur Titulum ,
+ad imitationem Pinacis Bauhiniani, qui magno qui-
+dem Authoris ſudore, ac Labore colleus ingni e
+Tyronum ac Magirorum in Re Botanica adju-
+mento.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r5" type="other">
+	<Coords>
+	<Point x="657" y="46"/>
+	<Point x="821" y="46"/>
+	<Point x="821" y="121"/>
+	<Point x="657" y="121"/></Coords></GraphicRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="848" y="63"/>
+	<Point x="914" y="63"/>
+	<Point x="914" y="120"/>
+	<Point x="848" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>33</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7" type="other">
+	<Coords>
+	<Point x="936" y="43"/>
+	<Point x="1129" y="43"/>
+	<Point x="1129" y="120"/>
+	<Point x="936" y="120"/></Coords></GraphicRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="120" y="1354"/>
+	<Point x="877" y="1354"/>
+	<Point x="1672" y="1355"/>
+	<Point x="1672" y="2477"/>
+	<Point x="1623" y="2478"/>
+	<Point x="1604" y="2493"/>
+	<Point x="1577" y="2492"/>
+	<Point x="1562" y="2485"/>
+	<Point x="1125" y="2484"/>
+	<Point x="1098" y="2512"/>
+	<Point x="119" y="2512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Caryophyllus Marinus folis prope Bo-
+noniam inventus, ex tenui umbone in latam py-
+ramidis inar, vel caryophylli hortens ſurgit ban
+transverm, &amp; in longum riatus, riis à peripheria
+ad centrum concurrentibus. Cum hoc Diluviano
+foli conferri meretur Fungus lapideus Plot Nat. Hi.
+of Staﬀordsh.cap. V. p. 189. Tab. XII. ﬁg. 3. &amp; 4. Po-
+det Author hujus ſcripti Apologetici MSC. Collea-
+nea de Cornu Ammonis in ſeptentrione , exarata à Clari.
+viro Dn. Matthia Schachtio , Scholæ Cartermundens
+in Fionia Reore, magno Literaturæ Septentrionalis
+luu ante paucos Annos defuno, In hoc Scrip-
+to deping it fole norum, atque deſcribit mul non
+uno loco. Podeo , inquit lapidem incurvatum cingu-
+lis qua nodos, nec non variis for aminulis leviter incis</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1236" y="2491"/>
+	<Point x="1236" y="2563"/>
+	<Point x="1162" y="2563"/>
+	<Point x="1162" y="2491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="1521" y="2503"/>
+	<Point x="1621" y="2502"/>
+	<Point x="1645" y="2485"/>
+	<Point x="1669" y="2486"/>
+	<Point x="1669" y="2575"/>
+	<Point x="1521" y="2575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>qua</Unicode></TextEquiv></TextRegion></Page></PcGts>

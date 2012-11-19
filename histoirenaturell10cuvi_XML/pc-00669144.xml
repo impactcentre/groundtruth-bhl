@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669144">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:30:08</Created>
+	<LastChange>2012-02-09T16:27:35</LastChange></Metadata>
+	<Page imageFilename="00669144.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="283" y="291"/>
+	<Point x="1717" y="291"/>
+	<Point x="1719" y="1712"/>
+	<Point x="869" y="1713"/>
+	<Point x="750" y="1731"/>
+	<Point x="719" y="1731"/>
+	<Point x="286" y="1734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gnit au poisson d’Artedi, comme synonyme,
+non-seulement ce n.° 3 ou glauco-pareius,
+mais un poisson de la mer Rouge, décrit
+au Caire par Hasselquist, et qui (on aura
+peine à le croire) n’est autre que le nason.
+Je n’irai pas chercher mes preuves ailleurs
+que dans la description même: l’auteur y dé‐
+crit distinctement deux épines à chaque côté
+de la queue (aculeis in utroque latere ad
+caudam duobus); et pour celle de tête voici
+ses termes: spina conica, robusta, superius
+planiuscula, subtus et lateribus convexa,
+apice convexa, obtusa, e basi capitis oritur
+ante oculos; a basi lata partem posteriorem
+verticis constituente, ad angulum acutum
+a capite elevatur, ultra dimidium dorsi ca‐
+pitis extensa.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="287" y="1738"/>
+	<Point x="772" y="1736"/>
+	<Point x="869" y="1721"/>
+	<Point x="1720" y="1719"/>
+	<Point x="1721" y="2494"/>
+	<Point x="285" y="2494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rien n’est assurément plus clair; mais pour‐
+quoi cette description d’une corne qui part
+du front, se trouve-t-elle sous la rubrique
+branchiæ? Je l’ignore, et je soupçonne que
+c’est l’ouvrage de Linné, éditeur de Hassel‐
+quist, lequel, ne connaissant point alors le
+nason, dont il ne parle pas même dans sa
+douzième édition, et ne se doutant point qu’il
+y eût des poissons avec une corne au front,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="360" y="2582"/>
+	<Point x="1349" y="2582"/>
+	<Point x="1349" y="2660"/>
+	<Point x="360" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Hasselquist, Voyage, édit. suéd., p. 333.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="292" y="199"/>
+	<Point x="427" y="199"/>
+	<Point x="427" y="269"/>
+	<Point x="292" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>212</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="743" y="199"/>
+	<Point x="1248" y="199"/>
+	<Point x="1248" y="269"/>
+	<Point x="743" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE X. TEUTHIES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="307" y="2517"/>
+	<Point x="1721" y="2517"/>
+	<Point x="1721" y="2557"/>
+	<Point x="307" y="2557"/></Coords></SeparatorRegion></Page></PcGts>

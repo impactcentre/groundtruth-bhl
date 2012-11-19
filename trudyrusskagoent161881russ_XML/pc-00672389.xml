@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672389">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:25:46</Created>
+	<LastChange>2012-02-10T09:54:38</LastChange></Metadata>
+	<Page imageFilename="00672389.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="828" y="162"/>
+	<Point x="1150" y="162"/>
+	<Point x="1150" y="230"/>
+	<Point x="828" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 195 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="124" y="299"/>
+	<Point x="1874" y="299"/>
+	<Point x="1874" y="457"/>
+	<Point x="124" y="457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬂügeln durch das Vorhandensein von Queraderpunkten und
+manches Andere verschieden ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="121" y="466"/>
+	<Point x="1885" y="466"/>
+	<Point x="1885" y="1039"/>
+	<Point x="121" y="1039"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Trichromata ist kleiner als Flavicans, also eine der klein-
+sten Phycideen. Fühler braun, am Wurzelgliede wie die Stirn
+bräunlich ochergelb. Taster kürzer als bei Flavicans, bräun-
+lich, das zweite Glied in der Mitte und an der Spitze hell-
+grau; das dritte Glied viel kürzer als das zweite, schwarzbraun
+und dadurch sehr auﬀallend. Rückenschild einfarbig trüb ocher-
+gelb; Hinterleib trüb gelbgrau. Alle Füsse dunkelbraun.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="107" y="1050"/>
+	<Point x="1885" y="1050"/>
+	<Point x="1885" y="2530"/>
+	<Point x="107" y="2530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel 3‴ lang, kürzer und nach hinten breiter als
+bei Flavicans. Grundfarbe ein ochergelb gemischtes Citronen-
+gelb. Vorderrand hinter der Mitte bis zur Querlinie ziemlich
+breit und auﬀallend weiss. Das Enddrittel der Fläche ist wie
+bei Flavicans gefärbt, auch mit gleicher Querlinie bezeichnet,
+die aber deutlich bis zum Innenrand reicht und hier in gelber
+Farbe liegt. Das Purpurrothbraun ist an seiner Mitte ein-
+wärts bis über die zwei mehr oder weniger scharfen, schwar-
+zen Queraderpunkte erweitert und endigt in der Flügelhälfte
+mit einem grossen, in der Flügelfalte bis zur Subdorsalader
+reichenden, verdunkelten Fleck. An der Basis trägt der In-
+nenrand einen ebenso gefärbten schmalen, hinten zugespitzten
+Streifen. Der Vorderrand selbst ist im weissen Felde mit einer
+dünnen, braunrothen Linie bis hinter die Queraderpunkte be-
+zeichnet. Vor der undeutlichen, schwarzbraunen Punktreihe
+des Hinterrandes zieht ein sehr verloschener hellgrauer Streifen,
+von welchem bei Flavicans nur die obere Hälfte, und diese
+noch unbestimmter sichtbar ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="126" y="2537"/>
+	<Point x="1878" y="2537"/>
+	<Point x="1878" y="2696"/>
+	<Point x="126" y="2696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel und Unterseite zeigen keine Abweichung von
+Flavicans, auch das Geäder nicht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="132" y="2701"/>
+	<Point x="1899" y="2701"/>
+	<Point x="1899" y="3112"/>
+	<Point x="132" y="3112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Drei Exemplare wurden an gleichem Ort und zu gleicher
+Zeit mit Flavicans gefangen. Die zwei scheinbaren ♂♂ sind
+durch nichts von dem dritten Exemplare, einem ♀, abweichend
+als durch ihren stumpfen, seitwärts schräg von oben nach unten
+zusammengedrückten Analbusch. Beim ♀, dessen Hinterleib ge-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1633" y="3130"/>
+	<Point x="1732" y="3130"/>
+	<Point x="1732" y="3185"/>
+	<Point x="1633" y="3185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>13*</Unicode></TextEquiv></TextRegion></Page></PcGts>

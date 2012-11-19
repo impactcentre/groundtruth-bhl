@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669378">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T00:28:56</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669378.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r16" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r18" index="8"/>
+	<RegionRefIndexed regionRef="r20" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="357" y="235"/>
+	<Point x="1792" y="235"/>
+	<Point x="1792" y="419"/>
+	<Point x="357" y="419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>qui lui ressemble par les formes, mais qui se
+rapproche davantage de celle de la Caroline;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="419" y="426"/>
+	<Point x="1803" y="426"/>
+	<Point x="1803" y="1050"/>
+	<Point x="419" y="1050"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sa tête est encore plus petite que dans cette der-
+nière; elle est comprise six fois et demie dans sa
+longueur: celle de l'atherina carolina n'y est que
+cinq fois et demie, et celle de l'espèce de nos côtes n'y
+est que cinq fois. Le corps est beaucoup plus grêle:
+sa hauteur est comprise sept fois et un peu plus dans
+sa longueur totale. En outre, cette espèce du Cap n'a
+que sept rayons à sa première dorsale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="374" y="1619"/>
+	<Point x="1805" y="1619"/>
+	<Point x="1805" y="1966"/>
+	<Point x="374" y="1966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les mêmes côtes du Cap ont procuré à
+M. Reynauld un autre roséré, aussi voisin
+de celui de nos côtes que les deux espèces
+précédentes;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="432" y="1991"/>
+	<Point x="1819" y="1991"/>
+	<Point x="1819" y="2439"/>
+	<Point x="432" y="2439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais celle-ci a le corps plus large et plus court,
+car la hauteur n'est pas cinq fois dans la longueur
+totale: elle a un rayon de moins à la première dor-
+sale, et cette nageoire est sensiblement plus basse et
+plus étroite. Sa seconde dorsale a quinze rayons
+mous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1794" y="1055"/>
+	<Point x="1794" y="1134"/>
+	<Point x="419" y="1134"/>
+	<Point x="419" y="1055"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 7—1/13; A. 1/16; C. 17; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1794" y="1136"/>
+	<Point x="1794" y="1287"/>
+	<Point x="419" y="1287"/>
+	<Point x="419" y="1136"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus sont longs de quatre pouces et
+demi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="1551" y="1383"/>
+	<Point x="1551" y="1486"/>
+	<Point x="607" y="1486"/>
+	<Point x="607" y="1383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le ROSÉRÉ A PETITE DORSALE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="1551" y="1488"/>
+	<Point x="1551" y="1592"/>
+	<Point x="607" y="1592"/>
+	<Point x="607" y="1488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina parvipinnis, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1805" y="2457"/>
+	<Point x="1805" y="2532"/>
+	<Point x="508" y="2532"/>
+	<Point x="508" y="2457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 6—1/15; A. 1/18; C. 17; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1805" y="2534"/>
+	<Point x="1805" y="2624"/>
+	<Point x="508" y="2624"/>
+	<Point x="508" y="2534"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La bande argentée est très-brillante. Il y a sur le</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="page-number">
+	<Coords>
+	<Point x="531" y="132"/>
+	<Point x="531" y="205"/>
+	<Point x="357" y="205"/>
+	<Point x="357" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>446</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="header">
+	<Coords>
+	<Point x="818" y="132"/>
+	<Point x="1305" y="132"/>
+	<Point x="1305" y="205"/>
+	<Point x="818" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

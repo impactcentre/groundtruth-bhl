@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672345">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:16:51</Created>
+	<LastChange>2012-02-10T09:54:32</LastChange></Metadata>
+	<Page imageFilename="00672345.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="769" y="130"/>
+	<Point x="1089" y="130"/>
+	<Point x="1089" y="198"/>
+	<Point x="769" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 151 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="57" y="253"/>
+	<Point x="1798" y="253"/>
+	<Point x="1798" y="849"/>
+	<Point x="57" y="849"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rüssel kürzer als der Kopf, nicht länger als breit, oben
+ﬂach, ohne Kiel oder Furchen und wie die Stirn fein runzlig
+punktirt, diese mit feinem, länglichem Grübchen; Augen gross,
+ganz ﬂach; Fühler kurz und ziemlich kräftig, das erste Geissel-
+glied fast doppelt so lang als das zweite, dieses wenig länger
+als breit und als das dritte Glied, die äussern viel breiter als
+lang, die Keule kurz oval.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="66" y="858"/>
+	<Point x="1798" y="858"/>
+	<Point x="1798" y="2033"/>
+	<Point x="66" y="2033"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Halsschild viel breiter als lang, seitlich ziemlich stark ge-
+rundet; die grösste Breite fällt weit hinter die Mitte, etwa
+in das hintere Viertel der Länge; von dieser breitesten Stelle
+ist dasselbe nach vorn allmählig, nach hinten rasch verschmälert
+und so kommt es, dass es am Vorderrande kaum schmäler ist,
+als am Hinterrande; oben ist dasselbe ziemlich stark gewölbt
+und fein runzlig gekörnt; so erscheint es wenigstens auf den
+ersten Anblick; betrachtet man dasselbe genauer und unter
+stärkerer Vergrösserung, so sieht man, dass es eigentlich sehr
+dicht mit groben Punkten besetzt ist, so dicht, dass die
+Zwischenräume nur noch als runzlige Körnchen sich präsen-
+tiren; man könnte dasselbe also eben so gut «sehr dicht und
+ziemlich grob punktirt» nennen. In der Mitte ist eine platte,
+wenig erhabene, vorn und hinten abgekürzte Mittellinie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="53" y="2039"/>
+	<Point x="1803" y="2039"/>
+	<Point x="1803" y="2641"/>
+	<Point x="53" y="2641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Flügeldecken oval, doppelt so lang und fast doppelt so
+breit als das Halsschild und nur 11/3 mal so lang als breit,
+seitlich in ziemlich regelmässigem Bogen gerundet, die grösste
+Breite etwa vor die Mitte fallend. Oben sind die Flügeldecken
+gewölbt, mit ziemlich kräftigen Furchen und in diesen nicht
+sehr deutlich punktirt, diese Punkte sehr gedrängt, die Zwischen-
+räume gewölbt und fein gekörnt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="42" y="2644"/>
+	<Point x="1801" y="2644"/>
+	<Point x="1801" y="2898"/>
+	<Point x="42" y="2898"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beine ziemlich kräftig, die Schenkel mässig verdickt, un-
+gezähnt, alle Schienen gerade, die vorderen an der Spitze stark
+verbreitert, an der Innenseite ohne Erhabenheiten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="55" y="2905"/>
+	<Point x="1787" y="2905"/>
+	<Point x="1787" y="3082"/>
+	<Point x="55" y="3082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Des kurzen, breiten Rüssels wegen könnte man veranlasst
+werden, diese Art in die Untergattung Tournieria zu stellen,</Unicode></TextEquiv></TextRegion></Page></PcGts>

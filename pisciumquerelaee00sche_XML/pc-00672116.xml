@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672116">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-06T13:37:46</Created>
+	<LastChange>2012-03-12T14:34:08</LastChange></Metadata>
+	<Page imageFilename="00672116.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="577" y="166"/>
+	<Point x="2147" y="167"/>
+	<Point x="2141" y="2283"/>
+	<Point x="1650" y="2283"/>
+	<Point x="1648" y="2322"/>
+	<Point x="1375" y="2322"/>
+	<Point x="1359" y="2335"/>
+	<Point x="1339" y="2334"/>
+	<Point x="1338" y="2321"/>
+	<Point x="1021" y="2321"/>
+	<Point x="1019" y="2315"/>
+	<Point x="946" y="2315"/>
+	<Point x="590" y="2319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Terram prorati, derione digniores, quàm refuta-
+tione ſolidâ, populo jam fabula fai. In ipſo hoc
+ſpeculo, reè oculos aperiunt, vident ultâ mente
+Corœbos, cerebra Helleboro egentia. Quomodo
+enim,quæſumus, in eadem hâc lapidea maâ ex for-
+tuita atomorum incurvaturam ariæ formem exten
+one prodiit, non unica duntaxat aria, ſed ejusdem
+ﬁguræ plures,invicem parallelæ,prout in piſcibus vi-
+ventibus ? Quomodo aliæ prodierunt mplices,aliæ
+biſurcatæ? Quomodo plures uni dorſo, ejusque ver-
+tebris aﬃxæ? Imò quomodo prodiere in hac &amp; præ-
+cedenti Tabula expreæ Percæ, Anguillæ, in prima
+Lucius? Qui ſolus omnem Epicureorum Phalangem
+ad ��������� redigere valet. Archæi promachi deplo-
+rabunt idoli ſui informatione Lapidis, quem nunc
+contemplandum ſummus, errores. ldeiæ accu-
+ſabunt idearum volitantium diviſam conſuonem,
+Accuſent autem potius confuſam ����������� ſuo-
+rum divionem. Nos infortunium, quod nobis in
+univerſali illa rage contigit,mplici viâ pro conceſ-
+ſa loquendi libertate enuntiabimus. ln pulmenta-
+cea maa Terr-aquea natabamus juxta Animantia
+alia, &amp; Homines, horumque partes, Piſces integri, &amp;
+à prævia ſaxorum, Lignorum , aliorum corporum
+collione in frua diſcerpti, natabant Vertebræ, na-
+tabant pinnæ, capita, caudæ, ariæ, &amp; unà cum terre-
+ri materia deorſum traæ in ſubdentia illa, rato-
+rum formatrice, veigia ſua impreerunt lapidibus,
+tùm adhuc mollibus, lutos. Nihil hîc diﬃcultatis,
+nihil coaum, nullum myerium.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1964" y="2608"/>
+	<Point x="2152" y="2608"/>
+	<Point x="2152" y="2666"/>
+	<Point x="1964" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mus,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="607" y="2326"/>
+	<Point x="815" y="2322"/>
+	<Point x="838" y="2322"/>
+	<Point x="845" y="2321"/>
+	<Point x="1000" y="2321"/>
+	<Point x="1002" y="2325"/>
+	<Point x="1328" y="2325"/>
+	<Point x="1331" y="2340"/>
+	<Point x="1386" y="2339"/>
+	<Point x="1396" y="2328"/>
+	<Point x="2142" y="2318"/>
+	<Point x="2138" y="2591"/>
+	<Point x="607" y="2585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Confuſa Piſcium fragmenta excipit integerrimus
+Capito in Lapide ﬁli Oningen , ex Mu-
+ſeo Nob. Dn. Capitanei Henrici Zolleri; integerri-</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r5" type="other">
+	<Coords>
+	<Point x="1127" y="86"/>
+	<Point x="1127" y="161"/>
+	<Point x="1295" y="161"/>
+	<Point x="1295" y="86"/></Coords></GraphicRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1322" y="92"/>
+	<Point x="1322" y="155"/>
+	<Point x="1387" y="155"/>
+	<Point x="1387" y="92"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7" type="other">
+	<Coords>
+	<Point x="1407" y="82"/>
+	<Point x="1407" y="161"/>
+	<Point x="1571" y="161"/>
+	<Point x="1571" y="82"/></Coords></GraphicRegion></Page></PcGts>

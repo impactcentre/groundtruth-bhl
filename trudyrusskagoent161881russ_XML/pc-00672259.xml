@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672259">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T21:54:29</Created>
+	<LastChange>2012-02-10T09:54:15</LastChange></Metadata>
+	<Page imageFilename="00672259.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="204" y="738"/>
+	<Point x="1564" y="738"/>
+	<Point x="1564" y="914"/>
+	<Point x="204" y="914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lepidopteren-Fauna Kleinasien’s.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="820" y="950"/>
+	<Point x="954" y="950"/>
+	<Point x="954" y="1005"/>
+	<Point x="820" y="1005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="570" y="1062"/>
+	<Point x="1194" y="1062"/>
+	<Point x="1194" y="1143"/>
+	<Point x="570" y="1143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dr. O. STAUDINGER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="697" y="1172"/>
+	<Point x="1087" y="1172"/>
+	<Point x="1087" y="1263"/>
+	<Point x="697" y="1263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Fortsetzung.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="627" y="1372"/>
+	<Point x="1133" y="1372"/>
+	<Point x="1133" y="1491"/>
+	<Point x="627" y="1491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nachträge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="10" y="1527"/>
+	<Point x="1768" y="1527"/>
+	<Point x="1768" y="1863"/>
+	<Point x="10" y="1863"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In den letzten Jahren, seit das Vorstehende gedruckt
+wurde, erhielt ich noch mehrere Sendungen von Johann
+Manisadjian aus Amasia, die folgende Nachträge nöthig
+machen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="16" y="1871"/>
+	<Point x="1767" y="1871"/>
+	<Point x="1767" y="2195"/>
+	<Point x="16" y="2195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rhodocera Cleopatra v. Taurica Stgr. Da die Rhod.
+Maderensis Feld. eine ganz andere, grössere, fast ganz hoch-
+rothe Form oder Art ist, so nenne ich die blasse Form vom
+Taurus v. Taurica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="31" y="2202"/>
+	<Point x="1779" y="2202"/>
+	<Point x="1779" y="3114"/>
+	<Point x="31" y="3114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Polyom. Satraps Stgr. Johann sandte mir im Herbst
+1878 eine grössere Anzahl von Polyommatus als Asabinus ein,
+unter denen sich eine kleine Anzahl befand, die nur zu dieser
+neu aufgestellten Art Satraps gerechnet werden können. Die
+Stücke sind den lydischen Satraps fast gleich, nur sind die
+schwarzen Punkte durchschnittlich nicht so gross, und die
+Unterseite der Hinterﬂügel nicht ganz so dunkelgrau. Leider
+hatte Johann gar kein Stück mit Zeitangaben versehn und
+im vorigen Jahr, wo ich ihn dies zu thun bat, ﬁng er die Art
+gar nicht. Ich glaube jetzt aber ziemlich sicher, dass Satraps
+nur eine andere, ziemlich zweifellos die erste Generation von</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="802" y="1304"/>
+	<Point x="802" y="1327"/>
+	<Point x="981" y="1327"/>
+	<Point x="981" y="1304"/></Coords></SeparatorRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="1561" y="3120"/>
+	<Point x="1639" y="3120"/>
+	<Point x="1639" y="3198"/>
+	<Point x="1561" y="3198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="155" y="3120"/>
+	<Point x="482" y="3120"/>
+	<Point x="482" y="3198"/>
+	<Point x="155" y="3198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion></Page></PcGts>

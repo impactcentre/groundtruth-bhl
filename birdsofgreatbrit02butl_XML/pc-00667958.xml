@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667958">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T06:46:59</Created>
+	<LastChange>2012-02-10T09:52:26</LastChange></Metadata>
+	<Page imageFilename="00667958.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="185" y="235"/>
+	<Point x="285" y="235"/>
+	<Point x="285" y="311"/>
+	<Point x="185" y="311"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>66</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="952" y="228"/>
+	<Point x="1283" y="228"/>
+	<Point x="1283" y="314"/>
+	<Point x="952" y="314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SISKIN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="144" y="363"/>
+	<Point x="2071" y="360"/>
+	<Point x="2067" y="1175"/>
+	<Point x="883" y="1181"/>
+	<Point x="140" y="1180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>to the inner web excepting towards the tips, the primaries narrowly margined with
+yellow and, excepting the ﬁrst three, with broad yellow bases, forming a belt
+which extends across the secondaries: central tail-feathers blackish, the remainder
+yellow, with black shafts and broad blackish tips; a broad superciliary streak
+extending from above the eye to the nape; lores blackish; sides of face greenish
+yellow, more green on the ear-coverts; chin black; throat and breast bright
+yellow; belly white, the ﬂanks sordid yellowish, streaked with black: beak horn-
+brown, paler at the base (becoming paler and pinker in conﬁnement); feet pale
+brown (also becoming more ﬂeshy in captivity); iris dark brown. The female
+is slightly smaller and has a broader crown than the male, she is altogether duller
+and greyer in colouring, with less yellow on the rump, wings, and tail, and with
+the underparts much more streaked; she has also no black on the crown or chin.
+The young are still duller and greyer than the female.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="140" y="1185"/>
+	<Point x="2069" y="1182"/>
+	<Point x="2073" y="2116"/>
+	<Point x="136" y="2119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Siskin is a bird of the pine woods during the breeding season, though
+in winter it wanders about the country in small or sometimes large ﬂocks, which
+reach the south of England in September, and are eagerly welcomed by the bird-
+catchers who net considerable numbers to sell as cage-birds. The Siskin is an
+extremely restless bird, and in all its actions reminds one strongly of the Tit-mice;
+its ﬂight is rapid but irregular, like its song; but the latter to my mind is superior
+to that of any other British Finch, in spite of its comical ﬁnish with six coupled
+notes and a harsh chair at the end. The call-note is neither glee, zeisig nor a weak
+tit-tit-tit-tit; it is distinctly hootelee, hootelee; the word glee is doubtless a corruption
+of the telee (which is all that the ear can compass in the open, though in an aviary
+with sloping roof the whole sound is clearly audible); the term zeisig probably
+was given to this bird by the Germans more on account of its frivolous nature,
+than because it in the slightest degree represented the character of either song
+or call-note;* I can only explain the quadrupled tit, on the assumption that a
+party of young Robins happened to be in a tree occupied by Siskins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="137" y="2124"/>
+	<Point x="2072" y="2123"/>
+	<Point x="2066" y="2696"/>
+	<Point x="133" y="2686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mr. R. J. Ussher’s notes on this species, which I quoted in my “Handbook
+of British Oology,” will bear repeating here; he says:—“In April and May,
+1857. Siskins were unusually common at Cappagh, in the woods of ﬁr, both on
+the low ground and on the hill-side; in fact, the woods were continually ringing
+with the song of this bird. You might hear it as it ﬂew over the wood uttering
+its peculiar cry, half chirp, half song; at one time ﬂying straight forward, as if
+to some destination, then turning and making a circuit, as if it did not know its
+own mind, or as if it were loth to descend from its joyous ﬂight, then again
+darting oﬀ in a new direction, whilst its notes would gradually die away. Its</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="270" y="2697"/>
+	<Point x="1218" y="2697"/>
+	<Point x="1218" y="2750"/>
+	<Point x="270" y="2750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* The Mealy Redpoll is sometimes called “Leinzeisig.”</Unicode></TextEquiv></TextRegion></Page></PcGts>

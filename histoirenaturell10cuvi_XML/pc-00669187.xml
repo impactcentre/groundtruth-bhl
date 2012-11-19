@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669187">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:35:27</Created>
+	<LastChange>2012-03-12T14:33:48</LastChange></Metadata>
+	<Page imageFilename="00669187.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/>
+	<RegionRefIndexed regionRef="r24" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="142" y="296"/>
+	<Point x="1500" y="296"/>
+	<Point x="1500" y="686"/>
+	<Point x="142" y="686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est d’un gris-brun clair, et semé sur tout le corps
+de très-petits points noirs, parmi lesquels en sont
+mêlés d’un peu plus grands. Une ligne fauve règne
+le long de la base de sa dorsale et de son anale,
+qui sont grises, ainsi que ses autres nageoires.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="80" y="695"/>
+	<Point x="1519" y="695"/>
+	<Point x="1519" y="1453"/>
+	<Point x="80" y="1453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Renard l’a fait graver, I.re part., pl. 14,
+ﬁg. 82. Cette ﬁgure est étiquetée Mauritius
+kaantje, ce qui veut dire petit panier ou
+petit bateau de l’Isle-de-France; mais il l’en‐
+lumine de blanc de lait avec du noir à la tête,
+ce qui n’est pas dans l’original, et il supprime
+le rouge des nageoires. Il l’appelle de même
+kaantje, et tête de cochon, et mangeur d’huî‐
+tres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="73" y="1457"/>
+	<Point x="1509" y="1457"/>
+	<Point x="1509" y="1704"/>
+	<Point x="73" y="1704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il semble que c’est aussi le n.° 490 de Va-
+lentyn, mais la forme en est abaissée et il y
+a encore d’autres altérations.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="74" y="1713"/>
+	<Point x="1514" y="1713"/>
+	<Point x="1514" y="1907"/>
+	<Point x="74" y="1907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ne l’ayant pas vu, nous ne le plaçons ici que
+pour ﬁxer sur lui l’attention des navigateurs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="66" y="2162"/>
+	<Point x="1543" y="2162"/>
+	<Point x="1543" y="2435"/>
+	<Point x="66" y="2435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’Isle-de-France a un autre acanthure à
+quatre épines dorsales, qui nous a été envoyé
+par M. Desjardins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="139" y="2444"/>
+	<Point x="1518" y="2444"/>
+	<Point x="1518" y="2695"/>
+	<Point x="139" y="2695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il est un peu plus oblong que le précédent; sa plus
+grande hauteur, qui est de la nuque au bassin, est deux
+fois et un cinquième dans sa longueur totale; son pro-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="492" y="196"/>
+	<Point x="1082" y="196"/>
+	<Point x="1082" y="284"/>
+	<Point x="492" y="284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1357" y="196"/>
+	<Point x="1494" y="196"/>
+	<Point x="1494" y="284"/>
+	<Point x="1357" y="284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>255</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="321" y="1945"/>
+	<Point x="1289" y="1945"/>
+	<Point x="1289" y="2041"/>
+	<Point x="321" y="2041"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ACANTHURE A PIERRERIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="321" y="2061"/>
+	<Point x="1289" y="2061"/>
+	<Point x="1289" y="2151"/>
+	<Point x="321" y="2151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Acanthurus gemmatus, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

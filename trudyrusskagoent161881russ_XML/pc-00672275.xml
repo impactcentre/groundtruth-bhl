@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672275">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:57:39</Created>
+	<LastChange>2012-02-10T09:54:17</LastChange></Metadata>
+	<Page imageFilename="00672275.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="818" y="129"/>
+	<Point x="1151" y="129"/>
+	<Point x="1151" y="206"/>
+	<Point x="818" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 81 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="100" y="239"/>
+	<Point x="1848" y="239"/>
+	<Point x="1845" y="520"/>
+	<Point x="101" y="520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hingegen dürfte ein kleines dreiﬂügeliges, sonst frisches Stück,
+am 26 April von Johann bei Amasia gefangen, zn Graphata
+(oder Mayeri?) gehören.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="93" y="528"/>
+	<Point x="1845" y="528"/>
+	<Point x="1845" y="1187"/>
+	<Point x="1441" y="1192"/>
+	<Point x="93" y="1187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eup. Isogrammaria HS. Johann sandte mir ein ♂ ein,
+dass ich wegen den weisslichen Doppellinien, die vor dem Vor‐
+derrande einen scharfen Winkel machen, nur zu dieser Art
+ziehen möchte, obwohl die weisse Linie, welche Isogramma‐
+ria fast vor dem Aussenrande führt, ziemlich verloschen ist.
+Bei genauer Betrachtung glaube ich auch fast, dass das am
+16 Juni von uns bei Amasia gefangene Stück, das ich bei
+Plumbeolata auﬀührte, auch eine verdunkelte Isogrammaria ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="89" y="1193"/>
+	<Point x="701" y="1196"/>
+	<Point x="1845" y="1198"/>
+	<Point x="1844" y="1855"/>
+	<Point x="89" y="1855"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eup.? Castigata Hb. Johann sandte mir noch drei
+frische Stücke einer Art ein, die ich sehr fraglich als eine
+Castigata var. ansehe. Sie sind grösser und etwas dunkler
+und schärfer gezeichnet. Das früher als fragliche Castigata
+aufgeführte ♀ ist weit lichter, aber geﬂogen und scheint mit
+kaum zu diesen drei jetzt erhaltenen Stücken zu gehören.
+Doch wage ich es nicht, nach diesen Stücken eine neue Art
+aufzustellen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="96" y="1864"/>
+	<Point x="1829" y="1864"/>
+	<Point x="1829" y="2028"/>
+	<Point x="96" y="2028"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Botys Segetalis HS. Mann ﬁng im Juli einige in jun‐
+gen Gebüschen bei Brussa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="82" y="2035"/>
+	<Point x="1835" y="2035"/>
+	<Point x="1835" y="3117"/>
+	<Point x="82" y="3117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Crambus Dimorphellus Stgr. n. sp. (an Incertellus ♀ ?).
+Johann sandte mir im Ganzen 8 Crambus ein, die ich auf
+den ersten Blick alle für Incertellus hielt. Hiervon sind 3
+♂♂ (zwei Stück ziemlich gut am 30 August und 5 Septem‐
+ber gefangen) und 5 ♀♀ (vier ziemlich gut am 3 und 4 Sep‐
+tember gefangen). Die ♂♂ stimmen mit zwei Incertellus aus
+dem Caucasus (von denen das eine aus Lederer’s Sammlung
+vielleicht das Original zu Herrich-Schäffer’s Beschreibung
+ist) überein und sind sicher diese Art. Aber die 5 ♀♀ sind
+davon verschieden, besonders durch die äussere Querlinie der
+Vorderﬂügel, die bei ihnen nur schwach S-förmig gebogen ist.
+Bei Incertellus macht sie aber vorne (oben) nach aussen einen
+spitzen Winkel, biegt dann tief nach innen, wo sie unfern des</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="234" y="3134"/>
+	<Point x="537" y="3134"/>
+	<Point x="537" y="3197"/>
+	<Point x="234" y="3197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="1628" y="3132"/>
+	<Point x="1676" y="3132"/>
+	<Point x="1676" y="3190"/>
+	<Point x="1628" y="3190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6</Unicode></TextEquiv></TextRegion></Page></PcGts>

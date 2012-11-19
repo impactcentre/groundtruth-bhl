@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668834">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:47:51</Created>
+	<LastChange>2012-02-10T10:29:39</LastChange></Metadata>
+	<Page imageFilename="00668834.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1000" y="92"/>
+	<Point x="1491" y="92"/>
+	<Point x="1491" y="179"/>
+	<Point x="1000" y="179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA.—PLATE IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="326" y="186"/>
+	<Point x="1223" y="186"/>
+	<Point x="1223" y="647"/>
+	<Point x="326" y="647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BANKS’ TURRITELLA. Shell pyramidally turreted, thick,
+rather swollen and obtusely angled at the base, whorls
+ﬁfteen in number, very minutely granulously reticu‐
+lated throughout, concave, encircled with a middle
+ridge and other irregular smaller ones, rounded at the
+lower edge, sutures indistinct, columella peculiarly
+produced in a twisted manner, aperture somewhat
+square; ash-olive, mottled with black and white,
+ridges articulated with black.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="1269" y="206"/>
+	<Point x="1646" y="206"/>
+	<Point x="1646" y="248"/>
+	<Point x="1269" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GRAY, MSS. Brit. Mus.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="1233" y="208"/>
+	<Point x="1235" y="445"/>
+	<Point x="1233" y="640"/>
+	<Point x="1260" y="640"/>
+	<Point x="1260" y="208"/></Coords></SeparatorRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1265" y="252"/>
+	<Point x="2167" y="252"/>
+	<Point x="2167" y="352"/>
+	<Point x="1265" y="352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Panama (dredged from sandy mud at the depth of
+ten fathoms); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1267" y="358"/>
+	<Point x="2169" y="358"/>
+	<Point x="2169" y="560"/>
+	<Point x="1267" y="560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A solid pyramidal shell in which the whorls are convex
+in the middle, rounded at the lower edge, and encircled
+with neatly articulated ridges, one of which is central and
+prominent.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="1012" y="1189"/>
+	<Point x="1012" y="1212"/>
+	<Point x="1475" y="1212"/>
+	<Point x="1475" y="1189"/></Coords></SeparatorRegion></Page></PcGts>

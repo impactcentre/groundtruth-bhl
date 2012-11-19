@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667994">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:50:40</Created>
+	<LastChange>2012-02-10T09:52:29</LastChange></Metadata>
+	<Page imageFilename="00667994.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="39" y="266"/>
+	<Point x="2173" y="266"/>
+	<Point x="2173" y="2691"/>
+	<Point x="39" y="2691"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="865" y="2856"/>
+	<Point x="1287" y="2856"/>
+	<Point x="1287" y="2909"/>
+	<Point x="865" y="2909"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LINNET ♀, � �.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="1000" y="2936"/>
+	<Point x="1000" y="2970"/>
+	<Point x="1175" y="2970"/>
+	<Point x="1175" y="2936"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 79.</Unicode></TextEquiv></TextRegion></Page></PcGts>

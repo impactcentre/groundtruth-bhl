@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672219">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T21:47:03</Created>
+	<LastChange>2012-02-10T09:54:04</LastChange></Metadata>
+	<Page imageFilename="00672219.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="808" y="189"/>
+	<Point x="1112" y="189"/>
+	<Point x="1112" y="264"/>
+	<Point x="808" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 25 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="80" y="316"/>
+	<Point x="1844" y="316"/>
+	<Point x="1844" y="904"/>
+	<Point x="80" y="904"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>physes très petites, pointues ou arrondies (ﬁg. 47). A me‐
+sure de l’accroissement des muscles ces tendons deviennent
+aussi plus grands. La lame striée, ﬁgurée dans la ﬁg. 45,
+n’existe plus chez l’insecte parfait. Après la dernière mue
+aquatique sous cette lame se développe membrane sous-alaire,
+l’épinière acquérant en même temps les apophyses, qui servent
+de pivôts aux ailes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="78" y="908"/>
+	<Point x="1843" y="908"/>
+	<Point x="1843" y="1404"/>
+	<Point x="78" y="1404"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le muscle principal élévateur de l’aile s’attache à l’un de
+trois tendons, ﬁgurés aux bords intérieurs des ouvertures, for‐
+mées par les fourreaux, savoir au tendon moyen, qui est plus
+petit (ﬁg. 46). Les deux autres tendons, qui se trouvent de
+chaque côté de celui-ci, appartiennent à d’autres muscles dont
+il s’agira plus bas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="73" y="1410"/>
+	<Point x="1841" y="1410"/>
+	<Point x="1841" y="3164"/>
+	<Point x="73" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le mode d’insertion des muscles principaux dans la ré‐
+gion sternale de la larve est le suivant. Ces abaisseurs pos‐
+térieurs s’attachent sans l’intermédiaire de tendons aux bords
+postérieurs des pièces: l’iliaque (abaisseur de l’aile antérieure),
+et l’ischiatique (abaisseur de l’aile postérieure), par consé‐
+quent de la même manière que nous l’avons vu chez l’a‐
+dulte (ﬁg. 48). L’abaisseur antérieur de l’aile antérieure,
+étant au commencement de son organisation très mince, n’oc‐
+cupe qu’une partie de l’apophyse apodémique, qui chez l’imago
+en est couverte toute entière. En outre l’apophyse même est
+ici encore peu développée. Elle est d’abord très petite et a
+la forme d’une lame triangulaire sessile. Ensuite elle accepte
+l’air d’une lame courbé et ovalaire et enﬁn paraît sous forme
+d’une spatule attachée à la partie antérieure du mésothorax.
+L’apophyse apodémique servant de place d’attache pour l’abais‐
+seur antérieur de l’aile postérieure sort de l’angle antérieur de
+l’ischion sous forme d’un ﬁlament de consistance cornée et se
+dilate à son extrêmité en lame triangulaire (ﬁg. 50). Cette
+dernière sert à l’insertion de beaucoup de muscles, qui s’éten‐
+dent vers les pattes et le sternum de la larve. Or, le muscle
+abaisseur antérieur de l’aile postérieure n’occupe que la base</Unicode></TextEquiv></TextRegion></Page></PcGts>

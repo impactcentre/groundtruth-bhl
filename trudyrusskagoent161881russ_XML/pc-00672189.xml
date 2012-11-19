@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672189">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T13:42:47</Created>
+	<LastChange>2012-02-10T09:53:57</LastChange></Metadata>
+	<Page imageFilename="00672189.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="859" y="224"/>
+	<Point x="1170" y="224"/>
+	<Point x="1170" y="293"/>
+	<Point x="859" y="293"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— XVII —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="136" y="360"/>
+	<Point x="1882" y="360"/>
+	<Point x="1882" y="650"/>
+	<Point x="136" y="650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Einnahme betrug 4360 Rubel 54 Кор. Silber und die Aus‐
+gabe 2638 Rubel 58 Кор. Silber. Es blieben also 1721 Rubel 96 Кор.
+Silber zurück und ausserdem noch ein Reserve-Capital von 1291 Rubel
+35 Кор.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="135" y="654"/>
+	<Point x="1884" y="654"/>
+	<Point x="1884" y="1077"/>
+	<Point x="135" y="1077"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Im Jahre 1879 wurden herausgegeben: «Horae» Band XIV, Lie‐
+ferung 4 und Band XV, Lieferung 1, 2, 3; «Verhandlungen»
+(Тру���) Band XI, Lieferung 3 und Band XII, Lieferung 1 und 2,
+und im Ganzen 7 Lieferungen. Für diese Lieferungen hat die Ge‐
+sellschaft 1491 Rubel 66 Кор. der Buchdruckerei und den Künstlern
+gezahlt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="141" y="1083"/>
+	<Point x="1886" y="1083"/>
+	<Point x="1886" y="1296"/>
+	<Point x="141" y="1296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In diesem Jahre hat die Gesellschaft ihre Schriften in Russland
+für 75 Rubel und im Auslande für 190 Rubel 75 Кор. Silber und
+im Ganzen also für 265 Rubel 75 Кор. Silber verkauft.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="146" y="1300"/>
+	<Point x="1886" y="1300"/>
+	<Point x="1886" y="1582"/>
+	<Point x="146" y="1582"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Bibliothek der Gesellschaft wurde in diesem Jahre hauptsäch‐
+lich durch diejenigen Werke vervollständigt, die für ihre Schriften
+eingetauscht wurden. Bücher sind nur für 43 Rubel 90 Кор. Silber
+gekauft worden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="146" y="1588"/>
+	<Point x="1893" y="1588"/>
+	<Point x="1893" y="2519"/>
+	<Point x="146" y="2519"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die allgemeinen Versammlungen der Gesellschaft wurden durch
+vielfache Mittheilungen der Mitglieder belebt. Prof. Ed. Brandt
+machte mehrere Mittheilungen über die Anatomie der Insekten; auch
+N. A. Poletaiew, O. G. Poletaiew, N. A. Cholodkoffsky
+und O. Brehm theilten der Gesellschaft ihre Beobachtungen über
+den inneren Bau verschiedener Kerfe mit. J. A. Portschinsky
+hat mehrere sehr interressante und wichtige Beobachtungen über die
+schädlichen Insekten mitgetheilt. O. Radoczkowsky trug vor
+seine Beobachtungen über den Bau des Nestes der Megachile ruﬁ-
+tarsis und beschrieb einige neue Hymenopteren aus Demavend. Einige
+abwesende Mitglieder schickten der Gesellschaft Berichte über ihre
+entomologischen Excursionen, so Martianоw aus Minussinsk und
+Balassoglo aus Turkestan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="298" y="3197"/>
+	<Point x="607" y="3197"/>
+	<Point x="607" y="3245"/>
+	<Point x="298" y="3245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1705" y="3184"/>
+	<Point x="1750" y="3184"/>
+	<Point x="1750" y="3233"/>
+	<Point x="1705" y="3233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="859" y="2707"/>
+	<Point x="1192" y="2707"/>
+	<Point x="1192" y="2752"/>
+	<Point x="859" y="2752"/></Coords></SeparatorRegion></Page></PcGts>

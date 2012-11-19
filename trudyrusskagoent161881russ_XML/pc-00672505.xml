@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672505">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:47:15</Created>
+	<LastChange>2012-02-10T09:55:03</LastChange></Metadata>
+	<Page imageFilename="00672505.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="746" y="205"/>
+	<Point x="1035" y="205"/>
+	<Point x="1035" y="275"/>
+	<Point x="746" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 309 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="35" y="333"/>
+	<Point x="1749" y="333"/>
+	<Point x="1749" y="517"/>
+	<Point x="35" y="517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Im November auf den Höhen um Baku unter Steinen in
+wenigen Stücken von mir gefunden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="30" y="623"/>
+	<Point x="1758" y="623"/>
+	<Point x="1758" y="1210"/>
+	<Point x="30" y="1210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alophus lituratus n. sp. Elongato-ovatus, nigro-piceus,
+supra parce obscure fusco, subtus testaceo-pubescens; rostro, ca-
+pite, prothoracis lateribus, scutello, elytrorum margine, litura
+dorsale obliqua dense albidiore pubescentibus; fronte puncto
+impressa; prothorace punctatissimo, linea elevata postice ab-
+breviata; elytris basi subemarginatis, tenue punctato-striatis,
+interstitiis deplanatis, confertim punctatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="135" y="1219"/>
+	<Point x="776" y="1219"/>
+	<Point x="776" y="1303"/>
+	<Point x="135" y="1303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 12, lat. 5 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="30" y="1405"/>
+	<Point x="1760" y="1405"/>
+	<Point x="1760" y="1833"/>
+	<Point x="30" y="1833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A. lineatus Gebl. muss dem Lituratus bis auf die Zeich-
+nung recht ähnlich sein, welche übrigens bei einigen Arten
+dieser Gattung bis zur Auﬂösung in einzelne Punkte selbst bis
+zum vollständigen Verschwinden variirt; jedenfalls soll Linea-
+tus Gebl. „supra fusco-squamulosus" sein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="32" y="1846"/>
+	<Point x="1749" y="1846"/>
+	<Point x="1749" y="3085"/>
+	<Point x="32" y="3085"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rüssel und Kopf ohne Kiel und Furche, mit 1 tiefen
+Punkt auf der Stirn. Fühler bis auf die dunkle Keule pech-
+braun, spärlich behaart; Augenlappen kräftig; Thorax etwas
+breiter als lang, hinten breiter als vorn, vor der Mitte ge-
+rundet erweitert. Decken mit ﬂach gerundeten nicht vorste-
+henden Schultern, breiter, ﬂacher gewölbt und hinten ebenso
+zugespitzt als bei 4-guttatus Gebl., fein und ﬂach punktirt
+gestreift. Die hellen Halsschildseiten setzen sich auf die Schul-
+ter fort, Marginalsaum hell, in viele kleine Punkte aufgelösst,
+mit ihm in losem Zusammenhange eine schräg nach hinten
+gerichtete wischförmige, helle Makel vor der Mitte des 4, 5,
+6ten Zwischenraumes. Einige nicht symmetrisch gestellte
+Punkte zwischen Mitte und Spitze auf dem 2, 3, 4ten Zwi-
+schenraum scheinen Ueberbleibsel einer aufgelössten zweiten
+Makel zu sein.</Unicode></TextEquiv></TextRegion></Page></PcGts>

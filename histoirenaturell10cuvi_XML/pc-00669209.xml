@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669209">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T16:37:49</Created>
+	<LastChange>2012-03-12T14:33:49</LastChange></Metadata>
+	<Page imageFilename="00669209.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r23" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="103" y="369"/>
+	<Point x="1516" y="369"/>
+	<Point x="1516" y="796"/>
+	<Point x="103" y="796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>elle est nommée dans le texte ikan-mata-anam,
+expressions malaises dont la traduction est
+poisson à six yeux. Il y est dit que l’espèce
+demeure petite, mais qu’elle est fort délicate,
+et qu’on la mange surtout cuite à l’eau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="103" y="800"/>
+	<Point x="1514" y="800"/>
+	<Point x="1514" y="1058"/>
+	<Point x="103" y="1058"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ne doutons pas que ce ne soit une
+représentation de quelque espèce voisine de
+notre nason à épines courtes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="100" y="1329"/>
+	<Point x="1518" y="1329"/>
+	<Point x="1518" y="1838"/>
+	<Point x="100" y="1838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une espèce encore très-diﬀérente des pré‑
+cédentes, et où le proﬁl, très-court et presque
+vertical, est beaucoup dépassé par la corne,
+a été également assez bien représentée par
+Renard, I.re partie, pl. 24, ﬁg. 130, d’après
+Vlaming, n.° 127.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="101" y="1843"/>
+	<Point x="1520" y="1843"/>
+	<Point x="1520" y="2264"/>
+	<Point x="101" y="2264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le Cabinet du Roi l’a reçue depuis long‑
+temps de celui de Lisbonne, mais sans note
+sur son origine. Elle n’a point ce long proﬁl
+au-dessous de la corne, ni cette espèce de
+museau avancé des précédens;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="162" y="2283"/>
+	<Point x="1520" y="2283"/>
+	<Point x="1520" y="2740"/>
+	<Point x="162" y="2740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>sa tête, à prendre de la bouche jusqu’à l’ouïe, est
+aussi longue qu’elle est haute. De l’œil à l’angle
+rentrant sous la corne il y a deux diamètres de l’or‑
+bite, tandis que dans nos deux premières espèces il
+y en a à peine un. La corne naît aussi un peu plus
+bas que l’orbite, presque au-dessus de la bouche, et</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="580" y="275"/>
+	<Point x="1052" y="275"/>
+	<Point x="1052" y="351"/>
+	<Point x="580" y="351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. III. NASONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1386" y="275"/>
+	<Point x="1512" y="275"/>
+	<Point x="1512" y="351"/>
+	<Point x="1386" y="351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>277</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="372" y="1114"/>
+	<Point x="1257" y="1114"/>
+	<Point x="1257" y="1187"/>
+	<Point x="372" y="1187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le NASON A MUSEAU COURT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="434" y="1221"/>
+	<Point x="1189" y="1221"/>
+	<Point x="1189" y="1304"/>
+	<Point x="434" y="1304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Naseus brevirostris, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672136">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T06:12:19</Created>
+	<LastChange>2012-03-12T14:34:09</LastChange></Metadata>
+	<Page imageFilename="00672136.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1349" y="57"/>
+	<Point x="1433" y="57"/>
+	<Point x="1433" y="133"/>
+	<Point x="1349" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>36</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="607" y="136"/>
+	<Point x="1113" y="136"/>
+	<Point x="1121" y="138"/>
+	<Point x="1263" y="138"/>
+	<Point x="1639" y="136"/>
+	<Point x="2062" y="139"/>
+	<Point x="2144" y="140"/>
+	<Point x="2140" y="390"/>
+	<Point x="2147" y="405"/>
+	<Point x="2139" y="424"/>
+	<Point x="2139" y="453"/>
+	<Point x="2143" y="484"/>
+	<Point x="2146" y="496"/>
+	<Point x="2144" y="569"/>
+	<Point x="1984" y="567"/>
+	<Point x="1675" y="567"/>
+	<Point x="1541" y="566"/>
+	<Point x="1313" y="566"/>
+	<Point x="1311" y="568"/>
+	<Point x="1288" y="574"/>
+	<Point x="1282" y="573"/>
+	<Point x="1277" y="565"/>
+	<Point x="1269" y="566"/>
+	<Point x="905" y="566"/>
+	<Point x="887" y="579"/>
+	<Point x="880" y="583"/>
+	<Point x="817" y="584"/>
+	<Point x="802" y="575"/>
+	<Point x="688" y="576"/>
+	<Point x="668" y="602"/>
+	<Point x="607" y="602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Regimine vario Philoſophiæ Paganæ, tum præſer-
+tim inmediis illis Philoſophiæ Scholaicæ Seculis, &amp;
+peregrinæ pasm irrepſerunt de origine nora opini-
+ones, prodire in publicum utique habuimus necee,
+&amp; quidem argumentis ipati fortioribus nunc, quàm
+quæ ſup petiient olim, ut t</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="693" y="589"/>
+	<Point x="723" y="581"/>
+	<Point x="762" y="581"/>
+	<Point x="784" y="591"/>
+	<Point x="878" y="590"/>
+	<Point x="894" y="577"/>
+	<Point x="905" y="574"/>
+	<Point x="1246" y="574"/>
+	<Point x="1295" y="586"/>
+	<Point x="1341" y="585"/>
+	<Point x="1351" y="575"/>
+	<Point x="1680" y="575"/>
+	<Point x="1967" y="573"/>
+	<Point x="1966" y="638"/>
+	<Point x="1900" y="638"/>
+	<Point x="1878" y="656"/>
+	<Point x="1867" y="660"/>
+	<Point x="1863" y="657"/>
+	<Point x="1858" y="651"/>
+	<Point x="1854" y="641"/>
+	<Point x="1729" y="647"/>
+	<Point x="1717" y="642"/>
+	<Point x="1610" y="641"/>
+	<Point x="1483" y="641"/>
+	<Point x="1474" y="656"/>
+	<Point x="1325" y="656"/>
+	<Point x="1316" y="641"/>
+	<Point x="1160" y="641"/>
+	<Point x="1141" y="652"/>
+	<Point x="1126" y="658"/>
+	<Point x="1110" y="645"/>
+	<Point x="1087" y="643"/>
+	<Point x="791" y="643"/>
+	<Point x="780" y="640"/>
+	<Point x="739" y="649"/>
+	<Point x="673" y="649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>���� ������� ����� ��������� � ����� ������.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="696" y="656"/>
+	<Point x="767" y="654"/>
+	<Point x="786" y="648"/>
+	<Point x="815" y="648"/>
+	<Point x="837" y="653"/>
+	<Point x="1111" y="652"/>
+	<Point x="1125" y="666"/>
+	<Point x="1140" y="657"/>
+	<Point x="1166" y="646"/>
+	<Point x="1308" y="647"/>
+	<Point x="1319" y="660"/>
+	<Point x="1325" y="660"/>
+	<Point x="1332" y="658"/>
+	<Point x="1335" y="660"/>
+	<Point x="1483" y="660"/>
+	<Point x="1501" y="649"/>
+	<Point x="1812" y="649"/>
+	<Point x="1833" y="645"/>
+	<Point x="1850" y="646"/>
+	<Point x="1862" y="665"/>
+	<Point x="1931" y="665"/>
+	<Point x="1945" y="644"/>
+	<Point x="2077" y="644"/>
+	<Point x="2077" y="803"/>
+	<Point x="690" y="803"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Solvere potensvehementem reprehenonem hominum
+Uſura. Pindar. Ol. J. a.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="1155" y="894"/>
+	<Point x="1617" y="894"/>
+	<Point x="1617" y="987"/>
+	<Point x="1155" y="987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FINIS.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r6" type="other">
+	<Coords>
+	<Point x="1453" y="59"/>
+	<Point x="1618" y="59"/>
+	<Point x="1617" y="133"/>
+	<Point x="1458" y="133"/></Coords></GraphicRegion>
+	<GraphicRegion id="r7" type="other">
+	<Coords>
+	<Point x="1157" y="63"/>
+	<Point x="1336" y="63"/>
+	<Point x="1336" y="136"/>
+	<Point x="1157" y="136"/></Coords></GraphicRegion>
+	<GraphicRegion id="r8" type="other">
+	<Coords>
+	<Point x="842" y="1238"/>
+	<Point x="842" y="2085"/>
+	<Point x="1947" y="2085"/>
+	<Point x="1947" y="1238"/></Coords></GraphicRegion></Page></PcGts>

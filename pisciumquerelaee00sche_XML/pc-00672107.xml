@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672107">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T11:36:01</Created>
+	<LastChange>2012-03-12T14:34:07</LastChange></Metadata>
+	<Page imageFilename="00672107.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="143" y="163"/>
+	<Point x="1694" y="164"/>
+	<Point x="1691" y="2622"/>
+	<Point x="1462" y="2622"/>
+	<Point x="1460" y="2634"/>
+	<Point x="1217" y="2636"/>
+	<Point x="131" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rum Vertumnum ſub ſalium ſpecie, veluti alterum
+Archeum, ﬁguras omnium Animantium, &amp; ngula-
+rum, ut ne vel minima det,partium exprimentem,
+ﬁngentem, pingentem. Condonari potuiet hæc
+cerebrorum verorum, ��������,  in mediis ver-
+ſaremur Ignorantiæ Scholaicæ tenebris, ſed in tàm
+clara intra Philoſophiæ Thalamos admiſsâ luce, tot
+Obſervationum, Experimentorum, ratiociniorum,
+pam ad Mathematicam certitudinem redaorum,
+cœcutire velle, Nouarum e, non Hominum. Ad
+ﬁdem veram provoco, mortales, non Quibus è meli-
+ori luto ﬁnxit prcordia Titan, ſed quibus vel mica ra-
+tionis ſupere,annon Lucii hæ viventis olim corporis
+animati nt reliquiæ ? an alia t occao, quâ piſces
+inter ﬁuras ratorum ſe ſe ingerere potuerint,
+quàm inundationis alicujus, vel ſubmeronis? Fi-
+dem,inquimus, veram, Animantia ratione prædita,
+an in Fodinis Metallicis, &amp; montium altismorum
+ratis ſepeliri potuerimus aliâ illuvie, quàm fatali illâ
+Hominibus, &amp; Beiis univerſali, quâ exterior Terræ
+globus aquis cinus, &amp; diolutus, præſentem ſuam
+obtinuit ruuram ? Sepoto omni partium udio
+judicate, annon Luciushic, quem pro cœna Philo-
+ſophica primo loco oﬀerimus, jure queat nuncupari
+Teis authenticus omni exceptione major, Cataclyſ-
+mi illius Noachici, cujus obſcura quidem pam in-
+dicia proant apud Scriptores Gentiles, Hioria verò
+integra , &amp; ab omni Fabulæ involucro liberata, exat
+inScriptis Vatis illius cœlei Numine pleni, qui nobis
+in prædam ceſet, Pharaonis truculenti mandato
+undis expotus, ni ngularis DEI Providentia eum
+inde liberaet. Non divertat vos ab aenſu Plau-
+tianum illud, Piſcis nequam ni recens , bonæ ﬁdei e
+hic Teis, utpote qui in Catarophe illa fuit præſens,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1513" y="2627"/>
+	<Point x="1679" y="2627"/>
+	<Point x="1679" y="2691"/>
+	<Point x="1513" y="2691"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vetus</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7" type="other">
+	<Coords>
+	<Point x="1136" y="76"/>
+	<Point x="1136" y="156"/>
+	<Point x="966" y="156"/>
+	<Point x="966" y="76"/></Coords></GraphicRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="899" y="91"/>
+	<Point x="940" y="91"/>
+	<Point x="940" y="157"/>
+	<Point x="899" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r17" type="other">
+	<Coords>
+	<Point x="874" y="76"/>
+	<Point x="874" y="156"/>
+	<Point x="701" y="156"/>
+	<Point x="701" y="76"/></Coords></GraphicRegion></Page></PcGts>

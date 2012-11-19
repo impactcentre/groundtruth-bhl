@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668687">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T13:52:33</Created>
+	<LastChange>2012-02-10T10:29:30</LastChange></Metadata>
+	<Page imageFilename="00668687.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/>
+	<RegionRefIndexed regionRef="r12" index="9"/>
+	<RegionRefIndexed regionRef="r13" index="10"/>
+	<RegionRefIndexed regionRef="r52" index="11"/>
+	<RegionRefIndexed regionRef="r58" index="12"/>
+	<RegionRefIndexed regionRef="r15" index="13"/>
+	<RegionRefIndexed regionRef="r51" index="14"/>
+	<RegionRefIndexed regionRef="r66" index="15"/>
+	<RegionRefIndexed regionRef="r17" index="16"/>
+	<RegionRefIndexed regionRef="r18" index="17"/>
+	<RegionRefIndexed regionRef="r43" index="18"/>
+	<RegionRefIndexed regionRef="r62" index="19"/>
+	<RegionRefIndexed regionRef="r20" index="20"/>
+	<RegionRefIndexed regionRef="r21" index="21"/>
+	<RegionRefIndexed regionRef="r22" index="22"/>
+	<RegionRefIndexed regionRef="r23" index="23"/>
+	<RegionRefIndexed regionRef="r24" index="24"/>
+	<RegionRefIndexed regionRef="r25" index="25"/>
+	<RegionRefIndexed regionRef="r26" index="26"/>
+	<RegionRefIndexed regionRef="r27" index="27"/>
+	<RegionRefIndexed regionRef="r70" index="28"/>
+	<RegionRefIndexed regionRef="r31" index="29"/>
+	<RegionRefIndexed regionRef="r32" index="30"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="888" y="269"/>
+	<Point x="1355" y="269"/>
+	<Point x="1355" y="351"/>
+	<Point x="888" y="351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1010" y="377"/>
+	<Point x="1224" y="377"/>
+	<Point x="1224" y="426"/>
+	<Point x="1010" y="426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE XIV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="415" y="455"/>
+	<Point x="885" y="455"/>
+	<Point x="885" y="514"/>
+	<Point x="415" y="514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 49. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="203" y="524"/>
+	<Point x="1100" y="524"/>
+	<Point x="1100" y="863"/>
+	<Point x="203" y="863"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA PHILIPPIANA. Achat. testâ fusiformi-ovatâ,
+subpellucidâ, anfractibus octo, supernè rotundatis, un-
+dique longitudinaliter creberrimè costulatis, columellâ
+contortâ, attenuatè truncatâ, aperturâ parviusculâ,
+medio subdepressâ; sericeo-lutescente, strigis latis in-
+tensè purpureo-brunneis, e suturis hic illic decurrentibus,
+conspicuè pictâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="201" y="865"/>
+	<Point x="1099" y="865"/>
+	<Point x="1099" y="1247"/>
+	<Point x="201" y="1247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PHILIPPI’S ACHATINA. Shell fusiformly ovate, some‐
+what transparent, whorls eight in number, rounded
+at the upper part, longitudinally very closely ﬁnely
+ribbed throughout, columella twisted, attenuately
+truncated, aperture rather small, slightly depressed
+in the middle; pale silken yellow, conspicuously
+painted with broad deep purple-brown streaks, des‐
+cending here and there from the sutures.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="200" y="1251"/>
+	<Point x="941" y="1251"/>
+	<Point x="941" y="1294"/>
+	<Point x="200" y="1294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, (Glandina,) Symbolæ, vol. iii. p. 90.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="196" y="1299"/>
+	<Point x="540" y="1299"/>
+	<Point x="540" y="1342"/>
+	<Point x="196" y="1342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Jamaica, Gosse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="411" y="1552"/>
+	<Point x="879" y="1552"/>
+	<Point x="879" y="1600"/>
+	<Point x="411" y="1600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 50. (Mus. Dennison.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="187" y="1613"/>
+	<Point x="1095" y="1613"/>
+	<Point x="1096" y="1900"/>
+	<Point x="586" y="1905"/>
+	<Point x="187" y="1906"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA MONILIFERA. Achat. testâ oblongo-ovatâ, ven-
+tricosâ, tenui, pellucidâ, anfractibus septem, longitudi‐
+naliter creberrimè costulato-striatis, striis basin versus
+evanidis, columellâ contortâ, abruptè truncatâ; fulvo-
+roseâ, corneâ, strigis angustis remotis rufo-brunneis
+irregulariter pictâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="185" y="1911"/>
+	<Point x="1097" y="1904"/>
+	<Point x="1098" y="2235"/>
+	<Point x="184" y="2235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE NECKLACE‐BOUND ACHATINA. Shell oblong-ovate,
+ventricose, thin, transparent, whorls seven in number,
+longitudinally very closely striated after the manner
+of ﬁne ribs, striæ fading towards the base, columella
+twisted, abruptly truncated; fulvous-rose, horny,
+irregularly painted with distant narrow red-brown
+streaks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="189" y="2345"/>
+	<Point x="1092" y="2345"/>
+	<Point x="1092" y="2506"/>
+	<Point x="189" y="2506"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An extremely delicate transparent swollen shell in which
+the columella is not attenuated as in the last species, but
+abruptly truncated.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1196" y="453"/>
+	<Point x="2046" y="453"/>
+	<Point x="2046" y="606"/>
+	<Point x="1369" y="607"/>
+	<Point x="1361" y="605"/>
+	<Point x="1196" y="605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pellucido-corneâ, spirâ brevi, anfractibus septem, lævi-
+gatis, columellâ subprofundè arcuatâ, aperturâ oblongâ,
+supernè angustâ, labro medio dilatato; fulvâ, nitente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1141" y="609"/>
+	<Point x="2046" y="609"/>
+	<Point x="2046" y="848"/>
+	<Point x="1141" y="848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE OLIVE-SHAPED ACHATINA. Shell cylindrically
+oblong, transparent-horny, spire short, whorls seven
+in number, smooth, columella rather deeply arched,
+aperture oblong, narrow at the upper part, lip dilated
+in the middle; fulvous, shining.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1140" y="947"/>
+	<Point x="1331" y="947"/>
+	<Point x="1331" y="986"/>
+	<Point x="1140" y="986"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Cuba.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1140" y="1003"/>
+	<Point x="2027" y="1003"/>
+	<Point x="2027" y="1111"/>
+	<Point x="1140" y="1111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A smooth transparent fulvous horny shell, of cylindric
+oblong form, without any design of painting.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="heading">
+	<Coords>
+	<Point x="1359" y="1181"/>
+	<Point x="1802" y="1181"/>
+	<Point x="1802" y="1233"/>
+	<Point x="1359" y="1233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 52. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1140" y="1242"/>
+	<Point x="2043" y="1242"/>
+	<Point x="2039" y="1532"/>
+	<Point x="1140" y="1535"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA LEUCOZONIAS. Achat. testâ fusiformi-oblongâ,
+spirâ subacuminatâ, anfractibus octo, plano-convexis,
+longitudinaliter subtiliter et creberrimè inciso-striatis,
+columellâ contortâ, aperturâ oblongâ, labro angulato-
+dilatato; intensè purpureo-brunneâ, zonulis longitudi-
+nalibus angustis albis notatâ, labro albimarginato.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1135" y="1538"/>
+	<Point x="2027" y="1534"/>
+	<Point x="2031" y="1869"/>
+	<Point x="1135" y="1869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WHITE‐ZONED ACHATINA. Shell fusiformly oblong,
+spire somewhat acuminated, whorls eight in number,
+ﬂatly convex, longitudinally ﬁnely and very closely
+striated in a grooved manner, columella twisted,
+aperture oblong, lip angularly dilated; deep purple-
+brown, marked with narrow longitudinal white zones,
+lip edged with white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1136" y="1873"/>
+	<Point x="1647" y="1873"/>
+	<Point x="1647" y="1914"/>
+	<Point x="1136" y="1914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOWERBY, Genera of Shells, f. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1138" y="1917"/>
+	<Point x="2026" y="1917"/>
+	<Point x="2026" y="2009"/>
+	<Point x="1138" y="2009"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voluta leucozonias, Walch, Naturforsch, vol. iv. p. 40. pl. 1.
+f. 3, 4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1133" y="2261"/>
+	<Point x="2038" y="2261"/>
+	<Point x="2038" y="2655"/>
+	<Point x="1133" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This species is remarkable for the angularly dilated
+growth of the lip, which forms a slightly elevated ridge or
+varix at intervals of from four to ﬁve in a whorl. The
+shell being of a uniform dark purple-brown colour with
+the lip edged with white, these delicate concentric varices
+appear as stripes, and turning inwards over the columella
+have the appearance of false plaits. Walch, Gmelin, and
+Dillwyn, misled by this varicose peculiarity of growth,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1010" y="2688"/>
+	<Point x="1217" y="2688"/>
+	<Point x="1217" y="2735"/>
+	<Point x="1010" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>April, 1849.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r33">
+	<Coords>
+	<Point x="1354" y="1131"/>
+	<Point x="1844" y="1131"/>
+	<Point x="1844" y="1165"/>
+	<Point x="1354" y="1165"/></Coords></SeparatorRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1143" y="850"/>
+	<Point x="2033" y="850"/>
+	<Point x="2033" y="894"/>
+	<Point x="1143" y="894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Helix (Cochlicopa) oleacea, Férussac, Prodrome, No. 360.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="189" y="1351"/>
+	<Point x="1099" y="1351"/>
+	<Point x="1099" y="1507"/>
+	<Point x="189" y="1507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The ﬁne ribs with which the surface of this shell is
+excessively closely sculptured, give it a delicate silken aspect.
+It is very richly painted in the manner above described.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r50">
+	<Coords>
+	<Point x="423" y="1515"/>
+	<Point x="914" y="1515"/>
+	<Point x="914" y="1541"/>
+	<Point x="423" y="1541"/></Coords></SeparatorRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="192" y="2240"/>
+	<Point x="1004" y="2240"/>
+	<Point x="1005" y="2284"/>
+	<Point x="191" y="2288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, (Glandina,) Pro. Zool. Soc., 1845. p. 75.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="194" y="2294"/>
+	<Point x="987" y="2288"/>
+	<Point x="987" y="2335"/>
+	<Point x="192" y="2335"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Coban, Vera Cruz, Central America; Lattre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords>
+	<Point x="185" y="2605"/>
+	<Point x="1089" y="2605"/>
+	<Point x="1089" y="2666"/>
+	<Point x="185" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA OLEACEA. Achat. testâ cylindraceo-oblongâ,</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r67">
+	<Coords>
+	<Point x="430" y="2513"/>
+	<Point x="891" y="2513"/>
+	<Point x="891" y="2534"/>
+	<Point x="430" y="2534"/></Coords></SeparatorRegion>
+	<TextRegion id="r51" type="heading">
+	<Coords>
+	<Point x="401" y="2544"/>
+	<Point x="878" y="2544"/>
+	<Point x="878" y="2593"/>
+	<Point x="401" y="2593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 51. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r55">
+	<Coords>
+	<Point x="1110" y="462"/>
+	<Point x="1109" y="873"/>
+	<Point x="1107" y="1909"/>
+	<Point x="1102" y="2666"/>
+	<Point x="1127" y="2666"/>
+	<Point x="1127" y="1914"/>
+	<Point x="1128" y="866"/>
+	<Point x="1133" y="461"/></Coords></SeparatorRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="1221" y="897"/>
+	<Point x="1584" y="897"/>
+	<Point x="1584" y="941"/>
+	<Point x="1221" y="941"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Glandina oleacea, Beck.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r70" type="paragraph">
+	<Coords>
+	<Point x="1136" y="2205"/>
+	<Point x="1410" y="2205"/>
+	<Point x="1410" y="2252"/>
+	<Point x="1136" y="2252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Martinique.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1209" y="2015"/>
+	<Point x="1842" y="2015"/>
+	<Point x="1842" y="2203"/>
+	<Point x="1209" y="2203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Achatina albolineata, Lamarck.
+Helix (Cochlicopa,) leucozonias, Férussac.
+Polyphemus leucozonias, Jan.
+Glandina leucozonias, Beck.</Unicode></TextEquiv></TextRegion></Page></PcGts>

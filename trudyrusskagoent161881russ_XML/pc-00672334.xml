@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672334">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:13:32</Created>
+	<LastChange>2012-02-10T09:54:30</LastChange></Metadata>
+	<Page imageFilename="00672334.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="985" y="64"/>
+	<Point x="1326" y="64"/>
+	<Point x="1326" y="133"/>
+	<Point x="985" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 140 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="254" y="904"/>
+	<Point x="2042" y="904"/>
+	<Point x="2042" y="1511"/>
+	<Point x="254" y="1511"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Phorostomae intermediae simillima, a qua tamen distincta:
+magnitudine corporis multo majore et latiore, oculis in mare
+latius disjunctis; vitta atra frontali latiore; antennis obscuriori-
+bus; arista brevius plumata; genis distinctius setulosis; seg-
+mento ultimo abdominis apice seriebus duabus macrochetarum
+praedito (non series marginata, unica); tibiis posticis in mare
+extus non pectinatis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="633" y="1623"/>
+	<Point x="1647" y="1623"/>
+	<Point x="1647" y="1719"/>
+	<Point x="633" y="1719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zeuxia latifrons ♂ et ♀ nov. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="254" y="1757"/>
+	<Point x="2030" y="1757"/>
+	<Point x="2030" y="2259"/>
+	<Point x="254" y="2259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zeuxiae cinereae et Z. tessellatae Egg. similis, sed ab am-
+babus distincta: articulo ultimo antennarum paullo breviore,
+fronte in utroque sexu (quadrifariam setosa) latiore; palpis to-
+tis ﬂavis; abdomine in mare rufo pellucido albo pruinoso, fascia
+dorsali angusta apiceque fuscis; in faemina griseo, fusco aut
+rufo micante. Long. 5‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="383" y="2271"/>
+	<Point x="1161" y="2271"/>
+	<Point x="1161" y="2364"/>
+	<Point x="383" y="2364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Caucasus (Erivan).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="611" y="2485"/>
+	<Point x="1685" y="2485"/>
+	<Point x="1685" y="2571"/>
+	<Point x="611" y="2571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Synthomocera tricolor ♂ nov. sp.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="278" y="2607"/>
+	<Point x="2026" y="2607"/>
+	<Point x="2026" y="3042"/>
+	<Point x="278" y="3042"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Magnitudine, statura et colore corporis Zeuxiae latifronti
+simillima, a qua distincta: capite majore, fronte angustiore, tan-
+tum bifariam setosa et antice magis porrecta, vitta nigra fron-
+tali paullo latiore, genis nigro setulosis; vitta nigra media ab-
+dominis latiore, ano aculeo corneo praedito; cellula prima pos-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="2038" y="161"/>
+	<Point x="2038" y="787"/>
+	<Point x="245" y="787"/>
+	<Point x="245" y="161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>antice triplicata; scutello rufescente (in faemina); abdomine
+fusco marmorato, macrochetis in segmentis intermediis tantum
+marginalibus, discoidalibus nullis; segmento ultimo apice serie-
+bus duabus macrochetarum cincto; pedibus nigris; uncis pulvil-
+lisque in mare longis; alis subhyalinis; cubito nervi quinti non
+appendiculato; nervo transverso exteriore subrecto; secundo trans-
+verso sinuoso, spinula costae nulla. Long. 7—8‴.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="2038" y="789"/>
+	<Point x="2038" y="890"/>
+	<Point x="245" y="890"/>
+	<Point x="245" y="789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Patria: Caucasus (Erivan, Nucha, Elisabethpol).</Unicode></TextEquiv></TextRegion></Page></PcGts>

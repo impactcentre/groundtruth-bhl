@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672577">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T04:00:14</Created>
+	<LastChange>2012-02-10T09:55:12</LastChange></Metadata>
+	<Page imageFilename="00672577.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="798" y="167"/>
+	<Point x="1101" y="167"/>
+	<Point x="1101" y="237"/>
+	<Point x="798" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 381 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="80" y="299"/>
+	<Point x="1816" y="299"/>
+	<Point x="1816" y="466"/>
+	<Point x="80" y="466"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>posticarum macula fulva, (velque ♀ supra omnino fusca); ci-
+liis albis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="78" y="480"/>
+	<Point x="1819" y="480"/>
+	<Point x="1819" y="1080"/>
+	<Point x="78" y="1080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subtus alae in utroque sexu саnaе; anticae puncto disco-
+cellulari, nес non serie sinuata punctorum externa fuscis albo-
+cingulatis; seriebusque duabus punctorum fuscescentium ante-
+marginalium; alae posticae punctis tribus basalibus, discocellu-
+lari serieque externa fuscis albo-cingulatis; seriebus duabus
+punctorum antemarginalium (quorum tres ante angulum ana-
+lem metallice pupillati, fascia fulva superpositi) fuscescentibus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="89" y="1144"/>
+	<Point x="1826" y="1144"/>
+	<Point x="1826" y="1482"/>
+	<Point x="89" y="1482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La L. Torgouta a le port et la taille des petits indivi-
+dus de la L. Argus, et le ♂ est du même bleu en dessus
+que les ♂♂ de cette dernière espèce. Le limbe noir est, chez
+le ♂ de la Torgouta, comme chez les Argus ♂♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="94" y="1491"/>
+	<Point x="1824" y="1491"/>
+	<Point x="1824" y="1662"/>
+	<Point x="94" y="1662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ♀ est du brun-noirâtre propre à tout ce groupe de
+Lycaena.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="94" y="1673"/>
+	<Point x="1823" y="1673"/>
+	<Point x="1823" y="1928"/>
+	<Point x="94" y="1928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'une des deux ♀♀, que je possède, à une partie du dis-
+que, à la base des ailes, écaillée de bleu, tandisque l'autre
+n'en porte pas trace.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="96" y="1935"/>
+	<Point x="1830" y="1935"/>
+	<Point x="1830" y="2358"/>
+	<Point x="96" y="2358"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une petite tâche fauve (à peine indiquée chez une ♀),
+plutôt longitudinale, se trouve placée au dessus de l'angle
+anal des ailes postérieures de la ♀; tache qui pourrait, à mon
+avis, disparaître complêtement, ou, devenir plus apparente chez
+certains individus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="99" y="2367"/>
+	<Point x="1830" y="2367"/>
+	<Point x="1830" y="2537"/>
+	<Point x="99" y="2537"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le dessous des deux sexes est de la couleur gris-blan-
+châtre, qu'on désigne comme canus en latin.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="101" y="2549"/>
+	<Point x="1844" y="2549"/>
+	<Point x="1844" y="3148"/>
+	<Point x="101" y="3148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les antérieures ont le point central, ainsi qu'une série ex-
+térieure de points noirs cerclés de blanc. Cette série de points,
+les deux derniers exceptés, qui sont superposés verticalement
+au bord interne, fait une courbe peu sensible autour du point
+central. Nous voyons en outre deux rangées de points gris-
+brunâtres, paralleles au bord extérieur et qui sont posées entre
+la série des points précités et le bord extérieur.</Unicode></TextEquiv></TextRegion></Page></PcGts>

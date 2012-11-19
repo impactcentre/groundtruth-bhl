@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669393">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:00:52</Created>
+	<LastChange>2012-03-12T14:33:59</LastChange></Metadata>
+	<Page imageFilename="00669393.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="63" y="232"/>
+	<Point x="1483" y="232"/>
+	<Point x="1483" y="433"/>
+	<Point x="63" y="433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous en connaissons cinq espèces améri‐
+caines, et une de la Nouvelle-Hollande.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="72" y="690"/>
+	<Point x="1473" y="690"/>
+	<Point x="1473" y="877"/>
+	<Point x="72" y="877"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’espèce de la Nouvelle-Hollande ressemble
+singulièrement à celle des États-Unis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="135" y="883"/>
+	<Point x="1486" y="883"/>
+	<Point x="1486" y="1557"/>
+	<Point x="135" y="1557"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La forme de sa tête, de sa bouche, la proportion
+de son œil, sont les mêmes; mais elle est encore plus
+grêle, et sa hauteur est comprise près de neuf fois
+dans sa longueur; elle n’a que dix-huit rayons mous
+à son anale. Ses ventrales sont plus en arrière rela‐
+tivement à ses pectorales, et sa première dorsale
+plus en avant, relativement à son anale; car elle
+répond à l’intervalle qui est entre cette nageoire et
+les ventrales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="316" y="1568"/>
+	<Point x="1287" y="1568"/>
+	<Point x="1287" y="1652"/>
+	<Point x="316" y="1652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 8 — 1/11; A. 1/18; C. 17; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="134" y="1655"/>
+	<Point x="1497" y="1655"/>
+	<Point x="1497" y="2021"/>
+	<Point x="134" y="2021"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos plus grands individus n’ont que quatre pouces
+et demi. Leur bande latérale est d’un bel argent
+teint de verdâtre, et liséré de vert à son bord supé‐
+rieur. Il y a des points noirs le long du pourtour
+des écailles du dos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="76" y="2038"/>
+	<Point x="1484" y="2038"/>
+	<Point x="1484" y="2210"/>
+	<Point x="76" y="2210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Au premier coup d’œil on croirait que c’est
+un ammodite.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="81" y="2217"/>
+	<Point x="1488" y="2217"/>
+	<Point x="1488" y="2463"/>
+	<Point x="81" y="2463"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On doit cette jolie espèce à MM. Quoy et
+Gaimard, qui l’ont prise au port Jackson et
+à la terre de Van Diemen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="132" y="2528"/>
+	<Point x="1494" y="2528"/>
+	<Point x="1494" y="2608"/>
+	<Point x="132" y="2608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Quoy et Gaimard, Voyage de Freycinet, Zoologie, p. 333.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="296" y="464"/>
+	<Point x="1246" y="464"/>
+	<Point x="1246" y="556"/>
+	<Point x="296" y="556"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ATHÉRINE DU PORT JACKSON.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="419" y="569"/>
+	<Point x="1128" y="569"/>
+	<Point x="1128" y="669"/>
+	<Point x="419" y="669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Atherina jacksoniana.1)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="header">
+	<Coords>
+	<Point x="626" y="141"/>
+	<Point x="912" y="141"/>
+	<Point x="912" y="200"/>
+	<Point x="626" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="page-number">
+	<Coords>
+	<Point x="1334" y="120"/>
+	<Point x="1464" y="120"/>
+	<Point x="1464" y="197"/>
+	<Point x="1334" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>461</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r27">
+	<Coords>
+	<Point x="90" y="2493"/>
+	<Point x="90" y="2519"/>
+	<Point x="1489" y="2519"/>
+	<Point x="1489" y="2493"/></Coords></SeparatorRegion></Page></PcGts>

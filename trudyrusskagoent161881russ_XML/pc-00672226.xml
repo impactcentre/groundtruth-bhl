@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672226">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T02:48:12</Created>
+	<LastChange>2012-02-10T09:54:06</LastChange></Metadata>
+	<Page imageFilename="00672226.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1108" y="130"/>
+	<Point x="1421" y="130"/>
+	<Point x="1421" y="196"/>
+	<Point x="1108" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 32 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="391" y="258"/>
+	<Point x="2125" y="258"/>
+	<Point x="2125" y="446"/>
+	<Point x="391" y="446"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 7. Lestes sponsa Hansem., adulte, 11 fois grossie, épimère de côté ex-
+térieur; a — pièce iliaque, b — pièce ischiatique, g — stigmate, h i —
+membranes qui unissent les hanches au sternum, l m — hanches.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="394" y="449"/>
+	<Point x="2135" y="449"/>
+	<Point x="2135" y="680"/>
+	<Point x="394" y="680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 8. Libellula ﬂaveola L., adulte, 7 fois grossie: c g — élévations d'épimère,
+d — additionnel postérieur de l'abaisseur postérieur de l'aile antérieure,
+с — additionnel de l'abaisseur antérieur de l'aile postérieure, f — se-
+cond stigmate thoracique.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="389" y="687"/>
+	<Point x="2135" y="687"/>
+	<Point x="2135" y="973"/>
+	<Point x="389" y="973"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 9. A. grandis L., adulte, 7 fois grossie, appendice d'iliaque avec le lieu
+d'attache de l'abaisseur antérieur de l'aile antérieure, vu de côté intérieur;
+a — premier stigmate thoracique, b — lieu d'attache du muscle susdit,
+d o g f — pièce iliaque, g f — partie du bord du trou de la hanche
+moyenne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="383" y="983"/>
+	<Point x="2132" y="983"/>
+	<Point x="2132" y="1214"/>
+	<Point x="383" y="1214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 10. L. quadrimaculata L., adulte, 7 fois grossie; a a — chef le plus gros
+de l'élévateur postérieur, b — son chef le plus long, с — son chef le
+plus court ayant le tendon très long et mince, d — rainure recevant
+le plus long chef, dont la coupe transversale est un triangle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="369" y="1219"/>
+	<Point x="2133" y="1219"/>
+	<Point x="2133" y="1457"/>
+	<Point x="369" y="1457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 11. С. metallica Vanderl., adulte, 7 fois grossie, coupe verticale longi-
+tudinale du sternum; a b — trous de hanches, с — pli du sternum entre
+les hanches postérieures, d — tendon du muscle auxiliaire sternali-
+dorsal, m m — place d'attache de l'abaisseur antérieur de l'aile postérieure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="385" y="1462"/>
+	<Point x="2128" y="1462"/>
+	<Point x="2128" y="1762"/>
+	<Point x="385" y="1762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 12. Agrion nayas Hansem., adulte, 11 fois grossie, sternum vu de côté
+intérieur; a a b b — trous de hanches, c c d d — tendons d'élévateurs,
+g — élévation postérieure d'épimère, h — muscle auxiliaire sternali-
+dorsal, l l l — lieu d'attache de l'abaisseur antérieur de l'aile posté-
+rieure, n n — lieu d'attache de l'abaisseur antérieur de l'aile antérieure.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="371" y="1771"/>
+	<Point x="2125" y="1771"/>
+	<Point x="2125" y="2300"/>
+	<Point x="371" y="2300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 13. Même insecte, les élévateurs sont écartés; a — abaisseur antérieur de
+l'aile antérieure, b — additionnel antérieur de l'élévateur antérieur,
+с — additionnel postérieur du même muscle, d — abaisseur antérieur
+de l'aile postérieure, e — abaisseur postérieur de même aile, f — son
+additionnel antérieur, g — son additionnel postérieur, h — chef le plus
+long de l'élévateur antérieur, renversé en bas et en avant, i — ad-
+ditionnel antérieur de l'élévateur postérieur, renversé de même manière,
+k — additionnel postérieur du même muscle, renversé en bas et en
+arrière.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="367" y="2730"/>
+	<Point x="2107" y="2730"/>
+	<Point x="2107" y="3098"/>
+	<Point x="367" y="3098"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 15. A. grandis L., adulte, 7 fois grossie, coupe horizontale de l'insecte
+produisant coupe transversale de muscle; a — abaisseur antérieur de
+l'aile antérieure, с — le postérieur de même aile, b — élévateur an-
+térieur, d — son additionnel postérieur, e — son additionnel antérieur
+a' b' c' d' e' — mêmes muscles de l'aile postérieure, f — auxiliaire ster-
+nali-dorsal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="376" y="2307"/>
+	<Point x="2108" y="2307"/>
+	<Point x="2108" y="2724"/>
+	<Point x="376" y="2724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fig. 14. A. grandis L., adulte, 7 fois grossie, sternum vu de côté intérieur;
+a b — bord postérieur du thorax, c d — membrane, qui unit le thorax à
+l'abdomen, m m — trous des hanches postérieures, n n — trous des
+hanches moyennes, l l — ischions, s s — iliaques, t t t — apophyse d'is-
+chion se prolongeant en aire rhomboïdale, g — triangle postérieur du
+sternum, h h i i — places d'attache d'abaisseurs postérieurs, o o p p —
+tendons d'élévateurs, k k — tendons d'auxiliaires sternali-dorsaux.</Unicode></TextEquiv></TextRegion></Page></PcGts>

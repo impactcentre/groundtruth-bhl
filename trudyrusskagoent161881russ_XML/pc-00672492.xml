@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672492">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:44:39</Created>
+	<LastChange>2012-02-10T09:55:01</LastChange></Metadata>
+	<Page imageFilename="00672492.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="999" y="126"/>
+	<Point x="1308" y="126"/>
+	<Point x="1308" y="194"/>
+	<Point x="999" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 296 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="283" y="258"/>
+	<Point x="2030" y="258"/>
+	<Point x="2030" y="848"/>
+	<Point x="283" y="848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ein kleines 8 Mm. langes ♀ dieser Art ﬁng ich in Baku
+unter Steinen, ein ebenso grosses ♂ besitze ich von Evers-
+mann aus Armenien; beiden Stücken fehlt die erhabene Hals-
+schildmittellinie, die weissen Tuberkeln neben derselben und
+an den Seiten sind sehr undeutlich, sowie die Punktstreifen
+vor der Spitze weniger tief. Ohne weitere Unterschiede halte
+ich beide Stücke für Akinini var. Caspicus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="278" y="858"/>
+	<Point x="2030" y="858"/>
+	<Point x="2030" y="1282"/>
+	<Point x="278" y="1282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ob der Caucasische Homalorhinus lutosus Hochh. Bull.
+Mosc. 1847 II p. 467, den Hochhuth mit Zweifeln zu Ho-
+malorhinus stellt, hierher gehört, kann möglich sein, der tho-
+rax granulatus intra apicem constrictus machen es jedoch
+unwahrscheinlich, den lutosus auf Akinini zu deuten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="273" y="1358"/>
+	<Point x="2032" y="1358"/>
+	<Point x="2032" y="1867"/>
+	<Point x="273" y="1867"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Piazomias Schönherri nov. sp. Elongatus, niger,
+squamulis cinereis et cervinis dense tectus; thorace lateribus
+punctoque humerale albidiore; capite cum rostro canaliculato,
+prothorace elongato-globoso (♂) aut antrorsum rotundato-atte-
+nuato (♀), tenuiter canaliculato; scutello haud conspicuo; ely-
+tris punctato-striatis, interstitiis subplanis, seriatim setosis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="282" y="1876"/>
+	<Point x="2023" y="1876"/>
+	<Point x="2023" y="2035"/>
+	<Point x="282" y="2035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(♂) Long. 7—8, lat. 2,5—2,75. (♀) Long. 8, lat. 3—
+3,5 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="280" y="2121"/>
+	<Point x="2023" y="2121"/>
+	<Point x="2023" y="2548"/>
+	<Point x="280" y="2548"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dem globicollis Faldm. in der Form sehr ähnlich, aber
+noch gestreckter, Halsschild mit durchgehender vertiefter Mit-
+tellinie und fast einfarbig grau beschuppt. Es ist nicht un-
+möglich dass obige Art der unbeschriebene egenus Sch. aus
+der Mongolei ist.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="278" y="2557"/>
+	<Point x="2019" y="2557"/>
+	<Point x="2019" y="3071"/>
+	<Point x="278" y="3071"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rüssel etwas schmäler als der Kopf, mit parallelen Seiten,
+zwischen den Augen niedergedrückt, dicht hinter der drei-
+eckig ausgeschnittenen Spitze halbkreisförmig eingedrückt, die
+vertiefte Mittellinie bis zur Stirne, mitunter bis auf den Schei-
+tel gleich stark fortgesetzt, zuweilen auch der Rüssel breit
+gefurcht. Geisselglied 1 gleich oder länger als 2, das sie-</Unicode></TextEquiv></TextRegion></Page></PcGts>

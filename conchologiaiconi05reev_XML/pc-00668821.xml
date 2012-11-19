@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668821">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T03:45:26</Created>
+	<LastChange>2012-02-10T10:29:39</LastChange></Metadata>
+	<Page imageFilename="00668821.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r25" index="4"/>
+	<RegionRefIndexed regionRef="r31" index="5"/>
+	<RegionRefIndexed regionRef="r5" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r42" index="11"/>
+	<RegionRefIndexed regionRef="r48" index="12"/>
+	<RegionRefIndexed regionRef="r50" index="13"/>
+	<RegionRefIndexed regionRef="r56" index="14"/>
+	<RegionRefIndexed regionRef="r64" index="15"/>
+	<RegionRefIndexed regionRef="r14" index="16"/>
+	<RegionRefIndexed regionRef="r7" index="17"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="943" y="137"/>
+	<Point x="1492" y="137"/>
+	<Point x="1492" y="197"/>
+	<Point x="943" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1148" y="241"/>
+	<Point x="1298" y="241"/>
+	<Point x="1298" y="281"/>
+	<Point x="1148" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="496" y="313"/>
+	<Point x="1019" y="313"/>
+	<Point x="1019" y="361"/>
+	<Point x="496" y="361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Genus TURRITELLA. Lamarck.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="298" y="1890"/>
+	<Point x="1202" y="1890"/>
+	<Point x="1202" y="2318"/>
+	<Point x="296" y="2321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The genus Turritella has been somewhat neglected by
+conchologists. Only eleven species were described by
+Lamarck, and a monograph lately published in Paris by
+M. Kiener includes less than half the number now before
+me from the cabinets of Mr. Cuming, Mr. Metcalfe,
+Mr. Hanley, Sir. Edward Belcher, the British Museum, and
+the Banksian Collection in the museum of the Linnæan
+Society; amounting to sixty-ﬁve all distinctly charac‐
+terized in respect of form, sculpture, and painting.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="295" y="2324"/>
+	<Point x="1202" y="2319"/>
+	<Point x="1198" y="2699"/>
+	<Point x="293" y="2704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Linnæan species have not been correctly inter‐
+preted by Lamarck, Deshayes, or Kiener, for want of access
+to the original types of the ‘Systema Naturæ’ preserved
+in the museum of the Linnæan Society of London. The
+Turbo acutangulus of Linnæus proves to be a simple
+variety of the T. duplicatus, and not the shell assigned to
+it by M. Deshayes. The shell described as Turbo variega-
+tus in the ‘Systema Naturæ,’ though diﬀering materially in</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1116" y="2711"/>
+	<Point x="1301" y="2711"/>
+	<Point x="1301" y="2760"/>
+	<Point x="1116" y="2760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>May, 1849.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1238" y="323"/>
+	<Point x="2142" y="323"/>
+	<Point x="2142" y="649"/>
+	<Point x="1238" y="649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>general aspect from that which served for the description
+of the Turbo imbricatus, may, nevertheless, be traced to
+belong to the same species; and the Turbo ungulinus of
+Linnæus proves to be identical with Lamarck’s Turritella
+fuscata. The British species Turbo terebra, Linn. in
+‘Fauna Suecica’ (not of Syst. Nat.) and Montagu, must
+be referred to the T. cornea of Lamarck,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1237" y="652"/>
+	<Point x="2140" y="652"/>
+	<Point x="2135" y="1080"/>
+	<Point x="1237" y="1080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Turritella brevialis of Lamarck (LeMesal of Adanson)
+constitutes the type of a new genus, founded by Mr. Gray,
+under the name MESALIA, to which I venture to add the
+Turritella lactea of Möller, and a very characteristic species
+from the Cumingian collection. A genus has been also intro‐
+duced by Mr. Gray, with equal judgment, under the name
+EGLISIA, founded on the Turritella spirata of the Tanker-
+ville Catalogue; and to this is added a species collected
+by Mr. Cuming at one of the Philippine Islands.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1235" y="1084"/>
+	<Point x="2135" y="1084"/>
+	<Point x="2135" y="1552"/>
+	<Point x="1235" y="1552"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Turritellœ have a wide range of habitation and dwell
+at a considerable depth as well as near the surface. The
+T. cornea has been recently dredged oﬀ the Shetland Islands
+by Mr. M’Andrew at a depth of many fathoms, beyond the
+inﬂuence of light and colourless. Only two comparatively
+small species besides this, extend so far from north of the
+equator as the Mediterranean. The greater number are
+from the Eastern Seas and the shores of Central America,
+and there are a few known from New Zealand, Australia,
+and Van Dieman’s Land.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1230" y="2305"/>
+	<Point x="2132" y="2305"/>
+	<Point x="2132" y="2686"/>
+	<Point x="1230" y="2686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The original specimen which served Linnæus for the
+type of his Turbo ungulinus, still preserved in the
+museum of the Linnæan Society of London, proves, as
+Mr. Hanley ﬁrst pointed out to me, to be Lamarck’s T.
+fuscata. The locality “Seas of Europe” erroneously given
+in the ‘Systema Naturæ’ led Dr. Pulteney, and recently
+M. Deshayes, to assign the Linnæan species to the only
+Turritella existing north of the Mediterranean; on the</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="1211" y="311"/>
+	<Point x="1206" y="2690"/>
+	<Point x="1223" y="2690"/>
+	<Point x="1229" y="790"/>
+	<Point x="1232" y="310"/></Coords></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="307" y="389"/>
+	<Point x="1201" y="389"/>
+	<Point x="1201" y="678"/>
+	<Point x="307" y="678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Testa elongato-turrita, lanceolato-acuminata, nunquam um‐
+bilicata, anfractibus numerosis, sœpissimè transversim
+costatis vel striatis, nunquam longitudinaliter exsculptis,
+evaricosis, nunquam spinosis aut muricatis; aperturâ
+parviusculâ, plus minusve rotundatâ, marginibus dis-
+junctis, labro sœpè medio sinuato.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="305" y="680"/>
+	<Point x="1201" y="680"/>
+	<Point x="1201" y="971"/>
+	<Point x="305" y="971"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Shell elongately turreted, lanceolately acuminated, never
+umbilicated, whorls numerous, mostly transversely
+ribbed or striated, never longitudinally sculptured,
+destitute of varices, never spined or prickly; aperture
+rather small, more or less rounded, margins disjoined,
+lip often sinuated in the middle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="296" y="976"/>
+	<Point x="1201" y="976"/>
+	<Point x="1201" y="1888"/>
+	<Point x="296" y="1888"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The genus Turritella aﬀords excellent characters for the
+distinction of species. Constructed upon the simple type
+of an enlarging tube, the shell is developed with geometri‐
+cal symmetry in short convolutions, varying from ﬁfteen to
+thirty in number, the same number in each species,
+forming a sharply acuminated screw. The whorls are
+sometimes ﬂattened or a little concave, and being always
+contiguous there is no indication of any umbilicus. No
+varices or tubercles are formed, as in Cerithium, nor is
+there any periodical developement of sculpture on the
+margin of the aperture. The ribs and striæ of Turritella
+range transversely, that is, spirally, never longitudinally,
+and are rarely granulated or noduled. The best characters
+for the discrimination of species reside in the ﬁrst eight or
+ten whorls from the apex; beyond this point the sculpture
+varies slightly or becomes obsolete, as the shell approaches
+maturity. In colour the reverse of this condition is pre‐
+sented, the pattern becoming gradually darker and more
+deﬁned towards the aperture,</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r32">
+	<Coords>
+	<Point x="1460" y="1575"/>
+	<Point x="1460" y="1592"/>
+	<Point x="1913" y="1592"/>
+	<Point x="1913" y="1575"/></Coords></SeparatorRegion>
+	<TextRegion id="r42" type="heading">
+	<Coords>
+	<Point x="1475" y="1610"/>
+	<Point x="1888" y="1610"/>
+	<Point x="1888" y="1655"/>
+	<Point x="1475" y="1655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 1. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1238" y="1671"/>
+	<Point x="2131" y="1671"/>
+	<Point x="2131" y="1908"/>
+	<Point x="1238" y="1908"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURRITELLA UNGULINA. Turr. testâ acuminato-turritâ,
+anfractibus quindecim, convexis, lœvibus, regulariter
+decem-striatis, interstitiis superﬁcialiter sulcatis, aper‐
+turâ suboblongo-ovali; castaneo-rufâ, aperturam versus
+ustulato-nigrâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="1237" y="1910"/>
+	<Point x="2130" y="1910"/>
+	<Point x="2130" y="2149"/>
+	<Point x="1237" y="2149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE NAIL‐BRUISED TURRITELLA. Shell acuminately
+turreted, whorls ﬁfteen in number, convex, smooth,
+regularly ten striated, interstices superﬁcially grooved,
+aperture rather oblong-oval; chestnut-red, burnt
+black towards the aperture.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="paragraph">
+	<Coords>
+	<Point x="1240" y="2243"/>
+	<Point x="2009" y="2243"/>
+	<Point x="2009" y="2292"/>
+	<Point x="1240" y="2292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Senegal, Mouth of the Gambia, West Africa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="1243" y="2150"/>
+	<Point x="2119" y="2150"/>
+	<Point x="2119" y="2193"/>
+	<Point x="1741" y="2193"/>
+	<Point x="1741" y="2241"/>
+	<Point x="1316" y="2241"/>
+	<Point x="1316" y="2193"/>
+	<Point x="1243" y="2193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turbo ungulinus, Linnæus, Syst. Nat. (12th. edit.) p. 1240.
+Turritella fuscata, Lamarck.</Unicode></TextEquiv></TextRegion></Page></PcGts>

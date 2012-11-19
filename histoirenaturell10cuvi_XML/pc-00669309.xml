@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669309">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:50:18</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669309.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r29" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="76" y="271"/>
+	<Point x="1457" y="271"/>
+	<Point x="1455" y="435"/>
+	<Point x="494" y="437"/>
+	<Point x="76" y="436"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>d’une espèce distincte du gladius, le seul auquel on
+puisse le comparer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="72" y="440"/>
+	<Point x="497" y="440"/>
+	<Point x="1457" y="438"/>
+	<Point x="1461" y="1337"/>
+	<Point x="71" y="1337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ligne latérale descend plus bas sur le côté,
+et je compte plus de cent rayons jusqu’à l’anus,
+sans y comprendre le panache: il y a donc plus de
+rayons sur la partie de la dorsale comprise entre
+sa naissance et l’aplomb de l’anus, lequel est reculé
+davantage en arrière; ce qui résulte de ce que ce gym-
+nètre du Cap a les rayons moins rapprochés que
+celui de la Méditerranée. Sur une longueur de cinq
+pieds deux pouces je ne trouve que cent soixante-
+treize rayons à la dorsale de l’espèce du Cap, et plus
+de deux cents sur une même étendue de la dorsale
+de notre gladius.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="69" y="1339"/>
+	<Point x="1435" y="1340"/>
+	<Point x="1437" y="1787"/>
+	<Point x="68" y="1787"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La rame du rayon ventral de notre gymnetrus ca-
+pensis me paraît aussi beaucoup plus large. Le rayon a
+un pied neuf pouces; la rame a deux pouces et demi
+de long, elle n’a pas tout-à-fait un pouce à l’extré‐
+mité d’un rayon de près de deux pieds dans l’espèce
+de la Méditerranée.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="11" y="1807"/>
+	<Point x="1454" y="1807"/>
+	<Point x="1454" y="2098"/>
+	<Point x="11" y="2098"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons dû entrer dans ces détails, qui
+paraîtraient minutieux sans la grande ressem‐
+blance extérieure de ces deux poissons.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="4" y="2394"/>
+	<Point x="1453" y="2394"/>
+	<Point x="1453" y="2688"/>
+	<Point x="4" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les Indes orientales possèdent aussi des
+gymnêtres, et Russel en a décrit et repré‐
+senté un qui oﬀre dans une grande intégrité</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="45" y="2282"/>
+	<Point x="1405" y="2282"/>
+	<Point x="1405" y="2378"/>
+	<Point x="45" y="2378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Gymnetrus Russelii, Shaw, IV, part. II, p. 195.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="455" y="172"/>
+	<Point x="1005" y="172"/>
+	<Point x="1005" y="256"/>
+	<Point x="455" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="page-number">
+	<Coords>
+	<Point x="1276" y="172"/>
+	<Point x="1444" y="172"/>
+	<Point x="1444" y="256"/>
+	<Point x="1276" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>377</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="heading">
+	<Coords>
+	<Point x="301" y="2155"/>
+	<Point x="1147" y="2155"/>
+	<Point x="1147" y="2250"/>
+	<Point x="301" y="2250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le GYMNÈTRE DE RUSSEL.</Unicode></TextEquiv></TextRegion></Page></PcGts>

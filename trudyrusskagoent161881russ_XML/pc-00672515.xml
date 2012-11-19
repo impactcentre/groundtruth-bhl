@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672515">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:49:35</Created>
+	<LastChange>2012-02-10T09:55:04</LastChange></Metadata>
+	<Page imageFilename="00672515.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="759" y="207"/>
+	<Point x="1067" y="207"/>
+	<Point x="1067" y="274"/>
+	<Point x="759" y="274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 319 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="47" y="327"/>
+	<Point x="1792" y="327"/>
+	<Point x="1792" y="923"/>
+	<Point x="47" y="923"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Muss auch Echinocnemus nahe stehen, obgleich weder bei
+Schönherr noch bei Lacordaire die Richtung der Fühler-
+furche, die Beschaﬀenheit des Schienentalus, die Ausdehnung
+der Mittelbrustepimeren und Hinterhüften, sowie das Vorhan-
+densein der beiden feinen Haarpinsel auf dem Analsegment zu
+ersehen ist, Eigenschaften auf deren Bedeutung in der Erir-
+rhiniden-Gruppe ich in nächster Zeit zurückkommen werde.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="45" y="932"/>
+	<Point x="1796" y="932"/>
+	<Point x="1796" y="2094"/>
+	<Point x="45" y="2094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bei Bagoopsis ist der Schienentalus seitlich, d. h. die
+Schienenspitze nach innen schräg abgeschnitten, die untere
+Kante stumpf, bis auf einen kleinen Theil ohne Borstenkranz,
+der obere scharf mit kurzen Borsten gewimpert, der kräftige
+Hornhaken erstreckt sich mit seiner Basis über die ganze
+Länge des Talus, liegt an den Vorderschienen dicht neben,
+an den Hinterschienen etwas entfernt von der obern Talus-
+kante und bildet hier eine schmale glänzende Fläche, welche
+den Talus als mit geschlossenen Körbchen erscheinen lässt
+(falsche Körbchen). Alle Schenkelanhänge haben ein nach
+unten starrendes längeres Borstenhaar und das Analsegment
+beiderseits vor dem Hinterrande einen aus 2 bis 4 längeren
+Haaren zusammengesetzten, schräg nach hinten gerichteten
+Pinsel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="47" y="2101"/>
+	<Point x="1796" y="2101"/>
+	<Point x="1796" y="2365"/>
+	<Point x="47" y="2365"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Fühler sind am Mundwinkel oder zwischen Mitte und
+Spitze des Rüssels eingefügt, im letzteren Falle die Fühler-
+furche bis zum Mundwinkel verlängert.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="59" y="2438"/>
+	<Point x="1798" y="2438"/>
+	<Point x="1798" y="3119"/>
+	<Point x="59" y="3119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bagoopsis volgensis n. sp. Oblongus, subconvexus, ni-
+ger, confertissime punctatus, squamulis griseis, ochraceis subni-
+tidis albidisque tectus; antennis tarsisque piceis; rostro crassiore
+arcuato, fronte inter oculos transverse impressa; antennis ter-
+minalibus; prothorace subtransverso, lateribus rotundatis, mar-
+gine antico medio truncato, lobis ocularibus prominulis, postice
+bisinuato, lobo antescutellare obtuse angulato; prosterno apice
+profunde emarginato; elytris latitudine thoracis latioribus, mi-</Unicode></TextEquiv></TextRegion></Page></PcGts>

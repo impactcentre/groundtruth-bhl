@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669292">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:48:13</Created>
+	<LastChange>2012-03-12T14:33:54</LastChange></Metadata>
+	<Page imageFilename="00669292.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="393" y="277"/>
+	<Point x="1745" y="277"/>
+	<Point x="1745" y="420"/>
+	<Point x="393" y="420"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>issue distincte derrière celle du rectum, en passant à
+droite de l’intestin.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="390" y="425"/>
+	<Point x="1754" y="425"/>
+	<Point x="1755" y="1012"/>
+	<Point x="511" y="1013"/>
+	<Point x="504" y="1027"/>
+	<Point x="394" y="1027"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les reins commencent par être séparés sous la
+forme de deux organes trièdres, logés sous le crâne,
+mais qui se réunissent bientôt, et ne forment plus
+qu’une seule masse triangulaire et prolongée sous
+la colonne vertébrale aussi loin que l’estomac. Elle
+s’amincit de plus en plus, de manière à être réduite
+à un simple ﬁlet près de sa terminaison. Le paren‐
+chyme est ferme et dense.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="397" y="1030"/>
+	<Point x="510" y="1031"/>
+	<Point x="518" y="1019"/>
+	<Point x="1752" y="1018"/>
+	<Point x="1754" y="1539"/>
+	<Point x="1001" y="1540"/>
+	<Point x="994" y="1549"/>
+	<Point x="622" y="1549"/>
+	<Point x="614" y="1552"/>
+	<Point x="585" y="1553"/>
+	<Point x="574" y="1548"/>
+	<Point x="398" y="1548"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A quinze pouces de leur origine on voit sortir de
+la masse commune un uretère unique, cylindrique,
+court, et qui porte l’urine dans une vessie longue de
+près d’un pied, mais très-étroite et fortement réunie
+aux organes sexuels par un tissu cellulaire très-serré.
+Elle se dilate un peu avant de s’ouvrir derrière l’ovi-
+ducte par un trou également bien distinct.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="392" y="1556"/>
+	<Point x="620" y="1556"/>
+	<Point x="625" y="1552"/>
+	<Point x="1004" y="1552"/>
+	<Point x="1006" y="1545"/>
+	<Point x="1756" y="1545"/>
+	<Point x="1758" y="2225"/>
+	<Point x="395" y="2225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce qui est fort remarquable, c’est que le péritoine,
+qui prend en cet endroit beaucoup d’épaisseur et
+devient comme ﬁbreux, forme une lame étroite, qui
+rapproche les deux parois musculaires de ce poisson,
+chez lequel nous n’observons que quelques côtes
+très-petites en avant, et que les muscles ainsi rappro‐
+chés forment une gaîne, dans laquelle se trouvent
+engagés les reins et la portion de la colonne ver‐
+tébrale abdominale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="343" y="2304"/>
+	<Point x="1752" y="2304"/>
+	<Point x="1752" y="2661"/>
+	<Point x="343" y="2661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous ne pouvons encore donner aucune
+observation sur son ostéologie, parce que nos
+individus ne sont pas en état de fournir des
+squelettes complets.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="338" y="175"/>
+	<Point x="482" y="175"/>
+	<Point x="482" y="251"/>
+	<Point x="338" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>360</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="749" y="173"/>
+	<Point x="1338" y="173"/>
+	<Point x="1338" y="252"/>
+	<Point x="749" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

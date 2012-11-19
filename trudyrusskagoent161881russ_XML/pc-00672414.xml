@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672414">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T03:31:01</Created>
+	<LastChange>2012-02-10T09:54:48</LastChange></Metadata>
+	<Page imageFilename="00672414.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="948" y="149"/>
+	<Point x="1257" y="149"/>
+	<Point x="1257" y="210"/>
+	<Point x="948" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 220 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="235" y="282"/>
+	<Point x="1967" y="282"/>
+	<Point x="1967" y="796"/>
+	<Point x="235" y="796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Der zweite Querstreifen, von ihnen so weit entfernt wie vom
+Hinterrande, bildet bei 1/3 einen starken, nach innen gerich-
+teten Winkel, darunter einen nach hinten gerichteten, alsdann
+einige Sägezähne; auf der Basalseite ist er verﬂossen schwärz-
+lich gesäumt. Die Hinterrandpunkte sind schwarz, verﬂossen,
+die Franzen hellgrau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="230" y="810"/>
+	<Point x="1976" y="810"/>
+	<Point x="1976" y="1067"/>
+	<Point x="230" y="1067"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hinterﬂügel spitz, gelblich weiss, glasartig, am Vorderrande
+undurchsichtig weisslich wie die Adern; die Spitze schmal
+bräunlich grau, die Franzen rein weiss.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="232" y="1078"/>
+	<Point x="1980" y="1078"/>
+	<Point x="1980" y="2010"/>
+	<Point x="232" y="2010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unterseite der Vorderﬂügel hellgrau; die Costa ist in einer
+Linie, welche bei 1/3 anfängt und vor der Spitze an einem
+gleichfarbigen Punkt endigt, weisslich. Ast 1 der Medianader
+kommt von ihrer Hälfte; 2 entspringt ihm ziemlich nahe,
+aber noch näher an 3, der mit 4 an der Wurzel vereinigt
+ist. — Hinterﬂügel weisser als oben, etwas irisirend, von der
+Spitze aus mit einer ziemlich deutlichen, bräunlichen Hinter-
+randlinie. Ast 1 der Medianader kommt von 1/3, wo die Quer-
+ader schräg abgeht; 2 hinter 1/2, weniger weit von 3 ent-
+fernt als von 1; 3 und 4 bilden eine Gabel, die kaum so
+lang ist wie ihr Stiel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="242" y="2024"/>
+	<Point x="1980" y="2024"/>
+	<Point x="1980" y="2210"/>
+	<Point x="242" y="2210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Das einzelne schöne ♀ ﬁng Baron v. Nolcken am 5 Ja-
+nuar bei Barranquilla, wo er es aus Gesträuch klopfte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="566" y="2348"/>
+	<Point x="1669" y="2348"/>
+	<Point x="1669" y="2453"/>
+	<Point x="566" y="2453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Myel. restrictella Tab. XII, ﬁg. 32.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="232" y="2496"/>
+	<Point x="1980" y="2496"/>
+	<Point x="1980" y="2842"/>
+	<Point x="232" y="2842"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Palpis rectis, erectis, canis, exterius nigris; alis ant. an-
+gustis, cinereis, obscurius pulverosis, strigis duabus obsoletis
+dilutis. priore subperpendiculari, interius latius nigricanti-
+marginata; post. exalbido-hyalinis, venis albidis. ♀.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="244" y="2876"/>
+	<Point x="1992" y="2876"/>
+	<Point x="1992" y="3141"/>
+	<Point x="244" y="3141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sehr übereinstimmend mit Famula, aber sicher verschieden
+durch die dünnern Taster, die an der Wurzel schmälern und
+sanfter erweiterten Vorderﬂügel und den fast senkrecht ge-</Unicode></TextEquiv></TextRegion></Page></PcGts>

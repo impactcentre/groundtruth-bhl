@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668113">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T12:33:29</Created>
+	<LastChange>2012-02-10T09:52:37</LastChange></Metadata>
+	<Page imageFilename="00668113.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="723" y="219"/>
+	<Point x="1510" y="219"/>
+	<Point x="1510" y="283"/>
+	<Point x="723" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ROSE‐COLOURED STARLING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1942" y="239"/>
+	<Point x="2050" y="239"/>
+	<Point x="2050" y="291"/>
+	<Point x="1942" y="291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>145</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="149" y="333"/>
+	<Point x="2053" y="330"/>
+	<Point x="2052" y="1467"/>
+	<Point x="157" y="1471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>account of it in his History of British Birds:—“In driving across the steppes
+between the Danube and the Black Sea we now and then came upon small ﬂocks
+of these birds. At a distance they are indistinguishable from common Starlings;
+they run along the ground in the same way, they have the same rapid straight
+ﬂight, and the same habit of clustering together. On the ground they feed
+with the same eager anxiety, but frequently perch on the stunted bushes, when
+their pink colour is very conspicuous. The notes of this bird are almost exactly
+the same as those of the Starling, they chatter together in the same way, and in
+conﬁnement the low warble mixed with the chatter is very similar in both species.
+In most places where this bird breeds it is protected on account of the enormous
+number of locusts it devours. In autumn it takes its toll on the fruit (mulberries,
+cherries, etc.); but its usefulness in spring is so apparent, that the Greeks and
+Turks do not begrudge it so small a triﬂe. In Asia Minor, as in the Dobrudscha,
+I had the misfortune to arrive the day after the fair. Dr. Krüper and I were
+informed by our friend Guido von Gonzenbach that the Rose-coloured Starlings
+had bred in the previous spring (1871) in enormous numbers in the neighbourhood
+of Smyrna, and had devoured the grubs and locusts to the admiration of the
+peasantry.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="156" y="1473"/>
+	<Point x="2053" y="1469"/>
+	<Point x="2054" y="1840"/>
+	<Point x="155" y="1842"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The nest of the Rose-coloured Starling is built in holes or crevices in rocks,
+heaps of stones, earth-cliﬀs, quarries, walls, and old ruins, and is said to be strongly
+constructed, not unlike that of a Blackbird; but at times a mere accumulation of
+sticks, straws, and various dead plants, with a central depression for the eggs
+lined with plant ﬁbre, leaves, moss, and feathers. The eggs number from ﬁve to
+six, and are glossy white with the faintest bluish tinge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="156" y="1844"/>
+	<Point x="2054" y="1842"/>
+	<Point x="2057" y="1967"/>
+	<Point x="158" y="1968"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This species appears to be single-brooded; the hen is a close sitter and is fed
+upon the nest by the male bird, chieﬂy with locusts.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="157" y="1971"/>
+	<Point x="2057" y="1969"/>
+	<Point x="2057" y="2460"/>
+	<Point x="155" y="2461"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It appears to be generally admitted by Ornithologists that the favourite food
+of the Rose-coloured Starling consists in early summer of locusts, and later of
+cherries: in conﬁnement it eats cockroaches with avidity: it should certainly
+never be fed as that unfortunate example was, which many years ago was winged
+at Chelmondiston, in Suﬀolk, and is said by Messrs. Sheppard and Whitear to
+have been kept alive for three months on raw meat. All true Starlings will eat
+meat, but it is not good for them, though less injurious than in the case of
+members of the family Turdidœ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="156" y="2463"/>
+	<Point x="2059" y="2463"/>
+	<Point x="2058" y="2717"/>
+	<Point x="157" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lord Lilford observes that “The Rose-coloured Pastor thrives well in captivity,
+but the constant chatter of even a single bird is almost overpowering in a room.”
+Doubtless this is the case, but no rank-feeding voracious birds are suitable
+pets for a dwelling-room, for other reasons: in a bird-room they are more</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="1772" y="2727"/>
+	<Point x="1772" y="2764"/>
+	<Point x="1716" y="2764"/>
+	<Point x="1716" y="2727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="294" y="2736"/>
+	<Point x="420" y="2736"/>
+	<Point x="420" y="2772"/>
+	<Point x="294" y="2772"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VOL. II.</Unicode></TextEquiv></TextRegion></Page></PcGts>

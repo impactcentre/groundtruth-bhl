@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668865">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T17:24:38</Created>
+	<LastChange>2012-02-10T10:29:42</LastChange></Metadata>
+	<Page imageFilename="00668865.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="971" y="876"/>
+	<Point x="1610" y="876"/>
+	<Point x="1610" y="978"/>
+	<Point x="971" y="978"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MONOGRAPHS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1101" y="1092"/>
+	<Point x="1492" y="1092"/>
+	<Point x="1492" y="1155"/>
+	<Point x="1101" y="1155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OF THE GENERA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="508" y="1282"/>
+	<Point x="2075" y="1282"/>
+	<Point x="2075" y="1410"/>
+	<Point x="508" y="1410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MESALIA AND EGLISIA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="949" y="1621"/>
+	<Point x="1616" y="1621"/>
+	<Point x="1616" y="1774"/>
+	<Point x="949" y="1774"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>There is a rapture on the lonely shore,
+There is society where none intrudes,
+By the deep sea, and music in its roar.—Byron.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r5" type="other">
+	<Coords>
+	<Point x="1018" y="1531"/>
+	<Point x="1018" y="1570"/>
+	<Point x="1573" y="1570"/>
+	<Point x="1573" y="1531"/></Coords></GraphicRegion>
+	<GraphicRegion id="r6" type="other">
+	<Coords>
+	<Point x="1008" y="1826"/>
+	<Point x="1008" y="1866"/>
+	<Point x="1559" y="1866"/>
+	<Point x="1559" y="1826"/></Coords></GraphicRegion></Page></PcGts>

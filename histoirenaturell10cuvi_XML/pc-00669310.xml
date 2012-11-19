@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669310">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T00:50:26</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669310.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="361" y="294"/>
+	<Point x="1807" y="294"/>
+	<Point x="1807" y="1730"/>
+	<Point x="361" y="1730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tous les caractères si remarquables de ce genre,
+et qui formera peut-être avec l’espèce suivante
+un petit groupe distinct, caractérisé par leurs
+deux rayons longs et ﬁliformes à chaque ven‐
+trale1, un haut panache sur la nuque et une
+caudale relevée, seul fait bien constaté sur
+la forme et la position de cette nageoire.
+L’un d’eux, parfaitement bien conservé, est le
+poisson que Russel a fait graver, mais sans
+nom spéciﬁque, et comme un gymnètre, dans
+son grand ouvrage sur les poissons de Viza-
+gapatam (pl. 40), et auquel Shaw a imposé
+le nom méthodique de gymnetrus Russelii.2
+Il fut pris non loin de Vizagapatam, en Mars
+1788, et les pécheurs déclarèrent qu’il leur
+était inconnu, ce qui prouve au moins qu’il
+est rare sur cette côte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="456" y="1739"/>
+	<Point x="1801" y="1739"/>
+	<Point x="1801" y="1838"/>
+	<Point x="456" y="1838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa longueur était de deux pieds huit pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="435" y="1844"/>
+	<Point x="1819" y="1844"/>
+	<Point x="1819" y="2005"/>
+	<Point x="435" y="2005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est l’espèce la plus alongée du genre: sa hauteur
+est vingt fois dans sa longueur, sans compter la cau-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="371" y="2055"/>
+	<Point x="1808" y="2055"/>
+	<Point x="1808" y="2605"/>
+	<Point x="374" y="2606"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Si toutefois on n’a pas attribué faussement ces deux rayons
+à la ventrale du gymnètre de Russel, en interprétant mal son
+texte peu clair. Car il dit: the ventral wanting, unless two cirri
+of equal length with those of the crest be taken for ﬁns. Il parle donc
+de la ventrale dans le commencement de la phrase, qu’il croit
+ne pas exister, et ensuite des rayons qui ont été pris pour les
+nageoires; ce qui ne veut pas dire que chaque nageoire en a deux.
+Je serais porté à croire qu’il n’y avait qu’un rayon pour chaque
+ventrale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords>
+	<Point x="416" y="2611"/>
+	<Point x="1606" y="2611"/>
+	<Point x="1606" y="2692"/>
+	<Point x="416" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Shaw, Gen. Zool., t. IV, part. II. p. 195, pl. 28.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="373" y="180"/>
+	<Point x="541" y="180"/>
+	<Point x="541" y="283"/>
+	<Point x="373" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>378</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="803" y="180"/>
+	<Point x="1407" y="180"/>
+	<Point x="1407" y="283"/>
+	<Point x="803" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="381" y="2018"/>
+	<Point x="381" y="2047"/>
+	<Point x="1798" y="2047"/>
+	<Point x="1798" y="2018"/></Coords></SeparatorRegion></Page></PcGts>

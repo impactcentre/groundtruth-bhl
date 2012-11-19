@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669026">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T21:15:31</Created>
+	<LastChange>2012-02-09T16:27:29</LastChange></Metadata>
+	<Page imageFilename="00669026.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/>
+	<RegionRefIndexed regionRef="r24" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="406" y="213"/>
+	<Point x="1748" y="213"/>
+	<Point x="1748" y="450"/>
+	<Point x="406" y="450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de son front est plus large, moins profonde et moins
+recouverte par les frontaux antérieurs. Il n’y a que
+treize vertèbres caudales, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="352" y="485"/>
+	<Point x="1751" y="485"/>
+	<Point x="1751" y="744"/>
+	<Point x="352" y="744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos individus sont longs de quatre pouces
+et demi et de cinq pouces; l’espèce ne de‐
+vient guère plus grande.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="341" y="746"/>
+	<Point x="1758" y="746"/>
+	<Point x="1758" y="1170"/>
+	<Point x="341" y="1170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il nous en est venu des Moluques par Péron;
+de Trinquemalé, de Ceilan, par M. Raynaud;
+de la côte de Malabar et des Séchelles par
+M. Dussumier. Ce poisson est très-abondant
+près du rivage de cet archipel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="341" y="1174"/>
+	<Point x="1758" y="1174"/>
+	<Point x="1758" y="2017"/>
+	<Point x="341" y="2017"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous y rapportons un dessin que M. de
+Mertens nous a fait voir et qui est long de
+six pouces; son deuxième rayon dorsal en a
+plus de trois. L’argenté y est teint de violet,
+la pectorale et la caudale y sont d’un beau
+jaune; la dorsale et l’anale y ont le bord jaune.
+M. Dussumier parle aussi de teintes dorées sur
+le milieu du corps et à la partie antérieure de
+l’anale, mais qui ne se conservent pas dans la
+liqueur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="341" y="2331"/>
+	<Point x="1751" y="2331"/>
+	<Point x="1751" y="2606"/>
+	<Point x="341" y="2606"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Une espèce très-voisine du ﬁligera, si
+même ce n’en est pas une simple diﬀérence
+de sexe, a été rapportée de l’île de Waigiou</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="350" y="120"/>
+	<Point x="464" y="120"/>
+	<Point x="464" y="196"/>
+	<Point x="350" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>94</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="715" y="123"/>
+	<Point x="1378" y="123"/>
+	<Point x="1378" y="194"/>
+	<Point x="715" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE IX SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="655" y="2085"/>
+	<Point x="1462" y="2085"/>
+	<Point x="1462" y="2186"/>
+	<Point x="1044" y="2188"/>
+	<Point x="655" y="2186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’EQUULA LONGUE-ÉPINE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="678" y="2206"/>
+	<Point x="1420" y="2206"/>
+	<Point x="1420" y="2312"/>
+	<Point x="678" y="2312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Equula longispinis, nob.)</Unicode></TextEquiv></TextRegion></Page></PcGts>

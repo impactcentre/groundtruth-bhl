@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669396">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:01:14</Created>
+	<LastChange>2012-03-12T14:34:00</LastChange></Metadata>
+	<Page imageFilename="00669396.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="421" y="239"/>
+	<Point x="1841" y="239"/>
+	<Point x="1841" y="766"/>
+	<Point x="421" y="766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de dire lequel de ces deux poissons Garden
+avait sous les yeux en faisant la description
+qu’il envoyait à Linné. Attendu que ces deux
+espèces ne diﬀèrent que par des proportions
+dont il n’aura pas tenu compte. Nous con‑
+servons à la première le nom de menidia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="464" y="787"/>
+	<Point x="1849" y="787"/>
+	<Point x="1849" y="2139"/>
+	<Point x="464" y="2139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C’est une des plus alongées du genre. Sa hauteur
+est sept fois dans sa longueur. Sa tête n’y est que
+cinq fois et demie, et est deux fois aussi longue
+que haute. L’œil, placé au milieu de sa longueur,
+n’a que le quart de cette longueur en diamètre. La
+fente de la bouche ne prend que moitié de l’inter‑
+valle entre le bout du museau et l’œil. Ses petites
+dents pointues sont plus sensibles qu’aux espèces
+précédentes. Le dessus du crâne est légèrement con‑
+vexe et lisse, comme dans un muge. La pectorale
+est contenue plus de sept fois dans la longueur
+totale. L’anale est deux fois et demie aussi longue
+que la seconde dorsale, qui est à peu près vis-à-vis
+de son milieu. La raie d’argent, sans être fort large,
+est très-marquée, et a un liséré bleu à son bord
+supérieur. Les points noirs des bords des écailles
+sont extrêmement petits, en sorte qu’au total sa
+couleur est très-claire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="587" y="2153"/>
+	<Point x="1694" y="2153"/>
+	<Point x="1694" y="2230"/>
+	<Point x="587" y="2230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. 6; D. 5 — 1/9; A. 1/25; C. 19; P. 15; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="460" y="2239"/>
+	<Point x="1830" y="2239"/>
+	<Point x="1830" y="2626"/>
+	<Point x="460" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons fait l’anatomie de cette espèce. Son
+foie se moule sur la surface de l’estomac, comme
+dans nos sauclets d’Europe; mais il se prolonge
+davantage en pointe en arrière. L’estomac n’est aussi
+qu’une dilatation du canal intestinal, sans cul-de-sac</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="423" y="130"/>
+	<Point x="585" y="130"/>
+	<Point x="585" y="208"/>
+	<Point x="423" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>464</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="890" y="145"/>
+	<Point x="1357" y="145"/>
+	<Point x="1357" y="224"/>
+	<Point x="890" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DOUZIÈME.</Unicode></TextEquiv></TextRegion></Page></PcGts>

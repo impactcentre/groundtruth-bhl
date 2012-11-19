@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672722">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T22:33:44</Created>
+	<LastChange>2012-02-10T10:29:45</LastChange></Metadata>
+	<Page imageFilename="00672722.tif" imageWidth="3337" imageHeight="4943">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r14" index="6"/>
+	<RegionRefIndexed regionRef="r15" index="7"/>
+	<RegionRefIndexed regionRef="r16" index="8"/>
+	<RegionRefIndexed regionRef="r18" index="9"/>
+	<RegionRefIndexed regionRef="r19" index="10"/>
+	<RegionRefIndexed regionRef="r20" index="11"/>
+	<RegionRefIndexed regionRef="r21" index="12"/>
+	<RegionRefIndexed regionRef="r22" index="13"/>
+	<RegionRefIndexed regionRef="r23" index="14"/>
+	<RegionRefIndexed regionRef="r24" index="15"/>
+	<RegionRefIndexed regionRef="r26" index="16"/>
+	<RegionRefIndexed regionRef="r27" index="17"/>
+	<RegionRefIndexed regionRef="r28" index="18"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="540" y="283"/>
+	<Point x="693" y="283"/>
+	<Point x="693" y="350"/>
+	<Point x="540" y="350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1298</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="962" y="290"/>
+	<Point x="1405" y="290"/>
+	<Point x="1405" y="348"/>
+	<Point x="962" y="348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PHILADELPHUS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="2286" y="273"/>
+	<Point x="2793" y="273"/>
+	<Point x="2793" y="366"/>
+	<Point x="2286" y="366"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PHILADELPHUS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="727" y="512"/>
+	<Point x="1643" y="512"/>
+	<Point x="1643" y="573"/>
+	<Point x="727" y="573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. Calyx pubescent outside: bark gray.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="531" y="584"/>
+	<Point x="1822" y="584"/>
+	<Point x="1822" y="826"/>
+	<Point x="531" y="826"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. pubéscens. Loisel.(P. latifòlius, Schrad. P. grandi-
+ﬂòrus, var. ﬂoribúndus, A. Gray). Shrub, to 20 ft. high:
+mature branches of this year yellowish brown, those of
+last year light gray: lvs. broadly ovate, dentate, pubes-
+cent beneath. 2–4 in. long: racemes rather loose, 5–11-</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r8">
+	<Coords>
+	<Point x="479" y="889"/>
+	<Point x="1863" y="889"/>
+	<Point x="1863" y="2321"/>
+	<Point x="479" y="2321"/></Coords></ImageRegion>
+	<TextRegion id="r9" type="caption">
+	<Coords>
+	<Point x="854" y="2356"/>
+	<Point x="1511" y="2356"/>
+	<Point x="1511" y="2406"/>
+	<Point x="854" y="2406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1749. Philadelphus coronarius.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="530" y="2452"/>
+	<Point x="1827" y="2452"/>
+	<Point x="1827" y="3031"/>
+	<Point x="530" y="3031"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬂd.: ﬂs. creamy white, scentless, 1½–2 in. across. June,
+July. Tennessee. B.R. 7:570 and Gn. 40, p. 289 (as P.
+grandiﬂorus). B.R. 23:2003 and G.C. II. 16:81 (as P.
+speciosus).—The ﬁgures quoted above do not represent
+typical plants; they are probably partly hybrids of this
+species with P. grandiﬂorus and inodorus, but the ﬁgure
+accompanying the original description by Loiseleur in
+Herbier gen. de amateur, Vol. IV, t. 268, agrees well
+with wild plants from Tennessee. A dwarf form with
+double ﬂs., cult.as P. nivalis spectabilis ﬂore pleno, prob-
+ably belongs to this species. P. pubescens of Koch and
+of Koehne is P. verrucosus; see supplementary list.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="536" y="3180"/>
+	<Point x="1837" y="3180"/>
+	<Point x="1837" y="3518"/>
+	<Point x="536" y="3518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Gordoniànus, Lindl. Shrub, to 12 ft., with grayish
+brown branches: Ivs. broadly ovate to elliptic, coarsely
+dentate, especially those of the young shoots, light
+green, pubescent beneath, thin, 1½–3 in. long: racemes
+dense, 5–7-ﬂd.: ﬂs. pure white, scentless, 1½–1¾ in.
+across; petals oval-oblong: ovary half-superior. June,
+July. Wash. to Ore. B.R. 25:32. Gn. 3, p. 233.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="547" y="3520"/>
+	<Point x="1838" y="3520"/>
+	<Point x="1838" y="3895"/>
+	<Point x="547" y="3895"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. Léwisi, Pursh. Upright shrub, to 8 ft.: bark of
+branches dark or grayish brown, usually with numer-
+ous horizontal cracks: lvs. broadly ovate or elliptic-
+ovate, entire or sparingly dentate, glabrous or some-
+what hairy beneath, thickish at maturity, 1½–3 in. long:
+racemes short and dense, 5–9-ﬂd.: ﬂs. short-stalked,
+1–1⅓ in. across, scentless. June, July. Brit. Colo. to
+Calif.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="540" y="3898"/>
+	<Point x="1836" y="3898"/>
+	<Point x="1836" y="4240"/>
+	<Point x="540" y="4240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4. Satsùmi, Sieb. (P. Yokohámæ, Hort.). Shrub, to
+8 ft., erect: branches of last year with grayish brown
+bark, usually marked with whitish, longitudinal ﬁs-
+sures: lvs. ovate, long-acuminate, dentate or sometimes
+entire, almost glabrous, 3–6 in. long: racemes loose,
+erect, 7–9-ﬂd.: ﬂs. about 1 in. across, slightly fragrant.
+May, June. Japan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="1888" y="506"/>
+	<Point x="3172" y="506"/>
+	<Point x="3172" y="605"/>
+	<Point x="1888" y="605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. Fls. in many-ﬂd. panicles, but sometimes racemose
+on weaker branches.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1884" y="611"/>
+	<Point x="3176" y="611"/>
+	<Point x="3176" y="956"/>
+	<Point x="1884" y="956"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5. Califórnicus, Benth. Upright shrub, to 8 ft., with
+brown branches: lvs. ovate, with few teeth or almost
+entire, glabrous or somewhat pubescent beneath, thick-
+ish at maturity, 1½–2½ in. long: ﬂs. ¾–1 in. across,
+scentless; petals oblong. June, July. Wash. to Calif.
+—Similar in habit to P. Lewisi, to which it is usually
+referred as a variety.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords>
+	<Point x="2077" y="961"/>
+	<Point x="2995" y="961"/>
+	<Point x="2995" y="1019"/>
+	<Point x="2077" y="1019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BB. Fls. in 5–9-ﬂd. racemes, rarely 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="heading">
+	<Coords>
+	<Point x="1913" y="1023"/>
+	<Point x="3161" y="1023"/>
+	<Point x="3161" y="1133"/>
+	<Point x="1913" y="1133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C. Lvs. glabrous or nearly so beneath, ovate-lanceo-
+late: pedicels glabrous.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1887" y="1136"/>
+	<Point x="3180" y="1136"/>
+	<Point x="3180" y="1515"/>
+	<Point x="1887" y="1515"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6. Pekinénsis. Rupr. (P. coronàrius, var. Pekinénsis,
+Maxim.). Upright shrub, to 5 ft.: lvs. ovate-lanceo-
+late, acuminate, denticulate, thickish at maturity, 1½–
+3 in. long; petioles purplish: racemes short and dense,
+usually 5–11-ﬂd.: ﬂs. 1⅓ in. across, slightly fragrant;
+style divided only at the apex. May, June. Mongolia,
+N. China.—Dense, upright, but rather low, free-ﬂower-
+ing shrub.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1890" y="1519"/>
+	<Point x="3181" y="1519"/>
+	<Point x="3181" y="1948"/>
+	<Point x="1890" y="1948"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7. Fálconeri, Sarg. Shrub, to 8 ft., with slender,
+arching branches: lvs. ovate-lanceolate, acuminate,
+denticulate, 1½–3 in. long, thickish at maturity: ﬂs. 3–
+7, slender-pedicelled, fragrant, pure white, about 1½ in.
+across; calyx-lobes lanceolate; petals oblong, acute;
+style much longer than stamens, deeply divided. June.
+Origin unknown; probably Japanese. G.F. 8:497.
+M.D.G. 1899:231. Gng. 8:340.—Very graceful shrub,
+wide-spreading.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1886" y="2073"/>
+	<Point x="3188" y="2073"/>
+	<Point x="3188" y="2963"/>
+	<Point x="1886" y="2963"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8. coronàrius, Linn. Fig. 1748, 1479. Shrub, to 10 ft.,
+with upright branches: lvs. ovate to ovate-elliptic, usu-
+ally acute at both ends, denticulate, sparingly pubes-
+cent beneath. 2–4 in. long: ﬂs. 5–9 in rather dense ra-
+cemes, creamy white, very fragrant, on rather short
+pubescent pedicels; petals oval; style divided about one-
+half. May, June. S. E. Eu., Caucasus. B.B. 2:186.—This
+is the common Mock Orange, less showy than the follow-
+ing species and of somewhat stiﬀ habit, but deliciously
+fragrant. There are several vars. in cultivation. Var.
+argénteo-marginàta, Hort. Lvs. edged creamy white,
+and other variegated forms. Var. aùreus. Hort. Foli-
+age yellow. Var. nànus, Schrad. Dwarf, compact shrub,
+with dark green foliage; ﬂowers but rarely. Var. sa-
+licifòlia, Hort. Lvs. lanceolate or linear-lanceolate.
+There are also several vars. with double ﬂs., as vars.
+dianthiﬂòrus, multiﬂorus plènus, primulæﬂòrus (R.H.
+1870, p. 305), rosæﬂòrus, mostly of dwarfer habit than
+the type.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1888" y="2966"/>
+	<Point x="3195" y="2965"/>
+	<Point x="3195" y="3484"/>
+	<Point x="1890" y="3484"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>9. Zéyheri, Schrad. Probably hybrid of the preceding
+and P. inodorus: lower than P. coronarius and more
+spreading, with sometimes arching branches: lvs.
+ovate, usually rounded at the base: ﬂs. usually 5, pure
+white, slightly fragrant or scentless, 1½–1¾ in. broad;
+style sometimes longer than stamens, divided one-half
+or less. June. Of garden origin. The diﬀerent forms
+of P. Zeyheri are, besides those of the following hy-
+brid, the most showy of the genus, bearing the large,
+pure white ﬂs. in great profusion along the branches.
+P. speciosissímus, Hort., belongs here.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1891" y="3486"/>
+	<Point x="3191" y="3486"/>
+	<Point x="3191" y="4240"/>
+	<Point x="1891" y="4240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10. Lemóinei, Lemoine. Hybrid of P. microphyllus
+with P. coronarius, of varying habit: lvs. ovate to ovate-
+elliptic or ovate-lanceolate, usually pubescent beneath
+and ¾–2½ in. long: ﬂs. 3–7 in short racemes, very
+sweet-scented; petals oval to oblong, mostly dentate
+at the apex. G.F. 2:617.—Some of the best forms of
+this hybrid are Avalanche. Graceful shrub, with slen-
+der arching branches, covered almost the whole length
+with showy white ﬂs. G.C. III. 21:89. M.D.G. 1896:293.
+Gerbe de Neige is similar, but the ﬂs. are larger. Boule
+argent has large, double ﬂs. and the habit of P. coro-
+narius. G.C. III. 18:19 and 23, suppl. 28 May. Can-
+délabre. Low shrub, with upright branches covered with
+large ﬂs. M.D.G. 1896:294. Var. eréctus. Upright, to
+5 ft., covered with white ﬂs. Mont Blanc is similar in
+habit, but ﬂs. larger and showier.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="529" y="394"/>
+	<Point x="1819" y="394"/>
+	<Point x="1819" y="488"/>
+	<Point x="529" y="488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A. Bark of last year's branches not peeling oﬀ: ﬂs. in
+racemes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="543" y="3063"/>
+	<Point x="1827" y="3063"/>
+	<Point x="1827" y="3162"/>
+	<Point x="543" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BB. Calyx glabrous outside: bark brown or grayish
+brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="1888" y="395"/>
+	<Point x="3169" y="395"/>
+	<Point x="3169" y="494"/>
+	<Point x="1888" y="494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AA. Bark of last year's branches peeling oﬀ in thin
+ﬂakes, brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="1915" y="1965"/>
+	<Point x="3161" y="1965"/>
+	<Point x="3161" y="2062"/>
+	<Point x="1915" y="2062"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CC. Lvs. more or less pubescent beneath, usually
+ovate.</Unicode></TextEquiv></TextRegion></Page></PcGts>

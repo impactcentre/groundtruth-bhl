@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672757">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T04:06:21</Created>
+	<LastChange>2012-02-10T10:29:47</LastChange></Metadata>
+	<Page imageFilename="00672757.tif" imageWidth="1603" imageHeight="2844">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="175" y="281"/>
+	<Point x="1511" y="281"/>
+	<Point x="1511" y="905"/>
+	<Point x="175" y="905"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Monro was ordered with his regiment to rein-
+force the garrison at lake George. Aware of
+the siege that was about to commence, Putnam
+advised colonel Monro not to carry his costly
+baggage &amp; camp equipage; but Monro,not ap-
+prised of the intelligence which had been given
+to Webb, disregarded the advice and marched
+on without any apprehension of immediate dan-
+ger. †</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="164" y="907"/>
+	<Point x="1520" y="907"/>
+	<Point x="1520" y="2527"/>
+	<Point x="164" y="2527"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE day after Monro had arrived and taken
+the command, the lake appeared to be covered
+with boats; and a large army of French and
+Indians were swiftly approaching towards the
+fort. Montcalm eﬀected a landing with but
+little opposition, and immediately began the
+siege. A small party of the garrison had a
+skirmish with some of the advanced parties of
+the enemy, and some that had been taken pris-
+oners, had been murdered and scalped by the
+Indians with circumstances of the most inhu-
+man barbarity. Montcalm wished to avail
+himself of this event, and endeavoured to pur-
+suade the garrison to an immediate surrender.
+On the day in which he invested the place, he
+sent a letter to colonel Monro, stating that he
+thought himself bound in humanity to urge
+him to surrender before any of the Indians were
+slain, &amp; their savage temper should be further in-
+ﬂamed by a resistance which could not be avail-
+ing. “A detachment of your garrison, says
+‘ he, has lately experienced their cruelty; I
+‘ have it yet in my power to restrain them, and
+‘ oblige them to observe a capitulation, as none</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords>
+	<Point x="268" y="2559"/>
+	<Point x="972" y="2559"/>
+	<Point x="972" y="2637"/>
+	<Point x="268" y="2637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>† Humphrey's life of Putnam, p. 37.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="187" y="151"/>
+	<Point x="335" y="151"/>
+	<Point x="335" y="229"/>
+	<Point x="187" y="229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>386</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="422" y="153"/>
+	<Point x="1250" y="153"/>
+	<Point x="1250" y="233"/>
+	<Point x="422" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NATURAL AND CIVIL</Unicode></TextEquiv></TextRegion></Page></PcGts>

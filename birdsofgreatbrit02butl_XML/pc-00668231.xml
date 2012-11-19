@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668231">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T14:47:02</Created>
+	<LastChange>2012-02-10T09:52:46</LastChange></Metadata>
+	<Page imageFilename="00668231.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r23" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r37" index="5"/>
+	<RegionRefIndexed regionRef="r40" index="6"/>
+	<RegionRefIndexed regionRef="r31" index="7"/>
+	<RegionRefIndexed regionRef="r25" index="8"/>
+	<RegionRefIndexed regionRef="r32" index="9"/>
+	<RegionRefIndexed regionRef="r9" index="10"/>
+	<RegionRefIndexed regionRef="r34" index="11"/>
+	<RegionRefIndexed regionRef="r44" index="12"/>
+	<RegionRefIndexed regionRef="r43" index="13"/>
+	<RegionRefIndexed regionRef="r47" index="14"/>
+	<RegionRefIndexed regionRef="r53" index="15"/>
+	<RegionRefIndexed regionRef="r12" index="16"/>
+	<RegionRefIndexed regionRef="r13" index="17"/>
+	<RegionRefIndexed regionRef="r54" index="18"/>
+	<RegionRefIndexed regionRef="r14" index="19"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="992" y="264"/>
+	<Point x="1241" y="264"/>
+	<Point x="1241" y="328"/>
+	<Point x="992" y="328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>APPENDIX</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1935" y="282"/>
+	<Point x="2041" y="282"/>
+	<Point x="2041" y="338"/>
+	<Point x="1935" y="338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>207</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="161" y="384"/>
+	<Point x="2043" y="384"/>
+	<Point x="2043" y="512"/>
+	<Point x="161" y="512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Two nests of the common Willow-Warbler were found and others were seen
+building in the Shetlands in May, 1901.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="266" y="517"/>
+	<Point x="2010" y="517"/>
+	<Point x="2010" y="589"/>
+	<Point x="266" y="589"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Wood-Warbler was heard on the Isle of Man, in May 1901 and 1905.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="694" y="943"/>
+	<Point x="1520" y="943"/>
+	<Point x="1520" y="1033"/>
+	<Point x="694" y="1033"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE RUFOUS WARBLER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="583" y="1651"/>
+	<Point x="1622" y="1651"/>
+	<Point x="1622" y="1741"/>
+	<Point x="583" y="1741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE GREY-BACKED WARBLER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="674" y="2325"/>
+	<Point x="1535" y="2325"/>
+	<Point x="1535" y="2409"/>
+	<Point x="674" y="2409"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>RADDE'S BUSH-WARBLER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="796" y="2458"/>
+	<Point x="1432" y="2458"/>
+	<Point x="1432" y="2535"/>
+	<Point x="796" y="2535"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lusciniola schwarzi, RADDE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="325" y="2593"/>
+	<Point x="2045" y="2593"/>
+	<Point x="2045" y="2732"/>
+	<Point x="325" y="2732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>specimen was obtained in October, 1898, on the Lincolnshire side of the
+Humber, by Mr. Haigh.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="997" y="692"/>
+	<Point x="1233" y="692"/>
+	<Point x="1233" y="723"/>
+	<Point x="997" y="723"/></Coords></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="187" y="807"/>
+	<Point x="714" y="807"/>
+	<Point x="714" y="876"/>
+	<Point x="187" y="876"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—TURDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1425" y="812"/>
+	<Point x="2035" y="812"/>
+	<Point x="2035" y="882"/>
+	<Point x="1425" y="882"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—SYLVIINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="305" y="1201"/>
+	<Point x="1864" y="1201"/>
+	<Point x="1864" y="1297"/>
+	<Point x="305" y="1297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HIS rare species has occurred in Sussex and Devon in the autumn.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords>
+	<Point x="821" y="1101"/>
+	<Point x="1393" y="1101"/>
+	<Point x="1393" y="1155"/>
+	<Point x="821" y="1155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aedon galactodes, TEMM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="drop-capital">
+	<Coords>
+	<Point x="176" y="1200"/>
+	<Point x="301" y="1200"/>
+	<Point x="301" y="1361"/>
+	<Point x="176" y="1361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r41">
+	<Coords>
+	<Point x="984" y="1384"/>
+	<Point x="1233" y="1384"/>
+	<Point x="1233" y="1423"/>
+	<Point x="984" y="1423"/></Coords></SeparatorRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="174" y="1516"/>
+	<Point x="716" y="1516"/>
+	<Point x="716" y="1579"/>
+	<Point x="174" y="1579"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—TURDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1441" y="1512"/>
+	<Point x="2035" y="1512"/>
+	<Point x="2035" y="1583"/>
+	<Point x="1441" y="1583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—SYLVIINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="heading">
+	<Coords>
+	<Point x="917" y="1784"/>
+	<Point x="1307" y="1784"/>
+	<Point x="1307" y="1871"/>
+	<Point x="917" y="1871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aedon familiaris.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="319" y="1909"/>
+	<Point x="1535" y="1909"/>
+	<Point x="1535" y="1990"/>
+	<Point x="319" y="1990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>male was shot at Hythe, Kent, on July 15th, 1907.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="drop-capital">
+	<Coords>
+	<Point x="177" y="1925"/>
+	<Point x="303" y="1925"/>
+	<Point x="303" y="2080"/>
+	<Point x="177" y="2080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r45">
+	<Coords>
+	<Point x="1006" y="2074"/>
+	<Point x="1232" y="2074"/>
+	<Point x="1232" y="2109"/>
+	<Point x="1006" y="2109"/></Coords></SeparatorRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="180" y="2193"/>
+	<Point x="707" y="2193"/>
+	<Point x="707" y="2257"/>
+	<Point x="180" y="2257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—TURDIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="1435" y="2187"/>
+	<Point x="2054" y="2187"/>
+	<Point x="2054" y="2264"/>
+	<Point x="1435" y="2264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—SYLVIINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="drop-capital">
+	<Coords>
+	<Point x="190" y="2593"/>
+	<Point x="303" y="2593"/>
+	<Point x="303" y="2757"/>
+	<Point x="190" y="2757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion></Page></PcGts>

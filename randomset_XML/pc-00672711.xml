@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672711">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T17:02:33</Created>
+	<LastChange>2012-02-10T10:29:45</LastChange></Metadata>
+	<Page imageFilename="00672711.tif" imageWidth="2044" imageHeight="3314">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r19" index="3"/>
+	<RegionRefIndexed regionRef="r25" index="4"/>
+	<RegionRefIndexed regionRef="r4" index="5"/>
+	<RegionRefIndexed regionRef="r5" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/>
+	<RegionRefIndexed regionRef="r7" index="8"/>
+	<RegionRefIndexed regionRef="r8" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="100" y="322"/>
+	<Point x="1725" y="322"/>
+	<Point x="1725" y="490"/>
+	<Point x="100" y="490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BREVIORA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="109" y="566"/>
+	<Point x="1725" y="566"/>
+	<Point x="1725" y="677"/>
+	<Point x="109" y="677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Museum of Comparative Zoology</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="168" y="879"/>
+	<Point x="1646" y="879"/>
+	<Point x="1646" y="1090"/>
+	<Point x="168" y="1090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PALAEOTARICHA OLIGOCENICA, NEW
+GENUS AND SPECIES, AN OLIGOCENE
+SALAMANDER FROM OREGON.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="574" y="1111"/>
+	<Point x="1266" y="1111"/>
+	<Point x="1266" y="1188"/>
+	<Point x="574" y="1188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BY RICHARD VAN FRANK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="98" y="1203"/>
+	<Point x="1712" y="1203"/>
+	<Point x="1712" y="1585"/>
+	<Point x="98" y="1585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In 1951 Mr. George R. K. Moorhead, a member of the Salem
+(Oregon) Geological Society, collected a fossil urodele in a small
+slab of shale from a locality situated about three miles southeast
+of Eugene, and about ¼ mile north of Goshen, Oregon. The
+specimen was sent by Dr. Herman Clark of Willamette Univer-
+sity to the Museum of Comparative Zoology for study.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="101" y="1588"/>
+	<Point x="1720" y="1588"/>
+	<Point x="1721" y="2555"/>
+	<Point x="100" y="2555"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The strata in which the fossil was found are designated by
+Vokes et al. (1951) as post- Fisher and Eugene (Oligocene)
+plant-bearing tuﬀs. These strata are described by the authors as
+“a sequence of apparently water-laid coarse tuﬀs with inter-
+bedded thin layers of carbonaceous gray shale … [containing]
+an abundant ﬂora … [of which ﬁfteen species] were determined
+by Dr. Roland Brown,1 who assigned a late Oligocene age to the
+containing strata.” Dr. Ralph W. Chaney of the University of
+California has written me that he too considers the strata to be
+younger than Eugene or Fisher, and is terming the strata the
+Willamette formation. On the other hand, Dr. Clark writes that
+he and Dr. Ewart M. Baldwin of the University of Oregon prefer
+to assign them to the Eugene formation, although conclusive
+evidence is lacking. At any rate, all concerned seem conﬁdent of
+the Upper Oligocene age of the deposit. It is the gray shale just
+mentioned which contains the salamander.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="111" y="2561"/>
+	<Point x="1716" y="2561"/>
+	<Point x="1716" y="2809"/>
+	<Point x="111" y="2809"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The specimen is about 120 mm. in total length, and lacks a
+centimeter or so of the tail, the right mandible, most of the ribs,
+the left scapula and humerus, and parts of the hyoid apparatus.
+It is black in color, apparently highly carbonized. The skull is</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="101" y="2829"/>
+	<Point x="770" y="2829"/>
+	<Point x="770" y="2892"/>
+	<Point x="101" y="2892"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1 and listed by Vokes et al. (1951)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="112" y="738"/>
+	<Point x="588" y="738"/>
+	<Point x="588" y="798"/>
+	<Point x="112" y="798"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAMBRIDGE, MASS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="838" y="738"/>
+	<Point x="1203" y="738"/>
+	<Point x="1203" y="800"/>
+	<Point x="838" y="800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>June 13, 1955</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1388" y="744"/>
+	<Point x="1720" y="744"/>
+	<Point x="1720" y="800"/>
+	<Point x="1388" y="800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NUMBER 45</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r26">
+	<Coords>
+	<Point x="112" y="714"/>
+	<Point x="1703" y="714"/>
+	<Point x="1703" y="733"/>
+	<Point x="112" y="733"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r27">
+	<Coords>
+	<Point x="109" y="807"/>
+	<Point x="1711" y="807"/>
+	<Point x="1711" y="829"/>
+	<Point x="109" y="829"/></Coords></SeparatorRegion>
+	<GraphicRegion id="r16" type="handwritten-annotation">
+	<Coords>
+	<Point x="1654" y="9"/>
+	<Point x="1654" y="167"/>
+	<Point x="2012" y="167"/>
+	<Point x="2012" y="9"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669257">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T19:14:03</Created>
+	<LastChange>2012-03-12T14:33:52</LastChange></Metadata>
+	<Page imageFilename="00669257.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="97" y="360"/>
+	<Point x="1518" y="360"/>
+	<Point x="1518" y="698"/>
+	<Point x="97" y="698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La séparation des gymnètres et des tra-
+chyptères ne repose en eﬀet que sur la com‐
+position des ventrales et sur l’armure de la
+ligne latérale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="92" y="702"/>
+	<Point x="1514" y="702"/>
+	<Point x="1514" y="1201"/>
+	<Point x="92" y="1201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On s’expliquera des diﬀérences apparentes,
+aussi extraordinaires que celles que l’on re‐
+marque dans ces nombreuses descriptions,
+quand on aura pris connaissance de la singu‐
+lière organisation des poissons qui en sont
+l’objet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="68" y="1206"/>
+	<Point x="1509" y="1206"/>
+	<Point x="1509" y="2741"/>
+	<Point x="68" y="2741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Leur squelette, quoique ﬁbreux, est dans
+toutes ses parties tendre comme celui du cy-
+cloptère; les os de sa tête ont à peine plus
+de consistance que du carton mouillé; ses
+vertèbres tiennent si peu ensemble, que le
+corps se brise de lui-même par les eﬀorts du
+poisson vivant, comme celui de l’orvet ou
+de l’ophisaure, ou comme la queue d’un lé‐
+zard. Ses longs rayons, dans le premier âge
+surtout, se rompent comme des ﬁls de verre;
+sa chair est si molle qu’elle se décompose en
+quelques heures, et que même dans l’esprit
+de vin son corps se conserve diﬃcilement en‐
+tier. Il n’est point étonnant qu’un être qui n’est
+pas beaucoup au-dessus d’un mollusque par
+la solidité; perde, avec l’âge, et par le nombre
+inﬁni d’accidens auxquels son genre de vie
+l’expose, ces appendices, ces ornemens exubé-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="291" y="258"/>
+	<Point x="1323" y="258"/>
+	<Point x="1323" y="339"/>
+	<Point x="291" y="339"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. TRACHYPTÈRES ET GYMNÈTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1374" y="257"/>
+	<Point x="1517" y="257"/>
+	<Point x="1517" y="337"/>
+	<Point x="1374" y="337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>325</Unicode></TextEquiv></TextRegion></Page></PcGts>

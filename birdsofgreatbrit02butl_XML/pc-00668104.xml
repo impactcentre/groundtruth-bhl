@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668104">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T23:02:32</Created>
+	<LastChange>2012-02-10T09:52:37</LastChange></Metadata>
+	<Page imageFilename="00668104.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="249" y="217"/>
+	<Point x="376" y="217"/>
+	<Point x="376" y="299"/>
+	<Point x="249" y="299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>140</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="991" y="207"/>
+	<Point x="1382" y="207"/>
+	<Point x="1382" y="294"/>
+	<Point x="991" y="294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE STARLING</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="242" y="341"/>
+	<Point x="2130" y="347"/>
+	<Point x="2133" y="529"/>
+	<Point x="241" y="524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wales it was somewhat rare at that season, now it is everywhere abundant in
+North Wales. In Scotland, where it used to be by no means abundant, excepting
+in some of the islands, it is now very common in nearly every county.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="244" y="533"/>
+	<Point x="2133" y="534"/>
+	<Point x="2128" y="1157"/>
+	<Point x="243" y="1155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The adult male in breeding-plumage is glossy black, brightly shot with metallic
+green, rosy-violet, and Prussian blue, the rosy and purplish tints being usually
+most prevalent on the head, nape, mantle, and breast; the bluer feathers varying
+in certain lights to Prussian green: the feathers of the upper surface, excepting
+the head and fore-neck, tipped with dead gold, or sandy buff; ﬂights and tail-
+feathers dark smoky-brown, bordered with black, and edged with sandy-buﬀ; thighs
+and under tail-coverts blackish, the latter with broad buﬀ margins: bill lemon-
+yellow; feet reddish-brown; iris hazel. The female is less metallic than the male
+and has larger buﬀ tips to the feathers, the under surface of the body being more
+or less spotted throughout the year; the bill is also blackish towards the tip.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="244" y="1164"/>
+	<Point x="2130" y="1164"/>
+	<Point x="2136" y="1522"/>
+	<Point x="247" y="1529"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>After the autumn moult all the feathers of the upper parts are broadly tipped
+with sandy-buﬀ; the wing-feathers are greyer; and the sides of the face and under
+surface are more or less conspicuously spotted with white: * the bill also becomes
+partly, or altogether, dark brown. The young are greyish-brown, the quill and
+tail-feathers margined with pale brown, and the feathers of the under parts with
+whitish margins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="246" y="1534"/>
+	<Point x="2138" y="1535"/>
+	<Point x="2137" y="1896"/>
+	<Point x="246" y="1894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>There is considerable diﬀerence in the metallic colouring of individual Starlings:
+the example which I have noted below, as being heavily white-spotted in winter,
+used to develop the most brilliant violet on neck and breast in the breeding-season;
+the blue and green tints were also very bright; whilst the buﬀ markings above
+had a well-deﬁned golden gloss: indeed, the whole bird appeared as if formed out
+of burnished metal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="253" y="1908"/>
+	<Point x="2139" y="1907"/>
+	<Point x="2140" y="2467"/>
+	<Point x="253" y="2467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wherever the House-Sparrow is, one may be pretty certain to meet with the
+Starling either in town or country: it is a bird which is always conspicuous,
+whether on the wing or on the ground: in spring one sees a dozen or more
+ﬂying round a Rook, regularly mobbing him as he carries home some grub to his
+callow young, until in his fright he drops the dainty morsel and down go the
+Starlings with much noise to quarrel over it; later the tables are turned, the
+Starling as it carries food to its young being similarly tormented by Sparrows.
+Now one sees the male bird sitting high up on some naked branch, on a chimney‐
+pot, or the corner of a gable, discoursing what he evidently considers sweet music.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="253" y="2475"/>
+	<Point x="2138" y="2475"/>
+	<Point x="2139" y="2597"/>
+	<Point x="253" y="2595"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Marvellous is the song of a Starling! a curious combination of whistling,
+squeaking, gargling, and the sucking hiss made by pulling out the handle of a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="268" y="2639"/>
+	<Point x="2106" y="2637"/>
+	<Point x="2104" y="2724"/>
+	<Point x="268" y="2734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* A bird which I had a few years ago used to have these white spots on the under parts so large that
+many of them ran together into patches giving it the appearance of having faced a snow-storm.</Unicode></TextEquiv></TextRegion></Page></PcGts>

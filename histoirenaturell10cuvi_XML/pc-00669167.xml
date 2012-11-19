@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669167">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:32:58</Created>
+	<LastChange>2012-02-09T16:27:36</LastChange></Metadata>
+	<Page imageFilename="00669167.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="105" y="329"/>
+	<Point x="1516" y="329"/>
+	<Point x="1516" y="587"/>
+	<Point x="103" y="586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en croissant, à pointes longues et aiguës, comme
+les précédens; mais qui se fait remarquer au
+premier coup d’æil</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="156" y="593"/>
+	<Point x="1517" y="593"/>
+	<Point x="1517" y="2016"/>
+	<Point x="156" y="2016"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>par la courbure de son proﬁl, lequel, depuis la
+nuque jusqu’à la bouche, ne fait qu’un arc de cercle,
+dont la convexité est même un peu plus avancée que
+la bouche, en sorte que celle-ci est au-dessous de
+la tête. La longueur de son ovale, la queue non
+comprise, ne fait qu’une fois et deux tiers sa plus
+grande hauteur, qui est non pas au milieu, mais au
+tiers antérieur à l’endroit des pectorales. Ses écailles
+du corps sont presque aussi grandes que celles de
+l’acanthure rayé, et les cils de leurs bords se voient
+même à l’æil nu. Toutes les parties de sa tête et de ses
+opercules, les lèvres exceptées, sont, ainsi que sa poi-
+trine, couvertes d’autres écailles, beaucoup plus petites.
+L’épaule seule est nue et a l’huméral strié en rayons.
+Les dents, au nombre de seize à vingt à chaque mâ‐
+choire, sont oblongues et crénelées sur une partie
+de leur pourtour; ses ventrales sont alongées en
+pointes; la première épine de sa dorsale est tout-à-
+fait cachée sous la peau.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1357" y="223"/>
+	<Point x="1498" y="223"/>
+	<Point x="1498" y="299"/>
+	<Point x="1357" y="299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>235</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="510" y="239"/>
+	<Point x="1096" y="239"/>
+	<Point x="1096" y="305"/>
+	<Point x="510" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. II. ACANTHURES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="385" y="2020"/>
+	<Point x="1306" y="2020"/>
+	<Point x="1306" y="2083"/>
+	<Point x="385" y="2083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 9/27; A. 3/26; C. 17; P. 16; V. 1/5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="176" y="2092"/>
+	<Point x="1533" y="2092"/>
+	<Point x="1533" y="2700"/>
+	<Point x="176" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tout ce poisson est d’un brun foncé; une tache
+ronde, d’un noir bleuâtre, marque le haut de la fente
+des ouïes; les bords de la fente où rentre l’épine la‐
+térale de la queue, sont d’un noir violet. Un ruban
+bleu clair règne le long de la base de la dorsale et de
+celle de l’anale; le bord de l’anale a aussi un liséré
+bleu, et le long du bord de la dorsale règnent deux
+ou trois lignes étroites et violettes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

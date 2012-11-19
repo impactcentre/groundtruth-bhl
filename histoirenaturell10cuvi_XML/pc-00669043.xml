@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669043">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:17:43</Created>
+	<LastChange>2012-02-09T16:27:30</LastChange></Metadata>
+	<Page imageFilename="00669043.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="409" y="548"/>
+	<Point x="1125" y="548"/>
+	<Point x="1125" y="637"/>
+	<Point x="409" y="637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE DIXIÈME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="156" y="744"/>
+	<Point x="1394" y="744"/>
+	<Point x="1394" y="820"/>
+	<Point x="156" y="820"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA FAMILLE DES TEUTHYES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="62" y="900"/>
+	<Point x="1476" y="900"/>
+	<Point x="1476" y="2088"/>
+	<Point x="62" y="2088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voici une famille entièrement composée
+de poissons étrangers, et qui, toute nombreuse
+qu’elle est aujourd’hui, avait à peine fourni
+huit ou dix espèces aux méthodistes de la ﬁn
+du dernier siècle, lesquels encore les avaient
+éparpillées dans des genres diﬀérens sans
+égard aux rapports naturels qui les unissent.
+Gronovius1 avait eu cependant quelque pres‐
+sentiment de ces rapports: il avait établi un
+genre qui, dans son idée, devait embrasser
+ceux que l’on connaît maintenant sous les
+noms d’acanthures et d’amphacanthes, et qui
+dans le fait contenait une espèce de l’un et une
+de l’autre.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="64" y="2098"/>
+	<Point x="1474" y="2098"/>
+	<Point x="1474" y="2446"/>
+	<Point x="64" y="2446"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le nom d’Hepatus, qu’il lui avait appliqué,
+est employé chez les anciens pour un poisson
+de la Méditerranée, diﬃcile à déterminer,
+mais qui bien certainement n’est point de ces</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="70" y="2528"/>
+	<Point x="1473" y="2528"/>
+	<Point x="1473" y="2673"/>
+	<Point x="70" y="2673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Zoophyl., p. 113. — 2. La première est notre amphacan-
+thus javus, la seconde notre acanthurus hepatus.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="73" y="277"/>
+	<Point x="73" y="318"/>
+	<Point x="1472" y="318"/>
+	<Point x="1472" y="277"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r7">
+	<Coords>
+	<Point x="93" y="2482"/>
+	<Point x="93" y="2510"/>
+	<Point x="1469" y="2510"/>
+	<Point x="1469" y="2482"/></Coords></SeparatorRegion></Page></PcGts>

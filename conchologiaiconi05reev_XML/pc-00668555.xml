@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668555">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:26:40</Created>
+	<LastChange>2012-02-10T09:53:49</LastChange></Metadata>
+	<Page imageFilename="00668555.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r14" index="13"/>
+	<RegionRefIndexed regionRef="r16" index="14"/>
+	<RegionRefIndexed regionRef="r17" index="15"/>
+	<RegionRefIndexed regionRef="r18" index="16"/>
+	<RegionRefIndexed regionRef="r19" index="17"/>
+	<RegionRefIndexed regionRef="r20" index="18"/>
+	<RegionRefIndexed regionRef="r21" index="19"/>
+	<RegionRefIndexed regionRef="r22" index="20"/>
+	<RegionRefIndexed regionRef="r23" index="21"/>
+	<RegionRefIndexed regionRef="r24" index="22"/>
+	<RegionRefIndexed regionRef="r15" index="23"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="953" y="261"/>
+	<Point x="1363" y="261"/>
+	<Point x="1363" y="338"/>
+	<Point x="953" y="338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1016" y="369"/>
+	<Point x="1291" y="369"/>
+	<Point x="1291" y="419"/>
+	<Point x="1016" y="419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE LXXIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="435" y="461"/>
+	<Point x="911" y="461"/>
+	<Point x="911" y="516"/>
+	<Point x="435" y="516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 523. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="217" y="528"/>
+	<Point x="1127" y="528"/>
+	<Point x="1127" y="817"/>
+	<Point x="217" y="817"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS CLAUSILIOIDES. Bul. testâ elongato-turritâ,
+subcylindraceâ, sinistrali, compressè umbilicatâ, an‐
+fractibus novem, supernè obscurè costatis, longitudina-
+liter creberrimè et minutissimè rugoso-striatis, columellâ
+verticaliter reﬂexâ, aperturâ subquadratâ, labro tenui,
+simplici; colore murino.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="217" y="821"/>
+	<Point x="1123" y="821"/>
+	<Point x="1123" y="1146"/>
+	<Point x="217" y="1146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CLAUSILIA-LIKE BULIMUS. Shell elongately turre-
+ted, somewhat cylindrical, sinistral, compressly um-
+bilicated, whorls nine in number, obscurely ribbed
+round the upper part, longitudinally very closely and
+very minutely roughly striated, columella vertically
+reﬂected, aperture somewhat square, lip simple;
+mouse-colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="215" y="1151"/>
+	<Point x="920" y="1151"/>
+	<Point x="920" y="1200"/>
+	<Point x="215" y="1200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Andes of Caxamarca, Peru; W. Lobb.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="214" y="1220"/>
+	<Point x="1124" y="1220"/>
+	<Point x="1124" y="1372"/>
+	<Point x="214" y="1372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Very like a Clausilia in form, and of a silken aspect,
+arising out of the very close and minute developement of
+longitudinal striæ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="431" y="1441"/>
+	<Point x="900" y="1441"/>
+	<Point x="900" y="1496"/>
+	<Point x="431" y="1496"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 524. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="219" y="1513"/>
+	<Point x="1119" y="1513"/>
+	<Point x="1119" y="1805"/>
+	<Point x="219" y="1805"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS DEPSTUS. Bul. testâ subacuminato-ovatâ, com‐
+pressè umbilicatâ, anfractibus septem, rotundatis, Iœvi‐
+bus, supernè depressiusculis, minutè plicato-crennulatis,
+columellâ reﬂexâ, aperturâ parviusculâ, labro simplici;
+intus extusque ustulato-fuscâ, hic illic saturatiore
+strigatâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="216" y="1808"/>
+	<Point x="1115" y="1808"/>
+	<Point x="1115" y="2132"/>
+	<Point x="216" y="2132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TANNED BULIMUS. Shell subacuminately ovate,
+compressly umbilicated, whorls seven in number,
+slightly depressed round the upper part, minutely
+plicately crenulated, columella reﬂected, aperture
+rather small, lip simple; light scorched brown within
+and without, streaked here and there of a darker
+colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="211" y="2137"/>
+	<Point x="865" y="2137"/>
+	<Point x="865" y="2191"/>
+	<Point x="211" y="2191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Chachapoyas, Alto-Peru; W. Lobb.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="207" y="2209"/>
+	<Point x="1111" y="2209"/>
+	<Point x="1111" y="2360"/>
+	<Point x="207" y="2360"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A thin shell approaching in form and colouring to the
+Bulimus nux, from which it diﬀers in being of a lighter
+structure and having a more rounded aperture.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="423" y="2448"/>
+	<Point x="900" y="2448"/>
+	<Point x="900" y="2502"/>
+	<Point x="423" y="2502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 525. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="210" y="2518"/>
+	<Point x="1107" y="2518"/>
+	<Point x="1107" y="2671"/>
+	<Point x="210" y="2671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS NIGROPILEATUS. Bul. testâ acuminato-ovatâ,
+subampliter umbilicatâ, anfractibus septem, convexis,
+obtusè subrugoso-striatis, columellâ verticuliter reﬂexâ,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1242" y="464"/>
+	<Point x="2076" y="464"/>
+	<Point x="2076" y="565"/>
+	<Point x="1242" y="565"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aperturâ ovali, labro simplici; albidâ, basin versus
+obsoletè fusco-fasciatâ, apice nigro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1165" y="567"/>
+	<Point x="2082" y="567"/>
+	<Point x="2082" y="849"/>
+	<Point x="1165" y="849"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE BLACK-TIPPED BULIMUS. Shell acuminately ovate,
+rather largely umbilicated, whorls seven in number,
+convex, obtusely somewhat roughly striated, colu‐
+mella vertically reﬂected, aperture oval, lip simple;
+whitish, obsoletely banded with brown towards the
+base, apex black.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1163" y="852"/>
+	<Point x="1824" y="852"/>
+	<Point x="1824" y="902"/>
+	<Point x="1163" y="902"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Chachapoyas, Alto-Peru; W. Lobb.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1165" y="917"/>
+	<Point x="2072" y="917"/>
+	<Point x="2072" y="1069"/>
+	<Point x="1165" y="1069"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is probable from the faintly banded appearance of
+this shell, that this is but the pale variety of a darker
+type.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords>
+	<Point x="1378" y="1169"/>
+	<Point x="1853" y="1169"/>
+	<Point x="1853" y="1224"/>
+	<Point x="1378" y="1224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 526. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1163" y="1241"/>
+	<Point x="2066" y="1241"/>
+	<Point x="2066" y="1817"/>
+	<Point x="1163" y="1817"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS FOVEOLATUS. Bul. testâ oblongo-ovatâ, tenui-
+culâ, subventricosâ, haud umbilicatâ, ad apicem obtusâ,
+anfractibus quinque ad sex, convexis, longitudinaliter
+obtusè plicato-striatis, punctis oblongis spiraliter linea-
+tim exsculptis, infra suturas plicato-crenulatis, apicem
+versus peculiariter foveolatis, suturis rudibus, anfractu
+ultimo obliquè descendente, columellâ latâ, depressius-
+culâ, obliquè recedente, aperturâ oblongo-ovali, labro
+subincrassato, vix reﬂexo; intensè olivaceo-brunneâ,
+infra suturas pallidè unifasciatâ, suturis albidis, colu‐
+mellâ labroque cœrulescente-albis, aperturœ fauce iri-
+descente-lilaceâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1158" y="1822"/>
+	<Point x="2059" y="1822"/>
+	<Point x="2059" y="2440"/>
+	<Point x="1158" y="2440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PITTED BULIMUS. Shell oblong-ovate, rather thin,
+slightly ventricose, not umbilicated, obtuse at the
+apex, whorls ﬁve to six in number, convex, longitu‐
+dinally obtusely plicately striated, spirally engraved
+with lines of oblong punctures, plicately crenulated
+beneath the sutures, peculiarly pitted towards the
+apex, sutures rude, last whorl descending obliquely,
+columella broad, rather depressed, obliquely receding,
+aperture oblong-oval, lip somewhat thickened, but
+little reﬂected; very dark olive-brown, with a single
+pale band beneath the sutures, sutures whitish, lip
+and columella bluish-white, interior of the aperture
+iridescent lilac.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1151" y="2443"/>
+	<Point x="1890" y="2443"/>
+	<Point x="1890" y="2493"/>
+	<Point x="1151" y="2493"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Vitoe, near Sarma, Alto-Peru; W. Lobb.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1148" y="2508"/>
+	<Point x="2048" y="2508"/>
+	<Point x="2048" y="2665"/>
+	<Point x="1148" y="2665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>This is the species which Dr. Pfeiﬀer has assigned to
+the Bulimus Mahogani, of Sowerby, Conch. Illus. f. 59,
+of which I can ﬁnd no description or tidings.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1028" y="2680"/>
+	<Point x="1215" y="2680"/>
+	<Point x="1215" y="2728"/>
+	<Point x="1028" y="2728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>July, 1849.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r26">
+	<Coords>
+	<Point x="430" y="1395"/>
+	<Point x="430" y="1420"/>
+	<Point x="910" y="1420"/>
+	<Point x="910" y="1395"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r27">
+	<Coords>
+	<Point x="432" y="2384"/>
+	<Point x="432" y="2412"/>
+	<Point x="890" y="2412"/>
+	<Point x="890" y="2384"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r28">
+	<Coords>
+	<Point x="1159" y="472"/>
+	<Point x="1139" y="2651"/>
+	<Point x="1119" y="2651"/>
+	<Point x="1138" y="472"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r29">
+	<Coords>
+	<Point x="1384" y="1101"/>
+	<Point x="1384" y="1128"/>
+	<Point x="1848" y="1128"/>
+	<Point x="1848" y="1101"/></Coords></SeparatorRegion></Page></PcGts>

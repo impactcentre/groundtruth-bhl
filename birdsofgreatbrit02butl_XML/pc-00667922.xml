@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667922">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T14:13:23</Created>
+	<LastChange>2012-02-10T09:52:22</LastChange></Metadata>
+	<Page imageFilename="00667922.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r17" index="0"/>
+	<RegionRefIndexed regionRef="r23" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r24" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="638" y="606"/>
+	<Point x="1680" y="606"/>
+	<Point x="1680" y="693"/>
+	<Point x="638" y="693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWO-BARRED CROSSBILL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="803" y="783"/>
+	<Point x="1535" y="783"/>
+	<Point x="1535" y="845"/>
+	<Point x="803" y="845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Loxia bifasciata, C. L. BREHM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="372" y="1094"/>
+	<Point x="372" y="925"/>
+	<Point x="2106" y="925"/>
+	<Point x="2106" y="1870"/>
+	<Point x="212" y="1870"/>
+	<Point x="212" y="1094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OWARD SAUNDERS gives the following account of the distribution of
+this species, and its claims to be regarded as British seem to be well
+supported:—It “inhabits the coniferous forests of Northern Russia, and
+Siberia, as far as the Paciﬁc; wandering in autumn and winter to South Sweden,
+Denmark, Heligoland, North Germany, Holland, Belgium, the North of France,
+North Italy, Austria and Poland. In our Islands the ﬁrst recorded specimen was
+obtained near Belfast, Ireland, on May 11th, 1802, and in July or August, 1868,
+a second was obtained in co. Dublin. A few years prior to 1843, one was killed
+in Cornwall; in the autumn of 1845, a ﬂock appeared in the neighbourhood of
+Brampton, in Cumberland, and ten or eleven were shot, six of them being in
+female plumage; in May, 1846, two or three were killed from a ﬂock near Bury
+St. Edmund's, Suﬀolk; and about the same time the late H. Doubleday shot a
+bird in his garden at Epping. Others have been observed in various parts of
+the United Kingdom.” (Manual of British Birds, p. 195.) A male was obtained
+at Westﬁeld, Sussex, in 1899, and a female at Woodchurch, Kent, in 1902.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="209" y="1874"/>
+	<Point x="2119" y="1874"/>
+	<Point x="2119" y="2619"/>
+	<Point x="500" y="2619"/>
+	<Point x="478" y="2622"/>
+	<Point x="469" y="2619"/>
+	<Point x="209" y="2619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The adult male has the feathers of the upper surface of a rose-madder tint,
+browner on the back, and inclining to carmine on the rump, the bases of the
+feathers broadly black; the wings are black, the greater and median coverts being
+broadly tipped with white; the inner secondaries edged with white at their
+extremities; tail brownish-black, with rosy-white edges to the feathers; under
+surface rose-madder, whitish on the belly, becoming quite white towards the vent;
+beak and feet horn-brown; iris hazel. The female above is greenish-grey, washed
+with yellow, and streaked with brown; the rump is yellow; under parts sordid
+yellow, streaked with brown; the throat and abdomen paler. The young bird is
+distinctly greyer than the female, more prominently streaked, with narrower tips
+to the median coverts; the ﬂights and tail-feathers with well-deﬁned greenish-
+white margins.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="222" y="2625"/>
+	<Point x="2112" y="2625"/>
+	<Point x="2112" y="2751"/>
+	<Point x="222" y="2751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The American form of this species (known as the “White-winged Crossbill”)
+has, on several occasions, been obtained upon our shores; but, considering the</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="229" y="258"/>
+	<Point x="326" y="258"/>
+	<Point x="326" y="306"/>
+	<Point x="229" y="306"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>50</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="780" y="248"/>
+	<Point x="1535" y="248"/>
+	<Point x="1535" y="316"/>
+	<Point x="780" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWO-BARRED CROSSBILL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="206" y="370"/>
+	<Point x="874" y="370"/>
+	<Point x="874" y="432"/>
+	<Point x="206" y="432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Family—FRINGILLIDÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1367" y="370"/>
+	<Point x="2122" y="370"/>
+	<Point x="2122" y="445"/>
+	<Point x="1367" y="445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subfamily—FRINGILLINÆ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="drop-capital">
+	<Coords>
+	<Point x="250" y="934"/>
+	<Point x="250" y="1079"/>
+	<Point x="366" y="1079"/>
+	<Point x="366" y="934"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H</Unicode></TextEquiv></TextRegion></Page></PcGts>

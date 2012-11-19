@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672510">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:48:25</Created>
+	<LastChange>2012-02-10T09:55:04</LastChange></Metadata>
+	<Page imageFilename="00672510.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1003" y="116"/>
+	<Point x="1317" y="116"/>
+	<Point x="1317" y="183"/>
+	<Point x="1003" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 314 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="280" y="257"/>
+	<Point x="2035" y="257"/>
+	<Point x="2035" y="1185"/>
+	<Point x="280" y="1185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fühlerschaft kürzer als die Geissel, Glied 1 dicker und
+an Länge gleich 2 + 3, letzteres kürzer als 2, so lang, die
+übrigen etwas kürzer als breit, an Breite schwach zunehmend,
+Keule länglich, gegliedert, hellgelbroth. Rüssel auf der Ba-
+salhälfte mit grossen gereihten Punkten, die Basis dicht be-
+schuppt. Thorax so lang als breit, kugelförmig gewölbt, an
+den Enden gerade abgeschnitten, vor der nicht gerandeten,
+nicht erhabenen Spitze seitlich ﬂach eingeschnürt mit deut-
+lichen Augenlappen und ausgerandetem Prosternum. Decken
+wenig breiter als die Thoraxmitte, Schultern deutlich, gerundet,
+quer gewölbter als die übrigen Arten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="396" y="1194"/>
+	<Point x="2037" y="1194"/>
+	<Point x="2037" y="1530"/>
+	<Point x="396" y="1530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ Rüssel 1½ mal so lang als der Thorax, an der Spitze
+grob punktirt, Fühler zwischen der Mitte und dem
+Spitzendrittel eingefügt. Abdominalsegment 1 und 2
+ﬂach.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="394" y="1544"/>
+	<Point x="2035" y="1544"/>
+	<Point x="2035" y="1799"/>
+	<Point x="394" y="1799"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♀ Rüssel 2 mal so lang als der Thorax, an der Spitze
+äusserst fein punktirt, Fühler genau in der Mitte einge-
+fügt. Abdominalsegment 1 und 2 gewölbt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="285" y="1808"/>
+	<Point x="2039" y="1808"/>
+	<Point x="2039" y="1974"/>
+	<Point x="285" y="1974"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von Herrn Christoph und mir in Krasnowodsk gesam-
+melt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="282" y="1989"/>
+	<Point x="2044" y="1989"/>
+	<Point x="2044" y="3092"/>
+	<Point x="282" y="3092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Gattung ist von Herrn Tournier Ann. Belg. 1874,
+p. 84 auf Heydeni aus Aegypten, nicht Syrien, (ich sah den
+Typus) auf Grandis von Persien und den Er. rubidus Ro-
+senh. aus Spanien errichtet und zu seinen Erirrhinides vrais
+gezogen worden. Die Gattungsbeschreibung giebt so gut wie
+garkeine Auskunft über Tarsen- und Krallenbildung, dass es
+nicht auﬀallen kann, wenn Desbrochers, Opusc. entom. 1874—
+75, p. 21, für seinen Erirrhinus Biskrensis die Gattung Sy-
+nophus in Vorschlag bringt, welche sich von Sharpia durch
+herzförmiges, nicht erweitertes, drittes Tarsenglied und am
+Grunde verwachsene Krallen unterscheidet. Le Conte, Rhynch.
+of Amerika p. 167 weiss ebenfalls nicht, was er aus Sharpia
+machen soll, nimmt an, dass sie ein tief gespaltenes drittes</Unicode></TextEquiv></TextRegion></Page></PcGts>

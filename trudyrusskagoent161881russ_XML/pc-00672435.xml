@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672435">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T19:35:16</Created>
+	<LastChange>2012-02-10T09:54:52</LastChange></Metadata>
+	<Page imageFilename="00672435.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="846" y="171"/>
+	<Point x="1148" y="171"/>
+	<Point x="1148" y="230"/>
+	<Point x="846" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 241 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="416" y="275"/>
+	<Point x="1576" y="275"/>
+	<Point x="1576" y="358"/>
+	<Point x="416" y="358"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Homoeos. libertella Tab. XII, ﬁg. 45.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="124" y="403"/>
+	<Point x="1857" y="403"/>
+	<Point x="1857" y="826"/>
+	<Point x="124" y="826"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Capite ac thorace obscure griseis; alis ant. angustis, ochra-
+ceo-griseis, antice albidis, maculis 3 nigris ante medium trans-
+verse positis, punctis 2 venae transversae nigris, striga postica
+diluta, macula nigra costali marginata; post. acutis, canis,
+teneris. ♂.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="116" y="858"/>
+	<Point x="1862" y="858"/>
+	<Point x="1862" y="1528"/>
+	<Point x="116" y="1528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In der Grösse einer mittleren Nimbella, von dieser zu
+unterscheiden durch die spitzern, zarten, grauweissen Hinter-
+ﬂügel und die schmäleren, helleren Vorderﬂügel mit den schie-
+fer gestellten Mittelpunkten und weiter gegen die Basis ge-
+rückten schwarzen Flecken, so dass an der speciﬁschen Ver-
+schiedenheit nicht gezweifelt werden kann. Ihr sehr ähnlich
+sehen Euzoph. Cundajensis und Homoeosomella; aber beide sind
+sogleich an ihren horizontalen Tastern zu erkennen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="117" y="1532"/>
+	<Point x="1864" y="1532"/>
+	<Point x="1864" y="1776"/>
+	<Point x="117" y="1776"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kopf und Rückenschild dunkel ochergrau. Taster dünner
+als bei Nimbella. Hinterleib bleich ochergelblichgrau mit kur-
+zem, dünnem Analbusch.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="105" y="1778"/>
+	<Point x="1858" y="1778"/>
+	<Point x="1858" y="3019"/>
+	<Point x="105" y="3019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vorderﬂügel fast 4‴ lang, schmal, mit ziemlich gradem
+Vorderrand und hinten weniger erweitert, also schmäler als
+bei Nimbella, auf der Innenrandhälfte heller als der Rücken-
+schild, auf der Costalhälfte weisslich und gegen die Basis hin
+weniger mit dunkeln Stäubchen bestreut als nach hinten; die
+Medianader durch Weiss mehr hervorgehoben. Die 2 schwar-
+zen Queraderpunkte sind deutlich, der obere etwas nach hin-
+ten. Mitten zwischen ihnen und der Flügelbasis sind 3 schwarze
+Fleckchen: die hintere Begrenzung der nicht erkennbaren hel-
+len Querlinie; das obere, strichförmige, auf der Subcostalader;
+das grössere, zweite, ist mehr nach hinten gerückt. Der hintere
+helle Querstreifen, so weit von den Queraderpunkten entfernt wie
+vom Hinterrande, ist verloschen, unterhalb des Vorderrandes
+mit einem Winkel, in welchem als Hinterrand des Querstrei-
+fens ein schwarzer Costalﬂeck liegt; sonst wird der Querstrei-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="226" y="3042"/>
+	<Point x="572" y="3042"/>
+	<Point x="572" y="3099"/>
+	<Point x="226" y="3099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="1674" y="3042"/>
+	<Point x="1755" y="3042"/>
+	<Point x="1755" y="3099"/>
+	<Point x="1674" y="3099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16</Unicode></TextEquiv></TextRegion></Page></PcGts>

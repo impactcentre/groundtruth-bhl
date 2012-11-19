@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668588">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:04:40</Created>
+	<LastChange>2012-02-10T10:29:23</LastChange></Metadata>
+	<Page imageFilename="00668588.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r24" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r26" index="9"/>
+	<RegionRefIndexed regionRef="r28" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r14" index="13"/>
+	<RegionRefIndexed regionRef="r15" index="14"/>
+	<RegionRefIndexed regionRef="r16" index="15"/>
+	<RegionRefIndexed regionRef="r17" index="16"/>
+	<RegionRefIndexed regionRef="r18" index="17"/>
+	<RegionRefIndexed regionRef="r19" index="18"/>
+	<RegionRefIndexed regionRef="r20" index="19"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1024" y="150"/>
+	<Point x="1521" y="150"/>
+	<Point x="1521" y="206"/>
+	<Point x="1024" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.—PLATE LXXXI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="353" y="405"/>
+	<Point x="1254" y="405"/>
+	<Point x="1254" y="607"/>
+	<Point x="353" y="607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Except in the rose-purple hue of the columella and
+aperture, the pattern of colouring is too variable in this
+beautiful species to particularize. Its graceful eﬀused
+growth is characteristic.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="580" y="644"/>
+	<Point x="1030" y="644"/>
+	<Point x="1030" y="699"/>
+	<Point x="580" y="699"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 602. (Mus. Taylor.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="354" y="709"/>
+	<Point x="1257" y="709"/>
+	<Point x="1257" y="1096"/>
+	<Point x="354" y="1096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS TAYLORIANUS. Bul. testâ ventricoso-oblongâ,
+tenui, inﬂatâ, haud umbilicatâ, anfractibus quinque,
+longitudinaliter obscurè plicato-striatis, ad suturas levi-
+ter crenulatis, sub lente undique minutissimè granulatis,
+anfractu ultimo valdè maximo, peculiariter descendente,
+columellâ tenuissimâ, reﬂexâ, labro vix reﬂexo; cas-
+taneo-fuscâ, semipellucidâ, lineis perpaucis nigris api-
+cem. versus fulguratâ, columellâ labroque roseo tinctis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="358" y="1099"/>
+	<Point x="1260" y="1099"/>
+	<Point x="1260" y="1571"/>
+	<Point x="358" y="1571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TAYLOR’S BULIMUS. Shell ventricosely oblong, thin,
+inﬂated, not umbilicated, whorls ﬁve in number, lon‐
+gitudinally obscurely plicately striated, slightly cre-
+nulated at the sutures, very minutely granulated
+throughout beneath the lens, last whorl very much
+the largest, peculiarly descending, columella very
+thin, reﬂected, lip scarcely reﬂected; chestnut-brown,
+semipellucid, lightning-marked towards the apex
+with a few black lines, lip and columella tinged with
+rose.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="358" y="1578"/>
+	<Point x="759" y="1578"/>
+	<Point x="759" y="1618"/>
+	<Point x="358" y="1618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Environs of Quito.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="358" y="1639"/>
+	<Point x="1257" y="1639"/>
+	<Point x="1257" y="1785"/>
+	<Point x="358" y="1785"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A delicate inﬂated species of a dark transparent brown
+colour, marked with dark zigzag lines near the apex, and
+having the thin lip and columellar edge tinged with rose.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="353" y="1788"/>
+	<Point x="1260" y="1788"/>
+	<Point x="1260" y="1931"/>
+	<Point x="353" y="1931"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Being indebted to Thomas Lombe Taylor, Esq., for the
+species, I have the pleasure to name it in honour of that
+distinguished collector.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1364" y="244"/>
+	<Point x="2206" y="244"/>
+	<Point x="2206" y="429"/>
+	<Point x="1364" y="429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tibus septem, subrotundatis, obliquè striatis, columellâ
+reﬂexâ, aperturâ parviusculâ, labro reﬂexo; luteâ,
+olivaceo-viridi marmoratâ, aperturœ fauce intensè fuscâ,
+labro albo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1298" y="435"/>
+	<Point x="2204" y="435"/>
+	<Point x="2204" y="724"/>
+	<Point x="1298" y="724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE SINISTRAL BULIMUS. Shell somewhat acuminately
+oblong, rather thick, sinistral, scarcely umbilicated,
+whorls seven in number, somewhat rounded, obliquely
+striated, columella reﬂected, aperture rather small,
+lip reﬂected; yellow, marbled with olive-green, inte‐
+rior of the aperture very dark brown, lip white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1301" y="727"/>
+	<Point x="1484" y="727"/>
+	<Point x="1484" y="767"/>
+	<Point x="1301" y="767"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Java.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1298" y="796"/>
+	<Point x="2205" y="796"/>
+	<Point x="2205" y="994"/>
+	<Point x="1298" y="994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Care should be taken not to confound this species with
+the green variety of B. lœvus, elevated to the rank of a
+species by Mousson, under the name B. furcillatus, from
+which it is certainly distinct.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="1525" y="1050"/>
+	<Point x="1973" y="1050"/>
+	<Point x="1973" y="1103"/>
+	<Point x="1525" y="1103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 604. (Mus. Taylor.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1300" y="1115"/>
+	<Point x="2209" y="1115"/>
+	<Point x="2209" y="1454"/>
+	<Point x="1300" y="1454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS ALBIZONATUS. Bul. testâ subpyramidali-conicâ,
+basi depressiusculâ, vix umbilicatâ, anfractibus septem,
+plano-convexis, obliquè tenuistriatis, suturis peculiariter
+lineari‐incisis, anfractu, ultimo basi angulato, colu‐
+mellâ latè reﬂexâ, aperturâ parviusculâ, labro reﬂexo;
+intus extusque cœrulescente-albâ, zonulâ angustâ opaco-
+albâ ad angulum anfractûs ultimi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1300" y="1457"/>
+	<Point x="2212" y="1457"/>
+	<Point x="2212" y="1833"/>
+	<Point x="1300" y="1833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE WHITE-ZONED BULIMUS. Shell somewhat pyrami‐
+dally conical, rather depressed at the base, scarcely
+umbilicated, whorls seven in number, ﬂatly convex,
+obliquely ﬂnely striated, sutures peculiarly linearly
+engraved, last whorl angled at the base, columella
+broadly reﬂected; bluish white within and without,
+having a narrow opake white zone at the angle of
+the last whorl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1298" y="1838"/>
+	<Point x="1523" y="1838"/>
+	<Point x="1523" y="1889"/>
+	<Point x="1298" y="1889"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Ceylon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1300" y="1901"/>
+	<Point x="2206" y="1901"/>
+	<Point x="2206" y="2141"/>
+	<Point x="1300" y="2141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A pale blue-white shell, remarkably characterized by a
+narrow opake-white zone round the middle of the whorls,
+exactly in the place of the suture, concealed in all but
+the last whorl by the superposition of one whorl upon the
+other.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="357" y="351"/>
+	<Point x="683" y="351"/>
+	<Point x="683" y="394"/>
+	<Point x="357" y="394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. New Granada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="heading">
+	<Coords>
+	<Point x="575" y="1980"/>
+	<Point x="1049" y="1980"/>
+	<Point x="1049" y="2034"/>
+	<Point x="575" y="2034"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 603. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="358" y="2040"/>
+	<Point x="1254" y="2040"/>
+	<Point x="1254" y="2144"/>
+	<Point x="358" y="2144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS SINISTRALIS. Bul. testâ, subacuminato-ob-
+longâ, crassiusculâ, sinistrali, vix umbilicatâ, anfrac-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="426" y="247"/>
+	<Point x="1255" y="247"/>
+	<Point x="1255" y="347"/>
+	<Point x="426" y="347"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ously streaked or banded, columella and interior of
+the aperture rose-purple.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r30">
+	<Coords>
+	<Point x="580" y="614"/>
+	<Point x="580" y="632"/>
+	<Point x="1040" y="632"/>
+	<Point x="1040" y="614"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r31">
+	<Coords>
+	<Point x="573" y="1938"/>
+	<Point x="573" y="1962"/>
+	<Point x="1045" y="1962"/>
+	<Point x="1045" y="1938"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r32">
+	<Coords>
+	<Point x="1262" y="252"/>
+	<Point x="1271" y="2160"/>
+	<Point x="1288" y="2160"/>
+	<Point x="1288" y="252"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r35">
+	<Coords>
+	<Point x="1527" y="1004"/>
+	<Point x="1527" y="1026"/>
+	<Point x="1983" y="1026"/>
+	<Point x="1983" y="1004"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r37">
+	<Coords>
+	<Point x="1053" y="2202"/>
+	<Point x="1053" y="2227"/>
+	<Point x="1500" y="2227"/>
+	<Point x="1500" y="2202"/></Coords></SeparatorRegion></Page></PcGts>

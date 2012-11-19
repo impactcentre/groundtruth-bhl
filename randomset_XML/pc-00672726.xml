@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672726">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T09:05:09</Created>
+	<LastChange>2012-03-12T14:34:24</LastChange></Metadata>
+	<Page imageFilename="00672726.tif" imageWidth="2159" imageHeight="3739">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="452" y="137"/>
+	<Point x="1985" y="137"/>
+	<Point x="1985" y="226"/>
+	<Point x="452" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRUSTACÉS. — QUATRIÈME ORDRE. AMPHIPODES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="253" y="253"/>
+	<Point x="2095" y="253"/>
+	<Point x="2095" y="2096"/>
+	<Point x="248" y="2097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cation, et ces coupes étant assez considérables, nous avons
+jugé à propos de conserver ces ordres; la tête des amphipodes
+est presque toujours distincte du thorax, et porte quatre
+antennes. Les deux premiers pieds-mâchoires forment une
+sorte de lèvre inférieure. Le thorax est divisé en sept segmens,
+munis chacun d’une paire de pieds; il est suivi d’une espèce
+de queue composée d’un nombre variable de segmens le cœur
+forme un vaisseau étroit et allongé, s’étendant le long du mi‐
+lieu du dos. D’après les recherches de MM. Audouin et Milne
+Edwards, les deux cordons médullaires et ganglionnaires des
+amphipodes sont parfaitement symétriques et séparés dans
+toute leur longueur. Suivant M. Cuvier, ceux des cloportes
+auraient quelques ganglions de moins, et n’oﬀriraient point
+dans tous les segmens la même uniformité. Les organes sexuels
+sont placés à la naissance inférieure de la queue; les deux
+appendices du dessous de son premier anneau présentent à cet
+égard des diﬀérences. La mâle se place sur le dos de la femelle
+dans l’accouplement; celle-ci porte ses œufs sous la poitrine,
+entre des écailles, formant une sorte de poche. Les petits res‐
+tent attachés au corps de leur mère j usqu’à ce qu’ils aient acquis
+assez de force pour pourvoir par eux-mêmes à leur subsistance.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="281" y="2102"/>
+	<Point x="2094" y="2100"/>
+	<Point x="2094" y="2264"/>
+	<Point x="285" y="2273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tous ces crustacés sont petits, aquatiques ou terrestres;
+parmi les premiers, il y en a de parasites.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="297" y="2279"/>
+	<Point x="1672" y="2270"/>
+	<Point x="2101" y="2269"/>
+	<Point x="2104" y="2869"/>
+	<Point x="1710" y="2878"/>
+	<Point x="1007" y="2880"/>
+	<Point x="287" y="2876"/>
+	<Point x="283" y="2287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aux caractères qui distinguent les amphipodes, nous ajou‐
+terons que ces crustacés ont généralement à la base extérieure
+des pieds, à commencer à la seconde paire, des bourses vési-
+culaires dont on ignore l’usage. Celles des deux pieds posté‐
+rieurs sont plus petites, ou même quelquefois oblitérées. On
+les trouvera ﬁgurées sur la planche IXe des crustacés de l’Atlas
+d’histoire naturelle du grand ouvrage sur l’Égypte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="291" y="2885"/>
+	<Point x="1045" y="2888"/>
+	<Point x="1834" y="2881"/>
+	<Point x="2108" y="2874"/>
+	<Point x="2112" y="3410"/>
+	<Point x="863" y="3421"/>
+	<Point x="290" y="3420"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Envisagés sous la considération des habitudes, les amphi‐
+podes peuvent être partagés en trois sections, les sauteurs,
+les marcheurs et les parasites. Les premiers composeront la
+famille des crevettines, les seconds celle des podocérides, et
+la dernière celle des hypérines de M. Milne Edwards. Les deux
+premières, composées d’amphipodes errans ou vagabonds, se</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="261" y="136"/>
+	<Point x="400" y="136"/>
+	<Point x="400" y="237"/>
+	<Point x="261" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>394</Unicode></TextEquiv></TextRegion></Page></PcGts>

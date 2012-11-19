@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672221">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T07:47:19</Created>
+	<LastChange>2012-02-10T09:54:05</LastChange></Metadata>
+	<Page imageFilename="00672221.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="96" y="330"/>
+	<Point x="1833" y="330"/>
+	<Point x="1833" y="655"/>
+	<Point x="96" y="655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>chez l'insecte parfait, où ces muscles sont beaucoup plus gros,
+les muscles additionnels en question sont appliqués à leurs
+principaux, s'en couvrent et ne sont visibles que du côté
+extérieur, quand l'épimère est écarté.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="78" y="662"/>
+	<Point x="1848" y="662"/>
+	<Point x="1848" y="2737"/>
+	<Point x="78" y="2737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les muscles additionnels des abaisseurs postérieurs des ailes
+s'attachent au dessus à deux petits tendons derrière leurs prin-
+cipaux. Ces tendons ne sont d'abord qu'extrèmement petits et
+ont l'aspect d'apophyses lamelleuses et pointues, sortant à peu
+près du même point. Chez la larve plus âgée, ils sont déjà
+allongés et diﬀérent l'un de l'autre sous le rapport de la forme
+et de la gandeur (ﬁg. 45, 47 et 51). Chaque muscle prin-
+cipal a deux muscles additionnels. L'un d'eux longe le bord
+postérieur de son principal et s'attache au dessous près du
+bord postérieur de l'iliaque resp. de l'ischion. L'autre passe
+en arrière et en bas et se ﬁxe immédiatement sur l'épimère:
+le muscle de l'aile postérieure près de l'abdomen et presque
+au même niveau que les muscles élévateurs, et celui de l'aile
+antérieure au dessus de second stigmate thoracique, chez les
+Libellulidées assez distant de ce dernier. Chez la larve le
+muscle additionnel de l'abaisseur de l'aile postérieure est placé
+tout près de son principal, c'est ce que nous voyons aussi chez
+l'imago, mais il n'en est pas ainsi quant aux muscles addi-
+tionnels des abaisseurs antérieurs des ailes. La raison en est
+que les muscles se développent en avant et en dedans. Par
+conséquent les muscles additionnels des abaisseurs antérieurs
+auront plus tard remplie de tissu musculaire l'espace vide entre
+eux et leurs principaux; or les muscles additionnels des abais-
+seurs postérieurs sont placés près des bords, qui forment le
+commencement du développement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="91" y="2744"/>
+	<Point x="1848" y="2744"/>
+	<Point x="1848" y="3162"/>
+	<Point x="91" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les petits chefs de l'élévateur de l'aile commencent à se
+développer très tôt, à peu près simultanément aux muscles
+principaux; ce n'est que par la petitesse, qu'ils se distinguent.
+Le mode de leur insertion est le même que chez l'imago. De
+même nous ne trouvons point dans les Agrionidées le plus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="778" y="183"/>
+	<Point x="1123" y="183"/>
+	<Point x="1123" y="285"/>
+	<Point x="778" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 27 —</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667954">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T11:46:32</Created>
+	<LastChange>2012-02-10T09:52:26</LastChange></Metadata>
+	<Page imageFilename="00667954.tif" imageWidth="2293" imageHeight="3062">
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="2134" y="500"/>
+	<Point x="2126" y="2769"/>
+	<Point x="104" y="2756"/>
+	<Point x="108" y="491"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="caption">
+	<Coords>
+	<Point x="977" y="2891"/>
+	<Point x="1367" y="2891"/>
+	<Point x="1367" y="2952"/>
+	<Point x="977" y="2952"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SISKIN � � �.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="caption">
+	<Coords>
+	<Point x="1085" y="2967"/>
+	<Point x="1085" y="3012"/>
+	<Point x="1257" y="3012"/>
+	<Point x="1257" y="2967"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE 74.</Unicode></TextEquiv></TextRegion></Page></PcGts>

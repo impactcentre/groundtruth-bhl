@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669073">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T18:21:36</Created>
+	<LastChange>2012-02-09T16:27:31</LastChange></Metadata>
+	<Page imageFilename="00669073.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="135" y="246"/>
+	<Point x="1507" y="246"/>
+	<Point x="1506" y="1084"/>
+	<Point x="1034" y="1086"/>
+	<Point x="558" y="1083"/>
+	<Point x="401" y="1085"/>
+	<Point x="137" y="1084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>droite; sa caudale est fortement échancrée en crois‐
+sant; ses épines dorsales sont assez hautes et assez
+fortes. Tout son corps est grisâtre ou lilas clair,
+couvert de petites taches anguleuses, serrées, d’un
+brun pourpre; sa dorsale et son anale sont d’un
+vert olive foncé, tachetées de brun; le bord de leur
+partie molle est jaunâtre, ainsi que celui de la cau‐
+dale, laquelle est d’un vert plus clair. Les pectorales
+sont jaunes et tachetées de fauve comme la tache
+jaune de la nuque; les ventrales sont d’un vert bleuâ‐
+tre; la ﬁgure est longue de sept pouces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="579" y="1089"/>
+	<Point x="1067" y="1091"/>
+	<Point x="1070" y="1162"/>
+	<Point x="578" y="1161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/9; A. 7/9, etc.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="88" y="1175"/>
+	<Point x="1517" y="1172"/>
+	<Point x="1498" y="1936"/>
+	<Point x="879" y="1943"/>
+	<Point x="334" y="1938"/>
+	<Point x="81" y="1943"/>
+	<Point x="70" y="1378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Je ne puis retrouver que dans cette espèce
+les caractères assignés par Forskal à son scarus
+stellatus: color corporis nigricans, annulis
+hexagonis parvis undique contiguis, ubique
+adspersis, cæruleo-pallidis, interdum albidis,
+maculis seu guttis hexagonis nigris vel ﬂaves-
+centibus; pinnæ pectorales ﬂavæ; reliquæ
+nigræ, dorsalis et ani pone ﬂavæ, interdum
+in pinna caudæ lituræ ﬂavæ laterales.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="580" y="2104"/>
+	<Point x="1006" y="2104"/>
+	<Point x="1006" y="2177"/>
+	<Point x="580" y="2177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D. 13/11; A. 7/10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="footnote">
+	<Coords>
+	<Point x="102" y="2510"/>
+	<Point x="1507" y="2501"/>
+	<Point x="1507" y="2638"/>
+	<Point x="101" y="2638"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Cette description est extraite de diﬀérens endroits de celle
+de Forskal; le reste se réduit à des caractères génériques.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="90" y="1947"/>
+	<Point x="369" y="1943"/>
+	<Point x="894" y="1949"/>
+	<Point x="1498" y="1941"/>
+	<Point x="1498" y="2085"/>
+	<Point x="94" y="2097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mais l’auteur donne un rayon mou de plus
+à la dorsale et à l’anale.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="95" y="2179"/>
+	<Point x="1506" y="2179"/>
+	<Point x="1506" y="2445"/>
+	<Point x="95" y="2445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Peut être aura-t-il compté pour deux le
+dernier rayon qui, dans ce genre comme dans
+beaucoup d’autres, est profondément divisé.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="463" y="159"/>
+	<Point x="1117" y="159"/>
+	<Point x="1117" y="235"/>
+	<Point x="463" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="1342" y="142"/>
+	<Point x="1478" y="142"/>
+	<Point x="1478" y="225"/>
+	<Point x="1342" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>141</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="87" y="2464"/>
+	<Point x="86" y="2494"/>
+	<Point x="1507" y="2491"/>
+	<Point x="1507" y="2462"/></Coords></SeparatorRegion></Page></PcGts>

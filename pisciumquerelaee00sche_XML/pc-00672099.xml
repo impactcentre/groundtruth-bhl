@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672099">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T17:04:44</Created>
+	<LastChange>2012-03-12T14:34:07</LastChange></Metadata>
+	<Page imageFilename="00672099.tif" imageWidth="2291" imageHeight="3037">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r42" index="0"/>
+	<RegionRefIndexed regionRef="r24" index="1"/>
+	<RegionRefIndexed regionRef="r38" index="2"/>
+	<RegionRefIndexed regionRef="r31" index="3"/>
+	<RegionRefIndexed regionRef="r15" index="4"/>
+	<RegionRefIndexed regionRef="r19" index="5"/>
+	<RegionRefIndexed regionRef="r21" index="6"/>
+	<RegionRefIndexed regionRef="r25" index="7"/>
+	<RegionRefIndexed regionRef="r35" index="8"/>
+	<RegionRefIndexed regionRef="r43" index="9"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="140" y="73"/>
+	<Point x="1671" y="73"/>
+	<Point x="1671" y="111"/>
+	<Point x="140" y="111"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="122" y="1260"/>
+	<Point x="1651" y="1260"/>
+	<Point x="1651" y="1311"/>
+	<Point x="122" y="1311"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="133" y="2353"/>
+	<Point x="1664" y="2353"/>
+	<Point x="1664" y="2400"/>
+	<Point x="133" y="2400"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r13">
+	<Coords>
+	<Point x="128" y="2740"/>
+	<Point x="1673" y="2740"/>
+	<Point x="1673" y="2795"/>
+	<Point x="128" y="2795"/></Coords></SeparatorRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="717" y="1404"/>
+	<Point x="1073" y="1404"/>
+	<Point x="1073" y="1524"/>
+	<Point x="717" y="1524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Expotæ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords>
+	<Point x="840" y="1575"/>
+	<Point x="940" y="1575"/>
+	<Point x="940" y="1648"/>
+	<Point x="840" y="1648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>à</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="heading">
+	<Coords>
+	<Point x="220" y="1695"/>
+	<Point x="1597" y="1695"/>
+	<Point x="1597" y="2135"/>
+	<Point x="220" y="2135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Johanne Jacobo Scheuchzero
+Med. D. Acad. Leopoldin. &amp; So-
+cietatum Regg. Anglicæ, ac Pruſ-
+cæ Membro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="heading">
+	<Coords>
+	<Point x="707" y="2430"/>
+	<Point x="1097" y="2430"/>
+	<Point x="1097" y="2511"/>
+	<Point x="707" y="2511"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TIGURI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="heading">
+	<Coords>
+	<Point x="307" y="2520"/>
+	<Point x="1488" y="2520"/>
+	<Point x="1488" y="2610"/>
+	<Point x="307" y="2610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sumtibus Authoris, Typis Generianis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="heading">
+	<Coords>
+	<Point x="649" y="2613"/>
+	<Point x="1218" y="2613"/>
+	<Point x="1218" y="2693"/>
+	<Point x="649" y="2693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M D C C VIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="110" y="452"/>
+	<Point x="1690" y="452"/>
+	<Point x="1690" y="719"/>
+	<Point x="110" y="719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>QUERELAE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="heading">
+	<Coords>
+	<Point x="106" y="909"/>
+	<Point x="1697" y="909"/>
+	<Point x="1697" y="1182"/>
+	<Point x="106" y="1182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VINDICIAE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="heading">
+	<Coords>
+	<Point x="737" y="745"/>
+	<Point x="1016" y="745"/>
+	<Point x="1016" y="897"/>
+	<Point x="737" y="897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ET</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="heading">
+	<Coords>
+	<Point x="249" y="135"/>
+	<Point x="1688" y="135"/>
+	<Point x="1688" y="437"/>
+	<Point x="249" y="437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PISCIUM</Unicode></TextEquiv></TextRegion></Page></PcGts>

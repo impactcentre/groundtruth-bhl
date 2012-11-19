@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668281">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T01:54:28</Created>
+	<LastChange>2012-02-10T09:52:50</LastChange></Metadata>
+	<Page imageFilename="00668281.tif" imageWidth="2526" imageHeight="3172">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r23" index="2"/>
+	<RegionRefIndexed regionRef="r27" index="3"/>
+	<RegionRefIndexed regionRef="r31" index="4"/>
+	<RegionRefIndexed regionRef="r35" index="5"/>
+	<RegionRefIndexed regionRef="r37" index="6"/>
+	<RegionRefIndexed regionRef="r39" index="7"/>
+	<RegionRefIndexed regionRef="r41" index="8"/>
+	<RegionRefIndexed regionRef="r5" index="9"/>
+	<RegionRefIndexed regionRef="r6" index="10"/>
+	<RegionRefIndexed regionRef="r43" index="11"/>
+	<RegionRefIndexed regionRef="r45" index="12"/>
+	<RegionRefIndexed regionRef="r10" index="13"/>
+	<RegionRefIndexed regionRef="r11" index="14"/>
+	<RegionRefIndexed regionRef="r12" index="15"/>
+	<RegionRefIndexed regionRef="r13" index="16"/>
+	<RegionRefIndexed regionRef="r14" index="17"/>
+	<RegionRefIndexed regionRef="r16" index="18"/>
+	<RegionRefIndexed regionRef="r18" index="19"/>
+	<RegionRefIndexed regionRef="r19" index="20"/>
+	<RegionRefIndexed regionRef="r20" index="21"/>
+	<RegionRefIndexed regionRef="r21" index="22"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="1043" y="278"/>
+	<Point x="1438" y="278"/>
+	<Point x="1438" y="340"/>
+	<Point x="1043" y="340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1158" y="378"/>
+	<Point x="1321" y="378"/>
+	<Point x="1321" y="419"/>
+	<Point x="1158" y="419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="300" y="2082"/>
+	<Point x="1192" y="2082"/>
+	<Point x="1192" y="2364"/>
+	<Point x="300" y="2364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ELECTRIC BULIMUS. Shell somewhat elongately
+ovate, more ventricose in the middle, spire acumi‐
+nated, whorls six in number, rather ﬂatly convex,
+columella slightly twisted; livid red, epidermis rather
+thin, exhibiting very irregular obliquely waved pale
+streaks, aperture whitish, peritreme reddish brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="300" y="2368"/>
+	<Point x="906" y="2368"/>
+	<Point x="906" y="2412"/>
+	<Point x="300" y="2412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus Mindoroensis, var. k, Broderip.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1253" y="464"/>
+	<Point x="2144" y="464"/>
+	<Point x="2144" y="758"/>
+	<Point x="1253" y="758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The epidermis is of a soft, very slight texture, of a uniform
+reddish brown tint in which light streaks descend here
+and there from the sutures in very zigzag course, some‐
+what as in B. fulgetrum but fainter; and, besides this,
+the shell is of a more acuminated growth, whilst the last
+whorl is larger and more eﬀused.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="1472" y="863"/>
+	<Point x="1914" y="863"/>
+	<Point x="1914" y="914"/>
+	<Point x="1472" y="914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 22. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1251" y="934"/>
+	<Point x="2137" y="934"/>
+	<Point x="2137" y="1219"/>
+	<Point x="1251" y="1219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS BICOLORATUS. Bul. testâ pyramidali, anfrac‐
+tibus septenis, leviter convexis, columellâ subintortâ;
+rufo-brunneâ, subtus viridi, epidermide in strigis lati-
+usculis longitudinalibus medio peculiariter interrupts,
+et infernè bifasciatâ, peritremate columellâque intensè
+nigro-fuscis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1243" y="1223"/>
+	<Point x="2135" y="1223"/>
+	<Point x="2135" y="1548"/>
+	<Point x="1243" y="1548"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWO‐COLOURED BULIMUS. Shell pyramidal, whorls
+seven in number, slightly convex, columella slightly
+twisted; reddish-brown, green beneath, epidermis
+in rather broad longitudinal bands, peculiarly inter‐
+rupted in the middle, and two-banded round the
+lower part, peritreme and columella deep black-
+brown.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1232" y="1810"/>
+	<Point x="2125" y="1810"/>
+	<Point x="2125" y="2048"/>
+	<Point x="1232" y="2048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A truly beautiful species, remarkable for its pyramidal
+growth, and original display of colouring. None of the
+preceding species have any indication of the bright green
+which distinguishes the under portion of the body-whorl
+in this, and the epidermal pattern is equally peculiar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1229" y="2051"/>
+	<Point x="2127" y="2051"/>
+	<Point x="2127" y="2478"/>
+	<Point x="1229" y="2478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The shell described by Mr. Broderip under the name of
+B. onyx appears to be only another state of this, inhabiting
+the same locality in more lofty situations in the trees.
+It should be observed that Mr. Cuming collected but two
+specimens, one in bad condition, the other of immature
+growth. They are of a singular pupiform shape, but are
+so nearly allied to the B. bicoloratus in other respects, that
+the species must be received with caution until further
+and better means of comparison can be obtained.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1223" y="2481"/>
+	<Point x="2119" y="2481"/>
+	<Point x="2119" y="2672"/>
+	<Point x="1223" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The honour intended by the dedication of this ﬁnest of
+the Philippine species, to be conferred on H.R.H. Prince
+Albert, whose interest in Conchology is handsomely testi‐
+ﬁed by his patronage of the present work, was uncon-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1123" y="2711"/>
+	<Point x="1321" y="2711"/>
+	<Point x="1321" y="2761"/>
+	<Point x="1123" y="2761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>April, 1848.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="435" y="462"/>
+	<Point x="1108" y="462"/>
+	<Point x="1108" y="515"/>
+	<Point x="435" y="515"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 20. (Fig. a and b. Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="321" y="528"/>
+	<Point x="1216" y="528"/>
+	<Point x="1214" y="865"/>
+	<Point x="323" y="863"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS NOBILIS. Bul. testâ acuminato-oblongâ, anfrac-
+tibus quinis senisve, subplano-convexis, suturis impressis,
+columellâ rectiusculâ; virescente-ﬂavidâ, epidermide
+tenui, zonulas albas sinuatas, longitudinales, nunc dis-
+tantes, nunc interruptas, exhibente, anfractu ultimo
+fasciâ angustâ nigricante-fuscâ parte inferiore cingu-
+lato, circa columellam nigricante, peritremate albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="312" y="866"/>
+	<Point x="1210" y="868"/>
+	<Point x="1210" y="1247"/>
+	<Point x="312" y="1247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE NOBLE BULIMUS. Shell acuminately oblong, whorls
+ﬁve or six in number, somewhat ﬂatly convex, sutures
+impressed, columella rather straight; greenish yellow;
+epidermis thin, exhibiting longitudinally sinuated
+opake white zones, sometimes interrupted, sometimes
+rather distant, last whorl with a narrow dark brown
+band round the lower part, blackish around the
+columella, peritreme white.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="309" y="1250"/>
+	<Point x="1208" y="1250"/>
+	<Point x="1208" y="1346"/>
+	<Point x="309" y="1346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Mountains of Igbaras, Island of Luzon, Philippines
+(on the trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="305" y="1350"/>
+	<Point x="1204" y="1350"/>
+	<Point x="1204" y="1650"/>
+	<Point x="305" y="1650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The markings of this beautiful species are similar to
+those of the B. fulgetrum, the epidermis being thin, ex‐
+cepting where it is disposed in striking lightning-like
+streaks, darting, so to speak, out of the sutures; in form
+the shell is constantly distinct, and it is further charac‐
+terized by a conspicuous dark band.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="heading">
+	<Coords>
+	<Point x="516" y="1727"/>
+	<Point x="977" y="1727"/>
+	<Point x="977" y="1781"/>
+	<Point x="516" y="1781"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 21. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="306" y="1790"/>
+	<Point x="1192" y="1790"/>
+	<Point x="1192" y="2079"/>
+	<Point x="306" y="2079"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS ELECTRICUS. Bul. testâ subelongato-ovatâ, me‐
+dio ventricosiore, spirâ acuminatâ, anfractibus senis,
+subplano-convexis, columellâ leviter intortâ; livido-
+rufâ, epidermide tenuiculâ, strigas pallidas obliquè un-
+datas, valdè irregulares, exhibente, aperturâ albidâ,
+peritremate rufo-fuscâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="300" y="2416"/>
+	<Point x="1189" y="2416"/>
+	<Point x="1189" y="2512"/>
+	<Point x="300" y="2512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Puerto Galero, Island of Mindoro, Philippines (on
+the leaves of trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="285" y="2518"/>
+	<Point x="1187" y="2518"/>
+	<Point x="1187" y="2670"/>
+	<Point x="285" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>If any importance is to be attached to the character and
+pattern of the epidermis of these shells, there is certainly
+enough to distinguish this from the B. Mindoroensis.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r46">
+	<Coords>
+	<Point x="1465" y="797"/>
+	<Point x="1939" y="797"/>
+	<Point x="1939" y="831"/>
+	<Point x="1465" y="831"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r47">
+	<Coords>
+	<Point x="513" y="1682"/>
+	<Point x="983" y="1682"/>
+	<Point x="983" y="1706"/>
+	<Point x="513" y="1706"/></Coords></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1238" y="1652"/>
+	<Point x="2126" y="1652"/>
+	<Point x="2126" y="1797"/>
+	<Point x="1238" y="1797"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Mount Isarog, Province of Camarinas; and Calanang,
+Province of Baie, Island of Luzon, Philippines (on
+the trees); Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1241" y="1557"/>
+	<Point x="2117" y="1557"/>
+	<Point x="2117" y="1650"/>
+	<Point x="1241" y="1650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LEA, Trans. Amer. Phil. Soc., vol. vii. p. 459. pl. 11. f. 8.
+Bulimus Alberti, Broderip.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r42">
+	<Coords>
+	<Point x="1246" y="470"/>
+	<Point x="1217" y="2668"/>
+	<Point x="1197" y="2669"/>
+	<Point x="1209" y="1534"/>
+	<Point x="1215" y="1246"/>
+	<Point x="1217" y="1236"/>
+	<Point x="1227" y="469"/></Coords></SeparatorRegion></Page></PcGts>

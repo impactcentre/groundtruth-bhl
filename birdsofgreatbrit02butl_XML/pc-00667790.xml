@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00667790">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T16:59:32</Created>
+	<LastChange>2012-02-10T09:52:02</LastChange></Metadata>
+	<Page imageFilename="00667790.tif" imageWidth="2912" imageHeight="4368">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="556" y="1021"/>
+	<Point x="622" y="1021"/>
+	<Point x="622" y="1084"/>
+	<Point x="556" y="1084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>94</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1232" y="1004"/>
+	<Point x="1727" y="1006"/>
+	<Point x="1727" y="1058"/>
+	<Point x="1232" y="1061"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TREE-SPARROW.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="550" y="1128"/>
+	<Point x="2402" y="1128"/>
+	<Point x="2412" y="1163"/>
+	<Point x="2402" y="1255"/>
+	<Point x="550" y="1255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Afghanistan, and the Himalayas, and is found in suitable localities throughout
+the rest of Eastern Asia, including Japan, Formosa, Hainan, and Java."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="555" y="1260"/>
+	<Point x="2410" y="1260"/>
+	<Point x="2410" y="1755"/>
+	<Point x="555" y="1755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The distribution of this species in Great Britain is imperfectly known, owing
+to its general resemblance to the House-Sparrow and its comparative rarity, but
+it is believed to be most abundant in the eastern and midland counties of England,
+and the eastern counties of Scotland: in Ireland it was not discovered until 1852,
+but is steadily extending its range and increasing in numbers. A colony is said
+to have existed at Belmullet since 1902; another was discovered near Killala in
+1907; a pair nested in Co. Derry in 1906; in Donegal four nests with eggs were
+found in 1907, and a single bird was seen in Sligo the same year.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="557" y="1760"/>
+	<Point x="2414" y="1760"/>
+	<Point x="2414" y="1998"/>
+	<Point x="557" y="1998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>It is believed that in the autumn the numbers of our resident Tree-Sparrows
+are largely added to, by ﬂocks of immigrants from the north; many hundreds
+arriving on our east coast, in company with Greenﬁnches, during October and
+November.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="557" y="2006"/>
+	<Point x="2411" y="2006"/>
+	<Point x="2411" y="2260"/>
+	<Point x="2364" y="2266"/>
+	<Point x="1711" y="2320"/>
+	<Point x="557" y="2320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Tree-Sparrow chieﬂy differs from the House-Sparrow in its slightly inferior
+size, chestnut crown and nape, a white-bordered triangular black patch on the ear-
+coverts, a second white bar across the wing; and in the fact that the female
+scarcely differs from the male. Young birds have the black markings replaced
+by brown, and the wing bands suffused with buff.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="547" y="2326"/>
+	<Point x="2413" y="2319"/>
+	<Point x="2413" y="2879"/>
+	<Point x="544" y="2879"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>During the summer months this species in our islands differs somewhat in its
+habits from those on the Continent, seeming to avoid towns and the larger villages,
+and (according to Seebohm) chieﬂy haunting "the ﬁelds and wilder districts away
+from houses"; but curiously enough the whole of the nests which I have taken,
+both in Kent and Norfolk, were found in holes in trees within a stone's throw of
+at least one house, and sometimes at a distance of only a few yards. "On the
+Continent, however," (says Seebohm) "the bird has so far overcome its shyness,
+and adapted itself to circumstances as to frequent the towns, and is quite as pert
+and impudent as its congener, which it otherwise resembles in its habits."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="541" y="2885"/>
+	<Point x="2294" y="2885"/>
+	<Point x="2406" y="2883"/>
+	<Point x="2427" y="2885"/>
+	<Point x="2427" y="3518"/>
+	<Point x="541" y="3518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>As a site for its nest the Tree-Sparrow seems to prefer holes in pollard
+willows when obtainable, and, more often than not, the selected hole is at the top
+of the stump, though I have also taken it out of a hollow and decayed lateral
+branch, about ﬁve feet from the ground: in Norfolk all the nests I found were
+in willows; but in Kent I took one nest from a hole in the front of an old oak-
+tree facing the road, whilst Lord Lilford says that in Northamptonshire they "are
+to be found nesting generally in small colonies of three or four pairs in old
+hollow trees, especially (in our neighbourhood) decayed ash, willows, and walnuts."
+Yarrell speaks of the species as building "in the thatch of a barn, in company
+with the House-Sparrow, not, however, entering the thatch from the inside of the</Unicode></TextEquiv></TextRegion></Page></PcGts>

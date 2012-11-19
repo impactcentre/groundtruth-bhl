@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668933">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T17:34:25</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668933.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="333" y="228"/>
+	<Point x="1232" y="228"/>
+	<Point x="1232" y="346"/>
+	<Point x="333" y="346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HISTOIRE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="198" y="591"/>
+	<Point x="1353" y="591"/>
+	<Point x="1353" y="698"/>
+	<Point x="198" y="698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES POISSONS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="160" y="957"/>
+	<Point x="1401" y="957"/>
+	<Point x="1401" y="1039"/>
+	<Point x="160" y="1039"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SUITE DU LIVRE NEUVIÈME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="460" y="1096"/>
+	<Point x="1092" y="1096"/>
+	<Point x="1092" y="1175"/>
+	<Point x="460" y="1175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SCOMBÉROÏDES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="230" y="1378"/>
+	<Point x="1328" y="1378"/>
+	<Point x="1328" y="1467"/>
+	<Point x="230" y="1467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CINQUIÈME GRANDE TRIBU.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="155" y="1507"/>
+	<Point x="1401" y="1507"/>
+	<Point x="1401" y="1578"/>
+	<Point x="155" y="1578"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SCOMBÉROÏDES A BOUCHE PROTRACTILE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="71" y="1632"/>
+	<Point x="1487" y="1632"/>
+	<Point x="1488" y="2685"/>
+	<Point x="66" y="2673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons terminé dans le volume précé-
+dent l'histoire des scombéroïdes à une ou à
+plusieurs dorsales, dont le corps, sans carènes
+sur les côtés de la queue, est couvert d'une
+peau nue ou à écailles petites et comme per-
+dues dans l'épaisseur du derme. Les crêtes de
+leur crâne, ainsi que plusieurs particularités
+de leur anatomie, entre autres celle des masses
+glanduliformes de leurs nombreux cœcums,
+les rapprochent des poissons voisins des cory-
+phènes. Nous faisons suivre dans cette tribu
+l'histoire de ceux qui tiennent encore de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="451" y="416"/>
+	<Point x="1107" y="416"/>
+	<Point x="1107" y="517"/>
+	<Point x="451" y="517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NATURELLE</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="85" y="819"/>
+	<Point x="1473" y="819"/>
+	<Point x="1473" y="842"/>
+	<Point x="85" y="842"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="701" y="1269"/>
+	<Point x="701" y="1289"/>
+	<Point x="855" y="1289"/>
+	<Point x="855" y="1269"/></Coords></SeparatorRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="188" y="2695"/>
+	<Point x="188" y="2764"/>
+	<Point x="300" y="2764"/>
+	<Point x="300" y="2695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1188" y="2700"/>
+	<Point x="1188" y="2759"/>
+	<Point x="1266" y="2759"/>
+	<Point x="1266" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668926">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-07T17:33:14</Created>
+	<LastChange>2012-02-09T16:27:24</LastChange></Metadata>
+	<Page imageFilename="00668926.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r83" index="0"/>
+	<RegionRefIndexed regionRef="r81" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r18" index="5"/>
+	<RegionRefIndexed regionRef="r22" index="6"/>
+	<RegionRefIndexed regionRef="r26" index="7"/>
+	<RegionRefIndexed regionRef="r31" index="8"/>
+	<RegionRefIndexed regionRef="r35" index="9"/>
+	<RegionRefIndexed regionRef="r39" index="10"/>
+	<RegionRefIndexed regionRef="r43" index="11"/>
+	<RegionRefIndexed regionRef="r47" index="12"/>
+	<RegionRefIndexed regionRef="r51" index="13"/>
+	<RegionRefIndexed regionRef="r55" index="14"/>
+	<RegionRefIndexed regionRef="r59" index="15"/>
+	<RegionRefIndexed regionRef="r63" index="16"/>
+	<RegionRefIndexed regionRef="r67" index="17"/>
+	<RegionRefIndexed regionRef="r77" index="18"/>
+	<RegionRefIndexed regionRef="r79" index="19"/>
+	<RegionRefIndexed regionRef="r75" index="20"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="345" y="259"/>
+	<Point x="483" y="259"/>
+	<Point x="483" y="355"/>
+	<Point x="345" y="355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xviij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="header">
+	<Coords>
+	<Point x="957" y="280"/>
+	<Point x="1126" y="280"/>
+	<Point x="1126" y="321"/>
+	<Point x="957" y="321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TABLE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="TOC-entry">
+	<Coords>
+	<Point x="338" y="398"/>
+	<Point x="1627" y="398"/>
+	<Point x="1627" y="536"/>
+	<Point x="334" y="536"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure zèbre (Acanthurus triostegus, Bl.
+Schn.; Chætodon triostegus, Brouss.)..... 197</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="TOC-entry">
+	<Coords>
+	<Point x="341" y="547"/>
+	<Point x="1619" y="547"/>
+	<Point x="1623" y="686"/>
+	<Point x="339" y="694"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure de Dussumier (Acanthurus Dus-
+sumieri, nob.)...................... 201</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="TOC-entry">
+	<Coords>
+	<Point x="334" y="701"/>
+	<Point x="1626" y="701"/>
+	<Point x="1626" y="768"/>
+	<Point x="334" y="768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure maté (Acanthurus mata, nob.)... 202</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="TOC-entry">
+	<Coords>
+	<Point x="335" y="775"/>
+	<Point x="1628" y="776"/>
+	<Point x="1627" y="836"/>
+	<Point x="334" y="836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure rasi (Acanthurus rasi, nob.)..... 203</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="TOC-entry">
+	<Coords>
+	<Point x="334" y="845"/>
+	<Point x="1630" y="845"/>
+	<Point x="1632" y="915"/>
+	<Point x="338" y="912"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure matoïde (Acanthurus matoides, nob.) 204</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="TOC-entry">
+	<Coords>
+	<Point x="338" y="923"/>
+	<Point x="1638" y="923"/>
+	<Point x="1638" y="991"/>
+	<Point x="338" y="991"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure ondulé (Acanthurus undulatus, nob.) 205</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="TOC-entry">
+	<Coords>
+	<Point x="346" y="998"/>
+	<Point x="1630" y="998"/>
+	<Point x="1630" y="1061"/>
+	<Point x="346" y="1061"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure moine (Acanthurus fraterculus, nob.) 206</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="TOC-entry">
+	<Coords>
+	<Point x="334" y="1070"/>
+	<Point x="1642" y="1070"/>
+	<Point x="1642" y="1220"/>
+	<Point x="334" y="1220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure alongé (Acanthurus elongatus, nob.;
+Chætodon elongatus, Lacép.)........... Ibid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="TOC-entry">
+	<Coords>
+	<Point x="328" y="1228"/>
+	<Point x="1630" y="1228"/>
+	<Point x="1630" y="1291"/>
+	<Point x="328" y="1291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure linéolé (Acanthurus lineolatus, nob.) 207</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="TOC-entry">
+	<Coords>
+	<Point x="332" y="1298"/>
+	<Point x="1627" y="1297"/>
+	<Point x="1622" y="1435"/>
+	<Point x="334" y="1448"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure à lèvres noires (Acanthurus nigro-
+ris, nob.)......................... 208</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="TOC-entry">
+	<Coords>
+	<Point x="337" y="1460"/>
+	<Point x="1615" y="1451"/>
+	<Point x="1618" y="1591"/>
+	<Point x="338" y="1595"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure annulaire (Acanthurus annularis,
+nob.)........................... 209</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="TOC-entry">
+	<Coords>
+	<Point x="342" y="1602"/>
+	<Point x="1620" y="1605"/>
+	<Point x="1617" y="1740"/>
+	<Point x="338" y="1752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure de Bloch (Acanthurus Blochii, nob.;
+Chætodon nigricans, Bl.).............. lbid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="TOC-entry">
+	<Coords>
+	<Point x="340" y="1760"/>
+	<Point x="1624" y="1757"/>
+	<Point x="1630" y="1885"/>
+	<Point x="340" y="1891"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure brun-noir (Acanthurus nigro-fuscus,
+Forsk.)........................... 214</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="TOC-entry">
+	<Coords>
+	<Point x="340" y="1900"/>
+	<Point x="1631" y="1902"/>
+	<Point x="1628" y="2047"/>
+	<Point x="340" y="2055"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure aux nageoires jaunes (Acanthurus
+xanthopterus, nob.)................ 215</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="TOC-entry">
+	<Coords>
+	<Point x="338" y="2064"/>
+	<Point x="1627" y="2054"/>
+	<Point x="1627" y="2184"/>
+	<Point x="342" y="2202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure Achille (Acanthurus Achilles,
+Shaw)............................ 218</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="TOC-entry">
+	<Coords>
+	<Point x="335" y="2212"/>
+	<Point x="1630" y="2207"/>
+	<Point x="1628" y="2341"/>
+	<Point x="337" y="2352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure Gahm (Acanthurus gahm, nob.;
+Chætodon gahm, Forsk.).............. 219</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r75" type="TOC-entry">
+	<Coords>
+	<Point x="345" y="2582"/>
+	<Point x="1622" y="2580"/>
+	<Point x="1618" y="2721"/>
+	<Point x="342" y="2727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure de Ketlitz (Acanthurus Ketlitzii,
+nob.)............................ 222</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="TOC-entry">
+	<Coords>
+	<Point x="342" y="2362"/>
+	<Point x="1624" y="2362"/>
+	<Point x="1622" y="2498"/>
+	<Point x="342" y="2498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthure de Dorey (Acanthurus doreensis,
+nob.)............................ 220</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r79" type="TOC-entry">
+	<Coords>
+	<Point x="337" y="2507"/>
+	<Point x="1628" y="2512"/>
+	<Point x="1627" y="2571"/>
+	<Point x="340" y="2572"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L'Acanthurebordé (Acanthurus marginatus, nob.) 221</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords>
+	<Point x="1505" y="352"/>
+	<Point x="1597" y="352"/>
+	<Point x="1597" y="390"/>
+	<Point x="1508" y="389"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pages.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r83" type="paragraph">
+	<Coords>
+	<Point x="1619" y="350"/>
+	<Point x="1740" y="350"/>
+	<Point x="1740" y="388"/>
+	<Point x="1619" y="388"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Planch.</Unicode></TextEquiv></TextRegion></Page></PcGts>

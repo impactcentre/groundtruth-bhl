@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669095">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T13:24:22</Created>
+	<LastChange>2012-02-09T16:27:32</LastChange></Metadata>
+	<Page imageFilename="00669095.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r19" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r29" index="4"/>
+	<RegionRefIndexed regionRef="r43" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="57" y="264"/>
+	<Point x="1496" y="264"/>
+	<Point x="1496" y="715"/>
+	<Point x="57" y="715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>énumération, prouvent qu’il n’en était pas sûr.
+Il n’avait qu’un petit individu de trois à quatre
+pouces, qui apparemment se trouvait en mau‐
+vais état. Ce n’est pas sur de tels matériaux
+que l’on peut établir une espèce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="64" y="1003"/>
+	<Point x="1509" y="1003"/>
+	<Point x="1509" y="1285"/>
+	<Point x="64" y="1285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les mêmes voyageurs ont encore pris dans
+ce lieu un petit amphacanthe dont les individus
+n’ont que deux pouces de long;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="354" y="2024"/>
+	<Point x="1186" y="2024"/>
+	<Point x="1186" y="2125"/>
+	<Point x="354" y="2125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’ AMPHACANTHE OLIVATRE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="400" y="2137"/>
+	<Point x="1156" y="2137"/>
+	<Point x="1156" y="2241"/>
+	<Point x="400" y="2241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus olivaceus.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="55" y="2256"/>
+	<Point x="1497" y="2256"/>
+	<Point x="1497" y="2446"/>
+	<Point x="55" y="2446"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nous avons reçu de l’Isle-de-France, par
+MM. Lesson et Garnot</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="115" y="2454"/>
+	<Point x="1489" y="2454"/>
+	<Point x="1489" y="2632"/>
+	<Point x="115" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>une petite espèce à corps oblong, à crâne un peu
+concave, et à museau convexe, comme dans le brun-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="351" y="773"/>
+	<Point x="1193" y="773"/>
+	<Point x="1193" y="878"/>
+	<Point x="351" y="878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L’AMPHACANTHE DE GUAM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords>
+	<Point x="305" y="886"/>
+	<Point x="1259" y="886"/>
+	<Point x="1259" y="990"/>
+	<Point x="305" y="990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Amphacanthus guamensis, nob.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="header">
+	<Coords>
+	<Point x="464" y="162"/>
+	<Point x="1100" y="162"/>
+	<Point x="1100" y="250"/>
+	<Point x="464" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHAP. I. AMPHACANTHES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="page-number">
+	<Coords>
+	<Point x="1342" y="150"/>
+	<Point x="1480" y="150"/>
+	<Point x="1480" y="243"/>
+	<Point x="1342" y="243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>163</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="108" y="1294"/>
+	<Point x="1497" y="1294"/>
+	<Point x="1495" y="1896"/>
+	<Point x="1031" y="1895"/>
+	<Point x="664" y="1895"/>
+	<Point x="301" y="1897"/>
+	<Point x="108" y="1896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mais qui ont le corps en ovale moins alongé; car
+la hauteur est le tiers de la longueur du corps. La
+ligne du proﬁl est droite et le museau saille en
+avant, quoiqu’un peu moins que dans le tumifrons;
+les nombres sont comme aux precédens; la couleur
+paraît avoir été un gris verdâtre plus ou moins
+argenté, et veiné de taches grises ou blanchâtres,
+irrégulières de forme et d’intensité.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="201" y="1902"/>
+	<Point x="1012" y="1898"/>
+	<Point x="1012" y="1975"/>
+	<Point x="202" y="1974"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Les nageoires ont du jaunâtre.</Unicode></TextEquiv></TextRegion></Page></PcGts>

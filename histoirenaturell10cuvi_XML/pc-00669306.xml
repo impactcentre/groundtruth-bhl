@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669306">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T08:49:57</Created>
+	<LastChange>2012-03-12T14:33:55</LastChange></Metadata>
+	<Page imageFilename="00669306.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="405" y="310"/>
+	<Point x="1749" y="310"/>
+	<Point x="1749" y="624"/>
+	<Point x="405" y="624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>brune, et toutes les nageoires d’un beau rouge. Mais
+cette description, que nous composons d’après la
+ﬁgure publiée par Bloch, se rapporte-t-elle au pois‑
+son qu’il avait reçu en même temps que le dessin?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="333" y="646"/>
+	<Point x="1757" y="646"/>
+	<Point x="1760" y="1570"/>
+	<Point x="1048" y="1571"/>
+	<Point x="1002" y="1583"/>
+	<Point x="644" y="1584"/>
+	<Point x="606" y="1582"/>
+	<Point x="335" y="1583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En eﬀet, nous remarquerons ici que M.
+Couch1 a cité un gymnetrus Hawkenii dans
+son Mémoire sur les poissons de Cornouailles.
+Ce poisson, échoué en Février 1791 et mutilé,
+puisque la queue manquait, a été dessiné sur
+le frais, et la ﬁgure est demeurée en la posses‑
+sion de Sir W. Rashleigh, membre de la So‑
+ciété linnéenne. Ce qui restait du poisson,
+était long de huit pieds et demi, haut de dix
+pouces et demi, et épais de deux; le poids
+atteignait à quarante livres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="334" y="1586"/>
+	<Point x="596" y="1586"/>
+	<Point x="649" y="1588"/>
+	<Point x="1018" y="1587"/>
+	<Point x="1028" y="1586"/>
+	<Point x="1050" y="1582"/>
+	<Point x="1761" y="1577"/>
+	<Point x="1762" y="2523"/>
+	<Point x="333" y="2523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cette notice trop peu détaillée de M. Couch
+m’avait laissé dans la plus grande incertitude
+sur son prétendu gymnetrus Hawkenii, et
+cette feuille était déjà sous presse, lorsque je
+viens d’avoir le bonheur de recevoir la qua‑
+trième livraison de l’Histoire naturelle des
+poissons de la Grande-Bretagne de Sir W.
+Yarrell. J’y trouve, p. 188, la copie réduite de
+la ﬁgure mentionnée par M. Couch. Il est im‑
+possible de douter, en comparant cette copie
+à la ﬁgure de Bloch, que le dessin de Sir W.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords>
+	<Point x="403" y="2619"/>
+	<Point x="1307" y="2619"/>
+	<Point x="1307" y="2687"/>
+	<Point x="403" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Linn. trans., t. XIV, 1.re part., p. 77.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="339" y="210"/>
+	<Point x="482" y="210"/>
+	<Point x="482" y="283"/>
+	<Point x="339" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>374</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="746" y="217"/>
+	<Point x="1337" y="217"/>
+	<Point x="1337" y="285"/>
+	<Point x="746" y="285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIVRE XI. TÆNIOÏDES.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r14">
+	<Coords>
+	<Point x="350" y="2553"/>
+	<Point x="1758" y="2553"/>
+	<Point x="1758" y="2580"/>
+	<Point x="350" y="2580"/></Coords></SeparatorRegion></Page></PcGts>

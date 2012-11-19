@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668668">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:19:42</Created>
+	<LastChange>2012-02-10T10:29:29</LastChange></Metadata>
+	<Page imageFilename="00668668.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r19" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="481" y="393"/>
+	<Point x="1388" y="393"/>
+	<Point x="1388" y="543"/>
+	<Point x="481" y="543"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A new and very distinct species for which I am indebted
+to the magniﬁcent collection of J. Dennison, Esq., who
+received it from the above-named locality.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1487" y="231"/>
+	<Point x="2329" y="231"/>
+	<Point x="2329" y="323"/>
+	<Point x="1487" y="323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pureo-castaneâ, labro intus nigricante-castaneo, margine
+miniato.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1426" y="329"/>
+	<Point x="2329" y="329"/>
+	<Point x="2329" y="662"/>
+	<Point x="1426" y="662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MAGNIFICENT ACHATINA. Shell somewhat fusi-
+formly ovate, whorls ﬁve to six in number, rather
+rough, obscurely ﬁnely plicated, obscurely decussated
+with minute spiral striæ, columella arched; dark
+bluish-green, banded and ﬂamed with yellow, colu-
+mella bluish, purple chestnut above, lip blackish
+chestnut within, edged with vermilion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1422" y="668"/>
+	<Point x="2073" y="668"/>
+	<Point x="2073" y="712"/>
+	<Point x="1422" y="712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PFEIFFER, Pro. Zool. Soc., 1847, p. 232.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1426" y="716"/>
+	<Point x="2056" y="716"/>
+	<Point x="2056" y="759"/>
+	<Point x="1426" y="759"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Quito, Equador, Central America.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1423" y="775"/>
+	<Point x="2334" y="775"/>
+	<Point x="2334" y="929"/>
+	<Point x="1423" y="929"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Another very beautiful species from the collection of
+J. Dennison, Esq., of which there is also a specimen in
+the possession of Mr. Cuming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1187" y="147"/>
+	<Point x="1626" y="147"/>
+	<Point x="1626" y="195"/>
+	<Point x="1187" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA.—PLATE IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="497" y="234"/>
+	<Point x="1384" y="234"/>
+	<Point x="1384" y="332"/>
+	<Point x="497" y="332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>brown, last whorl unspotted, encircled with a pale
+obscure band, columella pinkish.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="487" y="337"/>
+	<Point x="998" y="337"/>
+	<Point x="998" y="380"/>
+	<Point x="487" y="380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Bogota, Central America.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="700" y="570"/>
+	<Point x="1165" y="570"/>
+	<Point x="1165" y="588"/>
+	<Point x="700" y="588"/></Coords></SeparatorRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="666" y="611"/>
+	<Point x="1154" y="611"/>
+	<Point x="1154" y="671"/>
+	<Point x="666" y="671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 33. (Mus. Dennison.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="484" y="678"/>
+	<Point x="1388" y="678"/>
+	<Point x="1388" y="926"/>
+	<Point x="484" y="926"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ACHATINA MAGNIFICA. Achat. testâ subfusiformi-ovatâ,
+anfractibus quinque ad sex, subrugosis, obscurè tenui-
+plicatis, striis minutis spiralibus obscurè decussatis,
+columellâ arcuatâ; cœruleo-viridi, luteo fasciatâ et
+ﬂammatâ, columellâ cœrulescente, supra intensè pur-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20">
+	<Coords>
+	<Point x="1158" y="1397"/>
+	<Point x="1643" y="1397"/>
+	<Point x="1643" y="1434"/>
+	<Point x="1158" y="1434"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r21">
+	<Coords>
+	<Point x="1397" y="234"/>
+	<Point x="1412" y="234"/>
+	<Point x="1412" y="930"/>
+	<Point x="1397" y="930"/></Coords></SeparatorRegion></Page></PcGts>

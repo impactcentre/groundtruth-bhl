@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672249">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-09T18:51:59</Created>
+	<LastChange>2012-02-10T09:54:10</LastChange></Metadata>
+	<Page imageFilename="00672249.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="733" y="126"/>
+	<Point x="1050" y="126"/>
+	<Point x="1050" y="196"/>
+	<Point x="733" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 55 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="26" y="260"/>
+	<Point x="1766" y="260"/>
+	<Point x="1766" y="424"/>
+	<Point x="26" y="424"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diastictis Artesiaria F. Ein ♀ bei Blagoweschtschensk am
+30 Juni.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="21" y="428"/>
+	<Point x="1776" y="428"/>
+	<Point x="1776" y="674"/>
+	<Point x="21" y="674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eubolia Arenacearia Hb. Am mittleren Amur an sonnigen,
+trockenen Bergabhängen in der zweiten Hälfte des Juni
+nicht selten. Von der</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="24" y="678"/>
+	<Point x="1773" y="678"/>
+	<Point x="1773" y="1264"/>
+	<Point x="24" y="1264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— var. Flavidaria Ev. ist mir von Herrn Zimmermann
+ein ♂ mit der Bezeichnung «Blagoweschtschensk 26 Juli»
+eingeschickt worden. Nach Herrn Erschoff in seinen «Tur-
+kestaner Lepidopteren» pag. 67 ist Flavidaria nichts als die
+II (Sommer-) Generation von Arenacearia. Die Abbildung in
+dem citirten Werke tab. IV, ﬁg. 68 ist sehr kenntlich,
+aber in der Färbung zu matt gehalten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="21" y="1267"/>
+	<Point x="1783" y="1267"/>
+	<Point x="1783" y="1512"/>
+	<Point x="21" y="1512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— Semilutata Led. Bei Ekaterina-Nikolsk am östlichen Aus-
+läufer des Chingan-Gebirges Ende Juli in mehreren, aber
+ziemlich abgeﬂogenen Stücken gefangen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="12" y="1519"/>
+	<Point x="1773" y="1519"/>
+	<Point x="1773" y="1760"/>
+	<Point x="12" y="1760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eucosmia Varia nov. sp. taf. X, 7. Der E. Certata Hb. sehr
+nahe stehend, aber durch den viel bunteren Habitus sofort
+von ihr zu unterscheiden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="80" y="1769"/>
+	<Point x="1778" y="1769"/>
+	<Point x="1778" y="2180"/>
+	<Point x="80" y="2180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Flügelform wie Certata, nur der Hinterﬂügelsaum noch
+stärker ausgezackt. Die Grundfarbe der Vorderﬂügel ist
+ein schönes Olivenbraun. Die Zeichnungen sind fast diesel-
+ben wie dort, nur treten sie weit schärfer hervor und un-
+terscheiden sich in Folgendem:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="71" y="2187"/>
+	<Point x="1767" y="2187"/>
+	<Point x="1767" y="2862"/>
+	<Point x="71" y="2862"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bei Varia beginnt das Mittelfeld (Mittelbinde) am Vor-
+derrande näher derWurzel. Bei Certata zieht der innere Rand
+desselben in sanftem Bogen vom Vorderrande zum Innen-
+rande, bei Varia dagegen ist er bei 1/3 in einem scharfen
+Winkel gebrochen *). Am äussern Saume der Mittelfelder
+sind die nach aussen vorspringenden Zacken bei Varia spit-
+zer, und dieses Feld beiderseits durch eine helle Linie scharf
+gesäumt. Auswärts folgt dann ein hell graubraunes Feld,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="14" y="2976"/>
+	<Point x="1746" y="2976"/>
+	<Point x="1746" y="3103"/>
+	<Point x="14" y="3103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*) Bei der sonst sehr treuen Abbildung ist dieser Winkel nicht scharf ge-
+nug markirt.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="19" y="2900"/>
+	<Point x="612" y="2900"/>
+	<Point x="612" y="2937"/>
+	<Point x="19" y="2937"/></Coords></SeparatorRegion></Page></PcGts>

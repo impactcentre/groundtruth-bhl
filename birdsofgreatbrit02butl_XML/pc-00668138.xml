@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668138">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T15:06:03</Created>
+	<LastChange>2012-02-10T09:52:39</LastChange></Metadata>
+	<Page imageFilename="00668138.tif" imageWidth="2293" imageHeight="3062">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="246" y="216"/>
+	<Point x="351" y="216"/>
+	<Point x="351" y="278"/>
+	<Point x="246" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>158</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1064" y="203"/>
+	<Point x="1301" y="203"/>
+	<Point x="1301" y="276"/>
+	<Point x="1064" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE JAY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="230" y="326"/>
+	<Point x="2114" y="314"/>
+	<Point x="2116" y="890"/>
+	<Point x="238" y="898"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>part of it while with its beak it tugs at another, after the manner of a hawk.
+My Jay would eat the orange berries of the Solanum, if hungry, but did not care
+in the least for yew and privet berries. Jay No. 2 devoured peas by making a
+hole in the side of the pod, and after it had got them all out it would amuse
+itself by pulling the pod to pieces, no doubt to look for more. Sparrow’s eggs
+dropped into the cage were adroitly caught before they reached the bottom, and
+a mouse or a shrew was very acceptable. Being put into the same cage as a
+Carrier Pigeon and a Turtle Dove, in spite of a disabled wing, and though the
+cage was nine feet long, the Jay soon despatched the latter by pecking its back.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="234" y="903"/>
+	<Point x="2115" y="893"/>
+	<Point x="2117" y="1264"/>
+	<Point x="240" y="1274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>As cage-birds Jays are great favourites, not only on account of their wonderful
+powers of mimicry, but because, as Lord Lilford says, “In captivity the Jay is a
+most amusing pet and becomes very tame. There is little trouble in keeping it
+in good health and condition, as in the matter of food scarcely anything comes
+amiss. We have found, however, that more than one of these birds in our
+possession preferred the eggs of small birds to any other food.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="238" y="1278"/>
+	<Point x="2112" y="1267"/>
+	<Point x="2116" y="2026"/>
+	<Point x="239" y="2029"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I became possessed of a young English Jay in the summer of 1898, and
+reared it satisfactorily; it proved to be the largest and most beautiful cock bird
+that I ever saw, either alive or dead. Although gifted in imitating cats, dogs,
+distant poultry, the sound of trumpet and jews’-harp, the splashing of water and
+mixing of bird-seed, I could only succeed in teaching it to say two words—“Hullo
+Jimmy!” which, however, have become its favourite utterances: it is extremely
+playful and expects me to stop and have a game with it every morning at feeding-
+time. For staple food I give a mixture of two parts crumb of stale household
+bread, one part powdered biscuit, one part egg, one part “Century Food.” It
+also has fruit (not orange, it won’t eat that, although my Blue-bearded Jay is
+fond of it), nuts, peas; insects of various kinds, especially cockroaches, worms,
+spiders and occasionally a dead mouse or bird; rarely a little minced raw beef.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="1093" y="2368"/>
+	<Point x="1093" y="2387"/>
+	<Point x="1302" y="2387"/>
+	<Point x="1302" y="2368"/></Coords></SeparatorRegion></Page></PcGts>

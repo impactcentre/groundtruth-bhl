@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00668615">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T16:10:33</Created>
+	<LastChange>2012-02-10T10:29:25</LastChange></Metadata>
+	<Page imageFilename="00668615.tif" imageWidth="2368" imageHeight="3167">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r36" index="7"/>
+	<RegionRefIndexed regionRef="r38" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r12" index="11"/>
+	<RegionRefIndexed regionRef="r13" index="12"/>
+	<RegionRefIndexed regionRef="r14" index="13"/>
+	<RegionRefIndexed regionRef="r15" index="14"/>
+	<RegionRefIndexed regionRef="r16" index="15"/>
+	<RegionRefIndexed regionRef="r17" index="16"/>
+	<RegionRefIndexed regionRef="r18" index="17"/>
+	<RegionRefIndexed regionRef="r20" index="18"/>
+	<RegionRefIndexed regionRef="r21" index="19"/>
+	<RegionRefIndexed regionRef="r22" index="20"/>
+	<RegionRefIndexed regionRef="r42" index="21"/>
+	<RegionRefIndexed regionRef="r46" index="22"/>
+	<RegionRefIndexed regionRef="r48" index="23"/>
+	<RegionRefIndexed regionRef="r24" index="24"/>
+	<RegionRefIndexed regionRef="r25" index="25"/>
+	<RegionRefIndexed regionRef="r51" index="26"/>
+	<RegionRefIndexed regionRef="r53" index="27"/>
+	<RegionRefIndexed regionRef="r27" index="28"/>
+	<RegionRefIndexed regionRef="r28" index="29"/>
+	<RegionRefIndexed regionRef="r29" index="30"/>
+	<RegionRefIndexed regionRef="r30" index="31"/>
+	<RegionRefIndexed regionRef="r31" index="32"/>
+	<RegionRefIndexed regionRef="r32" index="33"/>
+	<RegionRefIndexed regionRef="r33" index="34"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="959" y="226"/>
+	<Point x="1390" y="226"/>
+	<Point x="1390" y="300"/>
+	<Point x="959" y="300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1016" y="330"/>
+	<Point x="1352" y="330"/>
+	<Point x="1352" y="380"/>
+	<Point x="1016" y="380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PLATE LXXXVIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="461" y="423"/>
+	<Point x="952" y="423"/>
+	<Point x="952" y="476"/>
+	<Point x="461" y="476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 654. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="254" y="488"/>
+	<Point x="1157" y="488"/>
+	<Point x="1157" y="680"/>
+	<Point x="254" y="680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS EXIGUUS. Bul. testâ oblongâ, compressè umbili-
+catâ, anfractibus quinque, subrotundatis, columellâ
+verticaliter dilatatâ, aperturâ parvâ, rotundatâ, labro
+subreﬂexo; castaneo-corneâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="258" y="683"/>
+	<Point x="1154" y="683"/>
+	<Point x="1154" y="873"/>
+	<Point x="258" y="873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE PUNY BULIMUS. Shell oblong, compressly umbili-
+cated, whorls ﬁve in number, somewhat rounded,
+columella vertically dilated, aperture small, rounded,
+lip slightly reﬂected; chestnut horny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="261" y="875"/>
+	<Point x="671" y="875"/>
+	<Point x="671" y="921"/>
+	<Point x="261" y="921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. St. Domingo; Sallè.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="259" y="1366"/>
+	<Point x="1157" y="1366"/>
+	<Point x="1157" y="1557"/>
+	<Point x="259" y="1557"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MEIACOSHIMA BULIMUS. Shell somewhat pyra-
+midally oblong, scarcely umbilicated, whorls ten in
+number, rather narrow, columella vertically reﬂected,
+aperture rounded; transparent horny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="261" y="1560"/>
+	<Point x="1103" y="1560"/>
+	<Point x="1103" y="1605"/>
+	<Point x="261" y="1605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ADAMS and REEVE, Moll. Voy. Samarang, Pl. 14. f. 5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="261" y="1608"/>
+	<Point x="1161" y="1608"/>
+	<Point x="1161" y="1706"/>
+	<Point x="261" y="1706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Islands of Ty-pin-san and Koo-Kien-san of the
+Meiacoshima group, Yellow Sea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="258" y="1719"/>
+	<Point x="1164" y="1719"/>
+	<Point x="1164" y="1857"/>
+	<Point x="258" y="1857"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A small thin horny species, found by Mr. Arthur Adams
+on decayed leaves among the loose stones surrounding the
+tombs in the above-named islands.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="476" y="1942"/>
+	<Point x="948" y="1942"/>
+	<Point x="948" y="1990"/>
+	<Point x="476" y="1990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 656. (Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="261" y="2002"/>
+	<Point x="1165" y="2002"/>
+	<Point x="1165" y="2195"/>
+	<Point x="261" y="2195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS CONCENTRICUS. Bul. testâ subacuminato-oblongâ,
+vix umbilicatâ, anfractibus septem, subventricosis, con-
+centricè tenuistriatis, columellâ tenuè reﬂexâ, aperturâ
+subamplâ, supernè sinuatâ; pellucido-stramineâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="260" y="2198"/>
+	<Point x="1168" y="2198"/>
+	<Point x="1168" y="2437"/>
+	<Point x="260" y="2437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE CONCENTRIC BULIMUS. Shell somewhat acumi-
+nately oblong, scarcely umbilicated, whorls seven in
+number, rather ventricose, concentrically ﬁnely stri-
+ated, columella thinly reﬂected, aperture rather large,
+sinuated at the upper part; transparent straw-colour.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="265" y="2441"/>
+	<Point x="690" y="2441"/>
+	<Point x="690" y="2481"/>
+	<Point x="265" y="2481"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Liberia, West Africa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords>
+	<Point x="1411" y="426"/>
+	<Point x="1885" y="426"/>
+	<Point x="1885" y="476"/>
+	<Point x="1411" y="476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 148. (Mus. Metcalfe.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1196" y="488"/>
+	<Point x="2096" y="488"/>
+	<Point x="2097" y="773"/>
+	<Point x="1196" y="773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS HENNAHI. Bul. testâ acuminato-ovatâ, umbili-
+catâ, anfractibus sex ad septem, rotundatis, rugoso-stri-
+atis, columellâ reﬂexâ, aperturâ ovatâ, labro simplici;
+albidâ, lineis purpureo-nigricantibus longitudinaliter
+irregulariter notatâ, aperturœ fauce purpureo-nigri-
+cante, apice roseo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1203" y="778"/>
+	<Point x="2092" y="778"/>
+	<Point x="2092" y="1015"/>
+	<Point x="1204" y="1015"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HENNAH'S BULIMUS. Shell acuminately ovate, umbili-
+cated, whorls six to seven in number, rounded,
+roughly striated, columella reﬂected, aperture ovate,
+lip simple; whitish, irregularly longitudinally marked
+with purple-black lines, apex pink.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1201" y="1163"/>
+	<Point x="1383" y="1163"/>
+	<Point x="1383" y="1202"/>
+	<Point x="1201" y="1202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. Peru.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1203" y="1226"/>
+	<Point x="2100" y="1226"/>
+	<Point x="2100" y="1370"/>
+	<Point x="1203" y="1370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>To this species, which is extremely variable in colour,
+must be added B. erubescens, mihi, Sp. 148, of which it is
+a variety.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1204" y="1744"/>
+	<Point x="2098" y="1744"/>
+	<Point x="2098" y="1980"/>
+	<Point x="1204" y="1980"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SALLE BULIMUS. Shell subulate, rather solid, whorls
+eleven in number, ﬂattened, concentrically very ﬁnely
+striated, columella reﬂected, aperture small, slightly
+ﬂexuous at the base, lip simple; transparent white,
+covered with a thin epidermis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="1209" y="1983"/>
+	<Point x="1617" y="1983"/>
+	<Point x="1617" y="2028"/>
+	<Point x="1209" y="2028"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hab. St. Domingo: Sallè.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1246" y="2045"/>
+	<Point x="2090" y="2045"/>
+	<Point x="2090" y="2094"/>
+	<Point x="1246" y="2094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An interesting, sharply subulate, solid, ground species.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="heading">
+	<Coords>
+	<Point x="1434" y="2168"/>
+	<Point x="1860" y="2168"/>
+	<Point x="1860" y="2218"/>
+	<Point x="1434" y="2218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 658. (Mus. Miers.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1209" y="2234"/>
+	<Point x="2101" y="2234"/>
+	<Point x="2101" y="2524"/>
+	<Point x="1209" y="2524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS CONTORTUPLICATUS. Bul. testâ oblongo-ovatâ,
+subventricosâ, anfractibus quinque, convexis, minutis-
+simè indentatis, columellâ subincrassatâ, uniplicatâ,
+aperturâ oblongo-ovatâ, labro subincrassato, reﬂexo;
+albidâ, partim rosaceâ, epidermide tenui corneâ luteo-
+olivaceâ indutâ, aperturœ fauce albâ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1208" y="2528"/>
+	<Point x="2105" y="2528"/>
+	<Point x="2105" y="2622"/>
+	<Point x="1208" y="2622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TWISTED-PLAITED BULIMUS. Shell oblong-ovate,
+rather ventricose, whorls ﬁve in number, convex,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="1050" y="2661"/>
+	<Point x="1308" y="2661"/>
+	<Point x="1308" y="2708"/>
+	<Point x="1050" y="2708"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>February, 1850.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="254" y="937"/>
+	<Point x="1156" y="937"/>
+	<Point x="1156" y="1035"/>
+	<Point x="254" y="1035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A little dark horny species, approaching somewhat in
+general aspect to B. cænopictus of Hindoostan.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r34">
+	<Coords>
+	<Point x="485" y="1064"/>
+	<Point x="938" y="1064"/>
+	<Point x="938" y="1078"/>
+	<Point x="485" y="1078"/></Coords></SeparatorRegion>
+	<TextRegion id="r36" type="heading">
+	<Coords>
+	<Point x="473" y="1104"/>
+	<Point x="958" y="1104"/>
+	<Point x="958" y="1165"/>
+	<Point x="473" y="1165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 655. (Mus. Belcher.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="256" y="1173"/>
+	<Point x="1160" y="1173"/>
+	<Point x="1160" y="1359"/>
+	<Point x="256" y="1359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS MEIACOSHIMENSIS. Bul. testâ subpyramidali-
+oblongâ, vix umbilicatâ, anfractibus decem, subangustis,
+columellâ verticaliter reﬂexâ, aperturâ rotundâ; pellu-
+cido-corneâ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r39">
+	<Coords>
+	<Point x="478" y="1893"/>
+	<Point x="947" y="1893"/>
+	<Point x="947" y="1916"/>
+	<Point x="478" y="1916"/></Coords></SeparatorRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="264" y="2499"/>
+	<Point x="1167" y="2499"/>
+	<Point x="1167" y="2602"/>
+	<Point x="264" y="2602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An extremely delicate inﬂated species, of the Glandina
+type, allied to B. Guineensis.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r40">
+	<Coords>
+	<Point x="488" y="2616"/>
+	<Point x="943" y="2616"/>
+	<Point x="943" y="2629"/>
+	<Point x="488" y="2629"/></Coords></SeparatorRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="1198" y="1018"/>
+	<Point x="1973" y="1019"/>
+	<Point x="1973" y="1066"/>
+	<Point x="1198" y="1066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GRAY, Spicilegia Zoologica, part 1. p. 5. pl. 5. f. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="1208" y="1068"/>
+	<Point x="1968" y="1068"/>
+	<Point x="1968" y="1111"/>
+	<Point x="1208" y="1111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus lychnorum, Sowerby.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1208" y="1113"/>
+	<Point x="1968" y="1113"/>
+	<Point x="1968" y="1159"/>
+	<Point x="1208" y="1159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bulimus cactorum, D'Orbigny.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r49">
+	<Coords>
+	<Point x="1417" y="1394"/>
+	<Point x="1887" y="1394"/>
+	<Point x="1887" y="1411"/>
+	<Point x="1417" y="1411"/></Coords></SeparatorRegion>
+	<TextRegion id="r51" type="heading">
+	<Coords>
+	<Point x="1324" y="1432"/>
+	<Point x="1963" y="1432"/>
+	<Point x="1963" y="1493"/>
+	<Point x="1324" y="1493"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Species 657. (Fig. a, b, c, Mus. Cuming.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="1205" y="1501"/>
+	<Point x="2111" y="1501"/>
+	<Point x="2111" y="1737"/>
+	<Point x="1205" y="1737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BULIMUS SALLEANUS. Bul. testâ subulatâ, solidiusculâ,
+anfractibus undecim, planulatis, concentricè tenuis-
+simè striatis, columellâ reﬂexâ, aperturâ parvâ, basi
+subﬂexuosâ, labro simplici; albicante, epidermide tenui
+indutâ.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r54">
+	<Coords>
+	<Point x="1429" y="2127"/>
+	<Point x="1876" y="2127"/>
+	<Point x="1876" y="2148"/>
+	<Point x="1429" y="2148"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r56">
+	<Coords>
+	<Point x="1171" y="434"/>
+	<Point x="1182" y="2624"/>
+	<Point x="1197" y="2624"/>
+	<Point x="1194" y="910"/>
+	<Point x="1188" y="434"/></Coords></SeparatorRegion></Page></PcGts>

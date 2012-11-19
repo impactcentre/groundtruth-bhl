@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672273">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T05:57:12</Created>
+	<LastChange>2012-02-10T09:54:17</LastChange></Metadata>
+	<Page imageFilename="00672273.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="762" y="126"/>
+	<Point x="1064" y="126"/>
+	<Point x="1064" y="212"/>
+	<Point x="762" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 79 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="46" y="251"/>
+	<Point x="1798" y="251"/>
+	<Point x="1798" y="774"/>
+	<Point x="46" y="774"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Erastria Diaphora Stgr. Von dieser neuen Art erhielt
+ich noch ein ♀ durch meinen Freund Dr. G. Radde vom
+Göduk-Pass aus Armenien. Dasselbe ist etwas gelblicher und
+führt noch einen ganz kleinen dunklen Vorderrandsﬂeck vor der
+hier schmäleren und kürzeren dunklen Aussenrandsbinde. Alles
+übrige ist gleich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="51" y="783"/>
+	<Point x="1792" y="783"/>
+	<Point x="1792" y="1539"/>
+	<Point x="51" y="1539"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Euclidia Triquetra F. var. Aurantiaca Stgr. Eine grös‐
+sere Anzahl von Stücken dieser Art, die Johann noch ein‐
+sandte, haben alle hoch orangerothe Hinterﬂügel mit schwärze‐
+rer, fast stets durchbrochener Aussenrandsbinde. Auch die
+Vorderﬂügel sind nicht so mattgrau wie bei den ungarischen
+Stücken, sondern etwas in’s Braune spielend, und die schwar‐
+zen Flecken schärfer markirt. Es ist daher angezeigt, diese
+konstante, ziemlich verschiedene Form als eine Lokalvarietät
+mit dem Namen v. Aurantiaca zu bezeichnen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="53" y="1549"/>
+	<Point x="1803" y="1549"/>
+	<Point x="1803" y="2308"/>
+	<Point x="53" y="2308"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Abraxas Adustata Schiff. var. Lassulata Roghf. (Insper-
+sata Stgr.). Durch die Güte des Herrn M. Wiskott, in
+dessem Besitz jetzt das Original von Lassulata ist, erhielt ich
+dasselbe zur Ansicht eingesandt. Hierdurch überzeugte ich
+mich, dass dasselbe ein besonders grau angeﬂogenes (auch et‐
+was geﬂogenes) Stück der im Vorhergehenden beschriebenen
+Adustata var. ist, so dass der Name Lassulata für diese Va‐
+rietät bleiben muss. Es ﬁnden sich alle Uebergänge fast bis
+zur typischen deutschen Adustata vor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="67" y="2321"/>
+	<Point x="1810" y="2321"/>
+	<Point x="1814" y="2564"/>
+	<Point x="71" y="2571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bapta Pictaria Curt. Hiervon sandte Johann mehrere
+am 1 und 2 April gefangene Stücke ein, die den europäischen
+ganz gleich kommen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="78" y="2583"/>
+	<Point x="1803" y="2583"/>
+	<Point x="1803" y="3089"/>
+	<Point x="78" y="3089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dasycephala Modesta Stgr. Johann sandte mir von
+dieser hochinteressanten Art noch ein am 18 April gefange‐
+nes, aber etwas verunglücktes Stück, leider auch ein ♀, aus
+Amasia ein. Dasselbe stimmt mit dem beschriebenen vollstän‐
+dig, nur ist es etwas kleiner und der Thorax wie die Vor‐
+derﬂügel sind noch röthlicher grau.</Unicode></TextEquiv></TextRegion></Page></PcGts>

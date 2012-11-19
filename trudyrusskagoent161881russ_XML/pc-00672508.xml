@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672508">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T11:48:00</Created>
+	<LastChange>2012-02-10T09:55:03</LastChange></Metadata>
+	<Page imageFilename="00672508.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="964" y="112"/>
+	<Point x="1273" y="112"/>
+	<Point x="1273" y="176"/>
+	<Point x="964" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 312 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="246" y="239"/>
+	<Point x="1987" y="239"/>
+	<Point x="1987" y="499"/>
+	<Point x="246" y="499"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>liche Trennung der Längsbinde in 2 längliche Makeln schliessen
+lässt. Punktreihen fein und ﬂach. Geschlechtsunterschiede wie
+bei 4-fasciatus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="358" y="503"/>
+	<Point x="1592" y="503"/>
+	<Point x="1592" y="594"/>
+	<Point x="358" y="594"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von Haberhauer ara Ala Tau gesammelt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="241" y="608"/>
+	<Point x="1999" y="608"/>
+	<Point x="1999" y="864"/>
+	<Point x="241" y="864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Auf die Arten dieser Gattung, welche sich in ihrer Form
+dem gestreckten 4-guttatus Gebl. nähern, ist von Le Conte
+die Gattung Trichalophus errichtet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="249" y="926"/>
+	<Point x="2007" y="926"/>
+	<Point x="2007" y="1760"/>
+	<Point x="249" y="1760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grypidius Mannerheimi n. sp. Ovatus, convexus, ni-
+ger, supra squamulis cinereis et umbrinis tectus, setosus, sub-
+tus pilosus; antennis tibiisque ferrugineis; rostro longissimo,
+arcuato, fortiter punctato; prothorace subgloboso, convexo,
+grosse disperseque punctato, vittis 3 dilutioribus; elytris hu-
+meris magis rotundatis, vix prominulis, lateribus rotundato-am-
+pliatis, apice conjunctim obtuse rotundatis, profunde punctato-
+striatis, interstitiis planis, rugoso-punctatis, subseriatim setosis;
+pectore abdomineque punctatissimis; unguiculis brevibus, minus
+distantibus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="374" y="1785"/>
+	<Point x="1333" y="1785"/>
+	<Point x="1333" y="1871"/>
+	<Point x="374" y="1871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Long. 4,7—6, lat. 2,1—2,8 Mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="251" y="1946"/>
+	<Point x="2010" y="1946"/>
+	<Point x="2012" y="2791"/>
+	<Point x="249" y="2791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Von Brunnirostris sogleich durch das Fehlen der eckigen
+Schultern, die in der Mitte deutlich gerundet erweiterten,
+hinten stumpf gerundeten Decken mit tiefen scharfrandigen
+Streifen, grobe und zerstreute Punkte auf dem kuglig gewölbten
+Thorax, den längeren kräftiger punktirten Rüssel und die
+kleinen, freien, weniger gespreizten Krallen, zu trennen. Bei
+Equiseti und Brunnirostris sind die Seiten hinter den deut-
+lichen Schultern etwas eingezogen, dann bis zur hinteren Wöl-
+bung parallel, bei Mannerheimi gleich von den Schultern an
+gerundet erweitert.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="266" y="2801"/>
+	<Point x="2005" y="2801"/>
+	<Point x="2005" y="3057"/>
+	<Point x="266" y="3057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Schildchen deutlich, länglich, leicht erhaben. Decken an
+der Basis quer hoch gewölbt, nach vorne ziemlich steil abfal-
+lend, hinten weniger steil aber immer steiler als bei den bei-</Unicode></TextEquiv></TextRegion></Page></PcGts>

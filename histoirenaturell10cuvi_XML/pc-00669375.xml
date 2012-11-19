@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00669375">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-08T21:58:29</Created>
+	<LastChange>2012-03-12T14:33:58</LastChange></Metadata>
+	<Page imageFilename="00669375.tif" imageWidth="1876" imageHeight="3225">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="54" y="304"/>
+	<Point x="1469" y="304"/>
+	<Point x="1471" y="882"/>
+	<Point x="1333" y="883"/>
+	<Point x="1320" y="902"/>
+	<Point x="54" y="902"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Il y a grande apparence que c'est la même
+espèce qui se montre en abondance au prin-
+temps sur les côtes de Galice, et que Cornide
+assure s'y nommer pion et pialla; mais cet
+auteur, comme tant d'autres, s'est borné à
+copier le caractère donné par Linné et pris du
+sauclet1: pinnæ ani radiis fere XII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="57" y="904"/>
+	<Point x="1350" y="904"/>
+	<Point x="1363" y="890"/>
+	<Point x="1484" y="890"/>
+	<Point x="1484" y="1309"/>
+	<Point x="1367" y="1308"/>
+	<Point x="1355" y="1328"/>
+	<Point x="57" y="1328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est aussi le petit poisson décrit par Os-
+beck sur les côtes d'Espagne, et qu'il ne put
+nommer, mais qu'il compare à l'éperlan: les
+seize rayons comptés à l'anale, suﬃsent pour
+le prouver.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="58" y="1331"/>
+	<Point x="1370" y="1331"/>
+	<Point x="1381" y="1318"/>
+	<Point x="1486" y="1318"/>
+	<Point x="1486" y="1653"/>
+	<Point x="1386" y="1654"/>
+	<Point x="1353" y="1662"/>
+	<Point x="677" y="1664"/>
+	<Point x="640" y="1668"/>
+	<Point x="58" y="1669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C'est probablement encore cette espèce
+que Pennant dit être si commune au prin-
+temps dans la baie de Southampton, et qu'on
+y appelle aussi éperlan (en anglais smelt).3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="58" y="1673"/>
+	<Point x="648" y="1671"/>
+	<Point x="673" y="1668"/>
+	<Point x="725" y="1669"/>
+	<Point x="1362" y="1668"/>
+	<Point x="1384" y="1662"/>
+	<Point x="1495" y="1662"/>
+	<Point x="1498" y="2251"/>
+	<Point x="895" y="2250"/>
+	<Point x="852" y="2266"/>
+	<Point x="57" y="2266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Brünnich dit avoir vu en abondance à l'île
+de Sheppy une athérine qu'il croit la même
+que le sauclet de Marseille4; mais comme il
+ne décrit ni l'une ni l'autre, on peut soup-
+çonner qu'il ne les avait pas mieux comparés
+que les autres naturalistes, et que l'athérine de
+Sheppy était toujours notre roséré.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="71" y="2269"/>
+	<Point x="859" y="2269"/>
+	<Point x="891" y="2258"/>
+	<Point x="1492" y="2258"/>
+	<Point x="1492" y="2440"/>
+	<Point x="71" y="2440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gronovius dit qu'il y a des athérines dans
+la mer d'Allemagne; mais si son individu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords>
+	<Point x="81" y="2492"/>
+	<Point x="1490" y="2492"/>
+	<Point x="1490" y="2698"/>
+	<Point x="81" y="2698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Cornide, Ensayo de los peces, etc., p. 89. — 2. Osbeck,
+Nov. act. nat. curios., t. IV, p. 103, n.° 22. — 3. Brit. Zool.,
+t. III, p. 287, n.° 157	. — 4. Ichthyol. Massil., p. 80 et 81.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="76" y="2453"/>
+	<Point x="1510" y="2453"/>
+	<Point x="1510" y="2481"/>
+	<Point x="76" y="2481"/></Coords></SeparatorRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1466" y="197"/>
+	<Point x="1466" y="280"/>
+	<Point x="1324" y="280"/>
+	<Point x="1324" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>443</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="915" y="197"/>
+	<Point x="915" y="280"/>
+	<Point x="606" y="280"/>
+	<Point x="606" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATHÉRINES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

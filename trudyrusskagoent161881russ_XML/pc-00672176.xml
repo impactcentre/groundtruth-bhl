@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672176">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T13:40:13</Created>
+	<LastChange>2012-02-10T09:53:54</LastChange></Metadata>
+	<Page imageFilename="00672176.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="800" y="379"/>
+	<Point x="1594" y="379"/>
+	<Point x="1594" y="486"/>
+	<Point x="800" y="486"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sitzung am 8 (20) Januar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="508" y="505"/>
+	<Point x="1870" y="505"/>
+	<Point x="1870" y="594"/>
+	<Point x="508" y="594"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>unter dem Vorsitze des Präsidenten O. Radoczkowsky.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="332" y="617"/>
+	<Point x="2060" y="617"/>
+	<Point x="2060" y="840"/>
+	<Point x="332" y="840"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Sitzung wurde durch den Besuch des wirklichen Mitgliedes
+der Gesellschaft Seine Kaiserliche Hoheit den Grossfürsten Nicolai
+Michailowitsch beehrt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="335" y="848"/>
+	<Point x="2058" y="848"/>
+	<Point x="2058" y="998"/>
+	<Point x="335" y="998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O. Radoczkowsky machte Mittheilungen über den Bau des
+Nestes von Megachile ruﬁtarsis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="329" y="1003"/>
+	<Point x="2054" y="1003"/>
+	<Point x="2054" y="1152"/>
+	<Point x="329" y="1152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ph. Owsjannikow theilte die Resultate seiner Beobachtungen
+über die Stiche des Argus persicus an Kaninchen mit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="335" y="1160"/>
+	<Point x="2058" y="1160"/>
+	<Point x="2058" y="1307"/>
+	<Point x="335" y="1307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ed. Brandt legte seine Untersuchungen über die Anatomie des
+Hepialus humuli vor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="327" y="1314"/>
+	<Point x="2072" y="1314"/>
+	<Point x="2072" y="2946"/>
+	<Point x="327" y="2946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die Organisation dieses Schmetterlinges zeigt sehr originelle auf
+Hemmungsbildungen zurückführbare Eigenthümlichkeiten. Die Mund-
+theile sind sehr rudimentär; ein Rüssel fehlt gänzlich. Der Thorax
+wird aus drei vollkommen getrennten Ringen gebildet. Hierbei muss
+bemerkt werden, dass überhaupt alle Lepidopteren drei distincte
+Thoracalringe besitzen, die gar nicht unter einander verwachsen,
+wie es allgemein angenommen wird. Der Kropf bildet nicht einen
+gestielten Anhang der Speiseröhre, sondern er erscheint nur als eine
+continuirliche Erweiterung des hinteren Endes der Speiseröhre, wie
+bei der Puppe. Die Athemorgane entsprechen in ihrer Anordnung
+denen der Raupe; das Herz besitzt acht Kammern. An den weibli‐
+chen Genitalien werden die glandulae appendiculares vermisst, eine
+Bildungshemmung; sonst sind zwei Eierstöcke, zwei Eileiter, eine
+vagina, ein receptaculum seminis und eine bursa copulatrix vorhan‐
+den. Die männlichen Geschlechtsorgane bestehen aus zwei Hoden,
+zwei Saamengefässen, einem gemeinschaftlichen Saamenleiter, zwei
+accessorischen Drüsen und einem Penis. Die beiden aus je vier ge‐
+trennten Follikeln bestehenden Testikel bleiben zeitlebens getrennt,
+während sie bei den meisten Lepidopteren bekanntlich im Puppen‐
+zustande mit einander verschmelzen. Das Nervensystem besteht ausser
+dem gangl. supra- und infraoesophageum noch aus drei Thorax-
+knoten und 5 Bauchganglien, während bei allen übrigen Schmetter‐
+lingen nur vier Bauchknoten vorhanden sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="323" y="2949"/>
+	<Point x="2051" y="2949"/>
+	<Point x="2051" y="3096"/>
+	<Point x="323" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N. A. Poletaiew machte Mittheilungen über die Muskulatur des
+Thorax bei den Libelluliden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1033" y="116"/>
+	<Point x="1033" y="192"/>
+	<Point x="1390" y="192"/>
+	<Point x="1390" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— IV —</Unicode></TextEquiv></TextRegion></Page></PcGts>

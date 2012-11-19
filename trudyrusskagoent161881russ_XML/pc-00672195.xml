@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672195">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-11T21:43:41</Created>
+	<LastChange>2012-02-10T09:53:59</LastChange></Metadata>
+	<Page imageFilename="00672195.tif" imageWidth="2183" imageHeight="3294">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r18" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="signature-mark">
+	<Coords>
+	<Point x="248" y="3205"/>
+	<Point x="555" y="3205"/>
+	<Point x="555" y="3251"/>
+	<Point x="248" y="3251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. S. E. R. XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="1655" y="3214"/>
+	<Point x="1655" y="3260"/>
+	<Point x="1696" y="3260"/>
+	<Point x="1696" y="3214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="339" y="1529"/>
+	<Point x="1591" y="1529"/>
+	<Point x="1591" y="1658"/>
+	<Point x="339" y="1658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SCIENTIFIQUES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="644" y="1178"/>
+	<Point x="1275" y="1178"/>
+	<Point x="1275" y="1324"/>
+	<Point x="644" y="1324"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MATÉRIAUX</Unicode></TextEquiv></TextRegion></Page></PcGts>

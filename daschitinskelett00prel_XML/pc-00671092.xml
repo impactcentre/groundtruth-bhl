@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00671092">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-12T18:45:06</Created>
+	<LastChange>2012-03-12T14:34:04</LastChange></Metadata>
+	<Page imageFilename="00671092.tif" imageWidth="2548" imageHeight="3454">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1189" y="323"/>
+	<Point x="1467" y="323"/>
+	<Point x="1467" y="391"/>
+	<Point x="1189" y="391"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 32 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="250" y="423"/>
+	<Point x="2385" y="423"/>
+	<Point x="2391" y="630"/>
+	<Point x="1880" y="630"/>
+	<Point x="1862" y="634"/>
+	<Point x="1067" y="626"/>
+	<Point x="1056" y="635"/>
+	<Point x="254" y="632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>von Tomocerus dem Fusionsprodukt von Mentum und Palpus entspricht und nicht dem Palpus allein.
+Ob der „Schild“ des Labiums von Tomocerus homolog mit dem Submentum von Eosentomon ist,
+muß nach den embryologischen Ergebnissen von Hoffmann als fraglich betrachtet werden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="251" y="635"/>
+	<Point x="769" y="638"/>
+	<Point x="1062" y="639"/>
+	<Point x="1073" y="635"/>
+	<Point x="2385" y="637"/>
+	<Point x="2380" y="805"/>
+	<Point x="250" y="818"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zum Schlusse erscheint es noch wünschenswert, tabellarisch die Homologieen zwischen den
+einzelnen Komponenten der Mundteile, der Schreitbeine und einer hypothetischen ein ästigen
+Urextremität zusammenzustellen.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords>
+	<Point x="425" y="841"/>
+	<Point x="2223" y="841"/>
+	<Point x="2223" y="1546"/>
+	<Point x="425" y="1546"/></Coords></TableRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="259" y="1580"/>
+	<Point x="2380" y="1580"/>
+	<Point x="2380" y="1910"/>
+	<Point x="259" y="1910"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Die entsprechenden Abschnitte am Crustaceenbein habe ich dabei nur in Klammern beigefügt,
+weil es mir noch keineswegs sicher erwiesen scheint, daß es sich um echte Homologie und nicht nur
+um eine durch eine parallele Entwicklung entstandene Homoplasie (Lankester) handelt; aus
+diesem Grunde blieben auch die äußeren Coxomerite (Epipodit und Exopodit) der Crustaceen un‐
+berücksichtigt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="570" y="1966"/>
+	<Point x="2057" y="1966"/>
+	<Point x="2057" y="2044"/>
+	<Point x="570" y="2044"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B. Die Bedeutung der Sklerite im Bauplan der Thorakalsegmente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="264" y="2051"/>
+	<Point x="2377" y="2051"/>
+	<Point x="2376" y="2496"/>
+	<Point x="1650" y="2495"/>
+	<Point x="1623" y="2504"/>
+	<Point x="1577" y="2504"/>
+	<Point x="1570" y="2498"/>
+	<Point x="671" y="2496"/>
+	<Point x="653" y="2501"/>
+	<Point x="603" y="2501"/>
+	<Point x="587" y="2493"/>
+	<Point x="263" y="2492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Schon seit langem hat sich die vergleichende Entomologie bemüht, den ursprünglichen Aufbau
+des Insektenthorax aufzuklären. Versuche zur Rekonstruktion eines Schema für ein Insekten‐
+segment, auf welches sich alle verschiedenen, bei den ein zelnenrezenten Insektengruppen vorkom‐
+menden Modifikationen zurückführen lassen sollten, sind bereits vielfach gemacht worden. Ver‐
+gleichend morphologische Untersuchungen führten dabei die Autoren zu ganz verschiedenen Ergeb‐
+nissen und neben die alte Auffassung von der Einheit der Segmente traten andere, welche ihre
+Zusammensetzung aus zwei, drei oder vier Metameren verteidigen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="263" y="2498"/>
+	<Point x="573" y="2500"/>
+	<Point x="603" y="2504"/>
+	<Point x="673" y="2503"/>
+	<Point x="677" y="2500"/>
+	<Point x="1563" y="2506"/>
+	<Point x="1590" y="2508"/>
+	<Point x="1638" y="2508"/>
+	<Point x="1653" y="2503"/>
+	<Point x="2380" y="2503"/>
+	<Point x="2385" y="3136"/>
+	<Point x="257" y="3123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es lag nahe, in der Untersuchung der Proturen Hinweise darauf zu suchen, welche dieser
+Theorien wohl die wahrscheinlichste sei. Dazu war es erforderlich, die bei den Proturen gemachten
+Erfahrungen in Beziehung zu setzen mit den Verhältnissen bei den höheren Insekten. Daß diese
+Vergleiche nicht überall mit derselben Sicherheit durchgeführt werden konnten, liegt bei den tief-
+greifenden Modifikationen der Thorakalsegmente auf der Hand, zumal meist nur Literaturangaben
+benutzt werden konnten, ohne daß eine Nachuntersuchung möglich war. Aus diesem Grunde wurde
+dort, wo es sich hauptsächlich um theoretische Erwägung handelt, ausdrücklich auf ihre hypothetische
+Natur hingewiesen. Die Behandlung des Stoffes selbst ist so angeordnet, daß zuerst die Sklerite in
+ihrer axialen Zusammengehörigkeit besprochen werden, und dann hieraus die Begründung für die
+Nomenklatur und Schlüsse für die Zusammensetzung der Segmente entnommen werden. Von einer</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672583">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2011-08-10T04:01:09</Created>
+	<LastChange>2012-02-10T09:55:14</LastChange></Metadata>
+	<Page imageFilename="00672583.tif" imageWidth="2109" imageHeight="3276">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r14" index="6"/>
+	<RegionRefIndexed regionRef="r16" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r10" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="751" y="182"/>
+	<Point x="1055" y="182"/>
+	<Point x="1055" y="249"/>
+	<Point x="751" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— 387 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="41" y="308"/>
+	<Point x="1764" y="308"/>
+	<Point x="1764" y="648"/>
+	<Point x="41" y="648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7000' d'altitude (peut être même au dessus) durant tout l'été;
+cependant je ne trouvai pas de forme correspondante à la var.
+Aestiva Stgr. (génération II), caractérisée par une teinte bru-
+nâtre prononcée sur le revers des ailes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="41" y="655"/>
+	<Point x="1769" y="655"/>
+	<Point x="1769" y="1075"/>
+	<Point x="41" y="1075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cela s'explique pour les hautes régions, par l'absence de
+la II génération, car je ne puis y admettre qu'une seule, con-
+tinue, pour cette espèce. Il se pourrait qu'il y eut près de
+Kouldjà une II génération, qui correspondrait à celle d'Europe,
+mais les données à ce sujet me manquent complêtement.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="664" y="1148"/>
+	<Point x="1137" y="1148"/>
+	<Point x="1137" y="1224"/>
+	<Point x="664" y="1224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>43. L. Eros О.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="41" y="1314"/>
+	<Point x="1778" y="1314"/>
+	<Point x="1778" y="1905"/>
+	<Point x="41" y="1905"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le 18 Juin, nous prîmes près de l'Archane (6500') un
+♂ de l'Eros, dont les points ocellés du revers sont plus forts
+que chez tous les individus des Alpes Européennes de ma col-
+lection. Il est fort probable que cette espèce soit plus ou
+moins modiﬁée dans le Tian-Chian; mais, ce ♂ n'étant pas
+d'une grande fraîcheur et en même temps étant le seul que
+nous ayons vu, je n'en puis dire d'avantage.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="41" y="1912"/>
+	<Point x="1785" y="1912"/>
+	<Point x="1785" y="2071"/>
+	<Point x="41" y="2071"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quant à la couleur bleue du dessus, elle est parfaîtement
+pareille à celle de nos individus d'Europe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="160" y="2075"/>
+	<Point x="1769" y="2075"/>
+	<Point x="1769" y="2160"/>
+	<Point x="160" y="2160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ce ♂ est de la taille des grands individus de la Suisse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="162" y="2532"/>
+	<Point x="541" y="2532"/>
+	<Point x="541" y="2612"/>
+	<Point x="162" y="2612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oculis nudis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="48" y="2624"/>
+	<Point x="1783" y="2624"/>
+	<Point x="1783" y="2869"/>
+	<Point x="48" y="2869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂ dilute violaceo-caeruleus albo-ciliatus, margine tenui ni-
+gro-fusco. Alae posticae punctis submarginalibus latoque mar-
+gine antico fuscis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="46" y="2878"/>
+	<Point x="1785" y="2878"/>
+	<Point x="1785" y="3124"/>
+	<Point x="46" y="3124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♀ fusca, anticis puncto centrali obscuriori; posticis punctis
+submarginalibus obscurioribus, maculis (subnullis) fulvis super-
+positis. Ciliis fuscescenti interruptis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="1541" y="3139"/>
+	<Point x="1630" y="3139"/>
+	<Point x="1630" y="3198"/>
+	<Point x="1541" y="3198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>25*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="1610" y="2228"/>
+	<Point x="1610" y="2349"/>
+	<Point x="205" y="2349"/>
+	<Point x="205" y="2228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>44. L. Sarta Alph. nov. sp. Tab. XIV, ﬁg. 8.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1610" y="2351"/>
+	<Point x="1610" y="2453"/>
+	<Point x="205" y="2453"/>
+	<Point x="205" y="2351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>♂♂ 26 — 27; ♀ 27½ mill.</Unicode></TextEquiv></TextRegion></Page></PcGts>
